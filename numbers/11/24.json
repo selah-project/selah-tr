@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Moşe çıktı ve halka Yahve'nin sözlerini söyledi; ve halkın ihtiyarlarından yetmiş adam topladı ve onları çadırın çevresine durdurdu ⟨אתם⟩.",
+  "translation": "Moşe çıktı ve halka Yahve'nin sözlerini söyledi; ve halkın ihtiyarlarından yetmiş adam topladı ve onları çadırın çevresine durdurdu ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "onları"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": "çadırın"
     }
   ],
-  "timestamp": "2026-08-19T07:36:08.454142199Z",
+  "timestamp": "2026-08-19T13:06:16.041039088Z",
   "model": "glm-5.3"
 }

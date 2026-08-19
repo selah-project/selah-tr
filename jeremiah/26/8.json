@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 26,
-  "translation": "Ve oldu: Yirmeyahu, Yahve'nin bütün halka söylemesini buyurduğu ⟨את⟩ her şeyi söylemeyi bitirince, kâhinler ve peygamberler ve bütün halk onu yakalayıp ⟨אתו⟩ dediler ki: «Kesinlikle öleceksin!»",
+  "translation": "Ve oldu: Yirmeyahu, Yahve'nin bütün halka söylemesini buyurduğu ⟨את⟩ her şeyi söylemeyi bitirince, kâhinler ve peygamberler ve bütün halk onu yakalayıp ⟨את⟩ ⟨אתו⟩ dediler ki: «Kesinlikle öleceksin!»",
   "tokens": [
     {
       "surface": "ויהי",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "onu"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "öleceksin"
     }
   ],
-  "timestamp": "2026-08-19T12:18:53.836788503Z",
+  "timestamp": "2026-08-19T13:06:16.020004832Z",
   "model": "glm-5.3"
 }

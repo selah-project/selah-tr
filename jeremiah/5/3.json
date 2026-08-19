@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Yahve, gözlerin sadakate bakmıyor mu? Onları vurdun ⟨אתטם⟩, ama ağlamadılar; onları tükettin, terbiyeyi kabul etmeyi reddettiler; yüzlerini kayadan daha sert yaptılar, dönmeyi reddettiler.",
+  "translation": "Yahve, gözlerin sadakate bakmıyor mu? Onları vurdun ⟨את⟩ ⟨אתטם⟩, ama ağlamadılar; onları tükettin, terbiyeyi kabul etmeyi reddettiler; yüzlerini kayadan daha sert yaptılar, dönmeyi reddettiler.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתטם⟩",
+      "gloss": "⟨את⟩ ⟨אתטם⟩",
       "marks": "onları"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "dönmeyi"
     }
   ],
-  "timestamp": "2026-08-19T10:06:09.549448033Z",
+  "timestamp": "2026-08-19T13:06:16.018982421Z",
   "model": "glm-5.3"
 }

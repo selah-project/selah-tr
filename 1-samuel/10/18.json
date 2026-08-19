@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Yisrael oğullarına dedi: Böyle dedi Yisrael'in Elohim'i Yahve: Ben Yisrael'i Mısır'dan çıkardım ⟨את⟩, ve sizi Mısırlıların elinden ve sizi ezen bütün krallıkların elinden kurtardım ⟨אתכם⟩.",
+  "translation": "Yisrael oğullarına dedi: Böyle dedi Yisrael'in Elohim'i Yahve: Ben Yisrael'i Mısır'dan çıkardım ⟨את⟩, ve sizi Mısırlıların elinden ve sizi ezen bütün krallıkların elinden kurtardım ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "siz"
     },
     {
@@ -99,10 +99,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "siz"
     }
   ],
-  "timestamp": "2026-08-19T09:22:52.007193545Z",
+  "timestamp": "2026-08-19T13:06:16.030641945Z",
   "model": "glm-5.3"
 }

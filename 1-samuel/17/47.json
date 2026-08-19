@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 17,
-  "translation": "Ve bütün bu cemaat bilecek ki Yahve kılıçla ve mızrakla kurtarmaz; çünkü savaş Yahve'nindir; ve ⟨o⟩ sizi ⟨אתכם⟩ elimize verecek.",
+  "translation": "Ve bütün bu cemaat bilecek ki Yahve kılıçla ve mızrakla kurtarmaz; çünkü savaş Yahve'nindir; ve ⟨o⟩ sizi ⟨את⟩ ⟨אתכם⟩ elimize verecek.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "sizi"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "elimize"
     }
   ],
-  "timestamp": "2026-08-19T09:25:02.045208498Z",
+  "timestamp": "2026-08-19T13:06:16.031226068Z",
   "model": "glm-5.3"
 }

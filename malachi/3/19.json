@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Çünkü işte o gün geliyor, tandır gibi yanarak; ve olacak bütün kibirliler ve bütün kötülük yapanlar saman gibi; ve onları ⟨אתם⟩ yakıp kavuracak o gelen gün, dedi Yahve Tsevaot; ki onlara bırakmayacak kök ne dal.",
+  "translation": "Çünkü işte o gün geliyor, tandır gibi yanarak; ve olacak bütün kibirliler ve bütün kötülük yapanlar saman gibi; ve onları ⟨את⟩ ⟨אתם⟩ yakıp kavuracak o gelen gün, dedi Yahve Tsevaot; ki onlara bırakmayacak kök ne dal.",
   "tokens": [
     {
       "surface": "כי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "onları"
     },
     {
@@ -113,6 +113,6 @@
       "gloss": "ve dal"
     }
   ],
-  "timestamp": "2026-08-19T10:50:46.901907294Z",
+  "timestamp": "2026-08-19T13:06:16.028423963Z",
   "model": "glm-5.3"
 }

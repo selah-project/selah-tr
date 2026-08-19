@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve ona böyle oldu: halk onu ⟨אתו⟩ kapıda çiğnedi ve o öldü.",
+  "translation": "Ve ona böyle oldu: halk onu ⟨את⟩ ⟨אתו⟩ kapıda çiğnedi ve o öldü.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "onu"
     },
     {
@@ -41,6 +41,6 @@
       "gloss": "ve o öldü"
     }
   ],
-  "timestamp": "2026-08-19T09:46:00.822084169Z",
+  "timestamp": "2026-08-19T13:06:16.035363027Z",
   "model": "glm-5.3"
 }

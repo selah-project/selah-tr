@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Onları da ⟨אתם⟩ Kral Duvid Yahve'ye kutsadı; boyun eğdiği bütün uluslardan kutsadığı gümüş ve altınla birlikte.",
+  "translation": "Onları da ⟨את⟩ ⟨אתם⟩ Kral Duvid Yahve'ye kutsadı; boyun eğdiği bütün uluslardan kutsadığı gümüş ve altınla birlikte.",
   "tokens": [
     {
       "surface": "גם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "onları"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "boyun eğdiği"
     }
   ],
-  "timestamp": "2026-08-19T09:31:01.276195762Z",
+  "timestamp": "2026-08-19T13:06:16.010294274Z",
   "model": "glm-5.3"
 }

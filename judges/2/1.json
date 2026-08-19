@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Yahve'nin meleği Gilgal'dan Bokim'e çıktı ve dedi: Sizleri Mısır'dan çıkardım ve sizleri atalarınıza ant içtiğim ülkeye getirdim ve dedim: Antlaşmamı ⟨אתכם⟩ sizinle ebediyen bozmayacağım.",
+  "translation": "Yahve'nin meleği Gilgal'dan Bokim'e çıktı ve dedi: Sizleri Mısır'dan çıkardım ve sizleri atalarınıza ant içtiğim ülkeye getirdim ve dedim: Antlaşmamı ⟨את⟩ ⟨אתכם⟩ sizinle ebediyen bozmayacağım.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "sizleri"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "sizleri"
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "sizinle"
     },
     {
@@ -107,6 +107,6 @@
       "gloss": "ebediyen"
     }
   ],
-  "timestamp": "2026-08-19T09:15:18.854823163Z",
+  "timestamp": "2026-08-19T13:06:16.017981782Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 25,
-  "translation": "Ve sırıkları ⟨את⟩ şitim ağacından yapacaksın ve onları ⟨אתם⟩ altınla kaplayacaksın ve ⟨את⟩ masa onlarla taşınacak.",
+  "translation": "Ve sırıkları ⟨את⟩ şitim ağacından yapacaksın ve onları ⟨את⟩ ⟨אתם⟩ altınla kaplayacaksın ve ⟨את⟩ masa onlarla taşınacak.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "onları"
     },
     {
@@ -59,6 +59,6 @@
       "gloss": "masayı"
     }
   ],
-  "timestamp": "2026-08-19T07:17:19.326327285Z",
+  "timestamp": "2026-08-19T13:06:16.026238144Z",
   "model": "glm-5.3"
 }

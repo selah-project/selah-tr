@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Teraḥ yetmiş yıl yaşadı ve Avram'ı ⟨את⟩, Nahor'u ⟨את⟩ ve Haran'ı ⟨ואת⟩ doğurdu.",
+  "translation": "Teraḥ yetmiş yıl yaşadı ve Avram'ı ⟨את⟩, Nahor'u ⟨את⟩ ve Haran'ı ⟨את⟩ ⟨ואת⟩ doğurdu.",
   "tokens": [
     {
       "surface": "ויחי",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
+      "gloss": "⟨את⟩ ⟨ואת⟩",
       "marks": "Haran'ı"
     },
     {
@@ -55,6 +55,6 @@
       "gloss": "Haran"
     }
   ],
-  "timestamp": "2026-08-19T06:57:04.591398621Z",
+  "timestamp": "2026-08-19T13:06:16.014389019Z",
   "model": "glm-5.3"
 }

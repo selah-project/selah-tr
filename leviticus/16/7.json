@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 16,
-  "translation": "İki tekeyi ⟨את⟩ alacak ve onları ⟨אתם⟩ Yahve'nin önüne, toplantı çadırının girişinde durduracak.",
+  "translation": "İki tekeyi ⟨את⟩ alacak ve onları ⟨את⟩ ⟨אתם⟩ Yahve'nin önüne, toplantı çadırının girişinde durduracak.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "onları"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "toplantı"
     }
   ],
-  "timestamp": "2026-08-19T07:27:47.438512238Z",
+  "timestamp": "2026-08-19T13:06:16.037059438Z",
   "model": "glm-5.3"
 }

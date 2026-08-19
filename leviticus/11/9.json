@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 11,
-  "translation": "⟨את⟩ bunu yiyebilirsiniz sularda olan her şeyden: her şey ki ona fin ve pul var suda, denizlerde ve nehirlerde — ⟨אתם⟩ onları yiyeceksiniz.",
+  "translation": "⟨את⟩ bunu yiyebilirsiniz sularda olan her şeyden: her şey ki ona fin ve pul var suda, denizlerde ve nehirlerde — ⟨את⟩ ⟨אתם⟩ onları yiyeceksiniz.",
   "tokens": [
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "onları"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "yiyeceksiniz"
     }
   ],
-  "timestamp": "2026-08-19T07:25:02.057316952Z",
+  "timestamp": "2026-08-19T13:06:16.036231827Z",
   "model": "glm-5.3"
 }

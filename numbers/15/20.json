@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 15,
-  "translation": "Hamurunuzun ilk ürünü olarak bir hala sunusu yükselteceksiniz — harmandaki teruma gibi; öylece onu ⟨אתה⟩ yükselteceksiniz",
+  "translation": "Hamurunuzun ilk ürünü olarak bir hala sunusu yükselteceksiniz — harmandaki teruma gibi; öylece onu ⟨את⟩ ⟨אתה⟩ yükselteceksiniz",
   "tokens": [
     {
       "surface": "ראשית",
@@ -45,10 +45,10 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
+      "gloss": "⟨את⟩ ⟨אתה⟩",
       "marks": "onu"
     }
   ],
-  "timestamp": "2026-08-19T07:37:26.822614179Z",
+  "timestamp": "2026-08-19T13:06:16.041642188Z",
   "model": "glm-5.3"
 }

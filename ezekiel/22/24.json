@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 22,
-  "translation": "İnsanoğlu, de ona: ⟨את⟩ sen arıtılmamış bir topraksın, gazap gününde yağmur görmemiştir.",
+  "translation": "İnsanoğlu, de ona: sen arıtılmamış bir topraksın, gazap gününde yağmur görmemiştir.",
   "tokens": [
     {
       "surface": "בן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ sen",
+      "gloss": "sen",
       "marks": "sen (toprak)"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "gazabın"
     }
   ],
-  "timestamp": "2026-08-19T10:28:53.644385700Z",
+  "timestamp": "2026-08-19T13:06:16.034257442Z",
   "model": "glm-5.3"
 }

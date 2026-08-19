@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 31,
-  "translation": "Moşe onları savaşa gönderdi — her boydan bin kişi; onları ⟨את⟩ ve Pinehas'ı ⟨ואת⟩, Elazar'ın oğlu kâhini, savaşa gönderdi; kutsal araçlar ve şofar-borazanlar elindeydi.",
+  "translation": "Moşe onları savaşa gönderdi — her boydan bin kişi; onları ⟨את⟩ ve Pinehas'ı ⟨את⟩ ⟨ואת⟩, Elazar'ın oğlu kâhini, savaşa gönderdi; kutsal araçlar ve şofar-borazanlar elindeydi.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
+      "gloss": "⟨את⟩ ⟨ואת⟩",
       "marks": "Pinehas'ı"
     },
     {
@@ -82,6 +82,6 @@
       "gloss": "elinde"
     }
   ],
-  "timestamp": "2026-08-19T07:42:21.025925389Z",
+  "timestamp": "2026-08-19T13:06:16.042175953Z",
   "model": "glm-5.3"
 }

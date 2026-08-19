@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve bunlar Teraḥ'ın soyu: Teraḥ Avram'ı ⟨את⟩, Nahor'u ⟨את⟩ ve Haran'ı ⟨ואת⟩ doğurdu; Haran da Lot'u ⟨את⟩ doğurdu.",
+  "translation": "Ve bunlar Teraḥ'ın soyu: Teraḥ Avram'ı ⟨את⟩, Nahor'u ⟨את⟩ ve Haran'ı ⟨את⟩ ⟨ואת⟩ doğurdu; Haran da Lot'u ⟨את⟩ doğurdu.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
+      "gloss": "⟨את⟩ ⟨ואת⟩",
       "marks": "Haran'ı"
     },
     {
@@ -72,6 +72,6 @@
       "gloss": "Lot"
     }
   ],
-  "timestamp": "2026-08-19T06:57:04.591533324Z",
+  "timestamp": "2026-08-19T13:06:16.013803794Z",
   "model": "glm-5.3"
 }

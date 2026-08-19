@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Anımsa, ne dir, ⟨את⟩ sözü, ki Moşe'ye, kuluna, buyurdun, şöyle diyerek: Siz sadakatsizlik ederseniz, Ben sizi ⟨אתכם⟩ halkların arasına savuracağım",
+  "translation": "Anımsa, ne dir, ⟨את⟩ sözü, ki Moşe'ye, kuluna, buyurdun, şöyle diyerek: Siz sadakatsizlik ederseniz, Ben sizi ⟨את⟩ ⟨אתכם⟩ halkların arasına savuracağım",
   "tokens": [
     {
       "surface": "זכר",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "sizi"
     },
     {
@@ -75,6 +75,6 @@
       "gloss": "halkların arasına"
     }
   ],
-  "timestamp": "2026-08-19T11:49:07.310261977Z",
+  "timestamp": "2026-08-19T13:06:16.038302280Z",
   "model": "glm-5.3"
 }
