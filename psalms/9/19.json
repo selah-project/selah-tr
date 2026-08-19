@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü ebediyen unutulmayacak yoksul; alçakgönüllülerin umudu sonsuza dek yok olmayacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "unutulur"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "umudu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçakgönüllülerin"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "yok olur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:19.610441726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ben konuşurken ona ⟨bunu⟩ haber verilir mi? Bir adam konuşursa, andolsun yutulur.",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "haber verilir mi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": " ki"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ben konuşurken"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "konuşursa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "andolsun"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "yutulur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:09.895025285Z",
+  "model": "glm-5.3"
+}

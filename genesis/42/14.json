@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve Yosef onlara dedi: O ⟨dur⟩ ki size 'casuslar sizsiniz' diyerek söylediğim ⟨şey⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "söylediğim"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casuslar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizsiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:57.209140988Z",
+  "model": "glm-5.3"
+}

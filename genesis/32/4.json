@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Yaakov önüne elçiler gönderdi — kardeşi Esav'a, Seir toprağına, Edom tarlasına.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçiler"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "toprağına"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:45.837385121Z",
+  "model": "glm-5.3"
+}

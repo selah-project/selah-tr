@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 11:15",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve kuluna Moşe'ye nasıl ⟨את⟩ buyurduysa, Moşe de öyle ⟨את⟩ Yuşa'ya buyurdu; Yuşa da öyle yaptı — Yahve'nin Moşe'ye buyurduğu ⟨את⟩ her şeyden hiçbir sözcüğü savmadı.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduysa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe'ye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuşa'ya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yuşa"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ve öyle"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yuşa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "savadı"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözcüğü"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her şeyden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe'ye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:40.184983287Z",
+  "model": "glm-5.3"
+}

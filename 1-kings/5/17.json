@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Sen ⟨את⟩ Davud'u, babamı tanırsın — çünkü Yahve Elohim'inin adına bir ev inşa etmeye gücü yetmedi, çevresini saran savaş yüzünden — ta Yahve onları ⟨את⟩ onun ayaklarının tabanları altına koyuncaya kadar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tanırsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-me- (olumsuzluk)"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "gücü yetti"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "inşa etmeye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "onun çevresini sardı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ... -ıncaya kadar"
+    },
+    {
+      "surface": "תת",
+      "gloss": "koyma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "tabanlarının"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "ayaklarının"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:55.390740694Z",
+  "model": "glm-5.3"
+}

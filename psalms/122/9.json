@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 122,
+  "translation": "Yahve Elohim'imizin evi uğruna, senin için iyilik arayacağım.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "arayacağım"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:40.423417706Z",
+  "model": "glm-5.3"
+}

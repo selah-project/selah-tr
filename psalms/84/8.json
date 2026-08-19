@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 84,
+  "translation": "Güçten güce yürürler; Elohim'in önünde Tsiyon'da görünürler.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "yürürler"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "güçten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "güce"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görünürler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon'da"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:12.306057189Z",
+  "model": "glm-5.3"
+}

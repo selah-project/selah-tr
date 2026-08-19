@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ⟨o⟩ kapı bekçilerine seslendi ve kralın evine ⟨oraya⟩ içeride bildirdiler.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "kapı bekçilerini"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ve bildirdiler"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "içeriye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:47.514744203Z",
+  "model": "glm-5.3"
+}

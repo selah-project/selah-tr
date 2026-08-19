@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve siz: verimli olun ve çoğalın, yeryüzünde kaynayın ve onda çoğalın.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ve siz"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "verimli olun"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ve çoğalın"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "kaynayın"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ve çoğalın"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:25.775879421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 140,
+  "translation": "Kibirli adam benim için tuzak gizlediler ve ipler; yolların yanına ağ serdiler, bana tuzaklar kurdular. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "gizlediler"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "kibirli(liler)"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tuzak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "ve ipler"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "serdiler"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ağ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "yol(lar)"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "tuzaklar"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "kurdular"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:12.047348991Z",
+  "model": "glm-5.3"
+}

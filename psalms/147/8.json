@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Gökleri bulutlarla örten, yeryüzü için yağmur hazırlayan, dağlara ot bitiren ⟨O⟩.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "örten"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "bulutlarla"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "hazırlayan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yeryüzü için"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağmur"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "bitiren"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlara"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ot"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:11.698275526Z",
+  "model": "glm-5.3"
+}

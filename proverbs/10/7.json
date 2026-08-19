@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Sadığın anısı bereket ⟨içindir⟩, kötülerin adıysa çürür.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "anısı"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadık"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "bereket için"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "çürür"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:13.583107953Z",
+  "model": "glm-5.3"
+}

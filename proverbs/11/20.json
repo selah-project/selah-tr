@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve'nin tiksintisidir yüreği eğri olanlar; O'nun hoşnutluğuysa yolunda kusursuz olanlardır.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "tiksintisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "eğri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yüreği"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "ve O'nun hoşnutluğu"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolunda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:12.042307639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Efrayim konuştuğunda titreme ⟨vardı⟩; o İsrail'de yüceltilmişti; Baal'de suçlu oldu ve öldü.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "konuştuğunda"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "titreme"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yüceltildi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrail'de"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "ve suçlu oldu"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal'de"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:08.924016942Z",
+  "model": "glm-5.3"
+}

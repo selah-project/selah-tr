@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve kral Ahaşveroş konuştu, Ester kraliçeye dedi: Kimdir ⟨o⟩, şu adam, ve nerededir ⟨o⟩, kalbi onu böyle yapmaya dolduran kişi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaşveroş"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester'e"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraliçe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "זה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ve nerede"
+    },
+    {
+      "surface": "זה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbi onu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmaya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:30.862956705Z",
+  "model": "glm-5.3"
+}

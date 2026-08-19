@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kral cevap verdi ve dedi: Diri çocuğu ⟨onu⟩ ona verin ve öldürmeyin onu; ⟨o⟩ annesidir.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ve cevap verdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri çocuğu"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "doğan çocuk"
+    },
+    {
+      "surface": "החי",
+      "gloss": "diri"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ve öldürmek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-me"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "onu öldürmeyin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesidir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:16.143403697Z",
+  "model": "glm-5.3"
+}

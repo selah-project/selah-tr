@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Şaul kapının ortasında Şemu'el'e ⟨את⟩ yaklaştı ve dedi: \"Lütfen bana bildir, görenin evi nerededir?\"",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "yaklaştı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şemu'el'e"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemu'el"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "השער",
+      "gloss": "kapının"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "görenin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:41.290007399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Yehizkiyahu ve önderler geldi, ⟨את⟩ yığınları gördüler ve ⟨את⟩ Yahve'yi ve ⟨את⟩ halkını Yisrael'i kutsadılar.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ve önderler"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yığınları"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "yığınları"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ve kutsadılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "halkını"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T12:09:21.874683619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Kendini gözünde bilge sansın diye akılsıza aptallığına göre cevap ver.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "cevap ver"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "akılsıza"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "aptallığına göre"
+    },
+    {
+      "surface": "פן",
+      "gloss": "diye (yoksa)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsun \/ sansın"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "gözünde kendini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:46.596202716Z",
+  "model": "glm-5.3"
+}

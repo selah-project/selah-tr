@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve ⟨the⟩ ülke, onu kirlettiğinizde sizi kusmasın — tıpkı sizden önceki ulusu kustuğu gibi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -mesin"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "kusmasın"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "onu kirlettiğinizde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tıpkı gibi"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "kustuğu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulusu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ulusu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizden önce"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:46.453803381Z",
+  "model": "glm-5.3"
+}

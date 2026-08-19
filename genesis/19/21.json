@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve ona dedi: İşte, yüzünü kaldırdım ⟨את⟩ senin için bu söze de, yani ⟨את⟩ o şehri yıkmayacağım, ki ondan söz ettin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "kaldırdım"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bu söze"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "yani ... mayacağım"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "yıkmayacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o şehri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "o şehir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "onundan söz ettin"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:04.341952461Z",
+  "model": "glm-5.3"
+}

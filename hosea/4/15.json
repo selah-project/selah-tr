@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "İsrail sen zina ediyorsan, Yahuda suçlu olmasın; Gilgal'a gitmeyin, Bet-Aven'e çıkmayın ve 'Yahve diridir' diye ant içmeyin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "zina ediyorsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mesin"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "suçlu olsun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -meyin"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "gitmeyin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal'a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -meyin"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "çıkmayın"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Aven'e"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -meyin"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ant içmeyin"
+    },
+    {
+      "surface": "חי",
+      "gloss": "diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T12:35:46.998874764Z",
+  "model": "glm-5.3"
+}

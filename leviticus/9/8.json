@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Aharon sunağa yaklaştı ve ⟨את⟩ kendisine ait günah sunusu buzağıyı kesti.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ve yaklaştı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e doğru"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağa"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ve kesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzağıyı"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "buzağıyı"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona aitti"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:38.371851645Z",
+  "model": "glm-5.3"
+}

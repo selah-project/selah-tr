@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ayak tabanından başa kadar içinde sağlamlık yok; yara, çürük ve taze darbe ⟨var⟩; sıkılmadılar, sarılmadılar ve yağla yumuşatılmadılar.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "tabanından"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayak"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve ta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sağlamlık"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "ve çürük"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ve darbe"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "taze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "sıkılmadı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "sarılmadı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "yumuşatılmadı"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:15.221767890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Çünkü ben biliyorum ki Yahve büyüktür, ve Adonayımız tüm ilahlardan ⟨üstündür⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "biliyorum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "ve Adonayımız"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tüm ... dan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:12.148980087Z",
+  "model": "glm-5.3"
+}

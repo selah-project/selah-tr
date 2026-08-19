@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Kendine gofer ağacından bir sandık yap; sandığı bölmeler halinde yapacaksın ⟨את⟩ sandığı, ve onu içeriden ve dışarıdan ziftle kaplayacaksın.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "bir sandık"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "bölmeler"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ve kaplayacaksın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "onu ⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "içeriden"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ve dışarıdan"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ziftle"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:26.478124853Z",
+  "model": "glm-5.3"
+}

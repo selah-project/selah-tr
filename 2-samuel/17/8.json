@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Huşay dedi: Sen bilirsin babanı ⟨את⟩ ve adamlarını ⟨את⟩; çünkü onlar yiğitlerdir ve acı canlılardır, tıpkı tarlada yavruları ellerinden alınmış bir ayı gibi; ve baban savaş adamıdır ve halkla ⟨את⟩ gecelemez.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Huşay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babanı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "adamlarını"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "adamlarını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "yiğitler"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ve acı"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "ayı gibi"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "yavruları alınmış"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "ve baban"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... mez"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "gecelemez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    }
+  ],
+  "timestamp": "2026-08-19T12:15:16.453496429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Kötülükten uzaklaş, iyilik yap; barışı ara ve onu kovala.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "uzaklaş"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ara"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barışı"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ve onu kovala"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:26.789931287Z",
+  "model": "glm-5.3"
+}

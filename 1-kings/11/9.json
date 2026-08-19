@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve, Şelomo'ya öfkelendi, çünkü kalbi kendisine iki kez görünen İsrail'in Elohim'i Yahve'den ayrıldı.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "öfkelendi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "Şelomo'ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ayrıldı"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "görünen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "iki kez"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:40.764040633Z",
+  "model": "glm-5.3"
+}

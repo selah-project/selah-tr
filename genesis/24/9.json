@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve kul, Avraham'ın efendisinin uyluğunun altına ⟨את⟩ elini koydu ve ona bu söz üzerine yemin etti.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "kul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "uyluğunun"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham'ın"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "efendisinin"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ve yemin etti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:10.088526317Z",
+  "model": "glm-5.3"
+}

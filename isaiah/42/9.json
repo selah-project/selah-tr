@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "İşte öncekiler geldi, ve yeni şeyleri ben bildiriyorum; onlar filizlenmeden önce size ⟨את⟩ duyuruyorum.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "öncekiler"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "ve yeni şeyleri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "bildiriyorum"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "…meden önce"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "filizlenmeden"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "duyuruyorum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "size"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:16.463531787Z",
+  "model": "glm-5.3"
+}

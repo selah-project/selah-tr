@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Yüzü azgın bir ulus — yaşlıya yüz vermeyecek ve gence acımayacak ⟨o ulus⟩.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ulus"
+    },
+    {
+      "surface": "עז",
+      "gloss": "azgın"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "yaşlıya"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ve genç"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "acımayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:59.913750710Z",
+  "model": "glm-5.3"
+}

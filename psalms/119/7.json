@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Doğru bir yürekyle sana şükredeceğim, senin doğru hükümlerini öğrendiğimde.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "sana şükredeceğim"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "doğru-lukla"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "öğrendiğimde"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hükümlerini"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "senin doğruluğunun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:05.580597529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Merhametle bir taht kurulacak ve Davut'un çadırında ⟨o⟩ üzerine doğrulukla oturacak — yargıçlık eden, yargıyı arayan ve adaleti çabuk getiren.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "kurulacak"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "merhametle"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taht"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oturacak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "doğrulukla"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırında"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut'un"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "yargıçlık eden"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "arayan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "yargıyı"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "çabuk"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adaleti"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:22.764492206Z",
+  "model": "glm-5.3"
+}

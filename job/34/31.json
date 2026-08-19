@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Çünkü El'e ⟨şöyle⟩ denmiştir: «Taşıdım ⟨cezayı⟩, artık bozulmayacağım.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨şöyle⟩ -e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "denmiştir"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "taşıdım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "bozarım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:23.019890926Z",
+  "model": "glm-5.3"
+}

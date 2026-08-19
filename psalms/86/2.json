@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Koru canımı, çünkü hasım ⟨benim⟩; kurtar kulunu — sen, benim Elohim'im, sana güvenen ⟨kulunu⟩.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "koru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "has"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "kurtar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "güvenen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:14.950338280Z",
+  "model": "glm-5.3"
+}

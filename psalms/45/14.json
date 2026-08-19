@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Kral kızı içeride tümüyle görkemedir ⟨⟨⟩⟩; giysisi altınla işlenmiş dokumadandır.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tümüyle"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "görkemli(dir)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "içeride"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "işlenmiş dokumalardan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "giysisi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:03.187680305Z",
+  "model": "glm-5.3"
+}

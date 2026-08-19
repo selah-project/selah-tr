@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Karanlıkta gezenden salgından ⟨da⟩, öğlen (vaktinde) harap edenden yıkımdan ⟨da⟩ korkmayacaksın.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "salgından"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "gezenden"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "yıkımdan"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "harap edenden"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "öğlen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:28.861965054Z",
+  "model": "glm-5.3"
+}

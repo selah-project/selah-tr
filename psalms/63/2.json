@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 63,
+  "translation": "Elohim, El'im sensin; seni şafakta arıyorum ⟨— bende⟩ susadı canım, senden özledi bedenim — susuz, kurak ve yorgun bir ülkede.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El'im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensin"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "seni şafakta arıyorum"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "susadı"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "özledi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "bedenim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkede"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kurak"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ve yorgun"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "susuz"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:25.326732235Z",
+  "model": "glm-5.3"
+}

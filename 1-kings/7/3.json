@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve sedirle örtülüdür yukarıdan, yan odaların üzerinde, ki onlar sütunların üzerindedir; kırk beş, on beşer bir sırada.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "ve örtülüdür"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "sedirle"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yukarıdan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "yan odaların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sütunların"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "on beşer"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הטור",
+      "gloss": "bir sırada"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:49.488326824Z",
+  "model": "glm-5.3"
+}

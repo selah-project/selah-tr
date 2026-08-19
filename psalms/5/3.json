@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yakarışımın sesine kulak ver, kralım ve Elohim'im; çünkü sana dua edeceğim.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sesine"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "yakarışımın"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralım"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ve Elohim'im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "dua edeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:47.818433512Z",
+  "model": "glm-5.3"
+}

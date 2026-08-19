@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Çünkü ölümünde ⟨o⟩ ⟨את⟩ her şeyi almaz; görkemi onun ardından inmez.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-maz"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ölümünde"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "almaz"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mez"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "inmez"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "onun ardından"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "görkemi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:50.179624361Z",
+  "model": "glm-5.3"
+}

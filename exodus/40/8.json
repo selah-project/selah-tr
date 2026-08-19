@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve avluyu çevresine kuracaksın ve avlu kapısının perdesini asacaksın.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ve kuracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avlu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "avluyu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresine"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ve asacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perde"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perdeyi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapısının"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "avlu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:19.934876707Z",
+  "model": "glm-5.3"
+}

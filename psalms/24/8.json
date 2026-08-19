@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Kimdir bu, yücelik Kralı? Yahve — güçlü ve kahraman; Yahve — savaşta kahraman.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kralı"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "yüceliğin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ve kahraman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kahraman"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaşta"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:12.118691350Z",
+  "model": "glm-5.3"
+}

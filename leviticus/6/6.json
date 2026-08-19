@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Sürekli bir ateş sunağın üzerinde yakılacak, sönmeyecek.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "yakılacak"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sönmeyecek"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:17.171097982Z",
+  "model": "glm-5.3"
+}

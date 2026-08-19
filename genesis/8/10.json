@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ⟨o⟩ yedi gün daha bekledi ve güvercini ⟨את⟩ yeniden gemiden gönderdi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ve bekledi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başka"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ve yeniden"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "güvercini"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "güvercini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "gemiden"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:37.898130524Z",
+  "model": "glm-5.3"
+}

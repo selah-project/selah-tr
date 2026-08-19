@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim yarattı ⟨את⟩ büyük taninimleri, ve ⟨את⟩ suların kendi türlerine göre kaynattığı her canlı ⟨nefesh⟩-sürüngeni, ve ⟨את⟩ kendi türüne göre her kanatlı kuşu; ve Elohim gördü ki ⟨bu⟩ iyidir.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "ve yarattı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "büyük taninimleri"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "taninimleri"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "her canlı nefesh-sürüngeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "sürüngen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "kaynattığı"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "kendi türlerine göre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "her kanatlı kuşu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuş"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kanatlı"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kendi türüne göre"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:20.628979246Z",
+  "model": "glm-5.3"
+}

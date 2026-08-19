@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "O zaman dedim: İşte geldim; kitap tomarında yazılıdır benim hakkımda.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "O zaman"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "İşte"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "geldim"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "kitap tomarında"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitap"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "yazılıdır"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "benim hakkımda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:04.315176067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Yahve'ye ne geri vereyim ⟨O'nun⟩ bana yaptığı bütün iyiliklere karşılık?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "geri vereyim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "iyiliklerine"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:50.207935018Z",
+  "model": "glm-5.3"
+}

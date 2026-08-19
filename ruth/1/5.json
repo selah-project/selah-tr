@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve öldüler ikisi de, Mahlon ve Kilyon; ve kadın kaldı ⟨iki⟩ oğullarından ve kocasından ⟨yoksun⟩.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "ve öldüler"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "ve Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ve kaldı"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "משני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ve kocasından"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:55.620188087Z",
+  "model": "glm-5.3"
+}

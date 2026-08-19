@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Bilge bir adam ⟨את⟩ ahmağın adamıyla yargıya girişir — ⟨o⟩ öfkelenir de, güler de, ama rahatlık yoktur.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "yargıya girişir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahmağın adamı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ahmak"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "öfkelenir"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "güler"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rahatlık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:41.683041751Z",
+  "model": "glm-5.3"
+}

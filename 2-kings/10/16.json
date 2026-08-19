@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve dedi: \"Gel ⟨ benimle ⟩ ve Yahve'ye ⟨ olan ⟩ gayretimi gör.\" Onu kendi savaş arabasına bindirdiler.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ benimle"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ve gör"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "gayretimi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "ve bindirdiler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "kendi savaş arabasına"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "kendi savaş arabasına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:37.248934298Z",
+  "model": "glm-5.3"
+}

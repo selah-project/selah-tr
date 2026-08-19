@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Bizi sevindir — bizi eziyet ettiğin günlerin sayısınca, kötülük gördüğümüz yılların sayısınca.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "bizi sevindir"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "günlerin sayısınca"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "bizi eziyet ettiğin"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "yılların"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "gördüğümüz"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:35.927889380Z",
+  "model": "glm-5.3"
+}

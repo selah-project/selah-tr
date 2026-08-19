@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "İşitin ⟨את⟩ sözü ki Yahve size söylemiştir, ey İsrail evi.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "işitin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söylemiştir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T10:07:51.082443540Z",
+  "model": "glm-5.3"
+}

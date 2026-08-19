@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve onlarla birlikte büyük bir karışık kalabalık da çıktı, ve koyunlar ve sığırlar — çok ağır bir davar sürüsü.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "karışık kalabalık"
+    },
+    {
+      "surface": "רב",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "onlarla birlikte"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ve koyunlar"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ve sığırlar"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "davar sürüsü"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:41.121008190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Yaakov Lavan'ın ⟨את⟩ yüzüne baktı ve işte ⟨o⟩ artık dünkü ve evvelki günkü gibi onunla ⟨değildi⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve baktı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzüne"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan'ın"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨değildi⟩ (artık o değil)"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "dünkü gibi"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ve evvelki günkü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:17.736640083Z",
+  "model": "glm-5.3"
+}

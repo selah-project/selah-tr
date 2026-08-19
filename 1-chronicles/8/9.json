@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Hoşeş'ten — karısından — ⟨את⟩ Yovav'ı, ⟨את⟩ Tsivya'yı, ⟨את⟩ Meşa'yı ve ⟨את⟩ Malkam'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hoşeş"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav'ı"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Tsivya'yı"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Meşa'yı"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meşa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Malkam'ı"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:32.190002174Z",
+  "model": "glm-5.3"
+}

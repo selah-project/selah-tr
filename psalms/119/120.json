@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Korkundan etim ürperdi, ve senin hükümlerinden korktum.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "ürperdi"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "korkundan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "etim"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ve senin hükümlerinden"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "korktum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:02.975657697Z",
+  "model": "glm-5.3"
+}

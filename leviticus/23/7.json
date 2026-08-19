@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "İlk gün kutsal toplantı ⟨olacak⟩ sizin için; hiçbir iş hizmeti yapmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "toplantı"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "iş"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "hizmet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksınız değil"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapmayacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:54.932828176Z",
+  "model": "glm-5.3"
+}

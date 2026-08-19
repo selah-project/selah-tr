@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Hamile kaldı ve bir oğul doğurdu; ve ⟨את⟩ onun adını Er diye çağırdı.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hamile kaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:22.267096630Z",
+  "model": "glm-5.3"
+}

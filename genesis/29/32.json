@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 29:32",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Lea hamile kaldı ve bir oğul doğurdu ve adını Reuven çağırdı, çünkü dedi ki: Çünkü Yahve sıkıntımı gördü; şimdi kocam beni sevecek.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ve hamile kaldı"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "sıkıntımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "יאהבני",
+      "gloss": "beni sevecek"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "kocam"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:26.134196553Z",
+  "model": "glm-5.3"
+}

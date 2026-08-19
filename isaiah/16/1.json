@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ülkenin hükümranına bir koç ⟨כר⟩ gönderin — çöldeki Seladan, Siyon kızının dağına.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "gönderin"
+    },
+    {
+      "surface": "כר",
+      "gloss": "koç"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hüküm sürenin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Seladan"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "çöle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:41.613791696Z",
+  "model": "glm-5.3"
+}

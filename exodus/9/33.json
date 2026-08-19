@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Moşe, Paroh'un yanından ⟨את⟩ şehirden çıktı ve avuçlarını Yahve'ye doğru açtı; gök gürültüleri ve dolu durdu, yağmur yeryüzüne dökülmedi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehir"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "açtı"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "avuçlarını"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "gök gürültüleri"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "ve dolu"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "ve yağmur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "döküldü"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yeryüzüne"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:00.253172113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve onu kutsal kılacaksın, çünkü Elohim'in ⟨את⟩ ekmeğini sunan odur; sana kutsal olacak, çünkü kutsal olan benim, sizi kutsal kılan Yahve.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "ve onu kutsal kılacaksın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekmeğini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmeğini"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "sizi kutsal kılan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:32.574122608Z",
+  "model": "glm-5.3"
+}

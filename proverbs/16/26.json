@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Emekçi can kendi için emek verir, çünkü ağzı onu zorlar.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "emekçi"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "emek verir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendi için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "zorlar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ağzı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:27.148533979Z",
+  "model": "glm-5.3"
+}

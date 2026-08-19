@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve kötülüğü iyilik yerine verene düşmanlık besler bana; çünkü ben iyiliğin ardınca koşuyorum.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "ve karşılığını verenler"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "bana düşmanlık beslerler"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "çünkü \/ yerine"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "koşuşum"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:49.763192225Z",
+  "model": "glm-5.3"
+}

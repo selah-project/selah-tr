@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Henüz ezilmeden önce ben ⟨⟨⟩⟩ şaşıyordum; ve şimdi sözünü korudum.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "henüz...önce"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ezildim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "şaşıyordum"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "korudum"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:33.414927989Z",
+  "model": "glm-5.3"
+}

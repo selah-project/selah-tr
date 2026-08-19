@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Sara hamile kaldı ve Avraham'a yaşlılığında bir oğul doğurdu, Elohim'in ⟨את⟩ ona konuştuğu belirlenen zamanda.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ve hamile kaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham'a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "yaşlılığında"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "belirlenen zamanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuşmuş olduğu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:11.108995475Z",
+  "model": "glm-5.3"
+}

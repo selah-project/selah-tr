@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Temeller yıkıldığında doğru kişi ne yapabilir?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü\/eğer"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "temeller"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "yıkıldığında"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru kişi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "yapabilir"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:30.461743591Z",
+  "model": "glm-5.3"
+}

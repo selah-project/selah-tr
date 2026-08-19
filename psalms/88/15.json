@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Neden, Yahve, canımı terk ediyorsun? Yüzünü benden saklıyorsun.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "terk ediyorsun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "saklıyorsun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:57.584643621Z",
+  "model": "glm-5.3"
+}

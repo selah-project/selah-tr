@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 120,
+  "translation": "Yahve, ⟨canımı⟩ kurtar nefesimi yalan dudaklardan, hilekâr dilden.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "kurtar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeşim"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "dudaklardan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "dilden"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hilekâr"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:16.624098317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Eğer babası onu ona vermeyi kesinlikle reddederse, bâkirelerin mehri kadar gümüş tartacaktır.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "kesinlikle"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "reddederse"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "babası"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "vermeyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "tartacaktır"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "mehri kadar"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "bâkirelerin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:22.153275292Z",
+  "model": "glm-5.3"
+}

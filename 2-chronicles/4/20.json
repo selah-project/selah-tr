@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ⟨את⟩ mengeneleri ve kandillerini — çardak önünde töreye göre yakılmak üzere — saf altından.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "mengeneleri"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "mengeneleri"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "ve kandillerini"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "yakılmak üzere"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "töreye göre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "çardak"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "saf\/kapatılmış"
+    }
+  ],
+  "timestamp": "2026-08-19T12:02:51.808499403Z",
+  "model": "glm-5.3"
+}

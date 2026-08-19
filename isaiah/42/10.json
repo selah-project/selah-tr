@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Yahve'ye yeni bir şarkı söyleyin, O'nun övgüsü ⟨d地上⟩ yeryüzünün ucından; denize inenler ve onun dolusu, adalar ve onların sakinleri.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "O'nun övgüsü"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "inenler"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denize"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ve onun dolusu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "adalar"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ve onların sakinleri"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:16.463914376Z",
+  "model": "glm-5.3"
+}

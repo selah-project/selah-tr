@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "İyi ⟨adam⟩ Yahve'den beğeni kazanır; ama kötü düzenler kuran adamı ⟨O⟩ suçlu çıkarır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "kazanır"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "beğeni"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahve'den"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "kötü düzenler"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "suçlu çıkarır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:33.707556562Z",
+  "model": "glm-5.3"
+}

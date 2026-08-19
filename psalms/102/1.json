@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Duadır ⟨bu⟩, ezilenin, ⟨çünkü⟩ örtülünce, ve Yahve'nin önünde döker düşüncesini.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ezilenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨çünkü⟩"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "örtülünce"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ve önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "döker"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "düşüncesini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:33.253771253Z",
+  "model": "glm-5.3"
+}

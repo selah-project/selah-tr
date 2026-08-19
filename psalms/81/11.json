@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Ben Yahve, senin Elohim'inim, seni Mısrayim ülkesinden çıkaran; ağzını geniş aç, ve ben onu dolduracağım.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "seni çıkaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "geniş aç"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ve onu dolduracağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:02.168939598Z",
+  "model": "glm-5.3"
+}

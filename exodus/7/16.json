@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ona diyeceksin: Yahve, İbraniler'in Elohim'i, beni sana şöyle söylemek için gönderdi: Halkımı ⟨את⟩ salıver, çölde bana kulluk etsinler; ve işte, şimdiye kadar dinlemedin.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ve diyeceksin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "İbraniler'in"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "beni gönderdi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söylemek için"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salıver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ve bana kulluk etsinler"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "dinledin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şimdiye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:57.313501279Z",
+  "model": "glm-5.3"
+}

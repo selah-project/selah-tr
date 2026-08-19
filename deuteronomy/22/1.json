@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Kardeşinin öküzünü veya ⟨את⟩ kaybolmuş davarını görmezden gelme; onlardan sakınıp gizlenme; mutlaka geri getir onları kardeşine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görmek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzünü"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "davarını"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "davarı"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "sürülmüş kaybolmuş"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ve gizleneceksin"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "השב",
+      "gloss": "geri getirmek"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "geri getireceksin onları"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kardeşine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:39.252409312Z",
+  "model": "glm-5.3"
+}

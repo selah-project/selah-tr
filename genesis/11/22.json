@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Serug otuz yıl yaşadı ve Nahor'un babası oldu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:59.847750453Z",
+  "model": "glm-5.3"
+}

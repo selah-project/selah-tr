@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve koysunlar Elohim'de güvenlerini, ve unutmasınlar El'in işlerini, ve buyruklarını korusunlar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ve koysunlar"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'de"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "güvenlerini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "unutsunlar"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "işlerini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El'in"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ve buyruklarını"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "korusunlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:41.282636557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Şemuël öldü, bütün Yisrael toplandı ve ona ağıt yaktı ve onu Ramah'taki evinde gömdüler; Davut kalktı ve Paran çölüne indi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "ve toplandı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ve ağıt yaktı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ve onu gömdü"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramah'ta"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ve indi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:59.796855489Z",
+  "model": "glm-5.3"
+}

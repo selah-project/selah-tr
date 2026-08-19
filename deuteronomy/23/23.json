@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve adak adamaktan kaçınırsan, sende günah ⟨olmayacak⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "kaçınırsan"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "adak adamaktan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sende"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:55.494055337Z",
+  "model": "glm-5.3"
+}

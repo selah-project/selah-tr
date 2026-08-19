@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve Yahve onlara yardım eder ve onları kurtarır; onları kötülerden kurtarır ve selamet verir, çünkü O'na sığındılar.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "ve onlara yardım eder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "ve onları kurtarır"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "onları kurtarır"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kötülerden"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ve selamet verir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "sığındılar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "O'na"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:21.222551626Z",
+  "model": "glm-5.3"
+}

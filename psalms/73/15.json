@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Eğer 'böyle anlatacağım' deseydim, işte, çocuklarının nesline ihanet etmiş olurudum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "deseydim"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "anlatacağım"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nesline"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "çocuklarının"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ihanet etmiş olurudum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:14.063803475Z",
+  "model": "glm-5.3"
+}

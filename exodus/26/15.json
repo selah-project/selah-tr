@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve Mişkan için ⟨את⟩ keresteleri şittim ağacından, ayakta durur halde yapacaksın.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keresteleri"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "keresteleri"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mişkan için"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ayakta durur halde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:47.310154179Z",
+  "model": "glm-5.3"
+}

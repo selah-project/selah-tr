@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve kutsal adamlar Bana ⟨olacaksınız⟩; tarlada parçalanmış ⟨את⟩ eti yemeyeceksiniz; köpeğe atacaksınız onu.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ve adamlar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "olacaksınız"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ve et"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "parçalanmış"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "köpeğe"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "atacaksınız"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (eti)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:12.280018177Z",
+  "model": "glm-5.3"
+}

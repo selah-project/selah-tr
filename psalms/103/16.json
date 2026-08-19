@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Çünkü üzerinden bir rüzgâr geçer ve ⟨o⟩ artık yoktur; ve onun yeri onu bir daha tanımaz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgâr"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "geçer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ve artık yoktur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "tanır"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "onun yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:53.011183439Z",
+  "model": "glm-5.3"
+}

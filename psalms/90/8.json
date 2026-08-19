@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Suçlarımızı önüne koydun; gizli ⟨şeylerimizi⟩ yüzünün ışığına ⟨açtın⟩.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "koydun"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "suçlarımızı"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "gizli şeylerimizi"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ışığına"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:43.891836101Z",
+  "model": "glm-5.3"
+}

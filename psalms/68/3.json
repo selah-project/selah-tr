@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Duman sürüklenip dağıldığı gibi ⟨onları⟩ sürükleyip dağıt; ateşin önünde mum nasıl erirse, kötüler de Elohim'in önünde öylesice yok olsunlar.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "sürüklenip dağıldığı gibi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "duman"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "dağıldığı"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "eridiği gibi"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "mum"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateşin"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yok olsunlar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:37.469306996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Ve bundan sonra Ammon oğullarının sürgününü ⟨את⟩ geri çevireceğim, neum Yahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ve … sonra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "geri çevireceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürgününü"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sürgününü"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum (söyleyiş)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:20:55.608837992Z",
+  "model": "glm-5.3"
+}

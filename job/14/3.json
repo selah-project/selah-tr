@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Bunun üzerine bile gözlerini açar mısın, ve beni ⟨את⟩ yargıya seninle getirir misin?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "bile"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunun"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "açar mısın"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "gözlerini"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "getirir misin"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "yargıya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:08.684410571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Balak, Tsippor oğlu, İsrail'in Emorilere yaptığının hepsini ⟨את⟩ gördü.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsippor'un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hepsini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Emorilere"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:40.588968107Z",
+  "model": "glm-5.3"
+}

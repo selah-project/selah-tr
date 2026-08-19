@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Karanlıktan derinlikleri açığa çıkarır ve ölüm gölgesini ışığa getirir.",
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "açığa çıkarır"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "derinlikleri"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve getirir"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ışığa"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ölüm gölgesini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:48.254204399Z",
+  "model": "glm-5.3"
+}

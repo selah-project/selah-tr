@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Öpsün beni ağzının öpücüklerinden — çünkü sevgilerin şaraptan daha iyidir.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "öpsün beni"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "öpücüklerden"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "daha iyidir"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "sevgilerin"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "şaraptan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:36.704202934Z",
+  "model": "glm-5.3"
+}

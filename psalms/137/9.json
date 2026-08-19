@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 137,
+  "translation": "Ne mutlu dur ona ki tutup ⟨את⟩ yavrularını kayaya çarpar!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "tutup"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "çarpar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yavrularını"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "yavrularını"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kayaya"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kaya"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:46.661951860Z",
+  "model": "glm-5.3"
+}

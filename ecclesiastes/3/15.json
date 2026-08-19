@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Olan şey çoktan ⟨vardır⟩ o, ve olacak olan çoktan oldu; ve Elohim kovalananı arar ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "o"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olan şey"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "çoktan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o(dur)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olacak olan"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "çoktan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ve Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "arar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovalananı"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "kovalananı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:00.953677270Z",
+  "model": "glm-5.3"
+}

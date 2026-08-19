@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Akıllı kötülüğü görür ve gizlenir; basitler ise geçerler ve cezalandırılırlar.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "akıllı"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ve gizlenir"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "ve basitler"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "geçerler"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "ve cezalandırılırlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:12.253565849Z",
+  "model": "glm-5.3"
+}

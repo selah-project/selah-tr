@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Kayayı açtı, sular taştı; kuru yerlerde bir ırmak gibi aktılar.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "açtı"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ve taştılar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "aktılar"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "kuru yerlerde"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ırmak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:47.489822318Z",
+  "model": "glm-5.3"
+}

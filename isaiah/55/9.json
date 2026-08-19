@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Çünkü gökler yerden yüce olduğu gibi, yollarım da sizin yollarınızdan, düşüncelerim de sizin düşüncelerinizden yücedir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "yücedir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "yücedir"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarım"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "sizin yollarınızdan"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ve düşüncelerim"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "sizin düşüncelerinizden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:05.708446411Z",
+  "model": "glm-5.3"
+}

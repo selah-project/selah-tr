@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Avram Lot'a dedi: Rica ederim, aramda ve senin aranda, çobanlarımın ve çobanlarının arasında çekişme olmasın; çünkü biz insanlar — kardeşiz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a karşı (lot'a)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masın"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rica ederim"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "olsun (olumsuz)"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "çekişme"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "aramda"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "ve senin aranda"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve ... arasında"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "çobanlarımın"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve ... arasında"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "çobanlarının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "insanlar"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "kardeşler"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:47.967818765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Davud dedi: «Saul'un evine ⟨hâlâ⟩ kalan biri var mı ki ona Yehonatan uğruna hesed yapayım?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "acaba mı"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hâlâ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ve yapayım"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:59.152564481Z",
+  "model": "glm-5.3"
+}

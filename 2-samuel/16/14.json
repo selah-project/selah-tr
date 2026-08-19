@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Kral ve ⟨את⟩ kendisiyle birlikte olan bütün halk yorgun yorgun geldi ve orada soluklandı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kendisiyle birlikte"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "yorgun"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "soluklandı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-08-19T09:32:52.765735791Z",
+  "model": "glm-5.3"
+}

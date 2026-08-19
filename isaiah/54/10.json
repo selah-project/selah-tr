@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "Çünkü dağlar kayar ve tepeler sallanır, ama sevgim senden ⟨את⟩ ayrılmaz ve barış antlaşmam sarsılmaz, dedi seni merhametle seven Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "kayar"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ve tepeler"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "sallanır"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ama sevgim"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "senden ⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "ayrılır"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "ve antlaşmam"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "barışımın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sarsılır"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "seni merhametle seven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:36.367207877Z",
+  "model": "glm-5.3"
+}

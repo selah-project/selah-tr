@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ornan geri döndü ve ⟨את⟩ meleği gördü; onunla birlikte dört oğlu saklanıyorlardı; Ornan buğday dövüyordu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve döndü"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meleği"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "melek"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ve dört"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "saklananlar"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "ve Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "dövüyordu"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "buğday"
+    }
+  ],
+  "timestamp": "2026-08-19T12:26:05.941200498Z",
+  "model": "glm-5.3"
+}

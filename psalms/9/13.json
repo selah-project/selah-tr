@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü kanları araştırıp soruş yapan ⟨את⟩ onları anımsadı; ezilenlerin çığlığını unutmadı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "araştırıp soruş yapan"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kanları"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anımsadı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "unutmadı"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "çığlığını"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ezilenlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:09.546962008Z",
+  "model": "glm-5.3"
+}

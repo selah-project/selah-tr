@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Moşe Aharon'a dedi: Sunağa yaklaş ve ⟨את⟩ günah sununu ve ⟨את⟩ yakmalık sununu yap da kendin için ve halk için kefarette bulun; ve ⟨את⟩ halkın sunusunu yap da onlar için kefarette bulun; Yahve'nin buyurduğu gibi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "yaklaş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e doğru"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah sununu"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "günah sununu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yakmalık sununu"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "yakmalık sununu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefarette bulun"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "senin için"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ve ... için"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkın sunusunu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "sunuyu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefarette bulun"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "onlar için"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:38.371697681Z",
+  "model": "glm-5.3"
+}

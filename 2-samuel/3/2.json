@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Hevron'da David'e oğullar doğdu; ilkdoğanı Amnon oldu, Yizreellü Ahinoam'dan.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "ve doğdular"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevron'da"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ilkdoğanı"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "Ahinoam'dan"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "Yizreellü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:29:13.887980468Z",
+  "model": "glm-5.3"
+}

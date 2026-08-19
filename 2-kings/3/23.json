@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve dediler: Bu kandır; krallar kesinlikle kırıldı ve her biri ⟨את⟩ arkadaşını vurdu; şimdi ise Moav ganimete!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "kesinlikle kırılmak"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "kırıldılar"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "krallar"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkadaşını"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "arkadaşını"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "ganimete"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:06.737184270Z",
+  "model": "glm-5.3"
+}

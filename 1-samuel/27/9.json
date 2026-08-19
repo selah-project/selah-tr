@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "David ⟨את⟩ ülkeyi vurdu ve ne erkek ne kadın sağ bıraktı; koyunları, sığırları, eşekleri, develeri ve giysileri aldı, geri döndü ve Akish'in yanına geldi.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve... değil"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "sağ bıraktı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ve kadın"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "koyunlar"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ve sığırlar"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ve eşekler"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ve develer"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "ve giysiler"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve geri döndü"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:18.662964064Z",
+  "model": "glm-5.3"
+}

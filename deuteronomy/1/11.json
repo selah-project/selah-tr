@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "«Yahve, atalarınızın Elohim'i, size olduklarınızın bin katını eklesin ve ⟨את⟩ sizleri, size söylediği gibi kutsasın!»",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "atarınızın"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "eklesin"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "olduklarınız gibi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kez"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsasın"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:14.693052268Z",
+  "model": "glm-5.3"
+}

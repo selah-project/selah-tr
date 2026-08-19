@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Onun peygamberleri şımarık, hainlik adamlarıdır; onun kâhinleri kutsalı kirlettiler, Torah'a şiddet uyguladılar.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "onun peygamberleri"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "şımarık\/kaynayan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "hainlik"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "onun kâhinleri"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "kirlettiler"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsalı"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "şiddet uyguladılar"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah'a (Tora'ya)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:46:30.825124463Z",
+  "model": "glm-5.3"
+}

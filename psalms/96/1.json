@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Yahve'ye yeni bir şarkı söyleyin, Yahve'ye söyleyin, ⟨bütün⟩ yer ⟨olsun⟩.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:32.393457038Z",
+  "model": "glm-5.3"
+}

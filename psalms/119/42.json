@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "O zaman hakaret edene bir sözle karşılık vereceğim, çünkü senin sözüne güvendim.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ve karşılık vereceğim"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "bana hakaret eden"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir söz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvendim"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "senin sözüne"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:16.445847633Z",
+  "model": "glm-5.3"
+}

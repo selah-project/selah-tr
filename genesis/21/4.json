@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Avraham oğlu Yitshak'ı ⟨את⟩, sekiz günlük bir oğul olarak sünnet etti, Elohim'in ona ⟨את⟩ buyurduğu gibi.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "ve sünnet etti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak'ı"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "sekiz"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlük"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "buyurduğu gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurmuş olduğu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:11.109322686Z",
+  "model": "glm-5.3"
+}

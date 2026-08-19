@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Çünkü, tam çünkü halkımı ⟨את⟩ saptırdılar, 'Şalom' derken, ve şalom yokken; ve o bir duvar örüyordu ve işte onlar onu ⟨את⟩ özsüz sıvayla sıvıyorlardı.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "tam çünkü"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "saptırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "derken"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "örüyordu"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "duvar"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ve işte onlar"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "sıvıyorlardı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "özsüz sıva"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "özsüz sıva"
+    }
+  ],
+  "timestamp": "2026-08-19T10:25:40.862645734Z",
+  "model": "glm-5.3"
+}

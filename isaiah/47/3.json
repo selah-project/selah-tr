@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Çıplaklığın açılacak, utançın da görülecek; öç alacağım ve kimseyi aracı kılmayacağım.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "açılacak"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "çıplaklığın"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görülecek"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "utançın"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "öç"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "alacağım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "karşılayacağım"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:13.526207108Z",
+  "model": "glm-5.3"
+}

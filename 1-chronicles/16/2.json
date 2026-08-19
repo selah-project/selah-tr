@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Divid yakmalık sunuyu ve esenlik sunularını sunmayı bitirince ⟨את⟩ halkı Yahve'nin adıyla kutsadı.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ve bitirdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Divid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "sunmaktan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sunuyu"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ve esenlik sunularını"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:32.080236481Z",
+  "model": "glm-5.3"
+}

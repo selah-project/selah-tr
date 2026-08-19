@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Yah'ın edimlerini anacağım; çünkü eski zamanların harikalarını hatırlayacağım.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "anacağım"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "edimlerini"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah'ın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "hatırlayacağım"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "eski zamanların"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "harikalarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:49.292923060Z",
+  "model": "glm-5.3"
+}

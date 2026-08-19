@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kestil doğuran kendine keder doğurur; navalın babası sevinmez.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "doğurur"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kestil"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "keder için"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ...-mez"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babası"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "naval"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:41.412686626Z",
+  "model": "glm-5.3"
+}

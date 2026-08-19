@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Dışarıda yabancı konaklamadı, kapılarımı yolcuya açardım.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "dışarıda (açıkta)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil (konaklamadı)"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "gecelemedi (konaklamadı)"
+    },
+    {
+      "surface": "גר",
+      "gloss": "yabancı (misafir)"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "kapılarımı"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "yolcuya"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "açardım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:33.653329554Z",
+  "model": "glm-5.3"
+}

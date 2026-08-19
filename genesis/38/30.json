@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve ardından kardeşi çıktı — ki elinde ⟨kızıl iplik vardı⟩ — ve adını Zerah koydu.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ve ardından"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "eli"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨kızıl ipliği olan⟩ ikinci"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve adını koydu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerah"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:21.346081373Z",
+  "model": "glm-5.3"
+}

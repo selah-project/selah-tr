@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ama onda canlı et görüldüğü gün, kirli sayılacaktır.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ve ... gün"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "görüldüğü"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "חי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kirli sayılacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:46.084193916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve bu Yahve'nin gözünde küçük ⟨olacak⟩, ve ⟨את⟩ Moav'ı elinize verecek.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ve küçük"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ve verecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "elinize"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:25.317516571Z",
+  "model": "glm-5.3"
+}

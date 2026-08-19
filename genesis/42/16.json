@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Aranızdan birini gönderin de kardeşinizi alsın; siz ise bağlı kalın ki sözleriniz sınansın — hakikat mi ⟨את⟩ sizinle; değilse, Paroh yaşadıkça, kesin casus ⟨sizsiniz⟩.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "gönderin"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "aranızdan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve alsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşinizi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kardeşinizi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "siz ise"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "bağlı kalın"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "ve sınansın"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "sözleriniz"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "hakikat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizinle"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "değilse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşadıkça"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kesin"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizsiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:57.209471746Z",
+  "model": "glm-5.3"
+}

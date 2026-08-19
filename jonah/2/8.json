@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Canım içimde tükenirken Yahve'yi ⟨את⟩ andım; duam sana geldi, kutsal tapınağına.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "tükenirken"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime \/ içimde"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "andım"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e, doğru"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tapınağına"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:45.610927091Z",
+  "model": "glm-5.3"
+}

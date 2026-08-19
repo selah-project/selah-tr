@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve gözetimimi gözetsinler de üzerine ⟨את⟩ günahı yüklenip onun içinde ölmesinler; çünkü onu kirletirler — ben Yahve'yim, onları kutsayan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ve gözetsinler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözetimimi"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "gözetimimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de…-mesinler"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "yüklenip"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günahı"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ve ölmesinler"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun içinde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "onu kirletirler"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "onları kutsayan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:42.289435590Z",
+  "model": "glm-5.3"
+}

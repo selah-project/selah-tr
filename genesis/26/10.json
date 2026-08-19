@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Avimelek dedi: «Bize bunu ne yaptın? Az kalsın halktan biri karınla ⟨את⟩ yatacaktı ve üzerimize suç getirmiş olacaktın.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "az kalsın"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatacaktı"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk(ın)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karınla"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "karın"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ve getirmiş olacaktın"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimize"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "suç"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:23.664770540Z",
+  "model": "glm-5.3"
+}

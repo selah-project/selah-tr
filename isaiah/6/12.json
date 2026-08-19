@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yahve ⟨את⟩ insanı uzaklaştıracak, ve ⟨toprağın⟩ ortasında terk edilmiş ⟨yerler⟩ çoğalacak.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "ve uzaklaştıracak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ve çoğalacak"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "terk edilmiş olan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:58.532472002Z",
+  "model": "glm-5.3"
+}

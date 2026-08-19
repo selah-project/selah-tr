@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü bilge ⟨⟨bir adam⟩⟩'a, ahmaktan fazla ⟨ne⟩ ⟨kazanç⟩ var? Yoksul ⟨bir adam⟩'a, yaşayanların önünde yürümesini bilen'e ⟨ne⟩ ⟨kazanç⟩ var?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "fazla"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "bilgeye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "göre"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ahmak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "yoksula"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilen"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "yürümesini"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yaşayanların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:06.677882362Z",
+  "model": "glm-5.3"
+}

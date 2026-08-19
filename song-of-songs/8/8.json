@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Bize küçük bir kız kardeş var, göğüsleri yok; kız kardeşimiz için ne yapacağız, kendisi için konuşulduğu gün?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "kız kardeş"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "ve göğüsleri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yapacağız"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "kız kardeşimiz için"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "konuşulduğu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kendisi için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:01.916325143Z",
+  "model": "glm-5.3"
+}

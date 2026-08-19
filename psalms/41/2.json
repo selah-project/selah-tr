@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Ne mutlu ⟨bilgedir⟩ zayıfa ⟨karşı⟩: kötü günde onu Yahve kurtarır.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ne mutlu"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bilge davranan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zayıf"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "onu kurtarır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:43.888844497Z",
+  "model": "glm-5.3"
+}

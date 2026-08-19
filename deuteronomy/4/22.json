@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Çünkü ben bu toprakta ölüyorum; ⟨את⟩ Yardeni'ni geçen ben değilim, siz geçiyorsunuz ve ⟨את⟩ o iyi toprağı mülk edinmektesiniz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölüyorum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bu toprakta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "değilim"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni'ni"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ve siz"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "geçiyorsunuz"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ve mülk edinmektesiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o iyi toprak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağı"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:47.616459461Z",
+  "model": "glm-5.3"
+}

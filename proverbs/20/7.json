@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Bütünlüğünde yürüyen doğru ⟨bir⟩ adam — ondan sonra çocuklarına ne mutlu!",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "bütünlüğünde"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru adam"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "çocuklarına"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ondan sonra"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:10.560280737Z",
+  "model": "glm-5.3"
+}

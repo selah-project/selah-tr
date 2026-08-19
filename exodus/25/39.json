@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Bir talenta saf altın — onu ⟨את⟩ bunu yapacak, ⟨את⟩ bütün bu gereçleri.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "bir talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "saf"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu gereçleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "gereçleri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bunları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:17.826038391Z",
+  "model": "glm-5.3"
+}

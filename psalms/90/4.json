@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Çünkü bin yıl gözlerinde dünkü gün ⟨gibi⟩ — o geçip giden — ve gecenin bir nöbeti ⟨gibidir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gözlerinde"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "günü gibi"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "dünkü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "geçip giden"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "nöbet"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecenin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:46.314448899Z",
+  "model": "glm-5.3"
+}

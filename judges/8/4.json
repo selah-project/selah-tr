@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Gidyon Yarden'e geldi; geçiyordu ⟨o⟩ ve yanındaki ⟨את⟩ üç yüz adam, bitkin ⟨durumdaydılar⟩ ve yine kovalıyorlardı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidyon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yarden'e"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçiyordu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ve üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yanında \/ onunla"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "bitkin"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "ve kovalıyorlardı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:16:42.067009894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve ⟨את]] köz kaplarını ve ⟨את]] serpme çanakları — altın olanlar altın, gümüş olanlar gümüş — cellatlar başı aldı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "köz kaplarını"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "köz kaplarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "serpme çanakları"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "serpme çanakları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ki"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "רב",
+      "gloss": "başkanı"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "cellatların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:56.106462047Z",
+  "model": "glm-5.3"
+}

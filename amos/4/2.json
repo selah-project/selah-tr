@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Adonay Yahve kutsallığıyla ant içti: İşte, günler üzerinize geliyor; ⟨את⟩ siz(i) kancalarla sürüp alacak ve sonunuzu balık oltalarıyla.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ant içti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "kutsallığıyla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "באים",
+      "gloss": "geliyor"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "üzerinize"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ve sürüp alacak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi — kancalarla sürülüp alınan"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "kancalarla"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "ve sonunuzu"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "oltalarla"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "balık"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:50.800184908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Onu övsün gökler ve yer, denizler ve onlarda kayan her şey.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "onu övsün"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ve yer"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "denizler"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her şey"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kayan\/sürünen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:59.016864059Z",
+  "model": "glm-5.3"
+}

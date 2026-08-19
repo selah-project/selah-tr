@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Çünkü gökler yeryüzünün üzerinde ne kadar yükselse, O'ndan korkanların üzerinde sadakati o kadar güçlüdür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ne kadar yükselse"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "güçlüdür"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sadakati"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "O'ndan korkanlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:53.031327204Z",
+  "model": "glm-5.3"
+}

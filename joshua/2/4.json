@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kadın iki adamı ⟨את⟩ aldı ve onları sakladı, şöyle dedi: «Evet, adamlar bana geldi; ama nereden olduklarını bilmiyorum.»",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki adamı"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "sakladı"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "evet"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "biliyordum"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nereden"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:54.980279355Z",
+  "model": "glm-5.3"
+}

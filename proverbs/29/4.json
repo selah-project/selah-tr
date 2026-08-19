@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Kral, adaletle ülkeyi ayakta tutar; bağışlar alan adam ise onu yıkar.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "adaletle"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "ayakta tutar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "bağışlar"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "onu yıkar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:34.703028683Z",
+  "model": "glm-5.3"
+}

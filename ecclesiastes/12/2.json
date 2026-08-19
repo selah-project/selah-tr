@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Güneş kararmadan ve ışık, ay ve yıldızlar, ve bulutlar yağmurdan sonra dönmeden —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "kararmadan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ve ışık"
+    },
+    {
+      "surface": "ו הירח",
+      "gloss": "ve ay"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ve yıldızlar"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ve dönsünler diye"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "bulutlar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yağmuru"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:13.581725932Z",
+  "model": "glm-5.3"
+}

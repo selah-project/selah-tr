@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ayrıca bilgisiz ⟨olan⟩ can iyi değildir; ayaklarıyla acele eden ⟨ise⟩ günahkârdır.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "-siz"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değildir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ve acele eden"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ayaklarıyla"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "günahkârdır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:41.463833286Z",
+  "model": "glm-5.3"
+}

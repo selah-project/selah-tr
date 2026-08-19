@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Üç yıl Yeruşalayim'de krallık etti; annesinin adı Avişalom'un kızı Ma'aha'ydı.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krallık etti"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesinin"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'aha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avişalom'un"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:02.629034069Z",
+  "model": "glm-5.3"
+}

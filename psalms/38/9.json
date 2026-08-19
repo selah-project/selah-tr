@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Kırıldım ve ezildim, çok fazla; kalbimin iniltisinden kükredim.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "kırıldım"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "ve ezildim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "kükredim"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "iniltisinden"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbimin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:02.587125053Z",
+  "model": "glm-5.3"
+}

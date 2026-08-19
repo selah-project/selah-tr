@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Lavan ona, ⟨את⟩ cariyesi Zilpa'yı, kızı Lea'ya cariye olarak verdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa'yı"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "cariyesi"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Lea'ya"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "cariye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:43.857792385Z",
+  "model": "glm-5.3"
+}

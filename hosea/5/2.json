@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve başkaldıranlar katliamda derinleştiler; ve ben ⟨onların⟩ hepsine terbiyeyim.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "ve kesim\/katliam"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "başkaldıranlar"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "derinleştiler"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "terbiye"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "hepsine"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:02.125765551Z",
+  "model": "glm-5.3"
+}

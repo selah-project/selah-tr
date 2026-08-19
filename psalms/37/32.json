@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Kötü, sadığı gözetler ve onu öldürmeye çalışır.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "gözetler"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sadığı"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ve … arar"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "onu öldürmeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:04.048436389Z",
+  "model": "glm-5.3"
+}

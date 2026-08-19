@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Yeni ayda şofar'ı üfleyin, kese'de, bayram günümüzde.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "üfleyin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "yeni ayda"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar'ı"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "kese'de (dolunayda)"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "bayramımızın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:55.117923809Z",
+  "model": "glm-5.3"
+}

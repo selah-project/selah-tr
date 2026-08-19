@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Yahve'nin gözünde doğruyu yaptı; yalnız babası Davud gibi değil; babası Yo'aş'ın yaptığı her şeyi yaptı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "doğruyu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "Davud gibi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yo'aş"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:37.020798071Z",
+  "model": "glm-5.3"
+}

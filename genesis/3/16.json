@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kadına dedi: Çoğaltacağım çoğaltarak acını ve gebe kalışını; acı ile doğuracaksın oğulları; ve kocana ⟨olacak⟩ arzun, ve o sana hükmedecek.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadına"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çoğaltarak"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "çoğaltacağım"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "acını"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "ve gebe kalışını"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "acı ile"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "doğuracaksın"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ... e"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "kocana"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "arzun"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "hükmedecek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:29.465038328Z",
+  "model": "glm-5.3"
+}

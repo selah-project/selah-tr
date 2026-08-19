@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "En-Dor'da yok edildiler, toprak için gübre oldular.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "yok edildiler"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "-de"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "gübre"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "toprak için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:26.905833496Z",
+  "model": "glm-5.3"
+}

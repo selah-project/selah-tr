@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Dağlar doğulmadan, sen ⟨את⟩ yeri ve ⟨את⟩ dünyayı biçimlendirmeden, ⟨ezelden⟩ ezel ⟨sonuna⟩ kadar sen El'sin.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "önce"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "doğulmadan"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "biçimlendirmeden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ezelden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ezel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:46.314183569Z",
+  "model": "glm-5.3"
+}

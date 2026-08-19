@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 33:19",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve kötü, kötülüğünden döndüğünde ve hüküm ve doğruluk yaptığında, onlar yüzünden o yaşayacak.",
+  "tokens": [
+    {
+      "surface": "ובשוב",
+      "gloss": "ve döndüğünde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "מרשעתו",
+      "gloss": "kötülüğünden"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yaptığında"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hüküm"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ve doğruluk"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlar yüzünden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:33:46.376223928Z",
+  "model": "glm-5.3"
+}

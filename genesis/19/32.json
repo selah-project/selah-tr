@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "«Gel, babamıza ⟨את⟩ şarap içirelim ve onunla yatalım, ve babamızdan tohum yaşatalım.»",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "gel"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "içirelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babamıza"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "babamıza"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şarap"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "ve yatalım"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ve yaşatalım"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "babamızdan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:54.680692898Z",
+  "model": "glm-5.3"
+}

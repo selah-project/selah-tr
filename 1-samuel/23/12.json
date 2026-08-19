@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Davud dedi: Keila'nın beyleri beni ve adamlarımı Şaul'ün eline teslim edecekler mi? Ve Yahve: Teslim edecekler, dedi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "teslim edecekler mi"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "beyleri"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila'nın"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "adamlarımı"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarımı"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eline"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'ün"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "teslim edecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:54.493161679Z",
+  "model": "glm-5.3"
+}

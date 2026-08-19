@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Altı gün çalışacaksın ve bütün işini yapacaksın.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "çalışacaksın"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "işini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:43.780928410Z",
+  "model": "glm-5.3"
+}

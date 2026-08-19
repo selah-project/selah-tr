@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Çiçekler yerde göründü, ezgi zamanı erişti ve kumru sesi ülkemizde duyuluyor.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "çiçekler"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zamanı"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "ezgi"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "erişti"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ve sesi"
+    },
+    {
+      "surface": "התור",
+      "gloss": "kumru"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "duyuluyor"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ülkemizde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:03.803513132Z",
+  "model": "glm-5.3"
+}

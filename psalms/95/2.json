@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Şükranla yüzüne yaklaşalım, ezgilerle ona bağırıp erinelim.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "yaklaşalım"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "şükranla"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "ezgilerle"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "bağırıp erinelim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:03.275165979Z",
+  "model": "glm-5.3"
+}

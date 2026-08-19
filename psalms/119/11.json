@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kalbimde senin sözünü sakladım, sana karşı günah işlemeyeyim diye.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "kalbimde"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "sakladım"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "senin sözünü"
+    },
+    {
+      "surface": "למען",
+      "gloss": "diye \/ için"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "günah işleyeyim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:32.318617822Z",
+  "model": "glm-5.3"
+}

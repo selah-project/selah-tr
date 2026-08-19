@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Bir anda bir ulus hakkında ve bir krallık hakkında konuşurum — kökünden sökmek ve yıkmak ve yok etmek için;",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "bir anda"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "konuşurum"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakkında"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ulus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve hakkında"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "krallık"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "kökünden sökmek için"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "ve yıkmak için"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "ve yok etmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:10:04.002984674Z",
+  "model": "glm-5.3"
+}

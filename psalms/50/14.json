@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Elohim'e şükran sun, Elyon'a adaklarını öde.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "sun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "şükran"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ve öde"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyon'a"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "adaklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:13.291312786Z",
+  "model": "glm-5.3"
+}

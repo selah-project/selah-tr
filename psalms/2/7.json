@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kararını bildireceğim: Yahve bana dedi: Sen benim oğlumsun, ben seni bugün doğurdum.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "bildireceğim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟩ hakkında"
+    },
+    {
+      "surface": "חק",
+      "gloss": "karar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "seni doğurdum"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:51.877002052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Adad kaçtı, o ve babasının kölelerinden Edomlu ⟨bazı⟩ adamlar onunla ⟨birlikte⟩ Mısır'a girmek için; Hadad ise küçük bir çocuktu.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ve adamlar"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edomlu"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "kölelerinden"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla birlikte (yanında)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girmek için"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "ve Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "küçük"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:07.467241636Z",
+  "model": "glm-5.3"
+}

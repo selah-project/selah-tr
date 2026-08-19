@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve Hamor onlarla ⟨את⟩ konuştu, şöyle dedi: Şekem oğlumun canı kızınıza bağlandı; verin ⟨את⟩ onu ona lütfen karı olsun.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle dedi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "bağlandı"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canı"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "kızınıza"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "karı olsun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:59.044190089Z",
+  "model": "glm-5.3"
+}

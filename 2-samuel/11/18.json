@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Yoav gönderip Davut'a ⟨את⟩ savaşın bütün sözlerini bildirdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderip"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davut'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savaşın bütün sözlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "savaşın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:01.377508606Z",
+  "model": "glm-5.3"
+}

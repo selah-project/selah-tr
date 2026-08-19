@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve Yehuda adamları dediler: Neden bize karşı yukarı çıktınız? Ve Filistliler dediler: Shimshon'u bağlamak için ⟨את⟩ Shimshon'u⟩ yukarı çıktık, bize yaptığı gibi ona yapmak için.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "yukarı çıktınız"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bize karşı"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "bağlamak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimshon'u"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon'u"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bize karşı"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T09:18:26.184378744Z",
+  "model": "glm-5.3"
+}

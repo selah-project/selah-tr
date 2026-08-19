@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 15:22",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Menahem atalarıyla birlikte yattı ve onun yerine oğlu Pekahya kral oldu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yattı"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kral oldu"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "Pekahya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:52.905882469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Derim üzerimde karardı, kemiklerim sıcaktan kavruldu.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "derim"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "karardı"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "üzerimde"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ve kemiklerim"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kavruldu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sıcak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:00.712578808Z",
+  "model": "glm-5.3"
+}

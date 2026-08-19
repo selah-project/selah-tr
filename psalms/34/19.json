@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yahve kalbi kırıklara yakındır ve ⟨את⟩ ruhu ezikleri kurtarır.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "yakındır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "kırıklara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruhu ezikleri"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "ezikleri"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "kurtarır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:07.093667460Z",
+  "model": "glm-5.3"
+}

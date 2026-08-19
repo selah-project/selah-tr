@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Gözlerin görmesi, nefsin gezinmesinden iyidir; bu da hevel ve ruha hakarettir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "görmesi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözlerin"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "gezinmesinden"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefsin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ve hakarettir"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:51.232820830Z",
+  "model": "glm-5.3"
+}

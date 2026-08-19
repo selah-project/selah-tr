@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve ona dediler: Bir rüya gördük ve ⟨את⟩ onu çözendir yok. Ve Yosef onlara dedi: Yorumlar Elohim'e ait değil mi? Anlatın, lütfen, bana.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "bir rüya"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "gördük"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "ve çözen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "çözene dair (ruyayı)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "yorumlar"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "anlatın"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:50.344019005Z",
+  "model": "glm-5.3"
+}

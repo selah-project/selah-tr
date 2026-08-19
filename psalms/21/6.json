@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Büyüktür onun görkemi senin kurtarışında; görkem ve taç koyarsın onun üzerine.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "görkemi (onun)"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "senin kurtarışında"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "görkem"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ve taç (haşmet)"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "koyarsın"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:53.504582235Z",
+  "model": "glm-5.3"
+}

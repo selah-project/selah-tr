@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kıskançlığım beni tüketti, çünkü sıkıntı yapanlar senin sözlerini unuttular.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "beni tüketti"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "kıskançlığım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "unuttular"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "senin sözlerini"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "sıkıntı yapanlarım"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:33.686863480Z",
+  "model": "glm-5.3"
+}

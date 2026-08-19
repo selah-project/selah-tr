@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Esav babasının ⟨את⟩ sözlerini duyunca son derece büyük ve acı bir çığlıkla çığlık attı ve babasına dedi: Beni de kutsa, babacığım!",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "duyunca"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözlerini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ve çığlık attı"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "çığlık"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ve acı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "son derece"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "babasına"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "beni kutsa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babacığım"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:32.708279684Z",
+  "model": "glm-5.3"
+}

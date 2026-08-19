@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Şahitliklerini miras aldım sonsuza dek, Çünkü onlar ⟨⟩ gönlümün sevincidir.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "miras aldım"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şahitliklerin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinç"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "gönlümün"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:43.819043512Z",
+  "model": "glm-5.3"
+}

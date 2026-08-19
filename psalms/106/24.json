@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ve arzu edilen ülkeyi reddettiler, sözüne iman etmediler.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "reddettiler"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "arzu edilen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "iman ettiler"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "sözüne"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:38.900070133Z",
+  "model": "glm-5.3"
+}

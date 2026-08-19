@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve Moşe, Yahve'nin ağzına göre konaklarına göre ⟨את⟩ çıkışlarını yazdı; ve bunlar, çıkışlarına göre konaklarıdır.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ve yazdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çıkışlarını"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "çıkışlarını"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "konaklarına göre"
+    },
+    {
+      "surface": "על",
+      "gloss": "uyarınca"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ve bunlar"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "konakları"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "çıkışlarına göre"
+    }
+  ],
+  "timestamp": "2026-08-19T07:43:23.529216411Z",
+  "model": "glm-5.3"
+}

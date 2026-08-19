@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Yahve'ye sormadı; ⟨Yahve⟩ onu öldürdü ve ⟨את⟩ krallığı Yişay oğlu David'e çevirdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... etmedi"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "sormadı"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "onu öldürdü"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krallığı"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "krallığı"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David'e"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişay"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:51.246252179Z",
+  "model": "glm-5.3"
+}

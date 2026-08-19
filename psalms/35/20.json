@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Çünkü barış değil konuşurlar, ülkenin sessizleri üzerine hileli sözler tasarlarlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barış"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "konuşurlar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "sessizleri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "hileli"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "tasarlarlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:37.880657241Z",
+  "model": "glm-5.3"
+}

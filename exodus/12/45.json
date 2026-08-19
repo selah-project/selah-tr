@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Misafir yerleşen ve ücretli işçi ondan yemeyecektir.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "misafir yerleşen"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ve ücretli işçi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:21.298423341Z",
+  "model": "glm-5.3"
+}

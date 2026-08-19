@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Hayır, eğer yollarınızı ⟨את⟩ ve eylemlerinizi ⟨את⟩ gerçekten iyileştirirseniz, bir adam ile komşusu arasında hükmetmeyi gerçekten yaparsanız",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hayır, eğer"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "iyileştirmek"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "iyileştirirseniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yollarınızı"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "yollarınızı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "eylemlerinizi"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "eylemlerinizi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yapmayı"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yaparsanız"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hüküm"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve arasında"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "komşusu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:06:53.086574490Z",
+  "model": "glm-5.3"
+}

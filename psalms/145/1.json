@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Övgü, Davud'a ait. Seni yücelteceğim, Elohim'im, ⟨o⟩ kral; ve adını kutlayacağım sonsuza dek, ebediyen.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Övgü"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "seni yücelteceğim"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ve kutlayacağım"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve ebediyen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:29.786435249Z",
+  "model": "glm-5.3"
+}

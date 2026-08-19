@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ama benim de ⟨sizin gibi⟩ bir yüreğim var, sizden düşmüş değilim; ⟨ve⟩ ⟨את⟩ kim ki bunlar gibi olmayan? Kim bunları bilmez ki?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "da\/ama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "sizin gibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düşmüş"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok \/ bilmez"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:38.558015256Z",
+  "model": "glm-5.3"
+}

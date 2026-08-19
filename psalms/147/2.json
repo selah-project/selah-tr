@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Yeruşalayim'i inşa eden Yahve'dir; İsrail'in kovulmuşlarını toplayandır.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "inşa eden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "kovulmuşlarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "toplayandır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:17.301645798Z",
+  "model": "glm-5.3"
+}

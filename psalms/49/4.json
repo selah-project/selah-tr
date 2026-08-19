@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Ağzım hikmetler söyleyecek, kalbimin düşünüşü anlayışlar ⟨olacak⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "söyleyecek"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "hikmetler"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ve düşünüşü"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbimin"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "anlayışlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:49.913954703Z",
+  "model": "glm-5.3"
+}

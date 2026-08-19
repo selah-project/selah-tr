@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Başlangıç için. Şir, mizmor. Bağırın Elohim'e, bütün ⟨⟨the⟩⟩ yer!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ezici için (başlangıç yöneticisi için)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şir (şarkı)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (çalgılı ilahi)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bağırın"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:57.069226810Z",
+  "model": "glm-5.3"
+}

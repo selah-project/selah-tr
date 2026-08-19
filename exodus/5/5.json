@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Paroh dedi: Bakın, ülkenin halkı şimdi çok sayıda — siz de onları ⟨את⟩ yüklerinden dinlendiriyorsunuz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çok"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "ve dinlendiriyorsunuz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "yüklerinden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:49.099220346Z",
+  "model": "glm-5.3"
+}

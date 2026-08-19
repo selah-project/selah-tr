@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Kazanlarınız dikenin farkına varmadan önce, O onları kasırga gibi alıp götürecek — hem taze hem kavrulmuş olarak, öfkesinin aleviyle.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "önce"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "farkına varmadan"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "kazanlarınız"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "diken"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "taze"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "öfkenin alevi"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "kasırga gibi savuracak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:49.494233752Z",
+  "model": "glm-5.3"
+}

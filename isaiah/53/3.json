@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Horlandı ve insanlar terk etti ⟨onu⟩; acılar adamı, hastalık bilen; ve yüzün ⟨bizim⟩ O'ndan saklandığı gibi horlandı ve biz onu saymadık.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "horlandı"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ve terk etti"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "insanlar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "acılar"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "ve bilen"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "hastalık"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "ve saklandığı gibi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "O'ndan"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "horlandı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "onu saydık"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:19.289532476Z",
+  "model": "glm-5.3"
+}

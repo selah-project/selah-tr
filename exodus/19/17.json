@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Moşe halkı Elohim ile karşılaşmaya çıkardı — ordudan; ve dağın eteğinde durdular.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "çıkardı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "karşılaşmaya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ordu(kamp)"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "durdular"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "eteğinde"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:05.598330263Z",
+  "model": "glm-5.3"
+}

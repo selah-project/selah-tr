@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Süf denizini azarladı ve o kurudu; onları derinliklerde çölde ⟨gibi⟩ yürüttü.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "azarladı"
+    },
+    {
+      "surface": "בים",
+      "gloss": "denizini"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Süf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ve kurudu"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "onları yürüttü"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "derinliklerde"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "çöl gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:26.475740468Z",
+  "model": "glm-5.3"
+}

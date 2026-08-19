@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve keruvların kanatlarının altında insan elinin biçimi göründü.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "keruvların"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "biçimi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "elin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "kanatlarının"
+    }
+  ],
+  "timestamp": "2026-08-19T12:19:35.185476881Z",
+  "model": "glm-5.3"
+}

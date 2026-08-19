@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Birçokları diyor ki: Bize iyiliği kim gösterecek? Yahve, yüzünün ışığını üzerimize kaldır.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "birçokları"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "bize gösterecek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiliği"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "kaldır"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimize"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışığını"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:21.283527082Z",
+  "model": "glm-5.3"
+}

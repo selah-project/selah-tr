@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Kuş ⟨את⟩ Nimrod'u doğurdu; o, yeryüzünde güçlü biri olmaya başladı.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ve Kuş"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod'u"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "החל",
+      "gloss": "başladı"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmaya"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "güçlü biri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:20.076467561Z",
+  "model": "glm-5.3"
+}

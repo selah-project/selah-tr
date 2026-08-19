@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 15:32",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Pekah'ın, Remalyahu'nun oğlu, Yişrael kralının ikinci yılında Yotam, Uziya'nın oğlu, Yehuda kralı, kral olarak tahta çıktı.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "yılında"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "Pekah'ın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu'nun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral oldu"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziya'nın"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:06.695825972Z",
+  "model": "glm-5.3"
+}

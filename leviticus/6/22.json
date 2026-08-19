@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Kohanimlerden her erkek ⟨את⟩ onu yiyecektir; kutsalların kutsalıdır ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kohanimlerden"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (sunuyu)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kutsalların"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:24.244988222Z",
+  "model": "glm-5.3"
+}

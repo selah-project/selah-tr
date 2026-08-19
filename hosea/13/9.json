@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Yıkımın ⟨senin⟩, ey Yisra'el; çünkü ⟨yardımın⟩ yalnız bende.",
+  "tokens": [
+    {
+      "surface": "שִֽׁחֶתְךָ֥",
+      "gloss": "yıkımın-senin"
+    },
+    {
+      "surface": "יִשװָאֵ֖ל",
+      "gloss": "ey Yisra'el"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בִּ֥י",
+      "gloss": "bende"
+    },
+    {
+      "surface": "בְּעֶזְרֶֽךָ",
+      "gloss": "yardımınla"
+    }
+  ],
+  "timestamp": "2026-08-19T12:35:56.322310313Z",
+  "model": "glm-5.3"
+}

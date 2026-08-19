@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Beni bırakma Yahve, Elohim'im; benden uzaklaşma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "me... -ma"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "beni bırakma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me... -ma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzaklaşma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:49.763447144Z",
+  "model": "glm-5.3"
+}

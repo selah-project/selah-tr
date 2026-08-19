@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Paras, Kuş ve Put onlarla ⟨את⟩ birlikte; hepsi kalkan ve miğfer ⟨ile⟩.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ve Put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kalkan"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ve miğfer"
+    }
+  ],
+  "timestamp": "2026-08-19T10:35:30.476580920Z",
+  "model": "glm-5.3"
+}

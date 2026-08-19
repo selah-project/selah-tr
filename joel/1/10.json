@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yağmaya uğradı tarla, yasa büründü toprak; çünkü tahıl yağmaya uğradı, kurudu şıra, solgunlaşmış zeytinyağı.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "yağmaya uğradı"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "yasa büründü"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yağmaya uğradı"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "tahıl"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "kurudu"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "şıra"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "solgunlaşmış"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "zeytinyağı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:52.132261920Z",
+  "model": "glm-5.3"
+}

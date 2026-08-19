@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve arkadaşının karısına yatağını tohum olarak vermeyeceksin — onunla kirlenmek için.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ve ... 'a"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısına"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "arkadaşının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vermeyeceksin değil"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vermeyeceksin"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "senin yatışını"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "tohum olarak"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kirlenmek için"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:11.925303217Z",
+  "model": "glm-5.3"
+}

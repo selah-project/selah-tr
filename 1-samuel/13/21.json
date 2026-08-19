@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 13:21",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve bileme ücreti ⟨oluyordu⟩: bir pim saban demirleri için, ve kazmalar için, ve üç dişli dirgenler için, ve baltalar için, ve öküzmahmuzlarını germek için.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ve ⟨oluyordu⟩"
+    },
+    {
+      "surface": "הפצירה",
+      "gloss": "bileme ücreti"
+    },
+    {
+      "surface": "פים",
+      "gloss": "bir pim"
+    },
+    {
+      "surface": "למחרשת",
+      "gloss": "saban demirleri için"
+    },
+    {
+      "surface": "ולאתים",
+      "gloss": "ve kazmalar için"
+    },
+    {
+      "surface": "ולשלש",
+      "gloss": "ve üç(üncü) için"
+    },
+    {
+      "surface": "קלשון",
+      "gloss": "dişli dirgen"
+    },
+    {
+      "surface": "ולהקרדמים",
+      "gloss": "ve baltalar için"
+    },
+    {
+      "surface": "ולהציב",
+      "gloss": "ve germek için"
+    },
+    {
+      "surface": "הדרבן",
+      "gloss": "öküzmahmuzu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:15.384064342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Ve ⟨אתם⟩ onları efodun omuzlukları üzerine koydu — Yisrael oğulları için anı taşları olarak — Yahve'nin Moşe'ye buyurduğu gibi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "onları (taşları)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "omuzluklarına"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodun"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "taşları"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "anı"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "için oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:53.932233994Z",
+  "model": "glm-5.3"
+}

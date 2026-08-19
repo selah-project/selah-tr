@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Onun rızkını kutsayacağım — kutsayacağım; onun yoksullarını ekmekle doyuracağım.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "rızkını"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kutsayacağım"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "kutsayacağım"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "yoksullarını"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "doyuracağım"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmekle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.301506850Z",
+  "model": "glm-5.3"
+}

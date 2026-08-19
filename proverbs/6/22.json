@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yürüdüğünde ⟨o⟩ seni yönlendirecek, yattığında ⟨o⟩ seni koruyacak; uyandığında ⟨o⟩ seninle konuşacak.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "yürüdüğünde"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "yönlendirecek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "yattığında"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "koruyacak"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senin üzerine"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "ve uyandığında"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "seninle konuşacak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:58.935153457Z",
+  "model": "glm-5.3"
+}

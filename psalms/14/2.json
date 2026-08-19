@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Yahve göklerden insan oğullarının üzerine eğilip baktı — anlayan, ⟨את⟩ Elohim'i arayan var mı diye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "göklerden"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "eğilip baktı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan (adam)"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "היש",
+      "gloss": "var mı"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "anlayan"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "arayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:51.940691525Z",
+  "model": "glm-5.3"
+}

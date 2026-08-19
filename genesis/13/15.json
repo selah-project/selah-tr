@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Çünkü gördüğün ⟨את⟩ bütün ⟨o⟩ toprağı sana vereceğim onu, ve tohumuna — sonsuza dek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün toprağı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨o⟩ toprak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görüyorsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "vereceğim onu"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ve tohumuna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e dek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuza"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:25.001161039Z",
+  "model": "glm-5.3"
+}

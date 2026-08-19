@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve güvercini ⟨את⟩ kendisinden ⟨את⟩ salıverdi, sularun toprağın yüzünün üzerinden hafifleyip hafiflemediğini görmek için.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve salıverdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "güvercini"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "güvercin"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kendisinden ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "hafifleyip hafiflemediğini"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:40.806872728Z",
+  "model": "glm-5.3"
+}

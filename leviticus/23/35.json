@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "İlk gün kutsal bir toplantı ⟨olacaktır⟩; herhangi bir iş emeği yapmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gün(ünde)"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "toplantı"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herhangi bir"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "iş"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "emeği"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mayacaksınız"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapmayacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:15.916140374Z",
+  "model": "glm-5.3"
+}

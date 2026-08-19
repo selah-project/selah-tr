@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 26:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Belki dinlerler ve her kişi kötü yolundan döner; ben de onların kötülüklerinden ötürü kötü davranışlarının yüzünden onlara yapmayı düşündüğüm kötülükten vazgeçerim.",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "belki"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dinlerler"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ve döner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "yolundan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ve vazgeçerim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "düşündüğüm"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmayı"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "davranışlarının"
+    }
+  ],
+  "timestamp": "2026-08-19T10:12:47.404994489Z",
+  "model": "glm-5.3"
+}

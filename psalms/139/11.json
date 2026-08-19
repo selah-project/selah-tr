@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Ve dedim: Kesin karanlık beni ezecek; gece bile etrafımda ışık olur.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kesin"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "beni ezecek"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "gece bile"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "etrafımda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:23.763946212Z",
+  "model": "glm-5.3"
+}

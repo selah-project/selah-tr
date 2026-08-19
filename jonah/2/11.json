@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Yahve balığa söyledi, ve balık Yonah'yı kuru karaya kusup çıkardı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve ... söyledi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "balığa"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "kusup çıkardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah'yı"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah'yı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuru karaya"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "kuru karaya"
+    }
+  ],
+  "timestamp": "2026-08-19T10:42:57.750560332Z",
+  "model": "glm-5.3"
+}

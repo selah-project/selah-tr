@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Yaktaan ⟨את⟩ Almodad'ı, ⟨את⟩ Şelef'i, ⟨את⟩ Hasarmavet'i ve ⟨את⟩ Yarah'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ve Yaktaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad'ı"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad'ı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şelef'i"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Şelef'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hasarmavet'i"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hasarmavet'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yarah'ı"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarah'ı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:58.168825234Z",
+  "model": "glm-5.3"
+}

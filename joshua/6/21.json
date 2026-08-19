@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve şehrin içindeki her şeyi — İbranice'te ⟨את⟩ tam olarak geçtiği gibi — adamdan kadına, gençten yaşlıya, öküz, koyun ve eşeğe kadar kılıcın ağzıyla tamamen yok ettiler (herem).",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "ve tamamen yok ettiler (herem ettiler)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehrin içinde"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadına"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "gençten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlıya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ve koyun"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ve eşek"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzıyla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıcın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:34.780344586Z",
+  "model": "glm-5.3"
+}

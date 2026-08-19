@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 149,
+  "translation": "Krallarını zincirlerle bağlamak, ve soylularını demir bukağılarla bağlamak için —",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "bağlamak için"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "krallarını"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "zincirlerle"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "ve soylularını"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "bukağılarla"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "demir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:47.345484011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Çünkü onların bir meselesi bana gelince, adam ile komşusu arasında yargılarım ve ⟨את⟩ Elohim'in kurallarını ve ⟨את⟩ O'nun toralarını bildiririm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olunca"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "meselesi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelince"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "yargılarım"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ile"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "komşusu"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "bildiririm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurallarını"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "kurallarını"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "toralarını"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "toralarını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:45.960933442Z",
+  "model": "glm-5.3"
+}

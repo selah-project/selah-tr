@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Esav Yaakov'a dedi: Lütfen şu kırmızı, kırmızı ⟨şeyden⟩ yedir beni, çünkü bitkinim; bu yüzden adına Edom denildi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "yutur ver bana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kırmızı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kırmızı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "bitkin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "על",
+      "gloss": "-in üzerine"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ad verildi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:19.291561431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Mitsrayim'i ilkdoğanlarını vurana, çünkü sonsuza dek sürer onun sevgisi.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "vurana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim'i"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ilkdoğanlarını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun sevgisi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:57.651297529Z",
+  "model": "glm-5.3"
+}

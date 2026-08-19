@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ne kadar seviyorum toranızı — bütün gün ⟨o⟩ benim düşüncemdir.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "seviyorum"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "toranızı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "düşüncemdir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:02.418183882Z",
+  "model": "glm-5.3"
+}

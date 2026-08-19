@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Rehavam Şekem'e gitti, çünkü bütün İsrail onu kral yapmak için Şekem'e gelmişti.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelmişti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kral yapmak için"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩onu",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:17.917945262Z",
+  "model": "glm-5.3"
+}

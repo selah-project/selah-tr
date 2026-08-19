@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Yeri suların üzerine gerene — çünkü onun hesedi sonsuza dek sürer.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "gerene"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:48.431514157Z",
+  "model": "glm-5.3"
+}

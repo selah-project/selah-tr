@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Dostuna: «Git, dön gel, yarın veririm» deme; ⟨ verdiğini ⟩ senin yanında ⟨את⟩ varken.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "deme"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deme"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "dostuna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "dön gel"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "yarın"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "veririm"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "varken"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "senin yanında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:31.151018087Z",
+  "model": "glm-5.3"
+}

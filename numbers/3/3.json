@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Bunlar, kâhinlik etmek için elleri doldurulmuş, meshedilmiş kâhinler olan Aharon'un oğullarının adlarıdır.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "meshedilmiş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurulmuş"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "elleri"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kâhinlik etmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:26.752963134Z",
+  "model": "glm-5.3"
+}

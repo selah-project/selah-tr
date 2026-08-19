@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Kucak içine ⟨את⟩ kura atılır, ama onun bütün hükmü Yahve'dendir.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "kucak içine"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "atılır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kura"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "kura"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ama Yahve'den"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "onun hükmü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:13.081728890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Çalmayacaksınız, ve yalan söylemeyip inkâr etmeyeceksiniz, ve adam kendi arkadaşına karşı yalan söylemeyecek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "çalmayacaksınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "yalan söyleyip inkâr etmeyeceksiniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "yalan söylemeyecek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "kendi arkadaşına karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:06.624358104Z",
+  "model": "glm-5.3"
+}

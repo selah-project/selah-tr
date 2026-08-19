@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve eğer kurbânın maḥavatta ⟨⟩ bir minhah ise, ince un, yağla karıştırılmış, matsa olacaktır.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhah (armağan\/sunular)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "maḥavat (ızgara tavası)"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "kurbânın"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ince un"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "karıştırılmış"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "matsa (mayasız ekmek)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:37.964604117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çalışanın uykusu tatlıdır — az yese de çok yese de; ama zenginin tokluğu onu uyumaya bırakmaz.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "tatlıdır"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "uykusu"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "çalışanın"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-sa de"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yese de"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çok"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yese"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "ama tokluğu"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "zenginin"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "bırakmaz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "uyumaya"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:43.371652733Z",
+  "model": "glm-5.3"
+}

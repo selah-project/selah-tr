@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Gelin, Yahve'nin işlerini seyredin: yeryüzünde yıkımlar koyan O'dur.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "seyredin"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "işlerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koyan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "yıkımlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:17.251870459Z",
+  "model": "glm-5.3"
+}

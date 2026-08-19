@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve ⟨את⟩ eşek arısını önünüzden göndereceğim, ve o Hivili'yi ⟨את⟩, Kenanlı'yı ⟨את⟩ ve Hititli'yi ⟨את⟩ önünüzden kovacak.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ve göndereceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eşek arısını"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "eşek arısını"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önünüzden"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ve o kovacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hivili'yi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivili'yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenanlı'yı"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanlı'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hititli'yi"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hititli'yi"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "önünüzden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:24.902654687Z",
+  "model": "glm-5.3"
+}

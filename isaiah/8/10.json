@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Tasarlayın bir plan — ve bozulur; söyleyin bir söz — ve ayakta durmaz; çünkü El bizimledir.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Tasarlayın"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "bir plan"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ve bozulur"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir söz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ayakta durur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimledir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:51.068872879Z",
+  "model": "glm-5.3"
+}

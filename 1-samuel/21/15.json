@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Akiş kullarına dedi: İşte, deliren bir adam görüyorsunuz; neden ⟨את⟩ onu bana getiriyorsunuz?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kullarına"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "görüyorsunuz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "deliren"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "getiriyorsunuz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:40.091051142Z",
+  "model": "glm-5.3"
+}

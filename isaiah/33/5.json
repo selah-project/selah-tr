@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Yahve yücedir, çünkü yücelerde oturur; Siyon'u hüküm ve adaletle doldurmuştur.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "yücedir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "oturur\/ikamet eder"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yücelerde"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon'u"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hüküm"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ve adalet"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:32.557684232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü zulüm bilgeyi çıldırtır ve rüşvet kalbi yıkar ⟨את⟩ kalbi yok eder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "zulüm"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "çıldırtır"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilgeyi"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "yok eder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalbi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "rüşvet"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:02.975389752Z",
+  "model": "glm-5.3"
+}

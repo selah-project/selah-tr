@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yahve'nin ⟨beri⟩ Nathan peygamberin eli ⟨aracılığıyla⟩ gönderdi; onun adını Yedidyah ⟨את⟩ olarak adlandırdı, Yahve yüzünden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "el ile"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "adlandırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adı"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:51.379397292Z",
+  "model": "glm-5.3"
+}

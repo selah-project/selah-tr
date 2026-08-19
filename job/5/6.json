@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çünkü bela tozdan çıkmaz, ve sıkıntı topraktan bitmez.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "tozdan"
+    },
+    {
+      "surface": "און",
+      "gloss": "bela"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "ve topraktan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "biter"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sıkıntı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:19.135815289Z",
+  "model": "glm-5.3"
+}

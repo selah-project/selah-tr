@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve oldu, Merav'ı, Şaul'un kızını, Davud'a verme zamanında, ⟨את⟩ o Adriel'e, Maholatlının karısına verildi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "תת",
+      "gloss": "verme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav'ı"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "verildi"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adriel'e"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Maholatalı"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "karısına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:19.524973128Z",
+  "model": "glm-5.3"
+}

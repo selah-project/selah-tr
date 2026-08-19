@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Değersiz insan, kötülük adamı — ağzının eğriliğiyle yürür.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "değersiz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "און",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "yürür"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "eğriliği"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ağız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:10.421716890Z",
+  "model": "glm-5.3"
+}

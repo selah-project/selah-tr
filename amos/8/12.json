@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve denizden denize, kuzeyden doğuya kadar sürünecekler; Yahve'nin ⟨את⟩ sözünü aramak için oraya buraya koşacaklar ve bulamayacaklar.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "sürünecekler"
+    },
+    {
+      "surface": "מים",
+      "gloss": "denizden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denize"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "ve kuzeyden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve kadar"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "doğuya"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "oraya buraya koşacaklar"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "aramak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin sözünü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayan"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "bulamayacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:06.700395910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 37:26",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Uzaktan duymadın mı? Onu eski günlerde ben yaptım ve ben biçimlendirdim; şimdi ⟨את⟩ onu ben getirdim ki surlu şehirleri yıkık yığınlar haline getirsin.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "duydun"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "uzaktan"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (עשיתі'nin dolaylı nesnesi)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "günlerinde"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "eski"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "ve biçimlendirdim onu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "הבאתיה",
+      "gloss": "getirdim onu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ve o oldu"
+    },
+    {
+      "surface": "להשאות",
+      "gloss": "yıkıp yığmak için"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "yıkık yığınlar"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "harap"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şehirleri"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "surlu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:31.279833797Z",
+  "model": "glm-5.3"
+}

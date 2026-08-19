@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve başlangıcın küçük ⟨olur⟩, sonun ise çok büyük ⟨olur⟩",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve olur"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "başlangıcın"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "sonun ise"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "çok büyük ⟨olur⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:58.087976853Z",
+  "model": "glm-5.3"
+}

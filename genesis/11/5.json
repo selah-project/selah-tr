@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Yahve inmişti görmek için ⟨את⟩ şehri ve ⟨את⟩ kuleyi, ki onu insan oğulları yapmışlardı.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ve inmişti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kuleyi"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "kuleyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "yapmışlardı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan(ın)"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:49.837972092Z",
+  "model": "glm-5.3"
+}

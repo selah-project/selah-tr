@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yahve, Elohim'iniz, ⟨את⟩ sizleri çoğalttı; ve işte bugün göklerin yıldızları gibi çoksunuz.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çoğalttı"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "gibi yıldızları"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "çoklukça"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:14.692844635Z",
+  "model": "glm-5.3"
+}

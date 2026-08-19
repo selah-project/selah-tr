@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve komşunuza bir şey sattığınızda ya da komşunuzun elinden satın aldığınızda, kişi kardeşine ⟨את⟩ zulmetmesin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "satarsanız"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "bir satış"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "komşunuza"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "satın alırsanız"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "komşunuzun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "zulmedin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşine"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:30.637899423Z",
+  "model": "glm-5.3"
+}

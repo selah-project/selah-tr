@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Komşunun evini arzulamayacaksın, komşunun karısını arzulamayacaksın, kölesini, cariyesini, öküzünü, eşeğini ve komşunun olan her şeyi ⟨de⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "arzulamayacaksın (olumsuz)"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "arzulama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "komşunun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "arzulamayacaksın (olumsuz)"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "arzulama"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısını"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "komşunun"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ve kölesini"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ve cariyesini"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "ve öküzünü"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "ve eşeğini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "komşunun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:20.918863528Z",
+  "model": "glm-5.3"
+}

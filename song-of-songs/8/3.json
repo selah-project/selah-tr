@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Sol eli başımın altında, sağ eli ise kucaklıyor beni.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "sol eli"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ve sağ eli"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "kucaklıyor beni"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:39.608807128Z",
+  "model": "glm-5.3"
+}

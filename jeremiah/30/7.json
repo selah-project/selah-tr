@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Vay! Çünkü o gün büyük ⟨bir gündür⟩, onun benzeri yoktur; ve bu Yaakov için sıkıntı zamanıdır, ama ondan kurtulacaktır.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "היום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨zamir⟩"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "onun benzeri"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve zaman"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨dır⟩"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov için"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "ama ondan"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "kurtulacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:13:00.647461409Z",
+  "model": "glm-5.3"
+}

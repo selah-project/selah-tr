@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Çünkü şehri yığına çevirdin, surlu kenti yıkıntıya; yabancıların kalesi şehir olmaktan çıktı — sonsuza dek kurulmayacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "çevirdin"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "yığına"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kent"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "surlu"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "yıkıntıya"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "kale"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yabancıların"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şehirden"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "kurulacak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:31.075419726Z",
+  "model": "glm-5.3"
+}

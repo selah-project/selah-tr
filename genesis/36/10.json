@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Bunlar Esav'ın oğullarının adlarıdır: Elifaz, Esav'ın karısı Ada'nın oğlu; Reuel, Esav'ın karısı Basemat'in oğlu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav'ın"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav'ın"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:22.000300639Z",
+  "model": "glm-5.3"
+}

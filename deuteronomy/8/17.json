@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve kalbinde diyeceksin: Benim gücüm ve elimin kudreti bana ⟨את⟩ bu serveti kazandırdı.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ve diyeceksin"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "kalbinde"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "benim gücüm"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ve kudreti"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elimin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kazandırdı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu serveti"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "serveti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:48.978492223Z",
+  "model": "glm-5.3"
+}

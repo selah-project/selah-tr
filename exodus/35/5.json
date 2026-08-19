@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Alın sizin aranızdan Yahve'ye bir teruma; gönülü gönüllü olan herkes onu getirsin — Yahve'nin terumasını ⟨את⟩: altın, gümüş ve bakır.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "alın"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ sizin aranızdan",
+      "marks": "sizin aranızdan"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "bir teruma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "gönüllü"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "gönlü"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "getirsin onu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin terumasını"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumasını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ve gümüş"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ve bakır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:40.781871327Z",
+  "model": "glm-5.3"
+}

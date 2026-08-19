@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "İşte yiyeceğiniz hayvan: sığır, koyun kuzusu ve keçi oğlağı.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceğiniz"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sığır"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kuzu\/oğlak"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "koyun(lar)ın"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ve kuzu\/oğlak"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçi(ler)in"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:22.074465050Z",
+  "model": "glm-5.3"
+}

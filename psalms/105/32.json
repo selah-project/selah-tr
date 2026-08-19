@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Yağmurlarını doluya çevirdi, alev alev ateş ⟨onların⟩ topraklarında.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "verdi (çevirdi)"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "yağmurlarını"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "alev alev"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "topraklarında"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:21.596852472Z",
+  "model": "glm-5.3"
+}

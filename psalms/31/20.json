@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ne kadar bol ⟨dır⟩ iyiliğin, senin onlardan sakladığın, sana ⟨⟨sığınan⟩⟩ senin için yaptığın, insan oğullarının gözü önünde!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "iyiliğin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "sakladığın"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "seni sayanlar için"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "yaptığın"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "sığınanlar için"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "gözü önünde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:06.619130253Z",
+  "model": "glm-5.3"
+}

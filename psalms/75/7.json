@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 75,
+  "translation": "Çünkü yükseliş doğudan değil, batıdan da değil, çöl dağlarından da ⟨değildir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "doğudan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "batıdan da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da değil"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "çölden"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:54.172661448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Ve sürekli yaşasın ⟨o⟩ sonsuza dek, çukuru görmeyesin —",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ve yaşasın"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görmeyesin"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "çukuru"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:37.849745357Z",
+  "model": "glm-5.3"
+}

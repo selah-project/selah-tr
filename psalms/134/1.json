@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 134,
+  "translation": "Yükseliş türküsü. İşte, Yahve'yi kutsayın, ey Yahve'nin bütün kulları, Yahve'nin evinde geceleri duranlar!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "türkü"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "kutsayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "durup duranlar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "geceleri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.697050590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "ve dinleyen, şofarın sesini ⟨את⟩ duyar ama uyarıyı almazsa, ve kılıç gelip onu alırsa, kanı kendi başının üzerinde olur.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ve duyar"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "dinleyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "şofarın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama olmazsa"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "uyarıyı alır"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ve gelirse"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "onu alırsa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "kendi başının üzerinde"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olur"
+    }
+  ],
+  "timestamp": "2026-08-19T10:33:37.179800661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "İşte Yahve seni savurup atacak — tam bir savurulmayla, ey güçlü adam — ve seni sarıp saracak.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "seni savurup atacaktır"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "tam bir savurulma"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "güçlü adam"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "ve seni saracak"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "sarma ile"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:43.537284197Z",
+  "model": "glm-5.3"
+}

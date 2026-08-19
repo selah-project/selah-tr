@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Beni dinleyin, katı yürekli olanlar, doğruluktan uzakta duranlar!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dinleyin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "katı yürekli olanlar... güçlü"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "uzakta duranlar"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "doğruluktan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:55.672831114Z",
+  "model": "glm-5.3"
+}

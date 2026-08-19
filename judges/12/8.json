@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ondan sonra İsrail'i ⟨את⟩ Avtsan yargıladı, Beit-Lehem'den.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ve yargıladı"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ondan sonra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'i"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Avtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "-den ev"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:35.210475071Z",
+  "model": "glm-5.3"
+}

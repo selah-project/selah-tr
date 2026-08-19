@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve ⟨את⟩ ikincisini yakılan sunu olarak kurala göre yapacak; kâhin onun günahından dolayı — ⟨o⟩nun günah işlediği şeyden — onun için kefaret yapacak ve ona bağışlanacak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikincisini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikincisini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yakılan sunu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kurala göre"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kefaret yapacak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "günahından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah işledi"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "bağışlanacak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:12.451170003Z",
+  "model": "glm-5.3"
+}

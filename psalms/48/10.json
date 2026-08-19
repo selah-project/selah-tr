@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Elohim, sarayının ortasında senin sadakatini düşündük.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "düşündük"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "senin sadakatini"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "sarayının"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:28.983887553Z",
+  "model": "glm-5.3"
+}

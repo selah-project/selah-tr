@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Çünkü nefsinde hesap tuttuğu gibi, öyledir ⟨o⟩; «Ye ve iç» der sana, ama yüreği seninle ⟨değildir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hesap tuttuğu"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "nefsinde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ve iç"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "ama yüreği"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hiç ⟨değildir⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:59.146507719Z",
+  "model": "glm-5.3"
+}

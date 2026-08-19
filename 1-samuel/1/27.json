@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bu oğlan için dua ettim ve Yahve bana O'ndan dilediğim dileğimi ⟨את⟩ verdi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "için"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bu oğlan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "dua ettim"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dileğimi"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "dileğim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "diledim"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "O'ndan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:20:48.848659967Z",
+  "model": "glm-5.3"
+}

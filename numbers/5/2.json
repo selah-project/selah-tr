@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "İsrail oğullarına ⟨את⟩ buyruk ver ve ordugâhtan her cüzamlıyı, her akıntılıyı ve her nefes(ölü) yüzünden murdar olanı dışarı göndermelerini ⟨emret⟩.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "buyruk ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ve göndersinler"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dışarı"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ordugâhtan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "cüzamlıyı"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "זב",
+      "gloss": "akıntılıyı"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar olanı"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nefes(ölü) yüzünden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:23.250113444Z",
+  "model": "glm-5.3"
+}

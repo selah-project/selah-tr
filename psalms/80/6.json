@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Onları ağulu böreğe ⟨benzer⟩ ⟨bir⟩ gözla besledin ve onlara göz yalardan ⟨ÜÇTE-BİR-ÖLÇÜSÜNDE⟩ içirdin.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "onları yedirdin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "gözyaşı"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "ve onları içirdin"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "gözyaşlarıyla"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "üçte bir ölçüsünde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:38.920078670Z",
+  "model": "glm-5.3"
+}

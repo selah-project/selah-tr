@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Onu vuranın vurduğu gibi mi ona vurdu? Yoksa öldürülenlerini öldürdüğü gibi mi öldürüldü?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "vuruşu gibi mi"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "onu vuranın"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "onu vurdu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "öldürdükleri gibi mi"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "öldürülenlerini"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürüldü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:30.817814560Z",
+  "model": "glm-5.3"
+}

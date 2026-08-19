@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Yahve'yi öveceğim yaşamım boyunca, Elohim'ime ezgiler söyleyeceğim var olduğum sürece.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "öveceğim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "yaşamım boyunca"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ezgi söyleyeceğim"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim'ime"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "var olduğum sürece"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:47.354293352Z",
+  "model": "glm-5.3"
+}

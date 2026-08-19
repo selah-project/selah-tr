@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Ve oğulları sürekli serseri dolaşsın, dilensinler ve kendi ıssız yerlerinden ⟨ekmeklerini⟩ arasınlar.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ve serseri dolaşsın"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "sürekli dolaşsınlar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ve dilensinler"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ve arasınlar"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "ıssız yerlerinden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:55.490813277Z",
+  "model": "glm-5.3"
+}

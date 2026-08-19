@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Olmuştu ki, krallık onun elinde güçlendiği zaman, kral babasını vuran kendi kölelerini vurdu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "olmuştu ki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olduğu zaman"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güçlendi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "krallık"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "onun elinde"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kölelerini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kendi kölelerini"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "vuranları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasını"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:40.555770190Z",
+  "model": "glm-5.3"
+}

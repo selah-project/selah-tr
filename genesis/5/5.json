@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Adem'in yaşadığı tüm günleri dokuz yüz otuz yıl oldu, ve ⟨o⟩ öldü.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adem'in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşadığı"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "dokuz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ve otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:58.593416140Z",
+  "model": "glm-5.3"
+}

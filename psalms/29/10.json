@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yahve tufanın ⟨üzerinde⟩ kuruldu; ve Yahve kral olarak sonsuza dek oturur.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "tufanın"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kuruldu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve oturur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:43.825418413Z",
+  "model": "glm-5.3"
+}

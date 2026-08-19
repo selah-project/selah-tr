@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yehoşua onlara Yahve'nin kendisine söylediği gibi yaptı: ⟨את⟩ atlarını kekledi ve ⟨את⟩ savaş arabalarını ateşle yaktı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söylediği"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atlarını"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "atları"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "kekledi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "savaş arabalarını"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "savaş arabaları"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yaktı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:32.959754872Z",
+  "model": "glm-5.3"
+}

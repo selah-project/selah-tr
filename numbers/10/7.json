@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve topluluğu ⟨את⟩ topladığınızda öteceksiniz, ama terua öttürmeyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ve topladığınızda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "topluğu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "topluluk"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "öteceksiniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "terua öttüreceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:49.936951268Z",
+  "model": "glm-5.3"
+}

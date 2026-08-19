@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Asa kral bütün Yahuda'yı ⟨את⟩ aldı; Ramah'ın taşlarını ⟨את⟩ ve Başa'nın onlarla inşa ettiği kerestelerini ⟨את⟩ kaldırdılar ve onlarla Giv'a'yı ⟨את⟩ ve Mitspa'yı ⟨את⟩ inşa etti.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Ve Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün Yahuda'yı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ve kaldırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taşlarını"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "taşlarını"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah'ın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kerestelerini"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "kerestelerini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onları"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'a'yı"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Giv'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Mitspa'yı"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:51.555662336Z",
+  "model": "glm-5.3"
+}

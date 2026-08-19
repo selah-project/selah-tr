@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve biçerken ⟨את⟩ yerinizin hasadını, tarlanın kenarını biçmeye kadar tamamen biçmeyeyeceksin, ve hasadının devşirilmişini devşirmeyeceksin.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "ve biçerken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerinizin hasadını"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "hasadını"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "yerinizin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "tamamen biçmeyeceksin"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kenarını"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "biçmeye kadar"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ve devşirilmişini"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "hasadının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "devşirmeyeceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:06.623890272Z",
+  "model": "glm-5.3"
+}

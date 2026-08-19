@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Gürültü dolusun, gürültücü şehir, coşkulu kent; öldürülmüşlerin kılıçtan öldürülmüş değil, savaşta ölmüş de değil.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "gürültüler"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "gürültü koparan"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kent"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "coşkulu"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "öldürülmüşlerin (senin)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "öldürülmüşleri"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ölüleri"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:15.593142843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve kadınlardan biri dedi: «Efendim, lütfen, ben ve bu kadın aynı bir evde oturuyorduk ve onunla birlikte evde doğurdum.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בי",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "ve kadın"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "oturuyorduk"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "ve doğurdum"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:06.279417185Z",
+  "model": "glm-5.3"
+}

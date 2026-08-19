@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Ve eğer beni görmeye gelirse, boşluk konuşur; kalbi kendine kötülük toplar; dışarı çıkınca konuşur.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelirse"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmeye"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "boşluk"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "konuşur"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "toplar"
+    },
+    {
+      "surface": "און",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "dışarı"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "konuşur"
+    }
+  ],
+  "timestamp": "2026-08-19T12:36:40.491600866Z",
+  "model": "glm-5.3"
+}

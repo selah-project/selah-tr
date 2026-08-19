@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "O gün düşmüş olan Davud'un ⟨את⟩ çadırını dirilteceğim, onun ⟨את⟩ gediklerini örpeceğim, yıkıntılarını dirilteceğim ve onu eski günlerdeki gibi yeniden inşa edeceğim.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "dirilteceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud'un çadırını"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "çadırını"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "düşmüş olan"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ve örpeceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gediklerini"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "gediklerini"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "yıkıntılarını"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "dirilteceğim"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ve yeniden inşa edeceğim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "günlerdeki gibi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eski"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:11.983639454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Merhametli ve lütufkardır Yahve, öfkede yavaş ve bol sevgidedir.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "merhametli"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ve lütufkar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "yavaş"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "öfkede"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ve bol"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:52.175268078Z",
+  "model": "glm-5.3"
+}

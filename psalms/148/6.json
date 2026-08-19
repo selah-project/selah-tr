@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 148,
+  "translation": "Onları sonsuza dek, ebediyen dikti; bir sınır koydu, ⟨o⟩ aşılmayacak.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "ve onları dikti"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "חק",
+      "gloss": "sınır"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "aşılmayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:04.788623385Z",
+  "model": "glm-5.3"
+}

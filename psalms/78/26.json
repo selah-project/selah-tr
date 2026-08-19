@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Doğu rüzgârını göklerde yola çıkardı ve gücünün gücüyle güney rüzgârını sevk etti — עֻזּוֹ ile.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "yola çıkardı"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "doğu rüzgârı"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "sevk etti"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "gücüyle"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "güney rüzgârı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:04.733743205Z",
+  "model": "glm-5.3"
+}

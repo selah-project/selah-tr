@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Sizi ⟨את⟩ Mısır ülkesinden çıkaran, size Elohim olmak için — Ben Yahve.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "çıkaran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmak için"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:06.723345743Z",
+  "model": "glm-5.3"
+}

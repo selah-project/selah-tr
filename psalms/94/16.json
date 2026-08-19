@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Kötülük yapanlara karsı benim için kim kalkacak? Ále isi yapanlara karsı benim için kim duracak?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kalkacak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karsı"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötülük yapanlara"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "duracak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karsı"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "isi yapanlara"
+    },
+    {
+      "surface": "און",
+      "gloss": "álin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:51.705675216Z",
+  "model": "glm-5.3"
+}

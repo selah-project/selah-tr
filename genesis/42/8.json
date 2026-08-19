@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve Yosef kardeşlerini ⟨את⟩ tanıdı, ama onlar onu tanımadılar.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "tanıdı"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşlerini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşlerini"
+    },
+    {
+      "surface": "והם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "onu tanıdılar"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:40.875703380Z",
+  "model": "glm-5.3"
+}

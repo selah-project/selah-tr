@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Toprağını işleyen ekmekle doyar; boş şeylerin peşine düşen yoksullukla doyar.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "işleyen"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "toprağını"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "doyar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmekle"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "peşine düşen"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "boş şeylerin"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "doyar"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "yoksullukla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:36.145967657Z",
+  "model": "glm-5.3"
+}

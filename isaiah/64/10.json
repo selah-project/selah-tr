@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Kutsal evimiz ve görkemimiz, atalarımızın Seni övdüğü ⟨ev⟩, ateş yakımı ⟨oldu⟩; ve bütün sevgili şeylerimiz harabeye döndü.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "kutsal-imiz"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "ve görkemimiz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "Seni övdüğü"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "yakımına"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "sevgili şeylerimiz"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "harabeye"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:40.505122730Z",
+  "model": "glm-5.3"
+}

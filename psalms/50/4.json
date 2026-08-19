@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Göklere, yukarıdan, ve yere çağıracak — halkını yargılamak ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "çağıracak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨-e doğru⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklere"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yukarıdan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ⟨-e doğru⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yere"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "yargılamak için"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:25.281331503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ben ise bütünlüğümde yürüyeceğim; beni fidyeyle kurtar ve bana lütuf et.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "bütünlüğümde"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yürüyeceğim"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "beni fidyeyle kurtar"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ve bana lütuf et"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:50.495319825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ağaçtan ise — bilgi ağacından, iyi ve kötü — ondan yeme; çünkü ondan yediğin gün kesinlikle ölürsün.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "ağaçtan ise"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "bilgi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ve kötü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeme"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yiyeceksin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "yediğin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölmek"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "öleceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:17.589359349Z",
+  "model": "glm-5.3"
+}

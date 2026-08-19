@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 149,
+  "translation": "Adını dansla övsünler, tef ve çenk ile O'na çalsınlar.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "övsünler"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "dansla"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "tef"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ve çenk"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "çalsınlar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'na"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:46.299385236Z",
+  "model": "glm-5.3"
+}

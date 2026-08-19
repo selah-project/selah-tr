@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Benim sizi tanıdığım günden beri Yahve'ye karşı başkaldırıcı oldunuz.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "başkaldırıcı"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "oldunuz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "günden beri"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "tanıdığım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:47.383844439Z",
+  "model": "glm-5.3"
+}

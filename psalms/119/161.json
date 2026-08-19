@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Önderler beni sebepsiz kovaladılar; ama sözlerin karşısında yüreğim titredi.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "önderler"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "beni kovaladılar"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sebepsiz"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ama sözlerin"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "titredi\/korktu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yüreğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:04.605085698Z",
+  "model": "glm-5.3"
+}

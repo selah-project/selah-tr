@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve ⟨את⟩ iç avluyu inşa etti: üç sıra yontulmuş taş ve bir sıra kesilmiş sedir kirişleri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iç avluyu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "avluyu"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "iç"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "sıra"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "yontulmuş taş"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "ve bir sıra"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "kesilmiş kiriş"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:32.705675216Z",
+  "model": "glm-5.3"
+}

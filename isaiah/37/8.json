@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve Ravşake döndü ve Aşur kralını ⟨את⟩ Livna üzerine savaşır buldu; çünkü işitmişti, çünkü Lakiş'ten ayrılmıştı.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve döndü"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "şקה",
+      "gloss": "Ravşake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ve buldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşur kralını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "savaşır"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "işitmişti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ayrılmıştı"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakiş'ten"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:56.279765042Z",
+  "model": "glm-5.3"
+}

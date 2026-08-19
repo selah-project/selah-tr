@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Oğlum, Yahve'den ⟨את⟩ ve kraldan kork; değişenlerle karışma.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "kork"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ve kral"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "değişenler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "karışma"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:58.515822901Z",
+  "model": "glm-5.3"
+}

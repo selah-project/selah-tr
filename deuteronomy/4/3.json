@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Gözleriniz gördü ⟨את⟩ o şeyi ki Yahve Ba'al Pe'or işinde yaptı; çünkü ⟨את⟩ bütün o adam ki Ba'al Pe'or'un ardınca yürüdü, Yahve, Elohim'iniz, onu aranızdan yok etti.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "gözleriniz"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pe'or"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yürüdü"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pe'or"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "onu yok etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "içinizden"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:35.169834570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve El Şadday seni kutsasın ve seni bereketlendirsin ve seni çoğaltsın ve sen halklar topluluğu ⟨ol⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ve El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kutsasın"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ve bereketlendirsin seni"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ve çoğaltsın seni"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ve olacaksın"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "topluluğuna"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halkların"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:11.110518567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Zabad ⟨את⟩ Eflal'ı doğurdu ve Eflal ⟨את⟩ Oved'i doğurdu.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ve Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ve Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:04.491195569Z",
+  "model": "glm-5.3"
+}

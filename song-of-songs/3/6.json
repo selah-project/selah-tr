@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kimdir bu, çölden yükselen, duman sütunları gibi, mür ve tütsüyle tütsülenmiş, her tüccar tozundan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kimdir"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yükselen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "sütunlar gibi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "duman"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "tütsülenmiş"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mür"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "ve tütsü"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her -den"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "tozu"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "tüccarın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:57.872429940Z",
+  "model": "glm-5.3"
+}

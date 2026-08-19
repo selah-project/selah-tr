@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yaakov çorba pişirdi; Esav tarladan geldi ve ⟨o⟩ bitkindi.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "pişirdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "çorba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve ⟨o⟩"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "bitkin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:19.291299338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Biliyorum ki sen her şeye kadirsin ve senden hiçbir tasarım engellenemez.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "biliyorum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "kadirsin \/ yapabilirsin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "engellenir \/ sakıt olur"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "tasarım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:29.566618507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Gördüler yürüyüşlerini, ey Elohim — El'imin, Kralımın yürüyüşlerini kutsal ⟨yerde⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "yürüyüşlerini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "yürüyüşlerini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El'imin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Kralımın"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kutsal ⟨yerde⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:42.107769114Z",
+  "model": "glm-5.3"
+}

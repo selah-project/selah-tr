@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Sıkıntı gününde gevşersen, gücün dar olur.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "gevşersen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dar"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "gücün"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:06.437417790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve dedi: Okları al. Ve o aldı. Ve İsrail kralına dedi: Yere vur. Ve o üç kez vurdu ve durdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Al"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "okları"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve o aldı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Vur"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve o vurdu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kez"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ve durdu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:20.696648006Z",
+  "model": "glm-5.3"
+}

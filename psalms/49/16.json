@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Ama Elohim canımı Şeol'in elinden fidyeyle kurtaracak; çünkü ⟨O⟩ beni yanına alacak. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "fidyeyle kurtaracak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "beni alacak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:58.373837289Z",
+  "model": "glm-5.3"
+}

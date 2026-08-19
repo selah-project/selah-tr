@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve ⟨את⟩ şu şehirleri, ve ⟨את⟩ bütün ovayı, ve ⟨את⟩ o şehirlerin bütün sakinlerini, ve toprağın biteğini altüst etti.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "altüst etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu şehirleri"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "şu şehirleri"
+    },
+    {
+      "surface": "האל",
+      "gloss": "şu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün ovayı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ovayı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün sakinlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinlerini"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "o şehirlerin"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ve biteğini"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:54.381418198Z",
+  "model": "glm-5.3"
+}

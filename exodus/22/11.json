@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve eğer onun yanından çalınmışsa çalınan, sahibine ödeyecektir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "çalınmışsa"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "çalınır"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "onun yanından"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödeyecektir"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "sahibine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:03.919563616Z",
+  "model": "glm-5.3"
+}

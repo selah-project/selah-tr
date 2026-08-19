@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 129,
+  "translation": "Yükseliş ilâhisi. Çok defa sıkıştırdılar beni gençliğimden beri — desin şimdi İsrail.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ilâhisi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "çok defa"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "sıkıştırdılar beni"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gençliğimden"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "desin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:32.815225453Z",
+  "model": "glm-5.3"
+}

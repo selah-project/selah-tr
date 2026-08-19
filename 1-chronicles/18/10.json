@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 18:10",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve oğlu Hadoram'ı ⟨את⟩ Kral Davut'a, ona esenlik sormaya ve Hadadezer'le savaşıp onu vurduğu için onu kutsamaya gönderdi; çünkü Hadadezer, Tou'nun savaş adamıydı. Ve yanında altın, gümüş ve tunçtan her türlü kap vardı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadoram'ı"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram'ı"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davut'a"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sormaya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "ve onu kutsamaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebebiyle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "savaşıp"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "Hadadezer'le"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ve onu vurduğu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou'nun"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her türlü"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kap"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ve gümüş"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ve tunçtan"
+    }
+  ],
+  "timestamp": "2026-08-19T12:26:26.869030125Z",
+  "model": "glm-5.3"
+}

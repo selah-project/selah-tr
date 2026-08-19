@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve eğer ⟨bir⟩ adam mülk tarlasından ⟨bir⟩ kısmını Yahve'ye adarsa, senin değerlemen tohumuna göre olacaktır: arpa tohumundan bir homer, elli şekel gümüşe ⟨göre⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "tarlasından"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "mülkünün"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "adarsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "senin değerlemen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "göre"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "tohumuna"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohumu"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpanın"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "ellide"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:20.563208297Z",
+  "model": "glm-5.3"
+}

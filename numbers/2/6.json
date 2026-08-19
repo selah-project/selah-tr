@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve onun ordusu ve sayılmışları: dört ve elli bin ile dört yüz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ve onun ordusu"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ve sayılmışları"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dört"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ve elli"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ve dört"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:34.079826189Z",
+  "model": "glm-5.3"
+}

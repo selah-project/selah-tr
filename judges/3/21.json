@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Ehud ⟨את⟩ sol elini uzattı ve kılıcı sağ uyluğunun üstünden aldı ve onu karnına sapladı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "uzattı"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sol elini"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "sol"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kılıcı"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstünden"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "uyluğunun"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "onu sapladı"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "karnına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:56.028070094Z",
+  "model": "glm-5.3"
+}

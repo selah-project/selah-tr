@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "o zaman kentinin ileri gelenleri gönderecekler ve ⟨אתו⟩ oradan alacaklar ve ⟨אתו⟩ kanın yolcusunun eline verecekler ve ölecek.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ve gönderecekler"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ileri gelenleri"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kentinin"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ve alacaklar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "onu (oradan)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ve verecekler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elinin içine"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "yolcusunun"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kanın"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ve ölecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:05.224487615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ve ayakta durdu Pinehas ve aracılık etti, ve salgın durduruldu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ve ayakta durdu"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ve aracılık etti"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ve durduruldu"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "salgın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:37.748910738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve günah sunusu boğasının bütün yağını ⟨את⟩ ondan kaldıracaktır: iç organların üzerini örten yağı ⟨את⟩ ve iç organların üzerindeki bütün yağı ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün yağını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yağını"
+    },
+    {
+      "surface": "פר",
+      "gloss": "boğasının"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "kaldıracaktır"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "örten"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerini"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iç organların"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün yağı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerindeki"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iç organların"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:57.660085848Z",
+  "model": "glm-5.3"
+}

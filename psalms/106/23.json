@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 106:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Onları yok etmeyi söyledi — eğer Moşe, seçilmişi, yarıkta önünde durmamış ve öfkesini yıkımdan çevirmemiş olsaydı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "onları yok etmeyi"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "eğer ... olmasaydı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בחירו",
+      "gloss": "seçilmişi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "yarıkta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "çevirmek için"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "öfkesini"
+    },
+    {
+      "surface": "מהשחית",
+      "gloss": "yıkımdan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:38.899858158Z",
+  "model": "glm-5.3"
+}

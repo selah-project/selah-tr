@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Yehuda'nın günahı demir bir kalemle, şamir ucuyla yazılmıştır; yüreklerinin tableti üzerine ve sunaklarınızın boynuzlarına kazınmıştır.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "günahı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda'nın"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "yazılmıştır"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "kalemle"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "ucuyla"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "şamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "kazınmıştır"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tableti"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "yüreklerinin"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "ve boynuzlarına"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "sunaklarınızın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:09:54.577113251Z",
+  "model": "glm-5.3"
+}

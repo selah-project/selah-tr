@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Bilge bir oğul babayı sevindirir; ama akılsız insan annesini küçümser.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevindirir"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ve akılsız"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "küçümser"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:51.501573603Z",
+  "model": "glm-5.3"
+}

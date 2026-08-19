@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "İşte ben onları, kendilerini sattığınız yerden oraya uyandırıp çıkarıyorum, ve yaptıklarınızın karşılığını kendi başınıza geri çevireceğim.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "onları uyandırıyorum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "içinden"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "sattığınız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orasına"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ve geri çevireceğim"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "yaptıklarınızın karşılığını"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "kendi başınıza"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:04.971400258Z",
+  "model": "glm-5.3"
+}

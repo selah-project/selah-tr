@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Yahve'yi bekleyeceğim, O ki yüzünü Yaakov evinden gizlemektedir; ve O'nu umacağım.",
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "ve bekleyeceğim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "O ki gizlemektedir"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "...evinden"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "ve umacağım"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'nu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:07.665727724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Bilsinler ki bu senin elindir; sen, Yahve, yaptın onu.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "bilsinler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "senin elin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "yaptın onu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:57.742408464Z",
+  "model": "glm-5.3"
+}

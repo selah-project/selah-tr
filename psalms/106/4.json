@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Beni an, Yahve, ⟨halkına⟩ rızanın ⟨zamanında⟩; beni ziyaret et kurtuluşunla.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "beni an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "rızanınla"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "beni ziyaret et"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "kurtuluşunla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:31.732284067Z",
+  "model": "glm-5.3"
+}

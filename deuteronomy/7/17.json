@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Eğer kalbinde söylersen: \"Bu uluslar benden çok daha kalabalık, onları nasıl yok edebilirim?\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "söylersen"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "kalbinde"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çok daha kalabalık"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "-ebilirim"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "onları yok etmek"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:55.159226011Z",
+  "model": "glm-5.3"
+}

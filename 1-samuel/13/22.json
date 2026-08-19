@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve savaş gününde ⟨oldu ki⟩, Şaul ⟨את⟩ ile ve Yonatan ⟨את⟩ ile birlikte olan bütün halkın elinde kılıç ve mızrak bulunmadı; ancak Şaul'da ve oğlu Yonatan'da bulundu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve ⟨oldu ki⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "bulunmadı"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "ve mızrak"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "ve bulundu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaul'da"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "ve Yonatan'da"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:15.384405997Z",
+  "model": "glm-5.3"
+}

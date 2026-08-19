@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Eğer yovel yılının ardından tarlasını adarsa, senin değerlemene göre ⟨o değer⟩ geçerli olacaktır.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "yılının ardından"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "adarsa"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "tarlasını"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "senin değerlemene göre"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "geçerli olacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:22.859685903Z",
+  "model": "glm-5.3"
+}

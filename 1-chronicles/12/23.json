@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Çünkü gün be gün, vakti saatinde, Davut'a yardım etmeye geliyorlardı — ta Elohim ordugâhı gibi büyük bir ordugâh oluncaya kadar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vakti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün be gün"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "geliyorlardı"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "ona yardım etmeye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta...-incaya kadar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "bir ordugâh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "gibi ordugâh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:42.957008995Z",
+  "model": "glm-5.3"
+}

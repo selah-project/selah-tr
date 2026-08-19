@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Canım toprağa yapıştı; sözün uyarınca beni dirilt.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "yapıştı"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "toprağa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "beni dirilt"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sözün uyarınca"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:22.157053168Z",
+  "model": "glm-5.3"
+}

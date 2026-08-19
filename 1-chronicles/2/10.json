@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ram ⟨את⟩ Amminadav'ı doğurdu; Amminadav da ⟨את⟩ Nahşon'u doğurdu — Yehuda oğullarının önderi.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ve Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav'ı"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ve Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahşon'u"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahşon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "önder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:56.329885635Z",
+  "model": "glm-5.3"
+}

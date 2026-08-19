@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Övgüye layık olan Yahve'ye çağrıda bulunurum, ve düşmanlarımdan kurtulurum.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "övgüye layık"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağrıda bulunurum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve -dan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "kurtulurum"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:11.294727785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 2:5",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "O yerin adına Bokim adını verdiler ve orada Yahve'ye kurbanlar kestiler.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "adını verdiler"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "Bokim"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ve kurban kestiler"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:29.943395778Z",
+  "model": "glm-5.3"
+}

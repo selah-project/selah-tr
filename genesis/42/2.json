@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve dedi: İşte duydum ki Mıtsrayim'da tahıl ⟨שבר⟩ var; oraya inin ve oradan bizim için tahıl alın, ki yaşayalım ve ölmeyelim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "duydum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "tahıl"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mıtsrayim'da"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "inin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "ve tahıl alın"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ve yaşayalım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayalım\/—"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ölmeyelim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:51.187294405Z",
+  "model": "glm-5.3"
+}

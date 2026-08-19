@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Bu kimdir, şafak gibi görünen — ay gibi güzel, güneş gibi pürüzsüz, sancaklı bölükler gibi korku salan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "görünen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "şafak"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "güzel"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "ay gibi"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "pürüzsüz"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "güneş gibi"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "korku salan"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "sancaklı bölükler gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:04.587763339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve dedi: Ne yaptın? Kardeşinin kanlarının sesi bana topraktan bağırıyor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kanlarının"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "bağırıyor"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "topraktan"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:01.441312903Z",
+  "model": "glm-5.3"
+}

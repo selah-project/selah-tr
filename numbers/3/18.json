@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve bunlar Gerşon'un oğullarının adları, ailelerine göre: Livni ve Şimi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerşon'un"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ve Şimi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:43.955387321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Kuzeyden birini uyandırdım ve o geldi; güneşin doğduğu yerden adıyla benim adımı çağıran. Valileri harç gibi ezecek ve çömlekçi gibi çamuru çiğneyecek.",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "uyandırdım"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kuzeyden"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "ve ⟨את⟩ o geldi",
+      "marks": "birini"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "doğudan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "çağıracak"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "adımla"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve gelecek"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "valileri"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "harç"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "ve gibi"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "çömlekçi"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "ezecek"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "çamur"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:52.562264767Z",
+  "model": "glm-5.3"
+}

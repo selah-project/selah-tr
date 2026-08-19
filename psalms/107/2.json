@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Yahve'nin kurtardıkları bunu söylesin — O'nun düşman elinden kurtardıkları.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "söylesinler"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "kurtarılmışları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "onları kurtardı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşman"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:15.090418745Z",
+  "model": "glm-5.3"
+}

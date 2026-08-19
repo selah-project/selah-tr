@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Şimdi çağır — sana cevap verecek ⟨bir⟩ var mı? Ve hangi kutsalın ⟨yanına⟩ yöneleceksin?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "çağır"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi \/ lütfen"
+    },
+    {
+      "surface": "היש",
+      "gloss": "var mı"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "sana cevap veren"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve … ⟨yanına⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hangi"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "kutsalın"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "yöneleceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:41.326004610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "orada bile elin beni yönlendirir, sağ elin beni tutar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "beni yönlendirir"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "beni tutar"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ elin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:23.763765290Z",
+  "model": "glm-5.3"
+}

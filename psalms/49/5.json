@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Kulağımı mesle eğiteceğim, kinorla bilmecemi açacağım.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "eğiteceğim"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "mesle"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "kulağımı"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "açacağım"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorla"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "bilmecemi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:47.868856751Z",
+  "model": "glm-5.3"
+}

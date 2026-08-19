@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve ⟨öyle oldu⟩: ⟨את⟩ sesi karanlığın içinden duydunuz ve dağ ateşle yanıyordu; ve bana yaklaştınız, bütün kabile başlarınız ve ihtiyarlarınız.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve ⟨öyle oldu⟩"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "duyduğunuzda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesi"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "içinden"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "karanlığın"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ve dağ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yanıyordu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "ve yaklaştınız"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başları"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "kabilelerinizin"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "ve ihtiyarlarınız"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:19.864814649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ben ise ⟨⟨bir⟩⟩ solucanım, insan değilim; insanların hakareti, halkın horladığı ⟨⟨biri⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "solucan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "hakareti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanların"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ve horladığı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:52.965652177Z",
+  "model": "glm-5.3"
+}

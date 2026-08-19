@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve oldu: Ah aşveroş günlerinde — o Ah aşveroş, Hodu'dan Kuş'a kadar, yirmi yedi ve yüz vilayet üzerinde hüküm süren kral —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlerinde"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaşveroş"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaşveroş"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hodu'dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve kadar"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ve yirmi"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ve yüz"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "vilayet"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:46.506127809Z",
+  "model": "glm-5.3"
+}

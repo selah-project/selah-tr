@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "çünkü yarın bu vakit ⟨את⟩ kullarımı sana göndereceğim ve ⟨את⟩ evini ve ⟨את⟩ kullarının evlerini arayacaklar; olacak ki gözlerinin beğendiği her şeyi kendi ellerine koyup alacaklar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨şüphesiz⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "bu vakit"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "yarın"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "göndereceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kullarımı"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kullarımı"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "ve arayacaklar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evini"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kullarının evlerini"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "evlerini"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kullarının"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "beğendiği"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözlerinin"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "koyacaklar"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "kendi ellerine"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ve alacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:29.470578154Z",
+  "model": "glm-5.3"
+}

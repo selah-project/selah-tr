@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve olacak ⟨şöyle⟩: doğuracağı ilkdoğan, ölünün kardeşinin adı üzerine yükselmeyecek — onun adı İsrail'den silinmeyecek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ve olacak"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ilkdoğan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "doğuracak"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yükselmeyecek (yükselsin)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölünün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -meyecek"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "silinmeyecek"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adı"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsrail'den"
+    }
+  ],
+  "timestamp": "2026-08-19T09:05:28.801951785Z",
+  "model": "glm-5.3"
+}

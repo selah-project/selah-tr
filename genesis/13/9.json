@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Bütün ⟨the⟩ arz önünde değil mi? Lütfen ⟨נא⟩ benden ayrıl: sol ⟨tarafta⟩ ⟨isen⟩ ben sağa ⟨giderim⟩, sağ ⟨tarafta⟩ ⟨isen⟩ ben sola ⟨giderim⟩.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "arz"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "ayrıl"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "benden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "sol"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ben sağa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ben sola"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:57.740815241Z",
+  "model": "glm-5.3"
+}

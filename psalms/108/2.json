@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Hazır ⟨dir⟩ kalbim, ey Elohim; şakıyacağım, evet çalgıyla ilahi söyleyeceğim, şanım ⟨da⟩ ⟨bunu yapacak⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "hazır"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "şakıyacağım"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "çalgıyla ilahi söyleyeceğim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "evet"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "şanım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:18.487134227Z",
+  "model": "glm-5.3"
+}

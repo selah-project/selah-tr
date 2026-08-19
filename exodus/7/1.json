@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yahve Moşe'ye dedi: Bak, seni Paro'nun ⟨karşısına⟩ Elohim olarak kılıyorum, ve kardeşin Aharon senin peygamberin olacak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…'e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "seni kılıyorum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro'nun ⟨karşısına⟩"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ve Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "senin peygamberin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:20.174321813Z",
+  "model": "glm-5.3"
+}

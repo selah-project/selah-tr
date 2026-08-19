@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Dost gibi, bana kardeş gibi gezindim; anası için yas tutan gibi karanlığa bürünüp eğildim.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "dost gibi"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kardeş gibi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "gezindim"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "yas tutan gibi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anası için"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "karanlığa bürünüp"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "eğildim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:40.563063278Z",
+  "model": "glm-5.3"
+}

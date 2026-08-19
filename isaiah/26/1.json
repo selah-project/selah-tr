@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "O gün Yehuda ülkesinde bu şarkı söylenecek: Bize güçlü bir şehir; kurtuluş duvarlar ve surlar olarak koyar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "söylenecek"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "koyar"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "duvarlar"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "ve surlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:45.554424593Z",
+  "model": "glm-5.3"
+}

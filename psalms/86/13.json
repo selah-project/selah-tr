@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Çünkü sevgin ⟨bana⟩ büyüktür, ve canımı en alt Şeol'den kurtardın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sevgin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨bana⟩ üzerine"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ve kurtardın"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Şeol'den"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "en alt"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:05.904451474Z",
+  "model": "glm-5.3"
+}

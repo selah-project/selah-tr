@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Yıkım gelsin onun üzerine fark etmeden, ve gizlediği ağı onu tutsun; yıkımda düşsün ona.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "gelsin onun üzerine"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "fark etmeden değil"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmeden"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "ve ağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onu"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "gizlediği"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "tutsun onu"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "yıkımda"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşsün"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:29.417387869Z",
+  "model": "glm-5.3"
+}

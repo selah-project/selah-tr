@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Sayılanların tamamı altı yüz bin üç bin beş yüz elli oldu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tamamı"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "sayılanların"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bin"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "elli"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:38.812845380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve büyü bağlayan, ruh çağıran, biliciye danışan ve ölülere soran.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ve büyü bağlayan"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "bağ"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "ve... soran"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ruh çağırana"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "ve biliciye"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ve... danışan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...e"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ölülere"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:51.522525212Z",
+  "model": "glm-5.3"
+}

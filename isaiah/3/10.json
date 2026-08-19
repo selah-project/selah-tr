@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Sadığa deyin: ⟨onun için⟩ iyidir, çünkü yaptıklarının meyvesini yiyecekler.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadığa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvesini"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "yaptıklarının"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:52.213700025Z",
+  "model": "glm-5.3"
+}

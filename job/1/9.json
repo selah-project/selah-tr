@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Şeytan ⟨את⟩ Yahve'yi yanıtladı ve dedi: Karşılıksız mı İyov Elohim'den korkuyor?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yanıtladı"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Şeytan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "karşılıksız"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkuyor"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:27.161892101Z",
+  "model": "glm-5.3"
+}

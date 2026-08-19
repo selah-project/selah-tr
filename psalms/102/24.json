@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Yolda gücümü büktü, günlerimi kısalttı",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "büktü"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "gücümü"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "kısalttı"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerimi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:16.122772907Z",
+  "model": "glm-5.3"
+}

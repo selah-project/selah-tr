@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "İşlerini Yahve'ye yuvarla ( bırak), tasarıların sağlamlaşsın.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "yuvarla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "İbranice yön edatı; 'İşlerini'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "işlerini"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "ve sağlamlaşsın"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "tasarıların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:20.077534119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ne mutlu o adama ki Yahve'yi koydu güvenliğine, ve dömedi küstahların ardına ve yalana sapanların ardına.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ne mutlu"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "o adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "güvenliğine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve-etmedi"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "küstahların"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ve sapanların"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:04.314677541Z",
+  "model": "glm-5.3"
+}

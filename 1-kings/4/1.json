@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve kral Şelomo bütün İsrail üzerinde kral ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:38.736890410Z",
+  "model": "glm-5.3"
+}

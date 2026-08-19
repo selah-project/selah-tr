@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "ta ki üzerimize yüceden ruh dökülünceye dek; o zaman çöl verimli tarla olacak, verimli tarla ise orman sayılacak.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "dökülünceye"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimize"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yüceden"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "verimli tarla olarak"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "verimli tarla ise"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "orman"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sayılacak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:25.458895653Z",
+  "model": "glm-5.3"
+}

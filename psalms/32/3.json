@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Susadığım zaman kemiklerim kükrememle ⟨⟨⟩⟩ eriyip tükendi, bütün gün boyunca.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "susadığım zaman"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "susadım"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "eriyip tükendi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kemiklerim"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "kükrememle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün boyunca"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:24.634774773Z",
+  "model": "glm-5.3"
+}

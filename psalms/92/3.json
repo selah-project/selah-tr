@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Sabahında hesedini bildirmek için ve gecelerinde emetini.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "bildirmek için"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahında"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedini"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ve emetini"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "gecelerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:26.267023291Z",
+  "model": "glm-5.3"
+}

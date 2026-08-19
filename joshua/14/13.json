@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Yehoşua onu kutsadı ve ⟨את⟩ Ḥevron'u Kalev ben Yefunne'ye miras olarak verdi.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "ve onu kutsadı"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥevron'u"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ḥevron'u"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev'e"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "miras olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:11:09.351336194Z",
+  "model": "glm-5.3"
+}

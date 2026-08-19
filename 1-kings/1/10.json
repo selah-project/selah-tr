@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve ⟨את⟩ peygamber Natan'ı, Benayahu'yu, ⟨את⟩ güçlü adamları ve ⟨את⟩ kardeşi Şelomo'yu çağırmadı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peygamber Natan'ı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "güçlü adamları"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "güçlü adamları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomo'yu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırdı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:47.828222561Z",
+  "model": "glm-5.3"
+}

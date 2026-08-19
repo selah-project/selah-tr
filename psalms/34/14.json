@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Dilini kötülükten koru, ve dudaklarını aldatmaca konuşmaktan.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "koru"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "dilini"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ve dudaklarını"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "konuşmaktan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldatmaca"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:26.789778168Z",
+  "model": "glm-5.3"
+}

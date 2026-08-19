@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Gökler senindir, yeryüzü de senindir; ⟨eyyanın⟩ ve onun dolusu — ⟨sen⟩ onları temelden kurdun.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "senindir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senindir"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "eyyanın"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ve onun dolusu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "onları temelden kurdun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:04.863650519Z",
+  "model": "glm-5.3"
+}

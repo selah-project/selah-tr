@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü sen eziyeti unutacaksın, geçip gitmiş sular gibi hatırlayacaksın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "eziyeti"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutacaksın"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sular gibi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "geçip gitmiş"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "hatırlayacaksın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:21.611640107Z",
+  "model": "glm-5.3"
+}

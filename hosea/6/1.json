@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Gelin, Yahve'ye dönelim; çünkü o parçaladı ve bizi iyileştirecek; vurdu ve bizi saracak.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ve dönelim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "parçaladı"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "ve bizi iyileştirecek"
+    },
+    {
+      "surface": "יך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "ve bizi saracak"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:49.675375654Z",
+  "model": "glm-5.3"
+}

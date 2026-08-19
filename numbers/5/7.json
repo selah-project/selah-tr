@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "işledikleri günahlarını ⟨את⟩ itiraf etsinler; suçunun karşılığını ⟨את⟩ asıl tutarıyla ödesin ve üzerine beşte birini ekleyerek suçlandığı kimseye versin.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ve itiraf etsinler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günahlarını"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "günahlarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "işlediler"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ve geri ödesin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suçunun karşılığını"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "suçunun karşılığını"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "asıl tutarıyla"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "ve beşte biri"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ekler"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ve versin"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "-e, o kimseye"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "suçlandı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:49.212142508Z",
+  "model": "glm-5.3"
+}

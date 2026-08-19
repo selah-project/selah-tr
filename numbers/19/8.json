@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve onu yakan kişi giysilerini suda yıkayacak, bedenini suda yıkayacak ve akşama kadar kirli olacak.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "ve onu yakan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (ineği)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yıkayacak"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ve yıkayacak"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bedenini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ve kirli olacak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşama"
+    }
+  ],
+  "timestamp": "2026-08-19T07:38:40.185710177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Onlar yiyecek için serserice dolaşırlar; doyurulmazlarsa ⟨sabaha kadar⟩ beklerler.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "serserice dolaşırlar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yiyecek için"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "doyurulmazlarsa"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "geceyi geçirirler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:58.380368075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve şimdi: Babam sizin üzerinize ağır bir boyunduruk yükledi, ama ben sizin boyunduruğunuza ekleyeceğim; babam sizi kamçılarla ⟨את⟩ terbiye etti, ben ise akreplerle ⟨yapacağım⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "yükledi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üzerinize"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunduruk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ama ben"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ekleyeceğim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boyunduruğunuza"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "terbiye etti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizleri"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "kamçılarla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "akreplerle"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:53.993239899Z",
+  "model": "glm-5.3"
+}

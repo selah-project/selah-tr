@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kötü, yüzünün yüksekliğinden ⟨⟨dolayı⟩⟩ aramaz — tüm tasarıları ⟨⟨şudur⟩⟩: 'Elohim yok.'",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "yüksekliğinden"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "yüzünün \/ burnunun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "değil \/ -mez"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "aramaz"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "tasarıları"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:31.093748087Z",
+  "model": "glm-5.3"
+}

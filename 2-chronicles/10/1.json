@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Rehavam Şekem'e gitti, çünkü Şekem'e bütün Yisrael onu kral yapmak için gelmişti.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Şekem'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem'e"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gelmişti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kral yapmak için"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Rehavam)"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:42.245506011Z",
+  "model": "glm-5.3"
+}

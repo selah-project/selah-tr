@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yahve'nin gözünde kötülüğü yaptı, yalnız babası ve annesi gibi değil; ve babasının yapmış olduğu Baal'ın dikili taşını kaldırdı.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "babası gibi"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "ve annesi gibi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ve kaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikili taşını"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "dikili taşını"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal'ın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmıştı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:16.069083147Z",
+  "model": "glm-5.3"
+}

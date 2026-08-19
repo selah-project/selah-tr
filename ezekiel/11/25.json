@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve sürgüne ⟨את⟩ bütün Yahve'nin sözlerini — ki bana göstermişti — konuştum.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ve konuştum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sürgüne doğru \/ ile"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sürgün(ler)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "bana göstermişti"
+    }
+  ],
+  "timestamp": "2026-08-19T10:23:58.066171692Z",
+  "model": "glm-5.3"
+}

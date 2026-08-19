@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Çünkü sen benim sığınağım olan Elohim'sin; neden beni reddettin? Neden düşman baskısı altında yas içinde dolaşıyorum?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "beni reddettin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "yas içinde dolaşıyorum"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "dolaşıyorum"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "baskısı altında"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:10.309225604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Gücüm, sana dikkatle bekleyeceğim; çünkü Elohim ⟨⟨benim⟩ sığınağımdır.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "dikkatle bekleyeceğim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "sığınağım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:48.267564627Z",
+  "model": "glm-5.3"
+}

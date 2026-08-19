@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Tarşiş'in kralları ve adalar haraç geri getirecek, Şeva'nın ve Seva'nın kralları armağan sunacak.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşiş'in"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ve adaların"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "haraç"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "geri getirecekler"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva'nın"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ve Seva'nın"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "armağan"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "sunacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:02.691252441Z",
+  "model": "glm-5.3"
+}

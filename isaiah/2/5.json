@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ey Yaakov evi, gelin, Yahve'nin ışığında yürüyelim!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ve yürüyelim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ışığında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:30.831998036Z",
+  "model": "glm-5.3"
+}

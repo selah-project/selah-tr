@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve ⟨את⟩ tavayı aldı ve önüne döktü, ama yemeyi reddetti. Ve Amnon dedi: «Çıkarın her adamı yanımdan.» Ve çıktı her adam onun yanından.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavayı"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "tavayı"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "ve döktü"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "ama reddetti"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "yemeyi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "çıkarın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "yanımdan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "onun yanından"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:45.327936434Z",
+  "model": "glm-5.3"
+}

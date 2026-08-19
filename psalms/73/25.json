@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Göklerde bana kim ⟨var⟩? Ve seninle ⟨birlikte⟩ — yerde ⟨hiçbir şey⟩ istemedim.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ve seninle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "istedim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:39.301498765Z",
+  "model": "glm-5.3"
+}

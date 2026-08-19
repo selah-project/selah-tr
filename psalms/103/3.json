@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "O, bağışlayan bütün suçlarını senin; o, iyileştiren bütün hastalıklarını senin.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "bağışlayan O"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün -lerini"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "suçların senin"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "iyileştiren O"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün -larını"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "hastalıkların senin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:52.213969011Z",
+  "model": "glm-5.3"
+}

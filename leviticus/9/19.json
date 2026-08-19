@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve sığırın ve koçun iç yağlarını — yağ kuyruğunu, iç organları örteni, böbrekleri ve karaciğerinpayını.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "iç yağlarını"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "iç yağları"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-nın"
+    },
+    {
+      "surface": "השור",
+      "gloss": "sığır"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve -nın"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "koç"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "yağ kuyruğu"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "örten"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "böbrekler"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "ürün\/pay"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "karaciğerin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:02.619370519Z",
+  "model": "glm-5.3"
+}

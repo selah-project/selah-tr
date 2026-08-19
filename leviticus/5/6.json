@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve işlemiş olduğu günahı için Yahve'ye ⟨את⟩ suç sunusunu getirecek — sürüden bir dişi, kuzuluktan bir koyun ya da keçilerden bir teke dişi, günah sunusu olarak; ve kâhin onun günahından ötürü onun için kefaret yapacak.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ve getirecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suç sunusunu"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "onun suç sunusu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "onun günahı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah işledi"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "bir dişi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürü"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "kuzuluktan koyun"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "teke dişi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçiler"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah sunusu olarak"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefaret yapacak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "onun günahından"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:31.411268321Z",
+  "model": "glm-5.3"
+}

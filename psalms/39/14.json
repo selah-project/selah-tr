@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "⟨Benden⟩ bakışını çevir ki ferahlayayım, gitmeden önce ⟨ve⟩ artık olmadan.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "çevir bakışını"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ki ferahlayayım"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "önce"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gitmeden"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "artık olmayacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:36.320547092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Zamanlarım senin elindedir; beni düşmanlarımın elinden ve beni izleyenlerden kurtar.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "senin elinde"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "zamanlarım"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmanlarımın"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "ve izleyenlerimden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:12.415861637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kadın sabaha kadar ayakucunda yattı; bir kişi ⟨את⟩ arkadaşını tanımadan önce kalktı. Çünkü «Bilir bilmez ⟨bir⟩ kadının harmana geldiği bilinmesin» demişti.",
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "yattı"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "ayakucunda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sabaha"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "önce"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "tanımadan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkadaşını"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "arkadaşını"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "demişti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meşin"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilinmesin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "באה",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "harmana"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:37.757509669Z",
+  "model": "glm-5.3"
+}

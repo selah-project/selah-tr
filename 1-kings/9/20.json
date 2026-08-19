@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Bütün halktan — Amorlu, Hititli, Perizzili, Hivvili ve Yevuslulardan artakalan, Yisrael oğullarından olmayanlardan —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "artakalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorlu"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hititli"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzili"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivvili"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ve Yevuslu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:19.508605224Z",
+  "model": "glm-5.3"
+}

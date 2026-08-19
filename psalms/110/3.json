@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 110,
+  "translation": "Halkın ⟨gönüllü⟩ armağanlar ⟨sunacak⟩ savaş gününde; kutsal giysilerin ⟨içinde⟩, şafağın rahminden gençliğinin çiyü ⟨senindir⟩.»",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Halkın"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "gönüllü armağanlar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "savaşının"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "giysilerinde"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "rahminden"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "şafağın"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    },
+    {
+      "surface": "טל",
+      "gloss": "çiy"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "gençliğinin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:16.703794947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yarovam'ın günahları yüzünden — ki o günah işledi ve İsrail'i günaha soktu — öfkesiyle, ki Yahve'yi, İsrail'in Elohim'ini öfkelendirdi —",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "günahları"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam'ın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah işledi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "günaha soktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'i"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "öfkesiyle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "öfkelendirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'ini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:55.507609662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Çünkü bir an sürer O'nun öfkesi, yaşam ⟨⟨dir⟩⟩ O'nun hoşnutluğunda; akşamda ağlamak konaklar, sabaha ⟨ise⟩ sevinç çığlığı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "bir an"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "O'nun öfkesinde"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaşam"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "O'nun hoşnutluğunda"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "akşamda"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "konaklar"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ağlamak"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ve sabaha"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sevinç çığlığı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:24.418224091Z",
+  "model": "glm-5.3"
+}

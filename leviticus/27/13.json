@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve eğer ⟨onu⟩ kesinlikle fedasıysa, beşte birini senin değerlemenin üzerine ekleyecektir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "kessin"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "fedasıysa onu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ve ekleyecektir"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "beşte birini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "senin değerlemenin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:20.562374104Z",
+  "model": "glm-5.3"
+}

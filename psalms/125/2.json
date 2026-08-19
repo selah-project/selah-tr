@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 125,
+  "translation": "Yeruşalayim — dağlar ⟨onun⟩ çevresindedir; ve Yahve halkının çevresindedir, şimdiden ve sonsuza dek.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "şimdiden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve dek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuza"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:35.792204520Z",
+  "model": "glm-5.3"
+}

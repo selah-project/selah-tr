@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Kötüye birçok acı ⟨olacak⟩, ama Yahve'ye güvenen'i sevgi kuşatacak.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "birçok"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "acılar"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kötüye"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "ama güvenen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "kuşatacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:47.418243225Z",
+  "model": "glm-5.3"
+}

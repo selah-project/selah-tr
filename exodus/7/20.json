@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Moşe ve Aharon Yahve'nin buyurduğu gibi öyle yaptılar; değneği kaldırdı ve ırmaktaki ⟨את⟩ sulara — Paroh'un gözü önünde ve kölelerinin gözü önünde — vurdu ve ırmaktaki bütün sular kana dönüldü.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ve Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ve kaldırdı"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "değneği"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sulara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sulara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ırmakta"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gözü önünde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "ve gözü önünde"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kölelerinin"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "ve dönüldü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ırmakta"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:21.609149847Z",
+  "model": "glm-5.3"
+}

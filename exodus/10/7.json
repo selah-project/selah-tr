@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Paroh'un kulları ona dediler: “Ne zamana kadar bu bize tuzak olacak? ⟨את⟩ o adamları salıver, Yahve'ye, Elohimlerine kulluk etsinler. Mısr'ın mahvolmuş olduğunu ⟨hâlâ⟩ bilmiyor musun?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ne zamana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tuzak olarak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salıver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o adamları"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ve kulluk etsinler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimlerine"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "hâlâ mı"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "bilmiyorsun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "mahvolmuş"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısr"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:55.815928609Z",
+  "model": "glm-5.3"
+}

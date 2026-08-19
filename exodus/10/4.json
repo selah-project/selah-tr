@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Çünkü eğer halkımı ⟨את⟩ salıvermeyi reddediyorsan, işte ben yarın çekirge sürüsünü sınırlarının içine getiriyorum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "reddediyorsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "salıvermeyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "getiriyorum"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "yarın"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "çekirge sürüsünü"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "sınırlarının içine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:42.106809378Z",
+  "model": "glm-5.3"
+}

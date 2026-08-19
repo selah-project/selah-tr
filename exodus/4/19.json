@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Yahve Midyan'da Moşe'ye dedi: Git, Mısır'a dön; çünkü ⟨את⟩ canını arayan bütün adamlar öldü.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midyan'da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dön"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "arayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:00.913658144Z",
+  "model": "glm-5.3"
+}

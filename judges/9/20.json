@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "ve eğer değilse Avimelekh'ten ateş çıksın ve ⟨את⟩ Şekem beylerini ve ⟨את⟩ Beyt-Millo'yu yutsun ve Şekem beylerinden ve Beyt-Millo'dan ateş çıksın ve ⟨את⟩ Avimelekh'i yutsun",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "değilse"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıksın"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Avimelekh'ten"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ve yutsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şekem beylerini"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "beylerini"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Beyt-Millo'yu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo'yu"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ve çıksın"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "beylerinden"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ve evinden"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ve yutsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh'i"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh'i"
+    }
+  ],
+  "timestamp": "2026-08-19T09:16:40.546355478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Elohim ⟨את⟩ işlerini gördü — ⟨çünkü⟩ kötü yollarından dönmüşlerdi — ve Elohim, onlara yapacağını söylediği kötü şeyden pişmanlık duydu ve onu yapmadı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "işlerini"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "işlerini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨çünkü⟩"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "dönmüşlerdi"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "yollarından"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ve pişmanlık duydu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötü şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söylediği"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapacağını"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmadı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:11.369273371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 56,
+  "translation": "Elohim'de öveceğim sözü; Yahve'de öveceğim sözü.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'de"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "öveceğim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'de"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "öveceğim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:43.709507598Z",
+  "model": "glm-5.3"
+}

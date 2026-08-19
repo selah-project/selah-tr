@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ezerek çöker, alçalır; güçlülüğüyle sefil yere düşer.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ezerek"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "alçalır"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "yere düşer"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "güçlülüğüyle"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "sefil"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:19.592307017Z",
+  "model": "glm-5.3"
+}

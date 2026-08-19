@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 52,
+  "translation": "Ses! Gözcülerinin — sesi yükselttiler, hep bir ağızdan ezgi söylüyorlar; çünkü göz gözeye göre göre görecekler, Yahve Siyon'a döndüğünde.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "gözcülerinin"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "yükselttiler"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hep bir ağızdan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ezgi söylüyorlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "göze"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görecekler"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "döndüğünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon'a"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:02.887538746Z",
+  "model": "glm-5.3"
+}

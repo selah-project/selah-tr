@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "⟨O⟩ durdu, ama görünüşünü tanıyamadım; bir suret gözlerimin karşısındaydı; sessizlik — ve bir ses duydum;",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama … -madı"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "tanıyamadım"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "görünüşünü"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "bir suret"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "karşısında"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerimin"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "sessizlik"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ve bir ses"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "duydum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:57.845691073Z",
+  "model": "glm-5.3"
+}

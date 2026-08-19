@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Su seli beni yıkamasın, derinlik beni yutmasın ve kuyu ağzını üstümde kapatmasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "beni yıkamasın"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "seli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve olmasın"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "beni yutmasın"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "derinlik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve olmasın"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "kapatsın"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümde"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kuyu"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ağzını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:21.813395400Z",
+  "model": "glm-5.3"
+}

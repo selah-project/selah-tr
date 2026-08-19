@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Davud ⟨את⟩ tüm koyunları ve sığırları aldı; o davarın önünde sürdüler ve dediler: Bu Davud'un ganimeti.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm koyunları ve sığırları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "koyunları"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ve sığırları"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "sürdüler"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "davarın"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ganimeti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'un"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:22.764420858Z",
+  "model": "glm-5.3"
+}

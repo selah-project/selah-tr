@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Karanlıkta yürüyen halk büyük bir ışık gördü; ölüm gölgesi diyarında oturanların üzerine ışık parıldadı.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "diyarında"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ölüm gölgesi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "parıldadı"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:06.461927952Z",
+  "model": "glm-5.3"
+}

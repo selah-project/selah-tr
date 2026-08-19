@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Şaul'un amcası dedi: Rica ederim, bana bildir, Şmuël size ne dedi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "amcası"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rica ederim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmuël"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:55.705471102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yehoşua ⟨את⟩ kâhinlere emir verdi: «Yarden'den çıkın.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "emir verdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kâhinler"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "çıkın"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:18.624370131Z",
+  "model": "glm-5.3"
+}

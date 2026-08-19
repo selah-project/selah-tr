@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Çünkü karanlık yüzünden kökünden sökülmüş değilim, ve yoğun karanlık yüzümü örtmedi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "kökünden söküldüm"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ve yüzünden"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "örttü"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "yoğun karanlık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:34.182059869Z",
+  "model": "glm-5.3"
+}

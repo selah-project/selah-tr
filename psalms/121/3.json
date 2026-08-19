@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 121,
+  "translation": "Ayağını sarsılmaya vermesin, seni koruyan uyuklamasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-mesin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vermesin"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sarsılmaya"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ayağını"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masın"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "uyuklamasın"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "seni koruyan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:33.830450362Z",
+  "model": "glm-5.3"
+}

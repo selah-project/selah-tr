@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Etten gözleri mi var ⟨senin⟩, insanı görür gibi mi bakarsın ⟨sen⟩?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "etten"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "görür gibi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bakarsın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:41.543884689Z",
+  "model": "glm-5.3"
+}

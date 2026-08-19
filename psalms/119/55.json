@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Andım gecede adını, ey Yahve, ve korudum senin toranı.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "andım"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecede"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ve korudum"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "senin toranı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:32.038175645Z",
+  "model": "glm-5.3"
+}

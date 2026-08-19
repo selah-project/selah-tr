@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Elohim'e ilahi söyleyin, ilahi söyleyin; kralımıza ilahi söyleyin, ilahi söyleyin!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ilahi söyleyin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ilahi söyleyin"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ilahi söyleyin"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "kralımıza"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ilahi söyleyin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:24.951565796Z",
+  "model": "glm-5.3"
+}

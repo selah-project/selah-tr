@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Günahlılarla birlikte nefsimi toplama, ve kan adamlarıyla birlikte hayatımı ⟨toplama⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "toplama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahlılarla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsim"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve birlikte"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarıyla"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayatım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:50.494969880Z",
+  "model": "glm-5.3"
+}

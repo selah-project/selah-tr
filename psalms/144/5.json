@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "Yahve, göklerini eğ de in; dağlara dokun, onlar da tütsün.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "eğ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "göklerini"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "da in"
+    },
+    {
+      "surface": "גע",
+      "gloss": "dokun"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "dağlara"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "onlar da tütsün"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:02.194784350Z",
+  "model": "glm-5.3"
+}

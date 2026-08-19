@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve eğer satın aldığı bir tarlayı — ki o, mülkiyet tarlalarından değildir — bir adam Yahve'ye kutsarsa",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarlayı"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "satın aldığı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değildir"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "tarlalarından"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "mülkiyetinin"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "kutsarsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:02.206255435Z",
+  "model": "glm-5.3"
+}

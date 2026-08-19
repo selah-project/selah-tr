@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Yaakov Rahel'e, babasının kardeşi olduğunu ve Rivka'nın oğlu olduğunu bildirdi; o koştu ve babasına haber verdi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "olduğunu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ve ki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka'nın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "olduğunu"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "koştu"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "haber verdi"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "babasına"
+    }
+  ],
+  "timestamp": "2026-08-19T08:53:55.431229677Z",
+  "model": "glm-5.3"
+}

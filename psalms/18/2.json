@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve dedi: Sevgiyle bağlanacağım sana, ey Yahve, gücüm benim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "sevgiyle bağlanacağım sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "gücüm benim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:11.294389092Z",
+  "model": "glm-5.3"
+}

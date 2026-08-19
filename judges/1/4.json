@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Yehuda çıktı; ve Yahve ⟨את⟩ Kim'nanileri ve Perizileri onların eline verdi; ve onları Bezek'te vurdular — on bin kişi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kim'nanileri"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kim'nanileri"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ve Perizileri"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "onların eline"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ve onları vurdular"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezek'te"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:15.154829898Z",
+  "model": "glm-5.3"
+}

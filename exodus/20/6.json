@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "ve sevgi-gücü gösteriyorum binlere, beni sevenlere ve buyruklarımı koruyanlara.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ve ... gösteriyorum"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi-gücü"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "binlere"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "beni sevenlere"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ve koruyanlara"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "buyruklarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:07.043933369Z",
+  "model": "glm-5.3"
+}

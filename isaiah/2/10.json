@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kayaya gir ve tozda gizlen, Yahve'nin dehşetinden ve görkeminin haşmetinden.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "gir"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kayaya"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "ve gizlen"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "tozda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-den yüzünden"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "dehşet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "ve görkeminden"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "haşmetinin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:23.766272668Z",
+  "model": "glm-5.3"
+}

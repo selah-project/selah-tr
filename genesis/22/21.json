@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "⟨את⟩ Us'u, onun ilkdoğanı, ve ⟨את⟩ Buz'u, kardeşini, ve ⟨את⟩ Kemuel'i, Aram'ın babasını —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Us'u"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Us"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "onun ilkdoğanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Buz'u"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kemuel'i"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babası"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:48.024315201Z",
+  "model": "glm-5.3"
+}

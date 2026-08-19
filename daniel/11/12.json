@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 11:12",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve kalabalık kaldırıldığında kalbi yükselecek ve on binlercesini devirecek; ama güçlenmeyecek.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ve kaldırıldığında"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "kalabalık"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "yükseltilecek"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "ve devirecek"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "on binlercesini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama -meyecek"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "güçlene"
+    }
+  ],
+  "timestamp": "2026-08-19T11:44:53.957449170Z",
+  "model": "glm-5.3"
+}

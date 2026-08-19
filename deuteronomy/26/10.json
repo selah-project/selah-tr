@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve şimdi, bak, getirdim ⟨את⟩ toprakların ilk meyvesinin başlangıcını, ki bana verdin, ey Yahve; ve onu Yahve'nin, Elohim'inin önüne koyacaksın ve Yahve'nin, Elohim'inin önünde eğileceksin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "getirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilk ürünü"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "başlangıç\/ilk ürün"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvesini"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "verdın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "ve koyacaksın"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ve eğileceksin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'inin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:05:07.567351032Z",
+  "model": "glm-5.3"
+}

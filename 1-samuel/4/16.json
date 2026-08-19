@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve adam Eli'ye dedi: Ben ordudan gelenim, ve ben bugün ordudan kaçtım. Ve ⟨o⟩ dedi: Oğlum, olan şey nedir?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "gelen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ordudan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ordudan"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "kaçtım"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nedir"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "şey"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:45.980578461Z",
+  "model": "glm-5.3"
+}

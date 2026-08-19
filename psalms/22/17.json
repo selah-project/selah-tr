@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Çünkü köpekler çevreledi beni, kötüler topluluğu kuşattı beni; aslan gibi ⟨davranarak⟩ ellerime ve ayaklarıma ⟨kötülük ediyorlar⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "çevreledi beni"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "köpekler"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "topluluğu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "kuşattı beni"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "aslan gibi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerime"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ve ayaklarıma"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:23.662171939Z",
+  "model": "glm-5.3"
+}

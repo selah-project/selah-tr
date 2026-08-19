@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve tanıklık edip diyecekler: Ellerimiz dökmedi ⟨את⟩ şu kanı, ve gözlerimiz görmedi.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ve tanıklık edip"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "diyecekler"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ellerimiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…medi"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "dökmedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu kanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ve gözlerimiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…medi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "görmedi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:48.428710261Z",
+  "model": "glm-5.3"
+}

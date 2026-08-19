@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve onları ⟨את⟩ gözaltına topladı, üç gün boyunca.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ve topladı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "gözaltı"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:48.004123666Z",
+  "model": "glm-5.3"
+}

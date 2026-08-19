@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve kâhin onlardan ⟨את⟩ birini günah sunusu, diğerini de yakmalık sunu olarak yapacak; ve kâhin onun için Yahve'nin önünde akıntısından ötürü kefaret yapacak.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlardan birini \/ diğerini"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ve diğerini"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yakmalık sunu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kefaret yapacak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "akıntısından ötürü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:24.262643836Z",
+  "model": "glm-5.3"
+}

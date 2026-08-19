@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Geniş yere çıkardı ⟨את⟩ beni; beni kurtardı, çünkü benden hoşnut oldu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıkardı"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "geniş yere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "beni kurtardı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hoşnut oldu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:37.624920316Z",
+  "model": "glm-5.3"
+}

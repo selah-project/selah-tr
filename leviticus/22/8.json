@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Leş ve parçalanmış hayvan yemez — onunla murdar olması için; ben Yahveyim.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "leş"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ve parçalanmış hayvan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "murdar olmak için"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:39.887817392Z",
+  "model": "glm-5.3"
+}

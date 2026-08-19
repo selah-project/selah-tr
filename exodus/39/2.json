@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Efodu yaptı: altın, mavi, erguvan, kırmızı bögek kırmızısı ve bükülmüş in keten ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "mavi"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ve erguvan"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ve böcek"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kırmızısı"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve in keten"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "bükülmüş"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:32.853689473Z",
+  "model": "glm-5.3"
+}

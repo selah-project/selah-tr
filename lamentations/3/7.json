@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Etrafımı duvarla çevirdi ve çıkamam; zincirimi ağırlaştırdı.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "duvarla çevirdi"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "etrafımda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve (çıkamam)"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "çıkarım"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ağırlaştırdı"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "bakırım — zincirim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:50.297645905Z",
+  "model": "glm-5.3"
+}

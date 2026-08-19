@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 112,
+  "translation": "Saçtı, yoksullara verdi; onun tsedakası sonsuza dek durur, boynuzu onurla yükselir.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "saçtı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "yoksullara"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "onun tsedakası (doğruluğu\/sevgi eylemi)"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "durur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "boynuzu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "yükselir"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "onurla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:24.939954176Z",
+  "model": "glm-5.3"
+}

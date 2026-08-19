@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 93,
+  "translation": "Yahve hüküm sürdü; yüceliği kuşandı, kuşandı Yahve güç kuşandı, kendini kuşakla sardı; evet, dünya kurulmuştur, sarsılmaz.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hüküm sürdü"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "yücelik"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "kuşandı"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "kuşandı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güç"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "kendini kuşakla sardı"
+    },
+    {
+      "surface": "אף",
+      "gloss": "evet"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "kurulmuştur"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sarsılmaz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:47.576323108Z",
+  "model": "glm-5.3"
+}

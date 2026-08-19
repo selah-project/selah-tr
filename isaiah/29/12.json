@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve kitap yazı bilmeyene verilir: 'Bunu oku, rica ederim' denince, o 'Yazı bilmiyorum' der.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ve verilir"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kitap"
+    },
+    {
+      "surface": "על",
+      "gloss": "kişiye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilen"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "yazı"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oku"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rica ederim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve der"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmiyorum"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "yazı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:49.791648623Z",
+  "model": "glm-5.3"
+}

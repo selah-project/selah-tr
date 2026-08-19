@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Hakaret kırdı kalbimi ve ⟨ben⟩ baygınlaştım; baş sallayacak birini bekledim ama ⟨yoktu⟩; avutacaklar için ⟨aramadım⟩ ve bulamadım.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "hakaret"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "kırdı"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbimi"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "ve baygınlaştım"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ve bekledim"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "baş sallamaya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "ve avutucular için"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "buldum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:01.015958379Z",
+  "model": "glm-5.3"
+}

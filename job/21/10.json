@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Boğası aşar da reddetmez; ineği sağırarak doğurur ve yavrusunu düşürmez.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "boğası"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "aşar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "reddeder"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "kurtulup çıkarır (doğurur)"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "ineği"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "yavrusunu düşürür"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:09.531810462Z",
+  "model": "glm-5.3"
+}

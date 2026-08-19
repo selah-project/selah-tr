@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Adonay, bütün arzum senin önündedir ve iç çekişim senden gizlenmedi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "senin önünde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "arzum"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "ve iç çekişim"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "gizlendi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:02.587340735Z",
+  "model": "glm-5.3"
+}

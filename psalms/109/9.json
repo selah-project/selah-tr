@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Oğulları yetim olsun ve karısı dul kalsın.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yetim"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ve karısı"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dul"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:55.490534711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "“Yahve'ye bıraksın, O kurtarsın onu, Odeliver etsin onu, çünkü O, ondan hoşnud olur.”",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "bıraksın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "kurtarsın onu"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "O kurtarsın onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hoşnud olur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:56.966642401Z",
+  "model": "glm-5.3"
+}

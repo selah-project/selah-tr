@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Şöyle diyor Yahve Şevaot: İşte, halkımı doğu ülkesinden ve güneşin battığı ülkeden kurtarıyorum — ⟨את⟩ halkımı.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Şevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "kurtarıyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "doğu"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "ve ülkesinden"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "batışından"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:48:54.982232518Z",
+  "model": "glm-5.3"
+}

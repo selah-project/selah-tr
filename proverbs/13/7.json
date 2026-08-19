@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Kimi kendini zengin gösterir ⟨ama⟩ hiçbir şeyi yoktur; kimi kendini yoksul gösterir ⟨ama⟩ serveti çoktur.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "kendini zengin gösterir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ama yoktur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir şey"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "kendini yoksul gösterir"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ve servet"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:32.478900164Z",
+  "model": "glm-5.3"
+}

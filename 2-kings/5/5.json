@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 5:5",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Aram kralı: «Git, var, ben de İsrail kralına bir mektup göndereyim» dedi. O da gitti ve elinde on talant gümüş, altı bin ⟨altın⟩ şekel ve on takım elbise aldı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "בא",
+      "gloss": "var"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "göndereyim"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mektup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "talant"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ve altı bin"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ve on"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "takım"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "elbise"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:04.392270460Z",
+  "model": "glm-5.3"
+}

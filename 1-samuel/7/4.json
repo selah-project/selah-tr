@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "İsrail oğulları Baalları ⟨את⟩ ve Aştrotları ⟨את⟩ kaldırdılar ve yalnız Yahve'ye ⟨את⟩ kulluk ettiler.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "kaldırdılar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalları"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aştrotları"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Aştrotları"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kulluk ettiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:19.559554469Z",
+  "model": "glm-5.3"
+}

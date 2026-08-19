@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 148,
+  "translation": "Yahve'nin adını övsünler, çünkü adı yalnızca O'nundur, yüceltilmiştir; görkemi yeryüzünün ve göklerin üstündedir.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "övsünler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "yüceltilmiştir"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnızca O'nun"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ve göklerin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:04.185530119Z",
+  "model": "glm-5.3"
+}

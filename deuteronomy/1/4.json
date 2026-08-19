@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "İbrahim Amorililerin kralı, Heşbon'da oturan Sihon'u ⟨את⟩ vurduktan sonra, ve Başan'ın kralı, Aştarot'ta Edrei'de oturan Og'u ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "vurduktan sonra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon'u"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorililerin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heşbon'da"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Og'u"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Başan'ın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Aştarot'ta"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edrei'de"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:19.695863957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Yahve ⟨את⟩ garipkileri koruyor; öksüzü ve dullu ayakta tutuyor; kötülerin yolunu eğriyor.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "koruyor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garipkileri"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "garipkileri"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "öksüzü"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ve dullu"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ayakta tutuyor"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ve yolunu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "eğriyor"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:38.236852480Z",
+  "model": "glm-5.3"
+}

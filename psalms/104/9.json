@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Bir sınır koydun — asla geçmeyecekler, asla geri dönmeyecekler yeri örtmek için.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "bir sınır"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "koydun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "geçmeyecekler"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "geri dönmeyecekler"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "örtmek için"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:59.570855837Z",
+  "model": "glm-5.3"
+}

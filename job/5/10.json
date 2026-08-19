@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yeryüzünün yüzüne yağmur veren ve sokakların yüzüne sular gönderen ⟨O⟩.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "veren"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağmur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ve gönderen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "dış yerler\/sokaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:06.248359677Z",
+  "model": "glm-5.3"
+}

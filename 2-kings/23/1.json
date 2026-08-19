@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Kral gönderdi ve Yehuda ile Yeruşalayim'in bütün ihtiyarları yanına toplandı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "toplandılar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ihtiyarları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ve Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:05.800419201Z",
+  "model": "glm-5.3"
+}

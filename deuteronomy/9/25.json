@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Böylece Yahve'nin önüne yere kapanıp ⟨את⟩ kırk gün ve ⟨את⟩ kırk gece — kapanışım süresince — dua ettim, çünkü Yahve sizleri yok etmek için söylemişti.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "yere kapandım"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kırk gün"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kırk gece"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "kapanmıştım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söylemişti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "yok etmek için"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizleri"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:12.008645859Z",
+  "model": "glm-5.3"
+}

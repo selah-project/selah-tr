@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ya da canlı et geri dönerse ve beyaza dönüşürse, kâhinin yanına girecektir.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "geri dönerse"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "החי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ve dönüşürse"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "beyaza"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ve girecektir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhinin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:46.084513206Z",
+  "model": "glm-5.3"
+}

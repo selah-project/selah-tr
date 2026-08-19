@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Ve şimdi oyma işlerini hep birlikte balta ve keski ile ⟨את⟩ parçalıyorlar.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "oyma işlerini"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hep birlikte"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "balta ile"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "ve keski ile"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "parçalıyorlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:35.297081803Z",
+  "model": "glm-5.3"
+}

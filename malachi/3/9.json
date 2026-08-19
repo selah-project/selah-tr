@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Lanetle lanetlisiniz, ve beni ⟨את⟩ alıkoyanlar sizsiniz — ⟨the⟩ bütün ulus.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "lanetle"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "lanetlisiniz"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ve ⟨את⟩ beni",
+      "marks": "siz (alıkoyanlar)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "alıkoyanlar"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ulus"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bütün"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:20.983018999Z",
+  "model": "glm-5.3"
+}

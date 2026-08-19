@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve işte duvar düştü! Size söylenmeyecek mi: Sıva nerede, onu sıvadığınız?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "duvar"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "söylenmeyecek"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "sıva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onu"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "sıvadığınız"
+    }
+  ],
+  "timestamp": "2026-08-19T10:25:40.862942846Z",
+  "model": "glm-5.3"
+}

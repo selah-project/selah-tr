@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Şelomoh'un bilgeliği, doğulu bütün oğulların bilgeliğinden ve Mısır'ın bütün bilgeliğinden daha çoktu.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "ve daha çoktu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bilgeliği"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomoh'un"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "bilgeliğinden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "doğunun"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bilgeliğinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:52.983427432Z",
+  "model": "glm-5.3"
+}

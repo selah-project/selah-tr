@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Onun günlerinde doğru kişi çiçek açacak, ⟨ve⟩ esenlik bolluğu ⟨olacak⟩, ay olmadığı ⟨ana⟩ dek.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "çiçek açacak"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "onun günlerinde"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru kişi"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ve bolluğu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "olmadığı"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ay"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:03.419903043Z",
+  "model": "glm-5.3"
+}

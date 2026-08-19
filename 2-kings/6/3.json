@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve biri: Lütfen rıza göster de ⟨את⟩ kullarınla git, dedi. Ve o: Ben gideceğim, dedi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "rıza göster"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ve git"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kullarınla"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kulların"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gideceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:26.861675890Z",
+  "model": "glm-5.3"
+}

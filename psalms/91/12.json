@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Elleri üzerinde seni taşıyacaklar, yoksa ayağını taşa çarparsın diye.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "avuçları"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "seni taşıyacaklar"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "çarparsın"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "taşa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ayağını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:21.098827798Z",
+  "model": "glm-5.3"
+}

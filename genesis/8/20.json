@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Noach Yahve'ye bir sunak yaptı; temiz büyük hayvanlardan ve temiz kuşların her türünden aldı ve sunakta yakmalıklar yükseltti.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her türünden"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "büyük hayvanın"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ve her türünden"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "kuşun"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ve yükseltti"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yakmalıklar"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sunakta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:43.278846780Z",
+  "model": "glm-5.3"
+}

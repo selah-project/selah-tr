@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "İşte, suları tutar ve ⟨onlar⟩ kurur; onları salıverir ve ⟨onlar⟩ yeri altüst eder.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "tutar"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suları"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ve kurur"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ve onları salıverir"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "ve altüst ederler"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:21.146780472Z",
+  "model": "glm-5.3"
+}

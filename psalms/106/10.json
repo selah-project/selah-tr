@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Onları düşmanının elinden kurtardı ve onları nefret edenin elinden fidyeyle aldı.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "onları kurtardı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nefret edenin"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "onları fidyeyle aldı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmanın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:26.475960549Z",
+  "model": "glm-5.3"
+}

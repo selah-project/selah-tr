@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kendine iki gümüş boru yap; dövme işi olarak yap onları ⟨את⟩; ve topluluğu çağırmak ve ordugâhları ⟨את⟩ yola çıkarmak için sana hizmet etsinler.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "boru (trampet)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "dövme işi olarak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (boruları)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ve olacaklar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "çağırmak için"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "topluluk"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "ve yola çıkarmak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordugâhları"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ordugâhlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:05.715925034Z",
+  "model": "glm-5.3"
+}

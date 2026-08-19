@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve dedi: Kardeşlerimi ⟨את⟩ arıyorum; lütfen bana bildir, nerede onlar sürü gütüyorlar?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşlerimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşlerim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "arıyorum"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "sürü gütüyorlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:56.494087299Z",
+  "model": "glm-5.3"
+}

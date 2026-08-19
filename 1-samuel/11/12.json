@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve halk Şmuël'e dedi: Kimdir diyen 'Şaul bizim üzerimizde hüküm sürecek'? O adamları teslim edin, onları öldürelim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmuël"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "diyen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hüküm sürecek"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizim üzerimizde"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "teslim edin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "o adamları"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "ve onları öldürelim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:27.497891219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "O zaman altıncı yılda bereketimi ⟨את⟩ sizin için buyuracağım ve ⟨את⟩ ürünü üç yıl için yapacaktır.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "buyuracağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bereketimi"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "bereketimi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yılında"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "altıncı"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ve yapacaktır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürünü"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "ürünü"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "yıl"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:16.732460345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve eğer kurbânın marḥeşette bir minhah ise, ince un yağla yapılacaktır.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minhah (armağan\/sunu)"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "marḥeşet (güveç\/tencere)"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "kurbânın"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ince un"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapılacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:37.965044849Z",
+  "model": "glm-5.3"
+}

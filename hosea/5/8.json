@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Givada şofar çalın, Ramada boru öttürün; Beyt-Aven'de çığlık koparın — ardınca, Benyamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "çalın"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "Givada"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "boru"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramada"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "çığlık koparın"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Aven'de"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Benyamin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:40.177158364Z",
+  "model": "glm-5.3"
+}

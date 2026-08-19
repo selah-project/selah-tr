@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Toprağınız ıssız, şehirleriniz ateşle yakılmış; toprağınızı gözünüz önünde yabancılar yiyor ⟨את⟩ ve o, yabancıların devirdiği gibi harabedir.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "toprağınız"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ıssız"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "şehirleriniz"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "yakılmış"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "toprağınızı"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "gözünüz önünde"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yabancılar"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "yiyor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "toprağınız (אדמתכם — 'onu' nesnesi)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ve harabe"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "devirdiği gibi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yabancıların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:15.221953474Z",
+  "model": "glm-5.3"
+}

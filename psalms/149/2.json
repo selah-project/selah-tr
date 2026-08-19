@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 149,
+  "translation": "İsrail Yaratıcısı'nda sevinç duysun, Siyon oğulları kralarında coşsun.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sevinç duysun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "Yaratıcısı'nda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "coşsun"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kralarında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:46.299255213Z",
+  "model": "glm-5.3"
+}

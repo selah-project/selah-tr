@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Yisrael'in Elohi bana şöyle dedi, Yisrael'in Kayası benimle konuştu: insan üzerinde egemen olan adildir, Elohim korkusuyla egemen olur.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Kayası"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "egemen olan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insan üzerinde"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adildir"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "egemen olur"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "korkusuyla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:09.340691258Z",
+  "model": "glm-5.3"
+}

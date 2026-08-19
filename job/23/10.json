@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Çünkü ⟨O⟩ benimle ilgili yolu bilir; beni sınayınca altın gibi çıkacağım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "beni sınayınca"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "altın gibi"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "çıkacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:57.810399843Z",
+  "model": "glm-5.3"
+}

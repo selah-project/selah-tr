@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "O zaman topal geyik gibi sıçrayacak, dilsizin dili şakıyacak; çünkü çölde sular yarılıp çıkacak, ıssız ovada dereler.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "sıçrayacak"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "geyik gibi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "topal"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ve şakıyacak"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "dilsizin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "yarılıp çıkacak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ve dereler"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ıssız ovada"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:53.245315790Z",
+  "model": "glm-5.3"
+}

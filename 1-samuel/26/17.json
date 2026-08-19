@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Şaul, Davud'un sesini tanıdı ve dedi: «Bu senin sesin mi, oğlum Davud?» Davud dedi: «Benim sesim, efendim kral.»",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "tanıdı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "senin sesin mi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "benim sesim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:45.890920635Z",
+  "model": "glm-5.3"
+}

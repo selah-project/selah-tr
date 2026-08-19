@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Süt gibi mi döktün beni, ve peynir gibi mi katılaştırdın beni?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "süt gibi"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "beni döktün"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "ve peynir gibi"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "beni katılaştırdın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:26.144193422Z",
+  "model": "glm-5.3"
+}

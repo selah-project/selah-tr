@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Doğu rüzgârıyla Tarşiş gemilerini paramparça edersin.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "rüzgârıyla"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "doğu"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "paramparça edersin"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "gemilerini"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşiş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:20.978604981Z",
+  "model": "glm-5.3"
+}

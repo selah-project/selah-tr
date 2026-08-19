@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ devekuşunu, ve ⟨את⟩ baykuşu, ve ⟨את⟩ martıyı, ve ⟨את⟩ atmacayı türünden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "devekuşu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "devekuşunun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baykuş"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "baykuş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "martı"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "martı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atmaca"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "atmaca"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "türünden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:00.541557847Z",
+  "model": "glm-5.3"
+}

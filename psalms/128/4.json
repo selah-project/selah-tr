@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 128,
+  "translation": "İşte, çünkü böyle kutsanacak adam, Yahve'den korkan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kutsanacak"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:49.353819925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve beni geniş yere çıkardı, beni kurtardı, çünkü benden hoşnuttu.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "ve beni çıkardı"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "geniş yere"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "beni kurtardı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hoşnuttu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:10.452220851Z",
+  "model": "glm-5.3"
+}

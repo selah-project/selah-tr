@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 75,
+  "translation": "Çünkü Yahve'nin elinde bir kadeh var, şarabı köpürmüştür, karışım doludur; ve ondan dökelidir — ancak tortularını bütün yeryüzünün kötüleri sıkıp içecekler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kadeh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ve şarabı"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "köpürmüştür"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "karışım"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ve dökelidir"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "tortularını"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "sıkacaklar"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "içecekler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "kötüleri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:30.754340178Z",
+  "model": "glm-5.3"
+}

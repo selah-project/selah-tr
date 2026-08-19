@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Şiir, mizmor, Korahoğulları için.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Şiir"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğulları için"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:25.251963967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Önünüzde yürüyen Yahve Elohim'iniz — ⟨o⟩ sizin için savaşacak, Mısır'da gözlerinizin önünde sizinle ⟨את⟩ yaptığı her şeyi nasıl yaptıysa öyle.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "önünüzde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "savaşacak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "her şeyi gibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinle",
+      "marks": "sizinle"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "gözlerinizin önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:20.246338549Z",
+  "model": "glm-5.3"
+}

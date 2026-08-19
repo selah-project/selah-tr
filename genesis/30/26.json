@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Karılarımı ve ⟨את⟩ çocuklarımı bana ver — onlarla sana kulluk ettim — ve gideyim; çünkü sen bilirsin ⟨את⟩ kulluğumu ki sana kulluk ettim.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karılarımı"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "karılarım"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "çocuklarımı"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "çocuklarım"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "kulluk ettim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ve gideyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulluğumu"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "kulluğum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "sana kulluk ettim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:35.685728706Z",
+  "model": "glm-5.3"
+}

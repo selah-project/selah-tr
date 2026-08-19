@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Dinle, ey kız, ve gör, ve kulağını eğ; ve unut halkını ve babanın evini.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "dinle"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ey kız"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ve gör"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ve eğ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ve unut"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ve evini"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:58.840735838Z",
+  "model": "glm-5.3"
+}

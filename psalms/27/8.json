@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Sana dedi içim: 'Yüzümü arayın!' ⟨את⟩ Yüzünü, Yahve, arayacağım.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "içim"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "arayın"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yüzünü"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Yüzünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "arayacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:39.330403688Z",
+  "model": "glm-5.3"
+}

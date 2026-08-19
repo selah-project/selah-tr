@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kendi yağlarıyla kaplandılar, ağızları kibirle konuştu.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "kendi yağları"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "kapladılar\/kapandı"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ağızları"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konuştular"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kibirle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:29.382926037Z",
+  "model": "glm-5.3"
+}

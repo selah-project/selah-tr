@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Gözüm sıkıntımdan zayıfladı; sana seslendim, ey Yahve, her gün, ellerimi sana açtım.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "zayıfladı"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sebebiyle"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sıkıntım"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "seslendim sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "açtım"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ellerimi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:37.900691245Z",
+  "model": "glm-5.3"
+}

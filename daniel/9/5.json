@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Günah işledik, kötülük yaptık, zalimce davrandık, başkaldırdık ve buyruklarından ve hükümlerinden sapan olduk.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "günah işledik"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "ve kötülük yaptık"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "ve zalimce davrandık"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "ve başkaldırdık"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ve sapan"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "buyruklarından"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ve hükümlerinden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:45:23.478859356Z",
+  "model": "glm-5.3"
+}

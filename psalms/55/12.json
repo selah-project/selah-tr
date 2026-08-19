@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Yıkım ⟨var⟩ onun ortasında; onun meydanından uzaklaşmaz baskı ve aldatma.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve... değil"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "uzaklaşmaz"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "meydanından"
+    },
+    {
+      "surface": "תך",
+      "gloss": "baskı"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ve aldatma"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:58.109728077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Göklerde ⟨את⟩ dualarını ve ⟨את⟩ yalvarışlarını işitirsin ve onların davasını yerine getirirsin.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "işitirsin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dualarını"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "dualarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yalvarışlarını"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "yalvarışlarını"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yerine getirirsin"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "onların davasını"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:04.382387580Z",
+  "model": "glm-5.3"
+}

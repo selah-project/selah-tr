@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve ⟨את⟩ küçük kardeşinizi bana getirin; böylece sözleriniz doğrulanmış olacak ve ölmeyeceksiniz. Ve öyle yaptılar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "küçük kardeşinizi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kardeşinizi"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "getirin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ve doğrulanmış olacak"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "sözleriniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "öleceksiniz"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:48.004625459Z",
+  "model": "glm-5.3"
+}

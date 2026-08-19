@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Omri atalarıyla birlikte yattı ve Şomron'da gömüldü; ve oğlu Ahav onun yerine kral oldu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Ve yattı"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Şomron'da"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ve kral oldu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:27.686627720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Tam yolunda yürüyen yoksul, dudakları eğri ⟨ve⟩ o da ahmak olandan iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "רש",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "tam yolunda"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "eğri"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "dudakları"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahmak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:41.463633315Z",
+  "model": "glm-5.3"
+}

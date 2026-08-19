@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Yahve'nin öfkesi yine İsrail'e karşı alevlendi ve Davud'u onlara karşı kışkırttı, ⟨את⟩ Davud ⟨onlara⟩ deyip: Git, ⟨את⟩ İsrail'i ve ⟨את⟩ Yahuda'yı say.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yine ekledi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "alevlenmeye"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrail'e karşı"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ve kışkırttı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara karşı"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "say"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yahuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:02.230749194Z",
+  "model": "glm-5.3"
+}

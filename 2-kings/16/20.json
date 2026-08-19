@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Aḥaz atalarıyla birlikte yattı ve atalarıyla birlikte gömüldü, Davut şehrinde; ve oğlu Ḥizkiyahu onun yerine kral oldu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ve yattı"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Aḥaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehrinde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ve kral oldu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ḥizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:20.889456183Z",
+  "model": "glm-5.3"
+}

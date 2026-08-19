@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Göklerin ve yerin soykütükleri —yaratıldıkları gün— Yahve Elohim'in yeri ve gökleri yaptığı gündür bunlar.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "soykütükleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ve yerin"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "yaratıldıkları"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ve gökleri"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:56.166299623Z",
+  "model": "glm-5.3"
+}

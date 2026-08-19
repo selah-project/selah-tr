@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yahve halka Mitsrayim'in gözlerinde ⟨את⟩ lütuf verdi, ve onlar isteklerini yerine getirdiler; ve Mitsrayim'i ⟨את⟩ soydular.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lütuf"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlerinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim'in"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "ve onlar isteklerini yerine getirdiler"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "ve soydular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim'i"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:07.502684308Z",
+  "model": "glm-5.3"
+}

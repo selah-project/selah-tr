@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Kemaline ermiş bir buğzla buğz ettim onlara; düşman oldular bana.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "uç nokta"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "buğz"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "buğz ettim onları"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "düşmanlar olarak"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:37.605723735Z",
+  "model": "glm-5.3"
+}

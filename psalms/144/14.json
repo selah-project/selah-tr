@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "Boğalarımız yük taşıyor; yarma yok, çıkış yok ve meydanlarımızda çığlık yok.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "boğalarımız"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "yük taşıyor"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "yarma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve çıkış"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "yok"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve çığlık"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "yok"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "meydanlarımızda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:02.136223554Z",
+  "model": "glm-5.3"
+}

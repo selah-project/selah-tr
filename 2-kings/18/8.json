@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "O, Peleştimlileri ⟨את⟩ Azzah'a kadar ve ⟨את⟩ onun sınırlarını, bekçi kulesinden kaleli kente kadar vurdu.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleştimlileri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştimlileri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun sınırlarını"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "onun sınırlarını"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kulesinden"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "bekçilerin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kent"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "kaleli"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:55.571061192Z",
+  "model": "glm-5.3"
+}

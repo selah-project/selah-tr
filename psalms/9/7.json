@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ey düşman — yıkımlar sonsuza dek tükendi; ve şehirleri söküp attın; onların anısı onlarla birlikte yok oldu.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "yıkımlar"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ve şehirleri"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "söktün"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yok oldu"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "onların anısı"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:07.130501648Z",
+  "model": "glm-5.3"
+}

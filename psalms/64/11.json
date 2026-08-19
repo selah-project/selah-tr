@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Sadık Yahve'de sevinir ve O'na sığınır; doğru yüreklilerin hepsi övünür.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sevinir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadık"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'de"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ve sığınır"
+    },
+    {
+      "surface": "בו",
+      "gloss": "O'na"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ve övünürler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:57.407536631Z",
+  "model": "glm-5.3"
+}

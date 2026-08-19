@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Hevelden gelen servet azalır, ama eliyle toplayan çoğaltır.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "servet"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "hevelden"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "azalır"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ama-toplayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ile"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "çoğaltır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:35.384029832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 16:32",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Moşe dedi: İşte Yahve'nin buyurduğu ⟨sözcük⟩ ⟨şudur⟩: Onunla dolu bir omer, nesilleriniz için saklanmak üzere; ⟨böylece⟩ ⟨onlar⟩ görsünler diye ⟨את⟩ ekmeği, benim ⟨את⟩ size çölde yedirdiğim, ⟨את⟩ sizi Mısır ülkesinden çıkardığımda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözcük"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "saklanmak üzere"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "nesilleriniz için"
+    },
+    {
+      "surface": "למען",
+      "gloss": "-sin diye"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görsünler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekmeği"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ekmeği"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "האכלתי",
+      "gloss": "yedirdiğim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ size"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "çıkardığımda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:49.160060382Z",
+  "model": "glm-5.3"
+}

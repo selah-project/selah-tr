@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Yahve'nin Moşe'ye emrettiği gibi, öyle yaptılar Çelofhad'ın kızları.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "emrettiği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Çelofhad"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:01.640918014Z",
+  "model": "glm-5.3"
+}

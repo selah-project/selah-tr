@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Ne mutlu adam ki, onu Yah disipline eder, ve Tora'ndan onu öğretirsin.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "onu disipline edersin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ve Toran'dan"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "onu öğretirsin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:49.354393428Z",
+  "model": "glm-5.3"
+}

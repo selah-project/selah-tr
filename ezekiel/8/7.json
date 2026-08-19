@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Beni ⟨את⟩ avlunun girişine getirdi; baktım ve işte duvarda bir delik ⟨vardı⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "getirdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişine"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "avlunun"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "baktım"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "חר",
+      "gloss": "delik"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "duvarda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:24:59.067099297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Onlar çok saf altından, bol altından daha arzulanırdır; bal ve petek balından daha tatlıdır.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "arzulanırdır"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "altından"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ve saf altından"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "ve daha tatlıdır"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "baldan"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ve süzülen bal akıtan"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "peteklerden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:44.803861122Z",
+  "model": "glm-5.3"
+}

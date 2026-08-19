@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Yahve seni vuracak tüketen hastalıkla ve ateşle ve iltihapla ve yakıcı sıcaqla ve kavaklıkla ve kavamayla ve küflenmeyle; ve bunlar peşine düşecek, yok olana kadar.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "seni vuracak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "tüketen hastalıkla"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "ve ateşle"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "ve iltihapla"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "ve yakıcı sıcaqla"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ve kuraklıkla"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "ve kavamayla"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "ve küflenmeyle"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "ve peşine düşecekler"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "yok olana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:46.720893186Z",
+  "model": "glm-5.3"
+}

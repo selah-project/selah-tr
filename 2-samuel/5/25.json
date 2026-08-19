@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "David de böylece yaptı, Yahve'nin ona buyurduğu gibi; ve Filistlileri Giv'a'dan sen Gezer'e varıncaya dek vurdu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nasıl ki"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ona buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistlileri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlileri"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Giv'a'dan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "באך",
+      "gloss": "sen gelince"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:59.659172287Z",
+  "model": "glm-5.3"
+}

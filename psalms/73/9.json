@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Ağızlarını göklere ⟨karşı⟩ koydular, dilleri yeryüzünde gezinir.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "koydular"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklere"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ağızlarını"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ve dilleri"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "gezinir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:03.824690370Z",
+  "model": "glm-5.3"
+}

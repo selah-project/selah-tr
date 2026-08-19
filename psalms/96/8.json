@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Yahve'ye verin adının görkemini; sunu kaldırın ve ⟨onun⟩ avlularına girin.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görkem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adının"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "kaldırın"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sunu"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ve girin"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "onun avlularına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:36.001021964Z",
+  "model": "glm-5.3"
+}

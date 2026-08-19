@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Gün güne söz çağırır, ve gece geceye bilgi gösterir.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "güne"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "çağırır"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ve gece"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "geceye"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "gösterir"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:04.003383672Z",
+  "model": "glm-5.3"
+}

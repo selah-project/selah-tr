@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Kral dedi: Benim size neyim var, ey Tseruyah oğulları? Sövsün, çünkü Yahve ona 'Davud'u ⟨את⟩ söv' demiştir; kim diyebilir ki 'Niçin böyle ettin?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ve size"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "sövsün"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ve çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demiştir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "söv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "diyebilir"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "niçin"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ettin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:32:47.264164818Z",
+  "model": "glm-5.3"
+}

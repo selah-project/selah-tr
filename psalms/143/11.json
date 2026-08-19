@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Adın uğruna, Yahve, beni dirilt; ṣıdkatında canımı sıkıntıdan çıkar.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "beni dirilt"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ṣıdkatında"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "sıkıntıdan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:22.308693477Z",
+  "model": "glm-5.3"
+}

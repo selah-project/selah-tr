@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 1:2",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yahve'nin Hoşea ile konuşmaya başladığı başlangıçta Yahve Hoşea'ya şöyle dedi: Git, zina eden bir kadın al ve zinadan doğan çocuklar edin, çünkü ülke Yahve'nin ardından tamamen zina ediyor.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "başlangıç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuşması"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בהושע",
+      "gloss": "Hoşea ile"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoşea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zina eden"
+    },
+    {
+      "surface": "וילדי",
+      "gloss": "ve çocuklar"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zinadan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "zina ederek"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "zina ediyor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:15.567728448Z",
+  "model": "glm-5.3"
+}

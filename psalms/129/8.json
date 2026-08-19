@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 129,
+  "translation": "Ve gelip geçenler demezler: 'Size Yahve'nin bereketi; Yahve'nin adıyla sizi ⟨את⟩ kutsadık.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve…-mez"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "derler"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "gelip geçenler"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bereketi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "kutsadık"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "siz"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:35.089109499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Döverken öküzün ağzını bağlamayacaksın.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ağzını bağlamayacaksın"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "döverken"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:19.585431143Z",
+  "model": "glm-5.3"
+}

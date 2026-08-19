@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Bana sevinç ve neşe duyur; ezdiğin kemikler coşsun.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "duyur bana"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinç"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ve neşe"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "coşsunlar"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kemikler"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ezdin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:55.442733993Z",
+  "model": "glm-5.3"
+}

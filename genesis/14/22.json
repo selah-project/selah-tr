@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 14:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Avram, Sedom'un kralına dedi: «Elini gökyüzünün ve toprağın Sahibi Yahve'ye, El Elyon'a kaldırdım.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "kaldırdım"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Sahibi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökyüzü"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ve toprak"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:16.264940913Z",
+  "model": "glm-5.3"
+}

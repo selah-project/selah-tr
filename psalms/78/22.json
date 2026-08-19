@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Çünkü Elohim'e inanmadılar ve onun kurtuluşuna güvenmediler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "inandılar"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "güvendiler"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "onun kurtuluşuna"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:02.655861996Z",
+  "model": "glm-5.3"
+}

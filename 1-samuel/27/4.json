@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Şaul'e bildirildi ki Davut Gat'a kaçtı; artık onu aramaya devam etmedi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bildirildi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaul'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat'a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "artık -değil"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "devam etmedi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "onu aramaya"
+    }
+  ],
+  "timestamp": "2026-08-19T12:15:11.453003719Z",
+  "model": "glm-5.3"
+}

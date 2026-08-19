@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Yahve'nin ateşi düştü ve ⟨את⟩ yakılan sunuyu, ve ⟨את⟩ odunları, ve ⟨את⟩ taşları, ve ⟨את⟩ tozu yuttu; ve ⟨את⟩ hendek içindeki suyu yaladı.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "ve düştü"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ve yuttu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakılan sunuyu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakılan sunuyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "odunları"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "odunları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "taşları"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "taşları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tozu"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "tozu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "suyu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "hendekteki"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "yaladı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:14.629689413Z",
+  "model": "glm-5.3"
+}

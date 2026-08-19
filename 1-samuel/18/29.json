@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Şaul ⟨את⟩ Davud'un yüzünden daha çok korkmaya devam etti; ve Şaul, Davud'un düşmanı oldu bütün günler boyunca.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "korkmaya devam etti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "korkmak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha çok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "איב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud'un"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günler boyunca"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:38.369276785Z",
+  "model": "glm-5.3"
+}

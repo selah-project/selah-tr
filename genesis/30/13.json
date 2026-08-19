@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Lea dedi: Bahtiyarlığımla, çünkü kızlar beni bahtiyar kıldılar; ve ⟨את⟩ adını Aşer çağırdı.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "bahtiyarlığımla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "beni bahtiyar kıldılar"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızlar"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Aşer"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:56.826504015Z",
+  "model": "glm-5.3"
+}

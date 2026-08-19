@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "⟨Sizler⟩ Yahve'nin evinde, Tanrımızın ⟨evinin⟩ avlularında duranlar!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "durmakta olanlar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "avlularında"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Tanrımızın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:23.188471011Z",
+  "model": "glm-5.3"
+}

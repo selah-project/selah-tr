@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Bana sevgiyle önce davranan Elohim'im; Elohim düşmanlarımın ⟨başına⟩ bakmamı gösterecek bana.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgisi"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "bana önce davranır"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "bana gösterecek"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "düşmanlarımın başına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:48.267747706Z",
+  "model": "glm-5.3"
+}

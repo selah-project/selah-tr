@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Koruva ustasına, Şeminit üzerine, Davud'un mezmuru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koruva ustasına"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Şeminit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'un"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:35.666805555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve oğlanın annesi dedi: Yahve diridir ve canın diridir, seni terk etmeyeceğim. Ve ⟨o⟩ kalktı ve onun ardınca gitti.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "annesi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlanın"
+    },
+    {
+      "surface": "חי",
+      "gloss": "diridir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ve diridir"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "seni terk ederim"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "onun ardınca"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:43.331521679Z",
+  "model": "glm-5.3"
+}

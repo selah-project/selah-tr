@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Yapan gökleri ve yeri, ⟨את⟩ denizi ve ⟨את⟩ içindekilerin tümünü; koruyan sadakati sonsuza dek",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ve yeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "içindekilerin tümünü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tümünü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların içinde"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "koruyan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sadakati"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:18.832167333Z",
+  "model": "glm-5.3"
+}

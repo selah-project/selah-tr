@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ilkdoğanına Yeter'e dedi: Kalk, ⟨את⟩ onları öldür. Ama genç kılıcını çekmedi, çünkü korktu, çünkü hâlâ gençti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "Yeter'e"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ilkdoğanı"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldür"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "çekti"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "genç"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kılıcını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korktu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "hâlâ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "genç"
+    }
+  ],
+  "timestamp": "2026-08-19T09:16:56.342640116Z",
+  "model": "glm-5.3"
+}

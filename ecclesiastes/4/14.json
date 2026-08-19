@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Çünkü mahpuslar evinden kral olmak için çıktı; çünkü kendi krallığında yoksul doğmuştu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "mahpusların"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kral olmak için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "kendi krallığında"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "doğmuştu"
+    },
+    {
+      "surface": "רש",
+      "gloss": "yoksul"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:42.352860403Z",
+  "model": "glm-5.3"
+}

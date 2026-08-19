@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Yahve, duamı işit, ve feryadım sana gelsin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "işit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ve feryadım"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gelsin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:33.253998218Z",
+  "model": "glm-5.3"
+}

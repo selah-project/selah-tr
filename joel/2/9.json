@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Şehirde koşuşurlar, duvar üstünde uçarcasına koşarlar, evlere tırmanırlar, pencerelerden içeri girerler, hırsız gibi.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "koşuşurlar"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "duvar üstünde"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "koşarlar"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "evlere"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "tırmanırlar"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "içinden"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "pencereler"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girerler"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "hırsız gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:28.007246453Z",
+  "model": "glm-5.3"
+}

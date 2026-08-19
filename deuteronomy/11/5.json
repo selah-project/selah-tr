@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve sizin için çölde ne yaptığına ⟨dair⟩ — siz bu yere gelinceye kadar.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ve ... -e dair"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "gelinceye kadar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:37.214946868Z",
+  "model": "glm-5.3"
+}

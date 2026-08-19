@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Ve dinlemediler, kulaklarını eğmediler ⟨את⟩, kötülüklerinden dönmek için, başka elohlara tütsü yakmamak üzere.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve dinlemediler-de değil"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dinlemediler"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve...-de değil"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "eğmediler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulaklarını"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "kulaklarını"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "dönmek için"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "kötülüklerinden"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "...mamak için"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "tütsü yakmak"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "elohlara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başka"
+    }
+  ],
+  "timestamp": "2026-08-19T10:19:45.576185651Z",
+  "model": "glm-5.3"
+}

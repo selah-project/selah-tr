@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yahve, Paroh'u ve ⟨את⟩ evini büyük vuruşlarla vurdu — Saray, Avram'ın eşinin sözü yüzünden.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh'u"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'u"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "vuruşlarla"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evini"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "eşinin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:14.138785580Z",
+  "model": "glm-5.3"
+}

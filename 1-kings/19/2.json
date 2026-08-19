@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "İzevel Eliyahu'ya bir ulak gönderip şöyle dedi: «Elohim bana böyle yapsın ve daha da fazlasını eklesin; çünkü yarın bu saatte ⟨את⟩ canını onlardan birinin canı gibi kılacağım.»",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzevel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ulak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "yapsınlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ve böyle"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "eklesinler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "bu saatte"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "yarın"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "kılacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canını"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "canı gibi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:38.349040085Z",
+  "model": "glm-5.3"
+}

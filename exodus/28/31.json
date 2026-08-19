@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve efodun kaftanını tamamen mavi yapacaksın.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaftanı"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kaftanı"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodun"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tamamen"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "mavi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:04.292185169Z",
+  "model": "glm-5.3"
+}

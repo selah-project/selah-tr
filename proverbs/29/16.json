@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Kötüler çoğaldığında isyan da çoğalır; ama sadıklar onların yıkılışını görecekler.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "çoğaldığında"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "çoğalır"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "isyan"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ve sadıklar"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "yıkılışlarında"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:45.278254920Z",
+  "model": "glm-5.3"
+}

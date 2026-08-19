@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kuru bir lokma ve onunla esenlik, çekişme kurbanlarıyla dolu bir evden iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "פת",
+      "gloss": "bir lokma"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "ve esenlik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evden"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurbanlarıyla"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "çekişme"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:37.951972037Z",
+  "model": "glm-5.3"
+}

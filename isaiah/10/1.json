@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Vay hallerine, bela hükümleri hükmedenlerin ve yazıcıların — zahmet yazarlar!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "hükmedenler"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "hükümleri"
+    },
+    {
+      "surface": "און",
+      "gloss": "bela"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ve yazıcılar"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zahmet"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "yazarlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:27.325045134Z",
+  "model": "glm-5.3"
+}

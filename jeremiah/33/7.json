@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve Yahuda'nın sürgününü ve İsrail'in sürgününü geri döndüreceğim, ve onları ilk baştaki gibi yeniden kuracağım.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ve geri döndüreceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürgününü"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sürgününü"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda'nın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sürgününü"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sürgününü"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ve yeniden kuracağım"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "ilk baştaki gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:14:08.532657724Z",
+  "model": "glm-5.3"
+}

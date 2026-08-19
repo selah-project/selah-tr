@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Ve şimdi beni ⟨את⟩ buraya siz göndermediniz, ⟨את⟩ Elohim ⟨did⟩; ve beni Paro için baba, bütün evi için efendi ve bütün Mitsrayim ülkesinde yönetici kıldı.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "gönderdiniz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "buraya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "ve beni kıldı"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro için"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "ve efendi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evi için"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ve yönetici"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:18.433765811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Cariyenin iki oğlu vardı; ikisi tarlaya kavga ettiler ve aralarında ayıran ⟨את⟩ kimse yoktu; biri diğerine vurdu ve onu öldürdü.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "cariyenin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "kavga ettiler"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ayıran\/kurtaran"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "aralarında"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vurdular"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diğeri (האחד)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "diğerine"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ on"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:53.715385965Z",
+  "model": "glm-5.3"
+}

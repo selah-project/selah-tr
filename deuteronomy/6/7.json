@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Onları oğullarına tekrar tekrar öğretecek, evinde otururken, yolda yürürken, yatarken ve kalkarken onlardan söz edeceksin.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ve tekrar tekrar öğreteceksin"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ve söz edeceksin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "otururken"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ve yürürken"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ve yatarken"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ve kalkarken"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:07.595506492Z",
+  "model": "glm-5.3"
+}

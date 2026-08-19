@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Sukkot'tan yola çıktılar ve çölün ucundaki Etam'da konakladılar.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ve yola çıktılar"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkot'tan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ve konakladılar"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etam'da"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ucundaki"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çölün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:10.544590577Z",
+  "model": "glm-5.3"
+}

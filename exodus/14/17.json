@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve ben, işte, ben Mısır'ın ⟨את⟩ yüreğini güçlendiriyorum ve onların ardınca girecekler; ve ben Paro'da, bütün ordusunda, savaş arabalarında ve süvarilerinde yüceleceğim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "güçlendiriyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüreğini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ve girecekler"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "onların ardınca"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ve yüceleceğim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paro'da"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ordusunda"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "savaş arabalarında"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ve süvarilerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:10.815489191Z",
+  "model": "glm-5.3"
+}

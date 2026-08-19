@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve boğazına bir bıçak koy, ⟨eğer⟩ iştah sahibiysen.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ve koy"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "bir bıçak"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "boğazına"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "iştah \/ can"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "isen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:56.863887319Z",
+  "model": "glm-5.3"
+}

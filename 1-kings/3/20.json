@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve gecenin ortasında kalktı ve uyanık ⟨את⟩ oğlumu yanımdan aldı — senin cariyen uyuyordu — ve onu koynuna yatırdı; ⟨את⟩ ölü oğlunu ise koynuma yatırdı.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecenin"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlumu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumu"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "yanımdan"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "senin cariyen"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "uyuyordu"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "ve onu yatırdı"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "koynuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ölü oğlunu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "yatırdı"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "koynuma"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:06.279995752Z",
+  "model": "glm-5.3"
+}

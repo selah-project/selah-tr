@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Böyle dedi Yahve: İşte böyle bozacağım ⟨את⟩ Yahuda'nın gururunu ve ⟨את⟩ Yeruşalayim'in büyük gururunu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "işte böyle"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "bozacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda'nın gururunu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gururunu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yeruşalayim'in büyük gururunu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gururunu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T10:09:05.535251310Z",
+  "model": "glm-5.3"
+}

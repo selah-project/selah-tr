@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Onun parlaklığını sona erdirdin, tahtını yere yıktın.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "sona erdirdin"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "onun parlaklığını"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ve tahtını"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yere"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "yıktın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:08.908795938Z",
+  "model": "glm-5.3"
+}

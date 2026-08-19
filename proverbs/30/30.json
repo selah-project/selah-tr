@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Arslan — hayvanlar içinde güçlü — ve her hangi birinin yüzünden geri dönmez.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "arslan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "hayvanlar içinde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "geri döner"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her hangi biri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:54.322318319Z",
+  "model": "glm-5.3"
+}

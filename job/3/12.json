@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Neden dizler beni karşıladı, ve neden memeler — ki emeyim?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "neden"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "beni karşıladı"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "dizler"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve neden"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "memeler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "emeyim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:43.135517738Z",
+  "model": "glm-5.3"
+}

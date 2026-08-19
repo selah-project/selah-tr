@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Evine dayanır ve ⟨o⟩ ayakta durmaz; ona tutunur ve ⟨o⟩ doğrulmaz.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "dayanır"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve -mez"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ayakta durur"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "tutunur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve -mez"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "doğrulur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:57.208016161Z",
+  "model": "glm-5.3"
+}

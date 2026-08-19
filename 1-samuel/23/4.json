@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Davut yine Yahve'ye sormaya devam etti; Yahve ona cevap verip dedi: Kalk, K'eila'ya in, çünkü ben Peleştimlileri ⟨את⟩ eline veriyorum.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "devam etti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "sormaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "cevap verdi ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "רד",
+      "gloss": "in"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "K'eila'ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veriyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleştimlileri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştimlileri"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "eline"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:15.645546357Z",
+  "model": "glm-5.3"
+}

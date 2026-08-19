@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 23:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve ekmek, kavrulmuş tane ve taze başak yemeyeceksiniz — bizzat ⟨את⟩ Tanrınız'ın kurbanını getireceğiniz o güne kadar; nesilleriniz boyunca bütün meskenlerinizde sonsuz bir kukat ⟨bu⟩.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "ve ekmek"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "kavrulmuş tane"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "taze başak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "bizzat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "getireceğiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurbanı"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Tanrınız'ın"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kukat (törensel kural)"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "nesilleriniz için"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "meskenlerinizde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:37.154415873Z",
+  "model": "glm-5.3"
+}

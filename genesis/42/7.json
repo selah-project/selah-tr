@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Yosef kardeşlerini görünce onları tanıdı, ama onlara yabancı gibi davrandı ve onlarla ⟨את⟩ sert konuştu ve onlara dedi: Nereden geliyorsunuz? Dediler: Kenaan ülkesinden, yiyecek almaya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşlerini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşlerini"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "onları tanıdı"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "yabancı gibi davrandı"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "sert"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nereden"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "geliyorsunuz"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "almaya"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:40.875434667Z",
+  "model": "glm-5.3"
+}

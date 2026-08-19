@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 20:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve oldu ertesi gün, ve Pashhur çıkardı ⟨את⟩ Yirmeyahu'yu alt-üst ediciden; ve Yirmeyahu ona dedi: Pashhur olarak değil adına Yahve çağırdı, ama Magor-Missaviv.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertesi gün"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıkardı"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashhur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu'yu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "alt-üst ediciden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashhur"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "Magor (korku)"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "Missaviv (çevrede)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:10:47.887690136Z",
+  "model": "glm-5.3"
+}

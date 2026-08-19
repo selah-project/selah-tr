@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve hayvana vuran onu ödeyecek; insana vuran ise öldürülecek.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ve vuran"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvan"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "onu ödeyecek"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ve vuran"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:16.224747247Z",
+  "model": "glm-5.3"
+}

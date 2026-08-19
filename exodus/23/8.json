@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Rüşvet alma; çünkü rüşvet görenleri kör eder ve salihlerin sözlerini eğri gösterir.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "ve rüşvet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "me"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "al"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "rüşvet"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "kör eder"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "görenleri"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ve eğri gösterir"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salihlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:25.420482095Z",
+  "model": "glm-5.3"
+}

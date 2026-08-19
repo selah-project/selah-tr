@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "İyi gözlü ⟨o⟩, kutsanacaktır; çünkü ekmeğinden yoksula verir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözlü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kutsanacaktır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "ekmeğinden"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "yoksula"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:26.189565143Z",
+  "model": "glm-5.3"
+}

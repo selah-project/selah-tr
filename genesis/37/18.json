@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Onu ⟨את⟩ uzaktan gördüler; daha onlara yaklaşmadan onu ⟨את⟩ öldürmek için ona tuzak kurmaya kalkıştılar.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzaktan"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "daha ... olmadan"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "yaklaşmadan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "tuzak kurmaya kalkıştılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "öldürmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:01.092490108Z",
+  "model": "glm-5.3"
+}

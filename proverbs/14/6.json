@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Alaycı bilgelik arar — ⟨oysa⟩ yoktur; ama anlayışlıya bilgi kolay gelir.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "arar"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "alaycı"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bilgelik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ve bilgi"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "anlayışlıya"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "kolay\/kolay gelir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:49.638417679Z",
+  "model": "glm-5.3"
+}

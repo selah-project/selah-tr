@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Sen — elinle ulusları kökünden çıkardın, onları ektin; toplulukları kötü ettin, onları kovdun.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elinle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "kökünden çıkardın"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ve onları ektin"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "kötü ettin"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "toplulukları"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ve onları kovdun"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:12.316296965Z",
+  "model": "glm-5.3"
+}

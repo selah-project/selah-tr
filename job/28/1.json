@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Çünkü gümüşe ⟨bir⟩ kaynak vardır, ve altının eritildiği ⟨bir⟩ yer vardır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יש",
+      "gloss": "vardır"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "gümüşe"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "kaynak"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ve yer"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "altına"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "eritilir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:18.907223085Z",
+  "model": "glm-5.3"
+}

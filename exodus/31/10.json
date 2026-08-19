@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "ve ⟨את⟩ işleme giysileri, ve ⟨את⟩ kutsal giysileri Aharon kahin ⟨için⟩, ve ⟨את⟩ oğullarının giysileri kahinlik etmek ⟨için⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "işleme giysileri"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "giysileri"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "işleme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal giysileri"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "giysileri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon ⟨için⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarının giysileri"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "giysileri"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahinlik etmek ⟨için⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:56.215673658Z",
+  "model": "glm-5.3"
+}

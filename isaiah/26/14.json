@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ölüler asla yaşamayacak, gölgeler (refaim) asla kalkmayacak; bu yüzden onları ziyaret ettin, onları yok ettin ve bütün anılarını silip süpürdün.",
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "ölüler"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "yaşamayacak"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "gölgeler (refaim)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "kalkmayacak"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "ziyaret ettin"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "onları yok ettin"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "silip süpürdün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anılarını"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:08.532288451Z",
+  "model": "glm-5.3"
+}

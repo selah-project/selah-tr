@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 138,
+  "translation": "Yahve benim için tamamlayacak; Yahve'nin merhameti sonsuzdur; ellerinin işlerini bırakma.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "tamamlayacak"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "merhameti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuzdur"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "işlerini"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "bırakma"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:36.314064883Z",
+  "model": "glm-5.3"
+}

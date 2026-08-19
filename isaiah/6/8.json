@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Adonay'in sesini işittim, ⟨את⟩ şu sözü söylerken: ⟨את⟩ kimi göndereyim ve kim bizim için gidecek? Ve dedim: İşte ben, beni gönder.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Ve işittim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söylerken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "göndereyim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gidecek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "beni gönder"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:55.050025461Z",
+  "model": "glm-5.3"
+}

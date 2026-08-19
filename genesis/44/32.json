@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Çünkü kulun babamın yanında ⟨את⟩ gence kefil oldu: 'Onu sana getirmezsem babama karşı bütün günler günah işlemiş olurum' diye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kefil oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gence"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gence"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babamın"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değilse"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "onu getirmezsem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ve günah işlemiş olurum"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "babama karşı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:29.499668462Z",
+  "model": "glm-5.3"
+}

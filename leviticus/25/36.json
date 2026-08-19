@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ondan ⟨את⟩ faiz ve artış almayasın; Elohim'inden korkasın ve kardeşin seninle birlikte yaşasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "almayasın"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ondan",
+      "marks": "faiz ve artış"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faiz"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ve artış"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ve korkasın"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim'inden"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ve yaşasın"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "kardeşin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:39.432198282Z",
+  "model": "glm-5.3"
+}

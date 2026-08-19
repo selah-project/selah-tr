@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "O zaman âsilerin sana yol(ulduğun) yollarını, ‹ם› öğreteceğim ve günahkârlar sana dönecek.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "öğreteceğim"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "âsiler"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "senin yollarını"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ve günahkârlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "dönecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:39.124418349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yisra'el'in evinde korkunç bir şey gördüm: orada Efrayim'e zina ⟨vardır⟩; Yisra'el kirlendi.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el'in"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "korkunç bir şey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "zina"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim'e"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "kirlendi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:13.595314299Z",
+  "model": "glm-5.3"
+}

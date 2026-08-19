@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Elohim onların ⟨את⟩ iniltisini duydu; Elohim ⟨את⟩ ahdiyle olan beritini — ⟨את⟩ Avraham'la, ⟨את⟩ Yitshak'la ve ⟨את⟩ Yaakov'la olanını — hatırladı.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "duydu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iniltisini"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "onların iniltisini"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "hatırladı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beritini"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beritini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham'la"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak'la"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yaakov'la"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:00.108604335Z",
+  "model": "glm-5.3"
+}

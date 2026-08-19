@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve şimdi, lütfen efendim Assur kralıyla ⟨את⟩ garanti ver — ve sana iki bin at vereyim, eğer onlara binici koyabilecek gücün varsa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "garanti ver"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ile",
+      "marks": "efendim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ve vereyim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki bin"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "at"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "gücün yeterse"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "koymaya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendi"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "binici"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:59.263919343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Onunla konuşmayı bitirince, Elohim Avraham'ın üzerinden yukarı çıktı.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "bitirince"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "konuşmayı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yukarı çıktı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:37.362760015Z",
+  "model": "glm-5.3"
+}

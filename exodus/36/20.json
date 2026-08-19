@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve ⟨את⟩ mişkanın tahtalarını yaptı — şita ağacından, ayakta duran.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahtalar"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "tahtalar"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "mişkan için"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacı"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şita"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "duran"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:06.061710422Z",
+  "model": "glm-5.3"
+}

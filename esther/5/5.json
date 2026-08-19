@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Kral dedi ki: Haman'ı acele ettirin, Ester'in sözünü yerine getirmek için; kral ve Haman, Ester'in hazırlamış olduğu ziyafete geldiler.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "acele ettirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerine getirmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "söz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester'in"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ve Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ziyafete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hazırladı"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:23.263793605Z",
+  "model": "glm-5.3"
+}

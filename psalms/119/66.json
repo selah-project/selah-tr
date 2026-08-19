@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "İyi seziş ve bilgi öğret bana, çünkü mitsvalarına iman ettim.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "seziş"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ve bilgi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "öğret bana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "mitsvalarına"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "iman ettim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:51.984057030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yalnız güçlü ol, kanı yememek için; çünkü kan ⟨⟩odur ⟨⟩can, ve canı etle birlikte yemeyeceksin.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "güçlü ol"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "için değil"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemek"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yiyeceksin"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "canı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile birlikte"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "et"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:28.281884946Z",
+  "model": "glm-5.3"
+}

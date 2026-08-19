@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Yahve Elohim'inin ⟨את⟩ buyruklarını koruyacaksın, onun yollarında yürümek ve ⟨את⟩ ondan korkmak için.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ve koruyacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruklarını"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyruklarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yürümek için"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "onun yollarında"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "ve korkmak için"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:31.027513045Z",
+  "model": "glm-5.3"
+}

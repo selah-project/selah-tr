@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Sıkıntı gününde bana çağır, seni kurtarayım ve beni yüceltesin.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "ve bana çağır"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "seni kurtarayım"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "ve beni yüceltesin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:13.291438382Z",
+  "model": "glm-5.3"
+}

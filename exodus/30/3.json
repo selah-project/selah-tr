@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve ⟨את⟩ onu saf altınla kaplayacaksın — ⟨את⟩ tepesini, ⟨את⟩ duvarlarını çevresinde ve ⟨את⟩ boynuzlarını — ve ona bir altın çelenk yapacaksın çevresinde.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ve kaplayacaksın"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (sunak)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altınla"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "saf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tepesini"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "tepesini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "duvarlarını"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "duvarlarını"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "boynuzlarını"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "boynuzlarını"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "çelenk"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:41.746548727Z",
+  "model": "glm-5.3"
+}

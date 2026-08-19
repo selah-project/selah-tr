@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve bunlar onun önderleriydi: Azaryahu, Tsadok oğlu, ⟨o⟩ kâhindin.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve bunlar"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "önderler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:38.737124084Z",
+  "model": "glm-5.3"
+}

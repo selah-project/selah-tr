@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Uriya ona geldi; David, Yoav'un esenliğini, halkın esenliğini ve savaşın esenliğini sordu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "sordu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "esenliğini"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav'ın"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ve esenliğini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ve esenliğini"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "savaşın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:39.541834865Z",
+  "model": "glm-5.3"
+}

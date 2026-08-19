@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Avlu duvarının genişliğinde, doğu tarafında yol, ayrılan yerin yüzüne ve binanın yüzüne doğru — odalar.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "genişliğinde"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "duvarının"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "avlu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol \/ tarafında"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "doğu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "ayrılan yerin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve doğru"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "binanın"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "odalar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:36:42.825545433Z",
+  "model": "glm-5.3"
+}

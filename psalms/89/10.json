@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "⟨Sen⟩ denizin kabaran öfkesine hükmediyorsun; dalgaları yükseldiğinde ⟨sen⟩ onları dindirirsin.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hükmediyorsun"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kabaran öfkesine"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizin"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "yükseldiğinde"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "dalgaları"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "onları dindirirsin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:04.863380270Z",
+  "model": "glm-5.3"
+}

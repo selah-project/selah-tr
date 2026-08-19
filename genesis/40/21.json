@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve ⟨את⟩ şer ha-maşkimi(n) maşkahuna geri iade etti; ve kâseyi Paroh'un avucuna verdi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "geri iade etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şer ha-maşkimi(n) (içiler önderi)"
+    },
+    {
+      "surface": "שר",
+      "gloss": "önder"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "içiler"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "içiciliğine"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kâseyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כף",
+      "gloss": "avucuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:19.351383204Z",
+  "model": "glm-5.3"
+}

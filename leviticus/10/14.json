@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Sallama göğüsünü ⟨את⟩ ve takdim bacağını ⟨את⟩ temiz bir yerde yiyeceksiniz — sen, oğulların ve kızların ⟨את⟩ seninle; çünkü senin hakkın ve oğullarının hakkı olarak verildiler, Yisrael oğullarının şalom kurbanlarından.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sallama göğsünü"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "göğüs"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "sallama (sunusu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "takdim bacağını"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "bacak"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "takdim (sunusu)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ve oğulların"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "ve kızların"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "senin hakkın"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ve hak"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "verildiler"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "kurbanlarından"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "şalom (kurbanları)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:18.125480053Z",
+  "model": "glm-5.3"
+}

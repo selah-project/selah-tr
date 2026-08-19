@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Beni kuşattılar, evet, kuşattılar; Yahve'nin adıyla onları kesip atacağım.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "beni kuşattılar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "evet"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "kuşattılar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kesinlikle"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "onları kesip atacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:02.265911149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Biliyoruz, Yahve, kötülüğümüzü, atalarımızın suçunu; çünkü sana karşı günah işledik.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "biliyoruz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "kötülüğümüzü"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suçunu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "atalarımızın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "günah işledik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:08:38.285577827Z",
+  "model": "glm-5.3"
+}

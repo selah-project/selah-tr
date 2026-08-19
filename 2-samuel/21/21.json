@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "İsrail'i hakaret ettikçe Yonatan, Şimea'nın oğlu, Davut'un kardeşi, onu öldürdü; ⟨את⟩ İsrail'i tahkir etmişti.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "hakaret etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "onu öldürdü"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Şimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:10.128225312Z",
+  "model": "glm-5.3"
+}

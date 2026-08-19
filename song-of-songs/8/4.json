@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Size yemin ettim, ⟨את⟩ Yeruşalayim kızları: Aşkı — ⟨את⟩ — o isteyene dek uyandırmayın, tahrik etmeyin.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "yemin ettim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "siz (Yeruşalayim kızları)"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "uyandırırsınız"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve nasıl"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "tahrik edersiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aşkı"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "aşkı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "o isteyene"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:39.608955718Z",
+  "model": "glm-5.3"
+}

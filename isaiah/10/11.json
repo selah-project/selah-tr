@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şomeron'a ve onun putlarına yaptığımı Yeruşalayim'e ve onun putlarına yapmayacak mıyım?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yaptığımı gibi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Şomeron'a"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "ve onun putlarına"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yapacağım"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yeruşalayim'e"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "ve onun putlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:04.357716399Z",
+  "model": "glm-5.3"
+}

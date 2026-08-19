@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Milletler kendi yaptıkları çukurda batıp yok oldular; gizledikleri ağda yakalandı ⟨onların⟩ ayakları.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "batıp yok oldular"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "milletler"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "çukurda"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptıkları"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "ağda"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "gizledikleri"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "yakalandı"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ayakları"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:03.369173257Z",
+  "model": "glm-5.3"
+}

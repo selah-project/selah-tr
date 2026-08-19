@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Paro'nun önderleri onu ⟨את⟩ gördüler ve onu ⟨את⟩ Paro'nun önünde övdüler; ve kadın Paro'nun evine alındı.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ve gördüler"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "önderleri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro'nun"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "ve övdüler"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "önünde \/ doğru"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro'ya"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ve alındı"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro'nun"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:26.862172796Z",
+  "model": "glm-5.3"
+}

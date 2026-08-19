@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Gördün, Yahve; sessiz kalma; Adonay, benden uzak olma.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma (olumsuz)"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "sessiz kal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma (olumsuz)"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzak dur"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:38.815224374Z",
+  "model": "glm-5.3"
+}

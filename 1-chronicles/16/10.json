@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Kutsal adıyla övünün; Yahve'yi arayanların yüreği sevinsin.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "övünün"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinsin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arayanların"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:23.935420224Z",
+  "model": "glm-5.3"
+}

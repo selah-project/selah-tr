@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ağzı lanetle doludur ⟨ve⟩ hile ve dolandırıcılıkla; dilinin altında eziyet ve kötülük ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "lanet"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ve hile"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "dolandırıcılık"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "dilinin"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "eziyet"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ve kötülük"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:53.941414830Z",
+  "model": "glm-5.3"
+}

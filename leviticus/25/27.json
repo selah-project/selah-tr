@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "sattığının yıllarını hesaplasın ve sattığı kişiye fazlasını geri versin; böylece mülküne dönsün.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ve hesaplasın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yıllarını (שני)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yıllarını"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "onun satışının"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ve geri versin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fazlayı (העדף)"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "fazlayı"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "sattı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ve dönsün"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "mülküne"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:00.374918087Z",
+  "model": "glm-5.3"
+}

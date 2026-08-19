@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve Elohim Yaakov'a yine göründü, Paddan-Aram'dan gelirken, ve onu kutsadı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve göründü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "geldiğinde"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Paddan'dan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:47.202604301Z",
+  "model": "glm-5.3"
+}

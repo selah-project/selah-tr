@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "İşte seni arıttım, ama gümüş gibi değil; seni sıkıntının ocağında seçtim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "seni arıttım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşle"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "seni seçtim"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ocakta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sıkıntının"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:49.237267637Z",
+  "model": "glm-5.3"
+}

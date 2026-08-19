@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yahve'yi ⟨את⟩ mallarından dolayı yücelt, ve bütün ürününün ilkellerinden ⟨O'na⟩.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "yücelt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "mallarından"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ve ilkellerinden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "ürününün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:13.498834062Z",
+  "model": "glm-5.3"
+}

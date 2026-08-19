@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Yahve Elohim adamın aldığı kaburgadan ⟨את⟩ kadını inşa etti, ve onu adamın yanına getirdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadını"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "kaburgayı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "almıştı"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kadına"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "getirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamın"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:28.784881221Z",
+  "model": "glm-5.3"
+}

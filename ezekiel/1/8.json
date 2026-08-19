@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve kanatlarının altında insan elleri ⟨vardı⟩, dört yanları üzerinde; ve yüzleri ve kanatları dörde aitti.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ve elleri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "kanatlarının"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "dört"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "yanları"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ve yüzleri"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "ve kanatları"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "dörde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:22:47.816748566Z",
+  "model": "glm-5.3"
+}

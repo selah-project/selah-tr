@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Sen, Yahve, onları koruyacaksın; onu bu nesilden sonsuza dek saklayacaksın.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "onları koruyacaksın"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "onu saklayacaksın"
+    },
+    {
+      "surface": "מן",
+      "gloss": "den"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "bu nesil"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:47.477883010Z",
+  "model": "glm-5.3"
+}

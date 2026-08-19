@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Kim beni surlu şehre sokacak? Kim beni Edom'a kadar yönlendirecek?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "beni sokacak"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "surlu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "beni yönlendirecek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom'a"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:21.808377943Z",
+  "model": "glm-5.3"
+}

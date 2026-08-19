@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Yahve lütufkâr ve merhametlidir, öfkelenmesi yavaştır ve sevgisi büyüktür",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "lütufkâr"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ve merhametli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "yavaş"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "öfkelenmesi"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ve büyük"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgisi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:30.142865953Z",
+  "model": "glm-5.3"
+}

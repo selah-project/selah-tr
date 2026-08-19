@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Tanıdıklarımı benden uzaklaştırdın, beni onlara iğrençlik kildin; kapatıldım ve çıkamıyorum.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "uzaklaştırdın"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "tanıdıklarımı"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "koydun beni"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "iğrençlik"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "kapatıldım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve çıkamıyorum"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "çıkmam"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:37.900344857Z",
+  "model": "glm-5.3"
+}

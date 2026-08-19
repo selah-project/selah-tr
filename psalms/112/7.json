@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 112,
+  "translation": "Kötü haberden korkmayacak; kalbi sağlamdır, Yahve'ye güvenmiştir.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "haber"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "korkar"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sağlamdır"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "güvenmiştir"
+    },
+    {
+      "surface": "ביהווה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:43.040541420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve yasalarımı ⟨את⟩ koruyacaksınız ve onları ⟨את⟩ yapacaksınız; ben Yahve, sizi kutsayan.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "koruyacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yasalarımı"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "yasalarımı"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ve yapacaksınız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "sizi kutsayan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:12.538976267Z",
+  "model": "glm-5.3"
+}

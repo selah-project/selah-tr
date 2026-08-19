@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "David Nob'a, kâhin Ahimelek'in yanına geldi; Ahimelek, David'i karşılamak için titredi ve ona dedi: Neden yalnızsın ve ⟨את⟩ ile birlikte hiç kimse yok?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'in yanına"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "titredi"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "karşılamak için"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David'i"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "neden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve kimse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ile birlikte",
+      "marks": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:20.476644847Z",
+  "model": "glm-5.3"
+}

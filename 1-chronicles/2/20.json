@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Hur ⟨את⟩ Uri'nin babası oldu, ve Uri ⟨את⟩ Betzalel'in babası oldu.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ve Hur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ve Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betzalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:07.313435786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Kötüler rahimden yabancılaşmışlar, ana karnından sapmışlar, yalan söyleyenler olarak.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "yabancılaşmışlar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "rahimden"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "sapmışlar"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "karndan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "söyleyen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:14.371306840Z",
+  "model": "glm-5.3"
+}

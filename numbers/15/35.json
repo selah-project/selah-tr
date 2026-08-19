@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yahve Moşe'ye şöyle dedi: «O adam mutlaka öldürülecek; bütün cemaat onu taşlayacak taşlarla, ordugahın dışında ⟨את⟩ onu.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölmek"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecek"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o adam"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "taşlayacak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "taşlarla taşlanacak adam"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "taşlarla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışında"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ordugahın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:27.625842117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Aharon kendi günah sunusu boğasını ⟨את⟩ sunacak ve kendisi ve ev halkı için kefaret yapacak.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ve sunacak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boğayı"
+    },
+    {
+      "surface": "פר",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefaret yapacak"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ve ... için"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ev halkı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:47.438330801Z",
+  "model": "glm-5.3"
+}

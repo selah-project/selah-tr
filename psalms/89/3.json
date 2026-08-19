@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Çünkü demiştim: Sonsuza dek sevgi kurulacak, göklerde sadakatini sağlam kılacaksın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "demiştim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "kurulacak"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "sağlam kılacaksın"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sadakatini"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:10.520252987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve gece ordunun üzerine çiy inerken, man onun üzerine inerdi.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "ve inerken"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "çiy"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "iner"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:47.396275134Z",
+  "model": "glm-5.3"
+}

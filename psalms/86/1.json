@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Duadır, David'e ait. Eğilt, Yahve, kulağını, bana karşılık ver; çünkü yoksul ve muhtacım ben.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e ait"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "eğilt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bana karşılık ver"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve muhtaç"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:14.950143198Z",
+  "model": "glm-5.3"
+}

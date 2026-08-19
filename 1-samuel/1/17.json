@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Eli yanıtladı ve dedi: Git esenlikle, ve Yisrael'in Elohim'i versin ⟨את⟩ dileğini ki ondan istedin.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ve yanıtladı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "git"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "esenlikle"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ve Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dileğini"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "dileğini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "istedin"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:20:52.610080056Z",
+  "model": "glm-5.3"
+}

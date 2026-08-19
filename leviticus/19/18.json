@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Öç almayacaksın ve halkının oğullarına ⟨את⟩ kin tutmayacaksın; komşunu kendin gibi seveceksin; ben Yahve'yim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "öç alacaksın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "kin tutacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkının oğullarına"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "ve seveceksin"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "komşunu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kendin gibi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:08.289632972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Çünkü külü ekmek gibi yedim ve içkimi ağlamakla karıştırdım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "kül"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "ekmek gibi"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "yedim"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ve içkim"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ağlamakla"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "karıştırdım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:20.435155749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve bu halka şöyle diyeceksin: Yahve şöyle diyor: İşte önünüze ⟨את⟩ yaşam yolunu ve ⟨את⟩ ölüm yolunu koyuyorum.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ve -a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "diyeceksin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "koyuyorum"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "önünüze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaşam yolunu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yaşam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ölüm yolunu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ölüm"
+    }
+  ],
+  "timestamp": "2026-08-19T12:18:49.538542450Z",
+  "model": "glm-5.3"
+}

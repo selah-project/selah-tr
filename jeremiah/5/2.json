@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve eğer 'Yahve diridir' derlerse — kesinlikle yalana yemin ediyorlar.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "חי",
+      "gloss": "diridir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "derlerse"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "kesinlikle"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "yalana"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "yemin ediyorlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:06:09.549278208Z",
+  "model": "glm-5.3"
+}

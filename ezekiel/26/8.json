@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 26:8",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Kırdaki kızların kılıçla öldürülecek, ve sana karşı kuşatma kulesi kuracak, ve sana karşı yığma tepe dökecek, ve sana karşı kalkan dikecek.",
+  "tokens": [
+    {
+      "surface": "בנותיך",
+      "gloss": "kızların"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kırda"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kılıçla"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "öldürecek"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ve kuracak"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana karşı"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "kuşatma kulesi"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "ve dökecek"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana karşı"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "yığma tepe"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "ve dikecek"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana karşı"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "kalkan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:31:51.021971207Z",
+  "model": "glm-5.3"
+}

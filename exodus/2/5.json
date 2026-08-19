@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Paroh'un kızı yıkanmak için nehir'e indi, genç kızları da nehir kıyısı boyunca yürüyordu; kamışlar arasında ⟨את⟩ sandığı görünce ⟨את⟩ cariyesini gönderdi, o da onu aldı.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "indi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "yıkanmak için"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "nehir"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "genç kızları da"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "yürüyordu"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunca"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kıyısı"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "nehir"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "kamışlar"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cariyesini"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "cariyesini"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "onu aldı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:35.421403788Z",
+  "model": "glm-5.3"
+}

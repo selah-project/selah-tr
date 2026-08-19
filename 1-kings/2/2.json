@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "«Ben bütün ⟨את⟩ yeryüzünün yolunda ⟨דרך⟩ yürümekteyim; sen güçlü ol ve bir adam ⟨אישׁ⟩ ol.»",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yürümekteyim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "ve güçlü ol"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ve ol"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bir adama"
+    }
+  ],
+  "timestamp": "2026-08-19T12:15:26.993968727Z",
+  "model": "glm-5.3"
+}

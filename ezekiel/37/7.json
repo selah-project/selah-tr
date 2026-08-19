@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 37:7",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve emrolunduğum gibi peygamberlik ettim ve peygamberlik ederken ⟨bir⟩ ses oldu ve işte bir gürleme ve kemikler yaklaştılar, kemik kendi kemiğine.",
+  "tokens": [
+    {
+      "surface": "ונבאתי",
+      "gloss": "ve peygamberlik ettim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "emrolunduğum"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "כהנבאי",
+      "gloss": "peygamberlik ederken"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "bir gürleme"
+    },
+    {
+      "surface": "ותקרבו",
+      "gloss": "ve yaklaştılar"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kemikler"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "kemik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kendi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "kemiğine"
+    }
+  ],
+  "timestamp": "2026-08-19T10:34:21.458353793Z",
+  "model": "glm-5.3"
+}

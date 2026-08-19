@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 61,
+  "translation": "Yerin ucundan sana sesleneceğim; kalbim sarılınca, benden yüce ⟨bir⟩ kayaya beni yönelt.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sesleneceğim"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "sarılınca"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kayaya"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "yüce"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "beni yönelt"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:09.966496304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Ve acele ettiler ve herkes çuçunu yere indirdi, ve herkes çuçunu açtı.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ve acele ettiler"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ve indirdiler"
+    },
+    {
+      "surface": "איש",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çuçunu"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "çuçunu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ve açtılar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "çuçunu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:24.542642808Z",
+  "model": "glm-5.3"
+}

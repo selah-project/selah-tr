@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "İsrail'in bütün önderlerini, kâhinleri ve Levi'lileri topladı.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün önderler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "önderlerini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ve kâhinler"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ve Levi'liler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:59:35.159297158Z",
+  "model": "glm-5.3"
+}

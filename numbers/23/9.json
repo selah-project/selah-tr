@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Çünkü kayaların tepesinden onu görürüm, ve tepelerden onu gözlerim; işte, bir halk ⟨⟨dır⟩⟩ yalnız başına oturur, ve uluslar arasında sayılmaz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "tepelerinden"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "kayaların"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "onu görürüm"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "ve tepelerden"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "onu gözlerim"
+    },
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bir halk"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "yalnız başına"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "oturur"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "ve uluslar arasında"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "sayılmaz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:18.112663918Z",
+  "model": "glm-5.3"
+}

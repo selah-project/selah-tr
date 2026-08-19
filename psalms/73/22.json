@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Ve ben beyimdumansızım ve bilmiyorum; ⟨את⟩ hayvan gibi oldum seninle.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "בער",
+      "gloss": "beyimsiz\/anlayışsız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilirim"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "hayvan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:15.480239993Z",
+  "model": "glm-5.3"
+}

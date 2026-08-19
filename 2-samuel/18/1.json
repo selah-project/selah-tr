@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Davut yanındaki ⟨את⟩ halkı saydı ve onların üzerine binlerin serlerini ve yüzlerin serlerini koydu.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "saydı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yanındaki"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzerine"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serlerini"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "binlerin"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ve serlerini"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüzlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:33:37.544680774Z",
+  "model": "glm-5.3"
+}

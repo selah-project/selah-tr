@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve onları kâhine getirecek; kâhin önce günah sunusu olacak olanı sunacak, başını ensemeyinden sıyırıp koparacak ama tamamen ayırmayacak.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ve getirecek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ve sunacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah sunusu olanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olanı"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah sunusuna"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "önce"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ve koparacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "onun başı"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "karşısından"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "onun ensesi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayacak"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ayıracak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:31.411797757Z",
+  "model": "glm-5.3"
+}

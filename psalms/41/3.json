@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Yahve onu koruyacak ve onu diri tutacak; yeryüzünde mutlu kılacak; ve onu düşmanlarının ⟨nefsinin⟩ eline teslim etme.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "onu koruyacak"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ve onu diri tutacak"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "mutlu kılacak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve etme"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "onu teslim"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nefsine"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "düşmanlarının"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:43.888987677Z",
+  "model": "glm-5.3"
+}

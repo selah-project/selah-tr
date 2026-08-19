@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Dön, Yahve — ne zamana kadar? Ve kullarına karşı ⟨avun⟩.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "dön"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ne zamana kadar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ne zamana kadar"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "ve avun"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kullarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:35.927440592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Lea dedi: Baht geldi! Ve ⟨את⟩ adını Gad koydu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "baht"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:56.936222481Z",
+  "model": "glm-5.3"
+}

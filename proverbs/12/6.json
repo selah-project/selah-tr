@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kötülerin sözleri kan için pusu kurar; dürüstlerin ağzı ise onları kurtarır.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "pusu kurar"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ve ağzı"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dürüstlerin"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "onları kurtarır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:15.093886232Z",
+  "model": "glm-5.3"
+}

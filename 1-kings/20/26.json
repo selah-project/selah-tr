@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve yılın dönümünde oldu: Ben-Hadad Aram'ı ⟨את⟩ yokladı ve Aphek'e çıktı, İsrail'le savaşmak için.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "dönümünde"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yılın"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ve yokladı"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram'ı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram'ı"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Aphek'e"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaşmak için"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:26.950459978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Horev'de bir buzağı yaptılar ve dökme surete secde ettiler.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "buzağı"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horev'de"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ve secde ettiler"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "dökme surete"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:30.027457592Z",
+  "model": "glm-5.3"
+}

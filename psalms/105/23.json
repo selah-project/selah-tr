@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Ve Yisra'el Mitsrayim'e girdi ve Yaakov Ham ülkesinde misafir oldu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve girdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ve Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "misafir oldu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:00.270440337Z",
+  "model": "glm-5.3"
+}

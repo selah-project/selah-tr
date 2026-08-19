@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Elohim ⟨את⟩ yeri gördü, ve işte bozulmuştu; çünkü bütün et ⟨את⟩ kendi yolunu yer üzerine bozmuştu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "bozulmuştu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "bozmuştu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kendi yolunu"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "kendi yolunu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:57.508059998Z",
+  "model": "glm-5.3"
+}

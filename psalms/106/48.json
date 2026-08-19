@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Kutlu olsun Yahve, İsrail'in Elohim'i, ezelden ebede; ve bütün halk desin: Amen. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutlu olsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ezelden"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ebedî zamandan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve ebede"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ebedî zamana"
+    },
+    {
+      "surface": "ו אמר",
+      "gloss": "ve desin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:45.403725497Z",
+  "model": "glm-5.3"
+}

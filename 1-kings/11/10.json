@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ona bu konu üzerine buyruk verdi — başka ilahların ardından yürümemesi için — ama Yahve'nin buyurduğu ⟨את⟩ şeyi korumadı.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "buyruk verdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu konu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "-memesi için"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "yürümemesi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahların"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama -medı"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "korumadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:40.764310636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Mısır üzerine, Yosef'i ⟨את⟩ tanımayan yeni bir kral kalktı.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanımayan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tanımayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef'i"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:18.909875844Z",
+  "model": "glm-5.3"
+}

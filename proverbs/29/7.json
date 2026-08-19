@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Sadık yoksulların davasını bilir; kötü ise bilgiyi anlamaz.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadık"
+    },
+    {
+      "surface": "דין",
+      "gloss": "davayı \/ hakkı"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "yoksulların"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgiyi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:39.405444878Z",
+  "model": "glm-5.3"
+}

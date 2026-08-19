@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Davud'a ait. Kutsa, canım, ⟨את⟩ Yahve'yi, ve bütün içim ⟨את⟩ kutsal adını [kutsasın].",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "kutsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "içim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "onu kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:52.213635879Z",
+  "model": "glm-5.3"
+}

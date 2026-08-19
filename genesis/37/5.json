@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Yoséf bir rüya gördü ve kardeşlerine anlattı; ve ⟨onu⟩ daha da fazla nefret etmeye devam ettiler ⟨את⟩ onu.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "rüya gördü"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "bir rüya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ve anlattı"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kardeşlerine"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ve eklediler\/devam ettiler"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha da"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nefret etmeye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:40.138951097Z",
+  "model": "glm-5.3"
+}

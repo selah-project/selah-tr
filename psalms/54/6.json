@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "İşte Elohim ⟨bana⟩ yardımcı ⟨olan⟩; Adonay canımı destekleyenlerin içindedir.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yardım eder"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "destekleyenlerin içinde"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:10.768496Z",
+  "model": "glm-5.3"
+}

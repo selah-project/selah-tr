@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Yer sarsıldı, gökler de Elohim'in yüzünden damla damla aktı — bu Sinai, Elohim'in, İsrail'in Elohim'i'nin yüzünden.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "damla damla aktı"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:29.281059138Z",
+  "model": "glm-5.3"
+}

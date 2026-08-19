@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Yahve'nin görkemi sonsuza dek olsun; Yahve yapıtlarında sevinç duysun!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinç duysun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "yapıtlarında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:25.713277059Z",
+  "model": "glm-5.3"
+}

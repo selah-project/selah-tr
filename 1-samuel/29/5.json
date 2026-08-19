@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Bu değil mi Davud, ki ona danslarda karşılıklı söyleyip dediler: Şaul binlercesini vurdu, Davud on binlercesini?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "karşılıklı söylediler"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "danslarda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "binlercesinde"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ve Davud"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "on binlercesinde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:20.345553159Z",
+  "model": "glm-5.3"
+}

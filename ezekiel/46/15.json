@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Ve ⟨את⟩ kuzuyu, ⟨את⟩ tahıl sunusunu ve ⟨את⟩ yağı sabah sabah yapacaklar — sürekli yakmalık sunu.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ve yapacaklar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuzuyu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kuzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tahıl sunusunu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tahıl sunusu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "yakmalık sunu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:07.926596708Z",
+  "model": "glm-5.3"
+}

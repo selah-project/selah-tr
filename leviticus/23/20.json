@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve kâhin onları — ilk ürünler ekmeğinin üzerinde, Yahve'nin önünde sallama takdimi olarak, iki kuzunun üzerinde — sallayacak; kutsal olacaklar, Yahve'ye, kâhine.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ve sallayacak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları (iki kuzu ve ekmekler)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmeği"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "ilk ürünlerin"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sallama takdimi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "kuzu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaklar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kâhine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:36.287493566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Duam önüne gelsin, kulağını çığlığıma eğ.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "gelsin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duam"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "eğ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "çığlığıma"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:29.768257625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Yahve Moşe'ye dedi: Gördüm ⟨את⟩ şu halkı, ve işte, sert ense ⟨bir⟩ halktır o.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sert"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ense"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:45.111280374Z",
+  "model": "glm-5.3"
+}

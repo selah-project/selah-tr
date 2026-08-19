@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Çünkü Yahve'nin öfkesi bütün ulusların üzerinedir ve gazabı bütün ordularının üzerinedir; onları tamamen yok etmiş ⟨onları⟩ kesime teslim etmiştir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye ait"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "ve gazap"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ordularının"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "onları tamamen yok etti (herem)"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "onları tesim etti"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kesime"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:37.180258103Z",
+  "model": "glm-5.3"
+}

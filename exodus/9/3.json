@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "İşte Yahve'nin eli hayvanlarının — ⟨o⟩ kırda olanların — üzerinde olacak: atlarda, eşeklerde, develerde, sığırlarda ve koyunlarda çok ağır bir veba ⟨olacak⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "יד",
+      "gloss": "eli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "hayvanlarının üzerinde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kırda"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "atlarda"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "eşeklerde"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "develerde"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sığırlarda"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "ve koyunlarda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "veba"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:19.733037619Z",
+  "model": "glm-5.3"
+}

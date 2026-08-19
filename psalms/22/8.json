@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Beni gören herkes benimle alay eder; dudak ⟨⟨sınıyıp⟩⟩ başını sallar ⟨⟨der ki⟩⟩:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "beni gören"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "alay eder"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "sınıyıp açar"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "dudak"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "sallar"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:52.965827260Z",
+  "model": "glm-5.3"
+}

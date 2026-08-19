@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve kuzgunlar ona sabahleyin ekmek ve et, akşamleyin yine ekmek ve et getiriyorlardı; ve dereden içiyordu.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "ve kuzgunlar"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "getiriyorlardı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ve et"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ve ekmek"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ve et"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "akşamleyin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve ... -den"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dere"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "içiyordu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:28.841852498Z",
+  "model": "glm-5.3"
+}

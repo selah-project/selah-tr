@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Yer açıldı ve Dat'an'ı yuttu, Aviram'ın topluluğunun üzerine kapandı.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "yer açıldı"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ve yuttu"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Dat'an"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ve kapandı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "topluluğu"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:30.027088950Z",
+  "model": "glm-5.3"
+}

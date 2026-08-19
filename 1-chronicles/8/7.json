@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Naaman, ve Achiya, ve Gera — o, onları sürgün etti; ve ⟨את⟩ Uzza'yı ve ⟨את⟩ Acihud'u babası oldu.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "ve Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ve Achiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ve Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "onları sürgün etti"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ve babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzza'yı"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Acihud'u"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Acihud"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:44.113478164Z",
+  "model": "glm-5.3"
+}

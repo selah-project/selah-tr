@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Avraham yüz yaşındaydı ⟨את⟩ oğlu Yitshak'ın kendisine doğduğu sırada.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ve Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu (yüz yaşında)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaşında"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "doğduğu sırada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:30.838647457Z",
+  "model": "glm-5.3"
+}

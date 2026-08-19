@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 142,
+  "translation": "Sesimle Yahve'ye sesleniyorum, sesimle Yahve'ye yalvarıyorum.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "sesimle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "sesleniyorum"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sesimle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "yalvarıyorum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:52.484207122Z",
+  "model": "glm-5.3"
+}

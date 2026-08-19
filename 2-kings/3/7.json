@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 3:7",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve gitti ve Yehuda kralı Yehoşafat'a şöyle söylemek için ⟨elçi⟩ gönderdi: Moav kralı bana isyan etti; benimle ⟨את⟩ Moav'a, savaşa gider misin? Ve o dedi: Çıkacağım; ben nasılsam sen öylesin, halkım senin halkın gibi, atlarım senin atların gibi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…'a"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "isyan etti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "gidecek misin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ benimle",
+      "marks": "benimle (likte)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…'a doğru"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaş için"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "çıkacağım"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "benim gibi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "senin gibi"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "halkım gibi"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "halkın gibi"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "atlarım gibi"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "atların gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:28.353221046Z",
+  "model": "glm-5.3"
+}

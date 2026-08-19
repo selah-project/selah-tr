@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "O zaman Şelomo dedi: Yahve koyu karanlıkta oturmayı söyledi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "oturmayı"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "koyu karanlıkta"
+    }
+  ],
+  "timestamp": "2026-08-19T12:15:46.791466951Z",
+  "model": "glm-5.3"
+}

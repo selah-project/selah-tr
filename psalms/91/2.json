@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Yahve'ye derim: Sığınağım ve kalemim ⟨O⟩; Elohim'im, O'na güvenirim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "derim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ve kalemim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "güvenirim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "O'na"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:32.542000517Z",
+  "model": "glm-5.3"
+}

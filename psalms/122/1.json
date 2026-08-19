@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 122,
+  "translation": "Yükselişlerin şarkısı, Davud'un. Bana \"Yahve'nin evine gidelim\" diyenlerde sevindim.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "sevindim"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "diyenlerde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "gidelim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:11:03.009347558Z",
+  "model": "glm-5.3"
+}

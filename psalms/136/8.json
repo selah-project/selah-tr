@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Güneşe, gündüz egemen olması için; ⟨את⟩ güneşi — çünkü sadakati sonsuza dek sürer.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "güneşi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşi"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "egemen olması için"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sadakati"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:48.690782665Z",
+  "model": "glm-5.3"
+}

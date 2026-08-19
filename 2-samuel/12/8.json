@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "ve efendinin evini sana verdim ve efendinin kadınlarını koynuna, ve İsrail ve Yahuda evini sana verdim; ve az ise, böyle böyle şeyleri de sana eklerdim.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ve verdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efendinin evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "efendinin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "efendinin kadınlarını"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "kadınlarını"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "efendinin"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "koynuna"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ve verdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail ve Yahuda evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ve Yahuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "eklerdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "ve böyle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:18.313144866Z",
+  "model": "glm-5.3"
+}

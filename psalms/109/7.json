@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Yargılanınca suçlu çıksın, ve duâsı günah sayılsın.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "yargılanınca"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıksın"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "suçlu"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ve duâsı"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "günaha"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:09.522825796Z",
+  "model": "glm-5.3"
+}

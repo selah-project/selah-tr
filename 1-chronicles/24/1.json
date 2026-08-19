@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Aharon'un oğullarına göre bölümleri ⟨idi⟩: Aharon'un oğulları Nadav ve Avihu, Elazar ve Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ve oğullarına göre"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "bölümleri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ve Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ve Itamar"
+    }
+  ],
+  "timestamp": "2026-08-19T12:00:29.619054946Z",
+  "model": "glm-5.3"
+}

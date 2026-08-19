@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Yalnız Elohim için sessiz kal, ey canım; çünkü Ondandır umudum.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim için"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "sessiz kal"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Ondan"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "umudum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:23.186815861Z",
+  "model": "glm-5.3"
+}

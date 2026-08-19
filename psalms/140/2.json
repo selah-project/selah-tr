@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 140,
+  "translation": "Beni kurtar, Yahve, kötü adamdan; şiddet adamlarından koru beni.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Beni kurtar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "şiddet"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "koru beni"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:47.150419575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kalk, Yahve! Beni kurtar, Elohim'im! Çünkü bütün düşmanlarımı ⟨את⟩ yanağa vurdun; kötülerin dişlerini kırdın.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "vurdun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün düşmanlarımı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarımı"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "yanağa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dişlerini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "kırdın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:09.548996592Z",
+  "model": "glm-5.3"
+}

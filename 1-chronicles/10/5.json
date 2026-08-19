@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Silah taşığı Shaul'un öldüğünü görünce o da kılıcın üzerine düştü ve öldü.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "taşıyıcısı"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "silah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "kılıcın"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T12:26:12.704418528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 113,
+  "translation": "Yücedir Yahve bütün ulusların üzerinde, onun görkemi göklerin üzerindedir.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "yücedir"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "görkemi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:35.503492604Z",
+  "model": "glm-5.3"
+}

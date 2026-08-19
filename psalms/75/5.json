@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 75,
+  "translation": "Dedim ki kibre kapılanlara: Kibirlenmeyin; ve kötülere: Boynuzu kaldırmayın.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "kibre kapılanlara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me(meyin)"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "kibirlenmeyin"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "ve kötülere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me(mayın)"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "kaldırmayın"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "boynuzu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:54.172258399Z",
+  "model": "glm-5.3"
+}

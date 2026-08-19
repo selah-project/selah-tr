@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Ki fısıldayanların sesini duymaz; büyücünün büyülerini en usta biçimde kuranı.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "duymaz"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "duymaz"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "fısıldayanların"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "büyülerini kuran"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "büyüler"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "en usta biçimde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:53.388603579Z",
+  "model": "glm-5.3"
+}

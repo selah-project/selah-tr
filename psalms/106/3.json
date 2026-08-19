@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ne mutlu hükmü koruyanlara, her zaman doğruluk yapana.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "koruyanlara"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hükmü"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapana"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "doğruluk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zamanda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:31.732163541Z",
+  "model": "glm-5.3"
+}

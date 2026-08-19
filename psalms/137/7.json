@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 137,
+  "translation": "Anımsa, ey Yahve, Edom oğullarını — ⟨את⟩ Yeruşalayim'in gününü — diyenler: \"Yıkın, yıkın onu, temeline kadar!\"",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "anımsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günü"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "diyenler"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "yıkın"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "yıkın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "temelini"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:45.611456645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Hiram Şlomo'ya gönderip dedi: «Bana gönderdiğin ⟨את⟩ şeyi işittim; sedir ağaçlarından ve selvi ağaçlarından istediğin her şeyi ben yapacağım.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomo'ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "işittim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şeyi (אשר) — gönderdiğin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "gönderdin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yapacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "istediğini"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ağaçlarından"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedir"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "ve ağaçlarından"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "selvi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:13.364655436Z",
+  "model": "glm-5.3"
+}

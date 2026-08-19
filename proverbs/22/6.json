@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Genci onun yoluna göre ⟨ağzına⟩ eğit; yaşlandığında bile ondan sapmaz.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "eğit"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "genci"
+    },
+    {
+      "surface": "על",
+      "gloss": "uyarınca"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yoluna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "yaşlanır"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "sapar"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:10.334247856Z",
+  "model": "glm-5.3"
+}

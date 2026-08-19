@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Bakın, Yahve'nin — senin Elohim'in — olan ⟨şudur⟩: gökler ve göklerin gökleri, ⟨ve⟩ yeryüzü ve içindeki her şey.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bakın"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'nindir"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "göklerinin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:51.443608857Z",
+  "model": "glm-5.3"
+}

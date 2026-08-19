@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve tsaraat deride filizlenip yayılır ve tsaraat, belalı kişinin tüm derisini başından ayağına kadar, kâhinin gözünün gördüğü her yerde ⟨את⟩ örterse,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "filizlenip yayılır"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "yayılırsa"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "deride"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "örterse"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm deriyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "עור",
+      "gloss": "deriyi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "belalı kişinin"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "başından"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayağına"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "her yerde"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "görülen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözünün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhinin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:41.217047944Z",
+  "model": "glm-5.3"
+}

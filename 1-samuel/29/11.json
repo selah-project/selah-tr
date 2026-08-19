@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Davud, o ve adamları, sabah gitmek üzere erken kalktı, Peleştim ülkesine dönmek için; ve Peleştimliler Yizreel'e çıktı.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ve erken kalktı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gitmek için"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "dönmek için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesine"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştim"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ve Peleştimliler"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:58.602689072Z",
+  "model": "glm-5.3"
+}

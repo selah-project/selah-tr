@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ben, ben Yahve'yim; ve benden başka kurtarıcı yoktur.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "benden başka"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "kurtarıcı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:44.012097826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 70,
+  "translation": "Ben ise yoksul ve çaresizim; Elohim, bana acele et; yardımcım ve kurtarıcım sensin; Yahve, gecikme.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve çaresiz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "acele et"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "yardımcım"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ve kurtarıcım"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "gecik"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:58.511291852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Seni yücelteceğim, Yahve; çünkü beni yukarı çektin ve düşmanlarımı bana sevindirmedin.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "seni yücelteceğim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "beni yukarı çektin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -medin"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "sevindirmedin"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarımı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:21.053003882Z",
+  "model": "glm-5.3"
+}

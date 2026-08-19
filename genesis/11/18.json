@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Peleg otuz yıl yaşadı ve Reu'yu ⟨את⟩ doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu'yu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:51.635060791Z",
+  "model": "glm-5.3"
+}

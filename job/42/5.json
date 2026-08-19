@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Kulak duymasıyla seni işittim, ve şimdi gözüm seni gördü.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "duymasıyla"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kulak"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "seni işittim"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "seni gördü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:50.379351418Z",
+  "model": "glm-5.3"
+}

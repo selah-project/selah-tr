@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve onun ordusu, ve sayılmışları: altmış iki bin ve yedi yüz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ve onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ve sayılmışları"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ve altmış"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ve yedi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:46.554267335Z",
+  "model": "glm-5.3"
+}

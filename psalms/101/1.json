@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 101,
+  "translation": "Davud'un ⟨bir⟩ mizamoru. Sevgi ve hüküm-sizlikten sana Yahve söyleyeceğim, sana çalacağım-söyleyeceğim.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizamor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ve hüküm"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "söyleyeceğim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "çalacağım-söyleyeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:16.772821295Z",
+  "model": "glm-5.3"
+}

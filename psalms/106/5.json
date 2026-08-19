@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Seçilmişlerinin iyiliğini görmek, ulusunun sevincinde sevinmek, mirasınla birlikte övünmek için.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "iyiliğini"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "seçilmişlerinin"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "sevinmek için"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "sevincinde"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "ulusunun"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "övünmek için"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mirasınla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:38.433129540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ama topallığımde sevindiler ve toplandılar; bana karşı toplanan sopalardı, bilmezdim; yırttılar ve susmadılar.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "topallığımda"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "sevindiler"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ve toplandılar"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "toplandı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "sopalardı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve bilmezdim"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmezdim"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "yırttılar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "susmadılar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:40.563192541Z",
+  "model": "glm-5.3"
+}

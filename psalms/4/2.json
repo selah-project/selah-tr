@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yakarışımda bana cevap ver, benim doğruluğumun Elohim'i; darlıkta bana genişlik verdin; bana lûtfet ve duamı işit.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "yakarışımda"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bana cevap ver"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "doğruluğumun"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "darlıkta"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "genişlik verdin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "bana lûtfet"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ve işit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:40.453032385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Çünkü Yahve, Ahaz yüzünden — Yahuda kralının yüzünden değil, İsrail kralı diye anılan Ahaz'ın — Yahuda'yı alçalttı; çünkü Yahuda'da dizginleri bıraktı ve Yahve'ye karşı ihanet etti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "alçalttı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda'yı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda'yı"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "dizginleri bıraktı"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuda'da"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "ve ihanet etti"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ihanetle"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:08:58.819209159Z",
+  "model": "glm-5.3"
+}

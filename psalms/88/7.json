@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Beni en alt çukura koydun, karanlıklara, derinliklere.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "koydun"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "çukura"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "en alt"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "karanlıklara"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "derinliklere"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:32.765885196Z",
+  "model": "glm-5.3"
+}

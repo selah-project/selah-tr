@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Yahve gibi kutsal ⟨yoktur⟩, çünkü ⟨senden başka⟩ ⟨yoktur⟩ ve Elohim'imiz gibi kaya ⟨yoktur⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "⟨yoktur⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahve gibi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨yoktur⟩"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "⟨senden başka⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve ⟨yoktur⟩"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "Elohim'imiz gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:18.826204568Z",
+  "model": "glm-5.3"
+}

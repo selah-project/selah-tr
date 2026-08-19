@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "İşte, Asur krallarının bütün ülkeleri ⟨את⟩ yok etmeye adadıklarını sen duydun; ve ⟨sen⟩ kurtulacak mısın?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "İşte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "duydun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yok etmeye adadıklarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onları"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ülkeleri"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "yok etmeye adamaya"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ve ⟨sen⟩"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "kurtulacak mısın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:49:07.344856343Z",
+  "model": "glm-5.3"
+}

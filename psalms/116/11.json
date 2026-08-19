@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Ben ⟨şaşkınlığımda⟩ dedim: ⟨⟨bütün⟩⟩ insan ⟨yalancıdır⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "şaşkınlığımda \/ acelemdde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalancıdır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:50.207831034Z",
+  "model": "glm-5.3"
+}

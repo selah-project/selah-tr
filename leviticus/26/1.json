@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Kendinize putlar yapmayacaksınız; oyma heykel ve dikili taş dikip kendinize dikmeyeceksiniz ve ülkenizde secde edilesiniz diye resimli taş koymayacaksınız; çünkü ben Yahve, Elohim'iniz'im.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksınız"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapmayacaksınız"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendinize"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "putlar"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ve oyma heykel"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "ve dikili taş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dikmeyeceksiniz"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "dikmeyeceksiniz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendinize"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ve taş"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "resimli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koymayacaksınız"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "koymayacaksınız"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ülkenizde"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "secde etmek için"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:03.935457536Z",
+  "model": "glm-5.3"
+}

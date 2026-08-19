@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Çünkü gözlerimde ⟨את⟩ kötülüğü yaptılar ve ataları Mısır'dan çıktıkları günden bugüne dek beni ⟨את⟩ öfkelendirmeye devam ettiler.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötülüğü"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlerimde"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldular"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "öfkelendirici"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıktılar"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve dek"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:00.545430490Z",
+  "model": "glm-5.3"
+}

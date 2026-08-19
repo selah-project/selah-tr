@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve kutsal tapınağındadır, Yahve'nin tahtı göklerdedir; gözleri seyreder, kirpikleri insan oğullarını sınar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "tapınağında"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerdedir"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tahtı"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "seyreder"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "kirpikleri"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "sınar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:30.461889196Z",
+  "model": "glm-5.3"
+}

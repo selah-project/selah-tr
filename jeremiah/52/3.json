@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 52,
+  "translation": "Çünkü Yahve'nin ⟨öfkesi⟩ yüzünden Yeruşalayim'de ve Yehuda'da ⟨bu⟩ oldu, ta ki onları ⟨את⟩ yüzünün önünden atıncaya kadar; Sidkiya da Babil kralına başkaldırdı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzere"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ve Yehuda'da"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "atıncaya kadar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (Yeruşalayim ve Yehuda)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": " üzerinden"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ve başkaldırdı"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiya"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    }
+  ],
+  "timestamp": "2026-08-19T12:19:33.576098316Z",
+  "model": "glm-5.3"
+}

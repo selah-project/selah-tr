@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Yahve'yi ağzımla çokça öveceğim ve çoklarının ortasında onu övgüyle yücelteceğim.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "öveceğim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çokça"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağızla"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ve ortasında"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoklarının"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "onu övgüyle yücelteceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:27.135400551Z",
+  "model": "glm-5.3"
+}

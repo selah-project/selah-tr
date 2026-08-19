@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Sen ⟨o⟩sun benim kralım, Elohim; Yaakov'a kurtuluşlar buyur.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "benim kralım"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyur"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kurtuluşlar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'a"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:52.934566963Z",
+  "model": "glm-5.3"
+}

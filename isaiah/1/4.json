@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Vay, günahkâr millet, ağır suç yüküyle yüklü halk, kötülük yapanların tohumu, yozlaştıran oğullar! Yahve'yi ⟨את⟩ bıraktılar, İsrail'in Kutsalını ⟨את⟩ hor gördüler, geriye uzaklaştılar.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "millet"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günahkâr"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suç"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohumu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötülük yapanların"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "yozlaştıran"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bıraktılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "hor gördüler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'in Kutsalını"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kutsalı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "uzaklaştılar"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geriye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:15.577479465Z",
+  "model": "glm-5.3"
+}

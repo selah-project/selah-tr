@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Kılıcını kuşa kalçana, ey güçlü — görkemin ⟨senin⟩, haşmetin ⟨senin⟩!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "kuşa"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "kılıcını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kalçana"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ey güçlü"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "görkemin"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ve haşmetin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:14.372449204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kalk, çünkü ⟨iş⟩ sana düşer; ve biz seninleyiz. Güçlü ol ve yap!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨iş⟩"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ve biz"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninleyiz"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "güçlü ol"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yap"
+    }
+  ],
+  "timestamp": "2026-08-19T11:48:27.421232879Z",
+  "model": "glm-5.3"
+}

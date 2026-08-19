@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Yahve'ye ezgi söyleyin, O'nun hasları; O'nun kutsallığının anısına şükredin.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ezgi söyleyin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasları (O'nun)"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ve şükredin"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "anasına"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "O'nun kutsallığı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:24.418020622Z",
+  "model": "glm-5.3"
+}

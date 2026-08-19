@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Keni oğulları, Moşe'nin kayınpederi, Yahuda oğullarıyla ⟨את⟩ birlikte hurma kentinden çıkıp çıktı, Arad'ın güneyindeki Yahuda çölüne; ve gitti ve halkla ⟨את⟩ birlikte yaşadı.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "Keni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "kayınpederi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "çıkıp çıktılar"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kentinden"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "hurma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ -yla birlikte",
+      "marks": "Yahuda oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "güneyinde"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Arad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve yaşadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ -yla birlikte",
+      "marks": "halk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:15.519845656Z",
+  "model": "glm-5.3"
+}

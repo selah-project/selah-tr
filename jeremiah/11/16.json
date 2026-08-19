@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 11:16",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve senin adını çağırdı: 'yemyeşil zeytin, güzel meyveli, güzel görünümlü'; büyük bir gürültünün sesiyle onun üzerine ateş yaktı ve dalları kırıldı.",
+  "tokens": [
+    {
+      "surface": "זית",
+      "gloss": "zeytin"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yemyeşil"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "güzel"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyveli"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "görünümlü"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "senin adını"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sesiyle"
+    },
+    {
+      "surface": "המולה",
+      "gloss": "gürültünün"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "הצית",
+      "gloss": "yaktı"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ve kırıldı"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "dalları"
+    }
+  ],
+  "timestamp": "2026-08-19T10:08:55.114745566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Ağzım senin doğruluğunu anlatacak, bütün gün senin kurtuluşunu; çünkü ben onların sayısını bilmiyorum.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "anlatacak"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "senin doğruluğunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "senin kurtuluşunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "biliyorum"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "sayılarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:18.207291741Z",
+  "model": "glm-5.3"
+}

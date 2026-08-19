@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ⟨את⟩ toprağın yüzü üzerindeki tüm varlığı sildi — insandan davara, sürüngene ve gök kuşuna kadar; ve yeryüzünden silindiler. Ve yalnızca Noah ve onunla ⟨את⟩ gemide olan kaldı.",
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "ve sildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm varlığı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "varlık"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "insandan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "davara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürüngene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve kadar"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuşuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gök"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "ve silindiler"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "ve kaldı"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnızca"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve o ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onunla ⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "gemide"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:47.680392438Z",
+  "model": "glm-5.3"
+}

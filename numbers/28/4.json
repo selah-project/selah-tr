@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Bir koçu ⟨את⟩ sabah yapacaksın, ve ikinci koçu ⟨את⟩ iki akşam arasında yapacaksın.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bir koç"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "koç"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ve",
+      "marks": "ikinci koç"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "koç"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "akşamların"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:51.360716755Z",
+  "model": "glm-5.3"
+}

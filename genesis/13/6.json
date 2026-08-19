@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve ⟨את⟩ o ülke onları birlikte oturmaya taşıyamadı, çünkü malları çoktu; birlikte oturamadılar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -medi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "taşıyamadı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "o ülke (onları)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "o ülke"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oturmaya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "malları"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -emediler"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "gücü yetmedi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oturmaya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:47.967428811Z",
+  "model": "glm-5.3"
+}

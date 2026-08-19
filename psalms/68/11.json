@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Canlıların ⟨⟨senin⟩⟩ onda barındı; ey Elohim, iyiliğinle yoksul için hazır ettin.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "canlıların ⟨senin⟩"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "barındı"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "hazır ettin"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "iyiliğinle"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "yoksul için"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:29.281423110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Aşer oymağından: ⟨את⟩ Mişal'ı ve ⟨את⟩ meralarını, ⟨את⟩ Avdon'u ve ⟨את⟩ meralarını.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ve oymağından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Aşer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mişal'ı"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mişal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "meralarını"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon'u"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "meralarını"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraları"
+    }
+  ],
+  "timestamp": "2026-08-19T09:13:01.752491162Z",
+  "model": "glm-5.3"
+}

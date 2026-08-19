@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve leşin yağı ve parçalanmış hayvanın yağı herhangi bir işte kullanılabilir; ama onu kesinlikle yemeyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "ve yağı"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "leşin"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ve yağı"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "parçalanmış hayvanın"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kullanılabilir"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herhangi bir"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ama yemek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "onu yiyeceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:28.024612291Z",
+  "model": "glm-5.3"
+}

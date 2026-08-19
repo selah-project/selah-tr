@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve halka şöyle buyurdular: \"Yahve Elohim'iniz'in ⟨את⟩ ahit sandığını taşıyan Levi kahinlerini ⟨gördüğünüzde⟩, ⟨o zaman⟩ yerinizden hareket edip onun ardından gideceksiniz.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "buyurdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "gördüğünüzde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahit sandığı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ve kahinler"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi'li"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "taşıyan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ve siz"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "hareket edeceksiniz"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "yerinizden"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ve gideceksiniz"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "onun ardından"
+    }
+  ],
+  "timestamp": "2026-08-19T12:13:00.356103934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve ⟨sizinle birlikte⟩ ⟨את⟩ her kabileden bir adam olacak, atalarının evinin başı olan adam.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ sizinle birlikte"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kabileden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:25.978361934Z",
+  "model": "glm-5.3"
+}

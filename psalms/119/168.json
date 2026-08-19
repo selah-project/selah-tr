@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Pikudlarını ve edutlarını korudum, çünkü bütün yollarım senin önündedir.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "korudum"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pikudlarını"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "ve edutlarını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarım"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "senin önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:59.552166473Z",
+  "model": "glm-5.3"
+}

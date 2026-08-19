@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 11:27",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ben sana günah işlemedim, ama sen bana kötülük yapıyorsun — bana ⟨את⟩ karşı savaşmak için; Yahve, ⟨the⟩ Yargıç, bugün yargılasın İsrail oğulları ile Ammon oğulları arasında.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ve ben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah işlemedim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ama sen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapıyorsun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ben (bana)"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "savaşmak için"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "yargılasın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "Yargıç"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:29.897694956Z",
+  "model": "glm-5.3"
+}

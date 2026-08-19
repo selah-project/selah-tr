@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Kanımda ⟨ne⟩ fayda, çukura indiğimde? Seni toprak övecek mi, senin sadakatini haber verecek mi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "fayda"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "kanımda"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "indiğimde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩ ... 'a"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çukura"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Seni övecek mi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "haber verecek mi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "senin sadakatini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:50.973619860Z",
+  "model": "glm-5.3"
+}

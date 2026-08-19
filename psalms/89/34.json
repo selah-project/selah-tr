@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Ve hesedimi ondan söküp almayacağım, sadakatimde yalan söylemeyeceğim.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ve hesedimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "söküp almayacağım"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "yalan söylemeyeceğim"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "sadakatimde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:13.055384728Z",
+  "model": "glm-5.3"
+}

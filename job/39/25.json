@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 39:25",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Şofar sesiyle 'Heah!' der ve uzaktan savaşın kokusunu alır — önderlerin gürlemesi ve savaş narası.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "...sesiyle"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "şofar"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah!"
+    },
+    {
+      "surface": "ומרחוק",
+      "gloss": "ve uzaktan"
+    },
+    {
+      "surface": "יריח",
+      "gloss": "kokusunu alır"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaşın"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "gürlemesi"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "önderlerin"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ve savaş narası"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:44.437870389Z",
+  "model": "glm-5.3"
+}

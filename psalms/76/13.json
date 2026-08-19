@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 76,
+  "translation": "O bedenlerin ruhunu kırar; yeryüzünün krallarına korkunçtur.",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "kırar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "bedenlerin"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "korkunçtur"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "krallarına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:50.731315046Z",
+  "model": "glm-5.3"
+}

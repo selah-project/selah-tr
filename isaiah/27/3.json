@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "«Ben Yahve'yim, onu bekleyenim; her an onu sulayacağım; gece ve gündüz onu kollayacağım, yoksa aleyhine ziyaret gelir.»",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "bekleyeniyim onu"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "her an"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "sulayacağım onu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ziyaret gelir"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "aleyhine"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ve gündüz"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "kollayacağım onu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:31.035446388Z",
+  "model": "glm-5.3"
+}

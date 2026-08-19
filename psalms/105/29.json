@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Sularını kana çevirdi ve ⟨את⟩ balıklarını öldürdü.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sularını"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "sularını"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balıklarını"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "balıklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:16.866085867Z",
+  "model": "glm-5.3"
+}

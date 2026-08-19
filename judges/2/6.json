@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Yehoşua ⟨את⟩ halkı gönderdi, ve İsrailoğulları her biri kendi mirasına gitti, ⟨את⟩ ülkeyi mülk edinmek için.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kendi mirasına"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mülk edinmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:29.943679410Z",
+  "model": "glm-5.3"
+}

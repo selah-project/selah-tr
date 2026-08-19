@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Çünkü çaresize feryat edeni kurtardım, ve öksüzü — ona yardım edeni yoktu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "kurtardım"
+    },
+    {
+      "surface": "עני",
+      "gloss": "çaresizi"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "feryat eden"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ve öksüzü"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yardım eden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:08.263378951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ancak ⟨את⟩ altını ve ⟨את⟩ gümüşü, ⟨את⟩ tuncu, ⟨את⟩ demiri, ⟨את⟩ kalayu ve ⟨את⟩ kurşunu:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altın"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "gümüş"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunç"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tunç"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "demir"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalay"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "kalay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kurşun"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "kurşun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:42:44.615921177Z",
+  "model": "glm-5.3"
+}

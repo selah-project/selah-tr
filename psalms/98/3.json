@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 98,
+  "translation": "Sevgisini ve sadakatini Yisrael'in evine anımsadı; dünyanın bütün uçları Elohim'imizin kurtuluşunu ⟨את⟩ gördüler.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "anımsadı"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgisini"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ve sadakatini"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "uçları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dünyanın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurtuluş"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:36.811799980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Bu yüzden gurur onlara gerdanlıktır; şiddet onları bir giysi gibi sarar.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "onlara gerdanlıktır"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "gurur"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "saran"
+    },
+    {
+      "surface": "שית",
+      "gloss": "giysi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "şiddet"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:20.862971864Z",
+  "model": "glm-5.3"
+}

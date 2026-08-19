@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Güvenmeyin soylulara, insanoğluna — çünkü onda kurtuluş yoktur.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ma (olumsuzluk)"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "güvenmeyin"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "soylulara"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "çünkü ... yoktur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kurtuluş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:47.354457131Z",
+  "model": "glm-5.3"
+}

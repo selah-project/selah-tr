@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "O da onun ardından geri döndü, ⟨את⟩ sığırların çiftini aldı ve onu keserek sığırların aletleriyle ⟨את⟩ etlerini pişirdi ve halka verdi; yediler. Sonra kalktı, Eliyahu'nun ardından gitti ve ona kulluk etti.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "geri döndü"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "onun ardından"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sığırların çiftini"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "çift"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sığırların"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "ve onu kesti"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "ve aletleriyle"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sığırların"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "pişirdi"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "etleri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "yediler"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "ona kulluk etti"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:35.326281977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "O, kurtaran çukurdan ömrünü senin; O, taçlandıran seni sevgiyle ve merhametlerle.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "kurtaran O"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "çukurdan"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ömrünü senin"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "taçlandıran seni O"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ve merhametlerle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:52.214097784Z",
+  "model": "glm-5.3"
+}

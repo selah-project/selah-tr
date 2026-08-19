@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 127,
+  "translation": "Bakın, oğullar Yahve'nin mirasıdır, rahmin meyvesi bir ödüldür.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bakın"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mirasıdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ödüldür"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvesi"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "rahmin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:41.814150919Z",
+  "model": "glm-5.3"
+}

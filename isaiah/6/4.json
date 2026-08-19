@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve eşiklerin söveleri çağıranın sesinden sarsıldı ve ev dumanla doldu.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "söveleri"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "eşiklerin"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "sesinden"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "çağıranın"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ve ev"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dumanla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:47.698035769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Gelin, eğilelim, diz çökelim; Yapıcımız Yahve'nin önünde diz varalım.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "eğilelim"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "diz çökelim"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "diz varalım"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Yapıcımız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.765756080Z",
+  "model": "glm-5.3"
+}

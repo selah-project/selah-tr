@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Sevgime karşılık bana karşı çıktılar; ama ben ⟨⟨duayım⟩⟩.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "karşılık"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevgime"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "bana karşı çıktılar"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ama ben"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "duayım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:17.250154868Z",
+  "model": "glm-5.3"
+}

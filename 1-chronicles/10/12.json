@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Bütün yiğit adamlar kalktılar, ⟨את⟩ Şaul'un cesedini ve ⟨את⟩ oğullarının cesetlerini aldılar ve onları Yaveş'e getirdiler; kemiklerini Yaveş'teki meşe altına gömdüler ve yedi gün oruç tuttular.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "kalktılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yiğit"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul'un cesedini"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "cesedini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "cesetlerini"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "cesetlerini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "getirdiler"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "Yaveş'e"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "gömdüler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemiklerini"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "meşe"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "Yaveş'teki"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "oruç tuttular"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:12.974468481Z",
+  "model": "glm-5.3"
+}

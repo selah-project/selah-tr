@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 101,
+  "translation": "Kusursuz ⟨bir⟩ yolda davranışımı bilgece düzenleyeceğim — ne zaman bana geleceksin? Bütünlük ⟨olan⟩ yüreğimle evimin ortasında yürüyeceğim.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "bilgece davranacağım"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ne zaman"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "geleceksin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "yürüyeceğim"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "bütünlükte"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "yüreğim"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "evimin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:16.773088799Z",
+  "model": "glm-5.3"
+}

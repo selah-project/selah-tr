@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 87,
+  "translation": "Ve Tsiyon'a denecek: Bir adam, bir adam ⟨orada⟩ doğdu; ve Elyon ⟨onun kendisi⟩ onu kuracaktır.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ve Tsiyon'a"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "denecek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onun ⟨içinde⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "onun kuracaktır"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:20.124662335Z",
+  "model": "glm-5.3"
+}

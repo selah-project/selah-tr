@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve David ⟨את⟩ sandığı kendi yanına, David şehrine kaldırmadı; onu Gathlı Oved-Edom'un evine çevirdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kaldırdadı"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandık (ha'aron)"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kendi yanına"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "onu çevirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-Edom'un (Oved)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Oved-Edom'un (Edom)"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gathlı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:30.223620788Z",
+  "model": "glm-5.3"
+}

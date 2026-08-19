@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ey halkım, sana ne yaptım, seni neyle yordum? Bana cevap ver.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve ne"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "yordum seni"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "cevap ver"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:38.235643611Z",
+  "model": "glm-5.3"
+}

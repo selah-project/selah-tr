@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Serug, Nahor'u babası olduğu ⟨את⟩'ten sonra iki yüz yıl yaşadı; oğullar ve kızlar babası oldu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "babası olduğu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor'u"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "iki yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ve kızlar"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:59.847903493Z",
+  "model": "glm-5.3"
+}

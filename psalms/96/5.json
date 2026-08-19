@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Çünkü halkların bütün ilahları ⟨ם⟩ noğlu şeylerdir, ama Yahve gökleri yaptı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilahları"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "halkların"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "noğlu şeyler"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ama Yahve"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:36.000507667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve ⟨oldu⟩ — ⟨onlar⟩ yoldayken haber Davud'a geldi, şöyle diyerek: Avşalom kralın bütün oğullarını öldürdü ve onlardan bir tek kişi bile sağ kalmadı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve ⟨oldu⟩"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "ve haber"
+    },
+    {
+      "surface": "באה",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralın bütün oğullarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "sağ kaldı"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir tek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:32:07.957412639Z",
+  "model": "glm-5.3"
+}

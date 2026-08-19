@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Mikal Davud'u ⟨את⟩ pencereden aşağı sarkıttı; o gitti, kaçtı ve kurtuldu.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ve aşağı indirdi"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'u"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "içinden"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "pencereden"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "kurtuldu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:25.088123604Z",
+  "model": "glm-5.3"
+}

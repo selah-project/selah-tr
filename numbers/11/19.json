@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Bir gün değil yiyeceksiniz, ve iki gün değil, ve beş gün değil, ve on gün değil, ve yirmi gün değil —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bir gün"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "iki gün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:10.431506756Z",
+  "model": "glm-5.3"
+}

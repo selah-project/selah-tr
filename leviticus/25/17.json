@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve kimseyi ⟨את⟩ arkadaşını ezmeyesiniz ve Elohim'inizden korkasınız; çünkü ben Yahve, Elohim'inizim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ezmesiniz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kimse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkadaşını"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "arkadaşını"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ve korkasınız"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim'inizden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:32.197642725Z",
+  "model": "glm-5.3"
+}

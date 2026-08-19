@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Ezgi yöneticisine; Davud'un mezmuru. Yahve, beni arayıp sınadın ve ⟨bunu⟩ bildin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ezgi yöneticisine"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "beni arayıp sınadın"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ve ⟨bunu⟩ bildin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:21.387772309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Sırtlardan biri kuzeyde, Mihmaş'ın karşısında yükseliyordu, diğeri ise güneyde, Giv'a'nın karşısında.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "sırtlardan biri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "yükseliyordu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kuzeyde"
+    },
+    {
+      "surface": "מול",
+      "gloss": "karşısında"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mihmaş'ın"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "diğeri ise"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "güneyde"
+    },
+    {
+      "surface": "מול",
+      "gloss": "karşısında"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Giv'a'nın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:15.787985465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yalnız bamot kaldırılmadı; hâlâ halk bamotarda kurban kesiyor ve buhur yakıyordu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "kaldırılmadı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hâlâ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "kurban kesiyor"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ve buhur yakıyor"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamotarda"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:45.926467661Z",
+  "model": "glm-5.3"
+}

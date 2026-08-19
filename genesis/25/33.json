@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yaakov da «Bugün bana yemin et» dedi; o da ona yemin etti ve Esav ilkdoğanlığını Yaakov'a ⟨את⟩ sattı. Not: Esav öznesi İbranicede metinde yoktur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "yemin et"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ve yemin etti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ve sattı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilkdoğanlığı"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "ilkdoğanlığı"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov'a"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:22.837770947Z",
+  "model": "glm-5.3"
+}

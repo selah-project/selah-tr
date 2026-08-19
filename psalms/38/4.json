@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Öfkenden ötürü etimde sağlamlık ⟨yoktur⟩, günahımdan ötürü kemiklerimde esenlik ⟨yoktur⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sağlamlık"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "etimde"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…den ötürü"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "öfkenden"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "kemiklerimde"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…den ötürü"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günahımdan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:08.257234443Z",
+  "model": "glm-5.3"
+}

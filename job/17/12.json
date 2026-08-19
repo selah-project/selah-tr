@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Geceyi gündüze çeviriyorlar; ışık karanlığın yüzünden ⟨yakın⟩ ⟨görünüyor⟩.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "geceyi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "gündüze"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "çeviriyorlar"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yakın"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlığın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:42.758599757Z",
+  "model": "glm-5.3"
+}

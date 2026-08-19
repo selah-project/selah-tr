@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Seni doğuran Kayayı terk ettin, seni var eden El'i unuttun.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Kayayı"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "seni doğuranı"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "terk ettin"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "ve unuttun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El'i"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "seni var edeni"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:41.323006243Z",
+  "model": "glm-5.3"
+}

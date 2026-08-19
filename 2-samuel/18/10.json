@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Bir adam gördü ve Yoav'a bildirdi; dedi: İşte, ⟨את⟩ Avşalom'u meşede asılı gördüm.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoav'a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avşalom'u"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avşalom'u"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "asılı"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "meşede"
+    }
+  ],
+  "timestamp": "2026-08-19T09:33:38.920393799Z",
+  "model": "glm-5.3"
+}

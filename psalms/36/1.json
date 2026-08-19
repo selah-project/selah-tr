@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Koro şefine. Yahve'nin kuluna, David'e.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koro şefine"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuluna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:38.187129230Z",
+  "model": "glm-5.3"
+}

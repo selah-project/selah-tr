@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Buat-Şeva kralın odasına girdi; kral çok yaşlıydı ve Avişag Şunamlı krala ⟨את⟩ hizmet ediyordu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ve girdi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Buat- (kızı)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "odaya"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ve kral"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlıydı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "ve Avişag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Şunamlı"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "hizmet ediyordu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kral"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:32.359642894Z",
+  "model": "glm-5.3"
+}

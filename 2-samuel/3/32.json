@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve ⟨את⟩ Avner'i Hevron'da gömdüler; ve kral sesini yükseltti ve Avner'in mezarı başında ağladı, ve bütün halk ağladı — ⟨את⟩ sesini.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Ve gömdüler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner'i"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevron'da"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ve yükseltti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesini"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ve ağladı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-de"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mezarı başında"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner'in"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ve ağladı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    }
+  ],
+  "timestamp": "2026-08-19T09:29:32.722573244Z",
+  "model": "glm-5.3"
+}

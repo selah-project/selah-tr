@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ve adam, Yosef'in söylediği gibi yaptı; ve adam ⟨את⟩ adamları Yosef'in evine getirdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söylediği"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamları"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "eve"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef'in"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:54.310995677Z",
+  "model": "glm-5.3"
+}

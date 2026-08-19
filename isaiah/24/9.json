@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Şarkıyla şarap içmezler; içenlere içki acı gelir.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "şarkıyla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "içmezler"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şarap"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "acı gelir"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "içki"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "içenlere"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:17.010354547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 10:9",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Sabah olunca çıktı ve durdu ve bütün halka dedi: Siz masumsunuz; işte ben efendime karşı komplo kurdum ve onu öldürdüm; ama ⟨את⟩ bütün bunları kim vurdu?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "olunca"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "masumlar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "קשרתי",
+      "gloss": "komplo kurdum"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "ve onu öldürdüm"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ama kim"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bunları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:42.647835155Z",
+  "model": "glm-5.3"
+}

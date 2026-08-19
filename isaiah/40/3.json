@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Çölde yükselen bir ses: Yahve'nin yolunu hazırlayın, stepa Elohim'imiz için otoyolu düzeltin.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "yükselen\/çağıran"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "hazırlayın\/açın"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "düzeltin"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "stepada\/çölde"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "otoyol"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohim'imiz için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:44.062470784Z",
+  "model": "glm-5.3"
+}

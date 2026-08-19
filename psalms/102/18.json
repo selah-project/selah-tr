@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Yalnız kalmışın duasına yöneldi ve ⟨את⟩ dualarını küçümsemedi.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "yöneldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "duası"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "yalnız kalmışın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "küçümsedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dualarını"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "dualarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:22.744218788Z",
+  "model": "glm-5.3"
+}

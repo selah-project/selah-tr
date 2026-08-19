@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Yahve ona çağıran herkese yakındır, ona gerçek içinde çağıran herkese.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "yakın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herkese"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "ona çağıran(lar)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herkese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ona çağıran"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "gerçek içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:31.347138375Z",
+  "model": "glm-5.3"
+}

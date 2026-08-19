@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve ortadaki çubuğu yaptı; tahtaların içinden bir uçtan ⟨את⟩ diğer uca geçsin diye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ortadaki çubuğu"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "ortadaki çubuğu"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "orta"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "geçsin diye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içinden"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "tahtaların"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tan"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "uç"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "uç"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:17.980544902Z",
+  "model": "glm-5.3"
+}

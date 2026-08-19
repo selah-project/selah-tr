@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Kendi traş etsin, ama ⟨את⟩ netek'i tıraş etmesin; kâhin ⟨את⟩ netek'lisini yedi gün ikinci kez kapalı tutsun.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "kendi traş etsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netek'i"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "tıraş etsin"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "kapalı tutsun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "netek'lisi"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci kez"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:43.315577843Z",
+  "model": "glm-5.3"
+}

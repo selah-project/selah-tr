@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Moşe Yazer'ı ⟨את⟩ casuslamak için gönderdi; ⟨onlar⟩ onun köylerini ele geçirdiler ve orada olan Emorililer'i ⟨את⟩ mülksüzleştirip sürdüler.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "casuslamak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer'ı"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ele geçirdiler"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "onun köylerini"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "mülksüzleştirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorililer'i"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorililer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-08-19T07:38:46.249503462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ancak kendi yakın akrabası için — annesi, babası, oğlu, kızı ve kardeşi için ⟨kirletinebilir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "şayet"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "kendi akrabası için"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yakın"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "annesi için"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ve babası için"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ve oğlu için"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ve kızı için"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ve kardeşi için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:14.209104081Z",
+  "model": "glm-5.3"
+}

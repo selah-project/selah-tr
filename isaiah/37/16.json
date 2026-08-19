@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "\"Yahve Sevaot, İsrail'in Elohim'i, keruvlar üzerinde oturan ⟨sen⟩ — bütün krallıkların ⟨⟩ yalnız Elohim'i ⟨sensin⟩, ⟨sen⟩ yeryüzünün bütün krallıkları üzerinde tek ⟨sensin⟩; gökleri ve yeri ⟨sen⟩ yarattın, ⟨את⟩ gökleri ve ⟨את⟩ yeri ⟨sen⟩ yarattın.\"",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keruvlar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız sensin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "krallıkların"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yarattın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gökleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:37.660911584Z",
+  "model": "glm-5.3"
+}

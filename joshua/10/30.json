@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 10:30",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Yahve onu da, kralını da Yiśra'el'in eline verdi; Yiśra'el onu kılıcın ağzıyla vurdu ve içindeki bütün canları ⟨את⟩ — hiç sağ kalan bırakmadı içinde; kralına, Yeriho'nun kralına yaptığı gibi yaptı.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Livna'yi işaret eder; אותה = את + הsuffix)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "el(ine)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiśra'el'in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kralını"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "kralını"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzıyla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıcın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün canları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "canları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "içinde(ki)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hiç ... değil"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "bıraktı"
+    },
+    {
+      "surface": "בה",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sağ kalan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "למלכה",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho'nun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:08.371603059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve bir buhur yakma sunağı yapacaksın; akasya ağacından ⟨את⟩ onu yapacaksın.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "buhur yakmak için"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "buhur"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (sunak)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:41.746106398Z",
+  "model": "glm-5.3"
+}

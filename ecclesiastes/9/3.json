@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 9:3",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Bu kötüdür, güneşin altında yapılan her şeyde: çünkü tek kader herkesedir; ayrıca insan oğullarının kalbi kötülükle doludur ve delilik kalplerindedir yaşamları boyunca; ve ⟨ondan⟩ sonra ölülere.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötüdür"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her şeyde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yapılan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "kader"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herkesedir"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülükle"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "ve delilik"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "kalplerinde"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "yaşamları boyunca"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ve ondan sonra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨doğru⟩"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ölülere"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:34.783156256Z",
+  "model": "glm-5.3"
+}

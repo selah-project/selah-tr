@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "İnsanın ahmaklığı yolunu yamultur; ve Yahve'ye karşı yüreği öfkelenir.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "ahmaklığı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "yamultur"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve -e karşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "öfkelenir"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yüreği"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:41.463956336Z",
+  "model": "glm-5.3"
+}

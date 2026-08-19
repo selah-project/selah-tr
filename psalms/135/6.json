@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Yahve'nin dilediği her şeyi yaptı: göklerde ve yerde, denizlerde ve tüm derinliklerde.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dilediği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ve yerde"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "denizlerde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve tüm"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "derinliklerde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:12.149229913Z",
+  "model": "glm-5.3"
+}

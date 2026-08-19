@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Bütün gün utancım karşımdadır ve yüzümün aşağılanması beni örttü.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "utancım"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "karşımda"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ve aşağılanma"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümün"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "beni örttü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:02.765047263Z",
+  "model": "glm-5.3"
+}

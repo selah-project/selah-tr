@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yahve Elohim adama seslendi ve ona «Neredesin?» dedi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "seslendi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "neredesin"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:02.571892197Z",
+  "model": "glm-5.3"
+}

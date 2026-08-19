@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Titreyin ve günah işlemeyin; yatağınız üzerinde içinizde ⟨içinizde⟩ söyleyin ve sessiz kalın. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "titreyin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ... meyin"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "günah işleyin"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "içinizde"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "yatağınız"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ve sessiz kalın"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:21.283174922Z",
+  "model": "glm-5.3"
+}

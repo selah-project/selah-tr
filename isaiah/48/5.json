@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Sana o zamandan bildirdim; daha gelmeden önce sana duyurdum; ki 'putum onları yaptı, oyma suretim ve dökme suretim onları buyurdu' demeyesin.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "bildirdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "o zamandan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "daha... olmadan önce"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gelecek oldu"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "sana duyurdum"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ki... demeyesin"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "desin"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "putum"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "onları yaptı"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "ve oyma suretim"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "ve dökme suretim"
+    },
+    {
+      "surface": "צום",
+      "gloss": "onları buyurdu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:01:01.619578326Z",
+  "model": "glm-5.3"
+}

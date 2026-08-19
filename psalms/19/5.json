@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Bütün yeryüzüne çıkar onun ölçü şeridi, ve dünyanın uçlarına onun sözleri; güneşe onların içinde bir çadır koymuştur.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ölçü şeridi"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ve ucuna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyanın"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "onların sözleri"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "güneşe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koymuştur"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:53.876911891Z",
+  "model": "glm-5.3"
+}

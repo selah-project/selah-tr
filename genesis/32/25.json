@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Yaakov yalnız kaldı; ve bir adam şafak sökene dek onunla güreşti.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "ve kaldı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "ve güreşti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e dek"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "sökene"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "şafak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:26.439563155Z",
+  "model": "glm-5.3"
+}

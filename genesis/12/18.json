@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Paroh, Avram'ı çağırdı ve dedi: «Bana bunu neden yaptın? Bana neden bildirmedin ki karın odur?»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avram'ı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "bildirdin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "karın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:14.139074275Z",
+  "model": "glm-5.3"
+}

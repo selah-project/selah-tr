@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve canım çok sarsıldı; ve sen Yahve, ne zamana kadar?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ve canım"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ne zamana kadar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ne zamana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:57.305434611Z",
+  "model": "glm-5.3"
+}

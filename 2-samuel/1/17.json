@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Davud şu ağıtı ⟨את⟩ söyledi — Şaul üzerine ve oğlu Yehonatanan üzerine.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ve ağıt yaktı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu ağıtı"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ağıtı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "şu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:36.450812529Z",
+  "model": "glm-5.3"
+}

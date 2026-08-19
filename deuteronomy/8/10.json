@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Yiyeceksin ve doyacaksın, ve Yahve'yi, Elohim'ini ⟨את⟩ o iyi ülke için kutsayacaksın ki ⟨o⟩ sana vermiştir.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "ve yiyeceksin"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ve doyacaksın"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "ve kutsayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "o ülke"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vermiştir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:28.787393369Z",
+  "model": "glm-5.3"
+}

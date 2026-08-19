@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve adamlar ⟨את⟩ Yahve'yi büyük bir korkuyla korktular ve Yahve'ye kurban kestiler ve adaklar adadılar.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "korktular"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "korkuyla"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "kurban kestiler"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "adadılar"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "adaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:39.448251392Z",
+  "model": "glm-5.3"
+}

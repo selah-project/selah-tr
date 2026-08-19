@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Yahve Elohim'inin sesine kulak vereceksin ve bugün sana emrettiğim ⟨את⟩ buyruklarını ve ⟨את⟩ kurallarını yerine getireceksin.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ve kulak vereceksin"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruklarını"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "buyruklarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurallarını"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "kurallarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sana emrediyorum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:25.404392337Z",
+  "model": "glm-5.3"
+}

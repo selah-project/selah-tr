@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "«Kulum Moşe öldü; şimdi kalk, sen ve bütün bu halk ⟨את⟩ bu Şeria'yı geçin, size, İsrail oğullarına verdiğim ⟨⟨o⟩⟩ toprağa.»",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulum"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geç"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu Şeria'yı"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Şeria"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veriyorum"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:06.070125583Z",
+  "model": "glm-5.3"
+}

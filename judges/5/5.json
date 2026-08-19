@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Dağlar Yahve'nin yüzünden eriyip aktı, işte Sinai, Yahve'nin, İsrail'in Elohim'i'nin yüzünden.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "aktı"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זה",
+      "gloss": "işte bu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:31.892301224Z",
+  "model": "glm-5.3"
+}

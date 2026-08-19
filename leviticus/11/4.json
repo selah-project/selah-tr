@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ancak ⟨את⟩ şunu yemeyeceksiniz: geviş getirenlerden ve tırnağı yarandan — ⟨את⟩ deveyi; çünkü o geviş getirir ama tırnağı yarmaz; o sizin için murdardır.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şunu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "-den getirenlerden"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "geviş"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "ve -den yaranlardan"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "tırnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deveyi"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "deve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "getirir"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geviş"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ve tırnak"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "değildir"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "yaran"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:17.562800929Z",
+  "model": "glm-5.3"
+}

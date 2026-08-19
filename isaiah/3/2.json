@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "kahramanı ve savaş adamını, hâkimi ve nebiyi, falcıyı ve ihtiyarı;",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "kahraman"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hâkim"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ve nebi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ve falcı"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ve ihtiyar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:44.564642532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Bilsinler diye son nesil — doğacak oğullar — kalksınlar ve anlatsınlar kendi oğullarına.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bilsinler diye"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilsinler"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nesil"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "son"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "doğacak"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "kalksınlar"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ve anlatsınlar"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kendi oğullarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:41.282467396Z",
+  "model": "glm-5.3"
+}

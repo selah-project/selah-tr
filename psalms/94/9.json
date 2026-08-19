@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Kulağı diken ⟨o⟩ duymaz mı? Gözü biçimlendiren ⟨o⟩ bakmaz mı?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "kulağı diken"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kulak"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "duyar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer \/ ya"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "biçimlendiren"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "bakar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:49.353983967Z",
+  "model": "glm-5.3"
+}

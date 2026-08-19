@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Yoksulu soyma, çünkü o yoksuldur; ve kapıda ezeni ezmeye devam etme.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "deme"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "soyma"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoksulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve deme"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "ezme"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezilen"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kapıda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:30.276944741Z",
+  "model": "glm-5.3"
+}

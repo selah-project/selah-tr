@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve kızının ⟨את⟩ halkımın kırığını hafifçe iyileştirdiler, derken: Şalom, şalom! — oysa şalom yok.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "iyileştirdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kırığı"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kırığı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımın"
+    },
+    {
+      "surface": "על",
+      "gloss": "hafifçe"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "hafifçe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "derken"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oysa yok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    }
+  ],
+  "timestamp": "2026-08-19T10:06:43.834542579Z",
+  "model": "glm-5.3"
+}

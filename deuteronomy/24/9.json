@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Miriam'a Mısır'dan çıkarken yolda Yahve Elohim'in ne yaptığını ⟨את⟩ hatırla.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "hatırla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yaptığını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriam'a"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "çıkarken siz"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:00.182060537Z",
+  "model": "glm-5.3"
+}

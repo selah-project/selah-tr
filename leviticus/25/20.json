@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve şöyle diyecekseniz: 'Yedinci yılında ne yiyeceğiz? Bakın, ekmeyeceğiz ve ⟨את⟩ ürünümüzü toplamayacağız.'",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "diyeceksiniz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yiyeceğiz"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yılında"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "ekmeyeceğiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "toplamayacağız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürünümüzü"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "ürünümüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:32.198190924Z",
+  "model": "glm-5.3"
+}

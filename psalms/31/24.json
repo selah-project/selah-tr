@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Yahve'yi ⟨את⟩ sevin, bütün sadık kulları! Yahve güvenilir olanları korur ve kibirli davranana fazlasıyla karşılık verir.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "sevin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sadık kulları"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "güvenilir olanları"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ve karşılık verir"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "fazlasıyla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edene"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kibir"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:12.581260145Z",
+  "model": "glm-5.3"
+}

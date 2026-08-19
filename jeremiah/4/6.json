@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 4:6",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yükseltin Sancağı Siyon'a doğru, kaçıp sığının, durmayın; çünkü ben kötülük getiriyorum kuzeyden ve büyük bir yıkım.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "yükseltin"
+    },
+    {
+      "surface": "נס",
+      "gloss": "Sancağı"
+    },
+    {
+      "surface": "ציונה",
+      "gloss": "Siyon'a doğru"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "kaçıp sığının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "durmayın (olumsuzluk)"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "durmayın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "getiriyorum"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kuzeyden"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ve yıkım"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T10:05:49.432557687Z",
+  "model": "glm-5.3"
+}

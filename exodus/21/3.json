@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Tek başına girdiyse tek başına çıksın; bir kadınla evliyse, karısı onunla birlikte çıksın.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "tek başına"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girdiyse"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "tek başına"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıksın"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "evliyse"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadınla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ve çıksın"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:06.523448985Z",
+  "model": "glm-5.3"
+}

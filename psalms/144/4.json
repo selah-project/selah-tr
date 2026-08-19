@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "İnsan bir soluk gibidir; günleri geçen bir gölge gibidir.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "bir soluka"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "benzer"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "bir gölge gibi"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "geçen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:53.442780412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "O'na buğdayın yağından yedirirdi, kayadan ⟨bal⟩ ile seni doyururdum.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "yedirirdi"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "yağından"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "buğday"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "ve kayadan"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "seni doyururdum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:47.598137713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Halkımdan ⟨את⟩ yanındaki yoksula ⟨את⟩ para ödünç verirsen, ona alacaklı gibi olmayacaksın; ona faiz yüklemeyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "para (gümüş)"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "ödünç verirsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkımdan yoksula"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoksula"
+    },
+    {
+      "surface": "העני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yanındaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacaksın"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "alacaklı gibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "yükletmeyeceksiniz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faiz"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:11.070458984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Kutludur Yahve, Elohim, Yisrael'in Elohim'i, yalnız ⟨o⟩ yapan harikaları.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutludur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "harikaları"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız ⟨o⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:14.202796085Z",
+  "model": "glm-5.3"
+}

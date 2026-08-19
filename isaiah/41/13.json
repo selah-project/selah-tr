@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 41:13",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Çünkü ben Yahve, Elohim'inim, sağ elini tutan, sana 'Korkma, ben sana yardım ettim' diyen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "tutan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ elini"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "diyen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "korkma (olumsuz emir)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "sana yardım ettim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:10.065147938Z",
+  "model": "glm-5.3"
+}

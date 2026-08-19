@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve bir adam ki bir adamın karısıyla — komşusunun karısıyla zina yapsa, zina yapan erkek ve zina yapan kadın kesinlikle öldürülecektir.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "zina yapsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karısı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "zina yapsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karısı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "komşusunun"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "zina yapan erkek"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ve zina yapan kadın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:29.803201284Z",
+  "model": "glm-5.3"
+}

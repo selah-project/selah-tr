@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve yiğitlik yaptı ve ⟨את⟩ Amalek'i vurdu ve ⟨את⟩ İsrail'i onu yağmalayanın elinden kurtardı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yiğitlik"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek'i"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ve kurtardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "onu yağmalayanın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:41.540918307Z",
+  "model": "glm-5.3"
+}

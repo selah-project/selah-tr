@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Uyan, nevel ve kinor! Ben şafağı uyandıracağım.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "uyandıracağım"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "şafağı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:18.487259562Z",
+  "model": "glm-5.3"
+}

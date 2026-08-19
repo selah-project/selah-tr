@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Çünkü Yahve yoksulları işitir, ve ⟨את⟩ esirlerini hor görmez.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "işitir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "yoksulları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "esirlerini"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "esirlerini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hor görmez"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:59.016726450Z",
+  "model": "glm-5.3"
+}

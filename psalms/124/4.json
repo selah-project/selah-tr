@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 124,
+  "translation": "o zaman sular bizi baştan aşacaktı, sel canımızın üzerinden geçecekti,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "bizi baştan aşacaktı"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sel"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçecekti"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canımızın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:46.838421125Z",
+  "model": "glm-5.3"
+}

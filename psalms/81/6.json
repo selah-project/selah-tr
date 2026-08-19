@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Bir tanıklık Yusuf üzerine koydu, Mısır ülkesi üzerine çıktığında; bilmediğim bir dili işitiyorum.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "tanıklık"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Yusuf üzerinde"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "çıkışında"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bildim"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "işitiyorum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.763718578Z",
+  "model": "glm-5.3"
+}

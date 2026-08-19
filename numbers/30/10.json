@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve bir dulün ya da boşanmış kadının adadı — canına bağladığı her şey — onun üzerinde geçerli kalır.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "ve adadı"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dulün"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ya da boşanmış kadının"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "bağladı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "canına"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "geçerli kalır"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:42:20.389934099Z",
+  "model": "glm-5.3"
+}

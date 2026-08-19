@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bakın uluslara ve görün ve şaşırın, hayretle donakalın; çünkü günlerinizde bir iş işleniyor — anlatıldığında inanmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "uluslara"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "ve görün"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "ve şaşırın"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "hayretle donakalın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "bir iş"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "işleniyor"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "günlerinizde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mayacaksınız (olumsuzluk)"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "inanacaksınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "anlatıldığında"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:44.655148018Z",
+  "model": "glm-5.3"
+}

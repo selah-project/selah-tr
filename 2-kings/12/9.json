@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve kâhinler, halktan ⟨את⟩ gümüş almamaya ve ⟨את⟩ evin çatlaklarını onarmamaya rıza gösterdiler.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "rıza gösterdiler"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "...mamaya"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "almak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "halkın yanından"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ve ...mamaya"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "onarmak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evin çatlakları"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "çatlakları"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:31.640336109Z",
+  "model": "glm-5.3"
+}

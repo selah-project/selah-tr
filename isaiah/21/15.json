@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Çünkü kılıçlardan, savrulmuş kılıçtan, gerilmiş yaydan ve savaşın ağırlığından kaçtılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-den (yüzünden)"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "kılıçlardan"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "kaçtılar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-den (yüzünden)"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıçtan"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "savrulmuş"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ve -den (yüzünden)"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yaydan"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "gerilmiş"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ve -den (yüzünden)"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağırlığından"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaşın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:55.012075814Z",
+  "model": "glm-5.3"
+}

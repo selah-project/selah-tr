@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Rivka oğlu Yaakov'a şöyle dedi: İşte, babanın kardeşin Esav'a ⟨את⟩ benim duydum ⟨⟨şöyle⟩⟩ konuşurken ⟨⟨derken⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "duydum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babayı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baban"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "konuşurken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:17.625423945Z",
+  "model": "glm-5.3"
+}

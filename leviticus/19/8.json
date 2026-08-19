@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Onu yiyen kendi suçunu taşıyacaktır, çünkü Yahve'nin kutsal ⟨şeyine⟩ ⟨את⟩ saygısızlık etti; o kişi kavminden kesilip atılacaktır.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "onu yiyen"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "suçunu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "taşıyacaktır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal ⟨şeyine⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal ⟨şey⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "saygısızlık etti"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "kesilip atılacaktır"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨kişi⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "kavminden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:55.312109306Z",
+  "model": "glm-5.3"
+}

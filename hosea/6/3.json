@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Bilelim, bilelim diye koşalım: Yahve'yi tanımak için. Çıkışı şafak gibi kesindir; yağmur gibi üzerimize gelecek, geç yağmur gibi yeri sulayacaktır.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "bilelim"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "koşalım"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tanımak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "şafak gibi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kesindir"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "çıkışı"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ve gelecek"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "yağmur gibi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "üzerimize"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "geç yağmur gibi"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "sulayacaktır"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:37.710753385Z",
+  "model": "glm-5.3"
+}

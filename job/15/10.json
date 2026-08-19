@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Hem ağarmış saçlı hem çok yaşlı adam bizim ⟨içimizde⟩ — babandan gün bakımından daha büyük ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ağarmış saçlı"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "çok yaşlı adam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizim ⟨içimizde⟩"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "daha büyük"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "babandan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler bakımından"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:16.623647694Z",
+  "model": "glm-5.3"
+}

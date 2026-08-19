@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve kâhin, ⟨את⟩ açar yıkandıktan sonra bakar; ve işte açar rengini değiştirmemişse ve açar yayılmamışsa — o pistir; onu ateşte yakarsın; ister düğmeli ister arkasında ya da önündedir",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ve bakar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "yıkanmak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "açarı"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "açar"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "değiştirmiş"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "açar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rengini"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "onun gözü\/rengi"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "ve açar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yayılmış"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "pis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "onu yakarsın"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "içe işleyen çürüme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "onun arka tarafında"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "ön tarafında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:31.007189542Z",
+  "model": "glm-5.3"
+}

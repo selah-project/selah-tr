@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Öfkemde and içtim: Girmezler dinlendiğim yere.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bunun üzerine"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "and içtim"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "öfkemde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer\/girmezler"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "girerler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "dinlendiğim yer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:47.950511033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Yeruşalayim, Yahve'yi ⟨את⟩ yücelt; Siyon, Elohim'ini övgüyle an!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "yücelt"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "övgüyle an"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'ini"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:57.362614210Z",
+  "model": "glm-5.3"
+}

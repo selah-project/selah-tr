@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Paro İsrail oğulları hakkında şöyle diyecek: Ülkenin içinde şaşkına dönmüşler; çöl onların üzerine kapanmıştır.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ve diyecek"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğulları hakkında"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "şaşkına dönmüş"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkenin içinde"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "kapandı"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzerine"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöl"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:46.915161306Z",
+  "model": "glm-5.3"
+}

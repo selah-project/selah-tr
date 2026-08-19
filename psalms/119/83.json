@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Çünkü duman içindeki tulum gibi oldum; senin kurallarını unutmadım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "tulum gibi"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "duman içindeki"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "senin kurallarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:40.828286656Z",
+  "model": "glm-5.3"
+}

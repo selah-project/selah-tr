@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 142,
+  "translation": "Canımı zindandan çıkar, ⟨את⟩ adına şükretmek için; o zaman doğrular benimle taçlanacak, çünkü bana iyilik edeceksin.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "zindandan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "şükretmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adına"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adına"
+    },
+    {
+      "surface": "בי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "taçlanacak"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "doğrular"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "iyilik edeceksin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:07.368520304Z",
+  "model": "glm-5.3"
+}

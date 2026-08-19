@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve yedi yılın sonunda oldu: kadın Peleştimler ülkesinden geri döndü ve evine ve tarlasına ilişkin krala feryat etmek için çıkıp gitti.",
+  "tokens": [
+    {
+      "surface": "ותשב... ויהי",
+      "gloss": "Ve oldu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yılın"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "geri döndü"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştimlerin"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "feryat etmek için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilişkin"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evine"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarlasına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:48.177860401Z",
+  "model": "glm-5.3"
+}

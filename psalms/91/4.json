@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Tüyleriyle seni örter, kanatları altında sığınırsın; O'nun güvenilirliği kalkan ve siperdir.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "tüyleriyle"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "örter"
+    },
+    {
+      "surface": "לך",
+      "gloss": "seni"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ve altında"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "kanatları"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "sığınırsın"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "kalkan"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ve siper"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "O'nun güvenilirliği"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:32.542291086Z",
+  "model": "glm-5.3"
+}

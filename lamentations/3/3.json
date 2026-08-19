@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Gerçekten yalnız ⟨bana⟩ karşı döner, elini tüm gün çevirir ⟨bana⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gerçekten yalnız"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "döner"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "çevirir"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:17.431160812Z",
+  "model": "glm-5.3"
+}

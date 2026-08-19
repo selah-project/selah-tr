@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Ey Sevaot Elohim, dön lütfen, gökten bak ve gör, ve bu asmayı ziyaret et.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "dön"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "bak"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gökten"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ve gör"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "ve ziyaret et"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "asma"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:47.759064514Z",
+  "model": "glm-5.3"
+}

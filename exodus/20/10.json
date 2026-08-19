@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Yedinci gün ise Yahve Elohim'in ⟨⟨gün⟩⟩ Şabbat'ıdır; hiçbir iş yapmayacaksın: sen, oğlun, kızın, kölen, cariyen, hayvanın ve kapılarındaki garip.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "ve gün"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Şabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ve oğlun"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "ve kızın"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kölen"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ve cariyen"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "ve hayvanın"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ve garibin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "kapılarında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:43.781201786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Mizmor, Asaf'a. Gerçekten Elohim Yisrael'e iyidir, temiz yüreklilere.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf'a"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrael'e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "temiz olanlara"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yürek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:32.038205009Z",
+  "model": "glm-5.3"
+}

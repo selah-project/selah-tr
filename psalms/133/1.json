@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 133,
+  "translation": "HaMaalotlar şarkısı, David'e ait. Bakın, ne kadar iyi ve ne kadar hoştur kardeşlerin birlikte oturması, hem birlik içinde.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "HaMaalotlar (yükselişlerin)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e ait"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve ne kadar"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "hoştur"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "oturması"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "kardeşlerin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:03.826514516Z",
+  "model": "glm-5.3"
+}

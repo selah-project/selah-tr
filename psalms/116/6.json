@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Yahve saf olanları korur; ben ezildim ve bana kurtuluş verdi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "saf olanları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ezildim"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ve bana"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "kurtuluş verdi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:05.654142373Z",
+  "model": "glm-5.3"
+}

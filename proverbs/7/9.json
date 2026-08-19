@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Alacakaranlıkta, günün akşamında, gecenin en karanlığında ve karanlıkta",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "alacakaranlıkta"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "akşamında"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günün"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "en karanlığında (göz bebeği karanlığı)"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecenin"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ve karanlıkta"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:52.834987360Z",
+  "model": "glm-5.3"
+}

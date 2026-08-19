@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "İnsan, bir canın kanına zulüm yapan ⟨biri⟩, çukura kadar kaçar; kimse ona dayanmasın.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "zulüm yapan"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kanına"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çukura"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "kaçar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kimse … -masın"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "dayanmasın"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:36.145651640Z",
+  "model": "glm-5.3"
+}

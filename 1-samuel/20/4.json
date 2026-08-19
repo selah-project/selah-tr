@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve Yehonatan Davud'a dedi: Canın ne derse, ben onu senin için yaparım.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "derse"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "yaparım"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:40.760505429Z",
+  "model": "glm-5.3"
+}

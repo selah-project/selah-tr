@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Bana 'Hah, hah!' diyenler utançlarının sonucu olarak ıssız kalıp yıkılsınlar.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ıssız kalıp yıkılsınlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sonucu olarak"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "utançlarının"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "diyenler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האח",
+      "gloss": "'Hah!'"
+    },
+    {
+      "surface": "האח",
+      "gloss": "'Hah!'"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:46.842627382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yahve, ne kadar çoğaldı sıkıntı verenlerim! Bana karşı kalkanlar ne kadar çok!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoğaldı"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "sıkıntı verenlerim"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ne kadar çok"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "kalkanlar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:15.278034685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve böylece yiyeceksiniz ⟨את⟩ onu: beliniz kuşanmış, ayaklarınızda sandaletleriniz, elinizde değneğiniz; ve ⟨את⟩ onu aceleyle yiyeceksiniz — o, Yahve'ye Pesah'tır.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "ve böylece"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "beliniz"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "kuşanmış"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sandaletleriniz"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "ayaklarınızda"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "ve değneğiniz"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "elinizde"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ve yiyeceksiniz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "aceleyle"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:19.139155794Z",
+  "model": "glm-5.3"
+}

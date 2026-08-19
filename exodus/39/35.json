@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "⟨את⟩ Tanıklık Sandığı ve ⟨את⟩ sırıklandırıcılarını, ve ⟨את⟩ kefaret kapağını.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sandığı"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Sandığı"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Tanıklık"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sırıklandırıcılarını"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sırıklandırıcılarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kefaret kapağını"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kefaret kapağını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:34.852209333Z",
+  "model": "glm-5.3"
+}

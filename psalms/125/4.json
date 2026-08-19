@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 125,
+  "translation": "İyilik et, Yahve, iyi kimselere ve kalplerinde dosdoğru olanlara.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "iyilik et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "iyi kimselere"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "ve dosdoğru olanlara"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "kalplerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:35.792742183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve şimdi sabah erken kalk, efendinin ⟨את⟩ yanına gelen kulları ⟨את⟩; sabah erken kalktığınızda ve size ışık doğduğunda gidin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "erken kalk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ve kulları"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "efendinin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geldiler"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yanına",
+      "marks": "sen"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ve erken kalktığınızda"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ve ışık"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ve gidin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:58.602503420Z",
+  "model": "glm-5.3"
+}

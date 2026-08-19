@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 3:5",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Böyle dedi Yahve, halkımı saptıran peygamberler hakkında — dişleriyle ısırıp ⟨את⟩ halkıma karşı ⟨את⟩ bar çağıranlara; kim ağızlarına bir şey koymazsa, ona karşı savaşa kutsuyorlar.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakkında"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peygamberler"
+    },
+    {
+      "surface": "המתעים",
+      "gloss": "saptıran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkım"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "הנשכים",
+      "gloss": "ısıranlar"
+    },
+    {
+      "surface": "בשניהם",
+      "gloss": "dişleriyle"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ve çağırdılar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barış"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve o kimse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ağızları"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ve kutsadılar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona karşı"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:29.257640311Z",
+  "model": "glm-5.3"
+}

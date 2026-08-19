@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Çünkü şimdi diyecekler: 'Bize kral yok, çünkü Yahve'den korkmadık; kral ⟨de⟩ bize ne yapabilir?'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "diyecekler"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "korkmadık"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ve kral"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapabilir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:22.432937501Z",
+  "model": "glm-5.3"
+}

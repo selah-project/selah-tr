@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Elohim adamı krala dedi: Bana evinin yarısını ⟨את⟩ versen bile seninle gelmem ve bu yerde ekmek yemem ve su içmem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "versen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yarısını"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "yarısı"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "gelirim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yerim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "içerim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:27.538038129Z",
+  "model": "glm-5.3"
+}

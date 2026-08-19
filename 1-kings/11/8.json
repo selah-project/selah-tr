@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Böylece bütün yabancı kadınları için de aynısını yaptı; onlar ilahlerine buhur yakıp kurban sunuyorlardı.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ve böylece"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün… için"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "kadınları"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "buhur yakanlar"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "ve kurban sunanlar"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "ilahlerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:40.239858773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Ve yavruları kan yudumlar; ve ⟨את⟩ öldürülmüşler neredeyse, orada ⟨o⟩dur.",
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "ve yavruları"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "yudumlar"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "ve neredeyse"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "öldürülmüşler",
+      "marks": ""
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o(dur)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:41.212357809Z",
+  "model": "glm-5.3"
+}

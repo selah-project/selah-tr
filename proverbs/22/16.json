@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Yoksulu ezen, ⟨bunun⟩ kendisine çoğaltmak için ⟨eder⟩; zengine veren — yalnızca yoksunluğa ⟨uğrar⟩.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "ezen"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoksulu"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "çoğaltmak için"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veren"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "zengin(ler) için"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnızca"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "yoksunluğa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:24.415669469Z",
+  "model": "glm-5.3"
+}

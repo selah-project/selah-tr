@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 76,
+  "translation": "Sen, korkulusun sen; ve kim durabilir yüzünün önünde, öfken ⟨kopunca⟩?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "korkulusun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "durabilir"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yüzünün önünde"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "o andan itibaren"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "öfken"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:34.998664023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve halkını sürü gibi çıkardı, onları çölde bir koyun sürüsü gibi güttü.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ve çıkardı"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sürü gibi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "onları güttü"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "bir koyun sürüsü gibi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:00.826599835Z",
+  "model": "glm-5.3"
+}

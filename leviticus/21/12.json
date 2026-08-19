@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve mabetten çıkmayacak ve ⟨את⟩ Elohim'inin mabedini profan etmeyecek; çünkü üzerinde Elohim'inin mesh yağının taç-taahhüdü var: Ben Yahve.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ve içinden"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "mabedin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mayacak"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkmayacak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve meyecek"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "profan etmeyecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabedi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "mabedi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "taç-taahhüt"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağının"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:57.841297772Z",
+  "model": "glm-5.3"
+}

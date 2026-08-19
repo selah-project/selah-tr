@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Bir can günah işleyip Yahve'ye karşı ihanet eder ve arkadaşına — emanet, ele teslim, gasp konusunda veya eziyetle — yalan söyler ya da ⟨את⟩ arkadaşını ezerse",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "günah işlerse"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ihanet ederse"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ihanet"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye karşı"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "yalan söyler"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "arkadaşına"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "emanet konusunda"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "teslim"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "gasp konusunda"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ezerse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkadaşını"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "arkadaşını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:42.726433163Z",
+  "model": "glm-5.3"
+}

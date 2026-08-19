@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve Yahve'nin görkemi açığa çıkacak ve bütün et birlikte görecektir, çünkü Yahve'nin ağzı söylemiştir.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ve açığa çıkacak"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ve göreceklerdir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söylemiştir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:36.597978969Z",
+  "model": "glm-5.3"
+}

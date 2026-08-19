@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Dawid oradan gitti, Moav Mitspe'sine; ve Moav kralına dedi: Lütfen babam ve annem ⟨את⟩ sizinle çıksınlar, ta ki bileye kadar Elohim bana ne yapacak.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Mitspe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıksınlar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ve annem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizinle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…e kadar"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bileye(k)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:38.857531495Z",
+  "model": "glm-5.3"
+}

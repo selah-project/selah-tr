@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve sen, Yahve, uzak olma; gücüm, yardımım için acele et.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzak kal"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yardımım için"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "acele et"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:16.535656014Z",
+  "model": "glm-5.3"
+}

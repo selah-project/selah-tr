@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve onun yanında konutlananlar Yişşakar oymağıdır; Yişşakar oğullarının nasisi Netanel, Tzuar oğludur.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "ve konutlananlar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun yanında"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "oymak"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yişşakar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ve nasisi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yişşakar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tzuar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:34.079564293Z",
+  "model": "glm-5.3"
+}

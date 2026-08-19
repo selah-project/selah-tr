@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 111,
+  "translation": "Ellerinin işleri hakikat ve hükümdür; bütün buyrukları güvenilirdir.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "işleri"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "hakikat"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ve hüküm"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "güvenilirdir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "buyrukları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:36.566441480Z",
+  "model": "glm-5.3"
+}

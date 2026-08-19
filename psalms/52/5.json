@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 52,
+  "translation": "Kötülüğü iyilikten ⟨çok⟩ sevdin, yalan söyledin, doğruluğu ⟨değil⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sevdin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "iyilikten"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalanı"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "söylemeyi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:54.695056798Z",
+  "model": "glm-5.3"
+}

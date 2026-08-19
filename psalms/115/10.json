@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Aharon'un evi, Yahve'ye güvenin; onların yardımı ve kalkanı ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "güvenin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "onların yardımı"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ve kalkanları"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:44.492506020Z",
+  "model": "glm-5.3"
+}

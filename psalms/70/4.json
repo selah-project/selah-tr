@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 70,
+  "translation": "'Heah, heah!' diyenler utançlarının ardına dönsünler.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "dönsünler"
+    },
+    {
+      "surface": "על",
+      "gloss": " üzerine"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ardına (topuğuna)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "utançlarının"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "diyenler"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heah!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heah!"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:44.074307403Z",
+  "model": "glm-5.3"
+}

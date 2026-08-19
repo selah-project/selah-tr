@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü sadakat istedim, kurban değil; ve Elohim bilgisi yakmalıklardan ⟨daha çok⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sadakat"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "istedim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ve bilgi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "yakmalıklardan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:36.011456089Z",
+  "model": "glm-5.3"
+}

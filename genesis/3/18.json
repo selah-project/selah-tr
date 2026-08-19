@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve diken ve dikenli ot sana bitirecek ve tarlanın otunu yiyeceksin.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ve diken"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ve dikenli ot"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "bitirecek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ve yiyeceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarlanın otunu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "otunu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:42.361408691Z",
+  "model": "glm-5.3"
+}

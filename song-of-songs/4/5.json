@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "İki göğsün, ceylan yavrusu ikizleri gibi,撕 — Düzelt: İki göğsün, dişi ceylanın ikizleri gibi iki keçi yavrusudur, zambaklar arasında otluyorlar.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "göğsün"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "gibi iki"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "keçi yavrusu"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "ikizleri"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "dişi ceylanın"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "otlayanlar"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "zambaklar arasında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:06.198151906Z",
+  "model": "glm-5.3"
+}

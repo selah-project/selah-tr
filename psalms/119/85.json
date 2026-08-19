@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kibirliler bana çukurlar kazdılar — ⟨bunlar⟩ senin Toran'a göre değil.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "kazdılar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "kibirliler"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "çukurlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "senin Toran'a göre"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:45.121276405Z",
+  "model": "glm-5.3"
+}

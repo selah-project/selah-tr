@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Davut, İş-Boşet'e, Şaul'un oğluna elçiler gönderip dedi: Karımı, Míkal'ı ⟨את⟩ bana ver — onu Filistlilerin yüz sünnet derisi karşılığında kendime nişanlamıştım.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "איש",
+      "gloss": "İş-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boşet'e"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karımı"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "karımı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Míkal'ı"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Míkal'ı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "nişanlamıştım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "sünnet derisi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlilerin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:29:27.402112061Z",
+  "model": "glm-5.3"
+}

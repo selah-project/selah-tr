@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Orada Davud için bir boynuz bitireceğim, maşiahım için bir kandil hazırladım.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "bitireceğim"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "boynuz"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud için"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "hazırladım"
+    },
+    {
+      "surface": "נר",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "maşiahım için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:50.780987454Z",
+  "model": "glm-5.3"
+}

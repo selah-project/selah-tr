@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve bir nefes günah işler de yemin sesi işitir ve kendisi tanıktır — görmüş ya da bilmiş — eğer bildirmezse, suçunu yüklenir.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Ve bir nefes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-de"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "günah işler"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "işitir"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yemin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve kendisi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanık"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmüş"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmiş"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirir"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "yüklenir"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "suçunu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:25.487370195Z",
+  "model": "glm-5.3"
+}

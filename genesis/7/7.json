@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve Noach, oğulları, karısı ve oğullarının karıları onunla ⟨את⟩ birlikte sandığa girdi, tufan sularının önünden.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve girdi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ve karısı"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ve karıları"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "onunla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "önünden"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suları"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tufanın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:05.478864137Z",
+  "model": "glm-5.3"
+}

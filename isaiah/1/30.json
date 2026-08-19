@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Çünkü solmuş yaprağı olan bir meşe gibi, suyu olmayan bir bahçe gibi olacaksınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "olacaksınız"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "bir meşe gibi"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "solmuş"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yaprak"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ve bir bahçe gibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:24.620365916Z",
+  "model": "glm-5.3"
+}

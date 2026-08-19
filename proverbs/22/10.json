@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Alaycıyı kov, kavgacılık çıksın; ⟨o⟩ da dava da utanç da sona ersin.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "kov"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "alaycıyı"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıksın"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "kavgacılık"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "sona ersin"
+    },
+    {
+      "surface": "דין",
+      "gloss": "dava"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "utanç"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:26.189912376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Ve Yosef kardeşlerine dedi: \"Bana yaklaşın, lütfen.\" Ve yaklaştılar. Ve dedi: \"Ben Yosef'im, sizin kardeşiniz, ki beni ⟨את⟩ Mısır'a sattınız.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kardeşlerine"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kendi kardeşleri"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "yaklaşın"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ve yaklaştılar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sizin kardeşiniz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "sattınız"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mısır'a"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:40.681513582Z",
+  "model": "glm-5.3"
+}

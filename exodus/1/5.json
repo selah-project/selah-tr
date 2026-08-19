@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Yakov'un yarığından çıkanların bütün canları yetmiş can oldu; Yosef ise Mısır'da idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "çıkanların"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yarığından"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov'un"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ve Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:18.909398579Z",
+  "model": "glm-5.3"
+}

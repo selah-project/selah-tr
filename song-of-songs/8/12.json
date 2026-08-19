@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Bağım, benim olan, önümde ⟨durur⟩; bin ⟨gümüş⟩ senin, ey Şelomo, ve meyvesini bekleyenlere iki yüz.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "bağım"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "benim olan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önümde"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ve iki yüz"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "bekleyenlere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meyvesini"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "meyvesini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:34.313999299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Paro'nun sığınağı sizin ⟨olacak⟩ — utanca; ve Mısr gölgesine sığınma — kepazeliğe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve ⟨oldu\/olacak⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "utanç"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "ve sığınma"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "gölgesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısr"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "kepazeliğe"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:29.038525741Z",
+  "model": "glm-5.3"
+}

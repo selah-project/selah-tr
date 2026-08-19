@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve yakmalık sununun başına elini koysun; böylece onun için bağışlanma (kefaret) sağlamak üzere kendisi için kabul görür.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ve koysun (desteklesin)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ün üstüne"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başına"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sununun"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "ve kabul görür"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kefaret (bağışlanma) için"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine\/uyarına"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:58.610634216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yahve Mısır'ı vurmak için geçeceği zaman ⟨את⟩ kanı eşik üstünde ve iki sövede görürse, Yahve o kapının üzerinden atlayıp geçecek ve yok edici'nin evlerinize girip vurmasına izin vermeyecek.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ve geçeceği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "vurmak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mısır'ı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ı"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ve görürse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "eşik üstü"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerinde"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "söve"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "ve üzerinden geçecek\/atlacak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "kapının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verecek (izin)"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "yok edici"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "girmeye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "evlerinize"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "vurmaya"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:28.660354759Z",
+  "model": "glm-5.3"
+}

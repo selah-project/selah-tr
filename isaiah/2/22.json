@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ölümlü insandan vazgeçin siz, çünkü burnunda ⟨bir⟩ nefes var olan; çünkü o hangi bakımdan sayılır?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "vazgeçin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan( adamdan)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "burnunda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "במה",
+      "gloss": "hangi bakımdan"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "sayılır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:20.867413468Z",
+  "model": "glm-5.3"
+}

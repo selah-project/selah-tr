@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Avraham yaklaştı ve dedi: “Gerçekten mi doğruyu kötüyle birlikte süpürüp yok edeceksin?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "yaklaştı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האף",
+      "gloss": "gerçekten mi"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "süpürüp yok edeceksin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğruyu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüyle"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:19.044559277Z",
+  "model": "glm-5.3"
+}

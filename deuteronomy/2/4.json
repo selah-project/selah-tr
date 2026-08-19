@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve halka ⟨את⟩ şöyle diyerek buyruk ver: Siz kardeşlerinizin, Seir'de oturan Esav oğullarının sınırından geçiyorsunuz; ve onlar sizden korkacaklar; siz de çok sakının.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "halka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "צו",
+      "gloss": "buyruk ver"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "geçiyorsunuz"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "sınırından"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kardeşlerinizin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seir'de"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ve korkacaklar"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizden"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "ve sakının"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:23.259472966Z",
+  "model": "glm-5.3"
+}

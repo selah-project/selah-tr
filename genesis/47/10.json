@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Ve Yaakov, Firavun'u ⟨את⟩ kutsadı ve Firavun'un yüzünden çıkıp gitti.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "kutsadı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Firavun'u"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavun"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:53.642742825Z",
+  "model": "glm-5.3"
+}

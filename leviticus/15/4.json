@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Akıntılı adamın üzerinde yattığı her yatak kirlenecek ve üzerinde oturduğu her eşya kirlenecek.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "yatak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yattığı"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "akıntılı adam"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kirlenecek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "eşya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturduğu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kirlenecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:18.952195985Z",
+  "model": "glm-5.3"
+}

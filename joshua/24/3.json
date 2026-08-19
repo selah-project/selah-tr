@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve atanız Avraham'ı nehrin ötesinden aldım, ⟨את⟩ onu bütün Kenaan toprağında yürüttüm, zürriyetini çoğalttım ve ona ⟨את⟩ Yişhak'ı verdim.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ve aldım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atanızı"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "atanızı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham'ı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham'ı"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ötesinden"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "nehrin"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ve yürüttüm"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprağında"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ve çoğalttım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zürriyetini"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zürriyetini"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ve verdim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yişhak'ı"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yişhak'ı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:13:52.325576296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "ve Ahimaats ⟨את⟩ Azarjah'yı babası oldu ve Azarjah ⟨את⟩ Yohanan'ı babası oldu",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ve Ahimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah'yı"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ve Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yohanan'ı"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:55:35.189570346Z",
+  "model": "glm-5.3"
+}

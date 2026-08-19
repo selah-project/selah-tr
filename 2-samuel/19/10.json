@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 19:10",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve bütün halk, bütün İsrail kabileleri içinde çekişiyordu, diyordu: Kral bizi düşmanlarımızın elinden kurtardı, ve o bizi Filistlilerin elinden kurtardı; ve şimdi Avşalom yüzünden ülkeden kaçtı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "נדון",
+      "gloss": "çekişiyordu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "içinde bütün"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabileleri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "bizi kurtardı"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "düşmanlarımızın"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "מלטנו",
+      "gloss": "bizi kurtardı"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlilerin"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:25.906400691Z",
+  "model": "glm-5.3"
+}

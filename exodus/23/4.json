@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Düşmanının öküzüne ya da başıboş gezen eşeğine rastlarsan, onu mutlaka ona geri götüreceksin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "rastlarsan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküzüne"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "düşmanının"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "eşeğine"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "başıboş gezen"
+    },
+    {
+      "surface": "השב",
+      "gloss": "geri götüreceksin"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "onu geri götüreceksin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:47.458262729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ben, o zamanda Yahve ile aranızta duruyordum, size Yahve'nin ⟨את⟩ sözünü bildirmek için; çünkü ateşin yüzünden korktunuz ve dağa çıkmadınız ⟨şöyle derken⟩.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "duruyordum"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ve aranızda"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o zamanda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "bildirmek için"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "korktunuz"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ateşin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... olmadı"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "çıktınız"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:57.874724688Z",
+  "model": "glm-5.3"
+}

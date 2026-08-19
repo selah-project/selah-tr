@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve suçlarını itiraf edecekler ⟨את⟩ ve atalarının suçunu ⟨את⟩ — Bana karşı işledikleri ihanetlerinde, ve hatta Benimle ⟨beraber⟩ ters yürüdükleri için.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ve itiraf edecekler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suçlarını"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "suçlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suçunu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suçunu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "ihanetlerinde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ihanet ettiler"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Bana karşı"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ve hatta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "yürüdüler"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Benimle ⟨beraber⟩"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ters yürümek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:03.978920646Z",
+  "model": "glm-5.3"
+}

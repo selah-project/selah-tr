@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Kâhinlerden her erkek onu yiyecek; kutsal ⟨bir⟩ yerde yenecektir — kutsanmış kutsal ⟨o⟩dur.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kâhinlerden"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "onu yiyecek"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yenecektir"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsanmış"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o(dur)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:36.977945962Z",
+  "model": "glm-5.3"
+}

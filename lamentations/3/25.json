@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yahve iyidir, ona umut bağlayana, O'nu arayan cana.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ona umut bağlayana"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "cana"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "O'nu arayan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:08.965816153Z",
+  "model": "glm-5.3"
+}

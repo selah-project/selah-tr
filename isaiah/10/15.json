@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Balta, onu kesene karşı övünecek mi? Testere, onu sallayandan büyüklenecek mi? Değnek, onu kaldıranları sallar gibi, asa da, odun olmayanı kaldırır gibi!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "övünecek mi"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "balta"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "onu kesen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "büyüklenecek"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "testere"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "onu sallayan"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "sallar gibi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "değnek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onu kaldıranları"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "onu kaldıranları"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "kaldırır gibi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "odun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:18.284436223Z",
+  "model": "glm-5.3"
+}

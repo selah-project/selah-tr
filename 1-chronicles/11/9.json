@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve David yürüdükçe büyüdü ve Yahve Tzevaot onunla ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve yürüdükçe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yürüyerek (gittikçe)"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ve büyüdü"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:28.206286552Z",
+  "model": "glm-5.3"
+}

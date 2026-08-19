@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Yahve onlara karşı korkunç olacak, çünkü yeryüzünün bütün ilahlarını zayıf düşürecek; o zaman ulusların bütün kıyı halkları, her biri kendi yerinden, ona eğilecek.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "korkunç"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlara karşı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "zayıf düşürecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeryüzünün bütün ilahlarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilahlarını"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ve eğilecek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "kendi yerinden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איי",
+      "gloss": "kıyı halkları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusların"
+    }
+  ],
+  "timestamp": "2026-08-19T10:46:40.725703374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve kâhin, kabul edilmeniz için ömer'i Yahve'nin önünde sallayacak; şabattan ertesi gün kâhin onu sallayacak.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ve sallayacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ömer'i"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ömer'i"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "kabul edilmeniz için"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertesi gün"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabatın"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "onu sallayacak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:12.840972065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Çünkü keder içinde tükendi ömrüm ve yıllarım iç çekişle; suçum yüzünden sarsıldı gücüm ve kemiklerim eridi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "keder içinde"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ömrüm"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "ve yıllarım"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "iç çekiş(le)"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "suçum yüzünden"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ve kemiklerim"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "eridi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:56.171099816Z",
+  "model": "glm-5.3"
+}

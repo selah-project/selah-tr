@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 129,
+  "translation": "Bicanın avucunu doldurmayan, devşireni de kucağını doldurmayan.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "…-meyen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurur"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "avucunu"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "biçen"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ve kucağını"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "devşiren\/bağlayan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:35.088942332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve şimdi lanetlisin sen, topraktan, ki ⟨את⟩ ağzını açtı kardeşinin kanlarını elinden almak için.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "lanetli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "topraktan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "açtı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzını"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "almak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanlarını"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kanlarını"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "elinden"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:01.441469700Z",
+  "model": "glm-5.3"
+}

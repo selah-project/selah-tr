@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 148,
+  "translation": "Dağlar ve tüm tepeler, meyve ağaçları ve tüm sedirler",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve tüm"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tepecikler"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve tüm"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedirler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:45.719017826Z",
+  "model": "glm-5.3"
+}

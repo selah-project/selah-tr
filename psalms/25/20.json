@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Koru canımı ve kurtar beni; utanmayayım, çünkü sana sığındım.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "koru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ve kurtar beni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utanmayayım (olumsuz)"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "utanmayayım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:21.102418561Z",
+  "model": "glm-5.3"
+}

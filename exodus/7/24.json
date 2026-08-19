@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve bütün Mısırlılar, içecek su için nehrin çevresinde kuyular kazılar — çünkü nehrin sularından içmeye güç yetiremediler.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ve kazdılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısırlılar"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "nehir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "içmek için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mediler"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "güç yetirebildiler"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "içmeye"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "sularından"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "nehir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:57.361508563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Çöl-deniz yükü. Negev'de fırtınalar geçtiği gibi, o geçsin diye — çölden geliyor, korkunç bir ülkeden.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "fırtınalar gibi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Negev'de"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "geçmek için"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "çölden"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geliyor"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "bir ülkeden"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "korkunç"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:20.676265826Z",
+  "model": "glm-5.3"
+}

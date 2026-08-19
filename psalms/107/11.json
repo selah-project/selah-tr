@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Çünkü El'in sözlerine isyan ettiler ve Elyon'un öğüdünü hor gördüler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "isyan ettiler"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözlerine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El'in"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ve öğüdünü"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon'un"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "hor gördüler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:57.516392835Z",
+  "model": "glm-5.3"
+}

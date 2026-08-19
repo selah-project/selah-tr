@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "⟨את⟩ elini hatırlamadılar, düşmandan onları fidyeyle kurtardığı günü ⟨onlar⟩ hatırlamadılar ⟨o günü⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "hatırlamadılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "fidyeyle kurtardığı"
+    },
+    {
+      "surface": "מני",
+      "gloss": "düşmandan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşman"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:12.116325240Z",
+  "model": "glm-5.3"
+}

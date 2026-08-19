@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve sen geri döneceksin ve Yahve'nin sesine kulak vereceksin ve ⟨את⟩ bütün mitsvotlarını yapacaksın — bugün sana emrettiğim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "geri döneceksin"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ve kulak vereceksin"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sesine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün mitsvotlarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mitsvotlarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sana emrediyorum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:05:58.590017556Z",
+  "model": "glm-5.3"
+}

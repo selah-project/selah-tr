@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve evin arka bölümünde ⟨את⟩ yirmi arşın sedir tahtalarıyla, zeminden duvarlara kadar inşa etti; ve içeride kendisi için bir iç-tapınak, Kutsalların Kutsalı için inşa etti.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yirmi arşın"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "arka bölümünde"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "tahtalarıyla"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "zemin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "duvarlara"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisi için"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "içeride"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "iç-tapınak"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "kutsallık"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "Kutsalların Kutsalı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:33.030069955Z",
+  "model": "glm-5.3"
+}

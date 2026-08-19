@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 79,
+  "translation": "Bize yardım et, kurtuluşumuzun Elohim'i, adının görkemi uğruna; ve bizi kurtar, günahlarımızı ört — adın uğruna.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "bize yardım et"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "kurtuluşumuzun"
+    },
+    {
+      "surface": "על",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "-nin sözü\/-derecesinde"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adının"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "ve bizi kurtar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve ört (kefaret et)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "günahlarımızın"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:30.448861054Z",
+  "model": "glm-5.3"
+}

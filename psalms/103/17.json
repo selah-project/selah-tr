@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Ve Yahve'nin hesedi öncesi ezeli zamandan öte ebedi zamana kadar Ona korku duyanların üzerinedir, ve Onun tsedakası oğulların oğullarınadır.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "ve hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ezeli zamandan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve öte"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebedi zamana"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Ona korku duyanların"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ve Onun tsedakası"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullarınadır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:15.613391348Z",
+  "model": "glm-5.3"
+}

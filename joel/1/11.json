@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Utanın çiftçiler, uluyun bağcılar buğdaydan ve arpadan; çünkü yok oldu tarlanın hasadı.",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "utanın"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "çiftçiler"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "uluyun"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "bağcılar"
+    },
+    {
+      "surface": "על",
+      "gloss": "…den"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "buğday"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve …dan"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yok oldu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "hasadı"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarlanın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:52.132455098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve oldu: Yahve'nin Moşe'ye, Mısır ülkesinde konuştuğu gün ⟨onlarda⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştuğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:21.913623820Z",
+  "model": "glm-5.3"
+}

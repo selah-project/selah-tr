@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Kalplerini, halkından nefret etmeye, kullarına karşı hile kurmaya çevirdi.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kalplerini"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nefret etmeye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "hile kurmaya"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "kullarına karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:08.086349816Z",
+  "model": "glm-5.3"
+}

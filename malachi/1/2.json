@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Sizi sevdim, dedi Yahve; siz de dediniz: Bizi neye göre sevdin? Esav, Yaakov'un kardeşi değil mi, neum Yahve; ben ise Yaakov'u sevdim, ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "sevdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ve dediniz"
+    },
+    {
+      "surface": "במה",
+      "gloss": "neye göre"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "bizi sevdin"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "אח",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov'un"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ve sevdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov'u"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'u"
+    }
+  ],
+  "timestamp": "2026-08-19T10:49:59.366690927Z",
+  "model": "glm-5.3"
+}

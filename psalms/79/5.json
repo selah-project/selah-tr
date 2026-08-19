@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 79,
+  "translation": "Ne zamana kadar, Yahve? Sonsuza dek öfkene mi kapılacaksın? Kıskançlığın ateş gibi mi tutuşacak?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ne zamana kadar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨ne zamana kadar'ın parçası⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "öfkene mi kapılacaksın"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "tutuşacak"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "kıskançlığın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:32.425216822Z",
+  "model": "glm-5.3"
+}

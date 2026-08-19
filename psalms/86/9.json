@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Yarattığın bütün uluslar gelecek ve önünde yere kapanacak, ey Adonay, ve adını yüceltecekler.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yarattığın"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "gelecekler"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ve yere kapanacaklar"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ve yüceltecekler"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "adını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.745072496Z",
+  "model": "glm-5.3"
+}

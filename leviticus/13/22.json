@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve eğer deride çok yayılırsa, kâhin onu ⟨את⟩ kirli ilan eder; o bir negadır.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yayılırsa"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "yayarsa"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "deride"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "kirli ilan eder"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:03.139725921Z",
+  "model": "glm-5.3"
+}

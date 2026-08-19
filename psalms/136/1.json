@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Yahve'ye şükredin, çünkü ⟨O⟩ iyidir, çünkü sonsuza dek sürer O'nun sevgi-merhameti.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükredin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgi-merhameti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:10.324700980Z",
+  "model": "glm-5.3"
+}

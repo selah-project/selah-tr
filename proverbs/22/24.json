@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Öfkeli adamla ⟨את⟩ arkadaşlık kurma ve öfke adamının ⟨את⟩ yanına gitme.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "deme"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "arkadaşlık kurma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öfkeli adam"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfkenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "öfke adamı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gitme"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:30.277235529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 79,
+  "translation": "Kullarının cesetlerini ⟨את⟩ göğün kuşlarına yem olarak verdiler, has kullarının etini yerin vahşi hayvanına.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "verdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cesetlerini"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "cesetlerini"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kullarının"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yem"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "kuşlarına"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göğün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "etini"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "has kullarının"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "vahşi hayvanına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:26.649750553Z",
+  "model": "glm-5.3"
+}

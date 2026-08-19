@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Elohim'inin ekmeğinden — kudsulların kudsullarından ve kutsal olanlardan yiyebilir.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ekmeğinden"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "kudsulların"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kudsullarından"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve — dan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kutsal olanlardan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yiyebilir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:26.901720264Z",
+  "model": "glm-5.3"
+}

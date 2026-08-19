@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Teraḥ yetmiş yıl yaşadı ve Avram'ı ⟨את⟩, Nahor'u ⟨את⟩ ve Haran'ı ⟨ואת⟩ doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraḥ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram'ı"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor'u"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Haran'ı"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:04.591398621Z",
+  "model": "glm-5.3"
+}

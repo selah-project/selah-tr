@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Kral Hizkiyahu erken kalktı ve şehrin önderlerini topladı ve Yahve'nin evine çıktı.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "erken kalktı"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ve topladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "önderleri"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "önderlerini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:09:43.752380414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü bakın, kötüler yayı germişler, oklarını tel üzerine koymuşlar, karanlıkta doğru yürekli olanları vurmak için.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "germişler"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yayı"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "koymuşlar"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "oklarını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tel"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "vurmak için"
+    },
+    {
+      "surface": "במו",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "doğru olanlara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:30.461570171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve leş ya da parçalanmış hayvan yiyen her canlı — yerli de gâher de — giysilerini yıkasın, suda yıkansın; akşama kadar kirli olsun, sonra temiz olur.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yer"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "leş"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ve parçalanmış hayvan"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "yerli"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ve gâherde"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ve yıkasın"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ve yıkansın"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ve kirli olsun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşama"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ve temiz olur"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:40.456803771Z",
+  "model": "glm-5.3"
+}

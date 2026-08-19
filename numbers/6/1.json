@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yahve Moşe'ye konuştu ⟨ve⟩ şöyle demiş için ⟨dedi⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu ⟨ve⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e\/ile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle demek için"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:47.583829474Z",
+  "model": "glm-5.3"
+}

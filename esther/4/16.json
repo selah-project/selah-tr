@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Git, Şuşan'da bulunan tüm Yahudileri ⟨את⟩ topla ve benim için oruç tutun; üç gün boyunca gece ve gündüz yemeyin, içmeyin. Ben de, genç kızlarımla birlikte, aynı şekilde oruç tutacağım. Ve böylelikle, yasaya aykırı bir biçimde kralın yanına gireceğim — ve ⟨nasıl ki⟩ yok olursam, yok olurum.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Git"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "topla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm Yahudileri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudileri"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "bulunanları"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Şuşan'da"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "ve oruç tutun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve sakın"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemeyin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve sakın"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "içmeyin"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ve gündüz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "ve genç kızlarım"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "oruç tutacağım"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "ve böylelikle"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "gireceğim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "yasaya göre"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ve nasıl ki"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "yok olursam"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "yok olurum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:48.172363417Z",
+  "model": "glm-5.3"
+}

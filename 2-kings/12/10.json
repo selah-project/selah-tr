@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 12:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yehoyada kâhin bir sandık aldı ve kapağına bir delik açtı ve onu ⟨את⟩ mihrabın yanına, sağ tarafa, bir adam Yahve'nin evine girerken koydu; oraya eşik bekçisi kâhinler, Yahve'nin evine getirilen bütün ⟨את⟩ gümüşü koydular.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "delik açtı"
+    },
+    {
+      "surface": "חר",
+      "gloss": "delik"
+    },
+    {
+      "surface": "בדלתו",
+      "gloss": "kapağında"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (mihrabın yanı)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mihrap"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "sağda"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "girerken"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "koydular"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "bekçileri"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "eşiğin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün gümüş"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "getirilen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:31.640658842Z",
+  "model": "glm-5.3"
+}

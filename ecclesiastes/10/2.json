@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Bilgenin kalbi sağındır, ve ahmağın kalbi solundadır.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilgenin"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "sağındır"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ve kalbi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahmağın"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "solundadır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:00.916009486Z",
+  "model": "glm-5.3"
+}

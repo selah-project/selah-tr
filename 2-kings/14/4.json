@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Yalnız yüksek yerler kaldırılmadı; hâlâ halk yüksek yerlerde kurban kesiyor ve tütsü yakıyordu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "yüksek yerler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "kaldırılmadı \/ uzaklaştırılmadı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hâlâ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "kurban kesiyor"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ve tütsü yakıyordu"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "yüksek yerlerde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:37.020939719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Beş perdeyi ayrıca ⟨את⟩ bağlayacaksın ve altı perdeyi ayrıca ⟨את⟩ bağlayacaksın; altıncı perdeyi ⟨את⟩ çadırın yüzü önünde katlayarak ikiye katlayacaksın.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "bağlayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beş perdeyi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perdeyi"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "altı perdeyi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perdeyi"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ikiye katlayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altıncı perdeyi"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "perdeyi"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "altıncı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "מול",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:50.354659830Z",
+  "model": "glm-5.3"
+}

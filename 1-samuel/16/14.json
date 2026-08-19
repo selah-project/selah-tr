@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Yahve'nin Ruhu Şaul'dan ayrıldı, ve Yahve'den ⟨את⟩ kötü bir ruh onu dehşete düşürüyordu.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ve Ruhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ayrıldı"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "ve dehşete düşürüyordu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩'den",
+      "marks": "Yahve'den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:35.156021020Z",
+  "model": "glm-5.3"
+}

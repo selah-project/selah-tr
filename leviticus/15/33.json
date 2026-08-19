@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve adet görEN ⟨⟨kadın⟩⟩ olan kadın ve akıntılı olan — ⟨את⟩ akıntısını — ERkek için ve kadın için; ve TEmiz olmayan ile yatan adam için.",
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "ve hasta olan kadın (adet gören)"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "adet halinde"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "ve akıntılı olan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akıntısını"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "akıntısını"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "erkek için"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "ve kadın için"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "ve adam için"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "târeye bulaşmış (kadın)"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:53.271979487Z",
+  "model": "glm-5.3"
+}

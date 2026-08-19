@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve bütün ülke halkı sevinç duydu ve şehir sükûnet buldu; ve ⟨את⟩ Atalyahu kılıçla öldürdüler.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "sevinç duydu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ve şehir"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "sükûnet buldu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "öldürdüler"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kılıçla"
+    }
+  ],
+  "timestamp": "2026-08-19T12:07:10.863787140Z",
+  "model": "glm-5.3"
+}

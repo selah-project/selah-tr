@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Yahve'nin öfkesi halkına karşı tutuştu ve mülkünü ⟨את⟩ iğrenç buldu.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "tutuştu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "halkına karşı"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "iğrenç buldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mülkünü"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "mülkünü"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:07.705445550Z",
+  "model": "glm-5.3"
+}

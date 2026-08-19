@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ben sana sözlerle karşılık vereceğim ve ⟨את⟩ dostlarınla birlikte ⟨onlara da⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "sana karşılık vereceğim"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sözlerle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dostların"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "dostların"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:27.746141468Z",
+  "model": "glm-5.3"
+}

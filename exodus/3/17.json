@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve dedim: Sizi Mısır'ın sıkıntısından ⟨את⟩ sizleri çıkarıp Kenanlı'nın, ve Hittili'nin, ve Amorlu'nun, ve Perizzili'nin, ve Hivli'nin, ve Yevuslu'nun ülkesine — süt ve bal akan bir ülkeye çıkaracağım.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "çıkaracağım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizleri",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "sıkıntısından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzere"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanlı'nın"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ve Hittili'nin"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ve Amorlu'nun"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ve Perizzili'nin"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ve Hivli'nin"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ve Yevuslu'nun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkeye"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "akan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "süt"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ve bal"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:33.027163371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Bütün mitzvotların ⟨ ⟩ emindir; yalanla benim peşime düştüler — bana yardım et.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mitzvotların"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "emin\/ sadakat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalanla"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "benim peşime düştüler"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "bana yardım et"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:45.121489633Z",
+  "model": "glm-5.3"
+}

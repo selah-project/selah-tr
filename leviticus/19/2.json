@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Bütün Yisrael oğulları topluluğuna konuş ve onlara de: Kutsal olacaksınız, çünkü kutsalım ben, Yahve, Elohim'iniz.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "topluluğu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ve-de"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "olacaksınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsalım"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:11.679686822Z",
+  "model": "glm-5.3"
+}

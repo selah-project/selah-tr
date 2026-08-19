@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Doğruluğun El dağları gibidir; hükmün büyük ⟨bir⟩ derinliktir; insanı ve hayvanı sen kurtarırsın, Yahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "doğruluğun"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "gibidir dağları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "hükmün"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "derinlik"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ve hayvanı"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "sen kurtarırsın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:50.599723123Z",
+  "model": "glm-5.3"
+}

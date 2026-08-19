@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Kırın bütün canlılarını sularlar; yaban eşekler susuzluklarını dindirir.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "sularlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "canlılarını"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kırın"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "dindirir"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "yaban eşekler"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "susuzluklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:59.571285508Z",
+  "model": "glm-5.3"
+}

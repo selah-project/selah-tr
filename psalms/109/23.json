@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Uzayıp eğilen gölge gibi ⟨ben⟩ yürüdüm; çekirge gibi silkilip atıldım.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "gölge gibi"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "eğilen gibi"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "yürüdüm"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "silkilip atıldım"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "çekirge gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:58.305198589Z",
+  "model": "glm-5.3"
+}

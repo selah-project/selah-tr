@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Kardeşlerinin yanına döndü ve dedi: Çocuk yok; ben ise nereye gideceğim?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşlerinin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "yok"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nereye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gideceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:27.748517802Z",
+  "model": "glm-5.3"
+}

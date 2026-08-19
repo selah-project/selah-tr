@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Temizleyen kâhin, ⟨את⟩ temizlenecek adamı ve ⟨את⟩ onları Yahve'nin önüne, toplantı çadırının girişinde durduracak.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ve durduracak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "temizleyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "temizlenmek üzere olan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ve ⟨את⟩",
+      "marks": "onları (sunuları)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantı(nın)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:24.138335342Z",
+  "model": "glm-5.3"
+}

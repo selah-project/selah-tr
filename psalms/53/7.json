@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Ah, kim verecek Siyon'dan İsrail'in kurtuluşunu! Elohim halkının ⟨esaretini⟩ geri çevirdiğinde Yaakov sevinecek, İsrail coşacak.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siyon'dan"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "kurtuluşunu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "geri çevirdiğinde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "esaretini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "sevinecek"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "coşacak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:12.481946735Z",
+  "model": "glm-5.3"
+}

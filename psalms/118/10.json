@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Bütün uluslar beni kuşattılar; Yahve'nin adıyla onları kesip atacağım.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "beni kuşattılar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "evet\/kesinlikle"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "onları kesip atacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:02.265728301Z",
+  "model": "glm-5.3"
+}

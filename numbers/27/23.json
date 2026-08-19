@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve ⟨את⟩ ellerini onun üzerine bastırdı ve onu görevlendirdi, Yahve'nin Moşe'nin eliyle konuştuğu gibi.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "ve bastırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellerini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ellerini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ve görevlendirdi onu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eliyle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:39.403251741Z",
+  "model": "glm-5.3"
+}

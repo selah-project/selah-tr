@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Bu nedenle de: İşte ben ona ⟨את⟩ antlaşmamı veriyorum — barışın.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "bu nedenle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veriyorum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antlaşmam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "antlaşmam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barış"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:51.449857437Z",
+  "model": "glm-5.3"
+}

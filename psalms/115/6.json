@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Kulakları ⟨onların⟩ var ama duymazlar; burunları ⟨onların⟩ var ama koklamazlar.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "kulaklar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "duyarlar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "burun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "koklarlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:48.216801417Z",
+  "model": "glm-5.3"
+}

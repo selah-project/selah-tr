@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Çünkü Yahve, Peratsim dağında olduğu gibi yükselecek, Giv'on vadisinde olduğu gibi öfkelenecek — kendi işini, yabancı olan işini yapmak için, ve kendi görevini, garip olan görevini yerine getirmek için.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "dağında olduğu gibi"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "Peratsim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yükselecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "vadisinde olduğu gibi"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Giv'on'da"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "öfkelenecek"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "işini"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yabancı olan"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "işini"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "ve yerine getirmek için"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "görevini"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "garip olan"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "görevini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:10.781360594Z",
+  "model": "glm-5.3"
+}

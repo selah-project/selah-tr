@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ⟨את⟩ Yevusili, ve ⟨את⟩ Emorili, ve ⟨את⟩ Girgaşili.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yevusili"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevusili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Emorili"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Girgaşili"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaşili"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:01.636649711Z",
+  "model": "glm-5.3"
+}

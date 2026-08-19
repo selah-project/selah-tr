@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Yehuda, Hevron'da oturan Kenanlıya karşı yürüdü — Hevron'un adı önce Kiryat-Arba idi — ve Şeşay'i ve Ahiman'ı ve Talmay'ı vurdlar.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve yürüdü"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanlı"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevron'da"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron'un"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "önceleri"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ve vurdlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şeşay'i"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Şeşay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahiman'ı"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Talmay'ı"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmay"
+    }
+  ],
+  "timestamp": "2026-08-19T12:13:32.508580652Z",
+  "model": "glm-5.3"
+}

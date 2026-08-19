@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Başıcı için; 'Yok Etme'; Davud için; bir miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "başıcı için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yok"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "etme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud için"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:14.370812713Z",
+  "model": "glm-5.3"
+}

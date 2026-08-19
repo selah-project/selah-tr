@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Çünkü karşılıksız gizlediler benim için çukur, ağlarını; karşılıksız kazdılar canım için.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "karşılıksız"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "gizlediler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çukur"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "ağlarını"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "karşılıksız"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "kazdılar"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canım için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:29.417221454Z",
+  "model": "glm-5.3"
+}

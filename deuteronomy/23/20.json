@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Kardeşine faiz yüklemeyeceksin: paranın faizi, yiyeceğin faizi, faizlendirilebilecek her şeyin faizi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "faiz yüklemeyeceksin"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kardeşine"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faizi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "paranın"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faizi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyeceğin"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faizi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "şeyin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "faizlendirilir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:26.203123299Z",
+  "model": "glm-5.3"
+}

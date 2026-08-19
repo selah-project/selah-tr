@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Bakın, ben önünüze bugün kutsama ve lanet koyuyorum.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "bakın (görün)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "koyuyorum (veriyorum)"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "önünüze"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "kutsama"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ve lanet"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:33.244385151Z",
+  "model": "glm-5.3"
+}

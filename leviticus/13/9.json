@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "İnsanda bir tsaraat belası olduğunda, kâhinin önüne getirilir.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "belası"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olduğunda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olur"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanda"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "getirilir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhinin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:41.216451097Z",
+  "model": "glm-5.3"
+}

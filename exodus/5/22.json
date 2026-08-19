@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Moşe Yahve'nin yanına döndü ve dedi: Adonay, bu halka neden kötülük ettin? Neden beni gönderdin?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve döndü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "kötülük ettin"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "beni gönderdin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:27.781824196Z",
+  "model": "glm-5.3"
+}

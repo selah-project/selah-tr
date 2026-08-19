@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Öfkeden vazgeç ve gazabı bırak; yalnızca kötülük etmek için öfkelenme.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "vazgeç"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "öfkeden"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ve bırak"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "gazabı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ölme"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "öfkelenme"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnızca"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kötülük etmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:09.682804823Z",
+  "model": "glm-5.3"
+}

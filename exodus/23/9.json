@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve bir garibi ezmeyeceksin; siz de garibin canını bilirsiniz, çünkü Mitsrayim ülkesinde gariblerdiniz.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ve bir garibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...meyeceksin"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "ezmek"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "siz de"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "bilirsiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garibin canını"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "garibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "garibler"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "diniz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:44.581229390Z",
+  "model": "glm-5.3"
+}

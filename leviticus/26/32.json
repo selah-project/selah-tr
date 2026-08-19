@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve ben ⟨את⟩ ülkeyi harap edeceğim, ve ona düşmanlarınız, içinde oturanlar, şaşırıp kalacaklar.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ve harap edeceğim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ve şaşırıp kalacaklar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmanlarınız"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "oturanlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:16.457907854Z",
+  "model": "glm-5.3"
+}

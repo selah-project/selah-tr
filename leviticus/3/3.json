@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve şelamim kurbanından Yahve'ye ateş offering'i olarak ⟨את⟩ iç organları örten yağı ve iç organların üzerindeki bütün yağı takdim edecek.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ve takdim edecek"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kurbanından"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "şelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ateş offering'i"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iç organları örten yağı"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "örten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iç organları"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iç organları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün yağı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerindeki"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iç organlarının"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:22.272887252Z",
+  "model": "glm-5.3"
+}

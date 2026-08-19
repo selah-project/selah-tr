@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Avigayil ⟨את⟩ Amasa'yı doğurdu; ve Amasa'nın babası Yeter ⟨ה⟩ Yişmaeli'liydi.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Ve Avigayil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa'yı"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ve babası"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa'nın"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Yişmaeli'li"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:07.312857694Z",
+  "model": "glm-5.3"
+}

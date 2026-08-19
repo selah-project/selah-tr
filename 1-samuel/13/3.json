@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Yonatan, Giv'a'daki Peleştim garnizonunu ⟨את⟩ vurdu ve Peleştimliler duydu; Saul da bütün ülkede şofar çalarak dedi: İbraniler duysun.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleştim garnizonunu"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "garnizon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Giv'a'daki"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ve duydular"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştimliler"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ve Saul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "çaldı"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "şofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkede"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "duysun"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "İbraniler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:39.459901876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 140,
+  "translation": "Beni kuşatanların başı ⟨üzerine⟩ — dudaklarının ektiği emek onları örtsün.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "beni kuşatanların"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "emek"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dudaklarının"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "onları örtsün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:48.134217359Z",
+  "model": "glm-5.3"
+}

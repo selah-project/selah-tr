@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Ve diyorlar: \"Yah görmez, Yaakov'un Elohim'i de anlamaz.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve diyorlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:35.859215054Z",
+  "model": "glm-5.3"
+}

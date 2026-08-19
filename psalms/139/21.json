@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Seni sevenleri mi, ey Yahve, sevmem mi? Hayır — seni sevenlere değil: senin buğzettiklerine buğzeder miyim? Ey Yahve, sana buğzedenlere buğzederim, sana karşı kalkanlarla çekişirim.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "sana buğzedenler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "buğzederim"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "ve sana karşı kalkanlara"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "çekişirim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:37.605466274Z",
+  "model": "glm-5.3"
+}

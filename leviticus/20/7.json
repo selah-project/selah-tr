@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Kutsal kılın kendinizi ve kutsal olun, çünkü ben Yahve'yi ben, Elohim'inizi ben.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "kutsal kılın kendinizi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ve olun"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'inizi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:12.538846311Z",
+  "model": "glm-5.3"
+}

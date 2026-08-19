@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Mitsrayim'i Mitsrayim'e karşı kışkırtacağım; herkes kardeşine, herkes komşusuna karşı savaşacak; şehir şehre, krallık krallığa karşı.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "ve kışkırtacağım"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim'i"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim'e karşı"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ve savaşacaklar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "kardeşine karşı"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve herkes"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "komşusuna karşı"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehre karşı"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "krallık"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "krallığa karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:42.687811398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Kış yüzünden tembel sürmez; hasatta dilenir, ama ⟨ona⟩ hiçbir şey ⟨verilmez⟩.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "kış yüzünden"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tembel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mez"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "sürer"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "dilenir"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "hasatta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ama yok"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:11.084054496Z",
+  "model": "glm-5.3"
+}

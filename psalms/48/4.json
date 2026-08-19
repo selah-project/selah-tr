@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Elohim, onun saraylarında ⟨⟨kendini⟩⟩ sığınak olarak bildirdi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "onun saraylarında"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "bildirdi\/tanınır"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "sığınak olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:25.252469096Z",
+  "model": "glm-5.3"
+}

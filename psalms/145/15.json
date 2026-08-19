@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Bütün ⟨canlıların⟩ gözleri sana bakıp umutla bekler, ve sen onlara ⟨את⟩ yiyeceklerini zamanında verirsin.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "umutla bekler"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "verirsin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiyeceklerini"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "yiyeceklerini"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "zamanında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:29.278372546Z",
+  "model": "glm-5.3"
+}

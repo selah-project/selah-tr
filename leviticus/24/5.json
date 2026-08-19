@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve alacaksın ince unu, ve onu pişireceksin ⟨את⟩ oniki çörek; iki omerlik olacak ⟨her⟩ çöreğin her biri.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ve alacaksın"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ince un"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "ve pişireceksin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "oniki çörek"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "oniki (iki)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(on)"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "çörek"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "omerlik (onda bir ölçü)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "çörek"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bir tanesi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:17.427447681Z",
+  "model": "glm-5.3"
+}

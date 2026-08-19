@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Hayvan gibi kaba bir adam bilmez; ve ahmak şunu kavramaz: ⟨את⟩ bunu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בער",
+      "gloss": "hayvan gibi kaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmez (olumsuz)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ve ahmak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olamaz (olumsuz)"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kavrar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:30.713250178Z",
+  "model": "glm-5.3"
+}

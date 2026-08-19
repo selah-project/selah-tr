@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Bir oğul doğurdu; adını Gerşom olarak ⟨את⟩ adını koydu, çünkü 'Yabancı bir ülkede garip oldum' dedi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "koydu\/çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerşom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "garip\/misafir"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkede"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "yabancı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:00.108221025Z",
+  "model": "glm-5.3"
+}

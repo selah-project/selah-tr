@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Elohim, ⟨senin⟩ için sessizlik olmasın; susma ve hareketsiz kalma, ey El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sessizlik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "susma"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "(ağızını) açma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve olmasın"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "hareketsiz kalma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:27.937689365Z",
+  "model": "glm-5.3"
+}

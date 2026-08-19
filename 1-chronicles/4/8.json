@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Kotz, ⟨את⟩ Anuv'u ve ⟨את⟩ Tsoveva'yı dünyaya getirdi; ve Aharhel'in, Harum oğlunun aileleri.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ve Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya getirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anuv"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anuv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Tsoveva"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tsoveva"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ve aileleri"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharhel'in"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-08-19T12:25:48.963189043Z",
+  "model": "glm-5.3"
+}

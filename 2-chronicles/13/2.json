@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 13:2",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Üç yıl Yeruşalayim'de hüküm sürdü; annesinin adı Mişevoat değil, Givah'tan Uriel'in kızı Mikhayahu idi. Aviya ile Yaravam arasında savaş oldu.",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hüküm sürdü"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesinin"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Uriel'in"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "Givah'tan"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ve savaş"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ile"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:17.285883653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Yarden onu doğu tarafında sınırlandırıyordu. Bu, ailelerine göre, sınırları çevresince Binyamin oğullarının mirasıdır.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "ve Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "sınırlandırıyordu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (miras toprağını)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tarafında"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "doğu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mirasıdır"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "sınırları"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresince"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    }
+  ],
+  "timestamp": "2026-08-19T09:12:06.428559329Z",
+  "model": "glm-5.3"
+}

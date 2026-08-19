@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 84,
+  "translation": "Çünkü avlularında ⟨bir⟩ gün, bin ⟨günden⟩ iyidir; Elohim'imin evinin eşiğinde beklemeyi, wickedliğin çadırlarında konaklamaya yeğledim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "avlularında"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "binden"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "yeğledim"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "eşikte beklemeyi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evindoors"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'imin"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "konaklamaya"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "çadırlarında"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wickedliğin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:36.003639045Z",
+  "model": "glm-5.3"
+}

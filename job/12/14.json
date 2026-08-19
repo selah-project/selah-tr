@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "İşte, yıkar ve ⟨o⟩ yeniden kurulmaz; bir adamı kapatır ve ⟨o⟩ açılmaz.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "yıkar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "kurulur"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "kapatır"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adamı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "açılır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:21.146557436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 137,
+  "translation": "Çünkü orada bize esir alanlarımız sözler istedi bir ezgiyle ilgili, ve bizim telef edenlerimiz sevinç — 'Bize ezgi okuyun Siyon'dan bir ezgi!'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orda"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "istedi bize"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "esir alanlarımızız"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ezgi"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "ve telef edenlerimiz"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinç"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ezgi okuyun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "...dan bir ezgi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:28.449883145Z",
+  "model": "glm-5.3"
+}

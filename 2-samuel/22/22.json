@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Çünkü Yahve'nin yollarını korudum ve Elohim'imden kötülük yapmadım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "korudum"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "kötülük yaptım"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohim'imden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:24.830391039Z",
+  "model": "glm-5.3"
+}

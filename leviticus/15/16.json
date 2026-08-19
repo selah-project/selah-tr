@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve bir adamdan ondan meni akıntısı çıktığında, tüm bedenini suda ⟨את⟩ yıkayacak ve akşama kadar tame olacak.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-diğinde"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıktığında"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yatma\/akıntı"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "yıkayacak"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm bedenini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bedenini"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "tame olacak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşam"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:24.262778622Z",
+  "model": "glm-5.3"
+}

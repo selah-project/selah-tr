@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "«Geminin içinden çık — sen, karın, oğulların ve oğullarının kadınları ⟨את⟩ seninle.»",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "çık"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "gemiden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ve karın"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ve oğulların"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ve kadınları"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle",
+      "marks": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:41.910039592Z",
+  "model": "glm-5.3"
+}

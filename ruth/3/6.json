@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Harmana indi ve kaynanasının buyurduğu her şeyi olduğu gibi yaptı.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "indi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "harmana"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "her şeyi gibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "kaynanası"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:29.277212334Z",
+  "model": "glm-5.3"
+}

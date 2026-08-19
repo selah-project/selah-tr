@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Gözlerim kurtuluşun için ve doğruluğunun sözü için tükendi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözlerim"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "kurtuluşun için"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ve sözü için"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "doğruluğunun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:47.655550060Z",
+  "model": "glm-5.3"
+}

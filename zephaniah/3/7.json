@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Dedim: Elbette ⟨את⟩ beni korkacaksın, terbiye alacaksın; böylece onun yurdu, onun üzerine gönderdiğim her şeyden ötürü kesilip yok olmayacak; ama şafakta kalktılar, bütün yaptıklarını bozdular.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Dedim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "elbette"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "korkacaksın"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni (korkunun nesnesi)"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "alacaksın"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "terbiye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve-olmayacak"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kesilecek"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "onun yurdu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "gönderdim"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ama"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "şafakta kalktılar"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "bozdular"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "yaptıklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:47:11.604597653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Şükran sesinin duyulması için ve bütün harikalarının anlatılması için.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "duyulması için"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sesiyle"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "şükranın"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "ve anlatılması için"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "harikalarının"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:14.491721975Z",
+  "model": "glm-5.3"
+}

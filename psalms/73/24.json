@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Öğüdünle beni yönlendirirsin ve ⟨onur⟩ ile beni kabul edersin.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "öğüdünle"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "beni yönlendirirsin"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ve sonra"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "onur\/şan"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "beni alırsın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:15.480500503Z",
+  "model": "glm-5.3"
+}

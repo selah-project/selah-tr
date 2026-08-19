@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Yahve, senin adın sonsuza dek ⟨sürer⟩; Yahve, senin anısın nesilden nesile ⟨kalır⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "senin adın"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "senin anısın"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nesilde"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ve nesile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:09.981733805Z",
+  "model": "glm-5.3"
+}

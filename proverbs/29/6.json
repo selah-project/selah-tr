@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Kötü adamın suçunda tuzak ⟨vardır⟩; ama sadık ⟨kişi⟩ ötüşür ve sevinir.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "suçunda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "tuzak"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ve sadık"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "ötüşür (sevinçle bağırır)"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ve sevinir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:39.405332359Z",
+  "model": "glm-5.3"
+}

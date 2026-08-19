@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve hangi adam ⟨bir⟩ kadınla nişanlandı ve onu almadıysa — gitsin ve evine dönsün; yoksa savaşta ölür ve ⟨bir⟩ başkası onu alır.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "nişanlandı"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve etmediyse"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "onu almayı"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gitsin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve dönsün"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "evine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölür"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "savaşta"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "onu alır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:58.594940435Z",
+  "model": "glm-5.3"
+}

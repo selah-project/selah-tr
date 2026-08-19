@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Ve beni heikhala getirdi ve ⟨את⟩ sütunları ölçtü — altı arşın genişlik şu tarafından ve altı arşın genişlik öte tarafından — çadırın genişliği.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "ve beni getirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikhala"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ve ölçtü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sütunları"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "sütunları"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "genişlik"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "şu tarafından"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "genişlik"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "öte tarafından"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "genişliği"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:36:31.179596186Z",
+  "model": "glm-5.3"
+}

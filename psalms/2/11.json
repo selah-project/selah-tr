@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Yahve'ye korkuyla kulluk edin ⟨את⟩ ve titreyerek sevinin.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "kulluk edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "korkuyla"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ve sevinin"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "titreyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:48.100005051Z",
+  "model": "glm-5.3"
+}

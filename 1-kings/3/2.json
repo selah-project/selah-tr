@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yalnız ⟨halk⟩ hâlâ yüksek yerlerde kurban kesiyordu, çünkü o günlere dek Yahve'nin adına ⟨bir⟩ ev inşa edilmemişti.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "kurban kesiyordu"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "yüksek yerlerde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "inşa edilmiş"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "edene dek"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:21.217766104Z",
+  "model": "glm-5.3"
+}

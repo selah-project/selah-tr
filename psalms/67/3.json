@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 67,
+  "translation": "Ki yeryüzünde yolun bilinsin, bütün uluslar arasında kurtuluşun.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Ki bilinsin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar arasında"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "kurtuluşun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:56.853553970Z",
+  "model": "glm-5.3"
+}

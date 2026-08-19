@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve taşıdınız ⟨את⟩ Sikut'u, kralınızı, ve ⟨את⟩ Kiyyun'u, putlarınızı — ilahlarınızın yıldızını, kendinize yaptıklarınızı.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "ve taşıdınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikut'u"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "kralınızı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kiyyun'u"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "putlarınızı"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "yıldızını"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ilahlarınızın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "yaptıklarınızı"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendinize"
+    }
+  ],
+  "timestamp": "2026-08-19T10:42:22.178178827Z",
+  "model": "glm-5.3"
+}

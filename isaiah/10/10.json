@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Nasıl ki elim putların krallıklarına yetiştiyse, onların yontuları da Yeruşalayim'dekilerden ve Şomeron'dakilerden üstündüyse —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "nasıl ki"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "yetiştiyse (bulduysa)"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elim"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "krallıklarına"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "putların"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "ve onların yontuları"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruşalayim'dekilerden"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "ve Şomeron'dakilerden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:04.357534834Z",
+  "model": "glm-5.3"
+}

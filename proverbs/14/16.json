@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Bilge korkar ve kötülükten uzaklaşır; akılsız ⟨ise⟩ öfkelenir ve ⟨kendine⟩ güvenir.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkar"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ve uzaklaşır"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ve akılsız"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "öfkelenir"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ve güvenir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:51.717508919Z",
+  "model": "glm-5.3"
+}

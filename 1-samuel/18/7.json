@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Eğlenen kadınlar karşılıklı söyleyip dediler: Şaul binlerle vurdu, Davud on binlerle vurdu.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "karşılıklı söylediler"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kadınlar"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "eğlenen"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "binleriyle"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ve Davud"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "on binleriyle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:14.048685899Z",
+  "model": "glm-5.3"
+}

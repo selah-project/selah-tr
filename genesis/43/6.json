@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ve Yisrael dedi: Bana neden kötülük ettiniz, adamın hâlâ bir kardeşiniz olup olmadığını söyleyerek?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "kötülük ettiniz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "söyleyerek"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adama"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "hâlâ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "אח",
+      "gloss": "kardeş"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:54.372603044Z",
+  "model": "glm-5.3"
+}

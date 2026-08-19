@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Yahve Elohim Eden'de, doğuda ⟨bir⟩ bahçe dikti; ve oraya biçimlendirdiği ⟨את⟩ adamı koydu.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "ve dikti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "bahçe"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "Eden'de"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "doğuda"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "biçimlendirdiği"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:04.931471831Z",
+  "model": "glm-5.3"
+}

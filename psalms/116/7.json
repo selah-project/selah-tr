@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Dön, canım, dinlenişine; çünkü Yahve sana iyilik etti.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "dön"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "dinlenişine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "iyilik etti"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:05.654278881Z",
+  "model": "glm-5.3"
+}

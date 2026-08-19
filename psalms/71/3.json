@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Bana bir sığınak kaya ol, sürekli varacağım ⟨bir yer⟩; kurtarmamı buyurdun, çünkü kayam ve sığınağım sensin.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "varacağım"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "buyurdun"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "kurtarmamı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "kayam"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ve sığınağım"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:59.227987665Z",
+  "model": "glm-5.3"
+}

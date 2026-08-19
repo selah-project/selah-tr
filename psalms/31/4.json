@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Çünkü sarp kayam, kalem sensin; adın uğruna beni yönlendir, beni güdüp gezdir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "sarp kayam"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ve kalem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensin"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "... uğruna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "yönlendir beni"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "güdüp gezdir beni"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:17.647431271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Sen ise, ey Yahve, ebediyen ⟨oturursun⟩; ve anının nesilden nesile ⟨sürer⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sen ise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oturursun"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ve anın"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nesilden"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nesile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:19.679678100Z",
+  "model": "glm-5.3"
+}

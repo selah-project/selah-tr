@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve ⟨את⟩ Yona'yı kaldırıp denize attılar; ve deniz öfkesinden duruldu.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "kaldırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona'yı"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "attılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "duruldu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "öfkesinden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:39.448122259Z",
+  "model": "glm-5.3"
+}

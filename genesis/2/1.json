@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Böylece gökler ve yer ve bütün orduları tamamlanıp bitirildi.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "tamamlanıp bitirildi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ve yer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "orduları"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:56.165664108Z",
+  "model": "glm-5.3"
+}

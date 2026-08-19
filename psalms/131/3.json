@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 131,
+  "translation": "Umulur Yakup'un değil — Yisrael, Yahve'ye umut bağlasın şimdiden ve sonsuza dek.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "umut bağlasın"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e\/o"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "şimdiden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve dek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:02.783642981Z",
+  "model": "glm-5.3"
+}

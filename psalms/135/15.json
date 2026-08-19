@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Ulusların putları gümüş ve altındır, insan ellerinin eseridir.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "putları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ve altın"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "eseridir"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:09.982016865Z",
+  "model": "glm-5.3"
+}

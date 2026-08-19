@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Güneş, ay — ikametinde durdu; oklarının ışığında yürüdüler, kargının parıltısında ⟨senin⟩.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ay"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "ikametinde"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ışığında"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "oklarının"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yürüdüler"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "parıltısında"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "kargı \/ şimşek"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "kargın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:46:04.542083029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Bir kuşak vardır: babasına lanet okur ve annesini kutsamaz.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "kuşak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasına"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "lanet okur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "annesini"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-maz"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kutsar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:54.292299782Z",
+  "model": "glm-5.3"
+}

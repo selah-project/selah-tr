@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Yemeğime ⟨zehir⟩ olan ראש verdiler ve susuzluğumda bana sirke içirdiler.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ve verdiler"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "yemeğime"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "zehir"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "ve susuzluğum için"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "içirdiler bana"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "sirke"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:01.016199331Z",
+  "model": "glm-5.3"
+}

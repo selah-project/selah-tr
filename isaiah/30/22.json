@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve gümüş oymalarının kaplamasını ⟨את⟩, altın dökme heykelinin kaplamasını da ⟨את⟩ murdar kılacaksınız; onları hastalıklı bir şey gibi savurup atacak, ona 'Çık!' diyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "murdar kılacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaplama"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "kaplama"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "oymalarının"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kaplama (ikinci)"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "kaplama (efod giysisi)"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "dökme heykelin"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "altın"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "savurup atacaksın"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "hastalıklı (adet) şey"
+    },
+    {
+      "surface": "צא",
+      "gloss": "çık"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "diyeceksin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:50.866232311Z",
+  "model": "glm-5.3"
+}

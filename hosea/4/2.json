@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Lanet ve yalan, öldürme ve hırsızlık ve zina — taşkınlık saldı; kan kanla temas etti.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "lanet"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ve yalan"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ve öldürme"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ve hırsızlık"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ve zina"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "taşkınlık saldı"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ve kan"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "kanla"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "temas etti"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:17.781293197Z",
+  "model": "glm-5.3"
+}

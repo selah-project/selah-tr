@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 75,
+  "translation": "⟨Çünkü⟩ ben belirlediğim zamanı ⟨aldığımda⟩, ben doğrulukla yargılarım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "aldığımda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "belirlenen zaman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "doğrulukla"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "yargılarım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:51.952507536Z",
+  "model": "glm-5.3"
+}

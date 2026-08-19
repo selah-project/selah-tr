@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Ve doğruluğun, Elohim, ⟨eren⟩ yüceliklere dek; büyük şeyler yaptın; Elohim, kim ⟨sana⟩ benzer?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "ve doğruluğun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yüceliklere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "büyük şeyler"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sana benzer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:16.869399738Z",
+  "model": "glm-5.3"
+}

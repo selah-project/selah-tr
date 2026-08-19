@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Bu yüzden korkmayız, yeryüzü değişse de, dağlar denizlerin bağrına sarsılsa da.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle\/bu yüzden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "korkarız"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "değişse de"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ve sarsılsa da"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "bağrına"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "denizlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:57.840119Z",
+  "model": "glm-5.3"
+}

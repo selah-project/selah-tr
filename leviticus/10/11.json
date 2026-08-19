@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Yisrael oğullarına öğretmek için ⟨את⟩, ⟨את⟩ bütün kuralları ki onları Yahve söz etti Moşe'nin eli aracılığıyla.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "ve öğretmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael oğullarına"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün kuralları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kuralları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eli ile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:07.385700319Z",
+  "model": "glm-5.3"
+}

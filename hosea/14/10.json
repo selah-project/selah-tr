@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kim bilgedir ve bunları anlasın; kim anlayışlıdır ve onları bilsin? Çünkü Yahve'nin yolları düzdür; doğrular onlarda yürür, ama isyankârlar onlarda sendeler.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ve anlasın"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "anlayışlı"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "ve onları bilsin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düz"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yolları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "",
+      "notes": null
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ve doğrular"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yürür"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "ve isyankârlar"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "sendeler"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:23.342518585Z",
+  "model": "glm-5.3"
+}

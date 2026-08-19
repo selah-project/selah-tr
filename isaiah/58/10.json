@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Aç canına yemek sunar ve ezik canı doyurursan, karanlıkta ışığın doğacak ve karanlığın öğle gibi olacak.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "sunduğunda"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "aca"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ve canı"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "ezik"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "doyurur"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "doğacak"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ışığın"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "ve karanlığın"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "öğle gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:04.589495384Z",
+  "model": "glm-5.3"
+}

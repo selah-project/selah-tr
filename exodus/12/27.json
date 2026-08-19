@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve diyeceksiniz: 'Pesah kurbanıdır — Yahve'ye aittir; çünkü O, Mısır'da İsrailoğulları'nın evlerinin üzerinden atladı; Mısırlıları vururken ⟨את⟩ Mısır'ı vurdu ve ⟨את⟩ evlerimizi kurtardı.' Ve halk eğildi ve secde etti.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ve diyeceksiniz"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünkü O"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "atladı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "evlerinin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "vururken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mısır'ı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "evlerimizi"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "evlerimizi"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "kurtardı"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "eğildi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "secde etti"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:31.702036824Z",
+  "model": "glm-5.3"
+}

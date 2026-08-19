@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Her kişi ⟨את⟩ arkadaşına yardım eder ve kardeşine der: Güçlü ol!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkadaşına"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "arkadaşına"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "yardım eder"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ve kardeşine"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Güçlü ol"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:55.415514307Z",
+  "model": "glm-5.3"
+}

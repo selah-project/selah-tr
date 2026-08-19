@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "ve ⟨את⟩ Hivvili, ve ⟨את⟩ Arkili, ve ⟨את⟩ Sinili.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hivvili"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivvili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Arkili"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Sinili"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinili"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:48.658392787Z",
+  "model": "glm-5.3"
+}

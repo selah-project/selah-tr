@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "«Neden ‘Kız kardeşim odur’ dedin, böylece onu ⟨את⟩ kendime eş olarak aldım? Ve şimdi, bak, karın — al ve git.»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dedin"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kız kardeşim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ve aldım"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Saray'ı)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "eş olarak"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "karın"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ve git"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:14.139278074Z",
+  "model": "glm-5.3"
+}

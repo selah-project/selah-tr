@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 112,
+  "translation": "Çünkü sonsuza dek sarsılmayacak; sadık ⟨olan⟩ sonsuz bir an ⟨olarak⟩ olacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarsılır"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "anı olarak"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:43.040406425Z",
+  "model": "glm-5.3"
+}

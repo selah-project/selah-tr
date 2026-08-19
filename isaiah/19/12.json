@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Nerede şimdi senin bilgelerin? Sana bildirsinler artık, ve bilsinler Yahve Sevaot Mısır hakkında ne danıştı.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "senin bilgelerin"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ve bildirsinler"
+    },
+    {
+      "surface": "נא",
+      "gloss": "artık\/lütfen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ve bilsinler"
+    },
+    {
+      "surface": "מה",
+      "gloss": "neyi"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "danıştı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakkında\/üzerine"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:35.415729747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Ancak gözlerinle bakacaksın ve kötülerin karşılığını göreceksin.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gözlerinle"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "bakacaksın"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ve karşılığını"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "göreceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:28.862247807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü ölümde ⟨senin⟩ anın yoktur; Şeol'de sana kim şükredecek?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ölümde"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "anın"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Şeol'de"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "şükredecek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:56.685208372Z",
+  "model": "glm-5.3"
+}

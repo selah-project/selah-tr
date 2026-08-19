@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "İki tekeyi ⟨את⟩ alacak ve onları ⟨אתם⟩ Yahve'nin önüne, toplantı çadırının girişinde durduracak.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ve alacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki tekeyi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "tekeyi"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ve durduracak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinde"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırın"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:47.438512238Z",
+  "model": "glm-5.3"
+}

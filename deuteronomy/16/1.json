@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Gözet ⟨את⟩ Aviv ayını ve Yahve'ye, Elohim'ine Pesah yap; çünkü Aviv ayında Yahve, Elohim'in seni Mısır'dan gece çıkardı.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Gözet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviv ayını"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ayı"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ayında"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "seni çıkardı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:54.438420168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Moşe kayınpederini ⟨את⟩ uğurladı; o da kendi ülkesine gitti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve uğurladı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayınpederini"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "kayınpederini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendi yoluna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ülkesine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:58.164008141Z",
+  "model": "glm-5.3"
+}

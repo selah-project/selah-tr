@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Yahve'ye şükranla karşılık verin, Elohim'imize kinor ile ilahi söyleyin.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "karşılık verin \/ cevaplayın"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "şükranla"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ilahi söyleyin"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohim'imize"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor ile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:11.698159370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 137,
+  "translation": "Eğer seni unutursam, ey Yeruşalayim, sağ elim unutsun.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "seni unuturum"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ey Yeruşalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutsun"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "sağ elim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:45.611039704Z",
+  "model": "glm-5.3"
+}

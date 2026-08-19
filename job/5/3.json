@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ben bir ahmağın ⟨kök saldığını⟩ gördüm ve yerini aniden lanetledim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ahmağın"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "kök saldığını"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "ve lanetledim"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "yerini \/ evini"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "aniden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:41.326358852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve uzuvca uzamış ya da kısalmış bir sığırı ya da koyunu gönüllü sunu olarak yapabilirsin ⟨את⟩ onu; ama adak için kabul edilmeyecektir.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Ve sığır"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ya da koyun"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "uzuvca uzamış"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ya da kısalmış"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "gönüllü sunu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapabilirsin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (sığırı ya da koyunu)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "ve adak için"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "kabul edilir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:46.281546216Z",
+  "model": "glm-5.3"
+}

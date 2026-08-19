@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Het oğulları Avraham'a cevap verdiler, ona şöyle ⟨diye⟩:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ve cevap verdiler"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham'a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:04.991952759Z",
+  "model": "glm-5.3"
+}

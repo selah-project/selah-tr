@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Göklerin ucundan onun çıkışı, ve onun dolanımı onların uçlarına üzerinedir; ve onun hararetinden gizli olmayan yoktur.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ucundan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "onun çıkışı"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ve onun dolanımı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "onların uçları"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "gizli olmayan"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "onun hararetinden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:53.877386230Z",
+  "model": "glm-5.3"
+}

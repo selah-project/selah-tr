@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim ⟨את⟩ insanı kendi görüntüsünde yarattı; Elohim'in görüntüsünde ⟨את⟩ onu yarattı; erkek ve dişi olarak ⟨את⟩ onları yarattı.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "ve yarattı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "kendi görüntüsünde"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "görüntüsünde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yarattı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ve dişi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yarattı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:31.132907157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "İnsanoğlunun yeryüzünde savaşı ⟨yok mu⟩, ve onun günleri ücretlinin günleri gibi mi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "yok mu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "insanoğluna"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "günleri gibi"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ücretli"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "onun günleri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:41.034100979Z",
+  "model": "glm-5.3"
+}

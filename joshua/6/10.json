@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve ⟨את⟩ halka Yehoşua şunu buyurdu: Bağırmayacaksınız, sesinizi duyurmayacaksınız ve ağzınızdan bir söz çıkmayacak — size 'Bağırın!' dediğim güne dek; o zaman bağıracağaksınız.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "halka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şunu diyerek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "bağırmayacaksınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve de değil"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "duyurmayacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sizin sesinizi"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "sizin sesinizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkacak"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "ağzınızdan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir söz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ben diyene"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bağırın"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "o zaman bağıracağaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:24.682401863Z",
+  "model": "glm-5.3"
+}

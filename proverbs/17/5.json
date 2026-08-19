@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Yoksulla alay eden, onu Yapandır'ı tahkir eder; felakete sevinen cezasız kalmaz.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "alay eden"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "yoksulla"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "tahkir eder"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "onu Yapandır'ı"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "sevinen"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "felakete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "cezasız kalır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:40.628790Z",
+  "model": "glm-5.3"
+}

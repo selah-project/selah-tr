@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Mektubu İsrail kralına getirdi; şöyle yazılıydı: «Şimdi, bu mektup sana gelince, işte sana kulum Naaman'ı ⟨את⟩ gönderdim, onu cüzamından iyileştir.»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "getirdi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mektubu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diye"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "gelince"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mektup"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "gönderdim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman'ı"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulum"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "onu iyileştiresin"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "cüzamından"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:04.392601461Z",
+  "model": "glm-5.3"
+}

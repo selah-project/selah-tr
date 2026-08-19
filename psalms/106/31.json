@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ve ona doğruluk olarak sayıldı, kuşaktan kuşağa, sonsuza dek.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ve sayıldı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "doğruluk olarak"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuşaktan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kuşağa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuza"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:37.749055882Z",
+  "model": "glm-5.3"
+}

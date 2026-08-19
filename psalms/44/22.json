@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Bunu Elohim araştırmaz mı? Çünkü ⟨O⟩ kalbin sırlarını bilir.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "araştırmaz mı"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨O⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "sırlarını"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:00.102649871Z",
+  "model": "glm-5.3"
+}

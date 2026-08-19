@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "⟨את⟩ Sandığı ve ⟨את⟩ sırıklarını, ⟨את⟩ kaplama-tahtasını ve ⟨את⟩ perdeyi — örtecin perdesini:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sandığı"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Sandığı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sırıklarını"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sırıklarını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaplama-tahtasını"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaplama-tahtasını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "perdeyi"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perdeyi"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "örtecin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:50.685703338Z",
+  "model": "glm-5.3"
+}

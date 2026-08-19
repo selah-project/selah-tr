@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Altı adını ⟨the⟩ bir taşın üzerine, ve kalan altının adlarını ⟨את⟩ ikinci taşın üzerine, doğumlarına göre.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "altı"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "onların adlarından"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "taşın"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kalan altının adları"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarını"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "altının"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "taşın"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "doğumlarına göre"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:12.437158013Z",
+  "model": "glm-5.3"
+}

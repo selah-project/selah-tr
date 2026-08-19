@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Bütün isyanlarımdan beni kurtar; beni ahmağın below belası kılma.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -dan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "isyanlarım"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "aşağılanma \/ bela"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ahmak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "beni kılma"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:40.112058371Z",
+  "model": "glm-5.3"
+}

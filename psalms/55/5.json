@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "İçimde kalbim kıvranıyor ve ölüm dehşetleri üzerine çöktü.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "kıvranıyor"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "içimde"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ve dehşetleri"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "çöktü"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:10.430038804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 150,
+  "translation": "O'nu şofarın sesiyle övün, O'nu nevel ve kinor ile övün.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "O'nu övün"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "sesiyle\/öüfleyişle"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofarın"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "O'nu övün"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevel ile"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ve kinor ile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:42.497802495Z",
+  "model": "glm-5.3"
+}

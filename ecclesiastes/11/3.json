@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Bulutlar yağmurla dolarsa yeryüzünün üzerine boşaltırlar; ağaç güneye düşerse ya da kuzeye — ağacın düştüğü yerde orada ⟨o⟩ olur.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "dolurlarsa"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "bulutlar"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yağmurla"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "boşaltırlar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "düşerse"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "güneye"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ya da eğer"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "kuzeye"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "düştüğü"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağacın"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "olur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:23.333909582Z",
+  "model": "glm-5.3"
+}

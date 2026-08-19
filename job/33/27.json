@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "İnsanların önünde ilahi söyler ve der: 'Günah işledim, doğru olanı eğriyledim ve bana hiçbir yarar sağlamadı.'",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "ilahi söyler"
+    },
+    {
+      "surface": "על",
+      "gloss": "-in önünde"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "insanların"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve der"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah işledim"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "doğru olanı"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "eğriyledim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "yarar sağladı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:22.401084843Z",
+  "model": "glm-5.3"
+}

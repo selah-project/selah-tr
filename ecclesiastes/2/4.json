@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İşlerimi büyüttüm; kendime evler yaptım, kendime bağlar diktimm.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "büyüttüm"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "işlerimi"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evler"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "diktimm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "bağlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:15.970611695Z",
+  "model": "glm-5.3"
+}

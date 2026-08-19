@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Canıma yaklaş, onu kurtar; düşmanlarım yüzünden beni fidyeyle özgür kıl.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "yaklaş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...e doğru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "onu kurtar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "beni fidyeyle özgür kıl"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:09.815849383Z",
+  "model": "glm-5.3"
+}

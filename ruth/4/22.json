@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Oved ⟨את⟩ Yişay'ı babası oldu ⟨את⟩ David'i de Yişay babası oldu.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ve Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yişay'ı"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ve Yişay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:59.632305900Z",
+  "model": "glm-5.3"
+}

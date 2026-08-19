@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Bir kuşak — kılıçlardır dişleri, ve keskin bıçaklar azı dişleri — yoksulları yerden, ve düşkünleri insanlardan yemek için.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "kuşak"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "kılıçlar"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dişleri"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "ve yiyici aletler"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "azı dişleri"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemek için"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "yoksulları"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerden"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "ve düşkünleri"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "insanlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:00.290319948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ellerimi savaşa öğretiyor ⟨O⟩ ve tunçtan bir yay kollarımla aşağı çekiliyor.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "öğretiyor"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerimi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaşa"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ve aşağı çekiliyor"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yay"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tunçtan"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "kollarımla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:14.571862277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Canım kasvetten damlıyor; sözün uyarınca beni ayakta tut.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "damlıyor"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "kasvetten"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "beni ayakta tut"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sözün uyarınca"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:22.157492168Z",
+  "model": "glm-5.3"
+}

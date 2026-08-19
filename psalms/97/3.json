@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Ateş önünden yürür ve düşmanlarını çevresinde yakar.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önünden"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yürür"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ve yakar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "düşmanlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.760348631Z",
+  "model": "glm-5.3"
+}

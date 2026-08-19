@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve kulu Davud'u seçti, onu koyun ağıllarından aldı.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ve seçti"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davud'u"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ve onu aldı"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "ağıllarından"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "koyun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:14.259726761Z",
+  "model": "glm-5.3"
+}

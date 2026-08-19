@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Kemiklerini aldılar ve onları Yaveş'te şu ⟨את⟩ meşe ağacının altına gömdüler ve yedi gün oruç tuttular.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemiklerini"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "gömdüler"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "meşe ağacının"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Yaveş'te"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "oruç tuttular"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:59.375775150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Ve babanızı ⟨את⟩ ve ev halkınızı ⟨את⟩ alın, bana gelin; size Mitsrayim ülkesinin ⟨את⟩ iyiliğini vereceğim ve ülkenin ⟨את⟩ en yağlısını yiyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "ve alın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babanızı"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "babanızı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ev halkınızı"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "ev halkınızı"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ve gelin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ve vereceğim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyiliğini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiliğini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesinin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ve yiyeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en yağlısını"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "en yağlısını"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:15.454879271Z",
+  "model": "glm-5.3"
+}

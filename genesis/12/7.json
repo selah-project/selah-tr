@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yahve Avram'a göründü ve dedi: Tohumuna ⟨את⟩ bu ülkeyi vereceğim; ve orada kendisine görünen Yahve'ye bir sunak yaptı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "tohumuna"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bir sunak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "görünen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kendisine"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:58.079233823Z",
+  "model": "glm-5.3"
+}

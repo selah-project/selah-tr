@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ kızıl atmacayı ve ⟨את⟩ doğanı türünden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kızıl atmaca"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "kızıl atmaca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "doğan"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "doğan"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "türünden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:00.541203918Z",
+  "model": "glm-5.3"
+}

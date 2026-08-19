@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Givon'un sakinleri, Yehoşua'nın Yeriho'ya ve Ay'a yaptıklarını ⟨את⟩ işittiler;",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Ve sakinleri"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon'un"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "işittiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaptıklarını (אשר tümcesi)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua'nın"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yeriho'ya"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ve Ay'a"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:25.947401660Z",
+  "model": "glm-5.3"
+}

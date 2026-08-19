@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Sana güvendiler atalarımız; güvendiler ve sen onları kurtardın.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "güvendiler"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "güvendiler"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ve onları kurtardın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:52.965245982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Alacaklı, onun ⟨her⟩ şeyine tuzak kursun ve yabancılar emeğini yağmalasın.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "tuzak kursun"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "alacaklı"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "her şeye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ve yağmalasınlar"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yabancılar"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "emeğini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:55.490971907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Başlangıçta Elohim ⟨את⟩ gökleri ve ⟨את⟩ yeri yarattı.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Başlangıçta"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yarattı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gökleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:06.888712319Z",
+  "model": "glm-5.3"
+}

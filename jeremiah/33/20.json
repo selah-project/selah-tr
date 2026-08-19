@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Yahve şöyle dedi: Günah antlaşmamı ve gece antlaşmamı bozabilirseniz — gündüz ve gece kendi vakitlerinde olmasınlar diye —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "bozabilirseniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah antlaşmamı"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "antlaşmamı"
+    },
+    {
+      "surface": "היום",
+      "gloss": "günün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "gece antlaşmamı"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "antlaşmamı"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecenin"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ve olmasınlar diye"
+    },
+    {
+      "surface": "היות",
+      "gloss": "olmak"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ve gece"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "kendi vakitlerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:14:11.654717679Z",
+  "model": "glm-5.3"
+}

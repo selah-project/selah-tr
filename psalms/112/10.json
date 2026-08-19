@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 112,
+  "translation": "Raşa' görecek ve öfkelenecek; dişlerini gıcıkdatacak ve eriyip gidecek; raşa'ların arzusu tükenecek.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "raşa' (kötü kişi)"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görecek"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ve öfkelenecek"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dişlerini"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "gıcıkdatacak"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ve eriyip gidecek"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "arzusu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "raşa'ların (kötülerin)"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "tükenecek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:24.940251438Z",
+  "model": "glm-5.3"
+}

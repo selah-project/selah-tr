@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 75,
+  "translation": "Boynuzunuzu yükseklere kaldırmayın; sert bir ense ile ⟨konuşmayın⟩ ⟨הוּא⟩ küstahça konuşmayın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "kaldırmayın"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "yükseklere"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "boynuzunuzu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "konuşmayın"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "bir ense ile"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "küstahça"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:54.172465043Z",
+  "model": "glm-5.3"
+}

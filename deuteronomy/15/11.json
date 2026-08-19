@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Çünkü yoksul ülkenin ortasından kesilmeyecek; bu yüzden ben sana buyuruyorum: Kardeşine, yoksuluna ve ülkenin muhtacına ⟨את⟩ elini açarak açacaksın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "kesilmeyecek"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sana buyuruyorum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "açarak"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "açacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elini"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kardeşine"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "yoksuluna"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "ve muhtacına"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ülkenin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:03.511577142Z",
+  "model": "glm-5.3"
+}

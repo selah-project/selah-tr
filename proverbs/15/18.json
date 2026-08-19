@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Öfkeli adam kavgayı kışkırtır; uzun burunlu ⟨öfkeye yavaş olan⟩ ise çekişmeyi yatıştırır.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "öfkeli"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "kışkırtır"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "kavga"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ve yavaş"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "burunlu (öfkede)"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "yatıştırır"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "çekişme"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:51.501294889Z",
+  "model": "glm-5.3"
+}

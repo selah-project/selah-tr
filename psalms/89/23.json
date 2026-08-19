@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Düşman ona zor kullanmayacak ve haksızlığın oğlu onu ezmeyecek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zor kullanacak"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ve oğlu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haksızlığın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "onu ezmeyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:55.602524156Z",
+  "model": "glm-5.3"
+}

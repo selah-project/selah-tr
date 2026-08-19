@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Arpakşad otuz beş yıl yaşadı ve ⟨את⟩ Şelah'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ve Arpakşad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ve otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelah'ı"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Şelah"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:54.761116010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kibirliler benimle çok alay ettiler; senin Torah'ından sapmadım.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "kibirliler"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "benimle alay ettiler"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sonsuza dek \/ aşırı derecede"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "senin Torah'ından"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "sapmadım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:20.632887162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Bu yovil yılında ⟨her⟩ kişi mülküne dönecek.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "yılında"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "yovil'in"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "döneceksiniz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "mülküne"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:30.637641465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Canımızı hayatta koyan, ayaklarımızı kaymaya bırakmayan ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "koyan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canımızı"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "hayatta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bıraktı"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kaymaya"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ayaklarımızı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:43.955350076Z",
+  "model": "glm-5.3"
+}

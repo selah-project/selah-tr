@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Benyamin ⟨את⟩ Bela'yı ilkdoğanı olarak babası oldu; Aşbel ⟨ikinci⟩, ve Aharah ⟨üçüncü⟩.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Ve Benyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ilkdoğanı"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Aşbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "ve Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:33.615704550Z",
+  "model": "glm-5.3"
+}

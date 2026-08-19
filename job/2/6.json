@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Yahve, ha-Şatan'a dedi: «İşte o elinde; yalnız ⟨את⟩ canını koru.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...a"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-Şatan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "İşte o"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "koru"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:17.092462134Z",
+  "model": "glm-5.3"
+}

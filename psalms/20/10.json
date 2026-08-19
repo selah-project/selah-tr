@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Yahve, kurtar! Kral, çağırdığımız gün bize cevap versin!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "kurtar!"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "bize cevap versin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "çağırdığımız"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:56.674989239Z",
+  "model": "glm-5.3"
+}

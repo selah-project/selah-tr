@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 84,
+  "translation": "Kalkanımız, gör ya Elohim, ve Meshiah'ının yüzüne bak.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "kalkanımız"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ve bak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Meshiah'ının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:36.003493430Z",
+  "model": "glm-5.3"
+}

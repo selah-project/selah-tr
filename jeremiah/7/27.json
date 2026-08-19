@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve onlara bütün bu sözleri söyleyeceksin, ama sana kulak vermeyecekler; onları çağıracaksın, ama sana karşılık vermeyecekler.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "söyleyeceksin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu sözleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kulak verecekler"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "çağıracaksın"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "karşılık verecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:07:31.506713795Z",
+  "model": "glm-5.3"
+}

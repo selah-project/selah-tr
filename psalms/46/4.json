@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Suları uğuldar, köpürür; dağlar onun kabarmasıyla sarsılır. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "uğuldar"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "köpürür"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "suları"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "sarsılır"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "onun kabarmasıyla"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:57.840262861Z",
+  "model": "glm-5.3"
+}

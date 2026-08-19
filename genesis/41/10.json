@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Paroh kullarının üzerine öfkelendi ve ⟨את⟩ beni cellatlar başının evinde gözetim altına verdi — ⟨את⟩ beni ve ⟨את⟩ fırıncılar başını.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "öfkelendi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kullarının"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "gözetim altına"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başının"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "cellatların"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "fırıncılar başını"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başını"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "fırıncıların"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:32.097627383Z",
+  "model": "glm-5.3"
+}

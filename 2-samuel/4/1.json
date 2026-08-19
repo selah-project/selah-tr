@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Şaul'un oğlu Avner'in Hevron'da öldüğünü duyunca elleri gevşedi ve bütün Yisra'el dehşete kapıldı.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "duyunca"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevron'da"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "gevşedi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "elleri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "dehşete kapıldı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:29:45.543909422Z",
+  "model": "glm-5.3"
+}

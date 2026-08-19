@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yiğit kadın kocasının tacıdır; ama kemiklerindeki çürük gibidir utandıran ⟨kadın⟩.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yiğit"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "taç"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "kocası"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ve çürük"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "kemiklerinde"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "utandıran"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:33.707851017Z",
+  "model": "glm-5.3"
+}

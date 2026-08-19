@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Övün Yah'ı! Öv, ey nefsim, Yahve'yi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "öv"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:47.354086719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Menashşe oymağının yarısından ⟨את⟩ Taanakh'ı ve ⟨את⟩ kırsalını, ⟨את⟩ Gat-Rimon'u ve ⟨את⟩ kırsalını ⟨verildi⟩; iki kent.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ve yarısından"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "oymağı"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakh"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kırsalı"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kırsalı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kırsalı"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kırsalı"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kent"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-19T09:12:58.436390254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Koro şefine, Şoşannim-Edut üzerine, Asaf'a ait ⟨bir⟩ mezmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koro şefine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzere"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Şoşannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf'a"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:42.547348714Z",
+  "model": "glm-5.3"
+}

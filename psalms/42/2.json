@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Su yataklarına susamış geyik gibi, canım Sana susuyor, ey Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "geyik gibi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "susuyor"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e karşı"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "su yatakları"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su(lar)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "susuyor"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:14.926889791Z",
+  "model": "glm-5.3"
+}

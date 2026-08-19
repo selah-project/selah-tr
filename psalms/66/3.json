@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Söyleyin Elohim'e: 'Ne korkunçtur ⟨⟨are⟩⟩ yapıtların! Gücünün bolluğuyla düşmanların sana yalancı çıkacak (sana boyun eğmiş gibi görünecek).'",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "korkunç"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "yaptıkların (yapıtların)"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bolluğuyla"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "gücün"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "yalan diyecekler (boyun eğmiş gibi görünecekler)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmanların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:57.069563790Z",
+  "model": "glm-5.3"
+}

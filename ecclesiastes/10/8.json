@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Çukur kazan içine düşer; duvarı yıkanı yılan sokar.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "kazan"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "çukur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içine"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "düşer"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "yıkan"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "duvarı"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "sokar"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "yılan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:47.351833394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ben bir deniz miyim, yoksa bir canavar mı, ki üzerime bekçi koyuyorsun?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "canavar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "koyuyorsun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "bekçi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:08.104673310Z",
+  "model": "glm-5.3"
+}

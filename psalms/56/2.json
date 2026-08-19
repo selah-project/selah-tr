@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 56,
+  "translation": "Bana lutfet, Elohim, çünkü ölümlü beni yutuyor; bütün gün savaşarak bana eziyor.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "bana lutfet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "beni yutuyor"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "savaşan"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "bana eziyor"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:50.080864590Z",
+  "model": "glm-5.3"
+}

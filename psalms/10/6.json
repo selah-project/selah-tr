@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kalbinde ⟨şöyle⟩ dedi: «Asla sarsılmam; kuşakten kuşağa ⟨ben⟩ kötülükte olmayacağım.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "kalbinde"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarsılmam"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuşağa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ve kuşağa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨şöyle⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacağım"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kötülükte"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:50.385949892Z",
+  "model": "glm-5.3"
+}

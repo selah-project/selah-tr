@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Yahve'nin gözünde kötülük yaptı, Yarovam oğlu Nevat'ın günahlarının ardından gitti — İsrail'i ⟨את⟩ günaha sokan — ondan dönmedi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günahlarının"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "günaha soktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "סר",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:26.613975703Z",
+  "model": "glm-5.3"
+}

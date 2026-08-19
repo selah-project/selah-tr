@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ⟨onun⟩ yirmi yılın sonunda oldu — Şelomo'nun Yahve'nin evini ve kendi evini inşa ettiği (yılların).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onda"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kendi evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evini"
+    }
+  ],
+  "timestamp": "2026-08-19T12:03:45.610223842Z",
+  "model": "glm-5.3"
+}

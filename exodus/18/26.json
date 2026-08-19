@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve ⟨את⟩ halkı her zaman yargılıyorlardı; ⟨את⟩ zor davayı Moşe'ye getiriyorlardı, her küçük davayı ise kendileri yargılıyorlardı.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ve yargılıyorlardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zamanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zor davayı"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "davayı"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "zor"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "getiriyorlardı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "davayı"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "yargılıyorlardı"
+    },
+    {
+      "surface": "הם",
+      "gloss": "kendileri"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:58.163825486Z",
+  "model": "glm-5.3"
+}

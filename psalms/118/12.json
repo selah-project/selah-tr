@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Beni arılar gibi kuşattılar; dikenlerin ateşi gibi söndüler; Yahve'nin adıyla onları kesip atacağım.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "beni kuşattılar"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "arılar gibi"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "söndüler"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ateşi gibi"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "dikenlerin"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kesinlikle"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "onları kesip atacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:02.266074228Z",
+  "model": "glm-5.3"
+}

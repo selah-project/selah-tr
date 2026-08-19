@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve dedi: «Ben İsrail'i karıştırmadım, ⟨את⟩ sen karıştırdın ve babanın evi, Yahve'nin buyruklarını bıraktığınız için ve Baalların ardınca yürüdünüz diye.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "karıştırdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ve evi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "bıraktığınız için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyrukları"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyrukları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ve yürüdün"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:05.067860996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve bütün uluslar ⟨את⟩ ona, ⟨את⟩ oğluna ve ⟨את⟩ oğlunun oğluna hizmet edecekler — onun ülkesinin zamanı, o da gelinceye kadar; ve ona birçok ulus ve büyük krallar hizmet edecekler.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Ve hizmet edecekler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ona",
+      "marks": "bütün uluslar (nesne olarak ona)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğluna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğlunun oğlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelinceye"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zamanı"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "onun ülkesinin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ve hizmet edecekler"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "birçok"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ve krallar"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T10:12:55.764876225Z",
+  "model": "glm-5.3"
+}

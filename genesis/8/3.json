@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve sular yeryüzünün üzerinden gidip gelerek çekildiler, ve sular yüz elli günün sonunda eksildi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ve çekildiler"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gidip"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "gelerek"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "ve eksildi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "elli"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ve yüz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günün"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:48.147465262Z",
+  "model": "glm-5.3"
+}

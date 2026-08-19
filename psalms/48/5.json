@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Çünkü bakın, krallar toplandı, birlikte geçtiler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "krallar"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "toplandı"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "geçtiler"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:20.978050796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Gündüz Senindir, gece de Senindir; Sen ışığı ve güneşi hazırladın.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Senindir"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senindir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "hazırladın"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ışığı"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ve güneşi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:37.815093003Z",
+  "model": "glm-5.3"
+}

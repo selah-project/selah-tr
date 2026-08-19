@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Ve ⟨oldu⟩ — bize nasıl yorumladıysa öyle oldu: beni makamımın üzerine geri çevirdi ve ⟨את⟩ onu astı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve ⟨oldu⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "yorumladı"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "geri çevirdi (beni)"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "geri çevirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כני",
+      "gloss": "makamımın"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "astı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:26.832390188Z",
+  "model": "glm-5.3"
+}

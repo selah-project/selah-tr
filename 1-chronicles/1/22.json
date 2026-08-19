@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "ve ⟨את⟩ Eyal'ı, ⟨את⟩ Avimael'i ve ⟨את⟩ Şeva'yı ⟨doğurdu⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eyal"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:05.482970220Z",
+  "model": "glm-5.3"
+}

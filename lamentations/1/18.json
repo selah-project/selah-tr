@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 1:18",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Sadık ⟨olan⟩ Yahve'dir, çünkü ⟨onun⟩ ağzına isyan ettim; dinleyin, ey tüm halklar, ve acımı görün; bâkirelerim ve delikanlılarım esarete gittiler.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Sadık"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨olan⟩ ... ⟨dir⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "⟨onun⟩ ağzına"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "isyan ettim"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dinleyin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ey"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ve görün"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "acımı"
+    },
+    {
+      "surface": "בתולתי",
+      "gloss": "bâkirelerim"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "ve delikanlılarım"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gittiler"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "esarete"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:43.868340329Z",
+  "model": "glm-5.3"
+}

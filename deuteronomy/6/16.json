@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yahve Elohim'inizi ⟨את⟩ denemeyeceksiniz, Massah'ta denediğiniz gibi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "deneyeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'inizi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "denediniz"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Massah'ta"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:05.933330632Z",
+  "model": "glm-5.3"
+}

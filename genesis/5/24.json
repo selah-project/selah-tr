@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Hanok Elohim ile ⟨את⟩ Elohim'i izleyerek yürüdü ve o yoktu, çünkü Elohim onu almıştı ⟨אתו⟩ onu.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "ve yürüdü"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ve o yok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "almıştı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:50.912835819Z",
+  "model": "glm-5.3"
+}

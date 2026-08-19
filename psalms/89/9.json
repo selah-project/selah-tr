@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Yahve, Elohim Tsevaot, kim ⟨senedir⟩ gibi ⟨sen⟩, ey gücüyle çetin Yah? Ve sadâkatın seni kuşatır.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "senedir gibi"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "gücüyle çetin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ve sadâkatın"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "seni kuşatır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:04.863180318Z",
+  "model": "glm-5.3"
+}

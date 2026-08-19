@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve tsedaka bize olacak ⟨bizim için⟩, çünkü ⟨biz⟩ bu bütün buyruğu Yahve Elohim'imizin önünde yapmak için ⟨korunacağız⟩, bize emrettiği gibi.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "Ve tsedaka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "korunacağız"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu bütün buyruğu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruğu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "bize emrettiği"
+    }
+  ],
+  "timestamp": "2026-08-19T08:58:59.094636173Z",
+  "model": "glm-5.3"
+}

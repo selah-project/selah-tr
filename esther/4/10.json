@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ester Hatak'a söyledi ve onu Mordehay'a ⟨emirle⟩ görevlendirdi:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hatak'a"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "onu görevlendirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨emirle⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay'a"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:24.306856118Z",
+  "model": "glm-5.3"
+}

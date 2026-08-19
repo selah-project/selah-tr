@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Saf kandillik üzerinde kandilleri Yahve'nin önünde sürekli düzenleyecek.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandillik"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "saf"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "düzenleyecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandiller"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "kandilleri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:30.295119584Z",
+  "model": "glm-5.3"
+}

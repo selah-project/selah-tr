@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Çünkü yovel odur, sizin için kutsal olacak; tarladan ⟨את⟩ ürününü yiyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarladan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürününü"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ürününü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:56.601913238Z",
+  "model": "glm-5.3"
+}

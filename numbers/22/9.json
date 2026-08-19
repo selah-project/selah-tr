@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Elohim Bilam'a geldi ve şöyle dedi: Kim ⟨bu⟩ adamlar ⟨bunlar⟩ seninle olan?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…'a"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve şöyle dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle olan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:25.830072044Z",
+  "model": "glm-5.3"
+}

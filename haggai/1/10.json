@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bu yüzden sizin üzerinize gök çiyi ⟨vermekten⟩ alıkoydu ve yer ürününü alıkoydu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "alıkoydu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gök"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "çiy"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ve yer"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "alıkoydu"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ürününü"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:04.824665774Z",
+  "model": "glm-5.3"
+}

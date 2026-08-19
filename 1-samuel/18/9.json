@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Şaul o günden ileriye ⟨את⟩ David'i gözledi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ve oldu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gözledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David'i"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "o günden"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ileriye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:03.189990967Z",
+  "model": "glm-5.3"
+}

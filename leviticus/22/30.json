@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "O gün yenilir, ondan sabaha kadar bir şey bırakmayacaksınız; ben Yahve'yim.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yenilir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "bırakacaksınız"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabaha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:29.313783789Z",
+  "model": "glm-5.3"
+}

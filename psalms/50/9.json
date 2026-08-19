@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Evinizden boğa almayacağım, ağıllarınızdan teke keçileri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "almayacağım (değil)"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "alırım"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "פר",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ağıllarından"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "teke keçileri"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:57.902444787Z",
+  "model": "glm-5.3"
+}

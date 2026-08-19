@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Ve geçitler tutuldu ve ⟨את⟩ sazlıklar ateşle yakıldı ve savaş adamları dehşete düştü.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "ve geçitler"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "tutuldu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sazlıklar"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "sazlıklar"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "yakıldı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "savaşın"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "dehşete düştü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:21:54.742719106Z",
+  "model": "glm-5.3"
+}

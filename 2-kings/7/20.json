@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ona böyle oldu: halk onu ⟨אתו⟩ kapıda çiğnedi ve o öldü.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ve oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "ve çiğnediler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kapıda"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve o öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:00.822084169Z",
+  "model": "glm-5.3"
+}

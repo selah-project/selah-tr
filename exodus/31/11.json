@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "ve ⟨את⟩ mesh yağını ve ⟨את⟩ hoş kokulu buhuru — kutsal ⟨yer⟩ için; sana buyurduğum her şeye göre yapsınlar",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mesh yağı"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buhuru"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "buhur"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "hoş kokulu baharatlı"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "kutsal ⟨yer⟩ için"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "her şeye göre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "sana buyurduğum"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "yapsınlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:56.215851662Z",
+  "model": "glm-5.3"
+}

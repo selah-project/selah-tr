@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Senin hükümlerinden sapanların hepsini hor gördün, çünkü onların düzenbazlığı yalandır.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "hor gördün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsini"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "sapanların"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "senin hükümlerinden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan(dır)"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "onların düzenbazlığı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:02.975370315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bakın, önünüze koydum ⟨את⟩ ülkeyi; girin ve miras alın ⟨את⟩ ülkeyi ki Yahve atalarınıza ant içti — Avraham'a, Yitshak'a ve Yaakov'a — onlara ve onlardan sonra zürriyetlerine vermek için.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "koydum"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "önünüze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "girin"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "ve miras alın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ant içti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "atalarınıza"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham'a"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshak'a"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ve Yaakov'a"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermek için"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "ve zürriyetlerine"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "onlardan sonra"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:26.803563969Z",
+  "model": "glm-5.3"
+}

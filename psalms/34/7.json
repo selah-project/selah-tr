@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Bu yoksul çağırdı ve Yahve duydu, onu tüm sıkıntılarından kurtardı.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "duydu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ve tümünden"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sıkıntılarının"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "onu kurtardı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:52.191836130Z",
+  "model": "glm-5.3"
+}

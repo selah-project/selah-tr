@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "ki birçok ulusu vurdu, güçlü kralları öldürdü",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "ki vurdu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "birçok"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ve öldürdü"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "güçlü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:07.823269258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Önderler de benim aleyhimde oturup ⟨karşı⟩ konuşsalar da, kulun senin kurallarında derin düşünür.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oturdular"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "önderler"
+    },
+    {
+      "surface": "בי",
+      "gloss": "benim aleyhimde"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "konuştular"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "derin düşünür"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "senin kurallarında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:48.198558369Z",
+  "model": "glm-5.3"
+}

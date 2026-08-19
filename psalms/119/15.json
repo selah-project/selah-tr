@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Buyruklarında derin düşüneceğim ve yollarına bakacağım.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "buyruklarında"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "derin düşüneceğim"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ve bakacağım"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "yollarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:14.725092148Z",
+  "model": "glm-5.3"
+}

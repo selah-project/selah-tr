@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Parayı seven para ile doymaz, ve bolluğu seven için gelir yoktur; bu da heveldir.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "seven"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "parayı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-maz"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "doymaz"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "para"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "seven"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "bolluğu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "gelir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bu da"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveldir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:43.371110042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve ortadaki çıta, kerestelerin ortasından bir uçtan öbür uca kadar uzanarak geçecektir.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "ve çıta"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "ortadaki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "kerestelerin"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "uzanarak geçen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "uç"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "uç"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:35.430419293Z",
+  "model": "glm-5.3"
+}

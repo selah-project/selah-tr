@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Tora'yı bırakanlar kötüyü över; Tora'yı koruyanlar ise onlarla çekişir.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "bırakanlar"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora'yı"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "över"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ve koruyanlar"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora'yı"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "çekişir"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:36.019760216Z",
+  "model": "glm-5.3"
+}

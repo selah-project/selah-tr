@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "İsrail desin şimdi: «Çünkü merhameti sonsuza dek sürer.»",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "desin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "merhameti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:54.759857129Z",
+  "model": "glm-5.3"
+}

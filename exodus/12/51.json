@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve ⟨oldu⟩ o günün tam kendisinde: Yahve Yisrael oğullarını ⟨את⟩ Mıtsrayim ülkesinden çıkardı, orduları halinde.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve ⟨oldu⟩"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "tam kendisinde"
+    },
+    {
+      "surface": "היום",
+      "gloss": "günün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "o"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "çıkardı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "halinde"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "orduları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:01.669415817Z",
+  "model": "glm-5.3"
+}

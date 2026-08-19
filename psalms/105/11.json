@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "der ki: \"Sana ⟨את⟩ Kenaan ülkesini vereceğim — sizin mirasınızın ölçü ipi.\"",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "der ki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaan ülkesi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ölçü ipi \/ pay"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "mirasınız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:07.278394936Z",
+  "model": "glm-5.3"
+}

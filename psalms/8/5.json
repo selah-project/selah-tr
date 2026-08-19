@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ölümlü insan nedir ki onu anımsıyorsun, insan oğlu ki onu gözetip sayıyorsun?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nedir"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "onu anımsıyorsun"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ve oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "onu gözetip sayıyorsun"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:02.032151784Z",
+  "model": "glm-5.3"
+}

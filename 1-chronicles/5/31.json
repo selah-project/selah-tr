@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "ve Avişua ⟨את Bukki'yi babası oldu, ve Bukki ⟨את Uzzi'yi babası oldu.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ve Avişua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ve Bukki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:55:34.998937051Z",
+  "model": "glm-5.3"
+}

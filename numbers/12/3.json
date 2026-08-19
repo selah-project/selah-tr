@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve adam Moşe, yeryüzünün yüzü üzerindeki bütün insanlardan çok daha alçakgönüllüydü.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "alçakgönüllü"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün...dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:08.924553518Z",
+  "model": "glm-5.3"
+}

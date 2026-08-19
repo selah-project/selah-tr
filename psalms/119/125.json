@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kulunum ben; bana anlayış ver ki tanıklıklarını bileyim.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "bana anlayış ver"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ve bileyim"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tanıklıklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:49.838565834Z",
+  "model": "glm-5.3"
+}

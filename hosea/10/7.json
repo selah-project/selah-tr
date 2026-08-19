@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şomeron'in kralı kesildi, suyun yüzündeki köpük gibi.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "kesildi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron'in"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "köpük gibi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzündeki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suyun"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:33.891469183Z",
+  "model": "glm-5.3"
+}

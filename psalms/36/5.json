@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Yatağının üzerinde kötülük kurar; iyi olmayan ⟨bir⟩ yolda durur; şerredi tikkinmez.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "kurar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "yatağının"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "durur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şerredi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tikkinmez-tatsız"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "tikkinmez"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:50.599372126Z",
+  "model": "glm-5.3"
+}

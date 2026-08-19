@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ⟨את⟩ Penuel kulesini yıktı, ve şehrin adamlarını ⟨את⟩ öldürdü.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel kulesini"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "kule"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "yıktı"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ve öldürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehrin adamlarını"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarını"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:16:56.342052923Z",
+  "model": "glm-5.3"
+}

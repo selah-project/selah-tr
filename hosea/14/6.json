@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "İsrail'e çiy gibi olacağım, süsen gibi açacak ve köklerini Lübnan gibi salacak.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "olacağım"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "çiy gibi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrail'e"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "açacak"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "süsen gibi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve salacak"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "köklerini"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Lübnan gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:45.272941776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "İşte, uzaklaşıp kaçarım, çölde konaklarım. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "uzaklaşıp"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "kaçarım"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "konaklarım"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:10.430504927Z",
+  "model": "glm-5.3"
+}

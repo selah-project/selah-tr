@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Çünkü beni hakaret eden bir düşman ⟨değil⟩ — ⟨o zaman⟩ taşardım; benden büyüyen beni nefret eden ⟨değil⟩ — ondan saklanırdım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "beni hakaret eder"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ve taşardım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "beni nefret eden"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "büyüdü"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ve saklanırdım"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:15.663331910Z",
+  "model": "glm-5.3"
+}

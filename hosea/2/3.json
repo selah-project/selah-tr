@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kardeşlerinize deyin: 'Ammi' (Halkım-benim); ve kızkardeşlerinize: 'Ruhamah' (Merhamet-görmüş).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kardeşlerinize"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (Halkım)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ve kızkardeşlerinize"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah (Merhametli)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:09.102466890Z",
+  "model": "glm-5.3"
+}

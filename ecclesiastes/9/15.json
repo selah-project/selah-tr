@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve onda yoksul bir bilge adam bulundu, ve o kendi bilgeliğiyle ⟨את⟩ kenti kurtardı; ama hiçbir insan ⟨את⟩ o yoksul adamı o adamı anımsamadı.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ve bulundu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ve kurtardı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kenti"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "bilgeliğiyle"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ve insan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anımsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o yoksul adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o adamı"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:26.483350294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve eğer tarlayı geri almayacaksa ya da tarlayı başka bir adama sattıysa, bir daha geri alınamayacaktır.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "geri almayacaksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarlayı"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlayı"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ya da eğer"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "sattıysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarlayı"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlayı"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bir adama"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "geri alınacak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:22.860330693Z",
+  "model": "glm-5.3"
+}

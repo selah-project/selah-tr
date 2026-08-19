@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kulunla sevginine göre davran, ve bana kurallarını öğret.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "davran\/yap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sevginine göre"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "ve kurallarını"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "öğret bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:47.655721856Z",
+  "model": "glm-5.3"
+}

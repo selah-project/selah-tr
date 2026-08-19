@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve sizi Kerem-ül toprağına, meyvesini ve iyiliğini yemeniz için getirdim; siz ise geldiniz ve toprağımı kirlettiniz ve mirasımı iğrençliğe çevirdiniz.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "ve getirdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprağına"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Kerem-ül"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemek için"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "meyvesini"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ve iyiliğini"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "ve geldiniz"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "ve kirlettiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağımı"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "toprağımı"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ve mirasımı"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "çevirdiniz"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "iğrençliğe"
+    }
+  ],
+  "timestamp": "2026-08-19T10:05:26.077288054Z",
+  "model": "glm-5.3"
+}

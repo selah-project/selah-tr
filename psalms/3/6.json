@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ben yattım ve uyudum; uyandım, çünkü Yahve beni destekler.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "yattım"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ve uyudum"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "uyandım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "beni destekler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:09.548729629Z",
+  "model": "glm-5.3"
+}

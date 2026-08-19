@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Yahve, gücünde ⟨o⟩ sevinir kral, ve kurtuluşunda ne kadar coşar ⟨o⟩ çok!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "gücünde"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ve kurtuluşunda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "coşar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:54.870121045Z",
+  "model": "glm-5.3"
+}

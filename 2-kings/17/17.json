@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Oğullarını ve kızlarını ateşten geçirdiler ⟨את⟩, büyücülük yaptılar ve falcılık ettiler, ve Yahve'nin gözünde kötülüğü yapmak için kendilerini sattılar, onu öfkelendirmek için.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "geçirdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kızlarını"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "kızlarını"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşten"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "ve büyücülük yaptılar"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "fal işleri"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "ve falcılık ettiler"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "ve kendilerini sattılar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "onu öfkelendirmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:30.000541624Z",
+  "model": "glm-5.3"
+}

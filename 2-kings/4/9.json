@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve kadını kocasına söyledi: İşte şimdi, bilirim ki o, kutsal bir Elohim adamıdır; sürekli olarak üzerimizden geçip gider.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve söyledi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kocasına"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "kocası"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçip gider"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimizden"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:43:58.771149926Z",
+  "model": "glm-5.3"
+}

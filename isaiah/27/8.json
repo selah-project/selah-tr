@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Sürerek sürerken onunla çekişti; onu, sert rüzgârıyla, doğu rüzgârı gününde uzaklaştırdı.",
+  "tokens": [
+    {
+      "surface": "בסאסאה",
+      "gloss": "sürerek"
+    },
+    {
+      "surface": "בשלחה",
+      "gloss": "sürerken"
+    },
+    {
+      "surface": "תריבנה",
+      "gloss": "onunla çekişti"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "uzaklaştırdı"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "rüzgârıyla"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sert"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "doğu rüzgârının"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:30.817977960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Ezenci başkanına, Yedutun üzerine, Davud'un mezmuru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ezenci başkanına"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:22.422861034Z",
+  "model": "glm-5.3"
+}

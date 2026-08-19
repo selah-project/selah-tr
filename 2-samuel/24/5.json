@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Yarden'i geçtiler, ve Aroer'de konakladılar — ⟨את⟩ şehrin sağ tarafında, Gad vâdisinin ortasındaki — ve Yazer'e ⟨doğru⟩.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ve geçtiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden'i"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden'i"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ve konakladılar"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroer'de"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağ tarafı"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "vâdisinin"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ... doğru"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:28.286296409Z",
+  "model": "glm-5.3"
+}

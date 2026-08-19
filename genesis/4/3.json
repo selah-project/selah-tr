@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve günlerin sonunda oldu ki, Kayin toprağın meyvesinden Yahve'ye bir sunu getirdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlerin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "meyvesinden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "bir sunu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:38.687151363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Amalek geldi ve İsrail'le Refidim'de savaştı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ve savaştı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "Refidim'de"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:18.194981632Z",
+  "model": "glm-5.3"
+}

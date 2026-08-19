@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve eğer tek kişiye üstün gelirse, ikisi ona karşı durabilir; ve üç kat ipek ip çabucak kopmaz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "üstün gelirse"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tek kişiye"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ikisi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "karşı durabilir"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ona karşı"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "ve ipek ip"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "üç kat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "çabucak"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "kopar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:27.859066577Z",
+  "model": "glm-5.3"
+}

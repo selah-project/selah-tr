@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ⟨את⟩ buyruğu, ⟨את⟩ hükümleri ve ⟨את⟩ mişpatları koruyacaksın — bugün sana onları yapman için benim buyurduğum ⟨the⟩ şekilde.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ve koruyacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruğu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hükümleri"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hükümler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "mişpatları"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mişpatlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sana buyuruyorum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "onları yapmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:39.065323691Z",
+  "model": "glm-5.3"
+}

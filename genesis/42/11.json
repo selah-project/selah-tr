@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Hepimiz bir adamın oğulları ⟨o⟩⟨lup⟩⟨ız⟩; dürüst ⟨kişi⟩⟨ler⟩⟨iz⟩ biz; kulların casus olmadılar.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "hepimiz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "dürüst(ler)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldu(lar)"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kulların"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casus"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:50.200332357Z",
+  "model": "glm-5.3"
+}

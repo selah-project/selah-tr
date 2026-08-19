@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Halk ⟨את⟩ bu kötü sözü işitti ve yas tuttular; hiçbir adam süsünü üzerine koymadı.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ve işitti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu kötü sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ve yas tuttular"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "koymadı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiçbir adam"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "süsünü"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:10.128964972Z",
+  "model": "glm-5.3"
+}

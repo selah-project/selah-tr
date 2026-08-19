@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Her kötü yoldan ayaklarımı alıkoydum, senin sözünü tutayım diye.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "her ... -dan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yol"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "alıkoydum"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaklarımı"
+    },
+    {
+      "surface": "למען",
+      "gloss": "diye"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "tutayım"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "senin sözünü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:33.555054453Z",
+  "model": "glm-5.3"
+}

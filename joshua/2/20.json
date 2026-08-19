@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve eğer ⟨את⟩ bu sözümüzü açarsan, senin bizi andırdığın yeminden masum olacağız.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "açarsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözümüzü"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "sözümüzü"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "olacağız"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "masum"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "yeminden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "bizi andırdın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:06.340901916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ve putlarına kulluk ettiler ⟨את⟩ ve onlara tuzak oldular.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ve kulluk ettiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putlarına"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "putlarına"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldular"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tuzak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:42.607433694Z",
+  "model": "glm-5.3"
+}

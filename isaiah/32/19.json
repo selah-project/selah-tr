@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve orman düştüğünde dolu ⟨yağacak⟩, ve şehir alçaldıkça alçaltılacak.",
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "ve dolu"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "düştüğünde"
+    },
+    {
+      "surface": "היער",
+      "gloss": "orman"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "ve alçaldıkça"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "alçaltılacak"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:19.859127888Z",
+  "model": "glm-5.3"
+}

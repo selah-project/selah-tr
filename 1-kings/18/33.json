@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve odunları düzenledi, boğağı ⟨את⟩ doğradı ve odunların üzerine koydu.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ve düzenledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odunları"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "odunları"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "ve doğradı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boğağı"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğağı"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "odunların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:08.882203902Z",
+  "model": "glm-5.3"
+}

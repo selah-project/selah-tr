@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Elohim'in Ruhu bu sözleri işittiğinde Şaul'un üzerine güçlüce geldi, ve öfkesi çok alevlendi.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "güçlüce geldi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "işittiğinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözleri"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ve alevlendi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:36.356975260Z",
+  "model": "glm-5.3"
+}

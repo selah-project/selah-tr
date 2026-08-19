@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve hikmetine göre yap, ve onun ak başını Şeol'a barış içinde indirme.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "hikmetine göre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -me"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "indirme"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "onun ak başını"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "barış içinde"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Şeol'a"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:07.023724532Z",
+  "model": "glm-5.3"
+}

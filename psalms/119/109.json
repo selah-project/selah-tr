@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Canım ⟨⟨sürekli⟩⟩ elindedir; Ve Toranı unutmadım.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "avucumda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ve Toran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:43.818702144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve Moşe, Yahve'ye dedi: Bak, sen bana diyorsun, 'Bu halkı yukarı çıkar', ⟨את⟩; ama sen bana bildirmedin kimi göndereceğini benimle; oysa sen dedin, 'Seni adınla tanıdım, ve sen lût buldun gözümde.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyorsun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "העל",
+      "gloss": "yukarı çıkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ama sen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "bana bildirmedin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimi göndereceğini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "göndereceğin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dedin"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "seni tanıdım"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adınla"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "buldun"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lût"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözümde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:47.844308472Z",
+  "model": "glm-5.3"
+}

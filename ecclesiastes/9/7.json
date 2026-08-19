@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Git, ekmeğini sevinçle ye, şarabını iyi bir yürekla iç; çünkü Elohim ⟨את⟩ işlerinden çoktan hoşnut oldu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sevinçle"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ekmeğini"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ve iç"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "yürekla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi bir"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "şarabını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "çoktan"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "hoşnut oldu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "işlerinden"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "işlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:23.449264093Z",
+  "model": "glm-5.3"
+}

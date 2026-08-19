@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "Elohim, duamı işit, ağzımın sözlerine kulak ver.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "işit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sözlerine"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:10.772138402Z",
+  "model": "glm-5.3"
+}

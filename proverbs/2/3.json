@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "çünkü eğer sezgiye seslenirsen, anlayış için sesini yükseltirsen —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "sezgiye"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "seslenirsen"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "anlayışa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verirsen \/ yükseltirsen"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sesini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:11.064712942Z",
+  "model": "glm-5.3"
+}

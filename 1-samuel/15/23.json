@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Çünkü başkaldırı kehanet günahıdır, ve aven ve terafimler isrardır. Çünkü sen ⟨את⟩ Yahve'nin sözünü reddettin, ve O da seni kral olmaktan reddetti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah(ı)"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "kehanet"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "başkaldırı"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ve-aven"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ve-terafimler"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "israr"
+    },
+    {
+      "surface": "יען",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "reddettin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "ve-reddetti-seni"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "kral-olmaktan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:15.050828923Z",
+  "model": "glm-5.3"
+}

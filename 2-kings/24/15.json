@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Yehoyakin'i ⟨את⟩ Babil'e sürdü, ve kralın annesini ⟨את⟩, ve kralın kadınlarını ⟨את⟩, ve hadımlarını ⟨את⟩, ve ülkenin güçlülerini ⟨את⟩ — sürgün olarak Yeruşalayim'den Babil'e götürdü.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ve sürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakin'i"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakin'i"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babil'e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kralın annesini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "annesini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kralın kadınlarını"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "kadınlarını"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hadımlarını"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "hadımlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ülkenin güçlülerini"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "güçlülerini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "sürgün"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruşalayim'den"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babil'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:09.187716007Z",
+  "model": "glm-5.3"
+}

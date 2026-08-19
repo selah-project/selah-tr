@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Beni isotpultan arındır ki temiz olayım; beni yıka ki kardan beyaz olayım.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "günahımdan arındır beni"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "isotla"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "ve temiz olayım"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "yıka beni"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "ve kardan"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "beyaz olayım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:55.442536246Z",
+  "model": "glm-5.3"
+}

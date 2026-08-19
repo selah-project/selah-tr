@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 70,
+  "translation": "Elohim, beni kurtarmaya, Yahve, yardımına — acele et!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "beni kurtarmaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yardımıma"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "acele et!"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:44.074072293Z",
+  "model": "glm-5.3"
+}

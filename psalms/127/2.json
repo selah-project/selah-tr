@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 127,
+  "translation": "Erken kalkanlar, geç oturanlar, zahmetin ekmegini yiyenler için boşunadır; öyle ki sevdigine uykuyu O verir.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "boşunadır"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "erken kalkanlar"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kalkan"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "geç"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "oturanlar"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "yiyenler"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmegini"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "zahmetin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "O verir"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "sevdigine"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "uykuyu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:41.814016796Z",
+  "model": "glm-5.3"
+}

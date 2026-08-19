@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Onların üzerinde göğün kuşları barınır; dalların arasından ses verirler.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzerinde"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuşları"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göğün"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "barınır"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "dalların"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "verirler"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:59.571399502Z",
+  "model": "glm-5.3"
+}

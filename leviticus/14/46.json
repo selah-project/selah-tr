@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve eve giren, onun kapatıldığı bütün günlerde ⟨את⟩ akşama kadar kirli olur.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "ve giren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "kapatılması"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onun (ev)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kirli olur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşam"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:17.809987798Z",
+  "model": "glm-5.3"
+}

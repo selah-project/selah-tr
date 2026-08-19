@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Çünkü yine ⟨çok⟩ az bir süre, ve hışım tükenecek, ve öfkem onların yok oluşu üzerine ⟨olacak⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "çok azlık"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ve tükenmiş"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "hışım"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ve öfkem"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "onların yok oluşu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:22.476105948Z",
+  "model": "glm-5.3"
+}

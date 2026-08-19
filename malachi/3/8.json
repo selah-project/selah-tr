@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "İnsanoğlu Elohim'i ⟨את⟩ dolandırır mı? Siz Beni ⟨את⟩ dolandırıyorsunuz; ve siz, 'Seni nerde dolandırdık?' dediniz. Onda ve adakta.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "dolandırır mı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanoğlu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "dolandırıyorsunuz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Beni"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ve dediniz"
+    },
+    {
+      "surface": "במה",
+      "gloss": "nerde"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "dolandırdık Seni"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "onda ondalıkta"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "ve adakta"
+    }
+  ],
+  "timestamp": "2026-08-19T10:49:51.985087062Z",
+  "model": "glm-5.3"
+}

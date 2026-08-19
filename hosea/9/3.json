@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Yahve'nin ülkesinde oturmayacaklar; Efrayim Mısır'a dönecek ve Aşur'da murdar yiyecek yiyecekler.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oturmayacaklar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ve dönecek"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'a"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ve Aşur'da"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyecek yiyecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:01.813745889Z",
+  "model": "glm-5.3"
+}

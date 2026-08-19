@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kalk, Yahve, onun karşısına çık, onu diz çöktür; canımı kötüden kurtar — kılıcınla.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kalk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "karşısına çık"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "onun yüzü"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "onu diz çöktür"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "kurtar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "kötüden"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "kılıcınla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:37.331372938Z",
+  "model": "glm-5.3"
+}

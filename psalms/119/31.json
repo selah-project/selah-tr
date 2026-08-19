@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Tanıklarına yapıştım; Yahve, beni utandırma.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "yapıştım"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "tanıklarına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "beni utandırma"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:45.100769548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 141,
+  "translation": "Çünkü sana, ey Yahve, Adonay, ⟨dedir⟩ gözlerim; sana sığındım; canımı çıplak bırakma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerim"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "sende"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "תער",
+      "gloss": "çıplak bırakma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:20.422540367Z",
+  "model": "glm-5.3"
+}

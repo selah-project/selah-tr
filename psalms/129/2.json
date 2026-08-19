@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 129,
+  "translation": "Çok defa sıkıştırdılar beni gençliğimden beri, ama bana üstün gelemediler.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "çok defa"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "sıkıştırdılar beni"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gençliğimden"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "üstün gelebildiler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:32.815491124Z",
+  "model": "glm-5.3"
+}

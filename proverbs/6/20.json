@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Oğlum, babanın buyruğunu koru ve annenin Tora'sını bırakma;",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "koru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyruğunu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ... -me"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "bırakma"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora'sını"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annenin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:11.952686280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve onlara dedi: Dinleyin ⟨lütfen⟩ ⟨şu⟩ rüyayı ki ben rüyada gördüm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dinleyin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨lütfen⟩"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "rüyayı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "rüyada gördüm"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:40.139326999Z",
+  "model": "glm-5.3"
+}

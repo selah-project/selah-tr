@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yehoşua sabahleyin erkenden kalktı ve kahinler Yahve'nin ⟨את⟩ aranını kaldırıp taşıdılar.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "erkenden kalktı"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ve kaldırıp taşıdılar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aranı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aranı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:24.682732377Z",
+  "model": "glm-5.3"
+}

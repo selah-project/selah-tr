@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Gece yarısı kalkıp sana şükredeceğim, doğru hükümlerin için.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "yarısı"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "kalkıp"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "şükredeceğim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hükümlerin"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "doğru"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:35.865255623Z",
+  "model": "glm-5.3"
+}

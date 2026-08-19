@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Böylece Elohim'in ve insanın gözünde lütuf ve iyi anlayış ⟨bulacaksın⟩.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ve bulacaksın"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ve anlayış"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ve insanın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:01.805737535Z",
+  "model": "glm-5.3"
+}

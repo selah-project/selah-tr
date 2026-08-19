@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "David'in. Yahve, kayam, övgüye layıktır; savaş için ellerimi, çarpışma için parmaklarımı eğiten ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David'in"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "övgüye layık"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kayam"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "eğiten"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerimi"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "savaş için"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "parmaklarımı"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "çarpışma için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:53.442220893Z",
+  "model": "glm-5.3"
+}

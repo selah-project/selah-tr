@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Moav, Ahav'ın ölümünden sonra Yisrael'e karşı isyan etti.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "isyan etti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael'e karşı"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:19.417893952Z",
+  "model": "glm-5.3"
+}

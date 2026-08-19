@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Çünkü buyruk üstüne buyruk, buyruk üstüne buyruk, ölçü ipi üstüne ölçü ipi, ölçü ipi üstüne ölçü ipi; burada biraz, orada biraz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "צו",
+      "gloss": "buyruk"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "üstüne buyruk"
+    },
+    {
+      "surface": "צו",
+      "gloss": "buyruk"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "üstüne buyruk"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ölçü ipi"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "üstüne ölçü ipi"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ölçü ipi"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "üstüne ölçü ipi"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "biraz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "biraz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:10.408495224Z",
+  "model": "glm-5.3"
+}

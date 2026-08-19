@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 85,
+  "translation": "Dinleyeceğim, ne diyecek ⟨⟨the⟩⟩ El Yahve; çünkü halkına ve hasidlerine şalom söyleyecek — ve geri dönmesinler ⟨⟨to⟩⟩ ahmaklığa.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "dinleyeceğim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "diyecek"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "söyleyecek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkına"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ⟨to⟩"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidlerine"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ← (olumsuzluk: 'gitmesin')"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "dönmesinler"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "ahmaklığa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.888030772Z",
+  "model": "glm-5.3"
+}

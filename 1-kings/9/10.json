@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve ⟨öyle⟩ oldu: yirmi yılın sonunda — Şelomo'nun ⟨את⟩ iki binayı inşa ettiği zaman: Yahve'nin ⟨את⟩ evini ve ⟨את⟩ kralın evini.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve ⟨öyle⟩ oldu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yılın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inşa ettiği"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo'nun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki binayı"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "binayı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kralın evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:08.014605974Z",
+  "model": "glm-5.3"
+}

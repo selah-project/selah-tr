@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 61,
+  "translation": "Yabancılar durup sürünüzü güdecek, yabancı oğulları çiftçileriniz ve bağcılarınız olacak.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "durup... olacak"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "Yabancılar"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "güdecek"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "sürünüzü"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "çiftçileriniz"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "bağcılarınız"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:36.794605075Z",
+  "model": "glm-5.3"
+}

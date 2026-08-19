@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "çünkü ⟨את⟩ büyük adını ve ⟨את⟩ güçlü elini ve uzatılmış kolunu duyacaklar; ve gelip bu eve doğru dua edecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "duyacaklar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adının"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elinin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ve kolun"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "uzatılmış"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ve gelince"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "dua edecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–e doğru"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:10.335655848Z",
+  "model": "glm-5.3"
+}

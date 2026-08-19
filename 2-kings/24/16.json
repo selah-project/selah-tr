@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve bütün yiğit adamları ⟨את⟩ — yedi bin — ve zanaatkârı ve çilingiri — bin — hepsi savaş yapan yiğitlerdi; onları Babil kralı sürgün olarak Babil'e getirdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün yiğit adamları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "yiğit"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bin"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ve zanaatkârı"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "ve çilingiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "yiğitler"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ve onları getirdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "sürgün"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babil'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:09.187896672Z",
+  "model": "glm-5.3"
+}

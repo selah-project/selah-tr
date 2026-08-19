@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Sen de, ⟨את⟩ ahdinin kanıyla, esirlerini içinde su olmayan çukurdan saldım.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdinin kanı"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kanıyla"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "ahdinin"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "saldım"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "esirlerini"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "çukurdan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:48:52.803077751Z",
+  "model": "glm-5.3"
+}

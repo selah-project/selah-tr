@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "İyi ve doğru ⟨is⟩ Yahve; bu yüzden günahkârları yolda öğretir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "İyi"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ve doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "bu yüzden… -e göre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "…bu yüzden"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "öğretir"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahkârları"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:38.145700402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve onları ⟨את⟩ yığın yığın topladılar ve yer koktu.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "ve topladılar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yığınlar"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "yığın"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "yığın"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "ve koktu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:01.417130875Z",
+  "model": "glm-5.3"
+}

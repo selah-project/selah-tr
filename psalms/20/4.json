@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Bütün tahıllarını ve yakmalık kurbanını lütuyla kabül etsin. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "hatırlasın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "tahıllarını"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "ve yakmalık kurbanını"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "lütuyla kabül etsin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:26.020753172Z",
+  "model": "glm-5.3"
+}

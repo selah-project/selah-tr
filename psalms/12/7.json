@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yahve'nin sözleri saf sözlerdir: yerdeki ocakta eritilmiş gümüş gibi, yedi kez arıtılmış.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "saf"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "eritilmiş"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "ocakta"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerdeki"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "arıtılmış"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "yedi kez"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:47.477770329Z",
+  "model": "glm-5.3"
+}

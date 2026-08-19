@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kuluna ihsanda bulun, yaşayayım ve senin sözünü koruyayım.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "ihsanda bulun"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨iligi: -a⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "yaşayayım"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ve koruyayım"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözünü"
+    }
+  ],
+  "timestamp": "2026-08-19T12:37:10.604281298Z",
+  "model": "glm-5.3"
+}

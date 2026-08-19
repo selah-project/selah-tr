@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Tembelin canı arzu duyar ama ⟨hiçbir şey⟩ yoktur; çalışkanların canı ise semiz ⟨olur⟩.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "arzu duyar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ama yok"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canı"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tembelin"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ama can"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "çalışkanların"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "semiz olur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:50.303102834Z",
+  "model": "glm-5.3"
+}

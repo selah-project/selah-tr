@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Yüceden gönderdi, beni aldı; beni sulardan çoğundan çekip çıkardı.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yüceden"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "beni aldı"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "beni çekip çıkardı"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "sulardan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoğundan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:37.624254019Z",
+  "model": "glm-5.3"
+}

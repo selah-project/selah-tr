@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 141,
+  "translation": "Mizmor, Davud'a ait. Yahve, sana seslendim; acele et bana; çağırdığımda sesime kulak ver.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "sana seslendim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "acele et"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sesime"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "çağırdığımda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:56.345612644Z",
+  "model": "glm-5.3"
+}

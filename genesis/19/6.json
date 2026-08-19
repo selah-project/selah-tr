@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Lot çıktı onlara karşı ⟨kapı⟩ eşiğine ve kapıyı kapattı ardına.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "eşiğe"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ve kapıyı"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "kapattı"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ardına"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:32.976455995Z",
+  "model": "glm-5.3"
+}

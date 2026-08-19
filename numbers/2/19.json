@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 2:19",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve onun ordusu, sayılmışları: kırk bin ⟨ve⟩ beş yüz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ve onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ve sayılmışları"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ve beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:38.526615941Z",
+  "model": "glm-5.3"
+}

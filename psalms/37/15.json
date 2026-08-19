@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Onların kılıcı kendi kalplerine girecek ve onların yayları kırılacak.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "onların kılıcı"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girecek"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "kendi kalplerine"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ve onların yayları"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "kırılacak"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:29.793092576Z",
+  "model": "glm-5.3"
+}

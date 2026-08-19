@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Nefret hile ile örtülür ⟨olsa da⟩, kötülüğü cemaat içinde açığa çıkar.",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "örtülür"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nefret"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "hile ile"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açığa çıkar"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "cemaat içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:02.904746536Z",
+  "model": "glm-5.3"
+}

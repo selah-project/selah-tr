@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Davud'a ait. Yahve, kavga edenlerimle ⟨את⟩ kavga et; savaşanlarımla ⟨את⟩ savaş.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "kavga et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kavga edenlerim"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "kavga edenlerim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savaşanlarım"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "savaşanlarım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:28.807246413Z",
+  "model": "glm-5.3"
+}

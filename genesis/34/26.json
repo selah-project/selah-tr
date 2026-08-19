@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve ⟨את⟩ Hamor'u ve ⟨את⟩ oğlu Şekem'i kılıcın ağzıyla öldürdüler, ve ⟨את⟩ Dinah'yı Şekem'in evinden aldılar ve çıktılar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hamor'u"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şekem'i"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "öldürdüler"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzıyla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıcın"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ve-aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah'yı"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem'in"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ve-çıktılar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:42.013839047Z",
+  "model": "glm-5.3"
+}

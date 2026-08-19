@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Gelin, dinleyin, anlatacağım; Elohim'den korkanlar, canıma yaptığı şeyi ⟨he⟩.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dinleyin"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ve anlatacağım"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "korkanlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'den"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canıma"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:46.124772144Z",
+  "model": "glm-5.3"
+}

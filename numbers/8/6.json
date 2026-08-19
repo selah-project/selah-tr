@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Levileri Yisrael oğullarının arasından al ve onları arıt ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levileri"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levileri"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ve arıt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onları ⟨אתם⟩",
+      "marks": "onları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:02.551166470Z",
+  "model": "glm-5.3"
+}

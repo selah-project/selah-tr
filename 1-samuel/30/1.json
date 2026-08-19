@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Üçüncü gün Davud ve adamları Tsiklag'a vardığında, Amalekliler Güney'e ve Tsiklag'a akın etmişler, Tsiklag'a ⟨את⟩ vurmuş ve onu ateşle ⟨את⟩ yakmışlardı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "olmuştu"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "vardığında"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag'a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ve Amalekliler"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "akın ettiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Güney'e"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve doğru"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag'a"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vurdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ve yaktılar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "ateşte yakmayı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:16.182209372Z",
+  "model": "glm-5.3"
+}

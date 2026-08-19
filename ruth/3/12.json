@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve şimdi, gerçekten ⟨şudur⟩: ben goel'im; ancak benden daha yakın bir goel de var.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hakikaten"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "daha yakın"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:30.897511673Z",
+  "model": "glm-5.3"
+}

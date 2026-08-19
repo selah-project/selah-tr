@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 23:24",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "İşte ⟨ bir ⟩ halk: dişi-aslan gibi ⟨ kalkar⟩, ve erkek-aslan gibi ⟨ yücelir⟩ — ⟨ o ⟩ yatmaz, ⟨ ta ki ⟩ parçalayıp ⟨ yiyinceye⟩ ⟨ dek⟩, ve ⟨ öldürülmüşlerin ⟩ kanını ⟨ içer⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "dişi-aslan gibi"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "⟨ kalkar⟩"
+    },
+    {
+      "surface": "וכארי",
+      "gloss": "ve erkek-aslan gibi"
+    },
+    {
+      "surface": "יתנשא",
+      "gloss": "⟨ yücelir⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatmaz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨ ta ki ⟩"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨ yiyinceye ⟩ ⟨ dek⟩"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "av\/parça"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ve kanı"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "⟨ öldürülmüşlerin ⟩"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "⟨ içer⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:38.720286868Z",
+  "model": "glm-5.3"
+}

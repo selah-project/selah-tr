@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Yine ona karşı günah işlemeye devam ettiler, kurak çölde Elyon'a baş kaldırarak.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "devam ettiler"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "günah işlemeye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona karşı"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "baş kaldırarak"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon'a"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "kurak çölde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:21.233210219Z",
+  "model": "glm-5.3"
+}

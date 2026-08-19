@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Yisrael'i ⟨את⟩ teslim edecek, Yaravam'ın günahları yüzünden — o ki günah işledi ve Yisrael'i ⟨את⟩ günaha soktu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ve teslim edecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'i"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "günahları"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam'ın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah işledi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "günaha soktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'i"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:03.207982611Z",
+  "model": "glm-5.3"
+}

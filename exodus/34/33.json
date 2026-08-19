@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Moşe ⟨את⟩ onlarla konuşmayı bitirince yüzünün üzerine örtüyü koydu.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "bitirince"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "konuşmayı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "örtüyü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:28.147641540Z",
+  "model": "glm-5.3"
+}

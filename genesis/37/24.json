@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve onu alıp ⟨את⟩ kuyuya attılar; kuyu ise boştu, içinde su yoktu.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ve onu aldılar"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ve attılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuyuya"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "kuyuya"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ve kuyu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "boş"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:29.914410401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim rakiaya Şamayim adını verdi; ve akşam oldu ve sabah oldu — ikinci gün.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve ad verdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiaya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Şamayim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "akşam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikinci"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:37.272512873Z",
+  "model": "glm-5.3"
+}

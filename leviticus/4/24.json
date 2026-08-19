@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve elini tekenin başına koyacak ve onu, Yakılan sunuyu Yahve'nin önünde kestikleri yerde kesecek; o bir günah sunusudur.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ve koyacak"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başına"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "tekenin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ve kesecek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (tekeyi)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kestikleri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakılan sunuyu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakılan sunuyu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:09.273579421Z",
+  "model": "glm-5.3"
+}

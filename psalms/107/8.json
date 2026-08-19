@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "İnsanoğullarına ettiği şaşılası işler için ve gönül sevgisi için Yahve'ye şükretsinler.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "şükretsinler"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "gönül sevgisi"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ve şaşılası işler"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanoğlu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:00.296347408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Bunlar Yahve'nin belirlediği vakitleridir, kendi vakitlerinde ilan edeceğiniz kutsal çağrılar:",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "vakitleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "çağrılar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ilan edeceksiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "kendi vakitlerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:13.277672586Z",
+  "model": "glm-5.3"
+}

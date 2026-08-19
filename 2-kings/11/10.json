@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve kâhin, Yahve'nin evinde olan, kral Davud'a ait ⟨את⟩ mızrakları ve ⟨את⟩ kalkanları yüzbeyler komutanlarına verdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "komutanlarına"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "yüzbeylerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mızrakları"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "mızrakları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kalkanları"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "kalkanları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krala ait"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:55.516674094Z",
+  "model": "glm-5.3"
+}

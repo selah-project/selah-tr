@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve oradaki sunakların üzerindeki bütün bamot kâhinlerini ⟨את⟩ kurban etti ve onların üzerine ⟨את⟩ insan kemiklerini yaktı; ve Yeruşalayim'e döndü.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ve kurban etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bamot kâhinlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kâhinlerini"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerindeki"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "sunaklar"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ve yaktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insan kemiklerini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzerine"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve döndü"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:43.889239953Z",
+  "model": "glm-5.3"
+}

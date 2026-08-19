@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve halk, onu vuran ⟨kimseye⟩ dönmedi, ve Yahve Tsvaot'u ⟨את⟩ aramadılar.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ve halk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dönmedi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "onu vuran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Tsvaot'u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "aramadılar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:39.659845998Z",
+  "model": "glm-5.3"
+}

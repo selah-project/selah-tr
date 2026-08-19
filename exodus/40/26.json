@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve altın sunağı ⟨את⟩ toplantı çadırında, perdenin önüne koydu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altın sunağı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunağı"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırında"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdenin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:16.496455264Z",
+  "model": "glm-5.3"
+}

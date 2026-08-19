@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Kötüler ot gibi bitip serpildiğinde ve bütün bozgunculuk işleyenler çiçek açtığında — sonsuza dek yok edilmek ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "bitip serpildiğinde"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ot"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ve çiçek açtılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işleyenler"
+    },
+    {
+      "surface": "און",
+      "gloss": "bozgunculuk"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "yok edilmek için"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sonsuza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:30.713403008Z",
+  "model": "glm-5.3"
+}

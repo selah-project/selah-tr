@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "İçindeki kadınları ⟨את⟩ — küçükten büyüğe kadar — esir almışlar, hiçbir kişiyi öldürmemişler, onları sürükleyip yollarına gitmişlerdi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "esir aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadınlar"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kadınları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "küçükten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "öldürdüler"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiçbir kişi"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "sürüklediler"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ve gittiler"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "yollarına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:16.182539054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Ağızlarının günahı, dudaklarının sözü ⟨için⟩; kibirliliklerinde yakalanılsınlar, ve lanetten ve yalandan söz etsinler.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "günah"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ağızlarının"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dudaklarının"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "yakalanılsınlar"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "kibirliliklerinde"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ve lanetten"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "ve yalandan"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "söz etsinler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:58.379849629Z",
+  "model": "glm-5.3"
+}

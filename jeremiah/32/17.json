@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 32:17",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ah, Adonay Yahve! İşte, ⟨sen⟩ ⟨את⟩ gökleri ve ⟨את⟩ yeri yarattın büyük gücünle ve uzatılmış kolunla; hiçbir şey senden olağanüstü olmayacaktır.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yarattın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gökleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "gücünle"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "ve kolunla"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "uzatılmış"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "olağanüstü olacak"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir şey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "şey"
+    }
+  ],
+  "timestamp": "2026-08-19T10:13:48.222688950Z",
+  "model": "glm-5.3"
+}

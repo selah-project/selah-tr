@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Bu ay sizin için ayların başıdır; yılın aylarının ilki ⟨olan ay⟩ sizin için odur.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ayların"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "aylarının"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yılın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:18.392867323Z",
+  "model": "glm-5.3"
+}

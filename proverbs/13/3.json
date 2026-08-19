@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ağzını koruyan canını korur; dudaklarını açan için yıkım ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "koruyan"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "açan"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "dudaklarını"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:50.302978071Z",
+  "model": "glm-5.3"
+}

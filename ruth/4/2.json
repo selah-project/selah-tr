@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve şehrin ihtiyarlarından on adam aldı ve dedi: Oturun buraya. Ve oturdular.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ve aldı"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ihtiyarlarından"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "oturun"
+    },
+    {
+      "surface": "פה",
+      "gloss": "buraya"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ve oturdular"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:42.350662234Z",
+  "model": "glm-5.3"
+}

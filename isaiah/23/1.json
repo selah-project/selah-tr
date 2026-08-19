@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Tsor yükü. Ululayın, Tarşiş gemileri, çünkü harap edildi: evsiz ⟨ev⟩ yok, girişten ⟨yok⟩; Kitim ülkesinden onlara bildirildi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yükü"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Ululayın"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "gemileri"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşiş"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "harap edildi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evsiz"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "girişten"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "bildirildi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:35.254846401Z",
+  "model": "glm-5.3"
+}

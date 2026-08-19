@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve kral ve bütün halk, Yahve'nin önünde kurban kesiyorlardı.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ve kral"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "kurban kesiyorlardı"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:03.855064148Z",
+  "model": "glm-5.3"
+}

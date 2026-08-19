@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Tofet'i kirletti, ki o Bin-Hinom vadisindedir, hiçbir adam oğlunu ⟨את⟩ ve kızını ⟨את⟩ ateşte Moleh'e geçirmesin diye.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "ve kirletti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet'i"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "vadisinde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "için değil"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "geçirmek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kızını"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kızını"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Moleh'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:38.772218228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Moşe, Yahve'nin ağzına göre, buyrulduğu gibi onları saydı.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "saydı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e göre"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyrulduğu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:51.287925663Z",
+  "model": "glm-5.3"
+}

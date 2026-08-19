@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 2:9",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Âşıklarının peşinden koşacak ama ⟨את⟩ onlara yetişemeyecek; onları arayacak ama bulamayacak. O zaman diyecek: «Gidip ilk kocama döneceğim, çünkü o zaman bana şimdikinden iyi idi.»",
+  "tokens": [
+    {
+      "surface": "ורדפה",
+      "gloss": "koşacak-peşinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "âşıkları"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "âşıklarının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve-ama"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "yetişemeyecek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlara"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "ve-onları-arayacak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve-ama"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bulamayacak"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ve-diyecek"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "gideceğim"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "ve-döneceğim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-kocama"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "kocama"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o-zaman"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "şimdikinden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:54.384564315Z",
+  "model": "glm-5.3"
+}

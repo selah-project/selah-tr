@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Onun önünde çölden gelenler diz çökecek, ve düşmanları toprağı yalayacak.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünde"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "diz çökecekler"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "çöl halkı"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "ve düşmanları"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toprağı"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "yalayacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:02.691018162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Hetzron ⟨את⟩ Ram'ın babası oldu, ve Ram ⟨את⟩ Amminadav'ın babası oldu.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "ve Hetzron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram'ın"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram'ın"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ve Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav'ın"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:24.992102914Z",
+  "model": "glm-5.3"
+}

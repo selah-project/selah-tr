@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Böylece onların kalbini sıkıntıyla alçalttı; tökezlediler ve ⟨hiç⟩ yardımcı yoktu.",
+  "tokens": [
+    {
+      "surface": "ושבע בעמל",
+      "gloss": "Böylece… sıkıntıyla"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "alçalttı"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onların kalbini"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "tökezlediler"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yardımcı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:57.516510686Z",
+  "model": "glm-5.3"
+}

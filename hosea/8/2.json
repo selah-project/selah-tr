@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Bana ⟨⟨they⟩⟩ sesleniyorlar: 'Ey Elohim'im, seni tanıyoruz, ey İsrail'in ⟨⟨God⟩⟩!'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "sesleniyorlar \/ haykırıyorlar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "seni tanıyoruz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:19.937957475Z",
+  "model": "glm-5.3"
+}

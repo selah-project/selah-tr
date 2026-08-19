@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "O'na yeni bir şarkı söyleyin; bağırarak çağırarak güzelce çalın.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'na"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "güzelce yapın"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "çalın"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "bağırış çağırışla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:21.682176445Z",
+  "model": "glm-5.3"
+}

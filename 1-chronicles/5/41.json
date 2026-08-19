@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve-Yehotsadak sürgüne gitti, Yahve Yahuda'yı ve Yeruşalayim'i Nevukadnetsar'ın eli ⟨ile⟩ ⟨את⟩ sürdüğünde.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Ve-Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "sürgünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda'yı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda'yı"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ve-Yeruşalayim'i"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elin ⟨ile⟩"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsar'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:55:28.500505330Z",
+  "model": "glm-5.3"
+}

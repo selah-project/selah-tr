@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kendi gözlerinde bilge olma; Yahve'den ⟨את⟩ kork ve kötülükten uzaklaş.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ol"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "kendi gözlerinde"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kork"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ve uzaklaş"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kötülükten"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:17.940922952Z",
+  "model": "glm-5.3"
+}

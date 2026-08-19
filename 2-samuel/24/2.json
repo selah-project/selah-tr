@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve kral, yanındaki ordu komutanı Yoav'a dedi: Şimdi lütfen İsrail'in bütün oymaklarında Dan'dan Beer-Şeva'ya dek dolaş ve ⟨את⟩ halkı sayayım diye kaydet ki, ⟨את⟩ halkın sayısını bileyim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "komutan"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ordunun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yanında"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "dolaş"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "oymaklarında"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan'dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve dek"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "ve kaydedin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "ve bileyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayısını"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayısını"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:02.231047366Z",
+  "model": "glm-5.3"
+}

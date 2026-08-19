@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 110,
+  "translation": "Adonay ⟨⟨senin⟩⟩ sağında ⟨⟨dursun⟩⟩; öfke gününde kralları paramparça edecek.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağında"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "paramparça edecek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesinin"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kralları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:56.245265940Z",
+  "model": "glm-5.3"
+}

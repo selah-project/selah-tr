@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Böyledir — onları fırtınanla kovala ve boranınla dehşete düşür.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "böyledir"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "onları kovala"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "fırtınanla"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ve boranınla"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "onları dehşete düşür"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:20.817626906Z",
+  "model": "glm-5.3"
+}

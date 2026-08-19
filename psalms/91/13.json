@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Aslan ve engerek üzerine basacaksın; genç aslan ve dragonu çiğneyeceksin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "aslan"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ve engerek"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "basacaksın"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "çiğneyeceksin"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "genç aslan"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ve dragonu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:17.665973852Z",
+  "model": "glm-5.3"
+}

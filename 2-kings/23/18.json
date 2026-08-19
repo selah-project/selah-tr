@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Dedi: Onu bırakın, kimse kemiklerini kıpırdatmasın. Böylece kemikleri, Şomron'dan gelen peygamberin ⟨את⟩ kemikleriyle birlikte kurtuldular.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dedi"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "bırakın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kimse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masın"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "kıpırdat"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "ve kurtuldular"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "kemikleri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peygamberin kemikleri"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kemikleri"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamberin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelen"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Şomron'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:43.888884646Z",
+  "model": "glm-5.3"
+}

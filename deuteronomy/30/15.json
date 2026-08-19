@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Bak, önüne koydum bugün ⟨את⟩ hayatı ve ⟨את⟩ iyiyi, ve ⟨את⟩ ölümü ve ⟨את⟩ kötüyü.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "koydum"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayatı"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hayatı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "iyiyi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "iyiyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ölümü"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kötüyü"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötüyü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:05:59.934642049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 65,
+  "translation": "Yerin uçlarında oturanlar senin alâmetlerinden korkarlar; sabahın ve akşamın çıkışlarını övünçle şakıtırsın.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "korkarlar"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanları"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "uçlarında"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "senin alâmetlerinden"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "çıkışlarını"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabahın"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "ve akşamın"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "övünçle şakıtırsın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:58.217183011Z",
+  "model": "glm-5.3"
+}

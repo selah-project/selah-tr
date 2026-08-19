@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Şelomo, Tsidonluların ilahı Aştoret'in ardından gitti ve Ammonluların iğrencesi Milkom'un ardından.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Aştoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilahı"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Tsidonluların"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ve ardından"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iğrencesi"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Ammonluların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:40.239182417Z",
+  "model": "glm-5.3"
+}

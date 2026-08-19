@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Alçakgönüllülere doğru hükümde yol gösterecek ve alçakgönüllülere kendi yolunu öğretecek.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "yol gösterecek"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçakgönüllülere"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "doğru hükümde"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "ve öğretecek"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçakgönüllüllere"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "kendi yolunu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:26.652174883Z",
+  "model": "glm-5.3"
+}

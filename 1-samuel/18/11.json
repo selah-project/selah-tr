@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Şaul ⟨את⟩ mızrağı fırlattı ve 'David'i duvara çakacağım' dedi; ama David iki kez yüzünden kaçtı.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "fırlattı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mızrağı"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "mızrağı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "vuracağım"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David'i"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "duvara"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "yüz çevirdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "iki kez"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:03.190400004Z",
+  "model": "glm-5.3"
+}

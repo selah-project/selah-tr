@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Zengin çoğaltmayacak, yoksul da eksiltmeyecek yarım şekelden — Yahve'nin ⟨את⟩ takdimini vermek, canlarınız için kefaret olmak üzere.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "zengin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "çoğaltmayacak"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "yoksul da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "eksiltmeyecek"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "yarımından"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "şekelin"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin takdimini"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "takdimini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kefaret olmak için"
+    },
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "canlarınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:23.886534371Z",
+  "model": "glm-5.3"
+}

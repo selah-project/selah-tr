@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve onu Elohim ruhuyla doldurdum — hikmetle, anlayışla, bilgiyle ve her türlü ⟨zanaat⟩ işiyle.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "ve doldurdum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Betzalel'i)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "hikmetle"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ve anlayışla"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ve bilgiyle"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ve her türlü"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş, zanaat"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:25.792379381Z",
+  "model": "glm-5.3"
+}

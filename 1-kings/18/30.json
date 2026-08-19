@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Eliyahu bütün halka dedi: Bana yaklaşın. Ve bütün halk ona yaklaştı; ve Yahve'nin yıkılmış ⟨olan⟩ sunağını onardı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "yaklaşın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ve yaklaştı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ve onardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunağı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "yıkılmış"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:16.778504235Z",
+  "model": "glm-5.3"
+}

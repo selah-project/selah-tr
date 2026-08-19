@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Hizmetçi kızlarını gönderdi; şehrin yüce yerlerinin doruklarından çağırıyor.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "hizmetçi kızlarını"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "çağırıyor"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "doruklarından"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "yüce yerlerinin"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "şehrin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:59.269134553Z",
+  "model": "glm-5.3"
+}

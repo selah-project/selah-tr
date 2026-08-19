@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "bir ay boyunca, sizden çıkana dek — burunlarınızdan — ve size iğrençlik olacak; çünkü içinizde olan Yahve'yi ⟨את⟩ reddettiniz ve O'nun önünde ağladınız, 'Niçin Mısır'dan çıktık?' diye.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "-e dek"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e dek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkana"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "burunlarınızdan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "iğrençlik"
+    },
+    {
+      "surface": "יען",
+      "gloss": "için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "reddettiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "içinizde"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "ve ağladınız"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "O'nun önünde"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niçin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "çıktık"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:10.431685798Z",
+  "model": "glm-5.3"
+}

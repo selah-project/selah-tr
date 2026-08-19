@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve İsrail kralı dedi: Mikayhu'yu ⟨את⟩ al ve onu şehrin önderi Amon'a ⟨את⟩ ve kralın oğlu Yo'aş'a geri götür.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikayhu'yu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayhu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "ve geri götür onu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "önderi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e doğru"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yo'aş"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:53.598617882Z",
+  "model": "glm-5.3"
+}

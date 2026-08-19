@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yahve'nin sesi alevler oyar, ateşin alevlerini.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "oyar\/yardığı çıkarır"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "alevler"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateşin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:47.070193075Z",
+  "model": "glm-5.3"
+}

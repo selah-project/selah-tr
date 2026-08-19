@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Baal'ın dikili taşını yıktılar ve Baal Evi'ni yıktılar; onu bugüne kadar bir tuvalet yaptılar.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ve yıktılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikili taşı"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "dikili taşı"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal'ın"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ve yıktılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evi'ni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Evi'ni"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ve yaptılar onu"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "tuvalete"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu güne"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:45.712757662Z",
+  "model": "glm-5.3"
+}

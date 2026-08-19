@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve tahıllarını ⟨את⟩ eşeklerinin üzerine yüklediler ve oradan gittiler.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "yüklediler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahıllarını"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "tahıllarını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "eşeklerinin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "gittiler"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:19.282417129Z",
+  "model": "glm-5.3"
+}

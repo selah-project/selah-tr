@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Çünkü şimdiye dek dinlenmeye ve Yahve Elohim'inin sana verdiği mirasa gelmiş değilsiniz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "gelmiş değilsiniz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "dinlenme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "miras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veriyor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:24.248276139Z",
+  "model": "glm-5.3"
+}

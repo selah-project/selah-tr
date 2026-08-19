@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Yahve'nin eli Aşdodluların üzerine ağır bastı ve onları harap etti; onları basur yaralarıyla vurdu — ⟨את⟩ Aşdod'u ve ⟨את⟩ sınırlarını.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ağır bastı"
+    },
+    {
+      "surface": "יד",
+      "gloss": "eli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "Aşdodluların"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "harap etti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "basur yaralarıyla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşdod'u"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Aşdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sınırlarını"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sınırlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:30.093549752Z",
+  "model": "glm-5.3"
+}

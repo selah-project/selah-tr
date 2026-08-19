@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Nerede ⟨is⟩ Chamat kralı, ve Arfad kralı, ve Sefarvayim şehrinin kralı, Hena ve Ivva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ve kralı"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arfad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ve kralı"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şehrinin"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ve Ivva"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:12.268804775Z",
+  "model": "glm-5.3"
+}

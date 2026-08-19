@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve bu tahının töresidir: Aharon'un oğulları onu Yahve'nin önünde, sunağın yüzü önüne ⟨את⟩ arz etsinler.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ve bu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "töresidir"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tahının"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "arz etsinler"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (tahını)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:17.171399259Z",
+  "model": "glm-5.3"
+}

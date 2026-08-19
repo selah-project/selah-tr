@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Çölü su göllerine çevirir, ve kurak toprağı su kaynaklarına.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "çevirir"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çölü"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "göllere"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ve toprağı"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kurak"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "kaynaklarına"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:04.614814434Z",
+  "model": "glm-5.3"
+}

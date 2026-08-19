@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "«Ve kurbağalar senden, evlerinden, kullarından ve halkından çekip gidecekler; yalnız ırmakta kalacaklar.»",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "ve çekip gidecekler"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kurbağalar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "ve evlerinden"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "ve kullarından"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "ve halkından"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ırmakta"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "kalacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:06.327299608Z",
+  "model": "glm-5.3"
+}

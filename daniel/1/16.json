@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve böylece görevli ⟨את⟩ tamlıklarını ve içeceklerinin şarabını kaldırıp onlara baklagiller veriyordu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve böylece"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "görevli"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kaldırıp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamlıklarını"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "tamlıklarını"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ve şarabını"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "içeceklerinin"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "veriyordu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "baklagiller"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:40.787792908Z",
+  "model": "glm-5.3"
+}

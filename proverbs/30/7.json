@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Senden iki şey istedim; beni mahrum etme, ölmeden önce ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "istedim"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ Senden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yok"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "mahrum etme"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "beni"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ölmeden önce"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ölmeden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:50.094042199Z",
+  "model": "glm-5.3"
+}

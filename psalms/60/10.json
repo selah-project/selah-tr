@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Moav benim yıkanma kazanım; Edom üzerine sandaletimi atacağım; benim için bağır Peleşet!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kazan"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yıkanmamın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "atacağım"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandaletim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleşet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "bağır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:06.129392411Z",
+  "model": "glm-5.3"
+}

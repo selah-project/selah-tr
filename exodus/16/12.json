@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Yisrael oğullarının yakınmalarını işittim; onlara şöyle söyle: ikindiler arasında et yiyeceksiniz ve sabah ekmekle doyacaksınız; ve Yahve ⟨⟨ben⟩⟩ Elohim'iniz olduğunu bileceksiniz.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "işittim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakınmaları"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "yakınmaları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ikindiler"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ve sabah"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "doyacaksınız"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ve bileceksiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:55.317420685Z",
+  "model": "glm-5.3"
+}

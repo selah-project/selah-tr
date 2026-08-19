@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Şimşekleri dünyayı aydınlattı, ⟨dünya⟩ gördü ve yeryüzü titredi.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "aydınlattılar"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "şimşekleri"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyayı"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ve titredi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.760501350Z",
+  "model": "glm-5.3"
+}

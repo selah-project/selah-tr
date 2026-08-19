@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ben bildirdim ve kurtardım ve duyurdum; sizin aranızda yabancı ⟨bir ilah⟩ yoktu. Sizler benim tanıklarımsınız, Yahve'nin bildirisi; ve ben El'im.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "bildirdim"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ve kurtardım"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "ve duyurdum"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizin aranızda"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ve sizler"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "benim tanıklarım(sınız)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bildirisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:44.012230335Z",
+  "model": "glm-5.3"
+}

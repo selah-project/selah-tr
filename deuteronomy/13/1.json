@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "⟨את⟩ bütün sözü, ki ben size buyuruyorum, ⟨את⟩ onu koruyup yapasınız diye; eklemeyeceksiniz ona ve eksiltmeyeceksiniz ondan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "buyuruyorum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "koruyup"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "koruyacaksınız"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ekleyeceksiniz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "eksilteceksiniz"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:48.270866475Z",
+  "model": "glm-5.3"
+}

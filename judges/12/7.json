@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yiftah ⟨את⟩ İsrail'i altı yıl yargıladı; sonra Yiftah Giladlı öldü ve Gilad'ın ⟨bir⟩ şehirlerine gömüldü.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ve yargıladı"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'i"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladlı"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "şehirlerinde"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:35.210296483Z",
+  "model": "glm-5.3"
+}

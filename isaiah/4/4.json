@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ki Adonay ⟨את⟩ Siyon kızlarının kirini yıkayacak ve Yeruşalayim'in ⟨את⟩ kanını onun ortasından yargı ruhuyla ve yakıp bitiren ruhla gidecek.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "yıkayacak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siyon kızlarının kirini"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kirini"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızlarının"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yeruşalayim'in kanını"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kanını"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "gidecek"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "onun ortasından"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruhuyla"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "yargı"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ve ruhla"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yakıp bitiren"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:03.406643977Z",
+  "model": "glm-5.3"
+}

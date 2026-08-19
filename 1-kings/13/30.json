@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Cesedini kendi mezarına yatırdı ve onun üzerine ağıt yaktılar: ⟨Eyvah⟩, kardeşim!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "yatırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cesedini"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "cesedini"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "kendi mezarına"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ağıt yaktılar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "⟨Eyvah⟩"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:09.777199897Z",
+  "model": "glm-5.3"
+}

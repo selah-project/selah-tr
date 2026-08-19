@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Babil yükü, ki Yeşayahu oğlu Amots gördü.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:50.948915242Z",
+  "model": "glm-5.3"
+}

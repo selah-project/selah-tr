@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 14:31",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Rahavam atalarıyla birlikte yattı ve atalarıyla birlikte Davut şehrinde gömüldü; annesinin adı Naama, Ammonlu kadındı. Yerine oğlu Aviyam kral oldu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ve yattı"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahavam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehrinde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesinin"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Naama"
+    },
+    {
+      "surface": "העמנית",
+      "gloss": "Ammonlu kadın"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ve kral oldu"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:10.336723795Z",
+  "model": "glm-5.3"
+}

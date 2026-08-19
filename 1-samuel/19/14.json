@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Şaul, Davut'u almak için elçiler gönderdi ve o dedi: Hastadır.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçiler"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "almak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davut'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut'u"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve o dedi"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "hastadır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:22.414974858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "David gençlerden birine seslendi ve dedi: Yaklaş, üzerine var. O da onu vurdu ve o öldü.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "seslendi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "birine"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "gençlerden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "גש",
+      "gloss": "yaklaş"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "üzerine var"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "onu vurdu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:42.046245001Z",
+  "model": "glm-5.3"
+}

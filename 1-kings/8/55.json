@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ayakta durdu ve ⟨את⟩ bütün İsrail cemaatini yüksek bir sesle kutsadı, şöyle derken:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ve durdu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün İsrail cemaatini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "cemaatini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yüksek bir"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle derken"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:01.565808915Z",
+  "model": "glm-5.3"
+}

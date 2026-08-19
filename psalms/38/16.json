@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Çünkü sana, Yahve, umutla bekledim; sen karşılık vereceksin, Adonay, Elohim'im.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "umutla bekledim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "karşılık vereceksin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:16.868830076Z",
+  "model": "glm-5.3"
+}

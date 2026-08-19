@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Altı gün iş yapılabilir, ama yedinci günde dinlenme-Şabat, Yahve'ye kutsal ⟨bir gündür⟩; Şabat gününde iş yapan herkes kesinlikle öldürülecektir.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapılabilir"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ve günde"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Şabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "tam dinlenme"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:27.297516478Z",
+  "model": "glm-5.3"
+}

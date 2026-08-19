@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "Şimşekleri çak da onları dağıt; oklarını sal da onları sars.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "çak"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "şimşekleri"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "da onları dağıt"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sal"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "oklarını"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "da onları sars"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:02.195009533Z",
+  "model": "glm-5.3"
+}

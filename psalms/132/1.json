@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Şiir, ma'alotlar ⟨şiiri⟩. Hatırla, Yahve, David için, ⟨את⟩ bütün sıkıntılarını.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şiir"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ma'alotlar (yükselişler)"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "hatırla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sıkıntılarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "sıkıntılarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.923526467Z",
+  "model": "glm-5.3"
+}

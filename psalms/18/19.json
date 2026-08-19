@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Belamın gününde bana öne çıktılar, ama Yahve bana dayanak oldu.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "bana öne çıktılar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "belamın"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "dayanak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:10.452067140Z",
+  "model": "glm-5.3"
+}

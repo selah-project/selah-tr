@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Yah'ı övün, Yahve'ye şükredin, çünkü ⟨O⟩ iyidir, çünkü sadakati sonsuza dek sürer.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "şükredin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sadakati"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:31.731838615Z",
+  "model": "glm-5.3"
+}

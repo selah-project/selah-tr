@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yirmiyahu'ya Yahve'den ⟨את⟩ o sözcük geldi, ⟨şöyle⟩ diyerek: — ⟨sözcük⟩ ki ⟨o⟩ oldu Yirmiyahu'ya ⟨את⟩ Yahve'den, söylemek için",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "sözcük"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söylemek için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:08:55.308258366Z",
+  "model": "glm-5.3"
+}

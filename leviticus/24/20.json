@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Kırık karşılık kırık, göz karşılık göz, diş karşılık diş; bir insanda hangi kusuru verdiyse, ona öyle verilecektir.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Kırık"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılık"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kırık"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılık"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "שן",
+      "gloss": "diş"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılık"
+    },
+    {
+      "surface": "שן",
+      "gloss": "diş"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hangi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verdiyse"
+    },
+    {
+      "surface": "מום",
+      "gloss": "kusuru"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "verilecektir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:15.230176647Z",
+  "model": "glm-5.3"
+}

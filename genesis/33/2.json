@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve cariyeleri ve ⟨את⟩ onların çocuklarını ilk olarak, ve ⟨את⟩ Lea'yı ve çocuklarını sonlara, ve ⟨את⟩ Rahel'i ve ⟨את⟩ Yusuf'u en sonlara koydu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cariyeler"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "cariyeler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "onların çocuklarını"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "onların çocuklarını"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "ilk olarak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Lea'yı"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea'yı"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ve çocuklarını"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sonlara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Rahel'i"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yusuf'u"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf'u"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "en sonlara"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:05.275859581Z",
+  "model": "glm-5.3"
+}

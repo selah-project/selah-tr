@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Yine de onları kurtardı — adı uğruna, ⟨את⟩ gücünü bildirmek için.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "ve onları kurtardı"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "bildirmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gücünü"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "gücünü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:38.433604911Z",
+  "model": "glm-5.3"
+}

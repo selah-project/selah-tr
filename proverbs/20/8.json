@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Yargı tahtına oturan bir kral, gözüyle her kötülüğü savurur.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taht"
+    },
+    {
+      "surface": "דין",
+      "gloss": "yargı"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "savurur"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "gözüyle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülülüğü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:10.560407314Z",
+  "model": "glm-5.3"
+}

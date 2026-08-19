@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Hesedine göre beni canlandır, ki ağzının edutunu koruyayım.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "hesedine göre"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "beni canlandır"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ve koruyayım"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "edutunu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:45.121768419Z",
+  "model": "glm-5.3"
+}

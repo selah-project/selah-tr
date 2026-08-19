@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Kurtuluşunda sevinçle bağıralım ve Elohim'imizin adıyla sancak dikeliz; Yahve bütün dileklerini yerine getirsin.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "sevinçle bağıralım"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "kurtuluşunda"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ve ... adıyla"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizin"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "sancak dikeliz"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "yerine getirsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "dileklerini"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:28.620019140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Yahve'nin planı sonsuza dek durur, ⟨Onun⟩ yüreğinin tasarıları nesilden nesile.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "planı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "durur"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "tasarıları"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yüreğinin"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nesilden"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nesile"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:00.029142793Z",
+  "model": "glm-5.3"
+}

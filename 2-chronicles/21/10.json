@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 21:10",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Edom Yehuda'nın eli altından bugüne kadar isyan etti; o zaman Livna da onun eli altından isyan etti, çünkü atalarının Elohim'i Yahve'yi ⟨את⟩ bırakmıştı.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "isyan etti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda'nın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "תפשע",
+      "gloss": "isyan etti"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "bıraktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarının"
+    }
+  ],
+  "timestamp": "2026-08-19T12:07:13.993778008Z",
+  "model": "glm-5.3"
+}

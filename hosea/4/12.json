@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Halkım ağacından soruyor, ve değneği ona bildiriyor; çünkü zinalıklar ruhu saptırdı, ve tanrılarının altından zina ettiler.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "soruyor"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "ve değneği"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildiriyor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zinalıkların"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "saptırdı"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ve zina ettiler"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tanrılarının"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:08.430428886Z",
+  "model": "glm-5.3"
+}

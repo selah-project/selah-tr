@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve kral Şelomo, yeryüzünün bütün krallarından zenginlikte ve hikmette büyüktü.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ve büyüktü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün... dan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "krallarından"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "zenginlikte"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "ve hikmette"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:42.075153085Z",
+  "model": "glm-5.3"
+}

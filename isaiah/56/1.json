@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 56,
+  "translation": "Böyle dedi Yahve: Hükümü koruyun ve doğruyu yapın, çünkü kurtuluşum yaklaşmıştır, gelecektir ve doğruluğum açığa çıkacaktır.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "koruyun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hükümü"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ve yapın"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "doğruyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "yaklaşmıştır"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kurtuluşum"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "gelmek için"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ve doğruluğum"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "açığa çıkmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:40.694794592Z",
+  "model": "glm-5.3"
+}

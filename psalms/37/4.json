@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve Yahve'de ⟨zevk⟩ al, ⟨O⟩ sana kalbinin dileklerini verecek.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "zevk al"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verecek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "dilekleri"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kalbinin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:27.822719310Z",
+  "model": "glm-5.3"
+}

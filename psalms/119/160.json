@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Sözünün başı gerçektir ve sonsuza dek sürer senin doğruluğunun bütün hükümleri.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözünün"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gerçektir"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ve sonsuza dek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hükümleri"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "senin doğruluğunun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:09.364840888Z",
+  "model": "glm-5.3"
+}

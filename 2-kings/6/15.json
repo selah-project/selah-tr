@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Elohim adamının hizmetkârı erkenden kalkıp çıktı; ve işte, ⟨şehri⟩ çevrelemiş bir kuvvet, atlar ve savaş arabaları. Ve genç hizmetkârı ona dedi: «Ah, efendim! Nasıl yapacağız?»",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ve erkenden kalktı"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "hizmetkârı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kalkmak için"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kuvvet"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "çevrelemiş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ve atlar"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ve savaş arabaları"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "genç hizmetkârı"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yapacağız"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:19.932955108Z",
+  "model": "glm-5.3"
+}

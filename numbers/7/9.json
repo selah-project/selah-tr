@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve Kehat oğullarına ise vermedi, çünkü kutsal hizmet onların üzerinedir; omuzda taşırlar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ve ... oğullarına"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vermedi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "hizmeti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "onların üzerinde"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "omuzda"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "taşırlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:32.775050389Z",
+  "model": "glm-5.3"
+}

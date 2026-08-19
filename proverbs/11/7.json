@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Kötü insanın ölümünde umut yiter; güçlülerin beklentisi de yitmiştir.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "ölümünde"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "yiter"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "umut"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "beklentisi de"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "güçlülerin"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "yitmiştir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:45.788399706Z",
+  "model": "glm-5.3"
+}

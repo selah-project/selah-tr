@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Her חרם'e ayrılmış olan, insanlar arasından ⟨את⟩ adanan kişi fidyeyle kurtarılamaz; ölüm cezasıyla öldürülecektir.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "חר׳em'e ayrılmış"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "adanmış"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan(lar)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "fidyeyle kurtarılabilir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:24.773843709Z",
+  "model": "glm-5.3"
+}

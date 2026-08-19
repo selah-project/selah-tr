@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Duraksayın ve şaşırın; kendinizden geçin ve kör olun; sarhoş oldular, ama şaraptan değil; sarsıldılar, ama içkiden değil.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "Duraksayın"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "ve şaşırın"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "kendinizden geçin"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "ve kör olun"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "sarhoş oldular"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şarap"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "sarsıldılar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "içki"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:49.791087734Z",
+  "model": "glm-5.3"
+}

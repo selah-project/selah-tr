@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Yahve dedi: «Yehuda çıkacak; işte, ⟨את⟩ ülkeyi onun eline verdim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "çıkacak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "onun eline"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:15.154493243Z",
+  "model": "glm-5.3"
+}

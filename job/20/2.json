@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 20:2",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Bu yüzden tasaları bana karşılık verdiriyor ve içimdeki acele yüzünden ⟨bana⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "שעפי",
+      "gloss": "tasaları"
+    },
+    {
+      "surface": "ישיבוני",
+      "gloss": "bana karşılık verdiriyor"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "ve yüzünden"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "acele"
+    },
+    {
+      "surface": "בי",
+      "gloss": "içimde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:20.228893072Z",
+  "model": "glm-5.3"
+}

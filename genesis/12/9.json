@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Avram yürüyerek ve yol alarak güneye doğru yola devam etti.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "yola devam etti"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yürüyerek"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "ve yol alarak"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "Negev'e (güneye)"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:49.570976925Z",
+  "model": "glm-5.3"
+}

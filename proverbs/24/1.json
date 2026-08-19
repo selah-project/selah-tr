@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Kötü adamlara imrenme ⟨את⟩, onlarla birlikte olmayı da arzulama.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "imrenme (olumsuz emir)"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "imrenme \/ kıskanma"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "adamlara"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ... arzulama"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "arzulama"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla birlikte (birlikte-olma yönü)"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:21.707700383Z",
+  "model": "glm-5.3"
+}

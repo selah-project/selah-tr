@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ⟨o⟩ dedi: Git, ⟨kendine⟩ dışarıdan, bütün komşularından ⟨את⟩ kaplar iste — ⟨את⟩ kapları, boş olanları — azaltma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "git"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "iste"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kendine⟩"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kaplar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "dışarı"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün komşularından (kaplar)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "komşularından"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kapları"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "boş olanları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑ma"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "azaltma"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:49.104723191Z",
+  "model": "glm-5.3"
+}

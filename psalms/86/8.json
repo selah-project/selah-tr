@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Yoktur senin gibi Elohim arasında, Adonay; ve yoktur işlerin gibi ⟨işler⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "senin gibi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim arasında"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "işlerin gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:07.828472237Z",
+  "model": "glm-5.3"
+}

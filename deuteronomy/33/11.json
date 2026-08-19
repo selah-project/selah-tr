@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ya\nhve, onun gücünü kutsasın ve ellerinin işini hoş görsün; onunla savaşanların belini ez, onun nefret ettiklerini de ayağa kalkmasınlar diye.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "kutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ya\nhve"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "onun gücünü"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ve işini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "hoş gör"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "bel"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "ona kalkanların"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ve ondan nefret edenlerin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den dolayı"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "kalkmasınlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:17.808865738Z",
+  "model": "glm-5.3"
+}

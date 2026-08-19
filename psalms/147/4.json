@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Yıldızların sayısını sayar, hepsine adlarını verir.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "sayar"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayısını"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "yıldızların"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "hepsine"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarını"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "verir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:17.301900584Z",
+  "model": "glm-5.3"
+}

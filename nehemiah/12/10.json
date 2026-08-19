@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yeşu ⟨את⟩ Yoyakim'i babası oldu, ve Yoyakim ⟨את⟩ Elyaşiv'i babası oldu, ve Elyaşiv ⟨את⟩ Yoyada'nın babasıydı.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Ve Yeşu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "ve Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaşiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyaşiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "ve Elyaşiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-08-19T11:51:56.708174267Z",
+  "model": "glm-5.3"
+}

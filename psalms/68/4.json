@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Ve sadıklar sevinç duyup Elohim'in önünde coşsunlar, sevinçle zıplasınlar.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "ve sadıklar"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinç duysunlar"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "coşsunlar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "zıplasınlar"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sevinçle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:37.469420609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve düşmanlarım diri ⟨ve⟩ güçlendiler, yalancıcasına benden nefret edenler çoğaldı.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "ve düşmanlarım"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "diri"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "güçlendiler"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ve çoğaldı"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "benden nefret edenler"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalancıcasına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:18.374700608Z",
+  "model": "glm-5.3"
+}

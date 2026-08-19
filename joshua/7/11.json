@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "İsrail günah işledi, ve ayrıca ahdimi ⟨את⟩ geçtiler, ki ⟨את⟩ onları buyurdum; ve ayrıca heremden aldılar, ve ayrıca çaldılar, ve ayrıca yalan söylediler, ve ayrıca kendi kaplarına koydular.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "günah işledi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "geçtiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "buyurdum"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "herem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "çaldılar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "yalan söylediler"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "koydular"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "kendi kaplarına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:00.863760922Z",
+  "model": "glm-5.3"
+}

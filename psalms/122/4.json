@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 122,
+  "translation": "Çünkü oraya çıktılar kabileler — Yah'nın kabileleri — İsrail'e bir tanıklık olarak, Yahve'nin adına şükretmek için.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "çünkü oraya"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "çıktılar"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "kabileler"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabileleri"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "tanıklık"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrail'e"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "şükretmek için"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:11:03.009857206Z",
+  "model": "glm-5.3"
+}

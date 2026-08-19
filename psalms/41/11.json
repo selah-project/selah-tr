@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Ve sen, Yahve, bana lütfet ve beni kaldır; ve ben de onlara karşılığını ödeyeceğim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "bana lütfet"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "ve beni kaldır"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "ve karşılığını ödeyeceğim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:46.012946690Z",
+  "model": "glm-5.3"
+}

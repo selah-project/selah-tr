@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Bütünlükte yürüyen güvenle yürür; ama yollarını eğrilten bilinecek.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "bütünlükte"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yürür"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "güvenle"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "ama eğrilten"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilinir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:43.017853285Z",
+  "model": "glm-5.3"
+}

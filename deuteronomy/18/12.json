@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Çünkü bunları yapan herkes Yahve için iğrençliktir ve bu iğrençlikler yüzünden Yahve Elohim'in onları ⟨את⟩ senin yüzünden miras olarak sürüp çıkarıyor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "iğrençliktir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "ve ... yüzünden"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "iğrençlikler"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "sürüp çıkarıyor"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (ulusları)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "senin yüzünden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:51.522718188Z",
+  "model": "glm-5.3"
+}

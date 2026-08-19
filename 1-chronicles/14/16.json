@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve David Elohim'in kendisine buyurduğu gibi yaptı ve Peleştimliler ordusunu ⟨את⟩ Givon'dan Gezer'e kadar vurdular.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ve vurdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleştimliler ordusunu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştimliler"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "Givon'dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer'e"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:05.587640474Z",
+  "model": "glm-5.3"
+}

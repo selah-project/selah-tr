@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Kendiliğinden biteni ⟨את⟩ hasadının biçmeyeceksin ve ⟨את⟩ kendine ayırdığın asmanın üzümlerini toplamayacaksın; şabat yılı olacak ⟨o⟩ toprak için.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kendiliğinden biten (hasat artığı)"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "kendiliğinden biten (hasat artığı)"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "hasadın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "biçmeyeceksin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "üzümler"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "üzümleri"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "ayırdığın (bakılmayan asmanın)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "toplamayacaksın"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "yılı"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "şabat (tam dinlenme)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "toprak için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:59.551618253Z",
+  "model": "glm-5.3"
+}

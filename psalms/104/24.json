@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Ne çoktur yapıtların, Yahve! Hepisini bilgelikle yaptın; yeryüzü edinçlerinle dolu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoktur"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "yapıtların"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsini"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "bilgelikle"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "edinçlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:11.729368916Z",
+  "model": "glm-5.3"
+}

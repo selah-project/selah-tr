@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Vay kötüye 'iyi' diyenlere ve iyiye 'kötü'; karanlığı ışığa koyanlara ve ışığı karanlığa; acıyı tatlıya koyanlara ve tatlıyı acıya!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "diyenlere"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kötüye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "'iyi'"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "ve iyiye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "'kötü'"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "koyanlara"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlığı"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ışığa"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ve ışığı"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "karanlığa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "koyanlara"
+    },
+    {
+      "surface": "מר",
+      "gloss": "acıyı"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "tatlıya"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ve tatlıyı"
+    },
+    {
+      "surface": "למר",
+      "gloss": "acıya"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:08.393550251Z",
+  "model": "glm-5.3"
+}

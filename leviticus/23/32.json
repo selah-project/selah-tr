@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Size Şabat Şabaton'dur ⟨o⟩; canlarınızı ezeceksiniz ⟨את⟩; ayın dokuzuncu ⟨gününde⟩ akşamda, akşamdan akşama Şabat'ınızı şabat kılacaksınız.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Şabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Şabaton (tam dinlenme)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o(dur)"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ve ezeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlarınızı"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "canlarınızı"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "dokuzuncu(sunda)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "akşamda"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "akşamdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "akşama"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "şabat kılacaksınız"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Şabat'ınızı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:51.029733768Z",
+  "model": "glm-5.3"
+}

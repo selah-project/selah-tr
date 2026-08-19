@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Hiç mi kurtardı ulusların ilahları her biri ⟨את⟩ kendi ülkesini Aşşur kralının elinden?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "hiç mi kurtardı"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "kurtardılar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilahları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kendi ülkesini"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "kendi ülkesini"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:55.488660938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Ay'ı bayram zamanları için yaptı; güneş batışını bilir.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Ay'ı"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "bayram zamanları için"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "batışını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:20.330777448Z",
+  "model": "glm-5.3"
+}

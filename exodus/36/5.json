@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Moşe'ye söyleyip dediler: «Halk, Yahve'nin yapılmasını buyurduğu ⟨את⟩ o iş için ⟨את⟩ hizmetin gereğinden fazlasını getirmeye devam ediyor.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "söyleyip dediler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "fazla getiriyorlar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "getirmeye"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "yeteğinden fazlasını"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "hizmet"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "işe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "o işi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:04.243295791Z",
+  "model": "glm-5.3"
+}

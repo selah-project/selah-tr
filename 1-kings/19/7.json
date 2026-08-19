@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Yahve'nin meleği ikinci kez döndü ve ona dokundu ve dedi: Kalk, ye, çünkü ⟨⟨senin için⟩⟩ yol çok ⟨uzun⟩dur.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve döndü"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "melek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci kez"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ve dokundu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senin için"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yol"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:07.748759789Z",
+  "model": "glm-5.3"
+}

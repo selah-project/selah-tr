@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Moşe ⟨את⟩ bütün bu sözleri bütün Yisraěl'e söylemeyi bitirdi.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "bitirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "söylemeyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu sözleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–e doğru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraěl"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:01.135198202Z",
+  "model": "glm-5.3"
+}

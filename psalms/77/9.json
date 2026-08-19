@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Tükenmiş mi sonsuza dek O'nun merhameti? Sözü sona mı geldi kuşak kuşağa?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Tükenmiş mi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "O'nun merhameti"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "sona mı geldi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuşağa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kuşak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:49.292419634Z",
+  "model": "glm-5.3"
+}

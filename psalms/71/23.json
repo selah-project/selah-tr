@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Dudaklarım coşkuyla şakıyacak, çünkü sana ezgi söyleyeceğim; ve canım ⟨nefesh'im⟩, ki sen onu kurtardın.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "coşkuyla şakıyacak"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudaklarım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ezgi söyleyeceğim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ve canım"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "kurtardın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:02.933447637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Şem, ⟨את⟩ Arpakşad'ı doğurduktan sonra beş yüz yıl yaşadı ve oğullar ile kızlar doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ve yaşadı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "onun doğurması"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakşad'ı"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakşad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ve kızlar"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:54.761006185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Çünkü onu kutsamalar kılarsın ebediyen; onu sevindirirsin sevinçle, ⟨את⟩ yüzünün ⟨huzuruyla⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "kılarsın onu"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "kutsamalar"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "sevindirirsin onu"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sevinçle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünün"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:53.504738091Z",
+  "model": "glm-5.3"
+}

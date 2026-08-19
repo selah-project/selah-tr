@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "«Şimdi kalkacağım» diyor Yahve, «şimdi yüceltileceğim, şimdi göklere çekileceğim.»",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "kalkacağım"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "yüceltileceğim"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "yükseleceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:14.522348759Z",
+  "model": "glm-5.3"
+}

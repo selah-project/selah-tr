@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve gebe kaldı ve bir oğul doğurdu ve dedi: Elohim utancımı kaldırdı.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ve gebe kaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "kaldırdı\/topladı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utancımı"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "utancım"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:12.720500278Z",
+  "model": "glm-5.3"
+}

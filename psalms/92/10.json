@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Çünkü bak, düşmanın Yahve; çünkü bak, düşmanın ⟨yok⟩ olurlar; ⟨her⟩ kötülük işleyenler dağılırlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmanın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmanın"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yok olurlar"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "dağılırlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her \/ bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işleyenler"
+    },
+    {
+      "surface": "און",
+      "gloss": "kötülük \/ avẩn"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:20.402908669Z",
+  "model": "glm-5.3"
+}

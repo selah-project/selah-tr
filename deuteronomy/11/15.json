@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve tarlanızda hayvanınız için ot vereceğim; ve yiyeceksin ve doyacaksın.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ve vereceğim"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ot"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "tarlanızda"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "hayvanınız için"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ve yiyeceksin"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ve doyacaksın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:21.826076941Z",
+  "model": "glm-5.3"
+}

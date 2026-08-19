@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Hepimiz koyun gibi sapıttık, her biri kendi yoluna döndük; ve Yahve onun üzerine ⟨את⟩ hepimizin suçunu çarptırdı.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "hepimiz"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "koyun gibi"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "sabıttık"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "kendi yoluna"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "döndük"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "çarptırdı"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hepimizin suçunu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suçunu"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "hepimizin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:34:54.432910338Z",
+  "model": "glm-5.3"
+}

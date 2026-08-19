@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Yahve'nin evinin avlularında, senin ortanda, ey Yeruşalayim. Halelu Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "avlularında"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "senin ortanda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ey Yeruşalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah!"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:14.748565572Z",
+  "model": "glm-5.3"
+}

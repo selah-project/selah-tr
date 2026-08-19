@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 125,
+  "translation": "Ve eğri yollarına sapanları ise Yahve ⟨את⟩ kötülük işleyenlerle birlikte sürükleyip götürecek; şalom olsun İsrail'in üzerine.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "ve sapanları"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "eğri yollarına"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "onları götürecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötülük işleyenler"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işleyenler"
+    },
+    {
+      "surface": "האון",
+      "gloss": "kötülüğün"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:07.244955039Z",
+  "model": "glm-5.3"
+}

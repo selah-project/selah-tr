@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Elohim'imizin sanduğunu ⟨את⟩ çevirip yanımıza getirelim; çünkü Şaul'un günlerinde onu sormadık.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ve çevirip getirelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduğunu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduğunu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizin"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "yanımıza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "sormadık"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlerinde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:28.054362469Z",
+  "model": "glm-5.3"
+}

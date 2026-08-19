@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Avram, Hagar'ın Avram'a ⟨את⟩ Yişmael'i doğurduğu zaman seksen altı yaşındaydı.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "ve Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yaşında"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "seksen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "doğurduğu zaman"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yişmael'i"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yişmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avram'a"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:23.155450554Z",
+  "model": "glm-5.3"
+}

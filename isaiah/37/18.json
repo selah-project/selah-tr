@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Gerçekten, Yahve, Aşur kralları tüm ülkeleri ve onların kendi ülkelerini harabeye çevirdiler.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "harabeye çevirdiler"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm ülkeleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ülkeleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "onların ülkelerini"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "onların ülkelerini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:09.755041504Z",
+  "model": "glm-5.3"
+}

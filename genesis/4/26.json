@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Şet'e de ⟨o⟩ ⟨kendisine⟩ bir oğul doğdu ve ⟨את⟩ adını Enoş çağırdı; o zaman Yahve'nin adıyla çağırmaya başlandı.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "ve Şet'e"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoş"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "başlandı"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "çağırmaya"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:00.574286009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Hayır, yüreklerinizde kötülük işliyorsunuz; yeryüzünde ellerinizin şiddetini tartıyorsunuz.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "hayır\/evet"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "yürek içinde"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "işliyorsunuz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "şiddet"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ellerinizin"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "tartıyorsunuz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:14.371181274Z",
+  "model": "glm-5.3"
+}

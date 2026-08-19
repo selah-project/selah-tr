@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Korkma, çünkü ⟨את⟩-yanında benim; doğudan tohumunu getiririm ve batıdan seni toplarım.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-yanında"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "doğudan"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "getiririm"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tohumunu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ve batıdan"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "seni toplarım"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:34.859005706Z",
+  "model": "glm-5.3"
+}

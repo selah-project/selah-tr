@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Kral Tsadok'a dedi: «Elohim'in sandığını ⟨את⟩ şehre geri götür; Yahve'nin gözünde lütuf bulursam, ⟨o⟩ beni geri getirecek ve bana onu ⟨את⟩ ve yerini ⟨את⟩ gösterecek.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Tsadok'a"
+    },
+    {
+      "surface": "השב",
+      "gloss": "geri götür"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığını"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "bulursam"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "beni geri getirecek"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "bana gösterecek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yerini"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "yerini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:32:46.614842273Z",
+  "model": "glm-5.3"
+}

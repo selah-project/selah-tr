@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "«Üstelik gerçekten kız kardeşimdir o, babamın kızı — yalnız annemin kızı değil; ve bana eş oldu.»",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "üstelik"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kız kardeşimdir"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babamın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annemin"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "eş"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:39.281733859Z",
+  "model": "glm-5.3"
+}

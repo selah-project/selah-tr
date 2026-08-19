@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Bizi düşman karşısında geri döndürüyorsun, ve bizi nefret edenler kendi paylarına yağmalıyorlar.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "geri döndürüyorsun"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geri"
+    },
+    {
+      "surface": "מני",
+      "gloss": "karşısında"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ve bizi nefret edenler"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "yağmalıyorlar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kendi paylarına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:52.148753970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Doğunun batıdan uzaklığı kadar, suçlarımızı bizden uzaklaştırdı ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "uzaklığı kadar"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "doğu"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "batıdan"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "uzaklaştırdı"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suçlarımızı"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "suçlarımız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:53.031507497Z",
+  "model": "glm-5.3"
+}

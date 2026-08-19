@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve ⟨את⟩ masayı getirip ⟨את⟩ düzenini düzene koyacaksın, ve ⟨את⟩ kandilliği getirip ⟨את⟩ kandillerini yakacaksın.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "getireceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masayı"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masayı"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "düzenleyeceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düzenini"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "düzenini"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "getireceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandilliği"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandilliği"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "yakacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandillerini"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "kandillerini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:39.401338361Z",
+  "model": "glm-5.3"
+}

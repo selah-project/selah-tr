@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve sığırları bıraktı ve Eliyahu'nun ardından koştu ve dedi: «İzin ver, lütfen, babamı ve annemi öpeyim, sonra ardından gideyim.» Ve ona dedi: «Git, dön; çünkü sana ne yaptım ki?»",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ve bıraktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sığırları"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sığırları"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ve koştu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "öpeyim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "babamı"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "ve annemi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "gideyim"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "dön"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:12.982550518Z",
+  "model": "glm-5.3"
+}

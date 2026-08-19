@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Temiz hayvanlardan ve temiz olmayan hayvanlardan, kuşlardan ve yeryüzü üzerinde sürünen her şeyden",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvanların"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve -dan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvanların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "değildir"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve -dan"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "kuşların"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünen"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:05.479030783Z",
+  "model": "glm-5.3"
+}

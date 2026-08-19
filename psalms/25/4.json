@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yollarını bana bildir, ey Yahve; patikalarını bana öğret.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "bana bildir"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "patikalarını"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "bana öğret"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:32.907420002Z",
+  "model": "glm-5.3"
+}

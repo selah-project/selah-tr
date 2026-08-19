@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Kötü gözlünün ⟨את⟩ ekmeğini yeme, ve onun lezzetli lokmalarına tamaht etme.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yeme"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "yeme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekmeğini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözlü"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve etme"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "tamaht etme"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "onun lezzetli lokmalarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:59.146356273Z",
+  "model": "glm-5.3"
+}

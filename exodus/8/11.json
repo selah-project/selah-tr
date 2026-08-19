@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Paroh rahatlamayı görünce ⟨את⟩ kalbini ağırlaştırdı ve onları dinlemedi — Yahve'nin konuştuğu gibi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "rahatlama"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "ve ağırlaştırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalbini"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dinledi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:01.417306840Z",
+  "model": "glm-5.3"
+}

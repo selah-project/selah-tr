@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ha-Şatan, Yahve'nin yüzünden ⟨את⟩ çıkıp gitti ve İyov'u tabandan tepesine dek kötü çıbanlarla vurdu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıkıp gitti"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-Şatan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ yanından"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İyov'u"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyov"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "çıbanlarla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "tabandan"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "ayağının"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tepesine"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:17.092637587Z",
+  "model": "glm-5.3"
+}

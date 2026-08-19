@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Amminadav ⟨את⟩ Naḥshon'un babası oldu, ve Naḥshon ⟨את⟩ Salma'nın babası oldu.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "ve Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naḥshon'un"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naḥshon'un"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "ve Naḥshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma'nın"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma'nın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:24.992246375Z",
+  "model": "glm-5.3"
+}

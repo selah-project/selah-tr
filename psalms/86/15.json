@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Ve sen, Adonay, merhametli ve lütufkâr El'sin, öfkesi yavaş, ve sevgi ve sadakat bakımından zengin ⟨bir Tanrı⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "merhametli"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ve lütufkâr"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "yavaş (uzun)"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "öfkede (burun)"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ve bol"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ve sadakat"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:05.904808663Z",
+  "model": "glm-5.3"
+}

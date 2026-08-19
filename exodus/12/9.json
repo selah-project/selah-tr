@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ondan çiğ, suda haşlanmış olarak yemeyin; ancak ateşle kızartılmış ⟨yiyin⟩ — başı bacaklarının üzerinde ve iç organlarıyla.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yeme()"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemeyin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "çiğ"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "ve haşlanmış"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "pişmiş"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "kızartılmış"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "bacaklarının"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "iç organları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:19.138598072Z",
+  "model": "glm-5.3"
+}

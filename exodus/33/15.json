@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve ona dedi: Eğer yüzlerin yürümüyorsa, bizi buradan yukarı çıkarma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "değilse"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzlerin"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "yürümüyorsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "başlama"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "bizi çıkarma"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "buradan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:29.181661107Z",
+  "model": "glm-5.3"
+}

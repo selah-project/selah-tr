@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çünkü rağretsizlik isteyen bir El değilsin Sen; kötülük Sende konaklamaz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değilsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "isteyen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rağretsizlik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-maz"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "Sendekonaklamaz"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:43.510216104Z",
+  "model": "glm-5.3"
+}

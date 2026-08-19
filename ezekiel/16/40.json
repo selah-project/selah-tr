@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve üzerine bir cemaat çıkaracaklar ve seni ⟨את⟩ taşla taşlayacaklar ve kılıçlarıyla seni delip geçirecekler.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "ve çıkaracaklar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "bir cemaat"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "ve taşlayacaklar"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "seni ⟨את⟩",
+      "marks": "taşla"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "taşla"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "ve delip geçirecekler"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "kılıçlarıyla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:26:49.249131551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Çünkü canım kötülüklerle toktur, hayatım Şeol'e ulaştı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "toktur"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "kötülüklerle"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "hayatım"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şeol'e"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ulaştı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:29.768396196Z",
+  "model": "glm-5.3"
+}

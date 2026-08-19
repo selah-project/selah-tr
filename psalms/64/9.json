@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Onu kendi dilleri aleyhine düşürdüler; onları gören herkes kafa sallar.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "onu düşürdüler"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "aleyhine"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "kendi dilleri"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "kafa sallar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gören"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:57.407170004Z",
+  "model": "glm-5.3"
+}

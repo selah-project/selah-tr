@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Davud giysilerini yakaladı ve onları yırttı; onunla birlikte olan bütün adamlar da ⟨את⟩ ⟨öyle yaptılar⟩.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yakaladı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ve onları yırttı"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla birlikte olan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:39.375616254Z",
+  "model": "glm-5.3"
+}

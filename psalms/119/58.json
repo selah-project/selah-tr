@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Yüzünü ⟨bütün⟩ yüreğimle yalvararak aradım; sözün uyarınca bana lütfet.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "yalvararak aradım"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yüreğimle"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "bana lütfet"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sözün uyarınca"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:16.507373562Z",
+  "model": "glm-5.3"
+}

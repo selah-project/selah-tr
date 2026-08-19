@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Bir anda düşmanlarını diz çöktürürdüm, sıkıntılarına karşı elimi çevirirdim.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "bir anda"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "düşmanlarını"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "diz çöktürürdüm"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "sıkıntı verenlerine"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "çevirirdim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elimi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:59.112021193Z",
+  "model": "glm-5.3"
+}

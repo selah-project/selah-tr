@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Bir yol koyacaksın, kılıç gelsin diye — ⟨את⟩ Rabbat'a, Ammon oğullarının ⟨את⟩, ve ⟨את⟩ Yahuda'ya, surlu Yeruşalayim'de.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "koyacaksın"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "gelsin diye"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbat"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yahuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "surlu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:28:49.080769585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "— ⟨את⟩ Baalat'ı ve ⟨את⟩ çöldeki, ülke içindeki Tamar'ı; ⟨את⟩ Şelomo'nun tüm ambar şehirlerini, savaş arabalarının ve süvarilerin şehirlerini ve ⟨את⟩ Yeruşalayim'de, Luvnan'da ve bütün hükümranlık ülkesinde inşa etmek istediği her şeyi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çöldeki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülke içindeki"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:19.508204311Z",
+  "model": "glm-5.3"
+}

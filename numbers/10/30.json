@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ona dedi: «Gelmeyeceğim; ancak kendi ülkeme ve kendi doğduğum yere gideceğim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayır"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gideceğim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ülkeme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve doğrusu"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "doğduğum yere"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gideceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:18.457114997Z",
+  "model": "glm-5.3"
+}

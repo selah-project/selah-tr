@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Öylece döndüm, bu günlerde Yeruşalayim'e ⟨את⟩ ve Yehuda evine ⟨את⟩ iyilik etmeyi tasarladım; korkmayın!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "döndüm"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "tasarladım"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlerde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "iyilik etmeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim'e"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yehuda evine"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meyil"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "korkmayın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:49:18.755534547Z",
+  "model": "glm-5.3"
+}

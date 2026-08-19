@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve ⟨את⟩ Yahve'nin ardından geri çekilenleri, ve Yahve'yi ⟨את⟩ aramayanları — ve O'nu sormayanları.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "geri çekilenleri"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "geri çekilenleri"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve onları ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "aramadılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "O'nu sormadılar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:46:25.350915511Z",
+  "model": "glm-5.3"
+}

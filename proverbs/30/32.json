@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Kendini yüceltirken budalalık ettiysen, ya da kötülük tasarladıysan — elini ağzına koy!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "budalalık ettin"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "kendini yüceltirken"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ya da eğer"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "tasarladıysan (kötülük)"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ağıza"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:54.322638033Z",
+  "model": "glm-5.3"
+}

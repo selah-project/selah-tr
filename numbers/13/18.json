@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve ⟨את⟩ ülkeye bakacaksınız — o nedir — ve ⟨את⟩ üzerine oturan halka: ⟨o⟩ güçlü mü ⟨kendisi⟩, zayıf mı? Az mı ⟨kendisi⟩, yoksa çok mu?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "ve bakacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nedir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "halka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "güçlü mü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "zayıf mı"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "az mı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çok mu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:00.089627507Z",
+  "model": "glm-5.3"
+}

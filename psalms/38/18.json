@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Çünkü ⟨ben⟩ topallamaya ⟨mahkumum⟩, ve acım sürekli önümdedir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "topallamaya"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨mahkumum⟩"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ve acım"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "önümdedir"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:18.374471750Z",
+  "model": "glm-5.3"
+}

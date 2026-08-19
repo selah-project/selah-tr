@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Ben dedim: «Yahve, bana lütfet, canımı iyileştir; çünkü sana karşı günah işledim.»",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "bana lütfet"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "iyileştir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah işledim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:38.742008146Z",
+  "model": "glm-5.3"
+}

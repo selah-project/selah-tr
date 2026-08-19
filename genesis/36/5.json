@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve Oholivama ⟨את⟩ Yeuiş ve ⟨את⟩ Yealam ve ⟨את⟩ Korah doğurdu; bunlar Esav'ın oğullarıdır, ki Kenaan ülkesinde ona doğdular.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Ve Oholivama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeuiş"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeuiş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yealam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yealam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav'ın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "doğdular"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:00.887321642Z",
+  "model": "glm-5.3"
+}

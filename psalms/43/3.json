@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Işığını ve sadakatini gönder; onlar beni yönlendirsin, senin kutsal dağına ve meskenlerine beni getirsinler.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "gönder"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ışığını"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ve sadakatini"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "beni yönlendirsin"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "beni getirsinler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e doğru"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "meskenlerine"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:10.309357603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Susamışla karşılaşmaya su getirdiler, Tema ülkesinin sakinleri; kaçağa ekmeğiyle önden geldiler.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "karşılaşmaya"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "susamış"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "getirdiler"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinleri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesinin"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "ekmeğiyle"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "önden geldiler"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "kaçak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:55.011901873Z",
+  "model": "glm-5.3"
+}

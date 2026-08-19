@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Eğer sahibi onunla birlikteyse, ödemeyecektir; eğer ücretli ⟨bir şey⟩ ise, ücreti karşılığında ⟨gelmiştir⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikteyse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödeyecektir"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ücretli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ise"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelmiştir"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "ücreti karşılığında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:22.153013540Z",
+  "model": "glm-5.3"
+}

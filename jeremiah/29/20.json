@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve siz, Yahve'nin sözünü dinleyin, bütün sürgün — ki Yeruşalayim'den Babil'e sürdüklerim.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ve siz"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dinleyin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sürgün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "sürdüklerim"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruşalayim'den"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babil'e"
+    }
+  ],
+  "timestamp": "2026-08-19T10:12:03.347646168Z",
+  "model": "glm-5.3"
+}

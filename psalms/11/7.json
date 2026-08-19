@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü Yahve doğrudur, doğruluğu sever; dosdoğru olanlar O'nun yüzünü görecekler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğrudur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sever"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dosdoğru olanlar"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "görecekler"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "O'nun yüzünü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:21.347793886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve şehirde kalan ⟨את⟩ halkın artığını, Babil kralına ⟨את⟩ kaçıp sığınanları ve ⟨את⟩ kalabalığın artığını sürdü — Nevuzaradan, muhafız şefi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "halkın artığını"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "artığını"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kaçıp sığınanları"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "kaçıp sığınanları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sığındılar"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kalabalığın artığını"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "artığını"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "kalabalığın"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "sürdü"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "şef"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "muhafızlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:57.769228916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve ulusların ⟨içinde⟩ yok olacaksınız, ve düşmanlarınızın ülkesi sizi yiyecek ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "ve yok olacaksınız"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ulusların ⟨içinde⟩"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ve yiyecek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmanlarınızın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:03.978290646Z",
+  "model": "glm-5.3"
+}

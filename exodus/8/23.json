@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 8:23",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Üç gün yolu çölde yürüyeceğiz ve Yahve'ye, Elohimimize kurban keseceğiz; bize nasıl söylerse ⟨öyle⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "yürüyeceğiz"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "וזבחנו",
+      "gloss": "ve kurban keseceğiz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimize"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "söylerse"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:35.601831856Z",
+  "model": "glm-5.3"
+}

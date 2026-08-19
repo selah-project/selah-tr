@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ancak onlarla ⟨את⟩ gümüşten hesap sorulmasın, ellerine verilmiş olan; çünkü sadakatle davranıyorlar onlar.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hesap edilsin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "gümüş"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "verilmiş olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ellerine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sadakatle"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "davranıyorlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:10.352059320Z",
+  "model": "glm-5.3"
+}

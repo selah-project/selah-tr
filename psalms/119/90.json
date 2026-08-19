@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Nesilden nesile ⟨senin⟩ sadâkatin; sen yeri kurultadın ve o ayakta duruyor.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "nesilden"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nesile"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "senin sadâkatin"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "kurultadın"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer(yyy) — yeri"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ve o duruyor"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:57.532106733Z",
+  "model": "glm-5.3"
+}

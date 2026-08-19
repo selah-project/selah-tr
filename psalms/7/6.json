@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "O zaman düşmanım canımın peşine düşsün, yetişip yakalasın; canımı yere çiğnesin ve onurumu tozun içine yerleştirsin. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "peşine düşsün"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmanım"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "ve yakalasın"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "ve çiğnesin"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yere"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ve onurumu"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "tozun içine"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "yerleştirsin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:17.656499155Z",
+  "model": "glm-5.3"
+}

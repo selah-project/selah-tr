@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Dediler: «Gelin, onları bir ulus olmaktan yok edelim; İsrail'in adı artık anılmasın.»",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "onları yok edelim"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "bir ulus(olmaktan)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anılmasın"
+    },
+    {
+      "surface": "יזזכר",
+      "gloss": "anılsın"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:34.207299308Z",
+  "model": "glm-5.3"
+}

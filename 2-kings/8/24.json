@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Yoram atalarıyla birlikte yattı ve atalarıyla birlikte Davud şehrinde gömüldü; oğlu Ahazya onun yerine kral oldu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ve yattı"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehrinde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ve kral oldu"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:30.117889307Z",
+  "model": "glm-5.3"
+}

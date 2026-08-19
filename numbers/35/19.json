@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Kanın yolcusu, katili ⟨את⟩ kendisi öldürecektir; ona yetiştiğinde onu kendisi öldürecektir.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "kanın yolcusu (yakın akraba-kefili)"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kanın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "öldürecektir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katili"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "katili"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "ona yetiştiğinde"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "onu öldürecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:43:19.271544174Z",
+  "model": "glm-5.3"
+}

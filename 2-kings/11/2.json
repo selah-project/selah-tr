@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 11:2",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yehoşeva, kral Yoram'ın kızı, Ahazyah'ın kız kardeşi, Ahazyah'ın oğlu Yo'aş'ı aldı ve onu öldürülmekte olan kral oğullarının arasından ⟨את⟩ onu ve süt annesini yatak odasına sokup çaldı; Atalya'nın yüzünden onu gizlediler ve o öldürülmedi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "יהושבע",
+      "gloss": "Yehoşeva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram'ın"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kız kardeşi"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazyah'ın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yo'aş"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yo'aş'ı"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ahazyah'ın"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "çaldı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yo'aş'ı)"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "הממותתים",
+      "gloss": "öldürülmekte olan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yo'aş'ı)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "süt annesini"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "süt annesini"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "odaya"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "yatak (odası)"
+    },
+    {
+      "surface": "ויסתרו",
+      "gloss": "gizlediler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yo'aş'ı)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya'nın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "הומת",
+      "gloss": "öldürülmedi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:29.728007190Z",
+  "model": "glm-5.3"
+}

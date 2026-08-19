@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 19:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Hizkiyahu Yahve'nin önünde dua etti ve dedi: Yahve, İsrail'in Elohim'i, keruvlar üzerinde oturan, sen tek başına bütün dünya krallıklarının Elohim'i olan sensin; sen ⟨את⟩ gökleri ve ⟨את⟩ yeri yarattın.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ve dua etti"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keruvlar üzerinde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tek başına"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "krallıklarının"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yarattın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gökleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T09:49:15.237002441Z",
+  "model": "glm-5.3"
+}

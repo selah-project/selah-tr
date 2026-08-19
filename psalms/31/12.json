@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Bütün sıkıntı verenlerim ⟨için⟩ rezillik oldum, komşularıma ⟨da⟩ çok, tanıdıklarıma korku; beni dışarıda görenler benden kaçtılar.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... ⟨için⟩"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "sıkıntı verenlerim"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "rezillik"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "ve komşularıma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "ve korku"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "tanıdıklarıma"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "görenler(im)"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "dışarıda"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "kaçtılar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:56.171245371Z",
+  "model": "glm-5.3"
+}

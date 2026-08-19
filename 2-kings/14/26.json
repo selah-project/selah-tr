@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Çünkü Yahve ⟨את⟩ İsrail'in sefaletini gördü — çok acıydı; ve artık kapatılmış da yoktu, terk edilmiş de yoktu, ve İsrail'e yardım eden yoktu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefaletini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sefaleti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "acı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ve tükendi"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "kapatılmış"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ve tükendi"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "terk edilmiş"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yardım eden"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrail'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:12.851432141Z",
+  "model": "glm-5.3"
+}

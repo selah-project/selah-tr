@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Gerçekten, Yahve, Asur kralları ulusları ⟨את⟩ ve ülkelerini ⟨את⟩ harabeye çevirdiler.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "harabeye çevirdiler"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulusları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ülkelerini"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ülkelerini"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:02.442963032Z",
+  "model": "glm-5.3"
+}

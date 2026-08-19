@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "⟨את⟩ Elini açarsın ve her canlıyı istek⟨leri⟩yle doyurursun.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "açarsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Elini"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ve doyurursun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "חי",
+      "gloss": "canlıyı"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "istekleriyle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:29.278517318Z",
+  "model": "glm-5.3"
+}

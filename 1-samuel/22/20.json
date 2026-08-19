@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Ahimelek'in, Ahituv oğlunun ⟨bir⟩ oğlu kaçtı, adı Avyatar'dı, ve Davut'un ardından kaçtı.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "ve kaçtı"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Ahimelek'in"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahituv"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ve onun adı"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avyatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ve firar etti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:53.097702564Z",
+  "model": "glm-5.3"
+}

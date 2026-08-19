@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Şemuel henüz Yahve'yi ⟨את⟩ tanımıyordu ve Yahve'nin sözü ona henüz açıklanmamıştı.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ve Şemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "henüz değil"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tanımıyordu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ve henüz değil"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "açıklanmamıştı"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:20:57.637933217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ve geniş bir yerde yürüyeceğim, çünkü senin emirlerini aradım.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "ve yürüyeceğim"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "geniş bir yerde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "senin emirlerini"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "aradım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:30.026400841Z",
+  "model": "glm-5.3"
+}

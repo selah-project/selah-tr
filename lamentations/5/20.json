@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Niçin bizi sonsuza dek unutuyorsun, bizi uzun günler boyun terk ediyorsun?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Niçin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "unutuyorsun"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "terk ediyorsun"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "uzun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler boyun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:41.771717521Z",
+  "model": "glm-5.3"
+}

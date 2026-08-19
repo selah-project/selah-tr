@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Gördüm ⟨את⟩ yeri, ve işte boşluk ve yarıklık; ve göklere ⟨baktım⟩, ve ışıkları yok.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "boşluk"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ve yarıklık"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e doğru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklere"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ışıkları"
+    }
+  ],
+  "timestamp": "2026-08-19T10:05:28.033327999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Tek başıma yükünüzü, ağırlığınızı ve davanızı nasıl taşırım?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "taşırım"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "tek başıma"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "yükünüzü"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ve ağırlığınızı"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ve davanızı"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:14.693227899Z",
+  "model": "glm-5.3"
+}

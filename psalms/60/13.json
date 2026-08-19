@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Bize sıkıntıdan yardım ver; insanın kurtuluşu ise ⟨şudur⟩ boş.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "yardım"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "sıkıntıdan"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ve boş"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:35.263778527Z",
+  "model": "glm-5.3"
+}

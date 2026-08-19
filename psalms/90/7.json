@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Çünkü öfkende tükendik ve gazabında dehşete düştük.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "tükendik"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "öfkende"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ve gazabında"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "dehşete düştük"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:43.891703843Z",
+  "model": "glm-5.3"
+}

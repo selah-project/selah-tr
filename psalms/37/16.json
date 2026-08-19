@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Doğrunun azı, birçok kötünün çokluğundan daha iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "daha iyidir"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "doğrunun"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "çokluğundan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "birçok"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:29.793273302Z",
+  "model": "glm-5.3"
+}

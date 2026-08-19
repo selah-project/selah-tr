@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Elohim, halkının önüne çıktığında, çölde yürüdüğünde — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "çıktığında"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "yürüdüğünde"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:28.030848562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Atalarınız — nerede onlar? Ve peygamberler — sonsuza dek mi yaşayacaklar?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "atalarınız"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ve peygamberler"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "yaşayacaklar mı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:48:01.937216523Z",
+  "model": "glm-5.3"
+}

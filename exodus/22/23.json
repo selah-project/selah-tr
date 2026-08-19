@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Öfkem alevlenecek ve sizi kılıçla öldüreceğim, kadınlarınız dul kalacak, oğullarınız yetim kalacak.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "alevlenecek"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "öfkem"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ve öldüreceğim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kılıçla"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "kadınlarınız"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "dul"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ve oğullarınız"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "yetim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:11.070248432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Doygun ⟨olsunlar⟩ Yahve'nin ağaçları, Luvnan'ın sedirleri — diktikleri.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "doygun olsunlar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağaçları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedirleri"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Luvnan'ın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "diktikleri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:24.898339576Z",
+  "model": "glm-5.3"
+}

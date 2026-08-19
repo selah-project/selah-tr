@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve bunlardan ⟨dolayı⟩ kirleneceksiniz: leşlerine değen herkes akşama kadar kirli olacaktır.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "ve bunlardan"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "kirleneceksiniz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "değen"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "leşlerine"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kirli olacak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşam"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:45.225442598Z",
+  "model": "glm-5.3"
+}

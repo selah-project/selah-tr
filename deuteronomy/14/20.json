@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Her temiz kuşu yiyebilirsiniz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuş"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyebilirsiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T12:32:56.976405841Z",
+  "model": "glm-5.3"
+}

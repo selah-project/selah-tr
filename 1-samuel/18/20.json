@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Mikal, ⟨את⟩ Şaul'un kızı, Davud'u sevdi; ⟨את⟩ onu Şaul'a bildirdiler ve söz gözünde doğru görüldü.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "bildirdiler"
+    },
+    {
+      "surface": "ותאהב",
+      "gloss": "ve sevdi"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "⟨את⟩ Şaul'un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Şaul'a"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ve doğru görüldü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "gözünde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:19.525184480Z",
+  "model": "glm-5.3"
+}

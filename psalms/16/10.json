@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Çünkü canımı Şeol'e terk etmeyeceksin, hasidini çukuru görmeye bırakmayacaksın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "terk edeceksin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şeol'e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vereceksin"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "hasidini"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmeye"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çukur"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:48.867519685Z",
+  "model": "glm-5.3"
+}

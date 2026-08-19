@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Moşe halkın ⟨את⟩ ailelerine göre, her kişi çadırının kapısında ağladığını duydu; ve Yahve'nin öfkesi çok tutuştu ve Moşe'nin gözünde kötüydü.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ve duydu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ağlıyordu"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "kapısında"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ve tutuştu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ve gözünde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'nin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötüydü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:47.396531307Z",
+  "model": "glm-5.3"
+}

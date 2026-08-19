@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "İhtiyarlık çağında beni dışarı atma; gücüm tükenirken beni bırakma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "beni dışarı atma"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "çağında"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ihtiyarlık"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "tükenirken"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "beni bırakma"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:08.555418898Z",
+  "model": "glm-5.3"
+}

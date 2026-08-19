@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "seni çölde atalarının bilmediği man ile besleyen — seni alçaltmak için ve seni denemek için, sonunda sana iyilik etmek için",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "seni besleyen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "bilmediği"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "seni alçaltmak"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ve için"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "seni denemek"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "sana iyilik etmek"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "sonunda"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:33.489758808Z",
+  "model": "glm-5.3"
+}

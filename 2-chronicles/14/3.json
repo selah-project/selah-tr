@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Yahuda'ya, atalarının Elohim'i Yahve'yi ⟨את⟩ aramalarını ve Tora'yı ve mitsvayı yapmalarını söyledi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yahuda'ya"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "aramalarını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ve yapmalarını"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora'yı"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "ve mitsvayı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:04.696267283Z",
+  "model": "glm-5.3"
+}

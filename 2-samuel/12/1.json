@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yahve, Natan'ı ⟨את⟩ Davud'a gönderdi; o da ona geldi ve ona dedi: Bir şehirde iki kişi vardı; biri zengin, biri yoksul.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan'ı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru (…a)"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "zengin"
+    },
+    {
+      "surface": "ויחד",
+      "gloss": "ve biri"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "yoksul"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:34.173265516Z",
+  "model": "glm-5.3"
+}

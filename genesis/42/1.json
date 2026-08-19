@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve Yaakov gördü ki Mıtsrayim'da ⟨⟨the⟩→ bir⟩ tahıl ⟨שבר⟩ var; ve Yaakov oğullarına dedi: Niçin birbirinize bakıyorsunuz?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "tahıl"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mıtsrayim'da"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niçin"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "bakıyorsunuz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:51.187045338Z",
+  "model": "glm-5.3"
+}

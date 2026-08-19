@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve Yehuda Onan'a dedi: Kardeşinin eşine gir ve onunla evlen (levirat), ve kardeşine zürriyet yerine getir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onan'a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "eşi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "ve levirat-yap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onunla evlen (levirat)"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "ve yerine getir"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zürriyet"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kardeşine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:37.724621772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Açtı ve onu gördü — ⟨את⟩ çocuğu — ve işte ağlayan bir bebek; ona yakınlık duydu ve dedi: «Bu, İvriler'in çocuklarından biri.»",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "Açtı"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "onu gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çocuğu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuğu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bebek"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ağlayan"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "yakınlık duydu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "çocuklarından"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "İvriler'in"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:35.421686792Z",
+  "model": "glm-5.3"
+}

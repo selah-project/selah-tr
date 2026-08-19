@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Yapıcıların dışladığı taş, köşenin başı oldu.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "taş"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "dışladılar"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "yapıcılar"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "köşenin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:56.914949993Z",
+  "model": "glm-5.3"
+}

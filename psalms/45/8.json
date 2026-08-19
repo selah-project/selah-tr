@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Doğruluğu sevdin ve kötülükten nefret ettin; bunun için Elohim, Elohim'in seni sevinç yağı ile ortaşlarından ⟨üstün⟩ meshetti.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sevdin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ve nefret ettin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "על",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bunun için"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "seni meshetti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinç"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "ortaşlarından"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:23.819917299Z",
+  "model": "glm-5.3"
+}

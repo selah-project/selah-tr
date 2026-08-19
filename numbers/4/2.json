@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kehat oğullarının başını say, Levililer'in arasından, ailelerine göre, atalarının evine göre:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "say (başını kaldır)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evine göre"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:31.938009982Z",
+  "model": "glm-5.3"
+}

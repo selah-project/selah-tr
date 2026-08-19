@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Köylerin pusu noktalarında oturur; gizli yerlerde suçsuzu öldürür; gözleri çaresize karşı gizlice gözetler.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "oturur"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "pusu noktalarında"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "köylerin"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "gizli yerlerde"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "öldürür"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "suçsuzu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "çaresize karşı"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "gizlice gözetler"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:53.941703630Z",
+  "model": "glm-5.3"
+}

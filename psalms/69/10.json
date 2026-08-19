@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Çünkü senin evinin kıskanç tutkusu beni yedi; ve seni aşağılayanların aşağılamaları üzerime düştü.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kıskanç tutkusu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "senin evinin"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "beni yedi"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "ve aşağılamaları"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "seni aşağılayanların"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "üzerime düştü"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    }
+  ],
+  "timestamp": "2026-08-19T12:36:48.456147879Z",
+  "model": "glm-5.3"
+}

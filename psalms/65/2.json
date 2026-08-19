@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 65,
+  "translation": "Sana sessizlikle övgü, Elohim, Tsiyon'da; ve sana ⟨⟨edilen⟩⟩ adak ödenecek.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "sessizlikle"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "övgü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon'da"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ve sana"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödenecek"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "adak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:12.753543023Z",
+  "model": "glm-5.3"
+}

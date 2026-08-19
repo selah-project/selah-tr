@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 142,
+  "translation": "Çığlığıma kulak ver, çünkü çok alçaldım; beni kovalayanlardan kurtar, çünkü benden güçlüdürler.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "çığlığıma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "alçaldım"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "kovalayanlardan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "güçlüdürler"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:07.368377476Z",
+  "model": "glm-5.3"
+}

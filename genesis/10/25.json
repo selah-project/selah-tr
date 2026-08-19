@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Ever'e iki oğul doğdu: birinin adı Peleg, çünkü onun günlerinde yer bölündü; kardeşinin adı Yaktaan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Ve Ever'e"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "onun günlerinde"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "bölündü"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yaktaan"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:58.168576086Z",
+  "model": "glm-5.3"
+}

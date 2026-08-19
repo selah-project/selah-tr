@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Başa atalarıyla birlikte yattı ve Tirsa'da gömüldü; oğlu Ela onun yerine kral oldu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ve yattı"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirsa'da"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ve kral oldu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:42.138690928Z",
+  "model": "glm-5.3"
+}

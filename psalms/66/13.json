@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Evine yakmalılarla gireceğim, sana adaklarımı ödeyeceğim.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "gireceğim"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evine"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "yakmalılarla"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ödeyeceğim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "adaklarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:46.124154796Z",
+  "model": "glm-5.3"
+}

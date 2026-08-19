@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şemuël Yisrael'in bütün aşiretlerini ⟨את⟩ yaklaştırdı, ve Binyamin aşireti yakalandı\/seçildi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yaklaştırdı"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün aşiretler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "aşiretleri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ve yakalandı"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aşireti"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:52.007542876Z",
+  "model": "glm-5.3"
+}

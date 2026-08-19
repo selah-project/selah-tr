@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve İsrail'in bütün adamları, ⟨את⟩ adamı görünce, onun yüzünden kaçtılar ve çok korktular.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ve kaçtılar"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "onun yüzünden"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ve korktular"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:34.568766804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 100,
+  "translation": "Kapılarına şükranla, avlularına övgüyle girin; ona şükredin, adını kutsayın.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "girin"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "kapılarına"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "şükranla"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "avlularına"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "övğüyle"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "şükredin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "kutsayın"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:22.903224800Z",
+  "model": "glm-5.3"
+}

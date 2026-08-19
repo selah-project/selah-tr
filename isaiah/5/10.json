@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çünkü on çift öküzün süreceği bağ bir bat verecek ve bir homer tohum bir efa verecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "çift (öküz)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "bağ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "verecekler"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bir bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ve tohum"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "bir homer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "bir efa"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:07.875331045Z",
+  "model": "glm-5.3"
+}

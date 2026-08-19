@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve halk orada suya susadı ve halk Moşe'ye karşı söylendi ve dedi: Bunun için niçin bizi Mısır'dan çıkardın — beni ⟨את⟩, oğullarımı ⟨את⟩ ve davarımı ⟨את⟩ susuzluktan öldürmek için?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "ve susadı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "למים",
+      "gloss": "suya"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "ve söylendi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niçin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "bizi çıkardın"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldürmek için"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarımı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "davarımı"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "davarımı"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "susuzlukla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:46.930493250Z",
+  "model": "glm-5.3"
+}

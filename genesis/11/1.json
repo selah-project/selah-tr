@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve bütün yeryüzü ⟨⟨idi⟩⟩ bir dildi ve sözleri birdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "dil"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ve sözler"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:31.744978646Z",
+  "model": "glm-5.3"
+}

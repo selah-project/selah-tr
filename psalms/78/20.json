@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "İşte, kayayı vurdu da sular aktı ve dere taşkınları boşandı; ekmek de verebilir mi? Kavmine et hazırlayabilir mi?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kayayı"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "aktı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ve dere taşkınları"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "boşandı"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "de"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "yapabilir mi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "vermek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "hazırlayabilir mi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "et"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kavmine"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:21.233878047Z",
+  "model": "glm-5.3"
+}

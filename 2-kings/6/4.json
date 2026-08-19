@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve o ⟨את⟩ onlarla gitti, ve Yarden'e geldiler, ve ağaçları kestiler.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ve geldiler"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yarden'e"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "ve kestiler"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ağaçları"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:26.861834101Z",
+  "model": "glm-5.3"
+}

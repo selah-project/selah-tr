@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Ve Yosef'i kutsadı ve dedi: O Elohim ki önünde atalarım yürüdü — Avraham ve Yitshak — O Elohim ki beni ⟨את⟩ varlığımdan bu güne dek güttü:",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef'i"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "yürüdü"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "atalarım"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "ve Yitshak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "güttü"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni (varlığımdan)"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "varlığımdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu güne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:12.257431809Z",
+  "model": "glm-5.3"
+}

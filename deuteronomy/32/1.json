@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Dinleyin, ey gökler, ve ben konuşacağım; ve işitsin yer, ağzımın sözlerini.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "dinleyin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ve konuşacağım"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ve işitsin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:41.391344459Z",
+  "model": "glm-5.3"
+}

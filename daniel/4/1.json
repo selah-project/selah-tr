@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ben, Nevukadnetsar, evimde huzur içinde ⟨idim⟩ ve sarayımda çağlıyordum.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "huzur içinde"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "idim"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "evimde"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "ve çağlıyordum"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "sarayımda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:42:44.834228419Z",
+  "model": "glm-5.3"
+}

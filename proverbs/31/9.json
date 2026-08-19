@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ağzını aç, adaletle yargıla, ⟨ve⟩ yoksulun ⟨ve⟩ düşkünün hakkını ⟨ver⟩.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "aç"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "yargıla"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalet"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ve davasını"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksulun"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve düşkünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:58.073284773Z",
+  "model": "glm-5.3"
+}

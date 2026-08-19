@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Yahve'nin dosdoğru olduğunu, kayam olan O'nda hiçbir `avla` olmadığını bildirmek için.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "bildirmek için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dosdoğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kayam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve… değil"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "avla (haksızlık)"
+    },
+    {
+      "surface": "בו",
+      "gloss": "O'nda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:16.049937476Z",
+  "model": "glm-5.3"
+}

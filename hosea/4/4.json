@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ancak hiç kimse dava açmasın, hiç kimse kimsayı azarlamasın; çünkü halkın, kâhinle dava edenler gibidir.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiç kimse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…masın"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "dava açmasın"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve …masın"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "azarlamasın"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kimsayı"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ve halkın"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "dava edenler gibi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhinle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:17.781659083Z",
+  "model": "glm-5.3"
+}

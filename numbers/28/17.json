@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve bu ayın on beşinci günü ⟨bir⟩ bayram ⟨var⟩: yedi gün mayasız ekmekler yenecek.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "ve on beşinci"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mayasız ekmekler"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yenecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:50.896629614Z",
+  "model": "glm-5.3"
+}

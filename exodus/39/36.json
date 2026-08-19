@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "⟨את⟩ Masayı, ⟨את⟩ bütün gereçlerini ve ⟨את⟩ Yüzlerin Ekmeğini.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Masayı"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Masayı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün gereçlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "gereçlerini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Ekmeği"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Ekmeği"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "Yüzlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:34.852335532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve ⟨את⟩ bizimle akrabalık kurun: kızlarınızı bize verin, kızlarımızı da ⟨את⟩ kendinize alın.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "ve akrabalık kurun"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "kızlarınızı"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "kızlarımızı"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alın"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendinize"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:21.021209759Z",
+  "model": "glm-5.3"
+}

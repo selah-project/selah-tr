@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Onun üzerine kötü birini görevlendir, ve bir karşı-durmacu sağına dursun.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "görevlendir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ve karşı-durmacu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dursun"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sağında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:09.522679339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Çünkü Yahve Yakov'un gururunu geri çevirdi, Yisrael'in gururu gibi; çünkü boşaltanlar onları boşalttılar ve asma dallarını harap ettiler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שב",
+      "gloss": "geri çevirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakov'un gururunu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gururunu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov'un"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "gururu gibi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "onları boşalttılar"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "boşaltanlar"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ve asma dallarını"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "harap ettiler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:45:23.885980343Z",
+  "model": "glm-5.3"
+}

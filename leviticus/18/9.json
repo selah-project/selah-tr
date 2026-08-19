@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Kızkardeşinin çıplaklığını — babanın kızı veya ananın kızı, evde doğmuş veya dışarıda doğmuş — çıplaklıklarını açmayacaksın.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "kızkardeşinin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ananın"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "doğmuş"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evde"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "doğmuş"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "dışarıda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açmayacaksın"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "çıplaklıklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:59.242832811Z",
+  "model": "glm-5.3"
+}

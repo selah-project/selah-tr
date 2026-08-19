@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Bu ekmeğimiz — biz çıktığımız gün evlerimizden ⟨את⟩ onu sıcacık azık olarak kendimize aldık, size gelmek için; ve şimdi işte kurudu ve kırıntılaştı.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ekmeğimiz"
+    },
+    {
+      "surface": "חם",
+      "gloss": "sıcacık"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "kendimize aldık"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "ekmeği"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "evlerimizden"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "çıktığımız"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gitmek için"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kurudu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "kırıntılaştı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:49.106181266Z",
+  "model": "glm-5.3"
+}

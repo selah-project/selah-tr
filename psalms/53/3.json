@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Elohim göklerden baktı insan oğullarının üzerine, görmek için: anlayan, ⟨את⟩ Elohim'i arayan ⟨birileri⟩ var mı?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "göklerden"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "eğilip baktı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "היש",
+      "gloss": "var mı"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "anlayan"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "arayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:46.590367462Z",
+  "model": "glm-5.3"
+}

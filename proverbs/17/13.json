@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kötülüğü iyiliğe karşılık geri çevirenin evinden kötülük ayrılmayacak.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "geri çeviren"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılığında"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iyiliğe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "çekip gidecek"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "evinden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:38.973830710Z",
+  "model": "glm-5.3"
+}

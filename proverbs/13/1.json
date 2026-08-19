@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Bilge bir oğul babanın terbiyesini ⟨duyar⟩; ama alaycı azar duymaz.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "terbiye"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "ama alaycı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "duyar"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "azar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:50.302665681Z",
+  "model": "glm-5.3"
+}

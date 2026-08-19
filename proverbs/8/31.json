@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Onun dünyasında, Onun yeryüzünde oynayarak; ve sevinçlerim ⟨את⟩ insan oğullarıyladır.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "oynayarak"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "dünyasında"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "Onun yeryüzünde"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "ve sevinçlerim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insan oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:39.892321554Z",
+  "model": "glm-5.3"
+}

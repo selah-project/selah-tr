@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve Haman'ı, Mordehay için hazırlamış olduğu ağaç üzerine astılar; ve kralın öfkesi yatıştı.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "ve astılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hazırlamıştı"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordehay için"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ve öfkesi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "yatıştı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:11.517548779Z",
+  "model": "glm-5.3"
+}

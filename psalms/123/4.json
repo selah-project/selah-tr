@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 123,
+  "translation": "Çoktu, doydu ⟨⟨onunla⟩⟩ canımız — rahat yaşayanların alayına, küstah eziklerin hakaretine.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "çoktu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "doydu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canımız"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "alay"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "rahat yaşayanların"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "hakaret"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "küstah eziklere"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:46.032952029Z",
+  "model": "glm-5.3"
+}

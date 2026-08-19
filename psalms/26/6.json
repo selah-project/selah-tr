@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ellerimi masumiyette yıkayacağım, ve Yahve, ⟨את⟩ sunağının etrafında dolaşacağım.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "yıkayacağım"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "masumiyette"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ellerimi"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "ve dolaşacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunağının"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "sunağını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:14.491541923Z",
+  "model": "glm-5.3"
+}

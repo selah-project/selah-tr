@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Yahve böyle yaptı; ve ağır sürü sineği Firavun'un evine ve kullarının evlerine ve bütün Mısır ülkesine geldi; ülke, sürü sineklerinin yüzünden harap oldu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sürü sineği"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evine"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavun'un"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ve evine"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kullarının"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesine"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "harap oldu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sürü sineklerinin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:43.333639264Z",
+  "model": "glm-5.3"
+}

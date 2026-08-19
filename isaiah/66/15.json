@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Çünkü bakın, Yahve ateşle gelecek ve arabaları kasırga gibi; öfkesini hışımla karşılamak, azarlaması ateş alevleriyle olacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelecek"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "ve kasırga gibi"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "arabaları"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "karşılamak\/geri ödemek için"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "hışımla"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesini"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "ve azarlaması"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "alevleriyle"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:59.696821386Z",
+  "model": "glm-5.3"
+}

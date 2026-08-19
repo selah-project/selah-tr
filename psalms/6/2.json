@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yahve, öfkende beni kınama, gazabında beni terbiye etme.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...me"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "öfkende"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "beni kına"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ...me"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "gazabında"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "beni terbiye et"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:57.305198319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "İlk ayın, ayın birinci gününde Mişkan'ı, ⟨yani⟩ Buluşma Çadırı'nın ⟨את⟩ mişkanını kuracaksın.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "birinde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "kuracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mişkan'ı"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mişkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Buluşma"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:39.401080911Z",
+  "model": "glm-5.3"
+}

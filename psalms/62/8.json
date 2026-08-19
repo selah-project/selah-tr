@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Elohim'edir kurtuluşum ve görkemim; gücümün kayası, sığınağım Elohim'dedir.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "kurtuluşum"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ve görkemim"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "gücümün"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'de"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:23.187034910Z",
+  "model": "glm-5.3"
+}

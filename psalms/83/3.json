@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Çünkü bak, düşmanların uğulduyor ve senin buğzettiklerin ⟨onlar⟩ baş kaldırdılar — başlarını kaldırdılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "düşmanların"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "uğulduyor"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ve senin buğzettiklerin"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "kaldırdılar"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:27.937829790Z",
+  "model": "glm-5.3"
+}

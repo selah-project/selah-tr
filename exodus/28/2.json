@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve kutsal giysiler yapacaksın Ahiron'un — kardeşinin — için, görkem ve güzellik ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "giysiler"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon'un için"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "görkem için"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ve güzellik için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:16.081186281Z",
+  "model": "glm-5.3"
+}

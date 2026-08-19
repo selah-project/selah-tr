@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Kötünün canı kötülük arzular; komşusu onun gözünde lütuf bulmaz.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "canı"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "arzular"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "lütuf bulur"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "onun gözünde"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "komşusu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:35.343221771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve ⟨the⟩ ülke kirlendi; ben de onun suçunu onun üzerine ziyaret ettim, ve ⟨the⟩ ülke sakinlerini kustu.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ve kirlendi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ve ziyaret ettim"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "onun suçu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "ve kustu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakinlerini"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sakinlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:46.453175182Z",
+  "model": "glm-5.3"
+}

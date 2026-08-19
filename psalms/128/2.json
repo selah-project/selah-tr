@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 128,
+  "translation": "Ellerinin emeğini yiyeceksin; ne mutlu sana, ve sana iyi olacak.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "emeğini"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yiyeceksin"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ne mutlu sana"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ve iyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:49.353506812Z",
+  "model": "glm-5.3"
+}

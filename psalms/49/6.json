@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Kötü günlerde neden korkayım, topuklarımdaki suç beni kuşattığında?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "korkayım"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlerinde"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suç"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "topuklarımın"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "kuşatır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:47.869086731Z",
+  "model": "glm-5.3"
+}

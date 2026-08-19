@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Zenginin serveti onun güçlü kentidir; yoksulların yıkımı ⟨ise⟩ yoksulluklarıdır.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "serveti"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "zenginin"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kentidir"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "gücü\/onun gücü"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "yıkımı"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "yoksulların"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "yoksullukları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:02.845562336Z",
+  "model": "glm-5.3"
+}

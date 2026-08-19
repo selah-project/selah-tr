@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Hayvanla yatan herkes kesinlikle öldürülecektir.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:09.260578722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Çünkü ben babama oğul idim, yumuşak ⟨ve⟩ annemin gözünde biricik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "idim"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "babama"
+    },
+    {
+      "surface": "רך",
+      "gloss": "yumuşak"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "ve biricik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annemin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:34.218611801Z",
+  "model": "glm-5.3"
+}

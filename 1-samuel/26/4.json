@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "David casuslar gönderdi ve Şaul'un gerçekten ⟨oraya⟩ geldiğini öğrendi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casuslar"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ve öğrendi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldiğini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kesin olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T12:14:29.321982387Z",
+  "model": "glm-5.3"
+}

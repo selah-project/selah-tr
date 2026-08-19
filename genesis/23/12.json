@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Avraham, ülkenin halkının önünde yere eğildi.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "yere eğildi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:45.726624626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Şet, ⟨את⟩ Enos'un babası olduktan sonra yedi yıl ve sekiz yüz yıl yaşadı, ve oğulları ve kızları babası oldu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ve yaşadı"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Şet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "babası olduğu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enos'u"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enos"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ve sekiz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve babası oldu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ve kızları"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:58.593884317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Babasının karısıyla yatan lanetlidir; çünkü babasının eteğini açmıştır; ve tüm halk diyecek: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "lanetlidir"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmıştır"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "eteğini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve diyecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:20.963305293Z",
+  "model": "glm-5.3"
+}

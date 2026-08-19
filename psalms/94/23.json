@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Ve onların üzerine ⟨את⟩ kendi kötülüklerini geri çevirir; onların şerriyle onları kökünden kesecek — onları kökünden kesecek Yahve, Elohim'imiz.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve geri çevirir"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzerine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kendi kötülüklerini"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "onların kötülüğünü"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "ve onların şerriyle"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "onları kökünden kesecek"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "onları kökünden kesecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:48.610544784Z",
+  "model": "glm-5.3"
+}

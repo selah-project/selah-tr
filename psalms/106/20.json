@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Onlar ⟨את⟩ yüceliklerini, ot yiyen bir öküzün biçimine değiştirdiler.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ve değiştirdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüceliklerini"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "yüceliklerini"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "biçimine"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyen"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ot"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:30.027627415Z",
+  "model": "glm-5.3"
+}

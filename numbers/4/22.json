@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Gerşon oğullarının başını da onlar ⟨את⟩ say, baba evlerine göre, ailelerine göre.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "kaldır \/ say"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baş (roş)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerşon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "-e, evine göre"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "babalarının"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:14.586923185Z",
+  "model": "glm-5.3"
+}

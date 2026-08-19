@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şemuël yağ şişesini ⟨את⟩ aldı, başına döktü ve onu öptü, sonra şöyle dedi: Değil mi, Yahve seni mirası üzerine önder olman için mesh etti?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağ şişesini"
+    },
+    {
+      "surface": "פך",
+      "gloss": "şişe"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağın"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ve döktü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başının"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ve onu öptü"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "seni mesh etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "mirasının"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "önder olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:58.420651725Z",
+  "model": "glm-5.3"
+}

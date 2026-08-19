@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 63,
+  "translation": "Seni yatağımda andığımda, gece nöbetlerinde ⟨senin⟩ üzerine içimde mırıldanıp düşünürüm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "-dığım zaman \/ eğer"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "seni andığımda"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "yatağımda"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "gece nöbetlerinde"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "içimde mırıldanırım"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sende\/sende"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:19.405939828Z",
+  "model": "glm-5.3"
+}

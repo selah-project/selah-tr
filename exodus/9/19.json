@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve şimdi gönder, sağlamlaştır ⟨את⟩ hayvan sürünü ve ⟨את⟩ tarladaki sana ait her şeyi; tarlada bulunan her insan ve hayvan, eve toplanmayan — üzerine dolu inecek ve ölecekler.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönder"
+    },
+    {
+      "surface": "העז",
+      "gloss": "sağlamlaştır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayvan sürünü"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "hayvan sürünü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana ait"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarladaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "ve hayvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bulunan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "toplanan"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "eve"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "inecek"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ve ölecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:38.843503798Z",
+  "model": "glm-5.3"
+}

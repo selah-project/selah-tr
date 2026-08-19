@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Atalarımızın sıkıntısını Mısır'da gördün ve ⟨את⟩ onların çığlığını Suf Denizi kıyısında duydun.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sıkıntıyı"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sıkıntısını"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımızın"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "çığlıklarını"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "onların çığlıklarını"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "duydun"
+    },
+    {
+      "surface": "על",
+      "gloss": "kıyısında"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Denizi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-19T11:51:05.785292993Z",
+  "model": "glm-5.3"
+}

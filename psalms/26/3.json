@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Çünkü sevgin ⟨⟨gözümün⟩⟩ önündedir, ve senin gerçekliğinde yürüdüm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sevgin"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözümün"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ve yürüdüm"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "senin gerçekliğinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:23.427910626Z",
+  "model": "glm-5.3"
+}

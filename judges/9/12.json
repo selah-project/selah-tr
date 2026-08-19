@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ağaçlar asma vine dedi: Gel, sen ⟨⟨את⟩⟩ bizim üzerimizde hüküm sür.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ağaçlar"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "asma vine"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gel"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen",
+      "marks": "מלוכי — hüküm sürmek"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "hüküm sür"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizim üzerimizde"
+    }
+  ],
+  "timestamp": "2026-08-19T12:13:50.063463314Z",
+  "model": "glm-5.3"
+}

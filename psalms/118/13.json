@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Beni düşürmek için şiddetle ittin, ama Yahve bana yardım etti.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "şiddetle ittin"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "beni ittin"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "düşmek için"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ama Yahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "bana yardım etti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:03.757687779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Çünkü bana İsrail oğulları ⟨ait⟩ — kullardır; benim kullarım⟨dır⟩ onlar, ki onları Mısır ülkesinden çıkardım; ben Yahve, sizin Elohim'iniz⟨im⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kullar"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kullarım"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "çıkardım"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:29.255520733Z",
+  "model": "glm-5.3"
+}

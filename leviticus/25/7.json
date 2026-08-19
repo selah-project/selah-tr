@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Hayvanın için ve toprağındaki yabani hayvan için — bütün ürünü yemek için olacak.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ve hayvanın için"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "ve yabani hayvan için"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "toprağında"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ürünü"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemek için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:59.552064622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Bakın, bu Yahve Sevaot'tan ⟨את⟩ değil mi? Halklar ateş için yorulacak, uluslar boş şey uğruna bitkin düşecekler.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Sevaot'tan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "yorulacaklar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "için"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "boş şey"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "bitkin düşecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:46:05.317211611Z",
+  "model": "glm-5.3"
+}

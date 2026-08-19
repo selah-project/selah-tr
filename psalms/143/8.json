@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Sabahta sadakatini duyar kıl beni, çünkü sana güvendim; gideceğim yolu bildir bana, çünkü canımı sana yükselttim.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "duyar kıl beni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahta"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sadakatini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvendim"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "bildir bana"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "şunu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gideceğim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "yükselttim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:32.064879487Z",
+  "model": "glm-5.3"
+}

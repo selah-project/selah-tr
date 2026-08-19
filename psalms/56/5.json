@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 56,
+  "translation": "Elohim'de O'nun sözünü öveceğim, Elohim'de güvendim, korkmayacağım — et bana ne yapabilir?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'de"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "öveceğim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "O'nun sözünü"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'de"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvendim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "korkarım"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapabilir"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:01.321935531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve ⟨את⟩ Rivka'yı, kızkardeşlerini, ve ⟨את⟩ sütannesini, ve ⟨את⟩ Avraham'ın kulunu ve ⟨את⟩ adamlarını uğurlayıp gönderdiler.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ve gönderdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka'yı"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka'yı"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "kızkardeşlerini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sütannesini"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "sütannesini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kulu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kulunu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham'ın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "adamlarını"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "adamlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:43.851756999Z",
+  "model": "glm-5.3"
+}

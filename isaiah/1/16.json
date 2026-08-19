@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yıkanın, arının; kötülüğü kaldırın davranışlarınızdan, gözlerimin önünden; kötülük yapmayı bırakın.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "yıkanın"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "arının"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "kaldırın \/ uzaklaştırın"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "davranışlarınız"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "önünden \/ karşıdan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerim"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "bırakın \/ vazgeçin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötülük yapmak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:14.230779345Z",
+  "model": "glm-5.3"
+}

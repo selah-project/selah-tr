@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ve sular onların sıkıntı verenlerini örttü; onlardan tek biri bile ⟨kalmadı⟩ artık.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "ve örttü"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "onların sıkıntı verenlerini"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek biri"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "artık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:26.476072198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "İşte Yahve yeri boşaltıyor ve yıkıyor, yüzünü eğriyor ve sakinlerini dağıtıyor.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "İşte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "boşaltıyor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "ve yıkıyor"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "eğriyor"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "ve dağıtıyor"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sakinlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:48.072345217Z",
+  "model": "glm-5.3"
+}

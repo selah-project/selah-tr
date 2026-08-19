@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kasırga geçince kötü kişi artık yoktur; ama doğru kişi sonsuz bir temeldir.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "geçince"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "kasırga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "artık yoktur"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü kişi"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ama doğru kişi"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "temel"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:52.952993098Z",
+  "model": "glm-5.3"
+}

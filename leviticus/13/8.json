@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve kâhin görsün, ve işte kepek deride yayılmış; o zaman kâhin onu kirli ilan etsin — cüzam ⟨o⟩dur.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ve görsün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "yayılmış"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "kepek"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "deride"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ve kirli ilan etsin onu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "cüzam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩dur"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:38.416789731Z",
+  "model": "glm-5.3"
+}

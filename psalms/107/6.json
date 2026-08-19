@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Sıkıntıları içinde Yahve'ye yalvardılar; darlıklarından O onları kurtardı.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "yalvardılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sıkıntıları"
+    },
+    {
+      "surface": "להם",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "darlıklarından"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "onları kurtardı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:00.296123419Z",
+  "model": "glm-5.3"
+}

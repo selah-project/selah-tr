@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve David'e ⟨את⟩ Ritspa'nın, Ayah'ın kızının, Şaul'un cariyesinin yaptığına dair haber verildi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ve haber verildi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaptığı şeye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa'nın"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızının"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ayah'ın"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "cariyesi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:01.415869669Z",
+  "model": "glm-5.3"
+}

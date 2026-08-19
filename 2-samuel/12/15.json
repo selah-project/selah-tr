@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Natan evine gitti. Ve Yahve, Uriya'nın karısının Davud'a doğurduğu çocuğu ⟨את⟩ vurdu, ve çocuk hastalandı.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evine"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çocuğu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuğu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurduğu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya'nın"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "ve hastalandı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:16.891557747Z",
+  "model": "glm-5.3"
+}

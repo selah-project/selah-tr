@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Moşe, Yişrael oğullarının bütün cemaatini ⟨את⟩ topladı ve onlara dedi: Bunlar Yahve'nin onları yapmak için buyurduğu sözlerdir.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün cemaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "cemaatini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "sözler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:55.811726415Z",
+  "model": "glm-5.3"
+}

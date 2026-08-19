@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve dedi: ⟨את⟩ Yüzümü göremezsin; çünkü insan Beni görüp yaşayamaz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "gücün yeter"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "görmeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yüzümü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "Beni görür"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ve yaşar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:12.404144925Z",
+  "model": "glm-5.3"
+}

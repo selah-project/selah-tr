@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yahve halkına güç verir; Yahve halkını ⟨את⟩ barışla kutsar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güç"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "halkına"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kutsar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkını"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "barışla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:43.825571462Z",
+  "model": "glm-5.3"
+}

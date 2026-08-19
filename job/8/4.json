@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Eğer oğulların O'na karşı günah işlediyse, ⟨o⟩ onları kendi isyanlarının eline gönderdi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "günah işlediler"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'na"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ve onları gönderdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "isyanları"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:43.703954852Z",
+  "model": "glm-5.3"
+}

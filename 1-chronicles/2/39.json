@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Azarya ⟨את⟩ Helets'i doğurdu ve Helets ⟨את⟩ El'asa'yı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ve Azarya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Helets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Helets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ve Helets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El'asa"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "El'asa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:04.491568198Z",
+  "model": "glm-5.3"
+}

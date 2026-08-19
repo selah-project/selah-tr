@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "İnsanın kibri onu alçaltır; alçak ruhlu ⟨kimseyi⟩ ise şeref yüceltir.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "kibri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "onu alçaltır"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ve alçak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhlu"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "yüceltir\/tutar"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "şeref"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:38.256811663Z",
+  "model": "glm-5.3"
+}

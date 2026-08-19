@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Halkımın günah kurbanını yiyorlar ve canları onların suçuna yöneliyor.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "günah kurbanını"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımın"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyorlar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve doğru"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "onların suçuna"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "yöneltiliyor"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canları"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:29.135602096Z",
+  "model": "glm-5.3"
+}

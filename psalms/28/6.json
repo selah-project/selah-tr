@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Kutsanmış ⟨olsun⟩ Yahve, çünkü yakarışlarımın sesini işitti.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutsanmış"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "işitti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yakarışlarımın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:26.552428068Z",
+  "model": "glm-5.3"
+}

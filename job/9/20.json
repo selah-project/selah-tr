@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Kendimi haklı çıkarırsam, ağzım beni suçlu ilan eder; kusursuzum ⟨desem⟩, ⟨O⟩ beni eğri gösterir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "haklı olurum"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "suçlar beni"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "eğriltir beni"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:15.415931097Z",
+  "model": "glm-5.3"
+}

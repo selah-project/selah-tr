@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Sen ⟨sin⟩ El, harikalar yapan; güçlerini halklar arasında bildirdin.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "harikalar"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "bildirdin"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "halklar arasında"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "güçlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:51.612108680Z",
+  "model": "glm-5.3"
+}

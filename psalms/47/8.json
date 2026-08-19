@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Çünkü bütün ⟨ה⟩ yeryüzünün kralı Elohim'dir — anlayışla ilahi söyleyin!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'dir"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ilahi söyleyin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "anlayışla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:24.951696332Z",
+  "model": "glm-5.3"
+}

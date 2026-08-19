@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Bilgeleşirsen kendin için bilgeleşirsin; ve alay edersen yalnız kendin taşırsın.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bilgeleşirsen"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bilgeleşirsin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendin için"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ve alay edersen"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız kendin"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "taşırsın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:39.501318908Z",
+  "model": "glm-5.3"
+}

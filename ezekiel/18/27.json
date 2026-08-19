@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 18:27",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve kötü kişi, yapmış olduğu kötülüğünden döndüğünde ve hüküm ile doğruluğu yaptığında, o ⟨את⟩ canını diriltir.",
+  "tokens": [
+    {
+      "surface": "ובשוב",
+      "gloss": "ve döndüğünde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü kişi"
+    },
+    {
+      "surface": "מרשעתו",
+      "gloss": "kötülüğünden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptığında"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hüküm"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ve doğruluk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "diriltir"
+    }
+  ],
+  "timestamp": "2026-08-19T10:27:06.054126180Z",
+  "model": "glm-5.3"
+}

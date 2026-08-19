@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Sizi Mısır'ın elinden ve ⟨את⟩ sizi ezenlerin hepsinin elinden kurtardım; ⟨את⟩ onları önünüzden kovdum ve size ⟨את⟩ topraklarını verdim.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "kurtardım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ve elinden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsinin"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "sizi ezenlerin"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "kovdum"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "מפניכם (önünüzden)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "önünüzden"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ve verdim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "topraklarını (ארצם)"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "topraklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T09:15:50.601064870Z",
+  "model": "glm-5.3"
+}

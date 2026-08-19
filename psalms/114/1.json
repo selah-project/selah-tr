@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 114,
+  "translation": "Yisra'el Mısır'dan çıktığında, Yaakov'un evi ⟨the⟩ yabancı dilli bir halkın arasından —",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "çıktığında"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "halkın arasından"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "yabancı dilli"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:35.891301504Z",
+  "model": "glm-5.3"
+}

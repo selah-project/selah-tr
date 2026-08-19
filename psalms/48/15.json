@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Çünkü bu ⟨⟩ Elohim'dir, Elohim'imiz sonsuza dek, ebediyen; ⟨odur⟩ ki bizi ölümün ötesine yöneltir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'dir"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuza"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dek, ebediyen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨odur⟩"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "yöneltir bizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ötesine"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümün"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:26.439187278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve diyecekler ki: ⟨çünkü⟩ Yahve, Elohim'lerinin ⟨את⟩ berahını terk ettiler, başka ilahlara secde ettiler ve onlara kulluk ettiler.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ve diyecekler"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨çünkü⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "terk ettiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berahı"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim'lerinin"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "secde ettiler"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ilahlara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başka"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "ve onlara kulluk ettiler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:11:12.041081739Z",
+  "model": "glm-5.3"
+}

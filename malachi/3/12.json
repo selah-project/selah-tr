@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve bütün uluslar sizi ⟨את⟩ mutlu diyecekler, çünkü siz arzu edilen bir ülke olacaksınız, diyor Yahve Sevaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "ve mutlu diyecekler"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "bütün uluslar (özne olarak sizi)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "olacaksınız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "arzu edilen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:20.983637169Z",
+  "model": "glm-5.3"
+}

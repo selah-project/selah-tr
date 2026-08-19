@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve olacak: dereden içeceksin; ve kargılara ⟨את⟩ seni orada beslemelerini buyurdum.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "dereden"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "içeceksin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kargıları"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kargılar"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "buyurdum"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "seni beslemek için"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:44.653624404Z",
+  "model": "glm-5.3"
+}

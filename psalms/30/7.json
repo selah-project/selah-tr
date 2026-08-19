@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve ben ⟨dedim ki⟩ huzurum içinde: 'Asla sarsılmayacağım, sonsuza ⟨dek⟩.'",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "huzurum içinde"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarsılmayacağım"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:24.418342112Z",
+  "model": "glm-5.3"
+}

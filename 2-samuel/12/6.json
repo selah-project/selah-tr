@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "ve ⟨את⟩ kuzuyu dört kat ödeyecek, çünkü ⟨את⟩ bu işi yaptı ve acımadı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuzuyu"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "kuzuyu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödeyecek"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "dört kat"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-dığı için"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu işi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve -den dolayı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-dığı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "acımadı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:18.312814803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Ölümlü insanı ⟨ezilip⟩ toz ⟨olana⟩ dek geri çevirirsin; \"Dönün, Âdem oğulları\" dersin.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "geri çevirirsin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "toz olana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dersin"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "dönün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Âdem"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:46.314335356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve şimdi: Babam üstünüze ağır bir boyunduruk yükledi, ben ise boyunduruğunuza ⟨את⟩ ekleyeceğim — babam sizi ⟨את⟩ kamçılarla terbiye etti, ben ise sizi ⟨את⟩ akreplerle terbiye edeceğim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "yükledi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "üstünüze"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunduruk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ekleyeceğim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstüne"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boyunduruğunuza"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "terbiye etti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "kamçılarla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "terbiye edeceğim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "akreplerle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:22.672003727Z",
+  "model": "glm-5.3"
+}

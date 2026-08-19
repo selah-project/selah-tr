@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve öfkeyi kalbinden uzaklaştır ve kötülüğü bedeninden geçir-defet; çünkü ⟨ה⟩ gençlik ve ⟨ה⟩ karalık hevaldır.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "ve uzaklaştır"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "öfkeyi"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "kalbinden"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ve geçir-defet"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "bedeninden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "gençlik"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ve karalık"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevaldır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:50.542303940Z",
+  "model": "glm-5.3"
+}

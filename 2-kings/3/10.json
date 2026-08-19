@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "İsrail kralı dedi: Vay! Çünkü Yahve bu üç kralı çağırdı — ⟨את⟩ onları Moav'ın eline teslim etmek için.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Vay!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermek için"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eline"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:04.085242856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Alay ederler ve kötülükle zulümden söz ederler; yücelerden konuşurlar.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "alay ederler"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ve söz ederler"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kötülükle"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "zulümden"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yücelerden"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "konuşurlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:20.863200551Z",
+  "model": "glm-5.3"
+}

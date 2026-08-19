@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Avraham koyun sürüsünden yedi dişi kuzuyu ⟨את⟩ ayrıca tek başına ayırdı.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ve ayırdı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yedi dişi kuzu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "dişi kuzu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürünün"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "kendi başlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:09.685963379Z",
+  "model": "glm-5.3"
+}

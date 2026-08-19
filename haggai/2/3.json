@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 2:3",
+  "book": "haggai",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İçinizden kim kaldı ki ⟨את⟩ bu evi ilk görkeminde gördü? Ve şimdi ⟨את⟩ onu nasıl görüyorsunuz? Gözlerinizde o değil mi, sanki yok gibi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "içinizden"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "kaldı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "görkeminde"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve nasıl"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "görüyorsunuz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "onu gibi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "sanki yok gibi"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "gözlerinizde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:48:16.439283089Z",
+  "model": "glm-5.3"
+}

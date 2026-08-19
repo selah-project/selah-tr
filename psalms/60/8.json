@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Elohim kutsallığında konuştu: «Sevineceğim, Şekem'i paylaştıracağım ve Sukkot vadisini ölçeceğim.»",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "kutsallığında"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "sevineceğim"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "paylaştıracağım"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem'i"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ve vadisini"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ölçeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:22.710448493Z",
+  "model": "glm-5.3"
+}

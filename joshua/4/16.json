@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Tanıklık sandığını taşıyan kâhinlere ⟨את⟩ buyruk ver; ve Yarden'den çıksınlar.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "buyruk ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kâhinlere"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinlere"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "taşıyan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığını"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Tanıklık"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ve çıksınlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:22.097372992Z",
+  "model": "glm-5.3"
+}

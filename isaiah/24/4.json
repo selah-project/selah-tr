@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Yas tuttu, solup gitti yer; zayıfladı, solup gitti dünya; yeryüzü halkının yükseklendikleri zayıfladı.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "yas tuttu"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "solup gitti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "zayıfladı"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "solup gitti"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "zayıfladı"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yükseklendikleri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:48.072867420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Hepsi fırın gibi kızdılar ve ⟨את⟩ yargıçlarını yediler; bütün kralları düştü; onların içinde bana çağıran yok.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "kızdılar"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "fırın gibi"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ve yediler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yargıçlarını"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "yargıçlarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağıran"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların içinde"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:01.904650194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Her şey herkes içindir — herkese olduğu gibi: tek kader var, sadık için ve kötü için, iyi için ve temiz olan için ve murdar olan için, kurban kesen için ve kurban kesmeyen için; iyiye olduğu gibi günahkâra da; yemin edene, yemin edenin korktuğu gibi.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Her şey"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "herkese olduğu gibi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herkes için"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "kader"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sadık için"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "ve kötü için"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "iyi için"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "ve temiz olan için"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "ve murdar olan için"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "ve kurban kesen için"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ve olana"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban kesen"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "iyiye olduğu gibi"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "günahkâra da"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "yemin edene"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olduğu gibi"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "yeminden"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:34.782975823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Sara, Avraham'a doğurmuş olduğu Mısırlı Hagar'ın oğlunu ⟨את⟩ eğlenirken gördü.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar'ın"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mısırlı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurmuş olduğu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham'a"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "eğlenirken"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:45.784907014Z",
+  "model": "glm-5.3"
+}

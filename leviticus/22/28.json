@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve sığırı ya da davarı — ⟨את⟩ onu ve ⟨את⟩ yavrusunu tek bir günde kesmeyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "ve sığır"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "שה",
+      "gloss": "davar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yavrusunu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "yavrusunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "keseceksiniz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek bir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:11.213952820Z",
+  "model": "glm-5.3"
+}

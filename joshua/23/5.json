@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Yahve Elohim'iniz, ⟨o⟩ onları yüzünüzden kovacak ve onları önünüzden miras alarak sürecek; ⟨את⟩ onların topraklarını miras alacaksınız, tıpkı Yahve Elohim'inizin size söylediği gibi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ve Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "onları kovacak"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "yüzünüzden"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "ve miras alarak sürecek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları (önünüzden)"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "önünüzden"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ve miras alacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların topraklarını"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "onların topraklarını"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tıpkı... gibi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söylediği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'inizin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    }
+  ],
+  "timestamp": "2026-08-19T09:13:48.334999953Z",
+  "model": "glm-5.3"
+}

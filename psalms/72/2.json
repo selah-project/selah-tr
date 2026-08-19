@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Halkını adaletle yargılasın, ve yoksullarını hükümle.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "yargılasın"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "adaletle"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "ve yoksullarını"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hükümle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:09.093766551Z",
+  "model": "glm-5.3"
+}

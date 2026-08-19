@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Moşe ⟨את⟩ elini göklere doğru uzattı; ve bütün Mısır ülkesinde üç gün süreyle yoğun bir karanlık oldu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ve uzattı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "yoğun\/katı karanlık"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:59.234965407Z",
+  "model": "glm-5.3"
+}

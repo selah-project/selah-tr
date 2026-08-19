@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Beni yargıla, Elohim, ve davamı savun; sadık olmayan ulustan, hileli ve zulümkâr adamdan beni kurtar.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "beni yargıla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ve savun"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "davamı"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ulustan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "sadık"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hileli"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ve zulümkâr"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "beni kurtar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:10.309036213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Yahve'nin malahı ona dedi: Çoğaltarak çoğaltacağım ⟨את⟩ zürriyetini ve çokluğundan sayılamayacak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çoğaltarak"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "çoğaltacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zürriyetini"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zürriyetini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayacak"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sayılacak"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "çokluğundan"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:53.618246169Z",
+  "model": "glm-5.3"
+}

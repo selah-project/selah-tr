@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 138,
+  "translation": "Yahve, bütün yeryüzü kralları sana şükredecekler, çünkü ağzının sözlerini işittiler.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "sana şükredecekler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "işittiler"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:27.069991835Z",
+  "model": "glm-5.3"
+}

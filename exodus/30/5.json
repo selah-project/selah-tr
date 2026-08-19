@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Sırıklarını şitim ağacından yapacaksın ve onları altınla kaplayacaksın.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sırıkları"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sırıkları"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ve kaplayacaksın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altınla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:24.386473684Z",
+  "model": "glm-5.3"
+}

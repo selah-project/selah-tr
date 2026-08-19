@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Geçip gitti ve bir de ⟨baktım⟩, o artık yok; onu aradım ama bulunamadı.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ve geçip gitti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve bir de (bak)"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "o artık yok"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "ve onu aradım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "bulunamadı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:24.341865612Z",
+  "model": "glm-5.3"
+}

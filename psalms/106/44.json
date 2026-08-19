@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ne var ki sıkıntılarında onları gördü, feryatlarını işittiğinde.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sıkıntıda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "işittiğinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feryatlarını"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "feryatlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:42.082418671Z",
+  "model": "glm-5.3"
+}

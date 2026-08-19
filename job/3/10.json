@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü annemimin rahminin kapılarını kapatmadı, ve sıkıntıyı gözlerimden gizlemedi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-medi"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "kapattı"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "kapılarını"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "rahmimin"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ve gizledi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sıkıntıyı"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "gözlerimden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:43.135230988Z",
+  "model": "glm-5.3"
+}

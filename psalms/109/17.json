@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Ve laneti sevdi, ve o ⟨onu⟩ buldu; ve bereketi istemedi, ve o ⟨onu⟩ uzaklaştı ondan.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ve sevdi"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "laneti"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ve o geldi ona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve istemedi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "arzu etmedi"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "bereketi"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ve uzaklaştı"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:17.179090451Z",
+  "model": "glm-5.3"
+}

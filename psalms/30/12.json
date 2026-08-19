@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Yasımı bana dönüştürdünuncaya; çuvalımı çözdün ve beni sevinçle kuşattın.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "dönüştürdün"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "yasımı"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "uncaya ... ⟨dönüşmesi için⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "çözdün"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "çuvalımı"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "ve beni kuşattın"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinçle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:50.973967130Z",
+  "model": "glm-5.3"
+}

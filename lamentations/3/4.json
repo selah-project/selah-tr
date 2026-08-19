@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Etimi ve derimi eskitti, kemiklerimi kırdı.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "eskitti"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "etimi"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ve derimi"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kırdı"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kemiklerimi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:17.431286758Z",
+  "model": "glm-5.3"
+}

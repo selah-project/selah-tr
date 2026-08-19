@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "«Benimle senin aramda, ve babamla senin baban arasında ⟨bir⟩ ant ⟨vardır⟩; işte sana gümüş ve altın gönderdim; git, İsrail kralı Başa ile ⟨את⟩ olan antını boz ki benden çekilip gitsin.»",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "senin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve arasında"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "senin baban"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "gönderdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ve altın"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boz"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "antını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Başa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "ve çekilip gitsin"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T12:06:04.180881632Z",
+  "model": "glm-5.3"
+}

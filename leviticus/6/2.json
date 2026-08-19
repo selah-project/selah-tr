@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Emret ⟨את⟩ Aharon'a ve ⟨את⟩ oğullarına, şöyle diyerek: Bu, yakmalık sununun torasıdır; o yakmalık sunu, yakıtıyla sunağın üzerinde, bütün gece sabaha kadar ⟨yanar⟩; ve sunağın ateşi onda ⟨tutuşturulur⟩.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Emret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğulları"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torası"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sununun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sunu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "yakıtı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-a kadar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sabaha"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ve ateşi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "tutuşturulur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:33.481146478Z",
+  "model": "glm-5.3"
+}

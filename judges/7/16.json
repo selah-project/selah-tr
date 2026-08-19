@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Üç yüz adamı ⟨את⟩ üç bölüğe ayırdı ve hepsinin eline şofarlar, boş küpler ve küplerin içinde meşaleler verdi.",
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "ayırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üç yüz adamı"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "bölüğe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "şofarlar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eline"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsinin"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "küpler"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "boş"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "ve meşaleler"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "küplerin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:16:45.268803718Z",
+  "model": "glm-5.3"
+}

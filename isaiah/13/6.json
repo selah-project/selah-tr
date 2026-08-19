@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Uluyun, çünkü yakın Yahve'nin günü; Şadday'dan ⟨bir⟩ yıkım olarak gelecek ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "uluyun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yakın"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "yıkım olarak"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Şadday'dan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:40.925429572Z",
+  "model": "glm-5.3"
+}

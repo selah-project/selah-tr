@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Elpa'al'ın oğulları: Ever, Mişam ve Şamed — o ⟨את⟩ Ono'yu, ⟨את⟩ Lod'u ve kız-kentlerini inşa etti.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al'ın"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ve Mişam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ve Şamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono'yu"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Lod'u"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ve kız-kentleri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:32.190513345Z",
+  "model": "glm-5.3"
+}

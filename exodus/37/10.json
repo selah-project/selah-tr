@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve ⟨את⟩ sofra yaptı, şitim ağacından; uzunluğu iki arşın, genişliği bir arşın, yüksekliği bir buçuk arşındı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sofra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "sofra"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iki arşın"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve bir arşın"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "genişliği"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve bir arşın"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ve buçuk"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "yüksekliği"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:59.321051439Z",
+  "model": "glm-5.3"
+}

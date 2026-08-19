@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Lot'a seslendiler ve ona dediler: Nerede ⟨o⟩ adamlar ⟨ki⟩ bu gece yanına geldiler? Onları bizim sana çıkar, ⟨את⟩ onları bilelim.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "seslendiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "o adamlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geldiler"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bu gece"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "onları çıkar"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ve bilelim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:32.976222738Z",
+  "model": "glm-5.3"
+}

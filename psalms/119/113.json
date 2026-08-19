@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "İki görüşlülerden nefret ettim, ve senin Törat'nı sevdım.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "iki görüşlüler"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nefret ettim"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ve senin Törat'nı"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevdım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:43.201725008Z",
+  "model": "glm-5.3"
+}

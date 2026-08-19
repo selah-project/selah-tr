@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Bizi uluslar arasında atasözü, halklar arasında baş sallama ⟨kıldın⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "bizi koyuyorsun"
+    },
+    {
+      "surface": "משל",
+      "gloss": "atasözü"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "uluslar arasında"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "sallanan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "בל",
+      "gloss": "içinde (pausal)"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "halklar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:02.764905295Z",
+  "model": "glm-5.3"
+}

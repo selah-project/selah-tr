@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Öfkesine bir yol düzledi; canlarını ölümden esirgemedi, yaşamlarını veba teslim etti.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "düzledi"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "bir yol"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "öfkesine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "esirgemedi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümden"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canlarını"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "yaşamlarını"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "vebaya"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "teslim etti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:00.826305799Z",
+  "model": "glm-5.3"
+}

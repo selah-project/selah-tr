@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yahve Moşe'ye dedi: Paroh'un kalbi ağırlaşmıştır, halkı salıvermeyi reddediyor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağırdır"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "reddediyor"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "salıvermeyi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:57.313166634Z",
+  "model": "glm-5.3"
+}

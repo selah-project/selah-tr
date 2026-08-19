@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Şaharayim, karıları Huşim ve Baara'yı gönderdikten sonra, onları ⟨את⟩ Moav tarlasında doğurdu.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "ve Şaharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu\/babası oldu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlasında"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—den sonra"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "onları göndermesi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlar",
+      "marks": "Huşim ve Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Huşim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "karıları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:44.113649259Z",
+  "model": "glm-5.3"
+}

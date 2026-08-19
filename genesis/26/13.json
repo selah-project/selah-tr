@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve adam büyüdü; yürüyüp büyümeye devam etti, ta ki çok büyük oluncaya kadar.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "büyüdü"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yürüdü"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yürüyüp"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "büyüyerek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "büyük oldu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:00.934169343Z",
+  "model": "glm-5.3"
+}

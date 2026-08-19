@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Sıkıntımı gör ve beni kurtar, çünkü senin Tora'nı unutmadım.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "sıkıntımı"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "ve beni kurtar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "senin Tora'nı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:37.266520068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve dillerini ⟨את⟩ yay gibi eğdiler — yalan için, sadakat için değil; ülkede güç kazandılar, çünkü kötülükten kötülüğe çıktılar ve ⟨את⟩ beni tanımadılar — Yahve'nin sözü.",
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "ve eğdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dillerini"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dillerini"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "yaylarını"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "sadakat için"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "güç kazandılar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülüğe"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıktılar"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ve ⟨את⟩ beni",
+      "marks": "beni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tanıdılar"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:07:37.688704845Z",
+  "model": "glm-5.3"
+}

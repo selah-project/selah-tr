@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ Beyt-Tsur'u ve ⟨את⟩ Soko'yu ve ⟨את⟩ Adullam'ı ⟨da⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Beyt-Tsur'u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Soko'yu"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Adullam'ı"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:50.557998622Z",
+  "model": "glm-5.3"
+}

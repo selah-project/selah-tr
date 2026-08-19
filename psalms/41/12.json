@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Bundan bilirim ki benden hoşnut oldun; çünkü düşmanım bana karşı bağırmayacak.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "hoşnut oldun"
+    },
+    {
+      "surface": "בי",
+      "gloss": "benden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "bağırmayacak"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanım"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:46.013110310Z",
+  "model": "glm-5.3"
+}

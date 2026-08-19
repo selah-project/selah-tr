@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Yüzünü benden gizleme, bana sıkıntı gününde; kulağını bana eğ, çağırdığım günde — çabuk, bana karşılık ver.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…me"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "gizle"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "eğ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana doğru"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırdığım"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "çabuk"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bana karşılık ver"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:33.254189542Z",
+  "model": "glm-5.3"
+}

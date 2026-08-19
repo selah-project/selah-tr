@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve Şaul Amalek şehrine geldi ve vadide pusu kurdu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehrine"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ve pusu kurdu"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "vadide"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:04.089184066Z",
+  "model": "glm-5.3"
+}

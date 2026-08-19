@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Yahuda'nın bütün şehirlerinden bamotları ⟨את⟩ ve güneş putlarını ⟨את⟩ kaldırdı; ve krallık onun önünde sessiz kaldı.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "kaldırdı"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -den"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şehirleri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda'nın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamotları"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamotları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "güneş putlarını"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "güneş putları"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "ve sessiz kaldı"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "krallık"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:04.696402067Z",
+  "model": "glm-5.3"
+}

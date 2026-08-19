@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "ve sergi sofraları için altını — ⟨את⟩ — ağırlığa göre, sofradan sofraya; ve gümüşü gümüş sofralar için.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altını"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "altını"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ağırlık"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "sofraları için"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "sergi (lerin)"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "sofraya"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "ve sofraya"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ve gümüş"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "sofraları için"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    }
+  ],
+  "timestamp": "2026-08-19T12:01:40.624680084Z",
+  "model": "glm-5.3"
+}

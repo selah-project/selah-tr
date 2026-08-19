@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve kral yüzüğünü ⟨את⟩ elinden çıkardı ve onu Haman'a verdi — Hamdata'nın oğlu, Agaglı, Yahudilerin düşmanı.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ve çıkardı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzüğünü"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "yüzüğünü"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elinin"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman'a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata'nın"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agaglı"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "düşmanı"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudilerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:16.421392273Z",
+  "model": "glm-5.3"
+}

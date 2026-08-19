@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Moşe halkı gördü — çünkü dizginleri bırakılmıştı ⟨halk⟩, çünkü Aharon onu düşmanlarının içindeki alaya salmıştı, dizginlerini çözmüştü onların",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "dizginleri bırakılmıştı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "dizginlerini çözdü"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "alaya"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "düşmanlarının içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:12.412089262Z",
+  "model": "glm-5.3"
+}

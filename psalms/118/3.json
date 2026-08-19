@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Aharon'un evi desin şimdi: «Çünkü merhameti sonsuza dek sürer.»",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "desinler"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "merhameti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:54.759981603Z",
+  "model": "glm-5.3"
+}

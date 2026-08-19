@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Davud'a aittir. Kötüler yüzünden öfkelenme ⟨ki⟩ zulüm işleyenleri kıskanma.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a aittir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "öfkelenme"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "kötüler yüzünden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kıskanma"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "işleyenleri"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "zulüm"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:27.822212708Z",
+  "model": "glm-5.3"
+}

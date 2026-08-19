@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Mitzrayim ⟨את⟩ Ludileri, ⟨את⟩ Anamileri, ⟨את⟩ Lehabileri ve ⟨את⟩ Naftuhimleri doğurdu.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "ve Mitzrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludileri"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludiler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anamileri"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamiler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lehabileri"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabiler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftuhimleri"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuhimler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:20.076638285Z",
+  "model": "glm-5.3"
+}

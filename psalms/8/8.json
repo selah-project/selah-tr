@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Küçükbaş hayvanlar ve sığırlar, hepsi, hem de tarla hayvanları.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "küçükbaş hayvanlar"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ve sığırlar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hem de"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "hayvanları"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tarla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:02.032598539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Bağrıştılar ama kurtaran yoktu; Yahve'ye yalvardılar ama ⟨onlara⟩ cevap vermedi.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "bağrıştılar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ama yok"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "kurtaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "(-e doğru \/ -e karşı)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama olmadı"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "onlara cevap vermedi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:20.009047590Z",
+  "model": "glm-5.3"
+}

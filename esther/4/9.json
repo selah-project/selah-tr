@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Hatak geldi ve Ester'e Mordehay'ın ⟨את⟩ sözlerini bildirdi.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözlerini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:24.306549398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Davud dedi: Yahve, İsrail'in Elohim'i, kulun kesinlikle duydu ki Şaul, benim yüzümden şehri yok etmek için Keila'ya girmek istiyor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "duydu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kesinlikle duydu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "istiyor"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girmeye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "yok etmek için"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "benim yüzümden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:54.492822018Z",
+  "model": "glm-5.3"
+}

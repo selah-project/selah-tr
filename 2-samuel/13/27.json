@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Avşalom onu zorladı; o da onunla birlikte ⟨את⟩ Amnon'u ve ⟨את⟩ kralın bütün oğullarını gönderdi.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "ve zorladı"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "onunla birlikte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon'u"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün oğulları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:49.950308247Z",
+  "model": "glm-5.3"
+}

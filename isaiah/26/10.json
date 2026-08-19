@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Kötüye lütfedilse doğruluğu öğrenmez; düzgünlük ülkesinde haksızlık eder ve Yahve'nin yüceliğini görmez.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "lütfedilse"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨değil⟩"
+    },
+    {
+      "surface": "למד",
+      "gloss": "öğrenmez"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "düzgünlük"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "haksızlık eder"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ve ⟨değil⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görmez"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "yüceliğini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:07.282948572Z",
+  "model": "glm-5.3"
+}

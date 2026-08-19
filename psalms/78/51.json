@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve Mitzrayim'de bütün ilkdoğanları vurdu — Ḥam'ın çadırlarında güçlerinin başlangıcını.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ilkdoğanları"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitzrayim'de"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "başlangıcını"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "güçlerinin"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "çadırlarında"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ḥam'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:00.826465381Z",
+  "model": "glm-5.3"
+}

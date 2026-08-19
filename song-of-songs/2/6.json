@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Sol eli başımın altında, sağ eli ⟨beni⟩ kucaklıyor.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "sol eli"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "sağ eli"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "kucaklıyor beni"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:27.192123595Z",
+  "model": "glm-5.3"
+}

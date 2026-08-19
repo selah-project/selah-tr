@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve meshedilmiş kâhin boğanın kanından alacak ve onu ⟨את⟩ toplantı çadırına getirecek.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ve alacak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "meshedilmiş"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "kanından"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğanın"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ve getirecek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantının"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:57.659454490Z",
+  "model": "glm-5.3"
+}

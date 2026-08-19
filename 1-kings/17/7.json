@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve günlerin sonunda oldu, ve dere kurudu, çünkü yerde yağmur yoktu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlerin"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ve kurudu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vardı-olmuştu"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yağmur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:28.841983827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve o gece ⟨את⟩ eti yiyecekler, ateşte kızartılmış ve mayasız ekmeklerle; acı otlar üzerine yiyecekler onu.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ve yiyecekler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eti"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "kızartılmış"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ve mayasız ekmekler"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine\/ile beraber"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "acı otlar"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "onu yiyecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:10.511781274Z",
+  "model": "glm-5.3"
+}

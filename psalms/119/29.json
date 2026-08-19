@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Yalan ⟨⟨את⟩⟩ yolunu benden çevir; ve toranla bana lütfet.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "çevir\/uzaklaştır"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ve toran"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "bana lütfet"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:45.100408551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 148,
+  "translation": "Yerin kralları ve tüm uluslar, önderler ve yerin tüm yargıçları",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve tüm"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "önderler \/ beyler"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve tüm"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "yargıçları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:45.719348661Z",
+  "model": "glm-5.3"
+}

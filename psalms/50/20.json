@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Oturur kardeşine karşı konuşur, annenin oğluna ifira uydurursun.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "oturur"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "kardeşine karşı"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "konuşur"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "oğluna karşı"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annenin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verirsin"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ifira"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:08.289920202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Çünkü susuz ⟨olan⟩ üzerine sular dökeceğim, kurak yer üzerine akıntılar dökeceğim; ruhumu zürriyetinin üzerine dökeceğim ve bereketimi nesline dökeceğim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "dökeceğim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "susuz olan"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ve akıntılar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "kurak yer"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "dökeceğim"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zürriyetin"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "ve bereketim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "neslin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:56.227979213Z",
+  "model": "glm-5.3"
+}

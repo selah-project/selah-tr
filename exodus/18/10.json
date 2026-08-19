@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Yitro dedi: Kutsal olsun Yahve — sizi Mısr'ın elinden ve Paro'nun elinden kurtaran O'dur; halkı Mısr'ın eli altından ⟨את⟩ kurtaran O.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "kutsal olsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "kurtardı"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısr'ın"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ve elinden"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro'nun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "kurtardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "יד",
+      "gloss": "eli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısr'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:40.874763849Z",
+  "model": "glm-5.3"
+}

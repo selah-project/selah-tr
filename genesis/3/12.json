@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Adam dedi: «Yanıma verdiğin o kadın — ⟨o⟩ bana o ağaçtan verdi, ve ben yedim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "verdin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yanıma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "o verdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ve yedim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:02.572534645Z",
+  "model": "glm-5.3"
+}

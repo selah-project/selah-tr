@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve Yişra'el oğullarına şöyle diyeceksin: Bir adam ölür de ⟨את⟩ oğlu yoksa, mirasını kızına geçireceksiniz.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ve -e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişra'el"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "diyeceksin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-diğinde"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölür"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ve oğlu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "ve geçireceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirasını"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "mirasını"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "kızına"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:24.375876158Z",
+  "model": "glm-5.3"
+}

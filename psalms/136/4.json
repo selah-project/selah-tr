@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Yalnız ⟨O⟩'nun kendisine, büyük harikaları yapana şükür — çünkü sonsuza dek sürer O'nun sevgi-merhameti.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "yapana"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "harikaları"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız kendisine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgi-merhameti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:10.325145375Z",
+  "model": "glm-5.3"
+}

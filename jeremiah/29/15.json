@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Çünkü siz demiştiniz: 'Yahve bize Babil'de peygamberler diriltti' —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "demiştiniz"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "diriltti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "peygamberler"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babil'de"
+    }
+  ],
+  "timestamp": "2026-08-19T10:12:35.678286408Z",
+  "model": "glm-5.3"
+}

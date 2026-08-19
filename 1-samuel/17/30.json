@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Yanından dönüp bir başkasının karşısına geçti ve ⟨aynı⟩ sözü söyledi; halk ona ilk söz ⟨gibi⟩ ⟨bir⟩ yanıt verdi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מול",
+      "gloss": "karşısına"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başkasının"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözü gibi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "yanıt verdiler ona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨yanıt⟩"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:43.746480659Z",
+  "model": "glm-5.3"
+}

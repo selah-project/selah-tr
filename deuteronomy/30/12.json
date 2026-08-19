@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "⟨O⟩ göklerde değildir — ki 'Bizim için göğe kim çıkacak, ⟨את⟩ onu bizim için alıp bize duyuracak ki onu yapabilelim?' diyesin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değildir"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨O⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyesin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "çıkacak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "göğe"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ve alıp"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "bize duyuracak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "onu yapabilelim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:05.837796710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Bavel adamları ⟨את⟩ Sukkot-Benot'u yaptılar ve Kut adamları ⟨את⟩ Nergal'ı yaptılar ve Hamat adamları ⟨את⟩ Aşima'yı yaptılar.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot'u"
+    },
+    {
+      "surface": "סכות בנות",
+      "gloss": "Sukkot-Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal'ı"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "⟨את⟩ Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşima'yı"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "⟨את⟩ Aşima"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:31.561444503Z",
+  "model": "glm-5.3"
+}

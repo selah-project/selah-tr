@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Paroh tüm halkına emretti ⟨את⟩, ⟨şöyle⟩ diyerek: doğan her oğlanı ⟨את⟩ Nil'e atın onu, ve her kız yaşatın.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ve emretti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨şöyle⟩ diyerek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "oğlanı"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "doğan"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "Nil'e"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "atın onu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "yaşatın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:10.223715447Z",
+  "model": "glm-5.3"
+}

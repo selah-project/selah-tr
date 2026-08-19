@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Kral bütün halka buyruk verdi: «Yahve Elohim'inize pesah yapın, bu kitapta, ⟨את⟩ sözleşmenin kitabında yazıldığı gibi.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "buyruk verdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün halk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yapın"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'inize"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "yazıldığı gibi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabına"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sözleşme"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:58.354295923Z",
+  "model": "glm-5.3"
+}

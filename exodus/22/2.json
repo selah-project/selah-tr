@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Güneş ⟨onun⟩ üzerine doğmuşsa, ⟨onun⟩ için kan sorumluluğu vardır; tam ödeme yapacaktır; ⟨eğer⟩ ona ödeyecek bir şeyi yoksa, hırsızlığından dolayı satılacaktır.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "doğmuşsa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kan (sorumluluğu)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tam ödeme"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yapacaktır"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ve satılacaktır"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "hırsızlığı karşılığında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:27.138579909Z",
+  "model": "glm-5.3"
+}

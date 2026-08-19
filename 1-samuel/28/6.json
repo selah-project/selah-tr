@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Şaul Yahve'ye sordu, ama Yahve ona yanıt vermedi — ne düşlerde, ne Urim'de, ne peygamberlerde.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "sordu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ... olmadı"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ona yanıt verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne ... de"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "düşlerde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne ... de"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urim'de"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne ... de"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "peygamberlerde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:53.173685329Z",
+  "model": "glm-5.3"
+}

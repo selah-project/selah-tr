@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Ve Paroh dedi: «Çık ve babanı göm, sana yemin ettirdiği gibi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "çık"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "ve göm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babanı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanı"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "sana yemin ettirdi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:56.851815541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Anımsa rahmetlerini, Yahve, ve sadakatlerini, çünkü ezelden beri ⟨onlar⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "anımsa"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmetlerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "ve sadakatlerini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ezelden beri"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:38.145412659Z",
+  "model": "glm-5.3"
+}

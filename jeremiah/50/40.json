@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Elohim'in ⟨את⟩ Sedom'u ve ⟨את⟩ Amorah'ı ve ⟨את⟩ komşularını devirdiği gibi, Yahve'nin sözü: orada hiçbir adam oturmayacak, ve onda hiçbir insan oğlu konuk olmayacak.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "devirdiği gibi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedom'u"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Amorah'ı"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "komşularını"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "komşularını"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturacak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "konuk olmayacak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:22:03.544123126Z",
+  "model": "glm-5.3"
+}

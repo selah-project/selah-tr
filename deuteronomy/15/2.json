@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve şemittanın sözü şudur: her borç sahibi komşusuna açtığı eliyle ödünç verdiği şeyi bıraksın; komşusundan ⟨את⟩ ve kardeşinden ⟨את⟩ borcu istemesin, çünkü Yahve'ye şemitta ilan edilmiştir.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ve bu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "şemittanın"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "bıraksın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "borç"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "ödünç verdiği"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "komşusuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "istemesin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komşusundan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "komşusundan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kardeşinden"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşinden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ilan edilmiştir"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "şemitta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:07.485806115Z",
+  "model": "glm-5.3"
+}

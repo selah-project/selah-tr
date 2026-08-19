@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Kadın emzirdiği çocuğunu unutur mu, rahminin oğluna acımaz mı? Bunlar unuturlar — ama ben, seni unutmayacağım.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "unutur mu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "emzirdiği çocuğunu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "rahminin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "karnının"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bunlar bile"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "unuturlar"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ama ben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "seni unutmayacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:56.315784465Z",
+  "model": "glm-5.3"
+}

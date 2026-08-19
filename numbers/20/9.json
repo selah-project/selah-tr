@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Moşe asayı Yahve'nin önünden aldı, kendisine buyurduğu gibi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asayı"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "önünden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ona buyurduğu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:23.987105164Z",
+  "model": "glm-5.3"
+}

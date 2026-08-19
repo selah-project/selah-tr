@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Ever otuz dört yıl yaşadı ve ⟨את⟩ Peleg'i doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ve yaşadı"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dört"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ve otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg'i"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg'i"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:03.144189359Z",
+  "model": "glm-5.3"
+}

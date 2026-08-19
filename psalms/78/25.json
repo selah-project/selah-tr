@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Güçlülerin ekmeğini yedi her ⟨איש⟩; onlara doyasıya av eti gönderdi.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "güçlülerin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "av eti"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "doyasıya"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:04.733454870Z",
+  "model": "glm-5.3"
+}

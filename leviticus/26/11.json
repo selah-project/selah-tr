@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Konutumu aranızda kılacağım ve canım ⟨את⟩ sizden iğrenmeyecek.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kılacağım"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "konutumu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "aranızda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "iğrenmeyecek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:15.394806664Z",
+  "model": "glm-5.3"
+}

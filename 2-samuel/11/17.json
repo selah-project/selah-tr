@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Şehrin adamları çıkıp Yoav ile ⟨את⟩ savaştılar ve halkın arasından Davut'un kölelerinden bazıları düştü; ve Uriya the Hitit de öldü.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ve çıkıp savaştılar"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "savaştılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ve düştü"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "kölelerinden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut'un"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitit"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:01.377268594Z",
+  "model": "glm-5.3"
+}

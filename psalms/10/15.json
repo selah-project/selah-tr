@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kır kötünün kolunu, ve kötülükta olanı ara; kötülüğü — asla bulma ⟨artık⟩.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "kır"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "kolunu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ve kötülükta olanı"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ara"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bulma"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:16.637920890Z",
+  "model": "glm-5.3"
+}

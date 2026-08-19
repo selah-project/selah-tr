@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ⟨את⟩ dört arabayı ve ⟨את⟩ sekiz sığırı Merari oğullarına verdi, hizmetlerine göre, kâhin Aharonun oğlu Itamarın eli altında.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "dört arabayı"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dört"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "arabayı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sekiz sığırı"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "sekiz"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sığırı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "göre"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hizmetlerine"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:41.020826312Z",
+  "model": "glm-5.3"
+}

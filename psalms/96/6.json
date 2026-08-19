@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Görkem ve haşmet ⟨onun⟩ önündedir; güç ve güzellik ⟨onun⟩ mabedindedir.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "görkem"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ve haşmet"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünde"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güç"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ve güzellik"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "onun mabedinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:36.000792424Z",
+  "model": "glm-5.3"
+}

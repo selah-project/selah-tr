@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Güneş doğunca toplanırlar ve inlerinde yatarlar.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "doğar"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "toplanırlar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e doğru"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "inlerine"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "yatarlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:11.729134457Z",
+  "model": "glm-5.3"
+}

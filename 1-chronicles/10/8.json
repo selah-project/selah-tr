@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ertesi gün oldu, Peleştimliler ölüleri soymaya geldiler ve ⟨את⟩ Şaul'u ve ⟨את⟩ oğullarını Gilboa dağında düşmüş olarak buldular.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertesi gün"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ve geldiler"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştimliler"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "soymaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüleri"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ölüleri"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ve buldular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul'u"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "düşmüş olarak"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-19T12:26:13.075816059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "çünkü babasının Elohim'ine yöneldi ve onun mitzvotlarında yürüdü, İsrail'in yaptığı gibi değil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim'ine"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yöneldi"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "onun mitzvotlarında"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yürüdü"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "yaptığı gibi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T12:06:07.942522570Z",
+  "model": "glm-5.3"
+}

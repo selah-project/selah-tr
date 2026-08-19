@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve sabahleyin Yosef yanlarına geldi ve ⟨את⟩ onları gördü, işte onlar asık yüzlüydüler.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "yanlarına"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ve işte onlar"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "asık yüzlü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:50.343693187Z",
+  "model": "glm-5.3"
+}

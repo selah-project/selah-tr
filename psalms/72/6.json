@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Biçilmiş çimen üzerine yağmur gibi, yeryüzünü yıkayan sağanaklar gibi inecek.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "inecek"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "yağmur gibi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "גז",
+      "gloss": "biçilmiş çimen"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "sağanaklar gibi"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "yıkayan \/ döken"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:03.419718412Z",
+  "model": "glm-5.3"
+}

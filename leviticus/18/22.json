@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve ⟨את⟩ erkekle kadının yatağı üzere yatma; iğrençliktir o.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "erkekle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkekle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "yatma"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yatağı üzere"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadının"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "iğrençliktir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:04.485324741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "«Elohim onu terk etti; kovalayın ve onu yakalayın, çünkü onu kurtaran yok» diyerek.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "onu terk etti"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "kovalayın"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ve onu yakalayın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kurtaran"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:02.210977897Z",
+  "model": "glm-5.3"
+}

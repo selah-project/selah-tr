@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Kardeşin yoksullaşır ve mülkünden bir parça satarsa, ona yakın goel'i gelirse, kardeşinin sattığını kurtarsın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "yoksullaşır"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşin"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "ve satarsa"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "mülkünden"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "gelirse"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "goel'i"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yakın"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "ve kurtarsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşinin sattığını (ממכר)"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "satılan şeyi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşinin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:00.374468231Z",
+  "model": "glm-5.3"
+}

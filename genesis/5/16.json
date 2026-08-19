@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Mahalalel, Yered'i doğurduktan sonra otuz yıl ve sekiz yüz yıl yaşadı; oğullar ve kızlar doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "doğurduktan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered'i"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ve sekiz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ve kızlar"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:15.248153828Z",
+  "model": "glm-5.3"
+}

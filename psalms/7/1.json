@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Şigayon, Davud'a ait; Yahve'ye, Kuş bin-Yemini'nin sözleri üzerine söylenendir.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Şigayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yemini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:21.329070525Z",
+  "model": "glm-5.3"
+}

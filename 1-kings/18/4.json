@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve İzvel, Yahve'nin ⟨את⟩ peygamberlerini kırptığında Ovadyahu yüz peygamber aldı ve onları mağarada ellişer kişi sakladı ve onlara ekmek ve su ile bakım sağladı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "kırpdığında"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzvel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin peygamberlerini"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "peygamberlerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": " aldı"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "ve onları sakladı"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ellişer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mağarada"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "ve onlara bakım sağladı"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ve su"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:48.888467729Z",
+  "model": "glm-5.3"
+}

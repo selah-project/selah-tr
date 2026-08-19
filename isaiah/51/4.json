@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Bana kulak verin, halkım, ve ulusum, bana dinleyin; çünkü Tora ⟨את⟩ tarafımdan çıkacak ve hükmümü halklara bir ışık olarak aniden duraklatacağım.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "kulak verin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "ve ulusum"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "dinleyin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ tarafımdan",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıkacak"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ve hükmüm"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "bir ışık olarak"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halklara"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "aniden duraklatacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T12:34:43.399879364Z",
+  "model": "glm-5.3"
+}

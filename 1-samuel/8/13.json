@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve kızlarınızı alacak — güzel kokular hazırlayanlar, aşçılar ve ekmek pişirenler olarak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kızlarınızı"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "kızlarınızı"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alacak"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "güzel kokular hazırlayanlar"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "ve aşçılar"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "ve ekmek pişirenler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:02.441076196Z",
+  "model": "glm-5.3"
+}

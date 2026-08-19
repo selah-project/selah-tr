@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Davud yaşlandı ve günlerle dolmuştu; oğlu Şelomo'yu İsrail üzerine kral etti.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlandı"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ve dolmuştu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlerle"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kral etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T11:59:35.159117065Z",
+  "model": "glm-5.3"
+}

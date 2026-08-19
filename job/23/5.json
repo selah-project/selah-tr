@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Sözlerini bilirdim ki bana karşılık versin, ve ⟨anlardım⟩ bana ne diyeceğini.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "bilirdim"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "bana karşılık versin"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "ve ⟨anlardım⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "diyeceğini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:29:30.399464614Z",
+  "model": "glm-5.3"
+}

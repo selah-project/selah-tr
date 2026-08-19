@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 100,
+  "translation": "Bilin ki Yahve ⟨odur⟩ Elohim; bizi ⟨o⟩ yaptı, biz değil; kendi halkı ve sürüsünün koyunları ⟨biziz⟩.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨odur⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "bizi yaptı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kendi halkı"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ve sürüsünün koyunları"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "yaylası"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:22.903071109Z",
+  "model": "glm-5.3"
+}

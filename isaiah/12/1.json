@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve o günde diyeceksin: Sana şükredeceğim Yahve, çünkü bana öfkelendin; öfken döndü ve beni avuttun.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ve diyeceksin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sana şükredeceğim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "öfkelendin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "öfken"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "ve beni avuttun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:16.023545036Z",
+  "model": "glm-5.3"
+}

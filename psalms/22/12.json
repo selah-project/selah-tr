@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Uzak durma benden, çünkü sıkıntı yakındır, çünkü yardım eden yoktur.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "uyarı\/iste (-me)"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzak dur"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "yakındır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "yardım eden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:56.967116199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 2:16",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Adam ona derdi ki: 'Yağı bugünkü gibi tütsüleyecekler, sonra canının istediği kadar kendine al'; o da ona şöyle derdi: 'Hayır, şimdi vereceksin; yoksa zorla alırım.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "derdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "tütsülesin(ler)"
+    },
+    {
+      "surface": "יקטירון",
+      "gloss": "tütsüleyecekler"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bugünkü gibi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "al"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "istediği"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "derdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hayır\/çünkü"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vereceksin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoksa eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "alırım"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "zorla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:22.270993048Z",
+  "model": "glm-5.3"
+}

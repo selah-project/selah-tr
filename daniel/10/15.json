@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve bana bu sözlerle konuştuğunda yüzümü yere çevirdim ve sustum.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "konuştuğunda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "sözlerle"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "çevirdim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümü"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "ve sustum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:45:45.364538352Z",
+  "model": "glm-5.3"
+}

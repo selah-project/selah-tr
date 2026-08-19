@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Ağzım dolsun ⟨senin⟩ övgünle, bütün gün görkeminle.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "dolsun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "övgün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "görkemin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:02.941756617Z",
+  "model": "glm-5.3"
+}

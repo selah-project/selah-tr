@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Moşe ⟨את⟩ karısını ve ⟨את⟩ oğullarını aldı, onları eşeğe bindirdi ve Mısır ülkesine döndü; ve Moşe ⟨את⟩ Elohim'in değneğini elinde aldı.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karısını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "ve onları bindirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "eşek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve döndü"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ülkeye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "değneği"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "değnek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "elinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:00.913797005Z",
+  "model": "glm-5.3"
+}

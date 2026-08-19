@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve dedi: Ben senin babanın Elohim'i, Avraham'ın Elohim'i, Yitshak'ın Elohim'i ve Yaakov'un Elohim'i. Moşe yüzünü gizledi, çünkü Elohim'e bakmaktan korkuyordu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "senin babanın"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham'ın"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak'ın"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ve Elohim'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ve gizledi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkuyordu"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "bakmaktan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'e"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:24.645753712Z",
+  "model": "glm-5.3"
+}

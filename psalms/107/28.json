@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Ve Yahve'ye feryat ederler sıkıntılarında, ve darlıklarından çıkarır onları.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "feryat ederler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sıkıntılarında"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "ve darlıklarından"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "çıkarır onları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:50.743936838Z",
+  "model": "glm-5.3"
+}

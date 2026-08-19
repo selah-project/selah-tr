@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Evet, sana umut bağlayanların hiçbiri mahcup olmayacak; haksız yere hainlik edenler mahcup olacaklar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "evet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "sana umut bağlayanların"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahcup olacaklar"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahcup olsunlar"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "hainlik edenler"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "haksız yere"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:32.907263305Z",
+  "model": "glm-5.3"
+}

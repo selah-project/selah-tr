@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Elohim doğru yargıçtır, ve her gün öfkelenen El'dir.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "yargıç"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "öfkelenen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:56.443508767Z",
+  "model": "glm-5.3"
+}

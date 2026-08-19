@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Kılıçtan ⟨את⟩ canımı çekip kurtar, köpeğin elinden biricik ⟨olan⟩ canımı.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "çekip kurtar"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kılıçtan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "köpeğin"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "biricik ⟨olan⟩ canımı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:01.159092045Z",
+  "model": "glm-5.3"
+}

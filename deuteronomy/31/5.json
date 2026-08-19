@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve Yahve onları sizin önünüze teslim edecek; onlara, size emrettiğim bütün ⟨את⟩ buyruğa göre yapacaksınız.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ve teslim edecek onları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "önünüze"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ve yapacaksınız"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bütün...-e göre"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "emrettim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:26.945538751Z",
+  "model": "glm-5.3"
+}

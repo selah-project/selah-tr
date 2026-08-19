@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve uşağını, hizmetkarını çağırdı ve dedi: Gönderin şimdi ⟨את⟩ bunu benden dışarıya ve kapıyı onun arkasından kilitleyin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uşağını"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "uşağını"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "hizmetkarını"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "gönderin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "benden"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "dışarıya"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "ve kilitleyin"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "kapıyı"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "onun arkasından"
+    }
+  ],
+  "timestamp": "2026-08-19T09:32:14.554096781Z",
+  "model": "glm-5.3"
+}

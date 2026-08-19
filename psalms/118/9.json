@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Yahve'ye sığınmak, soylulara güvenmekten daha iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "sığınmak"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "güvenmekten"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "soylulara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:02.265425578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Uzak, çok derin olan şeyi — ⟨o⟩ kim bulabilir?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "uzak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çok"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olan şeyi"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ve derin"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "derin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "onu bulabilir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:04.282451569Z",
+  "model": "glm-5.3"
+}

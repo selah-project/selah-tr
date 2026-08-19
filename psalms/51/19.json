@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Elohim'in kurbanları ⟨dir⟩: kırık bir ruh; kırık ve ezik bir kalp — ey Elohim, onu küçümsemezsin.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "kurbanları"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "kırık"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalp"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "kırık"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "ve ezik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "küçümsemezsin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:40.484657341Z",
+  "model": "glm-5.3"
+}

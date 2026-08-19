@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve sen, ahit sandığını taşıyan kâhinlere ⟨את⟩ şunu buyuracağın: 'Yerden'in sularının kıyısına vardığınızda, Yerden içinde duracaksınız.'",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "buyuracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kâhinlere"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "taşıyan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ahit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "vardığınızda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kıyısı"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularının"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yerden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yerden içinde"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "duracaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:47.182659785Z",
+  "model": "glm-5.3"
+}

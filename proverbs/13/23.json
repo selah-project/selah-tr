@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Yoksulların sürülmüş tarlasında bol yiyecek ⟨vardır⟩, ama haksızlık yüzünden yokedilen ⟨olur⟩.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "sürülmüş tarla"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "yoksulların"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ama ⟨vardır⟩"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "yokedilen"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "olmadan \/ yüzünden"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hak \/ yargı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:33.691734887Z",
+  "model": "glm-5.3"
+}

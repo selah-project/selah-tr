@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Yüce odalarının kirişlerini sulara kuruyor, bulutları aracı yapıyor, rüzgârın kanatları üzerinde yürüyor.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "kirişlerini kuruyor"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sulara"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "yüce odalarının"
+    },
+    {
+      "surface": "השם",
+      "gloss": "yapıyor"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "bulutları"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "aracı"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "yürüyor"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "kanatları"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgârın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:22.902264197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Dağlar balmumu gibi eridi Yahve'nin önünde, bütün yerin efendisi Adonay'ın önünde.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "balmumu gibi"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "eridiler"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "efendisi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.054615021Z",
+  "model": "glm-5.3"
+}

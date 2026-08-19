@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Uyuyanın düşü gibi — uyandığında — Adonay, uyandığında onların hayalini hor kılarsın.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "düşü gibi"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "uyandığında"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "uyandığında"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "onların hayalini"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "hor kılarsın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:23.205705236Z",
+  "model": "glm-5.3"
+}

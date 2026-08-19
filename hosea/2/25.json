@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve onu kendim için yere ekeceğim, ve ⟨את⟩ Lo-Ruhamah'a merhamet edeceğim, ve Lo-Ami'ye 'Benim halkımsın' diyeceğim, ve ⟨o⟩ 'Benim Elohim'im' diyecek.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ve onu ekeceğim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendim için"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yere"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ve merhamet edeceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah'a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ve diyeceğim"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "Lo-Ami'ye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "benim halkımsın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "diyecek"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:17.454703680Z",
+  "model": "glm-5.3"
+}

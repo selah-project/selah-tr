@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Ve kulunla yargıya girme, çünkü senin önünde hiçbir yaşayan aklanamaz.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ve girme"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girme"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "yargıya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "aklanamaz"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "senin önünde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşayan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:48.896512778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 10:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve toplantı çadırının kapısından çıkmayın, yoksa ölürsünüz; çünkü Yahve'nin mesh yağı sizin üzerinizedir. Ve Moşe'nin sözüne göre yaptılar.",
+  "tokens": [
+    {
+      "surface": "ומפתח",
+      "gloss": "ve kapısından"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yok"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "çıkmayın"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "ölürsünüz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üzerinizde"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözüne göre"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:23.618698727Z",
+  "model": "glm-5.3"
+}

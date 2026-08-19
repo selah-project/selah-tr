@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü Ezra kalbini hazırlamıştı — Yahve'nin Tora'sını ⟨את⟩ araştırmaya, onu yapmaya ve İsrail'de buyruk ve hüküm öğretmeye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hazırlamıştı"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "kalbini"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "araştırmaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin Tora'sını"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora'sını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "ve yapmaya"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ve öğretmeye"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrail'de"
+    },
+    {
+      "surface": "חק",
+      "gloss": "buyruk"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ve hüküm"
+    }
+  ],
+  "timestamp": "2026-08-19T11:47:37.215122337Z",
+  "model": "glm-5.3"
+}

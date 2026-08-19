@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 16:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Yisrael oğulları onlara dediler: «Keşke Mısır ülkesinde Yahve'nin elinde ölmüş olsaydık — et kazanlarının başında oturup ekmeği tok ⟨yediğimiz⟩ zaman! Çünkü siz bizi ⟨את⟩ bu çöle çıkardınız; bütün bu cemaati ⟨את⟩ açlıktan öldürmek için.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "מותנו",
+      "gloss": "ölmüş olsaydık"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "בשבתנו",
+      "gloss": "oturduğumuzda"
+    },
+    {
+      "surface": "על",
+      "gloss": "başında"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kazanlarının"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "באכלנו",
+      "gloss": "yediğimizde"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmeği"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוצאתם",
+      "gloss": "çıkardınız"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "biz (ם suffixed)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldürmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu cemaati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "cemaati"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "açlıktan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:44.567197924Z",
+  "model": "glm-5.3"
+}

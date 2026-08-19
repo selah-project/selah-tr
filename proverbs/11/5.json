@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Tam olanın doğruluğu ⟨onun⟩ yolunu düzeltir; kendi kötülüğüyle kötü düşer.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tam olanın"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "düzeltir"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "kendi kötülüğüyle"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşer"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:45.788009495Z",
+  "model": "glm-5.3"
+}

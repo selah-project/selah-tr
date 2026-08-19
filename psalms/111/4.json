@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 111,
+  "translation": "Harikalarına bir anıt yaptı; Yahve lütufkâr ve merhametlidir.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "anıt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "harikalarına"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "lütufkâr"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ve merhametli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:33.644360357Z",
+  "model": "glm-5.3"
+}

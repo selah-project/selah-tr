@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Güçlü bir elle ve uzatılmış bir kolla, çünkü sonsuza dek sürer onun sevgisi.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "elle"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ve kolla"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uzatılmış"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun sevgisi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:57.651564829Z",
+  "model": "glm-5.3"
+}

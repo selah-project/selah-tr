@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Yehu dedi: «Baal için kutsal bir toplantı ilan edin.» Ve ilan ettiler.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal kılın"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "toplantı"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal için"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ve ilan ettiler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:35.956382920Z",
+  "model": "glm-5.3"
+}

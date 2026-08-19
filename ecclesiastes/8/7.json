@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Çünkü o, ⟨olacağı⟩ bilmez; çünkü ⟨o⟩ ne zaman olacak, kim ona bildirebilir?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "o değildir"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "neyi"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "olacağı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ne zaman"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacağı"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirebilir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:27.475011390Z",
+  "model": "glm-5.3"
+}

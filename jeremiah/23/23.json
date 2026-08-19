@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Yakın olan bir Elohim miyim ben — Yahve'nin sözü — ve uzak olan bir Elohim değil miyim?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "bir Elohim miyim"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "yakın olan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bir Elohim"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzak olan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:10:54.205403514Z",
+  "model": "glm-5.3"
+}

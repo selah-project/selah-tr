@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Sadık olan, kötünün evini belleyip kavrar; kötüler kötülüğe devrilir.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "belleyip kavrar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadık olan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "devrilir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kötülüğe"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:35.343528750Z",
+  "model": "glm-5.3"
+}

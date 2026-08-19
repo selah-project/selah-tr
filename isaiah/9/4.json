@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü gürültüyle yürüyen çizmeli her askerin çizmesi ve kanlara sarılmış elbise, yakıt olacak — ateşin yiyeceği.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "çizme"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "çizmeli (asker)"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "gürültüyle"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ve elbise"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "sarılmış"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "kanlara"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "yakmak için"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "yiyecek\/yakıt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:06.462520534Z",
+  "model": "glm-5.3"
+}

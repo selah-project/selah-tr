@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Senin hükümlerinden sapmadım, çünkü ⟨sen⟩ bana öğrettin.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "senin hükümlerinden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "sapmadım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "bana öğrettin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:33.555245958Z",
+  "model": "glm-5.3"
+}

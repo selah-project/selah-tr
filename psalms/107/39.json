@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Ve azaldılar ve baskıdan, kötülükten ve kederden yere çöktüler.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "ve azaldılar"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "yere çöktüler"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "baskıdan\/tutulmadan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ve kederden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:43.560876275Z",
+  "model": "glm-5.3"
+}

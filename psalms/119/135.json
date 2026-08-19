@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Yüzünü kulunun üzerine parıldat; ve bana ⟨את⟩ kurallarını öğret.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "האר",
+      "gloss": "parıldat"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "kulunun üzerine"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ve bana öğret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurallarını"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kurallarını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:44.885464832Z",
+  "model": "glm-5.3"
+}

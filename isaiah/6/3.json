@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve bu biri ötekine seslendi ve dedi: Kutsal, kutsal, kutsal Yahve Tsevaot, bütün yer ⟨Onun⟩ görkemiyle doludur.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "seslendi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ötekine"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ötekine"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kutsal"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "Onun görkemiyle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:47.697903670Z",
+  "model": "glm-5.3"
+}

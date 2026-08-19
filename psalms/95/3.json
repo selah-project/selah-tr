@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Çünkü Yahve büyük El'dir, tüm ilahlar üzerinde büyük Kral'dır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ve Kral"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:03.275292497Z",
+  "model": "glm-5.3"
+}

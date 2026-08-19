@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 112,
+  "translation": "Karanlıkta doğdu ⟨bir⟩ ışık dosdoğru kişiler için — lütufkâr, ve merhametli, ve âdil.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "dosdoğru kişiler için"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "lütufkâr"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ve merhametli"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ve âdil"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:34.191687683Z",
+  "model": "glm-5.3"
+}

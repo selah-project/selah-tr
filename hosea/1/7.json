@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ama ⟨את⟩ Yahuda soyuna acıyacağım ve onları Elohim'leri Yahve aracılığıyla kurtaracağım; yayla, kılıçla, savaşla, atlarla ve atlılarla kurtarmayacağım.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda soyuna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "soy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "acıyacağım"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "kurtaracağım"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve aracılığıyla"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim'leri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "...-meyeceğim"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "kurtarmak"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "yayla"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "kılıçla"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "savaşla"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "atlarla"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "atlılarla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:59.401600123Z",
+  "model": "glm-5.3"
+}

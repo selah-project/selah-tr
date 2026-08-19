@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 39:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Yaban öküzünü (re'em) sabanın tetheriyle furrowa bağlayabilir misin, yoksa senin ardınca vadileri sürer mi?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "bağlayabilir misin"
+    },
+    {
+      "surface": "רים",
+      "gloss": "yaban öküzü"
+    },
+    {
+      "surface": "בתלם",
+      "gloss": "sıraya"
+    },
+    {
+      "surface": "עבתו",
+      "gloss": "halatıyla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "sürer mi (tırmıklar mı)"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "vadileri"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "senin ardınca"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:01.092028234Z",
+  "model": "glm-5.3"
+}

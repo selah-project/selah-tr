@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Emri koruyan kötü bir şey tanımaz; zamanı ve yargıyı bilge kişinin yüreği bilir.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "koruyan"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "emri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir şey"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve zamanı"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ve yargıyı"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yüreği"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:27.474607801Z",
+  "model": "glm-5.3"
+}

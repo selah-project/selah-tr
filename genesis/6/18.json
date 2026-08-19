@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve antlaşmamı seninle ⟨את⟩ diriltip kuracağım; gemiye girecekssin, sen, oğulların, karın ve oğullarının eşleri seninle ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "diriltip kuracağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antlaşmamı"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "antlaşmamı"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "seninle ⟨את⟩"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "gireceksin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "gemiye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ve oğulların"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ve karın"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ve eşleri"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "seninle ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:15.501501103Z",
+  "model": "glm-5.3"
+}

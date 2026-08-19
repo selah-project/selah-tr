@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve ⟨onlar⟩ bilmiyorlardı ki Yosef anlıyor, çünkü aralarında tercüman vardı.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biliyorlardı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anlıyor"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tercüman"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "aralarında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:53.542965964Z",
+  "model": "glm-5.3"
+}

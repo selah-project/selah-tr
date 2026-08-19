@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Bunların hepsi David'in oğullarıdır, cariyelerin oğullarından ayrı olarak; ve Tamar onların kızkardeşiydi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ayrı olarak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "cariyelerin"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ve Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "onların kızkardeşi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:18.874025395Z",
+  "model": "glm-5.3"
+}

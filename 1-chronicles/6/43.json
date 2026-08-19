@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "ve ⟨את⟩ Hilaz'ı ve ⟨את⟩ yaylalarını, ⟨את⟩ Devir'i ve ⟨את⟩ yaylalarını",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hilaz"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Hilaz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yaylaları"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "yaylaları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yaylaları"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "yaylaları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:07.292951728Z",
+  "model": "glm-5.3"
+}

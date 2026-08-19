@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve Yisrael oğulları ⟨את⟩ Şabat'ı koruyacaklar, ⟨את⟩ Şabat'ı nesilleri boyunca yerine getirmek için — sonsuz bir antlaşma olarak.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ve koruyacaklar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabat'ı"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabat'ı"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabat'ı"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabat'ı"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nesilleri boyunca"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "antlaşma"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:27.297709742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü hikmetin gölgesi ⟨vardır⟩, paranın gölgesi ⟨gibi⟩; ⟨ama⟩ bilginin üstünlüğü: hikmet sahiplerini yaşatır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "gölgesi"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmetin"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "gölgesi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "paranın"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ve üstünlük"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilginin"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmetin"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "yaşatır"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "sahiplerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:33.250941574Z",
+  "model": "glm-5.3"
+}

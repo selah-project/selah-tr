@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "O zaman kızın babası ve annesi ⟨את⟩ kızın bekâret kanıtlarını çıkarıp kentin ihtiyarlarına, kapıya getirir",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ve alır"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babası"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kızın"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve annesi"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ve çıkarırlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kızın bekâret kanıtları"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "bekâret kanıtları"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kızın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ihtiyarları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kentin"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "kapıya"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:51.063580323Z",
+  "model": "glm-5.3"
+}

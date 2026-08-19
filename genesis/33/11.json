@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Al ne olur ⟨את⟩ kutsamamı, ki sana getirildi; çünkü Elohim bana lütfetti ve çünkü bana her şey ⟨var⟩. Ve Yakov onu israr etti, ve o aldı.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ne olur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsamamı"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "kutsamamı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "getirildi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "lütfetti bana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ve çünkü"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "ve israr etti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:00.615337046Z",
+  "model": "glm-5.3"
+}

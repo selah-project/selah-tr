@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ah keşke yollarım sağlam kılınsa, kurallarını korumak için!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ah keşke"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "sağlam kılın-sa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarım"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "korumak için"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kurallarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:05.580170563Z",
+  "model": "glm-5.3"
+}

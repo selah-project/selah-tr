@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Kullarını on gün sına, lütfen; ve bize tohumluklardan versinler de yiyelim, ve su içelim.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "sına"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kullarını"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kullarını"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ve versinler"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "tohumluklardan"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ve yiyelim"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ve su"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ve içelim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:44.371937682Z",
+  "model": "glm-5.3"
+}

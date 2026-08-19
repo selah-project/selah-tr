@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Kölesini efendisine karşı dil uzatma; Turkish: Bir köleyi efendisine karşı dil uzatma, yoksa seni lanetler ve suçlu sayılırsın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ma (olumsuz emir)"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "dil uzatma"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "köleyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı \/ -e doğru"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "efendisine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa \/ ki¬"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "seni lanetler"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "ve suçlu sayılırsın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:54.292181351Z",
+  "model": "glm-5.3"
+}

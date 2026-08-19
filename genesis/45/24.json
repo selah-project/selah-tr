@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Kardeşlerini ⟨את⟩ gönderdi ve yürüdüler; ve onlara dedi: Yolda öfkelenmeyin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşlerini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşlerini"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ve yürüdüler"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "öfkelenmeyin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:01.574169913Z",
+  "model": "glm-5.3"
+}

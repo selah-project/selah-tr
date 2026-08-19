@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Beni haklı kılan yakındır; kim ⟨את⟩ benimle tartışır? Birlikte dururalım; davamın sahibi kimdir? Bana yaklaşsın.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "yakındır"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "beni haklı kılan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "tartışır"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ benimle",
+      "marks": "benimle"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "durularım"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "davamın"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "yaklaşsın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:07.300759997Z",
+  "model": "glm-5.3"
+}

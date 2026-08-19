@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ki toprağı ⟨את⟩ işlediğinde, gücünü sana vermeye devam etmeyecek; kaçek ve serseri olacaksın yeryüzünde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "işlediğinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağı"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "devam etmeyecek"
+    },
+    {
+      "surface": "תת",
+      "gloss": "vermeye"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "gücünü"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נע",
+      "gloss": "kaçek"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "ve serseri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaksın"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:01.441626046Z",
+  "model": "glm-5.3"
+}

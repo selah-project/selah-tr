@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Gündüz karanlıkla karşılaşırlar ve gece gibi öğle vakti el yordamıyla yürürler.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "karşılaşırlar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlıkla"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "ve gece gibi"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "el yordamıyla yürürler"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "öğle vakti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:13.450877147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Bilgelik bilgeye güç verir; şehirde olan onlar yöneticiden daha ⟨fazla⟩.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "bilgelik"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "güç verir"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "bilgeye"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "yönetici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:24.647292827Z",
+  "model": "glm-5.3"
+}

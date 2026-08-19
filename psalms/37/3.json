@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Yahve'ye güven ve iyilik yap; ülkede otur ve sadakati ⟨güdüp⟩ besle.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "güven"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "otur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkede"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ve güdüp besle"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sadakat"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:27.822580969Z",
+  "model": "glm-5.3"
+}

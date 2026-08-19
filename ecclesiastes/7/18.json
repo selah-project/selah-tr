@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "İyidir ⟨ki⟩ bunu tutman; ve bundan da elini çekme; çünkü Elohim'den korkan ⟨kişi⟩ ⟨את⟩ onların hepsinden çıkacaktır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "tutman"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve de"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yapma"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "çekme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkacaktır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların hepsinden"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "onların hepsinden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:24.647158545Z",
+  "model": "glm-5.3"
+}

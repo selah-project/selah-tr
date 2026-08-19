@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Tsur kendine sığınak kurdu, gümüşü toz gibi yığdı ve saf altını sokakların çamuru gibi.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "kurdu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsur"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "yığdı"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "toz gibi"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "ve saf altını"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "çamuru gibi"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "sokakların"
+    }
+  ],
+  "timestamp": "2026-08-19T10:48:56.713626715Z",
+  "model": "glm-5.3"
+}

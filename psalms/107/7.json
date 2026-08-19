@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Ve onları doğru bir yolda yönlendirdi, oturulacak bir şehre gitmeleri için.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "onları yönlendirdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "bir yolda"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gitmeleri için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bir şehre"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "oturulacak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:00.296234947Z",
+  "model": "glm-5.3"
+}

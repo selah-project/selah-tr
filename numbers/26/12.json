@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Şimon oğulları, ailelerine göre: Nemuel'e Nemueliler ailesi, Yamin'e Yaminliler ailesi, Yakin'e Yakinliler ailesi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Şimon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "Nemuel'e"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailesi"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Nemueliler"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "Yamin'e"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailesi"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Yaminliler"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "Yakin'e"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailesi"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Yakinliler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:10.542987507Z",
+  "model": "glm-5.3"
+}

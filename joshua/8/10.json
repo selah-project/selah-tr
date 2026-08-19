@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Yehoşua sabahleyin erken kalktı, ⟨את⟩ halkı saydı ve İsrail'in ihtiyarlarıyla birlikte halkın önünde Hay'a doğru yükseldi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "erken kalktı"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "saydı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yükseldi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ihtiyarlarıyla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hay'a"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:04.265617364Z",
+  "model": "glm-5.3"
+}

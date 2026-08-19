@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve İsrail kralı yanıt verdi ve dedi: Sözcüğün gereğince, efendim kral, ben ve bana ait olan her şey senindir.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ve yanıt verdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sözcüğün gereğince"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senindir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana ait olan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:16.967760077Z",
+  "model": "glm-5.3"
+}

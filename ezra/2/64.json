@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Bütün cemaat, bir tek ⟨gibi⟩, kırk bin, iki bin üç yüz altmış ⟨kişi⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bir tek gibi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki bin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "altmış"
+    }
+  ],
+  "timestamp": "2026-08-19T11:46:33.643473621Z",
+  "model": "glm-5.3"
+}

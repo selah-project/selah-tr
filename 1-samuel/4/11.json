@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Elohim'in sandığı alındı ve Eli'nin iki oğlu öldü, Hofni ve Pinehas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "ve sandık"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "alındı"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ve iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli'nin"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "öldüler"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "ve Pinehas"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:27.998341261Z",
+  "model": "glm-5.3"
+}

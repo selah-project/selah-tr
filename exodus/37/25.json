@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve buhur sunağını akasya kerestesinden yaptı: bir arşın uzunluğu, bir arşın genişliği — dörtköşe — ve iki arşün yüksekliği; boynuzları ondan ⟨bir parça olarak⟩ vardı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buhur sunağı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sUNAK"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "buhur"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kerestesinden"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "bir arşın"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve bir arşın"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "genişliği"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "dörtköşe"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "ve iki arşın"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "yüksekliği"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "boynuzları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:52.094368091Z",
+  "model": "glm-5.3"
+}

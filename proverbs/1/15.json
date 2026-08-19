@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Oğlum, onlarla ⟨birlikte⟩ ⟨bir⟩ yolda yürüme; ayağını onların patikasından ⟨uzak tut⟩ alıkoý.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yürüme"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yürüme"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla (birlikte)"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "alıkoý"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ayağını"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "onların patikasından"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:52.732515047Z",
+  "model": "glm-5.3"
+}

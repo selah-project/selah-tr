@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Yahve ⟨onlar için⟩ güçtür; ve O, maşiahının kurtuluş sığınağıdır.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güç"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlar için"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "ve sığınak \/ güç"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "maşiahının \/ meshadığı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O'dur"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:26.552702756Z",
+  "model": "glm-5.3"
+}

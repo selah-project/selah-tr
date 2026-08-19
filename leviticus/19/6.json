@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Kurbanınızın gününde ⟨o⟩ yenecek, ertesi gün de; üçüncü güne kalan ⟨kısım⟩ ise ateşte yakılacaktır.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "kurbanınızın"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yenecek"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ertesi gün de"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "kalan ⟨kısım⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "güne"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yakılacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:55.311554963Z",
+  "model": "glm-5.3"
+}

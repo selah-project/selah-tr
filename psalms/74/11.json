@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Neden elini, sağ elini geri çekiyorsun? Koynunun ortasından ⟨onu⟩ çekip çıkar, bitir onları.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "geri çekiyorsun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elini"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ve sağ elini"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "koynunun"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bitir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:35.883428855Z",
+  "model": "glm-5.3"
+}

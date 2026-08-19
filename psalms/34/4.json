@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yahve'yi benimle birlikte büyütün; adını birlikte yüceltelim.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "büyütün"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ benimle"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ve yüceltelim"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:11.012664478Z",
+  "model": "glm-5.3"
+}

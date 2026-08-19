@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Çünkü o, yüksekte oturanları eğdi; yüce şehir, onu alçaltır — alçaltır toprağa değin, indirir toza değin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "השח",
+      "gloss": "eğdi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanları"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yüksekte"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "yüce"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "onu alçaltır"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "alçaltır"
+    },
+    {
+      "surface": "עד",
+      "gloss": "değin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprağa"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "indirir onu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "değin"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toza"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:49.487865636Z",
+  "model": "glm-5.3"
+}

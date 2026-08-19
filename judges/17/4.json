@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 17:4",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "⟨את⟩ Gümüşü annesine iade etti; annesi iki yüz gümüş aldı ve onu kuyumcuya verdi; o da ondan bir oyma put ve dökme put yaptı; ve Mikayhu'nun evinde oldu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve iade etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşü"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "annesine"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "iki yüz"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ותתנהו",
+      "gloss": "ve onu verdi"
+    },
+    {
+      "surface": "לצורף",
+      "gloss": "kuyumcuya"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ve onu yaptı"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "oyma put"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "ve dökme put"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayhu'nun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:18:58.606386784Z",
+  "model": "glm-5.3"
+}

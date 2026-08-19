@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Elohim'im, gündüz çağırıyorum ama yanıtlamıyorsun; gece de ⟨susmuyorum⟩ ⟨için⟩ ⟨bana⟩ sessizlik yok.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırıyorum"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ... değil"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "yanıtlamıyorsun"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ve gece"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... yok"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sessizlik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:12.952728169Z",
+  "model": "glm-5.3"
+}

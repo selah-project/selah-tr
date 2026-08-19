@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Amon'un kulları ona karşı komplo kurdular ve kralı ⟨את⟩ kendi evinde öldürdüler.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "ve komplo kurdular"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon'un"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona karşı"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "ve öldürdüler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "kendi evinde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:49:35.493949967Z",
+  "model": "glm-5.3"
+}

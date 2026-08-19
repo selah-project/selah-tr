@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 63,
+  "translation": "Böylece seni ömrüm boyunca kutsayacağım, adının adına avuçlarımı kaldıracağım.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "seni kutsayacağım"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ömrüm boyunca"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "adının adına"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kaldıracağım"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "avuçlarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:19.405434358Z",
+  "model": "glm-5.3"
+}

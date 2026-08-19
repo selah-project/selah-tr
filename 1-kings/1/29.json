@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Kral yemin edip şöyle dedi: Yahve yaşar — ki ⟨את⟩ canımı her sıkıntıdan kurtaran O'dur.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "yemin etti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kurtardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canımı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıkıntıdan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:19.110311131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Maşihlerime dokunmayın, nebiylerime kötülük etmeyin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-mayın"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dokunmayın"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "maşihlerime"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "nebiylerime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-meyin"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "kötülük etmeyin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:14.970222249Z",
+  "model": "glm-5.3"
+}

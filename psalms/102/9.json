@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Bütün gün düşmanlarım bana hakaret ettiler; benim aleyhime çıldıranlar ⟨bana⟩ ant içtiler.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "bana hakaret ettiler"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "çıldıranlarım (benim aleyhime)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ant içtiler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:20.434922011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve beni savaşa güç ile kuşattın; bana karşı kalkanları dize getirdin benim altıma.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "ve beni kuşattın"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "güç"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaşa"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "dize getirdin"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "bana karşı kalkanları"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "benim altıma"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:16.269648996Z",
+  "model": "glm-5.3"
+}

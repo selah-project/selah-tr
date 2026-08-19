@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Kirliliklerine ve isyanlarına göre onlarla öyle davrandım ve yüzümü onlardan gizledim.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "kirliliklerine göre"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ve isyanlarına göre"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "davrandım"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlar"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ve gizledim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümü"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:35:45.924593190Z",
+  "model": "glm-5.3"
+}

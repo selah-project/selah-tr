@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Çünkü kötü, canının arzusunu över, kazanç peşindekoşan ⟨⟨rahmet diler⟩⟩; Yahve'yi hor görür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "över"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakkında"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "arzusunu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canının"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ve kazanç peşindekineden"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "rahmet diler"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "hor görür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:31.093609897Z",
+  "model": "glm-5.3"
+}

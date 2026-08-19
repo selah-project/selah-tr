@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve halk Moşe'ye feryat etti; Moşe Yahve'ye dua etti ve ateş söndü.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ve feryat etti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ve dua etti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ve söndü\/battı"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ateş"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:08.785720605Z",
+  "model": "glm-5.3"
+}

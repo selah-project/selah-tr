@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Çünkü yürekleriyle birlikte danıştılar; senin aleyhine antlaşma kestiler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "danıştılar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürekleriyle"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senin aleyhine"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "antlaşma"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kestiler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:34.207490853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yaakov ayaklarını kaldırdı ve Kedem oğullarının ülkesine doğru yürüdü.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "kaldırdı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaklarını"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve yürüdü"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ülkesine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedem"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:45.623449232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Ama Elohim'imiz ⟨⟨gökte⟩⟩dir — ⟨ה⟩er ne dilediyse yaptı.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Ama Elohim'imiz"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey \/ ⟨ה⟩er ne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "diledi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:49.843128469Z",
+  "model": "glm-5.3"
+}

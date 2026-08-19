@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 57,
+  "translation": "Çağıracağım Elyon Elohim'i, bana tamamlayan ⟨olan⟩ El'i",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "çağıracağım"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El'i"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "tamamlayan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "benim için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:05.914223418Z",
+  "model": "glm-5.3"
+}

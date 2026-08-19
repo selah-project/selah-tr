@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Yahve, 'şöyle diyecek' diye, Şaul'un gelmesinden bir gün önce, Şemuél'in kulağını ⟨את⟩ açmıştı.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmıştı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulağını"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuél'in"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önce"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gelmesi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:47.964132926Z",
+  "model": "glm-5.3"
+}

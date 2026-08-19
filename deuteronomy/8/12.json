@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Yoksa yiyeceksin ve doyacaksın, ve güzel evler kuracaksın ve oturacaksın.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yiyeceksin"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ve doyacaksın"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ve evler"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "güzel"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kuracaksın"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ve oturacaksın"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:28.787755683Z",
+  "model": "glm-5.3"
+}

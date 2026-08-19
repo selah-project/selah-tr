@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 14:11",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Aşağı indirildi Şeole büyüklüğün, çalgılarının sesi; altına serildi solucan, örtün ise kurt.",
+  "tokens": [
+    {
+      "surface": "הורד",
+      "gloss": "indirildi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeole"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "büyüklüğün"
+    },
+    {
+      "surface": "המית",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "çalgılarının"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "altına"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "serildi"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "solucan"
+    },
+    {
+      "surface": "ומכסיך",
+      "gloss": "ve örtün"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "kurt"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:56.079720527Z",
+  "model": "glm-5.3"
+}

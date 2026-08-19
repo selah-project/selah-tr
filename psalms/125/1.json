@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 125,
+  "translation": "Yükselişlerin şarkısı. Yahve'ye güvenenler, Tsiyon dağı gibidir: sarsılmaz, sonsuza dek oturur.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "güvenenler"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "dağı gibidir"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarsılır"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:35.792004068Z",
+  "model": "glm-5.3"
+}

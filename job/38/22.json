@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 38:22",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Karın ⟨את⟩ depolarına girdin mi, dolunun ⟨את⟩ depolarını gördün mü?",
+  "tokens": [
+    {
+      "surface": "הבאת",
+      "gloss": "girdin mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "depolarına"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "karın"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "ve depolarını"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "dolunun"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "gördün mü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:34.253777370Z",
+  "model": "glm-5.3"
+}

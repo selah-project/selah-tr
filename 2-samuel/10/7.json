@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Davut işitince ⟨את⟩ Yoav'ı ve ⟨את⟩ bütün kahramanlar ordusunu gönderdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ve işitince"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav'ı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün ordu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "kahramanlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:35.440552611Z",
+  "model": "glm-5.3"
+}

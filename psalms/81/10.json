@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Sende yabancı bir El olmayacak; ve yabancı bir Ele tapınmayacaksın.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨olacak⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bir El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -mayacaksın"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "tapınmayacaksın"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "bir Ele"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:02.168737332Z",
+  "model": "glm-5.3"
+}

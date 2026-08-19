@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve ⟨את⟩ güveç bitkilerini ve ⟨את⟩ yağı aydınlatma için, mesh yağı için ve kokulu buhur için.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "güveç bitkileri (başam)"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "güveç bitkileri (başam)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yağ (şemen)"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağ (şemen)"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "aydınlatma için"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "ve yağı için"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mesh (mışha)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ve buhur için"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "kokulu (samim)"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:53.207179548Z",
+  "model": "glm-5.3"
+}

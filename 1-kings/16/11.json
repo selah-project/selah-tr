@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve hüküm sürmeye başladığında, tahtına oturur oturmaz ⟨את⟩ Başa'nın bütün evini vurdu; ona duvara işeyen bir tek erkek bırakmadı, ne akrabalarından ne dostlarından.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "hüküm sürdüğünde"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "oturur oturmaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tahtına"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bşa'nın bütün evi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa'nın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "bıraktı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "duvara işeyen"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "duvara"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "akrabalarından"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "dostlarından"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:48.422864105Z",
+  "model": "glm-5.3"
+}

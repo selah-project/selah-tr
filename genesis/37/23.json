@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve oldu: Yosef kardeşlerine vardığında, Yosef'in üstünden ⟨את⟩ gömleğini — üstünde olan ⟩passis⟨ gömleğini — soydular ⟨את⟩ Yosef'i ⟨את⟩'ten.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-dığında"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ve soydular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gömleğini"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "gömleğini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "passis gömlek"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "gömlek"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "passis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:29.914276198Z",
+  "model": "glm-5.3"
+}

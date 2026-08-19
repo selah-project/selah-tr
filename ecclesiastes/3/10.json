@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Gördüm ⟨את⟩ meşgaleyi ki vermiş Elohim insan-oğullarına, onunla uğraşsınlar diye.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meşgaleyi"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "meşgale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vermiş"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "uğraşsınlar diye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:34.774945479Z",
+  "model": "glm-5.3"
+}

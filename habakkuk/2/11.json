@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Çünkü duvardaki taş çığlık atacak, ağaçtaki kiriş ona karşılık verecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "taş"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "duvardaki"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "çığlık atacak"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "ve kiriş"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ağaçtaki"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ona karşılık verecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:45:39.107678310Z",
+  "model": "glm-5.3"
+}

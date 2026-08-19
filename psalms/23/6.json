@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Yalnız ⟨çünkü⟩ iyilik ve hesed beni izleyecek yaşamakta olduğum bütün günler boyunca; ve Yahve'nin evinde kalacağım uzun günlere ⟨kadar⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız \/ elbette"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ve hesed (sevgi-dostluk)"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "beni izleyecek (kovalayacak)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yaşamımın"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ve döneceğim (oturacağım)"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "uzunluğuna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:50.239517579Z",
+  "model": "glm-5.3"
+}

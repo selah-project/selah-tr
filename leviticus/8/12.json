@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve mesh yağından Aharon'un başına döktü, ve onu kutsamak için onu meshetti.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ve döktü"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yağından"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ve meshetti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "onu kutsamak için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:02.474413084Z",
+  "model": "glm-5.3"
+}

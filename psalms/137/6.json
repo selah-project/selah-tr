@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 137,
+  "translation": "Damağıma yapışsın dilim, eğer seni anımsamazsam, eğer Yeruşalayim'i baş sevincimin üstüne çıkarmazsam.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "yapışsın"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "dilim"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "damağıma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "seni anımsamam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "yükseltmem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'i"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstüne"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "sevincimin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:45.611282977Z",
+  "model": "glm-5.3"
+}

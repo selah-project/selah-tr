@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "İncir ağacı da onlara dedi: Tatlılığımı ve güzel ürünümü bırakıp ağaçların üzerinde sallanmak için mi gideyim?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "incir ağacı"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "bırakayım mı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatlılığımı"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "tatlılığımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "güzel ürünümü"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "ürünümü"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "güzel"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ve gideyim"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "sallanmak için"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ağaçların"
+    }
+  ],
+  "timestamp": "2026-08-19T12:13:50.063257381Z",
+  "model": "glm-5.3"
+}

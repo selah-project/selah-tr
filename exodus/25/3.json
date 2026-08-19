@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve ⟨את⟩ onlardan alacağınız teruma şudur: altın, gümüş ve tunç.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ve bu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alacağınız"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ onlardan",
+      "marks": "teruma"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ve gümüş"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ve tunç"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:39.687480904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve bunlar ona Yeruşalayim'de doğdular: Şima, ve Şovav, ve Natan, ve Şelomo — dört; Bat-Şua'dan, Amitel'in kızından.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve bunlar"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "doğdular"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Şima"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ve Şovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ve Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ve Şelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dört"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "…'dan (anneye ait)"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-Şua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amitel"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:11.531161441Z",
+  "model": "glm-5.3"
+}

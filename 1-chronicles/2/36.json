@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Attay ⟨את⟩ Netan'ı babası oldu, Netan da ⟨את⟩ Zavad'ın babası oldu.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Attay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Netan'ı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Netan'ı"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Netan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zavad'ı"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zavad'ı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:25:06.318773100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "İşitti Yahve yalvarışımı; Yahve duamı kabul edecek.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "işitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "yalvarışımı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kabul edecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:46.062257797Z",
+  "model": "glm-5.3"
+}

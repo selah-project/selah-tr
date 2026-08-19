@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Kırıldı, bütünüyle kırıldı yer; paramparça oldu, bütünüyle dağıldı yer; sarsıldı, dört bir yana sallandı yer.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "kırıldı"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "bütünüyle kırıldı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "פור",
+      "gloss": "paramparça oldu"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "bütünüyle dağıldı"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "dört bir yana sallandı"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:23.756432114Z",
+  "model": "glm-5.3"
+}

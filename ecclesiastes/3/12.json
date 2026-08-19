@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Bildim ki onlarda iyilik yoktur, yalnız sevinmek ve hayatında iyilik yapmak ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "bildim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "sevinmek"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ve yapmak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "hayatında"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:44.678633081Z",
+  "model": "glm-5.3"
+}

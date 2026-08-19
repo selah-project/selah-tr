@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Yahve Moşe'ye ve Aharon'a konuştu, söyleyerek:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ...e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söyleyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:31.937700439Z",
+  "model": "glm-5.3"
+}

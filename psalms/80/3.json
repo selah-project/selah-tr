@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Efrayim'in ve Binyamin'in ve Menaşşe'nin önünde ⟨את⟩ gücünü uyandır ve kurtuluşumuza ⟨için⟩ gel ⟨bize⟩.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim'in"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ve Binyamin'in"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ve Menaşşe'nin"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "uyandır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gücünü"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "gücünü"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ve gel"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "kurtuluşumuza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:42.547704671Z",
+  "model": "glm-5.3"
+}

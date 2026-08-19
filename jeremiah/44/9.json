@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 44:9",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Unuttunuz mu ⟨את⟩ atalarınızın kötülüklerini, ve ⟨את⟩ Yahuda krallarının kötülüklerini, ve ⟨את⟩ onların kadınlarının kötülüklerini, ve ⟨את⟩ sizin kötülüklerinizi, ve ⟨את⟩ kadınlarınızın kötülüklerini — ki bunları Yahuda ülkesinde ve Yeruşalayim'in sokaklarında yaptılar?",
+  "tokens": [
+    {
+      "surface": "השכחתם",
+      "gloss": "Unuttunuz mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarınızın kötülüklerini"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kötülüklerini"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "atalarınızın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yahuda krallarının kötülüklerini"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kötülüklerini"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "krallarının"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "onların kadınlarının kötülüklerini"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kötülüklerini"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "onların kadınlarının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sizin kötülüklerinizi"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "sizin kötülüklerinizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kadınlarınızın kötülüklerini"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kötülüklerini"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "kadınlarınızın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "ve sokaklarında"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:19:47.173710181Z",
+  "model": "glm-5.3"
+}

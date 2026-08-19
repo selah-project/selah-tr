@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Şimdi koş, lütfen onu karşılamaya ve ona de: Sana şalom mu, kocana şalom mu, çocuğa şalom mu? Ve o dedi: Şalom.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "koş"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "onu karşılamaya"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve de"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "şalom mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "şalom mu"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "kocana"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "şalom mu"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "çocuğa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:49.461462015Z",
+  "model": "glm-5.3"
+}

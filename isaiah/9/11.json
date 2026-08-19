@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Aram önden, ve Filiştimler arkadan; ve ⟨את⟩ İsrail'i her ağızla yediler. Bütün bunlara rağmen öfkesi dönmedi, ve hâlâ eli uzatılmış ⟨duruyor⟩.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "önden\/doğudan"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ve Filiştimler"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "arkadan"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ve yediler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ağızla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunlara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dönmedi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ve hâlâ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "eli"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uzatılmış"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:39.659693739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve eğer bir adam ⟨את⟩ kölesini veya ⟨את⟩ cariyesini değnekle döver ve o elinin altında ölürse, mutlaka intikam alınacaktır.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "döver"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kölesini"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kölesini"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cariyesini"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "cariyesini"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "değnekle"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ve ölürse"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elinin"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "intikam"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "alınacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:55.144187396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Elohim Noach'ı ve oğullarını ⟨את⟩ kutsadı ve onlara dedi: Verimli olun, çoğalın ve yeryüzünü ⟨את⟩ doldurun.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "kutsadı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "verimli olun"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ve çoğalın"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ve doldurun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeryüzünü"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünü"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:02.595183851Z",
+  "model": "glm-5.3"
+}

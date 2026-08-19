@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Sokaktan geçerken, onun köşesinin yanından; ve evine giden yolda adımlarken.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "geçerken"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sokaktan"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "onun köşesinin"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ve yolda"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evine giden"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "adımlarken"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:08.066099743Z",
+  "model": "glm-5.3"
+}

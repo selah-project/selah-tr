@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Çünkü bak, karanlık yeryüzünü örtüyor ve yoğun karanlık ulusları; ama üzerinde senin doğacak Yahve ve görkemi üzerinde senin görünecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "örtüyor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünü"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ve yoğun karanlık"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "ama üzerinde senin"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "doğacak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "ve görkemi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "üzerinde senin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görünecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:26.887370552Z",
+  "model": "glm-5.3"
+}

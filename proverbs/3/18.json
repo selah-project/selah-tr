@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ona sarılanlar için ⟨o⟩ yaşam ağacıdır, ve onu tutanlar mutludur.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaşam"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o ⟨(kadın ilgi zamiri: hikmet)⟩"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "sarılanlar için"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "ve onu tutanlar"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "mutlu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:25.455221404Z",
+  "model": "glm-5.3"
+}

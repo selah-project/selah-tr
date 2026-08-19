@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Şaul oğlu Yonatan'a ve bütün kullarına ⟨את⟩ Davut'u öldürmeleri için konuştu; ama Yonatan, Şaul'un oğlu, Davut'u çok seviyordu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...e doğru"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ...e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldürmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davut'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ve Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hoşlanıyordu\/seviyordu"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davut'tan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:21.011030493Z",
+  "model": "glm-5.3"
+}

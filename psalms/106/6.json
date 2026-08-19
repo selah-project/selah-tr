@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Atalarımızla birlikte biz de günah işledik; eğri yola saptık, kötülük yaptık.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "günah işledik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "atalarımızla"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "eğri yola saptık"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "kötülük yaptık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:38.433339501Z",
+  "model": "glm-5.3"
+}

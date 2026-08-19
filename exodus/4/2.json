@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yahve ona dedi: «Elinde ⟨bu⟩ nedir?» O da: «Bir asa,» dedi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nedir ⟨bu⟩"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "asa"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:29.587792342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Eğer bir kuzuyu kurbanı olarak sunuyorsa, onu Yahve'nin önüne sunacak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "kuzu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "sunuyorsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbanını"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "sunacak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:58.609876768Z",
+  "model": "glm-5.3"
+}

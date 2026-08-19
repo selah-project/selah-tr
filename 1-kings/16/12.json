@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Böylece Zimri, Yahve'nin nebi Yehu'nun eliyle Başa'ya karşı konuştuğu söz uyarınca ⟨את⟩ Başa'nın bütün evini yok etti.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "yok etti"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bşa'nın bütün evi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa'nın"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "söz uyarınca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştuğu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa'ya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eliyle"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu'nun"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nebi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:48.423031665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Elohim onun yolunu anlar ve ⟨o⟩ ⟨את⟩ yerini bilir.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "anlar"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "onun yolunu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve ⟨o⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerini"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "yerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:01.672165269Z",
+  "model": "glm-5.3"
+}

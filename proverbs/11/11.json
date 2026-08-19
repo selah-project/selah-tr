@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Dürüstlerin kutsamasıyla kent yücelir; ve kötülerin ağzıyla yıkılır.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "kutsamasıyla"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dürüstlerin"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "yücelir"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "kent"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "ve ağzıyla"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "yıkılır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:50.277558161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yahve'de övünür ⟨olsun⟩ canım; işitsin alçakgönüllüler ve sevinç duysunlar.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'de"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "övünür"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "işitsinler"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçakgönüllüler"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ve sevinç duysunlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:11.012522320Z",
+  "model": "glm-5.3"
+}

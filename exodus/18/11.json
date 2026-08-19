@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 18:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Şimdi biliyorum ki Yahve bütün elohim'den büyüktür; çünkü onlara karşı küstahlık ettikleri şeyde ⟨o üstün geldi⟩.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "biliyorum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ...den"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "şeyde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "זדו",
+      "gloss": "küstahlık ettiler"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlara karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:40.874903418Z",
+  "model": "glm-5.3"
+}

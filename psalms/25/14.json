@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yahve'nin sırrı O'ndan korkanlarladır ve ahdi onlara bildirmek içindir.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sırrı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "O'ndan korkanlarladır"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "ve ahdi"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "onlara bildirmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:29.655638970Z",
+  "model": "glm-5.3"
+}

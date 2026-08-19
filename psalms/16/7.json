@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Yahve'yi kutsarım ⟨את⟩, bana öğüt veren; hem gecelerde böbreklerim ⟨⟨onlar⟩⟩ beni terbiye eder.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "kutsarım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki (o ki)"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "bana öğüt verdi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hem de"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "gecelerde"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "beni terbiye eder"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "böbreklerim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:06.550285352Z",
+  "model": "glm-5.3"
+}

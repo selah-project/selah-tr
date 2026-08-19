@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kalb, kendi canının acılığını bilir ve sevincine yabancı ⟨ortak olamaz⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kalb"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "acılığını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kendi canının"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "ve sevincine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "ortak olur"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yabancı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:34.778893162Z",
+  "model": "glm-5.3"
+}

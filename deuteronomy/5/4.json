@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yüz yüze konuştu Yahve sizinle, dağda, ateşin ortasından.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "yüze"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinle"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağda"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ateşin"
+    }
+  ],
+  "timestamp": "2026-08-19T08:58:28.207992579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Levi'lere vereceğiniz bütün şehirler — kırk sekiz şehir; onları ⟨את⟩ ve açık-ovalarını da ⟨את⟩ vereceksiniz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "şehirler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "vereceksiniz"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Levi'lere"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "sekiz"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "onları ⟨את⟩",
+      "marks": "şehirler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "açık-ovalarını"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "onların açık-ovaları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:43:46.300998181Z",
+  "model": "glm-5.3"
+}

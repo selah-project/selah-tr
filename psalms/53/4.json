@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Hepsi ⟨birden⟩ geri saptı, birlikte yozlaştılar; iyilik yapan yok, ⟨evet⟩ bir tek ⟨bile⟩ yok.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "סג",
+      "gloss": "geri saptı"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "yozlaştılar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "גם",
+      "gloss": "evet… bile"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir tek"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:46.590601082Z",
+  "model": "glm-5.3"
+}

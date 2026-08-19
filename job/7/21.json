@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve neden suçumu kaldırmıyorsun, ⟨את⟩ suçumu geçirmiyyorsun? Çünkü şimdi toza yatacağım; sen beni arayacaksın, ama ben olmayacağım.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ve neden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kaldırmıyorsun"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "suçumu"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "ve geçirmiyorsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suçumu"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "suçumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "toza"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "yatacağım"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "ve beni arayacaksın"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ama ben olmayacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:53.507357078Z",
+  "model": "glm-5.3"
+}

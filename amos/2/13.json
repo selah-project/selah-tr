@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 2:13",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İşte ben altınızda sıkıştıracağım, tıpkı kendisi için başak yüklü dolu arabanın sıkıştırdığı gibi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מעיק",
+      "gloss": "sıkıştıracak"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "altınızda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tıpkı ... gibi"
+    },
+    {
+      "surface": "תעיק",
+      "gloss": "sıkıştırır"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "araba"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kendisi için"
+    },
+    {
+      "surface": "עמיר",
+      "gloss": "başak yüklü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:50.183959181Z",
+  "model": "glm-5.3"
+}

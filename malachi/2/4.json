@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve bileceksiniz ki bu buyruğu ⟨את⟩ size ben gönderdim, ahdimin Levi ile ⟨את⟩ olması için, der Yahve Tzevaot.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ve bileceksiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ben gönderdim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu buyruğu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruğu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olması için"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi ile"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:30.508048572Z",
+  "model": "glm-5.3"
+}

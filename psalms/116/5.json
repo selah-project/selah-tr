@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Yahve lütufkârdır ve adildir; Elohim'imiz merhamet edendir.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "lütufkârdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ve adildir"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ve Elohim'imiz"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "merhamet edendir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:05.653934616Z",
+  "model": "glm-5.3"
+}

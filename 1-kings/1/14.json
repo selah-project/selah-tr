@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "İşte, sen orada kralın yanında konuşurken, ben de ardından geleceğim ve ⟨את⟩ sözlerini tamamlayacağım.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "henüz sen"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "konuşurken"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "geleceğim"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "ve tamamlayacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözlerini"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sözlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:32.359465651Z",
+  "model": "glm-5.3"
+}

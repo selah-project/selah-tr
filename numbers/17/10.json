@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "'Kalkın, ⟨the⟩ bu cemaatin içinden — ki onları ⟨את⟩ bir anda tüketeyim.' Ve yüzlerinin üzerine kapandılar.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "yükselin\/kalkın"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "içinden"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ve kapandılar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ve tüketeyim"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "bir anda"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yüzleri"
+    }
+  ],
+  "timestamp": "2026-08-19T07:38:24.879317526Z",
+  "model": "glm-5.3"
+}

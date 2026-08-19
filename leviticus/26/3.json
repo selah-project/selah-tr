@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Kanunlarımda yürürseniz ve ⟨את⟩ buyruklarımı gözetirseniz ve ⟨את⟩ onları yaparsanız —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "kanunlarımda"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "yürürseniz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "buyruklarımı"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "buyruklarımı"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "gözetirseniz"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ve yaparsanız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:03.936146322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Günahımı sana bildirdim, suçumu örtmedim; «isyanlarımı Yahve'ye itiraf edeceğim» dedim — ve sen günahımın suçunu kaldırdın. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "günahımı"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "sana bildirdim"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "ve suçumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ö…medi"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "…rtmedim"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "itiraf edeceğim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hakkında"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "isyanlarımı"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "kaldırdın"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suçunu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günahımın"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:22.722295468Z",
+  "model": "glm-5.3"
+}

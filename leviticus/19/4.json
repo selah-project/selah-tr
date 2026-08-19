@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Putlara dönmeyin ve kendinize dökme ilahlar yapmayın; ben Yahve, Elohim'iniz.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "dönmeyin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "putlar"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ve-ilahlar"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "dökme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapmayın"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendinize"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:11.680151547Z",
+  "model": "glm-5.3"
+}

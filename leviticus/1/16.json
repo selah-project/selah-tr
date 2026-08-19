@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "⟨את⟩ kursağını tüyleriyle birlikte çıkaracak ve onu sunağın doğu yanına, kül yerine atacak.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "çıkaracak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kursağını"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "kursağını"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "tüyleriyle birlikte"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ve atacak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "doğu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ya"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kül"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:58.275807601Z",
+  "model": "glm-5.3"
+}

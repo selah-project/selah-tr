@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Hikmet bağırmıyor mu? Ve anlayış sesini yükseltmiyor mu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Hikmet"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "bağırmıyor mu"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ve anlayış"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "veriyor"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "sesini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:21.826748923Z",
+  "model": "glm-5.3"
+}

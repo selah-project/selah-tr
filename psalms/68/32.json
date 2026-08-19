@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Zenginler Mitsrayim'den gelecekler; Kuş, ellerini Elohim'e ⟨uzatmaya⟩ koşacak.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "gelecekler"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "zenginler"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-den"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "koşturur"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ellerini"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:48.197566069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Hangi güçlü adam yaşar ve ölümü görmez? Kim canını Şeol'un elinden kurtarır? Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "güçlü adam"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmaz"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "kurtarır"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol'un"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:01.961378864Z",
+  "model": "glm-5.3"
+}

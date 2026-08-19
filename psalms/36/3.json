@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Çünkü kendi gözlerinde ⟨kendini⟩ pürüzsüzleştirdi, suçunu bulmak ⟨ve⟩ nefret etmekten ⟨alıkoyuldu⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "pürüzsüzleştirdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "gözlerinde"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "bulmak için"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "suçunu"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nefret etmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:38.187483894Z",
+  "model": "glm-5.3"
+}

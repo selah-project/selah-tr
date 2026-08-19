@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve size merhametler vereceğim ve ⟨את⟩ size merhamet edecek, ve ⟨את⟩ sizi kendi toprağınıza geri döndürecek.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ve vereceğim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "merhametler"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ve merhamet edecek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ size",
+      "marks": "size"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ve geri döndürecek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "toprağınıza"
+    }
+  ],
+  "timestamp": "2026-08-19T10:19:21.617256377Z",
+  "model": "glm-5.3"
+}

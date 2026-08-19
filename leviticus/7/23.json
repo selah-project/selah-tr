@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "İsrail oğullarına şöyle diye konuş: Öküzün, koyunun ve keçinin hiçbir yağını yemeyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yağını"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküzün"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "ve koyunun"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ve keçinin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:28.024449900Z",
+  "model": "glm-5.3"
+}

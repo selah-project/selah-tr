@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Tulumdaki su tükenince, çocuğu ⟨את⟩ çalılardan birinin altına bıraktı.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "tükenince"
+    },
+    {
+      "surface": "המים",
+      "gloss": "su"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "tulumdaki"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "bıraktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çocuk"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "çalı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:25.073613999Z",
+  "model": "glm-5.3"
+}

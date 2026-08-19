@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yosef oğulları için: Efrayim için — Elişama, Ammihud oğlu; Menaşşe için — Gamliel, Pedahsur oğlu.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "oğulları için"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim için"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elişama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menaşşe için"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahsur"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:21.783156454Z",
+  "model": "glm-5.3"
+}

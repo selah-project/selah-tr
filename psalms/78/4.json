@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Onları çocuklarından saklamayacağız; gelecek kuşğa Yahve'nin övgülerini, gücünü ve yaptığı harikaları anlatacağız.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil (-mayacağız)"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "saklamayacağız"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "onların çocuklarından"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kuşağa"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "gelecek (son) kuşak"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "anlatacağız"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "övgülerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ve gücünü"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ve harikalarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:20.015957920Z",
+  "model": "glm-5.3"
+}

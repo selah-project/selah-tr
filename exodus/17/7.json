@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve o yerin adını Massa ve Meriva diye çağırdı, İsrail oğullarının kavgası yüzünden ve ⟨את⟩ Yahve'yi denemeleri yüzünden, şöyle diyerek: Yahve midir bizim ortamızda, yoksa yok mu?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "ve Meriva"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kavgası"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve yüzünden"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "denemeleri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "היש",
+      "gloss": "var mı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "bizim ortamızda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok mu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:18.194819178Z",
+  "model": "glm-5.3"
+}

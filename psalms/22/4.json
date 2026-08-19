@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve sen kutsalsın, İsrail'in övgülerinde ⟨oturan⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsalsın"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "övgülerinde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:12.952892160Z",
+  "model": "glm-5.3"
+}

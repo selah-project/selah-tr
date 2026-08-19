@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Bana kulak ver, Yaakov, ve çağırdığım İsrail: Ben ⟨odur⟩; ben ilkim, hem ben sonuncuyum.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ve İsrail"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "çağırdığım"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨odur⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ilkim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sonuncuyum"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:49.237564498Z",
+  "model": "glm-5.3"
+}

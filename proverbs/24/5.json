@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Gevğer bir bilge ⟨güç⟩tedir, ve bilgi adamı gücü pekiştirir.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "adam"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "güç"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "pekiştirir"
+    },
+    {
+      "surface": "כח",
+      "gloss": "gücü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:07.755141391Z",
+  "model": "glm-5.3"
+}

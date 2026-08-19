@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Korku ve titreme içime giriyor ve ürperti beni örtüyor.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "korku"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ve titreme"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "giriyor"
+    },
+    {
+      "surface": "בי",
+      "gloss": "içime"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ve beni örtüyor"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ürperti"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:10.430257743Z",
+  "model": "glm-5.3"
+}

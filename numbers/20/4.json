@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve Yahve'nin cemaatini ⟨את⟩ neden bu çöle getirdiniz — biz ve hayvanlarımız orada ölelim diye?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ve neden"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "getirdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin cemaatini"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "cemaatini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölmek için"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "ve hayvanlarımız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:38:57.460854234Z",
+  "model": "glm-5.3"
+}

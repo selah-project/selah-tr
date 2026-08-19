@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve şimdi gidin, çalışın; ama saman size verilmeyecek, tuğlaların ölçüsünü de yine vereceksiniz.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gidin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "çalışın"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ama saman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "verilmeyecek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ölçüsünü"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "tuğlaların"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "vereceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:34.291471336Z",
+  "model": "glm-5.3"
+}

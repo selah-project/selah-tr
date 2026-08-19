@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Kardeşlerime yabancı oldum, annemin oğullarına yabancı biri.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kardeşlerime"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "ve yabancı biri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annemin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:50.308111201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Zengin kişi kendi gözünde bilgedir, ama anlayan yoksul onu sorgular.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "bilgedir"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kendi gözünde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "zengin"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ama yoksul"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "anlayan"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "onu sorgular"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:27.903723829Z",
+  "model": "glm-5.3"
+}

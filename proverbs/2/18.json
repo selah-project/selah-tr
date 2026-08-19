@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Çünkü evi ölüme eğilmiştir ve ⟨onun⟩ patikaları Refaim'e ⟨inmektedir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "eğilmiştir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ölüme doğru"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüme"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve Refaim'e doğru"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim'e"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "patikaları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:15.048230294Z",
+  "model": "glm-5.3"
+}

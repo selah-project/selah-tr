@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve Yosef onlara üçüncü gününde dedi: Bunu yapın ve yaşayın; ⟨את⟩ Elohim'den ben korkarım.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yapın"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ve yaşayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkarım"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:48.004336693Z",
+  "model": "glm-5.3"
+}

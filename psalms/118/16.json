@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Yahve'nin sağ eli yüceltilmiştir, Yahve'nin sağ eli yiğitlik eder.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "sağ el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "yüceltilmiştir"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağ el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "eder"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yiğitlik"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:03.758203078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve sundu ⟨את⟩ yakmalık sunağı, ve onu yönetmeliğe göre yaptı.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "sundu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakmalık sunak"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sunak"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "ve yaptı onu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "yönetmeliğe göre"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:57.930753340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Çünkü kimdir El, Yahve'den başka? Ve kimdir kaya, Elohim'imizden başka?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "başka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'den"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "başka"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:20.846420022Z",
+  "model": "glm-5.3"
+}

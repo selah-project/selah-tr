@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Kötü zamanda utanç duyacak değillerdir, ve kıtlık günlerinde tok olacaklardır.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değildir"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "utanç duyacaklar"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ve günlerinde"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "kıtlık"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "tok olacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:21.632341987Z",
+  "model": "glm-5.3"
+}

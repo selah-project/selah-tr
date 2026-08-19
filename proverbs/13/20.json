@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Bilgelerle ⟨את⟩ yürüyen bilge olur; akılsızların dostuysa zarar görür.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilgelerle"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bilgelerle"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ve-bilge olur"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ve-dost"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "akılsızların"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "zarar görür"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:53.971520405Z",
+  "model": "glm-5.3"
+}

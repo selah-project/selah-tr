@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve o şehrin ihtiyarları ⟨את⟩ o adamı alsınlar ve ⟨את⟩ onu cezalandırsınlar.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ve alsınlar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ihtiyarları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ve cezalandırsınlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:39.250738892Z",
+  "model": "glm-5.3"
+}

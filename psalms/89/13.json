@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Kuzeyi ve güneyi sen yarattın; Tavor ve Hermon senin adınla ⟨onlar⟩ sevinç çığlığı atar.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "kuzeyi"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ve güneyi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "yarattın"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ve Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "senin adınla"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sevinç çığlığı atarlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:13.753908157Z",
+  "model": "glm-5.3"
+}

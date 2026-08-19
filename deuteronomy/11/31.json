@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü siz Erden'i ⟨את⟩ geçmektesiniz, Yahve Elohim'inizin size verdiği toprağa ⟨את⟩ girmek ve onu mîras almak için; onu mîras alacaksınız ve onda oturacaksınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "geçmektesiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erden'i"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Erden'i"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "girmek için"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mîras almak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veriyor"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mîras alacaksınız"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "onu ⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "oturacaksınız"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:41.386866593Z",
+  "model": "glm-5.3"
+}

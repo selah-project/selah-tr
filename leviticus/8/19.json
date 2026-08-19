@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Onu kestiler; Moşe ⟨את⟩ kanı sunağın üzerine her yana serpti.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "kesti"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "serpti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "her yana \/ çevreye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:15.216744048Z",
+  "model": "glm-5.3"
+}

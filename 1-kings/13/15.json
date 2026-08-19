@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ona dedi: «Gel ⟨את⟩ benimle eve, ve ekmek ye.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ benimle"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "eve"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ve ye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:34.897806178Z",
+  "model": "glm-5.3"
+}

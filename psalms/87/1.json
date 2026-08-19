@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 87,
+  "translation": "Korach oğullarına ait; bir mizmôr, bir şarkı. Temeli kutsal dağlar üzerindedir.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına ait"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmôr"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "temeli"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "dağlarında"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:19.514982911Z",
+  "model": "glm-5.3"
+}

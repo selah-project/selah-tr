@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Ben ise dedim: Boşuna yoruldum, hiçliğe ve ödünç-avuntuya gücümü tükettim; ⟨ama⟩ şüphesiz ⟨hakkım⟩ Yahve ⟨את⟩ nezdindedir ve emeğim Elohim'im ⟨את⟩ nezdinde.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "boşuna"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "yoruldum"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "hiçliğe"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ve ödünç-avuntu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücümü"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "tükettim"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "şüphesiz"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hakkım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ve emeğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim'im"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    }
+  ],
+  "timestamp": "2026-08-19T10:01:38.216917044Z",
+  "model": "glm-5.3"
+}

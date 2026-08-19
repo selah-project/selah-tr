@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Yisrael oğullarının her ilkdoğanı yerine ⟨את⟩ Levi oğullarını aldım.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ve aldım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi oğullarını"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi oğulları"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ilkdoğan"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:29.328062689Z",
+  "model": "glm-5.3"
+}

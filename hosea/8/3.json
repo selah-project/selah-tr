@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "İsrail iyiyi ⟨⟨it⟩⟩ attı; düşman onu kovalayacak.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "attı \/ terk etti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiyi \/ iyiliği"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "kovalayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:19.938061939Z",
+  "model": "glm-5.3"
+}

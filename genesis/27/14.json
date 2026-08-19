@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve gitti, ve aldı, ve annesine getirdi; ve annesi, babasının sevdiği lezzet yemekleri yaptı.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "annesine"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesi"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "lezzet yemekleri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi (ki)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevdiği"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:23.951419359Z",
+  "model": "glm-5.3"
+}

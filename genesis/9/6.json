@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "İnsanın kanını döken — insan tarafından onun kanı dökülecektir; çünkü Elohim'in suretinde insanı ⟨את⟩ yarattı.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "döken"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kanını"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insan tarafından"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "onun kanı"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "dökülecektir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "suretinde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yarattı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:25.775752492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 8:7",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve onu koçun yanına yaklaşırken gördüm; koça karşı öfkeyle kızdı ve ⟨את⟩ koçu vurdu ve ⟨את⟩ iki boynuzunu kırdı; ve koçun onun önünde duracak gücü yoktu; ve onu yere attı ve onu çiğnedi ve koçu onun elinden kurtaran yoktu.",
+  "tokens": [
+    {
+      "surface": "וראיתיו",
+      "gloss": "ve onu gördüm"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "yaklaşırken"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "koçun"
+    },
+    {
+      "surface": "ויתמרמר",
+      "gloss": "ve öfkeyle kızdı"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koçu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "koçu"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ve kırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki boynuzunu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קרניו",
+      "gloss": "boynuzunu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "כח",
+      "gloss": "güç"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "koçta"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "durmak için"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünde"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ve onu attı"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "וירמסהו",
+      "gloss": "ve onu çiğnedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kurtaran"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "koçu"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "onun elinden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:44:35.350696020Z",
+  "model": "glm-5.3"
+}

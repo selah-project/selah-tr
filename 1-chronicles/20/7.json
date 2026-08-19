@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve o, ⟨את⟩ Yisra'el'i aşağıladı; ve onu Yehonatan, Şima oğlu, David'in kardeşi, vurdu.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ve aşağıladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ve onu vurdu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Şima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T11:59:54.508817800Z",
+  "model": "glm-5.3"
+}

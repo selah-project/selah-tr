@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Vay kana bulanarak ⟨את⟩ şehri kurana, haksızlıkla ⟨את⟩ kasabayı sağlama oturtana!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kurana"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "kanla"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "ve sağlama oturtana"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kasaba"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "haksızlıkla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:45:39.107803495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Taşları atmak için bir zaman, taşları toplamak için bir zaman; kucaklamak için bir zaman, kucaklamaktan uzak durmak için bir zaman.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "bir zaman"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "atmak için"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "taşları"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve bir zaman"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "toplamak için"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "taşları"
+    },
+    {
+      "surface": "עת",
+      "gloss": "bir zaman"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "kucaklamak için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve bir zaman"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "uzak durmak için"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "kucaklamaktan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:42.078963895Z",
+  "model": "glm-5.3"
+}

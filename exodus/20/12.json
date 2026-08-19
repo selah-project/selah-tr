@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "⟨את⟩ babana ve ⟨את⟩ annene saygı göster, ki Yahve Elohim'in sana verdiği toprak üzerinde günlerin uzun olsun.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "saygı göster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "annene"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annene"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ki... diye"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "uzun olsun"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "günlerin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veren"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:43.781608959Z",
+  "model": "glm-5.3"
+}

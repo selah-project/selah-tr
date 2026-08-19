@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Çıplak olarak giysi sizin gecelerler ve soğukta örtü yoktur.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "çıplak"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "gecelerler"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sızın"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "giysi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "örtü"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "soğukta"
+    }
+  ],
+  "timestamp": "2026-08-19T11:29:17.100527446Z",
+  "model": "glm-5.3"
+}

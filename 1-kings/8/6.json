@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve kohenler Yahve beritinin aronunu ⟨את⟩ yerine getirdiler —evin devirine,evin kods kodişimine, keruvim kanatlarının altına.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "getirdiler"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve beritinin aronunu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronunu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beritinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "devirine"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kods"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kodişimin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "kanatlarının"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "keruvim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:47.087277024Z",
+  "model": "glm-5.3"
+}

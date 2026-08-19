@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve oradan Davir'in sakinlerine karşı yukarı çıktı; Davir'in adı önceleri Kiryat-Sefer'di.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yukarı çıktı"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinlerine"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Davir'in"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Davir'in"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "önceleri"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-19T09:11:26.082212545Z",
+  "model": "glm-5.3"
+}

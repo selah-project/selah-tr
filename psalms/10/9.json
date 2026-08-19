@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Saklandığı yerde aslan gibi pusuya yatar, çarda pusuya yatar, ezileni kapmak için; ezileni ağına çekerken kapıverir.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "pusuya yatar"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "saklandığı yerde"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "aslan gibi"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "çarda"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "pusuya yatar"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "kapmak için"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezileni"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "kapıverir"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezileni"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "çekerken"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "ağına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:19.592099651Z",
+  "model": "glm-5.3"
+}

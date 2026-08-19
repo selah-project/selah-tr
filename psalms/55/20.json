@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "El işitecek ve onları cevaplandıracak, ve ezelden oturan. Sela. Onlarda değişmeler yoktur ve Elohim'den korkmazlar.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "işitecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ve onları cevaplandıracak"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve oturan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ezelden"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "değişmeler"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "korkmazlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'den"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:23.715857695Z",
+  "model": "glm-5.3"
+}

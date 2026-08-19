@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 142,
+  "translation": "Öğretici şiir, David'e ait; mağarada bulunduğunda ⟨bir⟩ dua.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "öğretici şiir"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e ait"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "bulunduğunda"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mağarada"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:52.483964179Z",
+  "model": "glm-5.3"
+}

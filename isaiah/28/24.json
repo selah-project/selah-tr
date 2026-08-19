@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Saban süren bütün gün ekmek için sürer mi? Toprağını sürekli açıp tırmalar mı?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "bütün mü"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "sürer mi"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "saban süren"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ekmek için"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "açıp"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "tırmalar mı"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "toprağını"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:10.781873759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "ve Davud Givonlulara dedi: Size ne yapayım ve neyle bağışlatayım, ki Yahve'nin ⟨את⟩ mirasını kutsayasınız?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "için"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Givonlular"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yapayım"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "ve neyle"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "bağışlatayım"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ve kutsayasınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin mirasını"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mirasını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:53.648058194Z",
+  "model": "glm-5.3"
+}

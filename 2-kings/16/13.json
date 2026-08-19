@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve yakılan sunusunu ⟨את⟩, tahıl sunusunu ⟨את⟩ döktü; ve libasyon sunusunu ⟨את⟩, ve selametliklerin ⟨את⟩, onun olan ⟨את⟩ kan'ı, sunağın üzerine serpti.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "tütsüledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakılan sunusu"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "yakılan sunusu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tahıl sunusu"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "tahıl sunusu"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "döktü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libasyon sunusu"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "libasyon sunusu"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "serpti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "selametlikler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:22.190237353Z",
+  "model": "glm-5.3"
+}

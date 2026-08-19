@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "«Ganimetin başını, esir alınanın ⟨את⟩ sayısını — insanda ve hayvanda — sen kaldır, sen ve Elazar haKohen ve cemaatin ata-babalarının başları.",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "kaldır\/say"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganimetin başı"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "ganimet\/esirler"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "esir alınan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ve hayvanda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ve Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "ve başları"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ata-babaların"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cemaatin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:42:13.955215361Z",
+  "model": "glm-5.3"
+}

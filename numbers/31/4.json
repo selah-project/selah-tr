@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Her boy için bin, her boy için bin — İsrail'in bütün boylarından savaşa göndereceksiniz.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "boy için"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "boy için"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "boylar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "göndereceksiniz"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "savaşa"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:04.228327543Z",
+  "model": "glm-5.3"
+}

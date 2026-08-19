@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve bir keruv üzerine bindi ve uçtu; evet, rüzgârın kanatları üzerinde süzülüp uçtu.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ve bindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ve uçtu"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "evet süzülüp uçtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "kanatları"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgârın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:17.361866407Z",
+  "model": "glm-5.3"
+}

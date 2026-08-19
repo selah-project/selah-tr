@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve dedi: İstemek için zor bir şey istedin; beni ⟨את⟩ senden ⟨את⟩ alınışımı görürsen, sana böyle olsun; ama görmezsen, olmayacaktır.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "zor kıldın"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "istemek için"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görürsen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alınışımı"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ senden"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "değilse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:33.898032442Z",
+  "model": "glm-5.3"
+}

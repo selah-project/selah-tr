@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Elohim'in beritini korumadılar, Tora'sında yürümeyi reddettiler.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "korumadılar"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "korumadılar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "Tora'sında"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "reddettiler"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yürümeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:23.898260295Z",
+  "model": "glm-5.3"
+}

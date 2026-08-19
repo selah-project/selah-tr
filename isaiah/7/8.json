@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü Aram'ın başı Damaşek, Damaşek'in başı ise Retsin'dir; ⟨ve⟩ altmış beş yıl içinde Efrayim, bir halk olmaktan ezilip çıkacak.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram'ın"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaşek"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ve başı"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaşek'in"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "ve içinde"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "altmış"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ve beş"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ezilecek"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "halk olmaktan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:20.599041184Z",
+  "model": "glm-5.3"
+}

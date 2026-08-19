@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Eğit yüreğimi tanıklıklarına doğru, ve haksız kâra değil.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "eğit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yüreğimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "tanıklıklarına"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "haksız kâr"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:21.384169110Z",
+  "model": "glm-5.3"
+}

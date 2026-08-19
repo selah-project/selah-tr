@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Fakat sensin ⟨o⟩ — benim sıram gibi bir ölümlü, yakın dostum ve tanıdığım.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "fakat sen"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "benim sıram gibi"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "yakın dostum"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "ve tanıdığım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:15.663555418Z",
+  "model": "glm-5.3"
+}

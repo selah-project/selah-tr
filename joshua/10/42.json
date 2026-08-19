@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ⟨את⟩ bütün bu kralları ve ⟨את⟩ ülkelerini Yehoşua tek seferde ele geçirdi; çünkü Yahve, İsrail'in Elohim'i, İsrail için savaştı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu kralları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ülkelerini"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ülkelerini"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ele geçirdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kez"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "savaştı"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrail için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:43.719964228Z",
+  "model": "glm-5.3"
+}

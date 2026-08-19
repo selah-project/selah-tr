@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Avişur'un karısının adı Avihayil'di; ve ona ⟨את⟩ Ahban'ı ve ⟨את⟩ Molid'i doğurdu.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Avişur'un"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Avihayil"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Ahban'ı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Molid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Molid'i"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:14.809956971Z",
+  "model": "glm-5.3"
+}

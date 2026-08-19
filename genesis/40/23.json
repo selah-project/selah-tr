@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve şer ha-maşkimi(n) Yosef'i ⟨את⟩ anımsamadı ve onu unuttu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anımsadı"
+    },
+    {
+      "surface": "שר",
+      "gloss": "önder"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "içiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ve onu unuttu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:19.351753550Z",
+  "model": "glm-5.3"
+}

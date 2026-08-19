@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Kurtar beni, ey Elohim, çünkü sular cana kadar geldi.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "kurtar beni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "cana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:18.438766331Z",
+  "model": "glm-5.3"
+}

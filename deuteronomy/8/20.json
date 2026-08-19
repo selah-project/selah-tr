@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Yahve'nin yüzünüzden yok ettiği uluslar gibi siz de helak olacaksınız; çünkü Yahve'nin, Elohim'inizin sesine kulak vermediniz.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "uluslar gibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "yok eden"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "yüzünüzden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "helak olacaksınız"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sebebiyle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "kulak vermediniz"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'inizin"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:48.979490274Z",
+  "model": "glm-5.3"
+}

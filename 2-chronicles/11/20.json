@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ondan sonra ⟨את⟩ Maaha'yı aldı, Avşalom'un kızını; ve ona ⟨את⟩ Aviya'yı, ⟨את⟩ Attay'ı, ⟨את⟩ Ziza'yı ve ⟨את⟩ Şelomit'i doğurdu.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ve ondan sonra"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaha'yı"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızını"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom'un"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Attay"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attay'ı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Şelomit'i"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:16.841116433Z",
+  "model": "glm-5.3"
+}

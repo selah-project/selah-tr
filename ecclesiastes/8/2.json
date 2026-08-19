@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ben ⟨şöyle söylüyorum⟩: kralın ağzını koru, ve Elohim yemini uğruna ⟨koru⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "koru"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve... uğruna"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "yemini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:18.375895065Z",
+  "model": "glm-5.3"
+}

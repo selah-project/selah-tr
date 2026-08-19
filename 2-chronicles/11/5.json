@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Rehavam Yeruşalayim'de oturdu ve Yahuda'da surlu şehirler ⟨את⟩ ⟨için⟩ tahkimat olarak inşa etti.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "oturdu"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şehirler"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "tahkimat için"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuda'da"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:50.557690479Z",
+  "model": "glm-5.3"
+}

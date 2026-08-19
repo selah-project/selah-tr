@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Suç-kurbanı gümüşü ve günah-kurbanı gümüşü Yahve'nin evine getirilmezdi; kâhinlere ait olurdu.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "suç"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ve gümüş"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "günah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "getirilirdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kâhinlere"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olurlardı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:57.032946298Z",
+  "model": "glm-5.3"
+}

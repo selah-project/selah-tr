@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve şimdi onun ayıbını ⟨את⟩ âşıklarının gözleri önünde açığa çıkaracağım, ve hiçbir adam onu elimden kurtaramayacak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve-şimdi"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "açığa-çıkaracağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayıbını"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ayıbını"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gözleri-önünde"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "âşıklarının"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve-hiçbir-adam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "kurtaramayacak-onu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "elimden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:54.385140603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Onların öfkesi bir yılanın öfcesi gibidir; sağır engerek gibi kulağını tıkar.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "öfcesi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onların"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "benzeri gibidir"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "öfcesi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bir yılanın"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "engerek"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sağır"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "tıkar"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kulağını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:53.388348510Z",
+  "model": "glm-5.3"
+}

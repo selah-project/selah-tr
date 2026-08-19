@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 114,
+  "translation": "Kayayı su birikintisine, çakmak taşını su pınarına çeviren ⟨olannın⟩.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "çeviren"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "kayayı"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "su birikintisine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "çakmak taşını"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "pınarına"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:31.953282329Z",
+  "model": "glm-5.3"
+}

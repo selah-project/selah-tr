@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve İzebel'e gönderip dediler: «Nabot taşlandı ve öldü.»",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ve gönderdiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "taşlandı"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:43:27.264492331Z",
+  "model": "glm-5.3"
+}

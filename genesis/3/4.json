@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve yılan kadına dedi: «Kesinlikle ölmeyeceksiniz.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "yılan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölerek"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ölmeyeceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:21.564800259Z",
+  "model": "glm-5.3"
+}

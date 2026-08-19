@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve sayılan ⟨⟨the⟩⟩ cemaatin gümüşü: yüz kikkar, bin yedi yüz yetmiş beş şekel, kutsal ⟨את⟩ şekele göre.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "ve gümüş"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "sayılanların"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ve bin"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ve yedi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ve beş"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ve yetmiş"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "şekele göre"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:55.576940734Z",
+  "model": "glm-5.3"
+}

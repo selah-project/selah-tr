@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Yahve, Avraham'la konuşmayı bitirince yoluna gitti; Avraham da kendi yerine döndü.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…diği zaman"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bitirdi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "konuşmayı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru \/ -la"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "ve Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "kendi yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:41.718033575Z",
+  "model": "glm-5.3"
+}

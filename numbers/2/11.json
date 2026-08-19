@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ordusu ve onun sayılanları: altı ve kırk bin ve beş yüz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ve ordusu"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ve onun sayılanları"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "altı"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ve kırk"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ve beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:38.694293307Z",
+  "model": "glm-5.3"
+}

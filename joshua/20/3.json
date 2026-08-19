@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Oraya kaçsın diye: cana kıymış olan katil, bilmeden, bilmeksizin yanlışlıkla canına vuran — ve bu şehirler size kanın intikamcısından sığınak olsun.",
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "kaçmak için"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "katil\/cana kıyan"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "vuran"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "yanlışlıkla\/sehven"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "-sız olarak"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi\/bilme"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ve olacaklar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "sığınak olarak"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "intikamcısından"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kanın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:12:42.935292361Z",
+  "model": "glm-5.3"
+}

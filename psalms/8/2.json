@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Yahve, Adonay'ımız, adın bütün ⟨⟨the⟩⟩ yeryüzünde ne kadar yücedir! ⟨⟨Sen⟩⟩ görkemini göklerin üzerine koydun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonay'ımız"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "yüce"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "koydun"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "görkemini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:13.706207943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ve onları ⟨את⟩ esir edenlerin tümünün önünde merhamete layık kıldı.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ve kıldı"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "merhamete"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tümünün"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "esir edenlerinin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:45.403430980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve Adonay uykudaki biri gibi uyandı, şaraptan coşan bir kahraman gibi.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "uyandı"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "uykudaki biri gibi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kahraman gibi"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "coşan \/ haykıran"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "şaraptan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:14.273990101Z",
+  "model": "glm-5.3"
+}

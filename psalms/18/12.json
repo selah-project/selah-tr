@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Karanlığı ⟨onun⟩ sığınağı ⟨olarak⟩ yerleştirdi; çevresinde ⟨onun⟩ çadırı — suların karanlığı, yoğun bulutlar ⟨gökyüzünün⟩.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "yerleştirdi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlığı"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "sığınağı"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "karanlığı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "yoğun bulutlar"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "⟨gökyüzünün⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:17.362090930Z",
+  "model": "glm-5.3"
+}

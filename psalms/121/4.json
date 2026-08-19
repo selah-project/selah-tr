@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 121,
+  "translation": "Bakın, uyuklamaz ve ⟨uyumaz⟩ — İsrail'in koruyucusu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bakın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-maz"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "uyuklamaz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve -maz"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "uyumaz"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "koruyucusu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:33.830562081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yehuda ⟨את⟩ Azzah'ı ve ⟨את⟩ sınırlarını, ⟨את⟩ Aşkelon'u ve ⟨את⟩ sınırlarını, ⟨את⟩ Ekron'u ve ⟨את⟩ sınırlarını ele geçirdi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ele geçirdi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sınırlarını"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sınırlarını"
+    },
+    {
+      "surface": "וילכד yerine ואת אשקלון",
+      "gloss": "⟨את⟩ —"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aşkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "⟨את⟩ Aşkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sınırlarını"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "⟨את⟩ sınırlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "⟨את⟩ Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sınırlarını"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sınırlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:13:39.173044481Z",
+  "model": "glm-5.3"
+}

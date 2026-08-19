@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve kendisine yakın, hiçbir erkeğe ⟨verilmiş⟩ olmayan bâkire kız kardeşi için kendini kirletebilir.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "ve kız kardeşi için"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "bâkire"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "yakın olan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "olmuş"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bir erkeğe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kendini kirletebilir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:14.209275850Z",
+  "model": "glm-5.3"
+}

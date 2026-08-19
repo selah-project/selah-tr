@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve ışık için yağ, ve mesh yağı için, ve kokulu buhur için baharatlar —",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "ve yağ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ışık için"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "ve baharatlar"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "yağı için"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ve buhur için"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "kokulu (baharatların)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:40.782434194Z",
+  "model": "glm-5.3"
+}

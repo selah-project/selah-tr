@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yahve'yi, Elohim'ini bütün kalbinle, bütün canınla ve bütün gücünle seveceksin.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ve seveceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'ini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün … ile"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "kalbinle"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ve bütün … ile"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canınla"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ve bütün … ile"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "gücünle"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:07.595080785Z",
+  "model": "glm-5.3"
+}

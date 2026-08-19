@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü kişi kardeşini, babasının evinden yakalayacak: «Giysin senin, gel bize önder ol, bu yıkıntı senin elinin altında olsun.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "yakalayacak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "kardeşini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "שמלah",
+      "gloss": "giysi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gel"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "önder"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "ve bu yıkıntı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "senin elinin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:03.015381927Z",
+  "model": "glm-5.3"
+}

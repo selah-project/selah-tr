@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Yahve ezilen için sığınak olacak, sıkıntı zamanlarında sığınak.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ezilen için"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "zamanlarında"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sıkıntı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:01.424475830Z",
+  "model": "glm-5.3"
+}

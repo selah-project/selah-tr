@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Şaul onun çok başarılı olduğunu gördü ve ondan korktu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "şunu: ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "başarılı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "korktu"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:04.892517452Z",
+  "model": "glm-5.3"
+}

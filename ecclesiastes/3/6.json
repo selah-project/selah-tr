@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Aramak için bir zaman, kaybetmek için bir zaman; saklamak için bir zaman, atmak için bir zaman.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "bir zaman"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "aramak için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve bir zaman"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "yok etmek için"
+    },
+    {
+      "surface": "עת",
+      "gloss": "bir zaman"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "saklamak için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve bir zaman"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "atmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:42.079202081Z",
+  "model": "glm-5.3"
+}

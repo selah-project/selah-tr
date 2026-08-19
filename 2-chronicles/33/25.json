@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve ülkeden halk, kral Amon'a karşı komployu kuranların hepsini ⟨את⟩ öldürdü; ve ülkeden halk, yerine oğlu Yoşiya'yu ⟨את⟩ kral yaptı.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hepsini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsini"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "komployu kuranlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "kral yaptı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoşiya'yu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T12:09:55.239787295Z",
+  "model": "glm-5.3"
+}

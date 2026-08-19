@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Şemu'el aşçıya dedi: «Ver ⟨את⟩ payı ki sana verdiğim, hakkında sana söylediğim: Koysan onu ⟨את⟩ yanına.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemu'el"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "aşçıya"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payı"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "payı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdiğim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "söylediğim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "שים",
+      "gloss": "koy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "yanına"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yanına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:46.634879285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Zengin yoksullar üzerinde egemen olur; borç alan, borç veren kişiye köledir.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "zengin"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "yoksullar üzerinde"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "egemen olur"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ve köledir"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "borç alan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kişiye"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "borç verene"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:10.334383581Z",
+  "model": "glm-5.3"
+}

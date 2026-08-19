@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Yahve'dendir ⟨bir⟩ adamın adımları; ⟨onlar⟩ sağlam kılınmıştır ve ⟨O⟩ onun yolundan hoşnut olur.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahve'dendir"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "adımları"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "sağlam kılınmıştır"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ve onun yolu"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hoşnut olur"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:36.696007049Z",
+  "model": "glm-5.3"
+}

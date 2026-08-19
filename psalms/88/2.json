@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Yahve, kurtuluşumun Elohim'i, gündüz haykırdım, gece senin önünde.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kurtuluşumun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "haykırdım"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "senin önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:29.768105727Z",
+  "model": "glm-5.3"
+}

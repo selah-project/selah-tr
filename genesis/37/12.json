@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Kardeşleri babalarının sürüsünü Şekem'de otlatmaya gittiler ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ve gittiler"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "otlatmaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürüyü"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürü"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "babalarının"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Şekem'de"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:59.212674638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yehuda'ya çıkalım ve onu tedirgin edelim, orada bizim için bir yarık açalım ve ortasına ⟨את⟩ Tav'el oğlunu kral yapalım.'",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "çıkalım"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda'ya"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "ve onu tedirgin edelim"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "ve yarık açalım"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "ve kral yapalım"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ortasına"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tav'el oğlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tav'el"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:20.598615209Z",
+  "model": "glm-5.3"
+}

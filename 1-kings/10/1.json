@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şeva kraliçesi Şelomonun ⟨את⟩ ününü — Yahve'nin adına dair — duyunca, onu bilmecelerle denemek için geldi.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "ve ... kraliçesi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "duyunca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ününü"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ünü"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adına dair"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "gelmek için"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "onu denemek"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "bilmecelerle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:37.275529903Z",
+  "model": "glm-5.3"
+}

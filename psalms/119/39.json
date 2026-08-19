@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Korktuğum hakareti ⟨ üzerimden ⟩ geçir; çünkü senin hükümlerin iyidir.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "geçir (uzaklaştır)"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "hakaretimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "korktuğum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "senin hükümlerin"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "iyidir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:10.950130716Z",
+  "model": "glm-5.3"
+}

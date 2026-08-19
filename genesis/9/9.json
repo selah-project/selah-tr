@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve ben, işte, ben ⟨את⟩ ahdimi ⟨את⟩ sizinle ve ⟨את⟩ sizden sonraki zürriyetinizle diriltiyorum.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "diriltiyorum \/ kılıyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "zürriyetinizi"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "zürriyetinizi"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "sizden sonra"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:34.585997132Z",
+  "model": "glm-5.3"
+}

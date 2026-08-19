@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "İsrail oğullarına söyleyin: Yeryüzündeki bütün hayvanlar arasından yiyeceğiniz canlı şudur:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceğiniz"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -dan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:17.562308616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Beni araştır, ey El, ve kalbimi bil; beni sına ve kaygılarımı bil.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "beni araştır"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ve bil"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kalbimi"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "beni sına"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ve bil"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "kaygılarım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:37.605896872Z",
+  "model": "glm-5.3"
+}

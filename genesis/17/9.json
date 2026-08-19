@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Elohim Avraham'a dedi: Sen de ⟨את⟩ ahdimi koruyacaksın — sen ve senden sonra zürriyetin, kuşakları boyunca.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sen de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimi"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "koruyacaksın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ve zürriyetin"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "senden sonra"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kuşakları boyunca"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:16.482284439Z",
+  "model": "glm-5.3"
+}

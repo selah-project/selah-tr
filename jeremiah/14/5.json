@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Çünkü kırlıktaki dişi geyik bile doğurdu ve ⟨onu⟩ terk etti, çünkü ot yoktu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "dişi geyik"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kırlıkta"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ve terk etti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yok"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var idi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ot"
+    }
+  ],
+  "timestamp": "2026-08-19T10:08:51.511437799Z",
+  "model": "glm-5.3"
+}

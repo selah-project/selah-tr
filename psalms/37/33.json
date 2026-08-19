@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Yahve onu onun elinde bırakmayacak ve yargılandığında onu suçlu çıkarmayacak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "bırakmayacak"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "onun elinde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "onu suçlu çıkarmayacak"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "yargılandığında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:24.341217322Z",
+  "model": "glm-5.3"
+}

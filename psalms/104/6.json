@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Derinliği bir giysi gibi örttün onu; sular dağların üzerinde duruyorlardı.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "derinliği"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "bir giysi gibi"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "örttün onu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "duruyorlardı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:20.943106928Z",
+  "model": "glm-5.3"
+}

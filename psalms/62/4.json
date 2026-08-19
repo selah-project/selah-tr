@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Ne zamana kadar bir adamın üstüne saldıracaksınız? Hepiniz onu öldürmek için — eğik bir duvar gibi, devrilmiş bir çit gibi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ne zamana"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "saldıracaksınız"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstüne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "öldüreceksiniz"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hepiniz"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "duvar gibi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "eğik"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "çit"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "devrilmiş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:22.423346936Z",
+  "model": "glm-5.3"
+}

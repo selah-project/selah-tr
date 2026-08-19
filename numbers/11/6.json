@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve şimdi canımız kurudu; ⟨⟨hiçbir⟩⟩ şey yok — gözümüzün önünde yalnız ⟨את⟩ o man var.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canımız"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "kurudu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir şey"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "המן",
+      "gloss": "o man"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "gözümüzün önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:57.234398628Z",
+  "model": "glm-5.3"
+}

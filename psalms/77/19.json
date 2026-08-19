@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Gök gürültünün sesi kasırgadaydı; şimşekler dünyayı aydınlattı; dünya titredi, ⟨ve⟩ sarsıldı yer.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "gök gürültünün"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "kasırgada"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "aydınlattı"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "şimşekler"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "titredi"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:55.284384771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve ⟨את⟩ çatılarda göklerin ordusuna secde edenleri, ve ⟨את⟩ Yahve'ye ant içenleri — ve kendi melkomlarına ant içenleri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "çatılarda secde edenleri"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "secde edenleri"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "çatılarda"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ordusuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yahve'ye ant içenleri"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "secde edenleri"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ant içenleri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ve ant içenleri"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kendi melkomlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:46:25.350650232Z",
+  "model": "glm-5.3"
+}

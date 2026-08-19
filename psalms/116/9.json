@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Yahve'nin yüzü önünde yürüyeceğim, ⟨o⟩ yaşayanların ⟨beldesinde⟩.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "yürüyeceğim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yüzü önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "beldesinde"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yaşayanların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:50.207430720Z",
+  "model": "glm-5.3"
+}

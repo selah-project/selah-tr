@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Barak ona dedi: Sen benimle gidersen giderim; ama benimle gitmezsen gitmem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "gidersen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "giderim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "gitmezsen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gitmem"
+    }
+  ],
+  "timestamp": "2026-08-19T09:15:20.937681191Z",
+  "model": "glm-5.3"
+}

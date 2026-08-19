@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Bir insanın aklı öfkesini uzatır, ve onun görkemi suçu geçmek olmalıdır.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "aklı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "uzatır"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesini (burnunu)"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "ve onun görkemi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçmektir"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "suçu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:53.586104386Z",
+  "model": "glm-5.3"
+}

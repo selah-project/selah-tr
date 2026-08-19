@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Kılıçla düşeceksiniz; İsrail'in sınırında sizi ⟨את⟩ yargılayacağım ve bileceksiniz ki ben Yahve'yim.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "kılıçla"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "düşeceksiniz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sınırında"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "yargılayacağım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ve bileceksiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:24:47.701573630Z",
+  "model": "glm-5.3"
+}

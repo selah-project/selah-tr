@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Ancak bir suret içinde ⟨sürekli⟩ yürür insan; ancak hevaldir uğultuları; yığar da bilmez kim toplayacak onları.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "bir suret içinde"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "⟨sürekli⟩ yürür"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevaldir"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "uğultuları"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "yığar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da bilmez"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmez"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "toplayacak onları"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:55.406957855Z",
+  "model": "glm-5.3"
+}

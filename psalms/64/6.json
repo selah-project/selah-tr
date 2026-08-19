@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Kendilerine kötü bir sözü sağlamlaştırırlar; tuzakları gizlemeyi anlatırlar; derler ki: Kim onlara bakar görür?",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "sağlamlaştırırlar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kendilerine"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "anlatırlar"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "gizlemeyi"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "tuzakları"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "derler"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bakar görür"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:42.684887380Z",
+  "model": "glm-5.3"
+}

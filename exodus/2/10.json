@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Çocuk büyüdü ve onu Paroh'un kızına getirdi; o da ona oğul oldu. Adını Moşe koydu ve dedi: Çünkü onu sulardan çektim.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "büyüdü"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "ve onu getirdi"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "kızına"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ve adını koydu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sulardan"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "onu çektim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:04.857552117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Sen benim için bir sığınaksın; sıkıntıdan beni korursun, kurtuluş nidalarıyle beni kuşatırsın. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "sığınak \/ gizli yer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "sıkıntıdan"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "beni korursun"
+    },
+    {
+      "surface": "רני",
+      "gloss": "nidalarıyle"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "beni kuşatırsın"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:22.722863270Z",
+  "model": "glm-5.3"
+}

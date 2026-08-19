@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ama sen, Yahve, benim etrafımda kalkansın; şerefim ve başımı yükseltensin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ama sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kalkan"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "benim etrafımda"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "şerefim"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ve yükselten"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:15.278321777Z",
+  "model": "glm-5.3"
+}

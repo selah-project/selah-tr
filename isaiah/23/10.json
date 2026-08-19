@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Toprağını nehir gibi geç, ey Tarşiş kızı ⟨בת⟩ — artık kemer yok.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "geç"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "toprağını"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "nehir gibi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşiş"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "kemer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:13.467919430Z",
+  "model": "glm-5.3"
+}

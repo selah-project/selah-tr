@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "⟨את⟩ Keynilileri, ⟨את⟩ Kenizlileri ve ⟨את⟩ Kadmonlileri",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keynilileri"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keynilileri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kenizlileri"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "Kenizlileri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kadmonlileri"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "Kadmonlileri"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:15.166836326Z",
+  "model": "glm-5.3"
+}

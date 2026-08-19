@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve bir adam ki kardeşinin karısını alırsa — o ⟨bir⟩ murdarlıktır: kardeşinin çıplaklığını açmıştır; çocuksuz olacaklar.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşinin karısını"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "murdarlık"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmıştır"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "çocuksuz"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:58.817042012Z",
+  "model": "glm-5.3"
+}

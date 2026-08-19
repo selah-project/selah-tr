@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve dedi: «Kızım, Yahve'ye ⟨sunulmuş⟩ ⟨sen⟩, kutsanasın; sonraki hesd'in ilkinkinden daha iyi ⟨oldu⟩ — gençlerin ardınca, ister yoksul ister zengin, gitmeyesin diye.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "kutsanmış"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kızım"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "iyi ettin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesdin"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "sonraki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "-meyesin diye"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "gitmek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "gençlerin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ister"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve ister"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "zengin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:30.897179353Z",
+  "model": "glm-5.3"
+}

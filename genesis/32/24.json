@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Onları aldı, ⟨את⟩ dereyi geçirdi ve ⟨את⟩ kendisine ait olanları geçirdi.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "onları aldı"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ve geçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dereyi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dereyi"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ve geçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kendisine ait olanları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait olanı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:30.946976944Z",
+  "model": "glm-5.3"
+}

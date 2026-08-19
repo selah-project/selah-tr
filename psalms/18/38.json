@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Düşmanlarımı kovalarım ve onlara yetişirim, ve onlar tükenene kadar geri dönmeyeceğim.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "kovalarım"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmanlarımı"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ve onlara yetişirim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve -mem"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "geri dönerim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "onların tükenmesi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:16.269389468Z",
+  "model": "glm-5.3"
+}

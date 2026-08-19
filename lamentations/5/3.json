@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Öksüzler olduk, babasız ⟨⟩; annelerimiz dullar gibiyiz ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "öksüzler"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "olduk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babasız (yok)"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "annelerimiz"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "dullar gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:44.441263612Z",
+  "model": "glm-5.3"
+}

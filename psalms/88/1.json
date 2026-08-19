@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Şiir, mizmor, Korahoğullarına aittir; koruşefidine, Maḥalat Leannoth üzerine; öğretici bir şiir, Ezrahit Heman'a aittir.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şiir"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "...oğullarına aittir"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "koruşefidine"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Maḥalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "öğretici şiir"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "Heman'a aittir"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezrahit"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:29.767814096Z",
+  "model": "glm-5.3"
+}

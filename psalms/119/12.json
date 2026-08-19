@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kutlusun sen, Yahve; beni kurallarına göre öğret.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutlusun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "beni öğret"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kuralların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:32.318766574Z",
+  "model": "glm-5.3"
+}

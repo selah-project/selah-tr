@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Çünkü yayıma güvenmem, kılıcım da beni kurtaramaz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "yayıma"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "güvenmem"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "kılıcım da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "beni kurtaramaz"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:52.934900576Z",
+  "model": "glm-5.3"
+}

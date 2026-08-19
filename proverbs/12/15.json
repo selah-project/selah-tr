@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Aptalın yolu kendi gözünde doğru ⟨görünür⟩; ama öğüde kulak veren bilgedir.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "aptalın"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kendi gözünde"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ama kulak veren"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "öğüde"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilgedir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:15.653331383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Kral ⟨את⟩ yüzünü örttü ve kral büyük bir sesle ağladı: \"Oğlum Avşalom, Avşalom, oğlum, oğlum!\"",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ve kral"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "örttü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ve ağladı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:23.468869737Z",
+  "model": "glm-5.3"
+}

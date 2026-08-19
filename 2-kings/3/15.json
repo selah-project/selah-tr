@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve şimdi bana bir çalgıcı getirin. Çalgıcı çaldığında Yahve'nin eli onun üzerine ⟨geldi⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "getirin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "bir çalgıcı"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "çaldığında"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "çalgıcı"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "יד",
+      "gloss": "eli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:23.381811166Z",
+  "model": "glm-5.3"
+}

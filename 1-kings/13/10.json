@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve başka bir yoldan gitti, Beyt-El'e geldiği yoldan geri dönmedi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoldan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "שב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoldan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldiği"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:21.859914938Z",
+  "model": "glm-5.3"
+}

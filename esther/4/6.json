@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Hatah, kralın kapısının önündeki şehir meydanına, Mordehay'ın yanına çıktı.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay'ın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içindeki"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "meydanına"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündeki"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapısının"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:38.668487365Z",
+  "model": "glm-5.3"
+}

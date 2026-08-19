@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Geçmeme izin ver, ne olur, ve ⟨את⟩ iyi ülkeyi göreyim — יarden'in ötesindeki, bu iyi dağı ve Luvnan'ı.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "geçeyim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ne olur"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ve göreyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyi ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ötesinde"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden'in"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ve Luvnan"
+    }
+  ],
+  "timestamp": "2026-08-19T08:58:13.757163025Z",
+  "model": "glm-5.3"
+}

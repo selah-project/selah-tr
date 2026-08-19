@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve Yahve, Moşe'ye ve Aharon'a söyleyerek ⟨şöyle⟩ konuştu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söyleyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:35.988117273Z",
+  "model": "glm-5.3"
+}

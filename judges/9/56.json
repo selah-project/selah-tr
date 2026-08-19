@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "judges 9:56",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Böylece Elohim, babasına karşı yaptığı kötülüğü — yetmiş kardeşini öldürmek için — ⟨את⟩ Avimelek'in başına geri çevirdi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "geri çevirdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek'in kötülüğünü"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kötülüğünü"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "babasına karşı"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "öldürmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yetmiş kardeşini"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşini"
+    }
+  ],
+  "timestamp": "2026-08-19T12:13:43.804851860Z",
+  "model": "glm-5.3"
+}

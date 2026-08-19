@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "On bir günlük ⟨yol⟩, Horev'den Seir Dağı yoluyla Kadeş-Barnea'ya kadar.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Horev'den"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dağı"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeş"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:19.695246768Z",
+  "model": "glm-5.3"
+}

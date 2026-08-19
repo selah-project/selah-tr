@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Yahve beni doğruluğuma göre ödüllendirdi, ellerimin temizliğine göre bana karşılığını verdi.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "ödüllendirdi beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "doğruluğuma göre"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "temizliğine göre"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerimin"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "karşılığını verdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:43.948334009Z",
+  "model": "glm-5.3"
+}

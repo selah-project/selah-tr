@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Davut Şaul'a dedi: Niçin ⟨את⟩ insanların sözlerini işitiyorsun, söyleyerek: İşte Davut sana kötülük arıyor?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaul'a"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niçin"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "işitiyorsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanların sözlerini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanların"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söyleyerek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "arıyor"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "sana kötülük"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:53.460621682Z",
+  "model": "glm-5.3"
+}

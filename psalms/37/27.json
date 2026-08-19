@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Kötülükten dön ve iyilik yap; ve sonsuza dek yerleş.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "dön (uzaklaş)"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ve yerleş"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:07.508059186Z",
+  "model": "glm-5.3"
+}

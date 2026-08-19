@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve adam dedi: Bu kez kemiklerimden kemik, etimden ettir; buna kadın denecek, çünkü adamdan alınmıştır bu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "kez"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "kemik"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "kemiklerimden"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ve et"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "etimden"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "buna"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "denecek"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "alınmıştır"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:28.785097823Z",
+  "model": "glm-5.3"
+}

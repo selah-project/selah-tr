@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve Yahve, senin Elohim'in bize ⟨את⟩ yolu — hangi yolda yürüyeceğiz — ve ⟨את⟩ sözü — ne yapacağız — bildirsin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ve bildirsin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yolu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hangisi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "yürüyeceğiz"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yapacağız"
+    }
+  ],
+  "timestamp": "2026-08-19T10:19:40.967518835Z",
+  "model": "glm-5.3"
+}

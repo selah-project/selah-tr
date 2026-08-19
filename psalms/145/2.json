@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Her gün seni kutlayacağım ve adına övgü diyeceğim sonsuza dek, ebediyen.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "seni kutlayacağım"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ve övgü diyeceğim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adına"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve ebediyen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:29.786664967Z",
+  "model": "glm-5.3"
+}

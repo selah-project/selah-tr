@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yahve'nin ⟨את⟩ ırmak(ns) vurmasından sonra yedi gün doldu.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "vurmak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ırmak"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ırmak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:59.906655721Z",
+  "model": "glm-5.3"
+}

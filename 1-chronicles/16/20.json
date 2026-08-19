@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve bir milletten ⟨את⟩ ⟨diğer⟩ millete, bir krallıktan başka bir halka gidip durdular.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "gidip durdular"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "bir milletten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩'e kadar"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "millet"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ve bir krallıktan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨için⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:37.822319001Z",
+  "model": "glm-5.3"
+}

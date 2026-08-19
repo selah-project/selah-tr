@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Onları öldürdüğünde O'nu aradılar ve dönüp El'i erken aradılar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "-diğinde"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "onları öldürdü"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "O'nu aradılar"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dönüp"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "erken aradılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El'i"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:05.093645151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Kim koydu ⟨את⟩ ölçülerini — ki bilirsin? Ya da kim gerdi üzerine ⟨את⟩ ipi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "ölçülerini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "bilirsin"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "gerdi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "קו",
+      "gloss": "⟨את⟩ ipi",
+      "marks": "ipi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:15.124185801Z",
+  "model": "glm-5.3"
+}

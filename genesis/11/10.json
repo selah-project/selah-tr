@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Bunlar Şem'in soylarıdır: Şem yüz yaşındayken tufandan iki yıl sonra Arpakşad'ı babası oldu ve ⟨את⟩ Arpakşad'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "soyları"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem'in"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakşad'ı"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakşad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "iki yıl"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tufan"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:54.760869096Z",
+  "model": "glm-5.3"
+}

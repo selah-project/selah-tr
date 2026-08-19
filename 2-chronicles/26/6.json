@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve çıktı ve Peleştimliler'le savaştı ve ⟨את⟩ Gat'ın surunu, ⟨את⟩ Yavne'nin surunu ve ⟨את⟩ Aşdod'un surunu yıktı ve Aşdod bölgesinde ve Peleştim topraklarında kentler inşa etti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ve savaştı"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Peleştimliler'le"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "ve yıktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat'ın surunu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "surunu"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yavne'nin surunu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "surunu"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aşdod'un surunu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "surunu"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Aşdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kentler"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Aşdod'da"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "ve Peleştim'de"
+    }
+  ],
+  "timestamp": "2026-08-19T12:08:16.468638421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Evet, ölüm gölgesi vadisinde yürüsemler bile kötülükten korkmam, çünkü sen benimlesin; değneğin ve asan — onlar beni avuttu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "evet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bile"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yürüsem"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "vadisinde"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ölüm gölgesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "korkarım"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "benimlesin"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "değneğin"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ve asan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "beni avuttu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:06.481094501Z",
+  "model": "glm-5.3"
+}

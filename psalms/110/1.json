@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 110,
+  "translation": "Davit'e ait bir mizmor. Yahve'nin efendime ⟨verdiği⟩ söz ⟨şudur⟩: «Sağıma otur, düşmanlarını ayaklarının altına bir basamak yapıncaya kadar.»",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davit'e"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "söz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "efendime"
+    },
+    {
+      "surface": "שב",
+      "gloss": "otur"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "sağıma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ıncaya kadar"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "yapayım"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmanlarını"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "bir basamak"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ayaklarının altına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:16.703316570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve İsrail'in Elohim'ini ⟨את⟩ gördüler; ayaklarının altında safir tuğlası gibi bir iş, göklerin özü gibi berraklıkta.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'in Elohim'i"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ve altında"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaklarının"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "gibi bir iş"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "tuğlası \/ beyazlığı"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safir"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "ve özü gibi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "berraklıkta"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:49.239401395Z",
+  "model": "glm-5.3"
+}

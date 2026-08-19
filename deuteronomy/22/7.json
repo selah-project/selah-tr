@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "⟨את⟩ anneyi mutlaka salıver, ⟨את⟩ yavruları ise kendin için al; ki sana iyi olsun ve günlerini uzatmış olasın.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "salıver"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "mutlaka salıver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anne"
+    },
+    {
+      "surface": "האם",
+      "gloss": "anne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yavruları"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "yavruları"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "al"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendin için"
+    },
+    {
+      "surface": "למען",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "iyi olsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ve uzatmış olasın"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:30.925824043Z",
+  "model": "glm-5.3"
+}

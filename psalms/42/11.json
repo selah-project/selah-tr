@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Kemiklerimde bir katliam gibi — bana söven düşmanlarım, bana bütün gün 'Nerede senin Elohim'in?' derken.",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "katliam gibi"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "kemiklerimde"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "bana sövdüler"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "derken"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:44.812430747Z",
+  "model": "glm-5.3"
+}

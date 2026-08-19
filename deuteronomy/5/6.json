@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ben Yahve ⟨senin⟩ Elohim'inim, seni Mısır ülkesinden, köleler evinden çıkaran.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "çıkaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "köleler"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:57.875682018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Yıkımlar onların üzerine ⟨olsun⟩; canlı olarak Şeol'e insinler; çünkü kötülük onların meskenindedir, ortalarının içinde.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "yıkımlar"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "onların üzerine"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "insinler"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol'e"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "onların meskeninde"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ortalarında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:15.663826128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve bir kadın ki herhangi bir hayvana, onunla çiftleşmek için yaklaşırsa ⟨את⟩, o kadını ⟨את⟩ ve hayvanı ⟨את⟩ öldüreceksin; ölümle öldürülecekler, kanları kendi üzerlerindedir.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "ve bir kadın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "yaklaşırsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herhangi bir"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvana"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "çiftleşmek için"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "ve öldüreceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadını"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hayvanı"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülecekler"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "kanları"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:46.521718133Z",
+  "model": "glm-5.3"
+}

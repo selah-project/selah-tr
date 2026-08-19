@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve kâhin evden evin kapısına çıksın ve evi yedi gün için kapatsın.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıksın"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kapı ağzı"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ve kapatsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:57.098690461Z",
+  "model": "glm-5.3"
+}

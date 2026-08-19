@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve o toprağın altını iyidir; orada bedolah ve şoham taşı ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ve altın"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolah"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ve taş"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "şoham"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:45.932705958Z",
+  "model": "glm-5.3"
+}

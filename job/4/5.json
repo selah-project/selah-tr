@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Şimdi ise ⟨o⟩ sana gelince, yoruldun; sana değince, dehşete düştün.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü-şimdi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gelince"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "yoruldun"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "değince"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "sana (kadar)"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "dehşete düştün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:00.043298837Z",
+  "model": "glm-5.3"
+}

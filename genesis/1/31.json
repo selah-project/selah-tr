@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim yaptığının hepsini ⟨את⟩ gördü ve işte çok iyiydi. Ve akşam oldu ve sabah oldu: altıncı gün.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaptığının hepsini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiydi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "akşam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "altıncı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:38.020781505Z",
+  "model": "glm-5.3"
+}

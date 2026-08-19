@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Halkımın kızının ⟨את⟩ kırığını hafifçe sarıp geçtiler, diyerek: Esenlik, esenlik — oysa esenlik yok.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "sarıp geçtiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kırığı"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kırığını"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızının"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımın"
+    },
+    {
+      "surface": "על",
+      "gloss": "şekilde"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "hafifçe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Esenlik,"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oysa ... yok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    }
+  ],
+  "timestamp": "2026-08-19T12:18:16.754716116Z",
+  "model": "glm-5.3"
+}

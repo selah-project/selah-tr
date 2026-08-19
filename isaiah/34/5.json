@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Çünkü göklerde kılıcım kandırıldı; işte Edom üzerine, yargılanmak için ⟨את⟩ lanetlediğim halkın üzerine inecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "kandırıldı"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "kılıcım"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "inecek"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve ... üzerine"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "lanetlediğim"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "yargı için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:49.022636502Z",
+  "model": "glm-5.3"
+}

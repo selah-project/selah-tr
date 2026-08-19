@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Moşe Aharon'a anlattı ⟨את⟩ kendisini gönderdiği Yahve'nin bütün sözlerini ve ⟨את⟩ kendisine buyurduğu bütün belirtileri.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ve anlattı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kendisini gönderdiği"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün belirtileri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "belirtileri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kendisine buyurduğu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:38.810440889Z",
+  "model": "glm-5.3"
+}

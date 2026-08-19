@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kral onlara dedi: Ben bir düş gördüm ve ruhum, ⟨את⟩ düşü bilmek için telaşlandı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "bir düş"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ve telaşlandı"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşü"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "düşü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:42:08.813424032Z",
+  "model": "glm-5.3"
+}

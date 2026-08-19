@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve Yahve bulut içinde indi ve onunla orada durdu ve Yahve'nin adıyla çağırdı.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "bulut içinde"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:13.002290218Z",
+  "model": "glm-5.3"
+}

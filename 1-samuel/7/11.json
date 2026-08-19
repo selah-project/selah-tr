@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "İsrail adamları Mitspa'dan çıktılar ve ⟨את⟩ Filistlileri kovaladılar; onları Bet-Kar'ın altına kadar vurdular.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ve çıktılar"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ve kovaladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistlileri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlileri"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ve onları vurdu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:13.316090758Z",
+  "model": "glm-5.3"
+}

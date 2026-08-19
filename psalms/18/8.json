@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Yer sarsıldı ve titredi, dağların temelleri sallandı ve o kamçılandı, çünkü O'na öfke tutuştu.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ve titredi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "ve temelleri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "sallandı"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ve o kamçılandı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "öfke tutuştu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'na"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:20.597612364Z",
+  "model": "glm-5.3"
+}

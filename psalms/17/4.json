@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "İnsanların ⟨fiillerine⟩ dair, dudaklarının sözüyle ben ⟨kendimi⟩ korudum zorbanın yollarından ⟨uzak durdum⟩.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "fiillerine dair"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sözüyle"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "dudaklarının"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "korudum"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yollarından"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "zorbanın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:33.998006860Z",
+  "model": "glm-5.3"
+}

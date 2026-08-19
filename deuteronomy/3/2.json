@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Yahve bana dedi: Ondan korkma, çünkü onu, bütün halkını ve ⟨את⟩ topraklarını eline verdim; ve ona, Heşbon'da oturan Emorlu kralı Sihon'a yaptığın gibi yapacaksın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kork"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "eline"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün halkını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "topraklarını"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "topraklarını"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptığın"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihon'a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heşbon'da"
+    }
+  ],
+  "timestamp": "2026-08-19T08:58:02.137754110Z",
+  "model": "glm-5.3"
+}

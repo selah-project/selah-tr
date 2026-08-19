@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "⟨את⟩ Şabatlarımı gözetin ve mabedimden korkun; ben Yahve'yim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabatlarımı"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Şabatlarımı"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "gözetin"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ve mabedim"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "korkun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:03.935815441Z",
+  "model": "glm-5.3"
+}

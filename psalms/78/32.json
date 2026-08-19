@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Bütün bunlara rağmen ⟨yine⟩ günah işlediler ve harikalarına iman etmediler.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunun"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "günah işlediler"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve etmediler"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "iman"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "harikalarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:07.719623772Z",
+  "model": "glm-5.3"
+}

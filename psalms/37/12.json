@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Kötü, doğru kişiye tuzak kurar ve ona karşı dişlerini gıcırdatır.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "tuzak kurar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "doğru kişiye"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "ve gıcırdatır"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona karşı"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dişlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:00.876184453Z",
+  "model": "glm-5.3"
+}

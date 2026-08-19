@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Çünkü sen beni ⟨⟩ rahimden çıkaranısın; annemin Şadday'ları üstünde bana güven verdin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "çıkaranısın"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "rahimden"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "bana güven verdin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünde"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday'ları (memeler)"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annemin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:56.966861971Z",
+  "model": "glm-5.3"
+}

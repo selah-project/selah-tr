@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ihtiyarların kendisine verdiği ⟨את⟩ öğüdü bıraktı ve onunla birlikte ⟨את⟩ büyüyen, önünde duran ⟨את⟩ gençlerle danıştı.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ve bıraktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öğüdü"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "öğüt"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ihtiyarların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ona verdiler"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ve danıştı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gençlerle"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "gençler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "büyüyen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ birlikte"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "duranlar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:58.084795805Z",
+  "model": "glm-5.3"
+}

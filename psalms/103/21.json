@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Yahve'yi kutsayın, bütün orduları O'nun, hizmetkârları O'nun, O'nun hoşnutluğunu yapanlar.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "kutsayın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "orduları O'nun"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "hizmetkârları O'nun"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "yapanlar"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "hoşnutluğunu O'nun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:47.733842362Z",
+  "model": "glm-5.3"
+}

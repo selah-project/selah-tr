@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve ona güneş doğdu, Penuel'in ⟨את⟩ yanından geçtiği sırada, ve o uyluğunun üstünde topallıyordu.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "ve doğdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sırada"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "topallıyordu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünde"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "uyluğunun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:57.048821742Z",
+  "model": "glm-5.3"
+}

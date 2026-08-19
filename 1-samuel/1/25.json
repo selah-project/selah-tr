@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve ⟨את⟩ boğayı kestiler ve oğlanı Eli'ye getirdiler.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "ve kestiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boğayı"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ve getirdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlanı"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(─)ye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-19T09:20:48.848240169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Sadık ⟨bir adam⟩ tamar gibi çiçek açar, Lübnan'daki sedir gibi yücelir.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "sadık"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "tamar (palmiye) gibi"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "çiçek açar"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "sedir gibi"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "Lübnan'da"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "yücelir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:16.049236804Z",
+  "model": "glm-5.3"
+}

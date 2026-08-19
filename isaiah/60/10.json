@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Yabancıların oğulları duvarlarını yeniden kuracak ve onların kralları sana hizmet edecek; çünkü öfkemde seni vurdum, ama hoşnutluğumda sana acıdım.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "yeniden kuracaklar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancıların"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "duvarlarını"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "ve kralları"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "sana hizmet edecek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "öfkemde"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "seni vurdum"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "ve hoşnutluğumda"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "sana acıdım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:35.270598362Z",
+  "model": "glm-5.3"
+}

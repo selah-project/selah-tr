@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 148,
+  "translation": "Onu ululayın göklerin gökleri ve sular, ⟨o sular⟩ ki göklerin üstündedir.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "onu ululayın"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ve sular"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstünde"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:09.724889821Z",
+  "model": "glm-5.3"
+}

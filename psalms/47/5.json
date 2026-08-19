@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Bizim için mirasımızı seçti — sevdiği Yaakov'un görkemini ⟨את⟩ miras olarak. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "seçti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirasımızı"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "mirasımızı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov'un görkemi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "görkem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevdiği"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:24.951028143Z",
+  "model": "glm-5.3"
+}

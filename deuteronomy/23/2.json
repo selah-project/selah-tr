@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Yaralı, ezilmiş ve uzvu kesilmiş kimse Yahve topluluğuna girmeyecek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girecek"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "yaralı"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ezilmiş"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ve kesilmiş"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "uzuv"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "topluluğuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:25.350789848Z",
+  "model": "glm-5.3"
+}

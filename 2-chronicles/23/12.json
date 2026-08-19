@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Atalya, halkın, kralı selamlayan ve öven ⟨sesini⟩ duyunca halkın yanına, Yahve'nin evine girdi.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "duyunca"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "koşan"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "ve öven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kral"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T12:08:35.003995108Z",
+  "model": "glm-5.3"
+}

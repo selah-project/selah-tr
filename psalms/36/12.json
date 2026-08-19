@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Kibrin ayağı bana gelmesin ve kötülerin eli beni sarsıp ⟨oradan⟩ etmesin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-mesin"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "bana gelmesin"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayağı"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kibrin"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ve eli"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mesin"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "beni sarsmasın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:50.890964989Z",
+  "model": "glm-5.3"
+}

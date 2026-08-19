@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Suç ⟨olmadan⟩ koşuyorlar ve hazırlanıyorlar; karşıma çıkmak için uyan ve gör.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "⟨olmadan⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suç"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "koşuyorlar"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ve hazırlanıyorlar"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "karşıma çıkmak için"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ve gör"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:37.484998724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Ve nefret sözleriyle beni kuşattılar; bensiz nedenle benimle savaştılar.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "ve sözleri"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nefret"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "beni kuşattılar"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "benimle savaştılar"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nedenle bensiz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:17.250050203Z",
+  "model": "glm-5.3"
+}

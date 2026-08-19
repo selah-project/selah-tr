@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Çünkü kötünün ağzı ve aldatıcılığın ağzı üzerime açıldı; ⟨את⟩ benimle yalan diliyle konuştular.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ve ağzı"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldatıcılığın"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "açıldı"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konuştular"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ benimle"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dille"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:17.249913686Z",
+  "model": "glm-5.3"
+}

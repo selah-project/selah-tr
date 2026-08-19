@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "İsrail oğullarına söyle ⟨şöyle⟩: Bir kadın tohum ekince ve bir erkek doğurunca, yedi gün temiz olmayacak; hastalık âdetinin günleri gibi kirli sayılacak.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e karşı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨şöyle⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ince"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "tohum ekince"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "doğurunca"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "temiz olmayacak"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "günleri gibi"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "ayrılık"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "hastalığı"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "kirli sayılacak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:20.563144433Z",
+  "model": "glm-5.3"
+}

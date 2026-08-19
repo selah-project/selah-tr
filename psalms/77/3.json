@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Sıkıntım gününde Adonay'ı aradım; geceleyin elim uzandı ve gevşemedi; canım avunmayı reddetti.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sıkıntımın"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "aradım"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "geceleyin"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "uzandı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "gevşedi"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "reddetti"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "avunmayı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:57.014399760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Değil mi: İyilik yaparsan yükselme ⟨vardır⟩; ama iyilik yapmazsan kapıda günah çömelir; onun arzusu sana dönük ⟨olacak⟩, ama sen onun üzerinde hüküm süreceksin.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "iyilik yaparsan"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "yükselme"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "yaparsan"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "kapıda"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "çömelir"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "sana doğru"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "onun arzusu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "hüküm süreceksin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun üzerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:15.278345532Z",
+  "model": "glm-5.3"
+}

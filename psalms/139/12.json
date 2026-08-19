@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Karanlık bile senden gizli kalmaz; gece gündüz gibi parlar; karanlık ışık gibi ⟨senin için⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "kararmaz\/karanlık olmaz"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gündüz gibi"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "parlar"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "karanlık gibi"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ışık gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:23.764088900Z",
+  "model": "glm-5.3"
+}

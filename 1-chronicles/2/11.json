@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Nahşon ⟨את⟩ Salma'yı doğurdu; Salma da ⟨את⟩ Boaz'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ve Nahşon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma'yı"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ve Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz'ı"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:56.330046289Z",
+  "model": "glm-5.3"
+}

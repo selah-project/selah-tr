@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü Yeruşalayim sendeledi ve Yehuda düştü; çünkü dilleri ve davranışları Yahve'ye karşı, O'nun görkem gözlerini Provokasyon etmek için.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "sendeledi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ve Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dilleri"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "ve davranışları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "Provokasyon yapmak için"
+    },
+    {
+      "surface": "עני",
+      "gloss": "gözlerini"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "O'nun görkem"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:03.015695041Z",
+  "model": "glm-5.3"
+}

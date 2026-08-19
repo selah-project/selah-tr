@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Dinleyin Yahve'nin sözünü, Sedom önderleri; kulak verin Elohim'imizin Tora'sına, Amora halkı!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dinleyin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "önderleri"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "kulak verin"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora'sına"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:09.143355712Z",
+  "model": "glm-5.3"
+}

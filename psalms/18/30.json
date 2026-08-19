@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Çünkü seninle bir orduya ⟨karşı⟩ koşarım, ve Elohim'imle bir duvarı aşarım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "koşarım"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "orduya"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "ve Elohim'imle"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "aşarım"
+    },
+    {
+      "surface": "שור",
+      "gloss": "duvar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:20.846166415Z",
+  "model": "glm-5.3"
+}

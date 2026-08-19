@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Yapıyor hukuku ezilenler için, veriyor ekmeği açlara; Yahve çözüyor bağlıları",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yapıyor"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukuku"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ezilenler için"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veriyor"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmeği"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "açlara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "çözüyor"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "bağlıları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:18.832341262Z",
+  "model": "glm-5.3"
+}

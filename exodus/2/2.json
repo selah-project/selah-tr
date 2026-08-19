@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kadın hamile kaldı ve bir oğul doğurdu; onu ⟨את⟩ gördü — ki ⟨o⟩ iyidir — ve onu üç ay gizledi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ve hamile kaldı"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir oğul"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "ve onu gizledi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ay"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:37.309855182Z",
+  "model": "glm-5.3"
+}

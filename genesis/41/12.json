@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Orada bizimle ⟨את⟩ bir genç vardı — bir İbrani, cellatlar başına köle; ona anlattık ve bize ⟨את⟩ rüyalarımızı yorumladı; her kişi rüyasına göre yorumladı.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ve orada"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle",
+      "marks": "bizimle"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bir genç"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "bir İbrani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "köle"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "başına"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "cellatların"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "ve anlattık"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "ve yorumladı"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rüyalarımızı"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "rüyalarımızı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "rüyasına göre"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "yorumladı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:32.098064429Z",
+  "model": "glm-5.3"
+}

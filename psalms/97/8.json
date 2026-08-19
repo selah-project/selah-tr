@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Duydu ve sevindi Siyon, Yehuda'nın kızları senin hükümlerin yüzünden sevinçle coştular, ey Yahve!",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "duydu"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ve sevindi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "ve coştular"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda'nın"
+    },
+    {
+      "surface": "למען",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "senin hükümlerin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.055046666Z",
+  "model": "glm-5.3"
+}

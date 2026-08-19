@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve sizi ⟨את⟩ kendime halk olarak alacağım ve size Elohim olacağım; ve bileceksiniz ki ben Yahve'yim, Elohim'iniz, sizi Mısır'ın yükleri altından çıkaran.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ve-alacağım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halk olarak"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ve-olacağım"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim olarak"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ve-bileceksiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "çıkaran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "yükleri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:35.509697148Z",
+  "model": "glm-5.3"
+}

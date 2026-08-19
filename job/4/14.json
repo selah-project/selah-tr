@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 4:14",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Korku bana ⟨geldi⟩, titreme, ve kemiklerimin çoğunu ürpertti;",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "korku"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "bana ⟨geldi⟩\/beni karşıladı"
+    },
+    {
+      "surface": "ורעדה",
+      "gloss": "ve titreme"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ve çoğu"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kemiklerimin"
+    },
+    {
+      "surface": "הפחיד",
+      "gloss": "ürpertti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:57.845368664Z",
+  "model": "glm-5.3"
+}

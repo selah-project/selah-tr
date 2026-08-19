@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Şamur tişmerun — ⟨את⟩ Yahve Elohim'inizin mitzvotlarını, O'nun edotlarını ve hukimlerini, size emrettiği şeyleri özenle koruyacaksınız.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "koruyarak"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "özenle koruyacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitzvotları"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mitzvotlar (buyruklar)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ve O'nun edotları (tanıklıkları)"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "ve O'nun hukimleri (tüzükleri)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onları"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "size emretti"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:35.056028174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "O ülkeden Aşur çıktı ve ⟨את⟩ Ninova'yı, ⟨את⟩ Rehovot-İr'i ve ⟨את⟩ Kalah'ı inşa etti.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "o ülkeden"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninova'yı"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninova'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rehovot-İr'i"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "İr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalah'ı"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah'ı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:00.533111412Z",
+  "model": "glm-5.3"
+}

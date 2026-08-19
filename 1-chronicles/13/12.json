@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "O gün David ⟨את⟩ Elohim'den korktu ve dedi: Elohim'in Aron'u ⟨את⟩ nasıl yanıma getirebilirim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "korktu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim'den"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'den"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "derken"
+    },
+    {
+      "surface": "היך",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "getirebilirim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yanıma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron'u"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron'u"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:08.199803342Z",
+  "model": "glm-5.3"
+}

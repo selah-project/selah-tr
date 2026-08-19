@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve bütün halk gitti, her adam kendi evine; ve Davud döndü, ⟨את⟩ kendi evini kutsamak için.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her adam"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kendi evine"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "kutsamak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kendi evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kendi evi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:40.985348407Z",
+  "model": "glm-5.3"
+}

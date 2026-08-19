@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 63,
+  "translation": "Canım sana sıkıca yapıştı; sağ elin beni destekler.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "yapıştı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sana (ardından)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "beni"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "destekler"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ elin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:45.449195333Z",
+  "model": "glm-5.3"
+}

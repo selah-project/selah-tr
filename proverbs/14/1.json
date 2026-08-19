@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kadınların bilgeliği evini kurmuştur, ama aptallık kendi elleriyle onu yıkar.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "bilgelik"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "kurdu"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evini"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ama aptallık"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "kendi elleriyle"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "onu yıkar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:03.690197805Z",
+  "model": "glm-5.3"
+}

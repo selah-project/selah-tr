@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Kutlusun sen şehirde, ve kutlusun sen kırdа.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutlu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ve kutlu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kırdа"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:59.287514317Z",
+  "model": "glm-5.3"
+}

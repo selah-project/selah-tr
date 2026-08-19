@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Akşama dönerler, köpek gibi ulurlar ve şehrin çevresinde dolaşırlar.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "dönerler"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "akşama"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ulurlar"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "köpek gibi"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ve dolaşırlar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:37.485362667Z",
+  "model": "glm-5.3"
+}

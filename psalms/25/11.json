@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Adın uğruna, ey Yahve, suçumu bağışla; çünkü o büyüktür.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "bağışla"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "suçumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רב",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:26.652517113Z",
+  "model": "glm-5.3"
+}

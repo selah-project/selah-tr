@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Babasına ve annesine söven kişinin lambası en koyu karanlıkta sönecek.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "söven"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasına"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ve annesine"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "sönecek"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "lambası"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "en koyu karanlıkta"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlıkta"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:11.495682778Z",
+  "model": "glm-5.3"
+}

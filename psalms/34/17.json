@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Kötülük yapanlara karşı ⟨⟩Yahve'nin yüzü ⟨dir⟩ — anılarını yeryüzünden kesip yok etmek için.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "yapanlara karşı"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kesip yok etmek için"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeryüzünden"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "anılarını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:07.093278739Z",
+  "model": "glm-5.3"
+}

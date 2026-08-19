@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Kalb kırıklarını iyileştiren, yaralarını sarandır.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "iyileştiren"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "kırıklarını"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalb"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ve saran"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "yaralarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:17.301778697Z",
+  "model": "glm-5.3"
+}

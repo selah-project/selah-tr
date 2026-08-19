@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Moav, halk yüzünden çok korkuya kapıldı, çünkü ⟨o⟩ kalabalıktı; ve Moav, İsrailoğulları yüzünden tiksinip bıkıverdi.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "korkuya kapıldı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kalabalık"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "bıkıverdi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:40.589113162Z",
+  "model": "glm-5.3"
+}

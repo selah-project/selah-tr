@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Haksızlıkları araştırırlar; «aramayı tamamladık» ⟨derler⟩; hile iyice aranmıştır ⟨da⟩ — insanın içi ve yürek ⟨de⟩ derindir.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "araştırırlar"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "haksızlıkları"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "tamamladık"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "hile"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "aranmış"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "ve iç"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ve yürek"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "derindir"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:42.325234653Z",
+  "model": "glm-5.3"
+}

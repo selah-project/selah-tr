@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve olacak ki, herem ile yakalanan kişi ateşte yakılacak — ⟨את⟩ onu ve ⟨את⟩ ona ait her şeyi — çünkü Yahve'nin beritini ihlal etti ve çünkü İsrail'de ahmaklık yaptı.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve olacak ki"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "yakalanan"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "herem ile"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yakılacak"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ihlal etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beritini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ve çünkü"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ahmaklık (nevala)"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrail'de"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:04.295898137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Noaj yaptı; Elohim'in ona emrettiği her şeyi — öylece yaptı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "her şey gibi\/üzere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "emretti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:40.916840319Z",
+  "model": "glm-5.3"
+}

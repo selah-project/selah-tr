@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve duymayan adam gibi oldum, ağzında ⟨ise⟩ hiçbir karşılık yok.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ve oldum"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "adam gibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-meyen"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "duyan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "karşılık\/azarlama"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:16.868723598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Bütünüyle boşaltılır yer, bütünüyle yağmalanır; çünkü Yahve ⟨את⟩ bu sözü söyledi.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "bütünüyle boşaltılır"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "boşaltılır"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ve bütünüyle yağmalanır"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "yağmalanır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:48.072744870Z",
+  "model": "glm-5.3"
+}

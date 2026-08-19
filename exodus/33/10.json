@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve bütün halk görürdü bulut sütununu — o, çadırın girişinde dururken; ve bütün halk kalkar ve secde ederdi, her biri kendi çadırının girişinde.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ve görürdü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulut sütununu"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "sütunu"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dururken"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinde"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırın"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ve kalkar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ve secde ederdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinde"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "kendi çadırının"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:47.843873369Z",
+  "model": "glm-5.3"
+}

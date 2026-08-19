@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Çünkü sen şöyle dedin: 'İki ulus ve iki ülke bana ait olacak, onları mülk edineceğiz' — oysa Yahve oradaydı.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "sen dedin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki ulus"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "iki ülke"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "ve onu mülk edineceğiz"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ydi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:34:28.965482923Z",
+  "model": "glm-5.3"
+}

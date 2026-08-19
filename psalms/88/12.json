@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Mezarda mı anlatılacak sadâkatın? Avaddonda mı güvenilirliğin?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "anlatılacak mı"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "mezarda"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sadâkatın"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "güvenilirliğin"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Avaddonda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:37.900970822Z",
+  "model": "glm-5.3"
+}

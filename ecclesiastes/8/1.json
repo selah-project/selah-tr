@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Kim bilge gibidir ve kim bir sözün yorumunu bilir? İnsanın bilgeliği yüzünü aydınlatır ve yüzünün sertliği değiştirilir.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "bilge gibi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "yorumunu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir sözün"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bilgeliği"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "aydınlatır"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ve sertliği"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "değiştirilir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:18.375658493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Ey Eloah, kesip öldürsen ya kötüyü! ⟨O⟩ zaman kan adamları, benden uzak durun!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "keşke \/ -sa"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "öldürsen"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kan"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "uzak durun"
+    },
+    {
+      "surface": "מני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:22.949022987Z",
+  "model": "glm-5.3"
+}

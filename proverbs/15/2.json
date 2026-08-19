@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Bilgelerin dili bilgiyi iyileştirir, ama akılsızların ağzı saçmalık kaynatır.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "dili"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bilgelerin"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "iyileştirir"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgiyi"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ama ağzı"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "akılsızların"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "kaynatır\/fışkırtır"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "saçmalığı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:07.445329053Z",
+  "model": "glm-5.3"
+}

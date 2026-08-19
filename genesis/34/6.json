@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve Hamor, Şekem'in babası, Yaakov'un yanına ⟨את⟩ ona söyleşmek için çıktı.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babası"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem'in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "söyleşmek için"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:59.043830064Z",
+  "model": "glm-5.3"
+}

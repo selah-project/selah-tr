@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Hadad Mısır'da Dâvid'in atalarıyla birlikte yattığını ve ordu komutanı Yoav'ın öldüğünü duyunca Paro'ya «Beni salıver, ki kendi ülkeme gideyim» dedi.",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "duyunca"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-dığını"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yattı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dâvid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ve -dığını"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "komutanı"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ordunun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "beni salıver"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ve gideyim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ülkeme"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:52.595131476Z",
+  "model": "glm-5.3"
+}

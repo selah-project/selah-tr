@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve olacak ki Mısırlılar seni ⟨את⟩ görünce 'karısı budur bu' diyecekler; ve beni ⟨את⟩ öldürecekler, ama seni ⟨את⟩ sağ tutacaklar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "⟨את⟩ görünce"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mısırlılar"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ve diyecekler"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "⟨את⟩ ve öldürecekler"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ ve seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "sağ tutacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:49.571686895Z",
+  "model": "glm-5.3"
+}

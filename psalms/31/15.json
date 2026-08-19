@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ben ise sana güvenmişim, Yahve; demiştim: 'Elohim'im sensin.'",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvenmişim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "demiştim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:12.415748105Z",
+  "model": "glm-5.3"
+}

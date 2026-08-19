@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 9:23",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Kırbı bir anda öldürürse, suçsuzların belasıyla alay eder.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "kırbaç"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "öldürürse"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "birden\/bir anda"
+    },
+    {
+      "surface": "למסת",
+      "gloss": "belası -(sı)yla"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "suçsuzlar"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "alay eder"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:01.057432058Z",
+  "model": "glm-5.3"
+}

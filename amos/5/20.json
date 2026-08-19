@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yahve'nin günü ⟨değil mi⟩ karanlık ve ⟨değil⟩ ışık; ⟨ve⟩ zifiri karanlık, ⟨ve⟩ ona parlaklık ⟨yok⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "zifiri karanlık"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "parlaklık"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T10:42:44.198407174Z",
+  "model": "glm-5.3"
+}

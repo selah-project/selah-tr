@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Biçimsiz özümü gördü gözlerin, ve kitabında hepsi yazıldı; günler biçimlendirildiler, ve ⟨onlardan⟩ ⟨henüz⟩ yoktu bir ⟨tanesi bile⟩.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "biçimsiz özüm"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözlerin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerinde"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitabının"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "yazıldı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "biçimlendirildiler"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:33.264922830Z",
+  "model": "glm-5.3"
+}

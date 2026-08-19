@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ne mutludur yolda tamsız olanlar, Yahve'nin Tora'sında yürüyenler.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutludur"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "tamsız olanlar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yürüyenler"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Tora'sında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:07.359780112Z",
+  "model": "glm-5.3"
+}

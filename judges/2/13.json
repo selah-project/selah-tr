@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ⟨את⟩ Yahve'yi terk ettiler ve Baal'a ve Aşterotlara kulluk ettiler.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "terk ettiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kulluk ettiler"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal'a"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "ve Aşterotlara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:34.845344988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yahve'nize, Elohim'inize böyle yapmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "yapmayacaksınız"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'nize"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'inize"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:04.551665747Z",
+  "model": "glm-5.3"
+}

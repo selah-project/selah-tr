@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Şaul, Kelila'ya inmek, Davud'u ve adamlarını kuşatmak için, ⟨את⟩ bütün halkı savaş için çağırdı.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün halkı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaş için"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "inmek için"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kelila'ya"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kuşatmak için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'u"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "adamlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:59.775936544Z",
+  "model": "glm-5.3"
+}

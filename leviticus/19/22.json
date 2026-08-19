@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve kâhin suç sunusu koçuyla onun için Yahve'nin önünde günahı üzerine — ki onunla günah işledi — kefaret yapsın; ve işlemiş olduğu günahından ona bağışlanacak.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefaret yapsın"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "koçla"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "suç sunusu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "günahı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah işledi"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ve bağışlanacak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "günahından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "işledi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:01.745134061Z",
+  "model": "glm-5.3"
+}

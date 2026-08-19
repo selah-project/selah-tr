@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ruhunda öfkelenmek için telaşlanma, çünkü öfke akılsızların bağrında dinlenir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "telaşlanma"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ruhunda"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "öfkelenmek için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "bağrında"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "akılsızların"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "dinlenir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:33.250386789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Emen çocuğun dili susuzluktan damağına yapıştı; küçük çocuklar ekmek istedi — onlara bölen ⟨hiç⟩ yok.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "yapıştı"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "emen çocuğun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "damağına"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "susuzluktan"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "küçük çocuklar"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "istedi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "bölen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:56.489089935Z",
+  "model": "glm-5.3"
+}

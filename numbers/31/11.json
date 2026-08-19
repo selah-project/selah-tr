@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Bütün ganimeti ⟨את⟩ ve hem insanlardan hem hayvanlardan alınan bütün Ele geçirdikleri ⟨את⟩ aldılar.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ganimeti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ganimeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün Ele geçirdikleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "Ele geçirdikleri (av)"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanlardan"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ve hayvanlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:42:15.394753981Z",
+  "model": "glm-5.3"
+}

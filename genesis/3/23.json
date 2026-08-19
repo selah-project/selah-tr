@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Yahve Elohim onu Aden bahçesinden gönderdi; alındığı toprağı işlemek için ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "ve onu gönderdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bahçesinden"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Aden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "işlemek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağı"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alınmıştı"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:44.035428441Z",
+  "model": "glm-5.3"
+}

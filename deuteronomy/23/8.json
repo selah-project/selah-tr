@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Edomlu'yu iğrenme, çünkü o senin kardeşindir; Mısırlı'yı iğrenme, çünkü onun ülkesinde misafir oldun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "iğrenme"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomlu'yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "iğrenme"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mısırlı'yı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גר",
+      "gloss": "misafir"
+    },
+    {
+      "surface": "היית",
+      "gloss": "oldun"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "onun ülkesinde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:33.702878376Z",
+  "model": "glm-5.3"
+}

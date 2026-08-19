@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü haklı ⟨olsam⟩ da cevap veremem; yargıcıma yalvarırım.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "olsam da"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "haklı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "cevap veremem"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "yargıcıma"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "yalvarırım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:04.328010714Z",
+  "model": "glm-5.3"
+}

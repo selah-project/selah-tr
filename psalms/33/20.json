@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Canımız Yahve'yi bekledi; O, yardımcımız ve kalkanımızdır.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "canımız"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "bekledi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "yardımcımız"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ve kalkanımız"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O'dır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:09.064948901Z",
+  "model": "glm-5.3"
+}

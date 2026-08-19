@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve İsrail oğulları süslerini ⟨את⟩ Horev dağından ⟨itibaren⟩ çıkardılar.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ve çıkardılar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "süslerini"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "süslerini"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dağından"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horev"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:36.779292775Z",
+  "model": "glm-5.3"
+}

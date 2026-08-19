@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve doğruyu sınar; kötüyü ve şiddeti seveni ise canı nefret eder.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğruyu"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "sınar"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ve …seveni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "şiddeti"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nefret eder"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:21.347295811Z",
+  "model": "glm-5.3"
+}

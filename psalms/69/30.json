@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Ben ise yoksul ve acı çeken ⟨im⟩; kurtuluşun, ey Elohim, beni yükseklere çıkarır.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "ve acı çeken"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "kurtuluşun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "beni yükseklere çıkarır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:20.402206687Z",
+  "model": "glm-5.3"
+}

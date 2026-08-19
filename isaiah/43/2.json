@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Sulardan geçtiğinde ⟨את⟩ seninle benim; ve nehirlerden geçerken seni boğmayacaklar; ateşin ortasından yürüdüğünde yanmayacaksın, alev sana tutuşmayacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "geçtiğinde"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sulardan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle",
+      "marks": "seninle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "ve nehirlerden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "seni boğmayacaklar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yürüdüğünde"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "yanmayacaksın"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "ve alev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "tutuşmayacak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:04.736822968Z",
+  "model": "glm-5.3"
+}

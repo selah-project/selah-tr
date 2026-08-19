@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Ne olursunuz Yahve'nin — göklerin ve yerin Yapıcısı.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "kutlular \/ ne olursunuz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yapıcısı"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ve yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:54.879178081Z",
+  "model": "glm-5.3"
+}

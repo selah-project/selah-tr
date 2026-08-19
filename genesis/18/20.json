@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Yahve dedi: Sedom'un ve Amora'nın çığlığı büyük, çünkü günahları çok ağır, çok.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "çığlığı"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom'un"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ve Amora'nın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "ve günahları"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:45.294129690Z",
+  "model": "glm-5.3"
+}

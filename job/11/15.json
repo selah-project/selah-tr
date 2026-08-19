@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 11:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü o zaman lekesiz yüzünü kaldıracaksın, ⟨olacaksın⟩ sağlam ⟨gibi⟩ ve korkmayacaksın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kaldıracaksın"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ממום",
+      "gloss": "lekesiz \/面临的 leke"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ve olacaksın"
+    },
+    {
+      "surface": "מצק",
+      "gloss": "dökülmüş \/ sağlam"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ve etme",
+      "marks": ""
+    },
+    {
+      "surface": "תירא",
+      "gloss": "korkmayacaksın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:21.611497578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve ⟨את⟩ silahlarını Aştrot evine koydular ve ⟨את⟩ cesedini Beyt-Şan duvarına astılar.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ve koydular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silahlarını"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "silahlarını"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Aştrot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "cesedini"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "cesedini"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "astılar"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "duvarına"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Şan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:31.570018672Z",
+  "model": "glm-5.3"
+}

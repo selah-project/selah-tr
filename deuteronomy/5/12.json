@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Şabat gününü ⟨את⟩ koru, onu kutsallaştırmak için; nasıl ki Yahve, senin Elohim'in sana buyurdu.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "koru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günü"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "onu kutsallaştırmak için"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nasıl ki"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "sana buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T08:58:02.555074037Z",
+  "model": "glm-5.3"
+}

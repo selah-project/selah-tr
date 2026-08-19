@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Vuruşunu üzerimden uzaklaştır; elinle çarpışından ⟨ben⟩ tükendim.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "uzaklaştır"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "üzerimden"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "vuruşun"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "çarpışından"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elinle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "tükendim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:45.859957764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ezildi ⟨benim⟩ canım özlemden — hükümlerine ⟨duyduğu özlem⟩ her zaman.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "ezildi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "özlem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hükümlerine"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zaman"
+    }
+  ],
+  "timestamp": "2026-08-19T12:37:14.546570092Z",
+  "model": "glm-5.3"
+}

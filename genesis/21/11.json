@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve bu söz Avraham'ın gözünde oğlu yüzünden çok kötü göründü.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "kötü göründü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu söz"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham'ın"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "sebebiyle"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:45.785325003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kendime bağlar ve portakal bahçeleri yaptım; onlara her meyveli ağaç diktim.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "bağlar"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ve portakal bahçeleri"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ve diktim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyveli"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:13.443041788Z",
+  "model": "glm-5.3"
+}

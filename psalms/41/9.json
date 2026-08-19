@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "\"Belial'ın bir sözü üzerine dökülür ona; ve yatan kimse bir daha kalkmayacak.\"",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial'ın"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "dökülür"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve yatan kimse"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatmış"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kalkmaya"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:46.012425710Z",
+  "model": "glm-5.3"
+}

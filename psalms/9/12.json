@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Siyon'da oturana, Yahve'ye ilahiler söyleyin, halklar arasında ⟨onun⟩ işlerini anlatın.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ilahiler söyleyin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon'da"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "anlatın"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "halklarda"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "işlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:01.424772350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Gözlerimi kaldırdım, ⟨את⟩ gözlerimi, ve gördüm — işte dört boynuz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "kaldırdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlerimi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerimi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ve gördüm"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dört"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "boynuz"
+    }
+  ],
+  "timestamp": "2026-08-19T10:47:45.851139084Z",
+  "model": "glm-5.3"
+}

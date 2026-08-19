@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "İşte, Yisrael'in önderleri, her biri kendi gücü ⟨için⟩ ⟨senin⟩ içinde oldular — kan dökmek için.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "önderleri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "kendi gücü için"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senin içinde"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "dökmek"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:28:23.129628048Z",
+  "model": "glm-5.3"
+}

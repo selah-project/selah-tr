@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Yer'in kralları ⟨kendilerini⟩ diktiler, ve yöneticiler birlikte ⟨meşveret edip⟩ toplandılar — Yahve'ye ve O'nun Maşiah'ına karşı.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "kendilerini diktiler"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer'in"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ve yöneticiler"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "birlikte kurulduklar"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve karşı"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "O'nun Maşiah'ı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:56.466228130Z",
+  "model": "glm-5.3"
+}

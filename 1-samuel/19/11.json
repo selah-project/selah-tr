@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 19:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Şaul Davud'un evine gözcüler gönderdi, onu sabah öldürmek için; ve karısı Mikal bunu Davud'a bildirip dedi: Bu gece canını ⟨את⟩ kurtarmazsan, yarın öldürülürsün.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "לשמרו",
+      "gloss": "onu gözetlemek"
+    },
+    {
+      "surface": "ולהמיתו",
+      "gloss": "ve onu öldürmek"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ve bildirdi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "değilsen"
+    },
+    {
+      "surface": "ממלט",
+      "gloss": "kurtarmazsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canını"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bu gece"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "yarın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "מומת",
+      "gloss": "öldürülürsün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:25.087947410Z",
+  "model": "glm-5.3"
+}

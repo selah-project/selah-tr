@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve onu ⟨את⟩ tütsü yapacaksın — bileşim, bileşimcinin işi, tuzlanmış, saf, kutsal.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ve yapacaksın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tütsüyü"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tütsü"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "bileşim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "bileşimcinin"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "tuzlanmış"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "saf"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:08.250788898Z",
+  "model": "glm-5.3"
+}

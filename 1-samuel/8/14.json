@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ⟨את⟩ tarlalarınızı, ⟨את⟩ bağlarınızı ve zeytinliklerinizin en iyilerini alacak ve kullarına verecek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tarlalarınızı"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "tarlalarınızı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bağlarınızı"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "bağlarınızı"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "ve zeytinlikleriniz"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "en iyileri"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alacak"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ve verecek"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "kullarına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:02.441288841Z",
+  "model": "glm-5.3"
+}

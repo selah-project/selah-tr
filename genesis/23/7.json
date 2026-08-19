@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Avraham kalktı ve ülkenin halkına, Het oğullarına secde etti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ve secde etti"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halkına"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:04.992302083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Kötülüğü kendi başına dönecek, ve tepesine kendi şiddeti inecek.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "dönecek"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "kendi başına"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tepesine"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "şiddeti"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "inecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:44.574914266Z",
+  "model": "glm-5.3"
+}

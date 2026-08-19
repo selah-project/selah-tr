@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Eğer ezersen ⟨את⟩ kızlarımı, ve eğer kızlarımın üzerine kadınlar alırsan — bizimle birlikte adam yok; işte, Elohim tanık benimle senin aranda.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Eğer"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ezersen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kızlarımı"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "kızlarımı"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alırsan"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kadınlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "kızlarımın"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimle birlikte"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanık"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "benimle aranda"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ve seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:01.250018709Z",
+  "model": "glm-5.3"
+}

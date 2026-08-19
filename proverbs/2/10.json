@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Çünkü bilgelik yüreğine girecek ve bilgi canına tatlı gelecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girecek"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bilgelik"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "yüreğine"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ve bilgi"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "canına"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "tatlı gelecek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:56.392438869Z",
+  "model": "glm-5.3"
+}

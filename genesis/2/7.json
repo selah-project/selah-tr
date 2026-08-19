@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Yahve Elohim adamı toprağın tozundan ⟨את⟩ biçimlendirdi ve burnuna hayat nefesini üfledi; ve adam yaşayan bir nefes oldu.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "ve biçimlendirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozundan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ve üfledi"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "burnuna"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "nefesini"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hayat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nefes olana"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yaşayan"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:04.931312809Z",
+  "model": "glm-5.3"
+}

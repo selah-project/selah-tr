@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Şallum ⟨את⟩ Yekamya'yı doğurdu ve Yekamya ⟨את⟩ Elişama'yı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Ve Şallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamya'yı"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ve Yekamya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elişama'yı"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elişama"
+    }
+  ],
+  "timestamp": "2026-08-19T12:25:46.917407705Z",
+  "model": "glm-5.3"
+}

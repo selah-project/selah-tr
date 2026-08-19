@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 140,
+  "translation": "Bilirim ki Yahve ezilen için yargıyı, düşkünler için hükümü yapacak.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "bilirim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דין",
+      "gloss": "yargıyı"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezilen için"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hüküm"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "düşkünler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:33.641080004Z",
+  "model": "glm-5.3"
+}

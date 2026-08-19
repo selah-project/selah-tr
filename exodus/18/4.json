@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve ötekinin adı Eli'ezer'di — çünkü 'babamın Elohim'i yardımımdaydı ve beni Paro'nun kılıcından kurtardı' dedi.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ötekinin"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eli'ezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babamın"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "yardımımdaydı"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "kurtardı"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kılıcından"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro'nun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:48.497995909Z",
+  "model": "glm-5.3"
+}

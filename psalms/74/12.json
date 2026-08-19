@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Ve Elohim, eskiden beri kralım olan, ortasında ⟨את⟩ yeryüzünün kurtuluşlar işleyendir.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Ve Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralım"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "eskiden beri"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "işleyendir"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kurtuluşlar"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:35.883557577Z",
+  "model": "glm-5.3"
+}

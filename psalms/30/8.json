@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Yahve, hoşnutluğunla dağımı güç ⟨olarak⟩ ayakta durttun; yüzünü gizledin — dehşete düşmüş ⟨oldum⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "hoşnutluğunla"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ayakta durttun"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "dağımı"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güç"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "gizledin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "dehşete düşmüş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:24.418451476Z",
+  "model": "glm-5.3"
+}

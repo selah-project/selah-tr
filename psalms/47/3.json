@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Çünkü Yahve, Elyon, korkunç olandır; bütün ⟨א⟩ yerin üzerinde büyük kral.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (En Yüce)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "korkunç"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:09.453057173Z",
+  "model": "glm-5.3"
+}

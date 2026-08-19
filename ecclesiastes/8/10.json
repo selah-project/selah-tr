@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve böylece kötülerin gömüldüğünü gördüm; ⟨onlar⟩ girip çıktılar, kutsal ⟨yerden⟩ yürürler ve öyle yaptıkları kentte unutuldular — bu da heveldir.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "ve böylece"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "gömüldüğünü"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ve geldiler"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "ve yerden"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yürürler"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "ve unutuldular"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kentte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:40.041482559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Çünkü siz biliyorsunuz ⟨את⟩ Mısır ülkesinde nasıl oturduğumuzu ve ⟨את⟩ geçtiğiniz ulusların ortasından nasıl geçtiğimizi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "biliyorsunuz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasıl oturduğumuzu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "oturduğumuzu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "nasıl geçtiğimizi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "geçtiğimizi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "geçtiğiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:23.850715651Z",
+  "model": "glm-5.3"
+}

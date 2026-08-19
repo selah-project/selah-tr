@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Ey uluslar, Elohim'imizi kutsayın ve O'nun övgüsünün sesini duyurun.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "kutsayın"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizi"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ve duyurun"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "O'nun övgüsünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:56.948971412Z",
+  "model": "glm-5.3"
+}

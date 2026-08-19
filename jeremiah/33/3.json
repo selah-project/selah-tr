@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Bana çağır, ben de sana cevap vereyim ve sana bilmediğin büyük ve surlu ⟨gizli⟩ şeyleri bildireyim.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "çağır"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "ve sana cevap vereyim"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ve bildireyim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "büyük şeyler"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "ve surlu\/gizli şeyler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "bildiğin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:14:28.865632385Z",
+  "model": "glm-5.3"
+}

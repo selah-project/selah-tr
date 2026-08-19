@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "ve pelikanı, ve ⟨את⟩ kerkenezi, ve ⟨את⟩ karabatağı",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ve pelikan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kerkenez"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "kerkenez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karabatak"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "karabatak"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:18.572868164Z",
+  "model": "glm-5.3"
+}

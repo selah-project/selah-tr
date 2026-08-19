@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve malzeme, ⟨את⟩ onu yapmak için tüm işe yetecek kadar ⟨idi⟩ ve arttı.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "ve malzeme"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "דים",
+      "gloss": "yeterli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (iş)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ve arttı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:04.243751132Z",
+  "model": "glm-5.3"
+}

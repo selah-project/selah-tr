@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Topraktan ondan ekmek çıkar, ve onun altı ateş gibi ters çevrilmiştir.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "ve onun altı"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ters çevrilmiştir"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:07.013799102Z",
+  "model": "glm-5.3"
+}

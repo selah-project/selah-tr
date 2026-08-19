@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve ⟨את⟩ domuzu — çünkü tırnağı yarar ama geviş getirmez, size murdardır — ⟨את⟩ onların etinden yemeyeceksiniz ve leşlerine dokunmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "domuzu"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "domuzu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "yarar"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "tırnağı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geviş"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "etlerinden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ve leşlerine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dokunmayacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:14.073726556Z",
+  "model": "glm-5.3"
+}

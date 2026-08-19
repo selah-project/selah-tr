@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Güçlü ol ve yürekli ol, çünkü sen bu halka ⟨את⟩ atalarına onlara vermek için ant içtiğim ⟨את⟩ toprağı mülk olarak vereceksin.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "güçlü ol"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ve yürekli ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "mülk olarak vereceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu halk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ant içtim"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "atalarına"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermek için"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:53.076160286Z",
+  "model": "glm-5.3"
+}

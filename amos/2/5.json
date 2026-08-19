@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ateş göndereceğim Yehuda'ya, ve yutacak Yeruşalayim'in kalelerini.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ve göndereceğim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda'ya"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ve yutacak"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "kaleleri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:42:16.536435034Z",
+  "model": "glm-5.3"
+}

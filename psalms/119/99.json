@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Bütün öğretmenlerimden daha anlayışlıyım, çünkü tanıklıklarınız benim için ⟨bir⟩ derin düşüncedir.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "bütün... -den"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "öğretmenlerim"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "daha anlayışlıyım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "tanıklıklarınız"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "derin düşünce"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:02.418488278Z",
+  "model": "glm-5.3"
+}

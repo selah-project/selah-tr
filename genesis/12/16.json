@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Avram'a onun hatırı için iyilik etti; ve onun oldu: koyunlar, sığırlar, erkek eşekler, erkek köleler, kadın köleler, dişi eşekler ve develer.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "ve Avram'a"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "iyilik etti"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "onun hatırı için"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "koyunlar"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ve sığırlar"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ve erkek eşekler"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "ve erkek köleler"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ve kadın köleler"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "ve dişi eşekler"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ve develer"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:26.862340835Z",
+  "model": "glm-5.3"
+}

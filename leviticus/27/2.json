@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "İsrail oğullarına konuş ve onlara de: bir adam ⟨eğer⟩ bir adak olağanüstü kılarsa, kişilerin değer biçimin ⟨olduğu üzere⟩ Yahve'ye ⟨olur⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ve de"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "olağanüstü kılarsa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "adak"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "değer biçiminle"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "kişiler"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:39.757995536Z",
+  "model": "glm-5.3"
+}

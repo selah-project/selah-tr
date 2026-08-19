@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Bak, bana yanıt ver, Yahve Elohim'im; gözlerimi aydınlat, yoksa ölüm uykusuna dalarım —",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bana yanıt ver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "aydınlat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerimi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "uykusuna dalarım"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ölüm"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:33.044904119Z",
+  "model": "glm-5.3"
+}

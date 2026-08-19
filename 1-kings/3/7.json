@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve şimdi, Yahve Elohim'im, sen kulunu Davud'umun babasının yerine kral yaptın ⟨את⟩; ben ise küçük bir delikanlıyım, çıkmayı ve girmeyi bilmiyorum.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "kral yaptın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "נער",
+      "gloss": "delikanlı"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "biliyorum"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "çıkmayı"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ve girmeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:15.310328575Z",
+  "model": "glm-5.3"
+}

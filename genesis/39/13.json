@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 39:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Ve ⟨oltu⟩, onun ⟨onu⟩ gördüğü zaman ki gömleğini onun elinde bıraktı, ve dışarıya kaçtı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כראותה",
+      "gloss": "onun gördüğü zaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "bıraktı"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "gömleğini"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "onun elinde"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ve kaçtı"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "dışarıya"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:04.830317099Z",
+  "model": "glm-5.3"
+}

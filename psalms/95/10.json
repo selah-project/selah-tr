@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Kırk yıl o kuşakla tiksindim ve dedim: Kalpleri sapmış bir halk onlar, ve yollarımı bilmediler.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "tiksinirim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "kuşakla"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "sapmış"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kalpleri"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bildiler"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:47.950360558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Sana sığındım, ey Yahve; asla utandırma beni; adaletinle kurtar beni.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asla ... olma"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "utandırma beni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "asla"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "adaletinle"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "kurtar beni"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:17.647129149Z",
+  "model": "glm-5.3"
+}

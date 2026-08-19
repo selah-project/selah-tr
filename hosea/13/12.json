@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Efrayim'in suçu ⟨bağlanmıştır⟩, günahı saklanmıştır.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "bağlanmıştır"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suçu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim'in"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "saklanmıştır"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "günahı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:31.940946275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Gelin, Yahve'ye naralar atalım, kurtuluşumuzun Kayasına sevinç çığlığıyla bağırıp erinelim.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "naralar atalım"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "bağırıp erinelim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "Kayasına"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "kurtuluşumuzun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:03.274956860Z",
+  "model": "glm-5.3"
+}

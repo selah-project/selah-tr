@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ilk gün sunusunu takdim eden ⟨את⟩ oldu: Nahşon, Amminadav oğlu, Yehuda oymağından.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "takdim eden"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunusunu"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sunusunu"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahşon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "oymağından"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:32.775666261Z",
+  "model": "glm-5.3"
+}

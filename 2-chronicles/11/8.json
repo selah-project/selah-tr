@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ Gat'ı ve ⟨את⟩ Mareşa'yı ve ⟨את⟩ Zif'i ⟨da⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Gat'ı"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Mareşa'yı"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareşa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Zif'i"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:50.558099810Z",
+  "model": "glm-5.3"
+}

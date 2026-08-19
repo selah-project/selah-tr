@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "O zaman ⟨את⟩ o adamı ya da ⟨את⟩ o kadını — ki ⟨את⟩ bu kötü şeyi işlediler — kapılarına çıkaracaksın: ⟨את⟩ o adamı ya da ⟨את⟩ o kadını; ve taşlarla taşlayacaksın onları ve ölecekler.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "çıkaracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o adam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o kadın"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "işlediler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şey"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "şey"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "kapıların"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o adam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o kadın"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "taşlayacaksın"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "taşlarla"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ve ölecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:27.604239519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Bütün ⟨eksiksiz⟩ taşlardan Yahve'nin, Elohim'inin mihrabını ⟨את⟩ yapacaksın ve ona Yahve'ye, Elohim'ine yakmalık sunular yükselteceksin.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "taşlardan"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "eksiksiz"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mihrabı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mihrabı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ve yükselteceksin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "yakmalık sunular"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'ine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:27.022632913Z",
+  "model": "glm-5.3"
+}

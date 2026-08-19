@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ya da insanın muradlığına — kendisiyle murdar olabileceği herhangi bir muradlığına — değerse ve o ondan gizli kalır, sonra kendisi bilir ve suçludur.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Ya da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-de"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "değerse"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "muradlığına"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herhangi bir"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "muradlığına"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "murdar olur"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "ve gizli kalır"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ve suçludur"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:25.487794082Z",
+  "model": "glm-5.3"
+}

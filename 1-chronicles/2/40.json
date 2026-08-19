@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve El'asa ⟨את⟩ Sismai'yi doğurdu ve Sismai ⟨את⟩ Şallum'u doğurdu.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ve El'asa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ve Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şallum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:04.491746267Z",
+  "model": "glm-5.3"
+}

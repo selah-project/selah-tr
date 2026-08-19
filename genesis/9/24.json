@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Noah şarabından uyandı ve küçük oğlunun ona ne yaptığını ⟨את⟩ öğrendi.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "ve uyandı"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "şarabından"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ve öğrendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yaptığını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "küçük"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:02.712239777Z",
+  "model": "glm-5.3"
+}

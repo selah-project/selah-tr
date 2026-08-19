@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "İyisin ⟨sen⟩ ve iyilik ediyorsun; bana kurallarını öğret.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "ve iyilik eden"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "öğret bana"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kurallarını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:33.415153233Z",
+  "model": "glm-5.3"
+}

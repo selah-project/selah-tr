@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Yahudiler kabul ettiler ⟨את⟩ yapmaya başladıklarını, ve ⟨את⟩ Mordehay'ın onlara yazdığını.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "ve kabul etti"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yapmaya başladıklarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "başladılar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Mordehay'ın onlara yazdığını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "yazdı"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:21.172298926Z",
+  "model": "glm-5.3"
+}

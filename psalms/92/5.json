@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Çünkü beni sevindirdin, Yahve, yaptığın işle; ellerinin işlerine dair sevinçle coşup şakıyacağım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "beni sevindirdin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "yaptığın işle"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "işlerine dair"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "sevinçle coşup şakıyacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:30.712906666Z",
+  "model": "glm-5.3"
+}

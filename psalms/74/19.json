@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Kumrunun canını canavara teslim etme; sana muhtaç olanların canını sonsuza dek unutma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "etme (olumsuz)"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "teslim etme"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "canavara"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "kumrunun"
+    },
+    {
+      "surface": "חית",
+      "gloss": "canını"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "sana muhtaç olanların"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme (olumsuz)"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutma"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:43.628533542Z",
+  "model": "glm-5.3"
+}

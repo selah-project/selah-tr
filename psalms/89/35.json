@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Antlaşmamı kirletmeyeceğim, dudaklarımdan çıkanı da değiştirmeyeceğim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "kirletmeyeceğim"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "antlaşmamı"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ve çıkanı"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudaklarımdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "değiştirmeyeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:13.055530223Z",
+  "model": "glm-5.3"
+}

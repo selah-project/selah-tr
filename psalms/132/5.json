@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Yahve'ye ⟨bir⟩ yer buluncaya, Yaakov'un Güçlüsü'ne ⟨bir⟩ mesken buluncaya ⟨değin⟩",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "değin"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "buluncaya"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "meskenler"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Güçlüsü'ne"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:59.174770365Z",
+  "model": "glm-5.3"
+}

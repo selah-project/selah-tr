@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Bunlardan ülkelerinde goyların adaları bölündü, her biri kendi diline göre, kendi ailelerine göre, kendi goyları içinde.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "bunlardan"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "bölündü"
+    },
+    {
+      "surface": "איי",
+      "gloss": "adaları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "goyların"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ülkelerinde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "kendi diline göre"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kendi ailelerine göre"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "kendi goyları içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:10.343237796Z",
+  "model": "glm-5.3"
+}

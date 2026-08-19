@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Şemuël halka dedi: Yahve ⟨⟨O'dur⟩⟩ ki Moşe'yi ve ⟨את⟩ Aharon'u yaptı, ve ⟨⟨O'dur⟩⟩ ki atalarınızı Mısır ülkesinden çıkardı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe'yi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ki"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "çıkardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarınızı"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atalarınızı"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:48.965759279Z",
+  "model": "glm-5.3"
+}

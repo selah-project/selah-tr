@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Dawid oradan gitti ve Adullam mağarasına kaçtı; kardeşleri ve bütün babasının evi işittiler ve ona doğru oraya indiler.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ve kaçtı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e doğru"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "mağarası"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ve işittiler"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ve indiler"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona doğru"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:38.857034818Z",
+  "model": "glm-5.3"
+}

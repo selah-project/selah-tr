@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yoav, Davud'un yanından çıktı ve Avner'in ardından elçiler gönderdi; onlar ⟨את⟩ onu Sirah Sarnıcından geri getirdiler — ama Davud bilmiyordu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçiler"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner'in"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ve geri getirdiler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Avner'i)"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "sarnıçtan"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Sirah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ve Davud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biliyordu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:29:50.051128167Z",
+  "model": "glm-5.3"
+}

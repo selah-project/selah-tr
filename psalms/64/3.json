@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Gizle beni kötülerin ⟨gizli⟩ düzeninden, av çıkar işleyenlerin kargaşasından ⟨uzak⟩.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "gizle beni"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "⟨gizli⟩ düzeninden"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "kargaşasından"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işleyenlerin"
+    },
+    {
+      "surface": "און",
+      "gloss": "av çıkarın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:24.940528511Z",
+  "model": "glm-5.3"
+}

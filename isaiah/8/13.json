@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahve Sevaot'u, ⟨את⟩ O'nu kutsal kılın; ve O sizin korkunuz ve O sizin dehşetiniz ⟨olsun⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Sevaot'u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩O'nu",
+      "marks": "kutsal kılın"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "kutsal kılın"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve O"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "korkunuz"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve O"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "dehşetiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:00.855352187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Elohim'in oğulları insanların kızlarını gördüler — ki ⟨onlar⟩ güzeldiler — ve beğendiklerinin hepsinden kendilerine eşler aldılar.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanların kızlarını"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanların"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "güzeldiler"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨onlar⟩"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ve aldılar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kendilerine"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "eşler"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hepsinden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "beğendiklerinin"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:29.689959823Z",
+  "model": "glm-5.3"
+}

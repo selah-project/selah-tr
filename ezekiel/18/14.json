@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve işte bir oğul doğurdu, ve babasının yaptığı bütün günahları ⟨את⟩ gördü, korktu ve öyle yapmadı.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir oğul"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün günahları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günahları"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "korktu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapar"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "öyle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:27:42.587016971Z",
+  "model": "glm-5.3"
+}

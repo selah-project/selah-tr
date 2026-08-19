@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Benden iğrendiler, benden uzaklaştılar ve yüzüme tükürmekten çekinmediler.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "benden iğrendiler"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "uzaklaştılar"
+    },
+    {
+      "surface": "מני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ve yüzüme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmediler \/ -mediler"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "çekindiler"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tükürmek"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:07.102345198Z",
+  "model": "glm-5.3"
+}

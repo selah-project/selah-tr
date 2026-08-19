@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve biçerken ⟨את⟩ yurdunuzun hasadını, tamamlamayacaksın tarlanın kenarını biçerkinde; ve hasadının devşirilmişini devşirmeyeceksin; yoksula ve garipe ⟨את⟩ onları bırakacaksın; ben Yahve, Elohim'inizim.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "ve biçerken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yurdunuzun hasadını"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "hasadını"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "yurdunuzun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "tamamlamayacaksın"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kenarını"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "biçerkinde"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ve devşirilmişi"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "hasadının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "devşirmeyeceksin"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "yoksula"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ve garipe"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "bırakacaksın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:57.235495984Z",
+  "model": "glm-5.3"
+}

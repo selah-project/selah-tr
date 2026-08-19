@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Yehonatan, ⟨את⟩ Şaul'u yanıtladı: 'David, ⟨bensenden⟩ ısrarla Beit-Lehem'e kadar gitmek için izin istedi.'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yanıtladı"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul'u"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'u"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ısrarla istedi"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "izin istedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "benden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:14.633889924Z",
+  "model": "glm-5.3"
+}

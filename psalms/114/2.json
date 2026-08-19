@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 114,
+  "translation": "Yehuda onun mabedi ⟨oldu⟩, Yisra'el onun hükümranlıkları.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "onun mabedi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "onun hükümranlıkları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:35.891491045Z",
+  "model": "glm-5.3"
+}

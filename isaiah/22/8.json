@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Yahuda'nın ⟨את⟩ örtüsünü açığa çıkardı; ve o gün Orman Evi'nin ⟨ה⟩ silahlarına baktın.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ve açığa çıkardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örtü"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "örtü"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ve baktın"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "silahlara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "היער",
+      "gloss": "orman"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:25.377731623Z",
+  "model": "glm-5.3"
+}

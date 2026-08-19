@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Az bir yol kulun geçsin ⟨את⟩ Ürdün'ü, ⟨את⟩ kralın yanında; ve neden ödesin bana kral bu karşılığı?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "az bir yol"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "geçsin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ürdün'ü"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ürdün'ü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralın yanında"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ve neden"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "ödesin bana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "bu karşılığı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:33:44.256255671Z",
+  "model": "glm-5.3"
+}

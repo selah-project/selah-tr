@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Neredesin ⟨ile⟩ ilk sevgin, Adonay? Davut'a sadakatinle ant içtin.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "sevgilerin"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ant içtin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davut'a"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "sadakatinle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:01.961574287Z",
+  "model": "glm-5.3"
+}

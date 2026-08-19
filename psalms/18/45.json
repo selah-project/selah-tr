@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Kulağın ⟨işitmesiyle⟩ bana itaat ederler; yabancıların oğulları bana temenna ederler.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "işitilmesi için"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kulak"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "itaat ederler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancıların"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "temenna ederler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:03.804080840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Uyan, uyan, ayağa kalk, ey Yeruşalayim, Yahve'nin elinden öfke kadehinin ⟨את⟩ içtin; sersemleten kadehin tasını ⟨את⟩ içtin, damıttın.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ayağa kalk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "içtin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öfke kadehi"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kadeh"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "öfkesini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sersemleten kadehin tası"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "tas"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kadeh"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "sersemleten"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "içtin"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "damıttın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:01:43.079780637Z",
+  "model": "glm-5.3"
+}

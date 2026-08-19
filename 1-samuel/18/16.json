@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Bütün İsrail ve Yehuda ⟨את⟩ Davud'u seviyordu, çünkü o onların önüne çıkıp giriyordu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "seviyordu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "çıkip"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "giriyordu"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "onların önüne"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:04.892681502Z",
+  "model": "glm-5.3"
+}

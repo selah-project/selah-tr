@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve şöyle dedi: Lanetli ⟨olsun⟩ Kenaan, kardeşlerine kölelerin kölesi ⟨olacak⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve şöyle dedi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "lanetli"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kölesi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kölelerin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsun\/olacak"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kardeşlerine"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:55.240746774Z",
+  "model": "glm-5.3"
+}

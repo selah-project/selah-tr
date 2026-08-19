@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Çünkü Yahve'nin yollarını korudum ve Elohim'imden kötülük ederek uzaklaşmadım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "korudum"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "kötülük ettim"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohim'imden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:43.948611692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve oraya bir sunak dikti ve ona El, İsrail'in Elohim'i adını verdi.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ve dikti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bir sunak"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve adını verdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:56.038620551Z",
+  "model": "glm-5.3"
+}

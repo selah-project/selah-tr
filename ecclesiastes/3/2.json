@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Doğum ⟨için⟩ vakit, ve ölüm ⟨için⟩ vakit; dikmek ⟨için⟩ vakit, ve dikileni sökmek ⟨için⟩ vakit.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vakit"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "doğum için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve vakit"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölmek için"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vakit"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "dikmek için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve vakit"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "sökmek için"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "dikileni"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:57.146223176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Yoav kalktı, Guşur'a gitti ve ⟨את⟩ Avşalom'u Yeruşalayim'e getirdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Guşur'a"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avşalom'u"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom'u"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:32:04.324497Z",
+  "model": "glm-5.3"
+}

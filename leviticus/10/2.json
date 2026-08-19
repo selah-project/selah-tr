@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Yahve'nin önünden ateş çıktı ve onları yiyip bitirdi; böylece Yahve'nin önünde öldüler.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "önünden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ve yiyip bitirdi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ve öldüler"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:44.248476300Z",
+  "model": "glm-5.3"
+}

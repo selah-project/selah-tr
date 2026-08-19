@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Yahve'ye söyleyin, adını kutsayın, kurtuluşunu günden güne müjdeleyin.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "kutsayın"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "müjdeleyin"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "günden"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "güne"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "kurtuluşunu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:32.393673873Z",
+  "model": "glm-5.3"
+}

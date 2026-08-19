@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Bir gecede bir rüya gördük — ben ve o; her kişi rüyasının yorumuna göre rüya gördü.",
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "ve rüya gördük"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "bir rüya"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bir gecede"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "yorumuna göre"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "rüyasının"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "rüya gördük"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:32.097887081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Çölde O'na ne çok isyan ettiler, ıssız çölde O'nu ne çok kederlendirdiler!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "ne çok"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "O'na isyan ettiler"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "O'nu kederlendirdiler"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ıssız çölde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:32.162982744Z",
+  "model": "glm-5.3"
+}

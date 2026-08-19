@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Doğruların isteği yalnız ⟨iyilik⟩dir; kötülerin umudu ⟨ise⟩ öfkedir.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "isteği"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "doğruların"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨iyilik⟩dir"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "umudu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "öfkedir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:58.885527680Z",
+  "model": "glm-5.3"
+}

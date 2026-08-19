@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Kayam olan El'e diyeceğim: Neden beni unuttun? Neden düşman baskısı altında karanlık içinde yürüyorum?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "diyeceğim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El'e"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "kayam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "beni unuttun"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "karanlık\/keder içinde"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yürüyorum"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "baskısı altında"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:44.812260063Z",
+  "model": "glm-5.3"
+}

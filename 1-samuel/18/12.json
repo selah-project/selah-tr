@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Şaul, Yahve onunla olduğu için David'den korktu; ve Şaul'dan uzaklaşmıştı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ve korktu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yüzünden \/ -den"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "ve -den"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "סר",
+      "gloss": "uzaklaşmıştı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:03.190543643Z",
+  "model": "glm-5.3"
+}

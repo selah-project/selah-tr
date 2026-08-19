@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Yahve'nin kuralları dosdoğrudur, yüreği sevindirir; Yahve'nin buyruğu arıdır, gözleri aydınlatır.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "kuralları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dosdoğrudur"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "sevindirir"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yüreği"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyruğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "arıdır"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "aydınlatır"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözleri"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:44.803403846Z",
+  "model": "glm-5.3"
+}

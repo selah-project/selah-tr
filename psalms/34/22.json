@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Kötülük kötüyü öldürür, ve sadıkın nefret edenleri suçlu olacaklar.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "öldürür"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ve nefret edenleri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadıkın"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "suçlu olacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:28.831137224Z",
+  "model": "glm-5.3"
+}

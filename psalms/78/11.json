@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve onun amellerini ve ona gösterdiği harikalarını unuttular.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ve unuttular"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "amellerini"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ve harikalarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "onlara gösterdiği"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:23.898367034Z",
+  "model": "glm-5.3"
+}

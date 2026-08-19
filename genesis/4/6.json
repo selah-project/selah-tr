@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yahve Kayin'e dedi: Neden öfkelendin ve neden düştü yüzün?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "öfkelendin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ve neden"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzün"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:15.278172503Z",
+  "model": "glm-5.3"
+}

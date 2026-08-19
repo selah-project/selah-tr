@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve onlar altını, tekeliş morunu, argamanı, tolat-şanı kızılını ve ince keteni alsınlar.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "alsınlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altını"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "altını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tekeliş morunu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekeliş morunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "argamanı"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argamanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tolat-şanı kızılı"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolat (kurt)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "şanı kızılı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ince keteni"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ince keteni"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:33.908539451Z",
+  "model": "glm-5.3"
+}

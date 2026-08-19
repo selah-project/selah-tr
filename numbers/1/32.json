@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 1:32",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yosef oğullarına — Efrayim oğullarına — soy kayıtları, ailelerine göre, atalarının evine göre, adların sayımınca, yirmi yaşından ve yukarı, orduya çıkabilen herkes —",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "soy kayıtları"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evine göre"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayımınca"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "adların"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "oğuldan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ve yukarı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkabilen"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "orduya"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:29.170733936Z",
+  "model": "glm-5.3"
+}

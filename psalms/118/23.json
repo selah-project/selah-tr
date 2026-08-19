@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Yahve'den ⟨את⟩ oldu bu; o, gözlerimizde harikadır.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Yahve'den ⟨את⟩",
+      "marks": "bu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "harikadır"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "gözlerimizde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:56.915105627Z",
+  "model": "glm-5.3"
+}

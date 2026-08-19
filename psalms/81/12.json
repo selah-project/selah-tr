@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Ve halkım sesime kulak vermedi; ve Yisrael bana razı olmadı.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ve ... -medi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kulak vermedi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "sesime"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ve Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-madı"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "razı olmadı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:02.169134530Z",
+  "model": "glm-5.3"
+}

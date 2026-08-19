@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Ve insan diyecek: «Gerçekten sadık için meyve vardır; gerçekten yeryüzünde yargıç olan bir Elohim var.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve diyecek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyve"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sadık için"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "yargıç olan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:49.494533319Z",
+  "model": "glm-5.3"
+}

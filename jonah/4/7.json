@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Elohim ertesi gün şafak sökerken bir solucan hazırladı ve ⟨את⟩ kıkayonu vurdu, o da kurudu.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "hazırladı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "bir solucan"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "sökerken"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "şafak"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ertesi gün"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kıkayonu"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kıkayonu"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "kurudu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:02.559140826Z",
+  "model": "glm-5.3"
+}

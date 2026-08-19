@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "İnsan ise onur içinde ⟨kalmaz⟩; hayvanlar gibi ⟨son bulmuştur⟩ — onlar da yok oldular.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "insan ise"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "onur içinde"
+    },
+    {
+      "surface": "בל",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "kalır"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "benzetildi"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "hayvanlar gibi"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "yok oldular"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:58.373048003Z",
+  "model": "glm-5.3"
+}

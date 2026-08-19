@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bunu işitin, ey ihtiyarlar, ve kulak verin, ey yerin bütün oturanları! Sizin günlerinizde ⟨bu oldu mu⟩, yoksa atalarınızın günlerinde mi ⟨oldu⟩?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "işitin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ihtiyarlar"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ve kulak verin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "oturanları"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "oldu mu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "günlerinizde"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoksa... mi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlerinde"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atalarınızın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:31.354865534Z",
+  "model": "glm-5.3"
+}

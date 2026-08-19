@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve Yokşan babası oldu ⟨את⟩ Şeva'nın ve ⟨את⟩ Dedan'ın; ve Dedan'ın oğulları ⟨idi⟩ Aşurlular, Letuşlar ve Leummlar.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "ve Yokşan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan'ın"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Aşurlular"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "ve Letuşlar"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ve Leummlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:53.261771447Z",
+  "model": "glm-5.3"
+}

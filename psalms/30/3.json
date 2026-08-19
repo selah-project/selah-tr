@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Yahve, Elohim'im, sana seslendim ve beni iyileştirdin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "seslendim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ve beni iyileştirdin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:21.053105862Z",
+  "model": "glm-5.3"
+}

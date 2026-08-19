@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "«Ama bahçenin ortasındaki ⟨o⟩ ağacın meyvesi hakkında Elohim 'Onu yemeyeceksiniz, ona dokunmayacaksınız, yoksa ölürsünüz' dedi.»",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "ama ... meyvesinden"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağacın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasındaki"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bahçenin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemeyeceksiniz"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dokunmayacaksınız"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ölürsünüz"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:21.564686796Z",
+  "model": "glm-5.3"
+}

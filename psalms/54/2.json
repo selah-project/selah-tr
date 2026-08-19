@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "Zifliler gelip Şaul'a 'David aramızda saklanmıyor mu?' dediklerinde",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "geldiklerinde"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "Zifliler"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaul'a"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "saklanıyor"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:10.771930976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Sana, yalnız sana karşı günah işledim, ve kötülüğü gözlerinin önünde yaptım; ⟨böylece⟩ sözünde haklı çıkasın, yargıladığında ⟨suçsuz⟩ görünesin diye.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız sana"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah işledim"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ve kötülüğü"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gözlerinin önünde"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "למען",
+      "gloss": "-sın diye"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "haklı çıkasın"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "sözünde"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "suçsuz görünesin"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "yargıladığında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:42.984486847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 57,
+  "translation": "Seni uluslar arasında öveceğim, Adonay; sana ezgi söyleyeceğim halkların arasında.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "seni öveceğim"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "uluslar arasında"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "sana ezgi söyleyeceğim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "halkların"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:40.686154542Z",
+  "model": "glm-5.3"
+}

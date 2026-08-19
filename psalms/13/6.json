@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ben ise sadakatine güveniyorum, kalbin ⟨את⟩ senin kurtuluşunla sevinecek; Yahve'ye ezgi söyleyeceğim, çünkü ⟨O⟩ bana iyilikle davrandı.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sadakatine"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güveniyorum"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "sevinecek"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "senin kurtuluşunla"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ezgi söyleyeceğim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "iyilikle davrandı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:35.018828663Z",
+  "model": "glm-5.3"
+}

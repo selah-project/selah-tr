@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "İşte, preseptlerini arzuladım; senin doğruluğunda beni dirilt.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "arzuladım"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "senin buyruklarını"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "senin doğruluğunda"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "beni dirilt"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:10.950240371Z",
+  "model": "glm-5.3"
+}

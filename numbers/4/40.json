@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve sayılanları, ailelerine, baba evlerine göre iki bin altı yüz otuz oldu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "sayılanları"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evine göre"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki bin"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ve otuz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:53.121376964Z",
+  "model": "glm-5.3"
+}

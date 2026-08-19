@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Koro şefine, gittit üzerine, Davud'un mezmuru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koro şefine"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gittit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'un"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:13.705974196Z",
+  "model": "glm-5.3"
+}

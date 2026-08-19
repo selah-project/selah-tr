@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Elohim, bizi geri çevir; yüzünü ⟨ üzerimize ⟩ parlat ve kurtulacağız.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizi geri çevir"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ve parlat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ve kurtulacağız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:42.547826750Z",
+  "model": "glm-5.3"
+}

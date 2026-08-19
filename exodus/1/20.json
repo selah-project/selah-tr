@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Elohim ebe kadınlara iyilik etti ve halk çoğaldı ve çok güçlendiler.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "iyilik etti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ebe kadınlara"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ve çoğaldı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ve güçlendiler"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:33.774676703Z",
+  "model": "glm-5.3"
+}

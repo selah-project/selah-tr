@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Şöyle denilecek ⟨bir⟩ şey vardır: «Bak, bu yenidir» — çoktan oldu, bizden önceki çağlarda ⟨zaten⟩ var olmuştu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "vardır"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "şey"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "ki denilecek"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dir"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "çoktan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "çağlarda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var oldu"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "bizden önce"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:28.325249228Z",
+  "model": "glm-5.3"
+}

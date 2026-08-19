@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Bütün ulusların kralları, hepsi onurla yatar, her biri kendi evinde.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "yatarlar"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "onurla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "kendi evinde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:57.368908678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim ⟨את⟩ iki büyük ışığı yaptı — ⟨את⟩ günün egemenliği için büyük ışığı ve ⟨את⟩ gecenin egemenliği için küçük ışığı ve ⟨את⟩ yıldızları.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki büyük ışığı"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "büyük ışığı"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günün egemenliği için büyük ışığı"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ışığı"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "egemenliği için"
+    },
+    {
+      "surface": "היום",
+      "gloss": "günün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "gecenin egemenliği için küçük ışığı"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ışığı"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "egemenliği için"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yıldızları"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "yıldızlar"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:54.569184658Z",
+  "model": "glm-5.3"
+}

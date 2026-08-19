@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Seçtiğimle ⟨את⟩ antlaşma kestim, kulum Davud'a yemin ettim.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "kestim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "antlaşma"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "seçtiğimle"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "yemin ettim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulum"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:10.520478651Z",
+  "model": "glm-5.3"
+}

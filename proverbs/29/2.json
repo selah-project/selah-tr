@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Sadıklar çoğalınca halk sevinir; kötü kişi egemen olunca halk inler.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "çoğalınca"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sadıklar"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "egemen olunca"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü kişi"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "inler"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:34.702739328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve tohumunu koyacağım ⟨את⟩, ⟨o⟩ toprağın tozu gibi — ki eğer bir adam ⟨o⟩ toprağın tozunu sayabilirse ⟨את⟩, tohumun da sayılacaktır.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ve koyacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tohumunu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tohumunu"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "…tozu gibi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨o⟩ toprağın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "-ebilirse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "saymak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağın tozunu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozunu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨o⟩ toprağın"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tohumun"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "sayılacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:25.001349398Z",
+  "model": "glm-5.3"
+}

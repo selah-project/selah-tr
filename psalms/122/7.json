@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 122,
+  "translation": "Surlarının içinde esenlik, saraylarının içinde huzur olsun.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "surlarının içinde"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "huzur"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "saraylarının içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:53.906149782Z",
+  "model": "glm-5.3"
+}

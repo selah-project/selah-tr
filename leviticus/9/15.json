@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve sundu ⟨את⟩ halkın takdimesini; ve aldı ⟨את⟩ halkın günah sunağı olan tekeyi, ve onu kesti, ve onu günah sunağı yaptı, ilkinde olduğu gibi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "sundu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkın takdimesi"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "takdime"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teke"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "teke"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halk için"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "onu kesti"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "günah sunağı yaptı onu"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "ilkinde olduğu gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:57.930600789Z",
+  "model": "glm-5.3"
+}

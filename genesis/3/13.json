@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Yahve Elohim kadına dedi: Bu yaptığın şey nedir? Ve kadın dedi: Yılan beni aldattı ve ben yedim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kadına"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nedir"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptığın"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "yılan"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "beni aldattı"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ve yedim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:29.464463542Z",
+  "model": "glm-5.3"
+}

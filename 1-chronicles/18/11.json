@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Onları da kral Davud Yahve'ye adadı — gümüşle ve altınla birlikte ki bunları bütün uluslardan aldı: Edom'dan, Moav'dan, Ammon oğullarından, Filiştiler'den ve Amalek'ten.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (kapları)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "adadı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ve altın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... dan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "uluslardan"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edom'dan"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "ve Moav'dan"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "ve oğullarından"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "ve Filiştiler'den"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "ve Amalek'ten"
+    }
+  ],
+  "timestamp": "2026-08-19T12:26:25.674786243Z",
+  "model": "glm-5.3"
+}

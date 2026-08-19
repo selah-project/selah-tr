@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "ve şöyle diyeceksiniz: ⟨Ömür olsun!⟩ ve ⟨sen⟩ esenliktin, ve evin esenliktedir, ve sana ait her şey esenliktedir.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ve diyeceksiniz"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨ömür olsun⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenliktesin"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ve evin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenliktedir"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana ait"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenliktedir"
+    }
+  ],
+  "timestamp": "2026-08-19T12:14:59.262739522Z",
+  "model": "glm-5.3"
+}

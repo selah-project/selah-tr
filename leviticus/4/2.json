@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "İsrail oğullarına söyle, şöyle: Bir can bilmeden günah işlerse, Yahve'nin emirlerinden yapılmaması gerekenlerden herhangi birine karşı, ve onlardan birini yaparsa:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "günah işlerse"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "bilmeyerek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "-den herhangi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "emirler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "yapılmaması gerekenler"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yaparsa"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "birinden"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:09.891473501Z",
+  "model": "glm-5.3"
+}

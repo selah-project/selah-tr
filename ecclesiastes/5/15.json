@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve bu da hastalıklı bir kötülüktür: geldiği bütün biçimde öylece gider; ve ona ne kazanç kalır ki rüzgâr için emek çekmiştir.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "hastalıklı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "gibi (beraber)"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "geldiği"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gider"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve ne"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kazanç"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "emek çekmesinin"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "rüzgâra"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:46.798652463Z",
+  "model": "glm-5.3"
+}

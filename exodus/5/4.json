@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Mısır kralı onlara dedi: \"Moşe ve Aharon, neden halkı ⟨את⟩ işlerinden geri bırakıyorsunuz? Gidin yüklerinize!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ve Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "geri bırakıyorsunuz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "işlerinden"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gidin"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "yüklerinize"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:38.726364347Z",
+  "model": "glm-5.3"
+}

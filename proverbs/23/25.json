@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Sevinecek baban ve annen; doğurmuş olan seni övünçle coşacak.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sevinecek"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baban"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "ve annen"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ve coşacak"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "doğurmuş olan seni"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:37.992905922Z",
+  "model": "glm-5.3"
+}

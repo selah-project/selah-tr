@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Dağların tüm kuşlarını bilirim, ve tarlanın canlıları benimledir.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuşlarını"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ve canlıları"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "benimledir"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:57.902797607Z",
+  "model": "glm-5.3"
+}

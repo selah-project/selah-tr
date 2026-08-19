@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Yahve Elohim'imiz onu önümüze teslim etti; onu, oğullarını ve bütün halkını vurduk.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "ve önümüze teslim etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "önümüze"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "ve vurduk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Sihon)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün halkını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:32.929632608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Kardeşinin karısının çıplaklığını açmayacaksın; o, kardeşinin çıplaklığıdır.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açmayacaksın"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:13.420943314Z",
+  "model": "glm-5.3"
+}

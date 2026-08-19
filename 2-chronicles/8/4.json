@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve çölde Tadmor'u inşa etti, ve Hamat'ta inşa ettiği tüm depo şehirlerini ⟨את⟩ ⟨inşa etti⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor'u"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor'u"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tüm depo şehirlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şehirlerini"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "depo \/ zahire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onları"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "Hamat'ta"
+    }
+  ],
+  "timestamp": "2026-08-19T12:03:45.610765633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Barış içinde canımı fidyeyle kurtardı, bana yaklaşandan; çünkü birçokları ⟨benimle⟩ oldular.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "fidyeyle kurtardı"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "barış içinde"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "yaklaşandan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "birçokları"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨benimle⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:23.715731107Z",
+  "model": "glm-5.3"
+}

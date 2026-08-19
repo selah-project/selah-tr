@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Çünkü kıskandım kendini beğenmişleri, kötülerin esenliğini görünce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "kıskandım"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "kendini beğenmişleri"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "görünce"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:32.038510367Z",
+  "model": "glm-5.3"
+}

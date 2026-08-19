@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 3:22",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Öbür kadın ise: «Hayır; diri olan benim oğlum, ölü olan senin oğlun» dedi. Şu kadın da: «Hayır; ölü olan senin oğlun, diri olan benim oğlum» diyordu. Böylece kralın önünde konuşup durdular.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "öbür"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בני",
+      "gloss": "benim oğlum"
+    },
+    {
+      "surface": "החי",
+      "gloss": "diri olan"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "senin oğlun"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölü olan"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "şu kadın da"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "diyordu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "senin oğlun"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölü olan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "benim oğlum"
+    },
+    {
+      "surface": "החי",
+      "gloss": "diri olan"
+    },
+    {
+      "surface": "ותדברנה",
+      "gloss": "konuşup durdular"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:46.126698621Z",
+  "model": "glm-5.3"
+}

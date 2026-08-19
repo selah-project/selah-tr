@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve hanımına dedi: Keşke efendim Şomron'daki peygamberin önünde olsaydı; o zaman o, onu cüzamından kurtarırdı.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "hanımına"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "keşke"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamberin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-in"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Şomron'daki"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "kurtarırdı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "cüzamından"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:00.653291996Z",
+  "model": "glm-5.3"
+}

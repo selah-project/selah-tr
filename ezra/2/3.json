@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Paroş oğulları: iki bin yüz yetmiş iki kişi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroş"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki bin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ve iki"
+    }
+  ],
+  "timestamp": "2026-08-19T11:46:27.036955476Z",
+  "model": "glm-5.3"
+}

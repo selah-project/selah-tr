@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 13:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Kâhin görecek ve işte görünüşü deriden aşağıda ⟨olup⟩ saçı beyaza dönmüşse, kâhin onu kirli ilan edecek; çıban çıban olarak patlamış bir sara yarasıdır ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "görecek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "görünüşü"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "aşağıda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "העור",
+      "gloss": "deri"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ve saçı"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "dönmişse"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "beyaza"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "kirli ilan edecek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "sara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "çıbanda"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "patlamış"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:36.590453659Z",
+  "model": "glm-5.3"
+}

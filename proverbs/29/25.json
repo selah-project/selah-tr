@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "İnsan korkusu tuzak verir; ama Yahve'ye güvenen yüceltilir.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "korkusu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "tuzak"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ama güvenen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "yüceltilir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:36.199447957Z",
+  "model": "glm-5.3"
+}

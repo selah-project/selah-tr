@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü Yahve ⟨olacak⟩ güvenin ⟨olacak⟩ ve ayağını tuzaktan koruyacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "güvenin"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "koruyacak"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ayağını"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "tuzaktan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:31.150689456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Kadın ⟨את⟩ Şmuël'i görünce büyük bir sesle haykırdı; kadın Şaul'a söyleyip dedi: Neden aldattın beni — ve sen Şaul'sun!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şmuël'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmuël'i"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "haykırdı"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bir sesle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söyleyip"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "aldattın beni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:45.328804879Z",
+  "model": "glm-5.3"
+}

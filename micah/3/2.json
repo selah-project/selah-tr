@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "İyiliğe nefret edenler, kötülüğe ise sevenler; derilerini üzerlerinden soyup alanlar, etlerini kemiklerinden koparanlar —",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "nefret edenler"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiliğe"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ve sevenler"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülüğe"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "soyup alanlar"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "derilerini"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "üzerlerinden"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "ve etlerini"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "kemiklerinin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:33.487280107Z",
+  "model": "glm-5.3"
+}

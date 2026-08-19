@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve Yahve adına ona yemin etti Şaul, deyip: Yahve diridir — suç ulaşmayacak sana bu işte.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "yemin etti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve adına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "חי",
+      "gloss": "diridir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer (değil)"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "ulaşmayacak sana"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suç"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bu işte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:45.328302721Z",
+  "model": "glm-5.3"
+}

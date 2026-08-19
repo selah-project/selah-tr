@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Bana kurtuluşunun sevincini geri ver ve gönül eyliği ruhuyla beni destekle.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "geri ver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinç"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "kurtuluşunun"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ve ruh"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "gönül eyliği"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "beni destekle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:39.124311981Z",
+  "model": "glm-5.3"
+}

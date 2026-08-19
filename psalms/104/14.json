@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Ot bitirir ⟨odır⟩ hayvanlar için, ve bitki insanın hizmeti için — yeryüzünden ekmek çıkarmak için.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "bitirir"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ot"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "hayvanlar için"
+    },
+    {
+      "surface": "וועשב",
+      "gloss": "ve bitki"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "hizmeti için"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "çıkarmak için"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:24.898058535Z",
+  "model": "glm-5.3"
+}

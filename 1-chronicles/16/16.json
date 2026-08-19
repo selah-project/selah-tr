@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ahit ki kesti ⟨את⟩ Avraham'la, ve yemini Yitshak'a.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham'ı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ve yemini"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshak'a"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:39.035956839Z",
+  "model": "glm-5.3"
+}

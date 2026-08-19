@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 128,
+  "translation": "Eşin, evinin iç köşelerinde verimli asma gibi; oğulların, sofranın çevresinde zeytin fidanları gibi.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "eşin"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "asma gibi"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "verimli"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "iç köşelerinde"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "fidanları gibi"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zeytin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "sofranın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:49.353689379Z",
+  "model": "glm-5.3"
+}

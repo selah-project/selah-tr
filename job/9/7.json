@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Güneşe söyleyen ve o doğmaz, ⟨O⟩dur; ve yıldızları mühürler.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "söyleyen"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "güneşe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve…-mez"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "doğar"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ve"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "yıldızları"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "mühürler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:09.415851282Z",
+  "model": "glm-5.3"
+}

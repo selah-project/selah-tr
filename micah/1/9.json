@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Çünkü yaraları ölümcüldür; çünkü Yehuda'ya kadar geldi, halkımın kapısına değdi — Yeruşalayim'e kadar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "ölümcüldür"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "yaraları"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "באה",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda'ya"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "değdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapısına"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'e"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:07.987087100Z",
+  "model": "glm-5.3"
+}

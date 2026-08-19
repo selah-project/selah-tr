@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Kalk, parla, çünkü ışığın geldi ve Yahve'nin görkemi üzerinde senin doğdu.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "parla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ışığın"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ve görkemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "üzerinde senin"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "doğdu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:26.887135021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 121,
+  "translation": "Yahve seni koruyandır; Yahve senin gölgen, sağ elin üzerinde.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "seni koruyandır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "senin gölgen"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ elin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.808041728Z",
+  "model": "glm-5.3"
+}

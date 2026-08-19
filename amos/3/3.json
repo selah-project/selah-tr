@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "İkisi birlikte yürür mü, buluşmamışlarsa?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "yürür mü"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikisi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "-meden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer değilse"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "buluşmamışlarsa"
+    }
+  ],
+  "timestamp": "2026-08-19T10:42:05.663397276Z",
+  "model": "glm-5.3"
+}

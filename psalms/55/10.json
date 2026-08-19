@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Yut ⟨onları⟩, Adonay, dillerini böl; çünkü şiddet ve kavga gördüm şehirde.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "yut"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "böl"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dillerini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "şiddet"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ve kavga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:58.109363503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Bir İbrani köle satın alırsan, altı yıl hizmet etsin; yedincide bedelsiz olarak özgürlüğüne çıksın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "satın alırsan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "köle"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "İbrani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "hizmet etsin"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "ve yedincide"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıksın"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "özgürlüğüne"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bedelsiz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:06.523297412Z",
+  "model": "glm-5.3"
+}

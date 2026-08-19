@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ne mutlu ⟨o⟩ ulusa ki Yahve onun Elohim'i ⟨dir⟩; miras olarak ⟨Onun⟩ için seçtiği ⟨o⟩ halka.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨o⟩ ulusa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "onun Elohim'i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ halka"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "seçtiği"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "miras olarak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨Onun⟩ için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:00.029251916Z",
+  "model": "glm-5.3"
+}

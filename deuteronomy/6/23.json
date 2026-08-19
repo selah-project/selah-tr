@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve bizi oradan çıkardı — ⟨את⟩ bizi —, bizi getirsin diye, atalarımıza yemin ettiği ⟨את⟩ ülkeyi bize vermek için.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "bizi (הוציא'nın nesnesi)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "çıkardı"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "getirsin"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "bizi (הביא'nin nesnesi)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermek için"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yemin etti"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "atalarımıza"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:08.335252361Z",
+  "model": "glm-5.3"
+}

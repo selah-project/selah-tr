@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ebyatar, Davud'a bildirdi ki Şaul, Yahve'nin kâhinlerini ⟨את⟩ öldürmüştür.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin kâhinlerini"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kâhinlerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:49.894187494Z",
+  "model": "glm-5.3"
+}

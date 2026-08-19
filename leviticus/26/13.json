@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ben Yahve, sizin Elohim'iniz, ki sizi Miṣrayim ülkesinden, onlara köle olmaktan çıkardım; ve boyunduruğunuzun sırımlarını kırdım ve sizi ⟨את⟩ dimdik yürüttüm.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohim'iniz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "çıkardım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "Miṣrayim ülkesinden çıkarma"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "olmaktan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "köleler"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "ve kırdım"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "sırımlarını"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boyunduruğunuzun"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ve yürüttüm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "dimdik yürüme"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "dimdik"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:23.174829062Z",
+  "model": "glm-5.3"
+}

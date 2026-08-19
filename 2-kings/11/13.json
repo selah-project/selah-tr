@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Atalya ⟨את⟩ koşucuların ve halkın sesini duydu ve halkın yanına, Yahve'nin evine geldi.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "duydu"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koşucuların ve halkın sesini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "koşucuların"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:56.816571082Z",
+  "model": "glm-5.3"
+}

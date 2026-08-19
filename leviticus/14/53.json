@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Canlı kuşu ⟨את⟩ şehrin dışına, tarlanın yüzüne salıverecek; böylece ev için kefaret yapacak ve ev temizlenecek.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "salıverecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlı kuşu"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "kuşu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "için\/doğru"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışına"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kefaret yapacak"
+    },
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "temizlenecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:20.156178969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Şemuël halkın bütün sözlerini işitti ve onları Yahve'nin kulaklarında söyledi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "işitti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "ve onları söyledi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kulaklarında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:51.586840669Z",
+  "model": "glm-5.3"
+}

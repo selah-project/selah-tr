@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Sana Mısır'dan çıkarken yolda ⟨את⟩ ekmekle ve suyla gelip karşılamadıkları ve seni lanetlemek için Aram-Naharayim'li Petor'dan Beor oğlu Bilam'ı ⟨את⟩ sana karşı kiraladıkları için —",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sebeple"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "karşılamadılar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ seni",
+      "marks": "ekmek ve su"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "ekmekle"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ve suyla"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "çıkışında"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ki"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kiraladı"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana karşı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "Petor'dan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "seni lanetlemek için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:33.702080083Z",
+  "model": "glm-5.3"
+}

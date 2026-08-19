@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "İçlerinde dediler: Onları hep birlikte ezelim; ülkede El'in bütün toplantı yerlerini yaktılar.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "içlerinde"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "ezelim onları"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hep birlikte"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "yaktılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "toplantı yerlerini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El'in"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkede"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:35.297367833Z",
+  "model": "glm-5.3"
+}

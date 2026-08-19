@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Tembellikle çatı çöker, ve ellerin gevşekliğiyle ev ⟨su⟩ sızdırır.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "tembellikle"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "çöker"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "çatı"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ve gevşeklikle"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ellerin"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "sızdırır"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:08.168377897Z",
+  "model": "glm-5.3"
+}

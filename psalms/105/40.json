@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "İstediler ve O bildırcın getirdi, göğün ekmeğiyle onları doyurdu.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "istediler"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "bildırcın"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ve ekmeğiyle"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göğün"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "onları doyurdu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:06.789332416Z",
+  "model": "glm-5.3"
+}

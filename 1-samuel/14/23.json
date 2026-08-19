@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Yahve o gün İsrail'i ⟨את⟩ kurtardı; ve savaş Beyt Avin'in ⟨את⟩ ötesine geçti.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Ve kurtardı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ve savaş"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "geçti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt Avin'in ötesine"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:30.154726425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve bunun için Davut'un ⟨את⟩ zürriyetini ezeceğim, ancak tüm günler boyunca değil.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ve ezeceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zürriyetini"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zürriyetini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut'un"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:43.608334969Z",
+  "model": "glm-5.3"
+}

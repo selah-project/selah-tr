@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kâhin parmağıyla günah sunusunun kanından alacak ve yakmalık sununun mihrabının boynuzlarına sürecek; ⟨את⟩ kanını ise yakmalık sununun mihrabının kaidesine dökecek.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "alacak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "kanından"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunusunun"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "parmağıyla"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "sürecek"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "boynuzlarına"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mihrabının"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sununun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanını"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "kanını"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "dökecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "kaidesine"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mihrabının"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sununun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:51.281949208Z",
+  "model": "glm-5.3"
+}

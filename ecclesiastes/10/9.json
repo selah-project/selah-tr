@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Taşları yerinden oynatan onlarla yaralanır; odunları yaran onlardan zarar görür.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "yerinden oynatan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "taşları"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "yaralanır"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "yaran"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "odunları"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "zarar görür"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:49.745044698Z",
+  "model": "glm-5.3"
+}

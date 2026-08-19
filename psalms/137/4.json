@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 137,
+  "translation": "Nasıl ezgi okuyalım Yahve'nin ezgisini yabancı toprakta?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ezgi okuyalım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin ezgisini"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ezgiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "toprakta"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:28.450005553Z",
+  "model": "glm-5.3"
+}

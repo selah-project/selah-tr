@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 9:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "İsrail oğullarına ⟨şöyle⟩ konuş: Kişi kişi, ölü bir nefesh dolayısıyla murdar olacak olur ya da sizin için uzak bir yol üzerinde olur — sizin ya da sizin nesillerinizin — ve Yahve'ye pesah yapacak.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak olur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "bir nefesh dolayısıyla"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yol üzerinde"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "uzak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sizin nesillerinizin"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yapacak"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:41.144629174Z",
+  "model": "glm-5.3"
+}

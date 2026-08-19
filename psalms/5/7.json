@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yalan söyleyenleri yok edersin; kanlı ve hilekâr adamdan Yahve tiksinti duyar.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "yok edersin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "söyleyenleri"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kanlı"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "vehilekâr"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "tiksinti duyar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:43.510541100Z",
+  "model": "glm-5.3"
+}

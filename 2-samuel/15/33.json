@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Davit ona şöyle dedi: Eğer ⟨את⟩ ile birlikte geçersen, benim için bir yük olacaksın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "geçersen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ile",
+      "marks": "ile birlikte (benimle)"
+    },
+    {
+      "surface": "והית",
+      "gloss": "ve olacaksın"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "benim üzerimde"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "yük olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:32:17.591363628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Böylece batıdan Yahve'nin adından korkacaklar, güneşin doğusundan ⟨את⟩ onun görkeminin; çünkü sıkıntı bir nehir gibi gelecek, Yahve'nin rüzgârı onu sürükleyip götürecek.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "korkacaklar"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "batıdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adından (Yahve'nin adı)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "ve doğusundan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun görkemi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelecek"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "bir nehir gibi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgâr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "sürükleyip götürecek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T12:18:06.859968374Z",
+  "model": "glm-5.3"
+}

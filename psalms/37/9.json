@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Çünkü kötülük yapanlar kesilip atılacak, ama Yahve'yi bekleyenler — işte onlar ülkeyi miras alacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötülük yapanlar"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "kesilip atılacak"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "ama bekleyenler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "işte onlar"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "miras alacak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:00.875535041Z",
+  "model": "glm-5.3"
+}

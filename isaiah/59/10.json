@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Duvarı körler gibi el yordamıyla arıyoruz ve gözleri olmayanlar gibi el yordamıyla yürüyoruz; öğlen sendeliyoruz, alacakaranlıkta; çorak yerlerde ölüler gibi ⟨oluyoruz⟩.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "el yordamıyla arıyoruz"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "körler gibi"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "duvarı"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "ve ... olmayanlar gibi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "el yordamıyla yürüyoruz"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "sendeliyoruz"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "öğlen"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "alacakaranlıkta gibi"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "çorak yerlerde"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "ölüler gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:09.902071818Z",
+  "model": "glm-5.3"
+}

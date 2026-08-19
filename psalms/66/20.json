@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Kutlu olsun Elohim, ki geri çevirmedi duamı ve sadık sevgisini ⟨את⟩ benden.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kutlu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "geri çevirdi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ve sadık sevgisini"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ benden",
+      "marks": "sadık sevgisi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:01.217234398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Dâvûd'a âit bir mizmôr, oğlu Avşalom'un yüzünden kaçarken.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmôr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dâvûd'a âit"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "kaçarken"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom'un"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:15.277811898Z",
+  "model": "glm-5.3"
+}

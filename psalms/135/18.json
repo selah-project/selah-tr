@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Onlar gibi olacak onları yapanlar; onlara güvenen herkes ⟨onlar gibidir⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "onlar gibi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "onları yapanlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "güvenen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:21.258113920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 18:30",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Bu nedenle, ey İsrail evi, herkesi kendi yoluna göre ⟨את⟩ sizleri yargılayacağım — Adonay Yahve'nin bildirisi. Dönün ve bütün isyanlarınızdan geri dönün; ve avon size çelme taşı olmayacak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "bu nedenle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "kendi yoluna göre"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "yargılayacağım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizleri",
+      "marks": "İsrail evi \/ sizleri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bildirisi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "dönün"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "ve geri dönün"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... dan"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "isyanlarınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... olmayacak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "למכשול",
+      "gloss": "çelme taşı"
+    },
+    {
+      "surface": "עון",
+      "gloss": "avon"
+    }
+  ],
+  "timestamp": "2026-08-19T12:19:56.850960574Z",
+  "model": "glm-5.3"
+}

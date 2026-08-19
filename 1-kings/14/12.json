@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve sen, kalk, evine git; ayağın şehre girdiğinde çocuk ölecek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "git"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "evine"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "girdiğinde"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ayağın"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "şehre"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ve ölecek"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuk"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:00.274808248Z",
+  "model": "glm-5.3"
+}

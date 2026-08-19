@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve kutsal kılacaksın ⟨את⟩ sallama sunusunun göğsünü ve ⟨את⟩ yükseltme sunusunun butunu — sallananı ve yükseltileni — tamamlama koçundan, Aharon'a ait olandan ve oğullarına ait olandan.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "ve kutsal kılacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "göğsü"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "göğsünü"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "sallama sunusunun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "butunu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "butunu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "yükseltme sunusunun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "sallanandır"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ki"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "yükseltilendir"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "koçundan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "tamamlama (koçundan)"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "o olandır ki"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon'a ait"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "ve o olandır ki"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "oğullarına ait"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:18.914519645Z",
+  "model": "glm-5.3"
+}

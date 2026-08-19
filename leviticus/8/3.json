@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "ve ⟨את⟩ bütün cemaati topla, buluşma çadırının girişine.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün cemaati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cemaati"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "topla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...e (yöneltme)"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişine"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "buluşma"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:47.478912571Z",
+  "model": "glm-5.3"
+}

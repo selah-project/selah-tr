@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Siz o ülkeye girmeyeceksiniz — ki orada sizin yerleşmeniz için ⟨את⟩ elimi kaldırdığım — yalnızca Yefunne oğlu Kalev ve Nun oğlu Yehoşua.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hiç şüphesiz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "girmeyeceksiniz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "o ülkeye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "kaldırdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elim"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "yerleşmek için"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizin (yerleşme öznesi)"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnızca"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ve Yehoşua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:26.112018307Z",
+  "model": "glm-5.3"
+}

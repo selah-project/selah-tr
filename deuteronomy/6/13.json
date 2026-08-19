@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yahve Elohim'ini ⟨את⟩ sayacaksın, ⟨את⟩ ona kulluk edeceksin ve adıyla yemin edeceksin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sayacaksın"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ona",
+      "marks": "ona kulluk etme"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "kulluk edeceksin"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ve adıyla"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "yemin edeceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:05.932473386Z",
+  "model": "glm-5.3"
+}

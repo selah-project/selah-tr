@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Her yerde Yahve'nin gözleri ⟨vardır⟩, kötüyü de iyiyi de gözetleyen.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "gözetleyen"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ve iyiyi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:07.445474778Z",
+  "model": "glm-5.3"
+}

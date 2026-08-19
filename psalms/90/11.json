@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Kim bilir öfkenin gücünü? Senin korkuna göre ⟨senin⟩ gazabın ⟨o kadar⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "עז",
+      "gloss": "gücünü"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "öfkenin"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "senin korkuna göre"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "gazabın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:39.862565884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve olmasınlar ataları gibi: isyankâr ve inatçı bir nesil — kalbini ⟨⟨hazırlamamış⟩⟩ bir nesil, ve ruhu El'⟨את⟩ sadık olmamış.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve olmasınlar"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olsunlar"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "ataları gibi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nesil"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "isyankâr"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ve inatçı"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nesil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hazırlamamış"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "sadık olmuş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El'e karşı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El'e"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruhu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:41.282786451Z",
+  "model": "glm-5.3"
+}

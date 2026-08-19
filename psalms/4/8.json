@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yüreğime sevinç verdin; onların tahılı ve şıraları çoğaldığı zamankinden ⟨daha fazla⟩.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "verdın"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinç"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "yüreğime"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "zamankinden"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "onların tahılı"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "ve şıraları"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoğaldığı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:21.283695181Z",
+  "model": "glm-5.3"
+}

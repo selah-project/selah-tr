@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "⟨את⟩ Deniz'i — bir — ve ⟨את⟩ öküzleri — on iki — altında.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Deniz"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Deniz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ve",
+      "marks": "öküzler"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "öküzler"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "altında"
+    }
+  ],
+  "timestamp": "2026-08-19T12:03:03.288139252Z",
+  "model": "glm-5.3"
+}

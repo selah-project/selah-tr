@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve Moşe, Yahve'nin önüne O'na ⟨את⟩ konuşmaya girdiğinde, çıkıncaya kadar ⟨את⟩ örtüyü kaldırırdı; ve çıkıp İsrail oğullarına kendisine emredileni ⟨את⟩ söylerdi.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "girdiğinde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "konuşmaya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ O'na",
+      "marks": "O'na"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "kaldırırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örtüyü"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "örtüyü"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "çıkışı"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıkıp"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "söylerdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emredileni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "emredileni"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:28.147919091Z",
+  "model": "glm-5.3"
+}

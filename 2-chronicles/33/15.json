@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Yabancı ilahları ve ⟨את⟩ putu Yahve'nin evinden kaldırdı ve Yahve evinin dağında ve Yeruşalayim'de inşa ettiği bütün sunakları şehrin dışına attı.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "kaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabancı ilahları"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilahları"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "Yabancı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putu"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "putu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "sunakları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inşa ettiği"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ve Yeruşalayim'de"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "attı"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "dışına"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şehrin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:10:30.281724562Z",
+  "model": "glm-5.3"
+}

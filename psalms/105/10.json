@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "ve onu Yaakov için töreye, Yisrael için ebedi ⟨⟨ahit⟩⟩ olarak dikmiştir",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "ve onu dikmiştir"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov için"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "töreye"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrael için"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebedi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:07.278267026Z",
+  "model": "glm-5.3"
+}

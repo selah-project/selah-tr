@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve dedi: Ne günah işledim ki sen kulunu ⟨את⟩ Ahav'ın eline, beni öldürmek için veriyorsun?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah işledim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veriyorsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulunu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eline"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "beni öldürmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:51.001279446Z",
+  "model": "glm-5.3"
+}

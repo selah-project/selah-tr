@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 37:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve kral Tsidkiyahu, Yehukal'ı — Şelemya'nın oğlu — ve kâhin Ma'aseya'nın oğlu Tsfanyahu'yu, ⟨את⟩ peygamber Yirmiyahu'ya ⟨את⟩ göndererek şunu söyledi: «Lütfen bizim için Elohim'imiz Yahve'ye dua et.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehukal'ı"
+    },
+    {
+      "surface": "יהוכל",
+      "gloss": "Yehukal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שלמיה",
+      "gloss": "Şelemya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Tsfanyahu'yu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsfanyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Ma'aseya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şunu söyleyerek"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "dua et"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    }
+  ],
+  "timestamp": "2026-08-19T10:17:30.941049753Z",
+  "model": "glm-5.3"
+}

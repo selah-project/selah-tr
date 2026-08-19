@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve ⟨את⟩ onları uluslar arasında dağıttığımda ve onları ülkelere savurduğumda, ben Yahve olduğumu bilecekler.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "bilecekler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "dağıttığımda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "uluslar arasında"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "uluslar arasında"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ve savurduğumda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "ülkelere"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ülkelere"
+    }
+  ],
+  "timestamp": "2026-08-19T10:25:42.252771070Z",
+  "model": "glm-5.3"
+}

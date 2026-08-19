@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Oğlunun kızının veya kızının kızının çıplaklığını — çıplaklıklarını açmayacaksın; çünkü ⟨onlar⟩ senin çıplaklığındır.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "kızının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açmayacaksın"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "çıplaklıklarını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "senin çıplaklığındır"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:59.243032234Z",
+  "model": "glm-5.3"
+}

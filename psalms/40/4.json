@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve ağzıma yeni bir şarkı koydu, Elohimimize övgü; birçokları görecek ve korkacak ve Yahve'ye güvenecek.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağızma"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "övgü"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimimize"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görecek"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "birçokları"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ve korkacak"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ve güvenecek"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:52.314370307Z",
+  "model": "glm-5.3"
+}

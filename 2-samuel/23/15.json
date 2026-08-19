@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Davud özledi ve dedi: Kim bana Beyt-Lehem'in kapı yanındaki sarnıcından su içirir?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "ve özledi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "bana içirir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "sarnıcından"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem'in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kapı yanında"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:13.633750797Z",
+  "model": "glm-5.3"
+}

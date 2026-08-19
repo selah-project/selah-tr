@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Kapıları açın, sadakati koruyan doğru ulus girsin.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "açın"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "kapıları"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve girsin"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ulus"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "koruyan"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "sadakati"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:45.554733418Z",
+  "model": "glm-5.3"
+}

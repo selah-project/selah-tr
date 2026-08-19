@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Söylemişti ve ⟨ה⟩ sinek sürüleri geldi, bit tüm sınırlarında.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "söylemişti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sinek sürüleri"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "bit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sınırlarında"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:21.596642429Z",
+  "model": "glm-5.3"
+}

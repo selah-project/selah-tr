@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kâhinler kendileri için alsınlar, her adam tanıdığından ⟨את⟩; ve onlar evin çatlağını güçlendirsinler, orada çatlak bulunacağı her ⟨yerde⟩.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "alsınlar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kendileri için"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her adam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "tanıdığından"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "tanıdığından"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "güçlendirsinler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çatlağı"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "çatlak"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bulunacağı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "çatlak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:03.984513739Z",
+  "model": "glm-5.3"
+}

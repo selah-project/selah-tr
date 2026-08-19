@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Yahve Moşe'ye dedi: Aharon'a söyle: Asanı ⟨את⟩ uzat ve yerin toprağına ⟨את⟩ vur; o, bütün Mısır ülkesinde bitlere dönüşsün.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "uzat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asanı"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "asanı"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ve vur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağı"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toprağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olsun"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "bitlere"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:01.417493615Z",
+  "model": "glm-5.3"
+}

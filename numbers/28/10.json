@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Her şabatta şabatın ⟨yanıp⟩ sürekli yakılan sunusuna ek olarak onun içki sunusu ⟨verilir⟩.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "yakılan sunu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabatın"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "şabatında"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstüne"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yakılan sunu"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "sürekli olanın"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ve onun içki sunusu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:55.286011370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ben şimdiden ölmüş olan ölüleri, hâlâ yaşayan yaşayanlardan daha çok övdüm.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ve övdüm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüleri"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ölüleri"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "şimdiden"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ölmüş"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yaşayanlardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "hâlâ"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:27.099369399Z",
+  "model": "glm-5.3"
+}

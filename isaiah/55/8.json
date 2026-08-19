@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Çünkü düşüncelerim sizin düşünceleriniz ⟨degil⟩, ve yollarınız benim yollarım ⟨degil⟩ — Yahve'nin neumu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "düşüncelerim"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "düşünceleriniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "yollarınız"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarım"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:40.271927643Z",
+  "model": "glm-5.3"
+}

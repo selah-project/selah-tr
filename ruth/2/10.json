@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 2:10",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "O da yüzüne kapanıp yere kapandı ve ona dedi: 'Neden gözlerinde lütuf buldum da beni tanıdın — oysa ben yabancıyım?'",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "o da kapandı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ve yere eğildi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "neden"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "buldum"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gözlerinde"
+    },
+    {
+      "surface": "להכירני",
+      "gloss": "beni tanımak"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "oysa ben"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "yabancıyım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:48.543107711Z",
+  "model": "glm-5.3"
+}

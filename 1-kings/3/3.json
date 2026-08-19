@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Şelomo Yahve'yi seviyordu — babası Davut'un túzlerinde yürümek üzere — yalnız yüksek yerlerde kurban kesiyor ve buhur yakıyordu.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ve seviyordu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yürümek üzere"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "tüzlerde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut'un"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "yüksek yerlerde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kurban kesiyor"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ve buhur yakıyor"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:21.217941482Z",
+  "model": "glm-5.3"
+}

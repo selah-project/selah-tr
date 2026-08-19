@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çünkü öfke ahmağı öldürür ve kıskançlık aptalı yok eder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ahmak"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "öldürür"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "öfke \/ kızgınlık"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "ve … aptal \/ saf"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "yok eder"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "kıskançlık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:41.326223117Z",
+  "model": "glm-5.3"
+}

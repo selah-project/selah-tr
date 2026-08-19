@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Bilsinler diye — günün doğuşundan ve batışından — ki benim dışımda ⟨hiçbir şey⟩ yok: Ben Yahve'yim ve başkası yok.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bilsinler diye"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilsinler"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "doğuşundan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "ve batışından"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "hiçbir şey"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "benim dışımda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "başkası"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:34.197273161Z",
+  "model": "glm-5.3"
+}

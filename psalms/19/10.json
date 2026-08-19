@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Yahve korkusu arıdır, sonsuza dek durur; Yahve'nin hükümleri gerçektir, hep birlikte sadıktır.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "korkusu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "arıdır"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "durur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hükümleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gerçektir"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sadıktır"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hep birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:44.803711920Z",
+  "model": "glm-5.3"
+}

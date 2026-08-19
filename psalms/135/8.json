@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Ki O, Mitsrayim'in ilk doğanlarını vurdu — insandan hayvana kadar.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "ki O vurdu"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ilk doğanlarını"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim'in"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "insandan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:12.149558252Z",
+  "model": "glm-5.3"
+}

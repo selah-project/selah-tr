@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 11:17",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Yahve Sevaot, seni dikeni ⟨את⟩ senin aleyhine kötülük konuştu — İsrail evinin ve Yahuda evinin kötülüğü yüzünden, ki kendilerine öyle yaptılar, beni öfkelendirmek için, Baal'e buhur yakmak için.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ve Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "הנוטע",
+      "gloss": "seni diken"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senin aleyhine"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ve evinin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kendilerine"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "beni öfkelendirmek için"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "buhur yakmak için"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal'e"
+    }
+  ],
+  "timestamp": "2026-08-19T10:08:16.606407352Z",
+  "model": "glm-5.3"
+}

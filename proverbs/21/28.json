@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Yalan tanığı yok olur; ama dinleyen adam sonsuza dek konuşur.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tanığı"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "yok olur"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ama adam"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "dinleyen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "konuşur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:36.417491376Z",
+  "model": "glm-5.3"
+}

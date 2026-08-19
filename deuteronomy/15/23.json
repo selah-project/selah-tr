@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yalnız ⟨את⟩ kanını yemeyeceksin; yeryüzüne dökeceksin onu, su gibi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanını"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "kanını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yiyeceksin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzüne"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "onu dökeceksin"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "su gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:34.505816018Z",
+  "model": "glm-5.3"
+}

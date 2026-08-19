@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve David Yeruşalayim'de daha fazla kadın aldı, ve David'e daha fazla oğullar ve kızlar doğdu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha fazla"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kadınlar"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha fazla"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ve kızlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:13.742495582Z",
+  "model": "glm-5.3"
+}

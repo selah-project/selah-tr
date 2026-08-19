@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve üzerine ⟨את⟩ koşuyu koydu, ve koşuya ⟨את⟩ Urim'i ve ⟨את⟩ Tumim'i yerleştirdi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koşuyu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "koşuyu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "koşuya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim'i"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Tumim'i"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim'i"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:43.912345494Z",
+  "model": "glm-5.3"
+}

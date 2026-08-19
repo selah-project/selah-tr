@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve bir adam onu buldu — ve işte tarlada şaşırmış dolaşıyordu — ve adam ona sorarak dedi: Ne arıyorsun?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "ve onu buldu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "şaşırıp dolaşıyordu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "ve ona sordu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "arıyorsun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:56.493932165Z",
+  "model": "glm-5.3"
+}

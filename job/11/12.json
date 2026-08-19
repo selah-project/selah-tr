@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve içi boş adam akıllanır, ve yaban eşeğin tayı insan olarak doğar ⟨der gibi⟩.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "içi boş"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "akıllanır"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ve tay"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "yaban eşşek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "doğar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:18.700476296Z",
+  "model": "glm-5.3"
+}

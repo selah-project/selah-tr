@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Doğruluğunda yürüyen Yahve'den korkar, yollarında eğri olan ise O'nu hor görür.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "doğruluğunda"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "eğri olan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "onu hor görür"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:03.690372947Z",
+  "model": "glm-5.3"
+}

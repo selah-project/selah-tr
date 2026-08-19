@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "İhanet edenleri gördüm ve tiksinerek kızdım, çünkü senin sözünü tutmadılar.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ihanet edenleri"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "ve tiksinerek kızdım"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "senin sözünü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "tutmadılar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:09.364515942Z",
+  "model": "glm-5.3"
+}

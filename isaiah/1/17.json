@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "İyiliği öğrenin, adaleti arayın, ezileni doğru yola getirin, yetime hükmedin, dulun davasını savunun.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "öğrenin"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "iyiliği"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "arayın"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adaleti"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "doğru yola getirin"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "ezileni"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "hükmedin"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetime"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "davasını savunun"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dulun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:23.695936142Z",
+  "model": "glm-5.3"
+}

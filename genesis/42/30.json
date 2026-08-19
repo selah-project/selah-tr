@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "“O adam, ülkenin efendisi, bizimle ⟨את⟩ sert konuştu ve bizi ülkeyi ⟨את⟩ gözetleyenler gibi ⟨את⟩ saydı.”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o adam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendisi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "sert"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve saydı"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "gözetleyenler gibi"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "gözetleyenler gibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:13.692317707Z",
+  "model": "glm-5.3"
+}

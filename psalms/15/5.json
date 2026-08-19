@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Gümüşünü faizle ⟨את⟩ vermedi ve suça karşı rüşvet almadı — bunları yapan sonsuza dek sarsılmaz.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "faizle"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "ve rüşvet"
+    },
+    {
+      "surface": "על",
+      "gloss": "aleyhine"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "suça karşı masum olan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "almadı"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarsılır"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:01.811110598Z",
+  "model": "glm-5.3"
+}

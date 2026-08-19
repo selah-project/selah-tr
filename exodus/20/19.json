@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve Moşe'ye dediler: Sen konuş bizimle, dinleyelim; Elohim konuşmasın bizimle, yoksa ölürüz.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimle"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ve dinleyelim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -masın"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "konuşsun"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ölürüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:20.919326533Z",
+  "model": "glm-5.3"
+}

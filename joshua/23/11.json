@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve kendinize çok dikkatle gözetininiz: Yahve Elohim'inizi ⟨את⟩ sevmek için.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "gözetininiz"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "kendinize"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sevmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Elohim'inizi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:13:20.280385112Z",
+  "model": "glm-5.3"
+}

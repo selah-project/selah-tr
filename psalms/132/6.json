@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "İşte onu Efrata'da duyduk, onu Yaar tarlalarında bulduk.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "onu duyduk"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efrata'da"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "onu bulduk"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "tarlalarında"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Yaar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:59.174967017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Karanlıkta ve ölüm gölgesinde oturanlar, sıkıntı ve demirle bağlı esirler —",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "oturanlar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ve ölüm gölgesinde"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "esirleri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "ve demirle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:57.516282078Z",
+  "model": "glm-5.3"
+}

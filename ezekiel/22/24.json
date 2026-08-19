@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "İnsanoğlu, de ona: ⟨את⟩ sen arıtılmamış bir topraksın, gazap gününde yağmur görmemiştir.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (toprak)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "arıtılmamış"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "yağmurlanmamış"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "gazabın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:28:53.644385700Z",
+  "model": "glm-5.3"
+}

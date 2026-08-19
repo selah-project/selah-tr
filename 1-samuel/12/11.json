@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yahve, Yerubbaal'ı ve Bedan'ı ve Yiftah'ı ve Şemuël'i gönderdi ve sizi çevrenizdeki düşmanlarınızın elinden kurtardı ve güven içinde oturdunuz.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yiftah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Şemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "kurtardı"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "sizi ⟨את⟩",
+      "marks": "siz"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmanlarınızın"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "çevredeki"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ve oturdunuz"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "güven içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T12:14:27.607491497Z",
+  "model": "glm-5.3"
+}

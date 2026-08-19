@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Duymaz mısın, Elohim, sesimi şikâyetimde; düşman korkusundan koru ⟨hayatımı⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "duy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sesimi"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "şikâyetimde"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "korkusundan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmanın"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "koru"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayatımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:24.940415690Z",
+  "model": "glm-5.3"
+}

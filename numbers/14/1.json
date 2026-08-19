@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Bütün cemaat seslerini yükseltip ⟨את⟩ bağırdı ve halk o gece ağladı.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "yükseltip"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "verdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seslerini"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "seslerini"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ağladı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:46.756573204Z",
+  "model": "glm-5.3"
+}

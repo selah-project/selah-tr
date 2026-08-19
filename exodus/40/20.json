@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve aldı ve ⟨את⟩ tanıklığı arona koydu ve ⟨את】 sırıkları aronun üzerine yerleştirdi ve ⟨את⟩ kaportayı aronun üzerine, en üste koydu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanıklığı"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "tanıklığı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ve yerleştirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sırıkları"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sırıkları"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronun"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaportayı"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaportayı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronun"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "en üstten"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:52.682231465Z",
+  "model": "glm-5.3"
+}

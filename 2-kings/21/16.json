@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 21:16",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve ayrıca Menashşe çok çok masum kan döktü — ta Yeruşalayim'i uçtan uca dolduruncaya dek; Yahuda'yı Yahve'nin gözlerinde kötülük yapmak üzere günaha soktuğu günahından başka.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "masum"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "döktü"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashşe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ağız"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ağıza"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "başka"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "günahından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "günaha soktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda'yı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak üzere"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlerinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:00.545703335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Nuh beş yüz yaşında ⟨idi⟩; Nuh, ⟨את⟩ Şem'in, ⟨את⟩ Ham'ın ve ⟨את⟩ Yafet'in babası oldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şem'i"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham'ı"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yafet'i"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:25.459880689Z",
+  "model": "glm-5.3"
+}

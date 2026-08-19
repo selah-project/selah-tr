@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Suçlarını örten başarılı olamaz; ama itiraf eden ve onları terk eden merhamet görür.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "örten"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "suçlarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "başarılı olur"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "ve itiraf eden"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ve terk eden"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "merhamet görür"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:28.105118448Z",
+  "model": "glm-5.3"
+}

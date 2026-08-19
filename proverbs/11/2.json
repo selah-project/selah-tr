@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Kibir gelince aşağılanma da gelir, ve ⟨את⟩ alçakgönüllülerde bilgelik ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "gelince"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "kibir"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve gelir"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "aşağılanma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alçakgönüllüler"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "alçakgönüllüler"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bilgelik"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:18.772417701Z",
+  "model": "glm-5.3"
+}

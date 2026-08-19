@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kalkayım şimdi, dolaşayım şehirde, sokaklarda ve meydanlarda arayayım ⟨את⟩ sevgilimi, canımın sevdiğini; aradım onu ama bulamadım onu.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "kalkayım"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "dolaşayım"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "sokaklarda"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "ve meydanlarda"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "arayayım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sevgilimi"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "sevgilimi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "aradım onu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "bulamadım onu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:41.195411441Z",
+  "model": "glm-5.3"
+}

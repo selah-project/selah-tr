@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 14:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve şu taşlamayı Babil kralının üzerine yükleneceksin ve diyeceksin: Nasıl sustu o zorba, nasıl sustu o altın dayatan!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "ve yükleneceksin"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "şu taşlamayı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ve diyeceksin"
+    },
+    {
+      "surface": "איך",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sustu"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "zorba"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "sustu"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "altın dayatan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:18.750156820Z",
+  "model": "glm-5.3"
+}

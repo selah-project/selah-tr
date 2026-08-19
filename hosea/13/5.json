@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Seni çölde tanıdım, kuraklık ⟨⟨את⟩ işareti yok⟩ diyarında ⟨seni tanıdım⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "seni tanıdım"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "diyarında"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "kuraklık"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:52.202388865Z",
+  "model": "glm-5.3"
+}

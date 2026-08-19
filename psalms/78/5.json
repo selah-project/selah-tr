@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve dikti bir tanıklık Yaakov'ta, ve bir Tora koydu İsrail'de; ki atalarımıza buyurdu, ⟨את⟩ atalarımızı bildirsinler diye oğullarına.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ve dikti"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "bir tanıklık"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakov'ta"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ve bir Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrail'de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarımızı"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "atalarımızı"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "bildirsinler diye"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "oğullarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:41.282232506Z",
+  "model": "glm-5.3"
+}

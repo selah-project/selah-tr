@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 138,
+  "translation": "Davud'a aittir. Bütün kalbimle sana şükredeceğim, Elohim'in önünde sana mızıkacağım.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a aittir"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sana şükredeceğim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbimle"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "sana mızıkacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:27.069308665Z",
+  "model": "glm-5.3"
+}

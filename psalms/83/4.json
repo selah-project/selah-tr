@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Halkına karşı sinsi ⟨bir⟩ düzen kuruyorlar ve senin saklılarına karşı danışıyorlar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkına"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "sinsi düzen kuruyorlar"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "danışma\/düzen"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "ve danışıyorlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "senin saklılarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:27.937936218Z",
+  "model": "glm-5.3"
+}

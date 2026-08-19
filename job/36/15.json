@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 36:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "O, yoksulu sıkıntısında kurtarır, ve baskıda kulaklarını ⟨açar⟩.",
+  "tokens": [
+    {
+      "surface": "יחלץ",
+      "gloss": "kurtarır (çekip çıkarır)"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "בעניו",
+      "gloss": "sıkıntısında"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ve açar"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "baskıda"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "kulaklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:11.003868356Z",
+  "model": "glm-5.3"
+}

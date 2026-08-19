@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve gördünüz ⟨את⟩ iğrençliklerini ve ⟨את⟩ putlarını — ağaç ve taş, gümüş ve altın, ki yanlarındaydı.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ve gördünüz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iğrençliklerini"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "iğrençliklerini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "putlarını"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "putlarını"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ve taş"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ve altın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "yanlarında"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:23.850901643Z",
+  "model": "glm-5.3"
+}

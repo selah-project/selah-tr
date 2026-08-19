@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Enosh'un bütün günleri dokuz yüz beş yıl oldu ve öldü.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh'un"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ve dokuz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:07.065731598Z",
+  "model": "glm-5.3"
+}

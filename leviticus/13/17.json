@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Kâhin onu görecek ve işte yara beyaza dönmüşse, kâhin ⟨את⟩ yarayı temiz ilan edecek; o temizdir.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "onu görecek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "dönmüşse"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "beyaza"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "temiz ilan edecek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yarayı"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:36.589889095Z",
+  "model": "glm-5.3"
+}

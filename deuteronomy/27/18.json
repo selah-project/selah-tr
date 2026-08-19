@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Yolda körü saptıran lanetlidir; ve tüm halk diyecek: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "lanetlidir"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "saptıran"
+    },
+    {
+      "surface": "עור",
+      "gloss": "körü"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve diyecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:20.963007784Z",
+  "model": "glm-5.3"
+}

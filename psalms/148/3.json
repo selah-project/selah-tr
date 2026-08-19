@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 148,
+  "translation": "Onu ululayın güneş ve ay, onu ululayın bütün ışık yıldızları.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "onu ululayın"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ve ay"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "onu ululayın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "yıldızları"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:09.724746351Z",
+  "model": "glm-5.3"
+}

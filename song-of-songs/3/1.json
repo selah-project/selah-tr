@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yatağımda geceleri aradım ⟨את⟩ sevgilimi, canımın sevdiğini; aradım onu ama bulamadım onu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yatağımda"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "geceleri"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "aradım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sevgilimi"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "sevgilimi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "aradım onu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama bulamadım değil"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "bulamadım onu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:41.195132876Z",
+  "model": "glm-5.3"
+}

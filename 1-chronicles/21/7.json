@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve bu şey Elohim'in gözünde kötüydü; ⟨o⟩ Yisra'el'i vurdu.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ve kötüydü"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "על",
+      "gloss": "...den ötürü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "şey"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T11:59:40.276780165Z",
+  "model": "glm-5.3"
+}

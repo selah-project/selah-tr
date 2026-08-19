@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Bu ⟨⟩ benim tesellim, sıkıntımda ⟨olan⟩; çünkü senin sözün beni diriltti.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "benim tesellim"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "sıkıntımda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "senin sözün"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "beni diriltti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:20.632729353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Sonrasında İsrail oğulları dönecekler, Yahve Elohim'lerini arayacaklar ve kraları Davud'u ⟨את⟩; Yahve'ye ve O'nun iyiliğine titreyerek gelecekler — son günlerde, ⟨את⟩ işaretli olarak.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sonrasında"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dönecekler"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ve arayacaklar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Elohim'lerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim'lerini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kraları Davud'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "kraları"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ve titreyecekler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "O'nun iyiliğine"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:23.790209991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Marangozlara, duvar ustalarına ve taşçılara, evi güçlendirmek için ⟨את⟩ ev için ağaç ve yontulmuş taşlar satın almaya.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "marangozlara"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "ve taşçılara"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "ve duvar ustalarına"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "ve satın almaya"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ve taşlar"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "yontulmuş"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "güçlendirmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:10.351904867Z",
+  "model": "glm-5.3"
+}

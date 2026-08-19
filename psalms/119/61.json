@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kötülerin ⟨ipleri⟩ beni sardı; ⟨ama⟩ Toranı unutmadım.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "ipleri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "beni sardı"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toranı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:35.865068026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Mal yuttu, ve onu kusar; karnından El onu kovar.",
+  "tokens": [
+    {
+      "surface": "חיל",
+      "gloss": "mal"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yuttu"
+    },
+    {
+      "surface": "ויקאנו",
+      "gloss": "ve-onu-kusar"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "karnından"
+    },
+    {
+      "surface": "יורשנו",
+      "gloss": "onu-kovar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:14.914511282Z",
+  "model": "glm-5.3"
+}

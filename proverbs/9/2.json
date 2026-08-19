@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Kesileceklerini kesti, şarabını karıştırdı, ayrıca sofrasını düzenledi.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "kesti"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "kesileceklerini"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "karıştırdı"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "şarabını"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "düzenledi"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "sofrasını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:59.268997676Z",
+  "model": "glm-5.3"
+}

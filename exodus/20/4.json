@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Kendine oyma put ve hiçbir temûna — göklerde olanın yukarısından, yerde olanın aşağısından ve suların altında yerde olanın ⟨bir suretini⟩ yapmayacaksın.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksın"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "oyma put"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve hiçbir"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "temûna \/ suret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki olan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yukarıdan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ki olan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "aşağıdan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ki olan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sularda"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yere"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:41.481615766Z",
+  "model": "glm-5.3"
+}

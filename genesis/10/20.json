@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Bunlar Ham'ın oğulları, ailelerine göre, dillerine göre, ülkelerinde, uluslarında.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham'ın"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "dillerine göre"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ülkelerinde"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "uluslarında"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:48.658988063Z",
+  "model": "glm-5.3"
+}

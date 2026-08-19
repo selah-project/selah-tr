@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ham ülkesinde harikalar, Süf denizi üzerinde korkunç işler.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "harikalar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "korkunç işler"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denizi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Süf"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:38.899613048Z",
+  "model": "glm-5.3"
+}

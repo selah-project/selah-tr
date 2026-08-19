@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "İyi anlayış lütuf verir; ama hainlerin yolu ⟨zor ve⟩ yıpratıcıdır.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "anlayış"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ama yolu"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "hainlerin"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "yıpratıcıdır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:33.714487397Z",
+  "model": "glm-5.3"
+}

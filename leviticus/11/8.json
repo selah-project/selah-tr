@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Onların etini yemeyeceksiniz ve leşlerine dokunmayacaksınız; onlar sizin için murdardır.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "etlerini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "leşlerine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dokunmayacaksınız"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:52.127646446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve ⟨את⟩ Yişrael oğullarının gençlerini gönderdi; yakmalık sunular takdim ettiler ve Yahve'ye sığır sağmalıkları kestiler.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yişrael oğullarının gençlerini"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "gençlerini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "takdim ettiler"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yakmalık sunular"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "kestiler"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sağmalıklar"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "esirlik (barış) sunuları"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "sığırlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:57.574541450Z",
+  "model": "glm-5.3"
+}

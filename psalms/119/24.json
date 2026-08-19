@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Tanıklıkların da ⟨zaten⟩ sevincimdir, ⟨onlar⟩ danışmanlarımdır benim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tanıklıkların"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "sevincim"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "danışma"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:48.198692732Z",
+  "model": "glm-5.3"
+}

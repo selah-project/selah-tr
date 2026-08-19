@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Ahaz, Yahve'nin evinde ve kralın evinin hazinelerinde bulunan gümüşü ⟨את⟩ ve altını ⟨את⟩ aldı ve Aşşur kralına rüşvet olarak gönderdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüş"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "altın"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "bulunan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ve hazinelerinde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rüşvet"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:13.791560034Z",
+  "model": "glm-5.3"
+}

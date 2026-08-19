@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "El bizim için kurtuluşların El'idir; ve Yahve'ye, Adonay'a, ölümden çıkışlar aittir.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "kurtuluşların"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "ve Yahve'ye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölümden"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "çıkışlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:31.477442797Z",
+  "model": "glm-5.3"
+}

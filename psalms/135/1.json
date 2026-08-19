@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Övün Yah! Övün ⟨את⟩ Yahve'nin adını; övün, ey Yahve'nin kulları!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:23.188238889Z",
+  "model": "glm-5.3"
+}

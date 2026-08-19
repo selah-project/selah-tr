@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve onların toprağını aldık ⟨את⟩ ve onu mülk olarak Reuvenoğullarına, Gadoğullarına ve Menaşşe kabilesinin yarısına verdik.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ve aldık"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağını"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "onların toprağını"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ve onu verdik"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "mülk olarak"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Reuvenoğullarına"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ve Gadoğullarına"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ve yarısına"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kabilesinin"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menaşşe"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:15.388277442Z",
+  "model": "glm-5.3"
+}

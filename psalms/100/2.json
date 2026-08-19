@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 100,
+  "translation": "Yahve'ye ⟨את⟩ sevinçle kulluk edin; önüne ezgilerle girin.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "kulluk edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sevinçle"
+    },
+    {
+      "surface": "באו",
+      "gloss": "girin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ezgilerle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:22.902924452Z",
+  "model": "glm-5.3"
+}

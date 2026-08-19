@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bir kuşak gider, bir kuşak gelir; ⟨ve⟩ yeryüzü sonsuza dek durur — kuşak gider ve kuşak gelir, yeryüzü sonsuza dek ayakta ⟨kalır⟩.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "kuşak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gider"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ve kuşak"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelir"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ve yeryüzü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "durur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:59.095682525Z",
+  "model": "glm-5.3"
+}

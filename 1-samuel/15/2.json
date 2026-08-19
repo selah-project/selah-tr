@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "«Böyle dedi Yahve Sevaot: Amalek'in Yisraël'e yaptığını, onun Mısır'dan çıkarken yol üzerinde ona kurduğu tuzağı gözetledim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "gözetledim \/ ziyaret ettim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek'in Yisraël'e yaptığı şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraël'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koydu \/ kurdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "çıkarken o"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:02.528403419Z",
+  "model": "glm-5.3"
+}

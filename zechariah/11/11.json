@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 11:11",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve o gün bozuldu; ve ⟨את⟩ beni gözetleyen sürünün ezilenleri öylece bildiler ki, o Yahve'nin ⟨סözü⟩dür.",
+  "tokens": [
+    {
+      "surface": "ותפר",
+      "gloss": "Ve bozuldu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ve bildiler"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ezilenleri"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürünün"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "gözetleyenler"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-08-19T10:49:17.477335871Z",
+  "model": "glm-5.3"
+}

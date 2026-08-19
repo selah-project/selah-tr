@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Çünkü İsrail inatçı bir düve gibi başkaldırdı; şimdi Yahve onları geniş yerde kuzu gibi otlatır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "bir düve gibi"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "inatçı"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "başkaldırdı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "onları otlatır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "kuzu gibi"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "geniş yerde"
+    }
+  ],
+  "timestamp": "2026-08-19T12:35:46.827994216Z",
+  "model": "glm-5.3"
+}

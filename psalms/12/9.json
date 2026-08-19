@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Çevrede kötüler dolaşırlar; insan oğulları arasında alçaklık yüceltildiğinde.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "çevrede"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "dolaşırlar"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "yüceltildiğinde"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "alçaklık"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğulları arasında"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:14.949467209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "ve orada seni ⟨את⟩ geçindireceğim, çünkü daha beş yıl kıtlık var; yoksul düşesin diye — sen, evin ve bütün ⟨sahip olduğun şey⟩.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "ve geçindireceğim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kıtlık"
+    },
+    {
+      "surface": "פן",
+      "gloss": "diye (olsun ki -me)"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "yoksul düşesin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ve evin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana ait"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:17.912873815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve tekerleklerini —⟨את⟩ savaş arabalarının tekerleklerini— sürükledi, onları ağır ağır sürdürdü; ve Mıtsrayım dedi: \"İsra'il'in önünden kaçalım, çünkü Yahve onlar için Mıtsrayım'a karşı savaşıyor.\"",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "sürükledi\/aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekerleklerini"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "tekerlek"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "savaş arabalarının"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "onları sürdürdü"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "ağır ağır"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayım"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "kaçalım"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "önünden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsra'il"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "savaşıyor"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar için"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mıtsrayım'a karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:19.726729317Z",
+  "model": "glm-5.3"
+}

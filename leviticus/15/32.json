@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Bu, akıntılısının ve kendisinden meni akıntısı çıkıp onunla kirlenen kişinin töresidir.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "töresi"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "akıntılısının"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ... o kimse ki"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıkıp"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kendisinden"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yatma (meni) akıntısı"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kirlenmek için"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:08.331164745Z",
+  "model": "glm-5.3"
+}

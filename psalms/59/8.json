@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "İşte ağızlarıyla ⟨kusup⟩ kılıçlar döküyorlar; dudaklarındadır kılıçlar — çünkü 'Kim duyar?' ⟨diyorlar⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "kusup döküyorlar"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ağızlarıyla"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "kılıçlar"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "dudaklarında"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "duyar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:37.485472892Z",
+  "model": "glm-5.3"
+}

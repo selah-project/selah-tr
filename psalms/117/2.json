@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 117,
+  "translation": "Çünkü üzerimize güçlüdür ⟨O'nun⟩ sadakati, ve Yahve'nin doğruluğu sonsuza dek ⟨sürer⟩. Övün Yah'ı!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "güçlüdür"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimize"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "O'nun sadakati"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ve doğruluğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:25.610313738Z",
+  "model": "glm-5.3"
+}

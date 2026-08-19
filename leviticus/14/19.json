@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kâhin günah sunusunu ⟨את⟩ yapacak, arınan kişiyi ⟨את⟩ kirinden dolayı kefaret edecek ve sonra yakmalık sunuyu ⟨את⟩ kesecek.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ve yapacak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah sunusunu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunusunu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefaret edecek"
+    },
+    {
+      "surface": "על",
+      "gloss": "üz(erin)e"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "aranan kişi"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "kirinden"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ve sonra"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kesecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakmalık sunuyu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sunuyu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:36.792930274Z",
+  "model": "glm-5.3"
+}

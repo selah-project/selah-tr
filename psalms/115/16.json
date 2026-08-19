@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Gökler, gökler Yahve'nindir; ⟨ama⟩ yeri insanoğullarına vermiştir.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'nindir"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ve yer"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vermiştir"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan(ın)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:54.879331481Z",
+  "model": "glm-5.3"
+}

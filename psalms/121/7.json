@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 121,
+  "translation": "Yahve seni her kötülükten korusun; ⟨את⟩ canını korusun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "seni korusun"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her şeyden"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "korusun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.808805844Z",
+  "model": "glm-5.3"
+}

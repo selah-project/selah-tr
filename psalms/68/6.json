@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Yetimlerin babası ve dulların savunucusu — Elohim kutsal konutundadır.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "babası"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yetimlerin"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ve savunucusu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "dulların"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "konutunda"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:28.030566340Z",
+  "model": "glm-5.3"
+}

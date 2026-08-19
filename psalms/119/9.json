@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Bir genç ⟨את⟩ yolunu nasıl temiz tutar? Senin sözüne göre onu korumakla.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "neyle \/ nasıl"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "temiz tutar"
+    },
+    {
+      "surface": "נער",
+      "gloss": "genç"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yolunu"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "korumak için"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "senin sözüne göre"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:32.318256395Z",
+  "model": "glm-5.3"
+}

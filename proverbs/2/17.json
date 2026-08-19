@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ki o, gençliğinin dostunu bırakmıştır ve Elohi ile ⟨את⟩ ahitini unutmuştur.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "bırakmıştır"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "dostu"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "gençliğinin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahitini"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahitini"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "unutmuştur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:15.048016998Z",
+  "model": "glm-5.3"
+}

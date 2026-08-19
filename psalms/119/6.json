@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "O zaman, bütün buyruklarına baktığımda utanmam.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "utanırım"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "baktığımda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruklarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:05.580465861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Bize değil, Yahve, bize değil — adına görküm ver, sevgin için, sadakatin için.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "adına"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görküm"
+    },
+    {
+      "surface": "על",
+      "gloss": "için \/ uğruna"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sevgin"
+    },
+    {
+      "surface": "על",
+      "gloss": "için \/ uğruna"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sadakatin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:49.842764827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 6:9",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Elohim razı olsun da beni ezip geçsin; elini serbest bıraksın ve beni biçiversin!",
+  "tokens": [
+    {
+      "surface": "ויאל",
+      "gloss": "razı olsun"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וידכאני",
+      "gloss": "beni ezsin"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "bıraksın (elini çözüp)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "ויבצעני",
+      "gloss": "beni biçiversin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:14.108797332Z",
+  "model": "glm-5.3"
+}

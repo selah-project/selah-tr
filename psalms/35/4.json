@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Canımı arayanlar utansın ve rezil olsun; kötülüğümü tasarlayanlar geri dönsün ve kepaze olsunlar ⟨olsunlar⟩.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "utansınlar"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ve rezil olsunlar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arayanlar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "geri çekilsinler"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geriye"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ve kepaze olsunlar"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "tasarlayanlar"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kötülüğümü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:28.807770369Z",
+  "model": "glm-5.3"
+}

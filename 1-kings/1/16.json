@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Buat-Şeva eğildi ve krala secde etti; kral da 'Ne istiyorsun?' dedi.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "ve eğildi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Buat- (kızı)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ve secde etti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krala"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:32.359787051Z",
+  "model": "glm-5.3"
+}

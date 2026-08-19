@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "«Efendim, beni dinle: ⟨ואת⟩ — toprak dört yüz şekel gümüş; benimle senin aranda o nedir ki? ve ölünü göm.»",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "dinle beni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dört"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ve senin aranda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o(dur)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ölünü"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ölünü"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "göm"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:06.759446696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Dedim: El'im, beni günlerimin yarısında yukarı alma; kuşaklar kuşakları ⟨boyunca⟩ senin yılların ⟨dır⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El'im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "beni yukarı alma"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "yarısında"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerimin"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "kuşaklar"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "kuşakları"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "senin yılların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:30.323412797Z",
+  "model": "glm-5.3"
+}

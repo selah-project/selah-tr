@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve yıkadı ⟨את⟩ iç organları ve ⟨את⟩ bacakleri; ve yakmalık sunak üzerinde sunakta tütsüledi onları.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "yıkadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iç organları"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iç organları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bacakleri"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "bacakleri"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tütsüledi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sunak"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sunakta"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:57.930389972Z",
+  "model": "glm-5.3"
+}

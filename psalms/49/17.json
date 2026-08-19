@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Korkma, ⟨çünkü⟩ bir adam zenginleşir ⟨dediğinde⟩, ⟨çünkü⟩ evinin görkemi artar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨çünkü⟩"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "zenginleşir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨çünkü⟩"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "artar"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:50.179342088Z",
+  "model": "glm-5.3"
+}

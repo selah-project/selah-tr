@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Yoav ile kardeşi Avişay Avner'i öldürdüler, çünkü o, Givon'da savaşta kardeşleri Asael'i öldürmüştü — ⟨את⟩ Asael'i.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Ve Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "ve Avişay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "öldürdüler"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner'i"
+    },
+    {
+      "surface": "על",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-dığı için"
+    },
+    {
+      "surface": "המית",
+      "gloss": "öldürmüştü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asael'i"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "kardeşlerini"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givon'da"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "savaşta"
+    }
+  ],
+  "timestamp": "2026-08-19T09:29:32.722243291Z",
+  "model": "glm-5.3"
+}

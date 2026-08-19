@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "O günde insan Yapıcısı'na bakacak, ve onun gözleri İsrail'in Kutsal Olanı'nı görecek.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "bakacak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-a"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Yapıcısı"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "ve onun gözleri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-i"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kutsal Olan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "görecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:29.531703293Z",
+  "model": "glm-5.3"
+}

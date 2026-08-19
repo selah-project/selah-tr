@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Yine de sınadılar ve Elyon Elohim'e ⟨את⟩ karşı isyan ettiler ve tanıklıklarını korumadılar.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "sınadılar"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "isyan ettiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyon Elohim'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (En Yüce)"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "ve O'nun tanıklıklarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "korumadılar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:27.946836861Z",
+  "model": "glm-5.3"
+}

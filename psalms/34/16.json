@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yahve'nin gözleri doğrular üzerinedir, ve kulakları onların feryadına ⟨yöneliktir⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "doğrular"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ve kulakları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yönelik"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "onların feryadına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:26.790061723Z",
+  "model": "glm-5.3"
+}

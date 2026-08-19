@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve garibi incitmeyeceksin ve onu ezmeyeceksin; çünkü siz gariplerdiniz Mısır ülkesinde.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ve garibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "inciteceksin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "onu ezeceksin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "garipler"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "siz idiniz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:09.260857348Z",
+  "model": "glm-5.3"
+}

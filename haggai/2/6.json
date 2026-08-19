@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Çünkü böyle dedi Yahve Tsvaot: Bir kez daha, az bir ⟨zaman⟩; ve ben sarsacağım ⟨את⟩ gökleri ve ⟨את⟩ yeri ve ⟨את⟩ denizi ve ⟨את⟩ kurak yeri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir kez"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "sarsacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gökleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "denizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kurak yeri"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "kurak yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T10:47:21.172377073Z",
+  "model": "glm-5.3"
+}

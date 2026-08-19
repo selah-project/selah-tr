@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Onun önünde ⟨yer⟩ açtın; kökleri kök saldı ve yeri doldurdu.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "açtın (yüzünü çevirdin)"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "onun önünde"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "ve kök saldı"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "kökleri"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ve doldurdu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:49.227417321Z",
+  "model": "glm-5.3"
+}

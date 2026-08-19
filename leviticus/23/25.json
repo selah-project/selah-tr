@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Hiçbir iş ve hizmet yapmayacaksınız ve Yahve'ye ateş sunusu yaklaştıracaksınız.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "iş"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "hizmet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksınız değil"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapmayacaksınız"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "ve yaklaştıracaksınız"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ateş sunusu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:15.714218540Z",
+  "model": "glm-5.3"
+}

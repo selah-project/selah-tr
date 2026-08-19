@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ülkenin bütün halkı sevindi ve şehir sükûnete kavuştu; ve Atalyahu'yu ⟨את⟩ kılıçla kralın evinde öldürdüler.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "ve sevindi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ve şehir"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "sükûnete kavuştu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Atalyahu'yu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu'yu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "öldürdüler"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kılıçla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:32.188536181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Mür, ahlot ve kassia — bütün giysilerin; fil dişinden saraylardan, telli çalgılar seni sevindirdi.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mür"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ve ahlot"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kassia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "giysilerin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "sarayları"
+    },
+    {
+      "surface": "שן",
+      "gloss": "fil dişi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "telli çalgılar"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "seni sevindirdi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:58.840383798Z",
+  "model": "glm-5.3"
+}

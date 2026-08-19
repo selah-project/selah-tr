@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve babasının kutsal şeylerini ⟨את⟩ ve kendi kutsadıklarını Yahve'nin evine getirdi — gümüş, altın ve kaplar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "getirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal şeyleri"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kutsal şeylerini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ve kutsadıklarını"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ve altın"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ve kaplar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:24.978822453Z",
+  "model": "glm-5.3"
+}

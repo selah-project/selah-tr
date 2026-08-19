@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü hepsi bizi korkutuyor, «Elleri ⟨את⟩ işten gevşeyecek ve o yapılmayacak» diye. Ve şimdi ⟨את⟩ ellerimi güçlendir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "korkutuyor"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diye"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "gevşeyecek"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "elleri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve…-meyecek"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapılacak"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "güçlendir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellerimi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:49:58.169850614Z",
+  "model": "glm-5.3"
+}

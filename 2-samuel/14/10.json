@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kral dedi: «Sana söz söyleyecek ⟨kim olursa⟩, onu bana getir; artık sana dokunmaya devam etmeyecek.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "söyleyecek olan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "onu getir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve…-meyecek"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "devam etmeyecek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "dokunmaya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:32:02.934254058Z",
+  "model": "glm-5.3"
+}

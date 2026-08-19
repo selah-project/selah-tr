@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Mihtam, Davud'a aittir. Beni koru, ey El, çünkü sana sığındım.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mihtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a aittir"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Beni koru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:05.466117485Z",
+  "model": "glm-5.3"
+}

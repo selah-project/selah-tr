@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Şaşılası ⟨şeyler⟩ senin kanıtların; ⟨bu⟩ yüzden onları canım korudu.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "şaşılası şeyler"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "senin kanıtların"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨bu⟩ yüzden (için)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨bu⟩ yüzden (böylece)"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "onları korudu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:28.637774015Z",
+  "model": "glm-5.3"
+}

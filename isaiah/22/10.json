@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve ⟨את⟩ Yeruşalayim'in evlerini saydınız, ve duvarı güçlendirmek için evleri yıktınız.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evleri"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "evlerini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "saydınız"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ve yıktınız"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "evleri"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "güçlendirmek için"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "duvarı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:23.743777884Z",
+  "model": "glm-5.3"
+}

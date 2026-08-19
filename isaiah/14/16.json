@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Seni görenler sana bakacak, sana dikkatle düşünecekler: 'Yeryüzünü sarsan, krallıkları sallayan bu adam mı?'",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "seni görenler"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "bakacaklar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "dikkatle düşünecekler"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu mu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "sarsan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünü"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "sallayan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "krallıkları"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:58.907534584Z",
+  "model": "glm-5.3"
+}

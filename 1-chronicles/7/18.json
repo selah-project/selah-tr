@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Kızkardeşi HaMoleket ⟨את⟩ İşhod'u, ⟨את⟩ Aviezer'i ve ⟨את⟩ Mahla'yı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "ve kızkardeşi"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "HaMoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İşhod'u"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "İşhod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aviezer'i"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Mahla'yı"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahla"
+    }
+  ],
+  "timestamp": "2026-08-19T12:25:24.683989875Z",
+  "model": "glm-5.3"
+}

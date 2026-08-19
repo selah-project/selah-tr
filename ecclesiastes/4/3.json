@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve bu ikisinden iyi ⟨durur⟩ ⟨את⟩ o ki henüz olmamıştır, güneşin altında yapılan kötü işi görmemiş olan.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ve iyi"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "bu ikisinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "henüz olmamış olan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "henüz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmamıştır"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olmuş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmemiş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötü işi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yapılan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:27.099499664Z",
+  "model": "glm-5.3"
+}

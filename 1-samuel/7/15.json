@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve Şemuvel İsrail'i ⟨את⟩ yargıladı, bütün yaşam günleri boyunca.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yargıladı"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuvel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "yaşamının"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:09.453957327Z",
+  "model": "glm-5.3"
+}

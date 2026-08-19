@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Dön, Yahve, canımı çekip çıkar, beni kurtar, sevginin (hesed) uğruna.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Dön"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "çekip çıkar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sevginin (hesed)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:56.684994924Z",
+  "model": "glm-5.3"
+}

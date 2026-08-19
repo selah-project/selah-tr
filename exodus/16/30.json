@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Böylece halk dinlendi yedinci günde.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "dinlendi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "yedinci"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:49.159582616Z",
+  "model": "glm-5.3"
+}

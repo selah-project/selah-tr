@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Çağırışımdan tükendim, boğazım yandı, gözlerim Elohim'imi beklerken tükendi.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "yoruldum"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "çağırışımdan"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "yandı"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "boğazım"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerim"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "bekleyerek"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim'im için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:18.439077740Z",
+  "model": "glm-5.3"
+}

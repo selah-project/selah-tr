@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Ve Siyon dedi: «Yahve beni terk etti ve Adonay beni unuttu.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "beni terk etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ve Adonay"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "beni unuttu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:56.315552230Z",
+  "model": "glm-5.3"
+}

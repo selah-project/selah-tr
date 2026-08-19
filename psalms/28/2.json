@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Yalvarışlarımın sesini işit — sana haykırışımda, kutsal ⟨içmabedine⟩ doğru ellerimi kaldırışımda.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "işit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yalvarışlarımın"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "haykırışımda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "kaldırışımda"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "içmabed"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kutsal ⟨olanına⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:34.998951875Z",
+  "model": "glm-5.3"
+}

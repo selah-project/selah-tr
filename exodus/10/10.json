@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve onlara dedi: Öyle olsun Yahve sizinle — ⟨את⟩ sizi ve ⟨את⟩ çocuklarınızı salıverdiğim ölçüde. Görün, çünkü kötülük karşınızdadır.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "derecesinde ki"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "salıverdiğim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çocuklarınızı"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "çocuklarınızı"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "görün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "karşısında"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "yüzünüzün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:14.532475103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve halk çıktı ve Aram ordugâhını ⟨את⟩ yağmaladı. Ve bir seah ince un bir şekele, iki seah arpa bir şekele oldu — Yahve'nin sözü gereğince.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "yağmaladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram ordugâhını"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ordugâhını"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "bir seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ince un"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bir şekele"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "ve iki seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bir şekele"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözü gereğince"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:38.309761513Z",
+  "model": "glm-5.3"
+}

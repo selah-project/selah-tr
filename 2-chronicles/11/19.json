@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ona oğullar doğurdu: ⟨את⟩ Yeuş'u, ⟨את⟩ Şemarya'yı ve ⟨את⟩ Zaham'ı.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeuş"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeuş'u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şemarya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Şemarya'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham'ı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:16.840934698Z",
+  "model": "glm-5.3"
+}

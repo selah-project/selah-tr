@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 120,
+  "translation": "Bana yazık ⟨olsun⟩, çünkü Meşek'te konuk kaldım, Kedar'ın çadırlarıyla ⟨birlikte⟩ oturdum.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "yazık"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "konuk kaldım"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meşek'te"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "oturdum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨birlikte⟩"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "çadırlarıyla"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.103884156Z",
+  "model": "glm-5.3"
+}

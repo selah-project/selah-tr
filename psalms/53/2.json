@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Ahlaksız dense kalbinde ⟨dedi⟩: \"Elohim yok.\" Bozuldular, iğrençleştiler ⟩adaletsizlik⟨ ⟨yaptılar⟩; iyilik yapan yoktur.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ahlaksız (navel)"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "kalbinde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "bozuldular"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ve iğrençleştiler"
+    },
+    {
+      "surface": "עול",
+      "gloss": "adaletsizlik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:43.838225554Z",
+  "model": "glm-5.3"
+}

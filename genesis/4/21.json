@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kardeşinin adı Yuval'dı; o, çenk ve ugav çalan herkesin babası ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yuval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babası"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkesin"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "çalan"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "çenk"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ve ugav"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:40.994368289Z",
+  "model": "glm-5.3"
+}

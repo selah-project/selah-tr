@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Yahve Elohim insanı ⟨את⟩ aldı ve onu Aden bahçesine yerleştirdi, onu işlemesi ve onu koruması için.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ve onu yerleştirdi"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "bahçesine"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Aden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "onu işlemesi için"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ve onu koruması için"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:18.245010490Z",
+  "model": "glm-5.3"
+}

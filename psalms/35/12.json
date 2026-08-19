@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Bana iyilik karşılığında kötülük öderler — nefsimin yıkımı ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "bana öderler"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılığında"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "yıkım (evlatsız kalma)"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefsimin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:41.485392246Z",
+  "model": "glm-5.3"
+}

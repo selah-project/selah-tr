@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Duy, ey halkım, ve sana tanıklık edeceğim; ey Yisrael, eğer bana kulak verirsen!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Duy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ey halkım"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ve tanıklık edeceğim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kulak verirsen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:02.168436643Z",
+  "model": "glm-5.3"
+}

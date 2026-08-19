@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Kral böyle yapılmasını söyledi; Şuşan'da ferman verildi ve Haman'ın on oğlu ⟨את⟩ asıldı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "yapılması"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "verildi"
+    },
+    {
+      "surface": "דת",
+      "gloss": "ferman"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Şuşan'da"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haman'ın on oğlu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman'ın"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "asıldılar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:01.545288599Z",
+  "model": "glm-5.3"
+}

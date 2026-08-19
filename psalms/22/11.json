@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Sana bırakıldım ⟨⟩ rahimden; annemin rahminden beri El'im sensin.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "bırakıldım"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "rahimden"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "rahimden"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annemin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El'im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:56.966989391Z",
+  "model": "glm-5.3"
+}

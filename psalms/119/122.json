@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kulun için iyi olana kefil ol; kibirliler beni ezmesin.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "kefil ol"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "iyi olana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "beni ezmesin"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "kibirliler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:47.655403503Z",
+  "model": "glm-5.3"
+}

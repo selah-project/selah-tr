@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve bütün halk ayağa kalktı tek bir adam gibi, diyerek: Gitmeyeceğiz hiçbirimiz çadırına, ve dönmeyeceğiz hiçbirimiz evine.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "bir adam gibi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "gitmeyeceğiz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiçbirimiz\/adam"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "çadırına"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "dönmeyeceğiz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiçbirimiz\/adam"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "evine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:19:27.039029810Z",
+  "model": "glm-5.3"
+}

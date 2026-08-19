@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ta ki İsrail beytinin ⟨את⟩ kendi kalplerinde yakalayayım — ki onlar putlarıyla hepsi benden uzaklaştılar.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "yakalayayım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail beyti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beyt (ev\/hanedan)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "kendi kalplerinde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "uzaklaştılar"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "benden"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "putlarıyla"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:26:27.599516023Z",
+  "model": "glm-5.3"
+}

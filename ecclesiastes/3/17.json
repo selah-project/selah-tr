@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kendi içimde dedim ki: Elohim ⟨את⟩ doğruyu ve ⟨את⟩ kötüyü yargılayacak, çünkü her isteğin ve her işin ⟨bir⟩ zamanı orada ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "içimde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doğru"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kötü"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "yargılayacak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zaman"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "isteğin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "işin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:05.731278139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve akıntısındaki kirliliği şu ⟨olacak⟩: bedeni akıntısıyla ⟨את⟩ akaca ya da bedeni akıntısından tıkanacak — kirliliği odur.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ve şu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "kirliliği"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "akıntısında"
+    },
+    {
+      "surface": "רר",
+      "gloss": "akacak"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bedeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akıntısı"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "akıntısı"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "tıkanacak"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bedeni"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "akıntısından"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "kirliliği"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:18.952054145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Eğer tüzüklerimi çiğnerler ve buyruklarımı korumazlarsa,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "tüzüklerimi"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "çiğnerlerse"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ve buyruklarımı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "korurlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:21.882045693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Betuel, ⟨את⟩ Rivka'yı doğurdu. Sekiz — bunları Milka, Nahor'a, Avraham'ın kardeşine, doğurdu.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "ve Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka'yı"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "sekiz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Nahor'a"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:48.024751395Z",
+  "model": "glm-5.3"
+}

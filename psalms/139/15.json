@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Gizli değildi kemiğim senden, ne zaman ki yapıldım gizli yerde, işlendim yerin en derinlerinde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değildi"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "gizli"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kemiğim\/bedenim"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne zaman ki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yapıldım"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizli yerde"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "işlendim\/nakışlandıım"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "en derinlerinde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:33.264789781Z",
+  "model": "glm-5.3"
+}

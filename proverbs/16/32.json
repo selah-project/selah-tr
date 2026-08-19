@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Öfkede yavaş olan ⟨kişi⟩ kahramandan ⟨daha⟩ iyidir; ruhuna hükmeden, ⟨kendisine⟩ şehir alan ⟨kişiden⟩ ⟨daha⟩ iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "yavaş"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "öfkede"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "kahramandan"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ve hükmeden"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruhuna"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "alandan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:25.591628394Z",
+  "model": "glm-5.3"
+}

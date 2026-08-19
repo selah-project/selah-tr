@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Ve ḥesedinde düşmanlarımı kesip yok et, canıma sıkıntı verenlerin hepsini helak et; çünkü ben senin kulunum.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "ve ḥesedinde"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "kesip yok et"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarımı"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ve helak et"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsini"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "sıkıntı verenlerimin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "senin kulunum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:22.308843339Z",
+  "model": "glm-5.3"
+}

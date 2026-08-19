@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "Çünkü her sıkıntıdan beni kurtardı, ve düşmanlarım üzerine gözüm baktı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her ... dan"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "beni kurtardı"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ve düşmanlarım üzerinde"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "baktı"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:28.187692701Z",
+  "model": "glm-5.3"
+}

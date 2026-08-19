@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Gündüz ve gece onun surları üzerinde dolaşırlar; bozgunculuk ve yıkım ⟨var⟩ onun ortasında.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ve gece"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "dolaşırlar onu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "surları"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ve bozgunculuk"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ve yıkım"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ortasında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:58.109529748Z",
+  "model": "glm-5.3"
+}

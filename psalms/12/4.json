@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kesip atsın Yahve bütün yalancı dudakları, büyük şeyler konuşan dili.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "kesip atsın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudakları"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "yalancı"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "konuşan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "büyük şeyler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:35.667367365Z",
+  "model": "glm-5.3"
+}

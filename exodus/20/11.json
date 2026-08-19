@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Çünkü altı günde Yahve ⟨את⟩ gökleri ve ⟨את⟩ yeri, ⟨את⟩ denizi ve ⟨את⟩ onların içindeki her şeyi yaptı; yedinci günde dinlendi. Bu nedenle Yahve ⟨את⟩ Şabbat gününü kutsadı ve onu kutsal kıldı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gökleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların içinde"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ve dinlendi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kutsadı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabbat gününü"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabbat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "ve onu kutsal kıldı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:43.781430503Z",
+  "model": "glm-5.3"
+}

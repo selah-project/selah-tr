@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Sözün ayaklarım için kandil, ve yolum için ışıktır.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ayaklarım için"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözün"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ve ışık"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "yolum için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:17.542956552Z",
+  "model": "glm-5.3"
+}

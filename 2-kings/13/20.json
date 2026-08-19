@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Elişa öldü ve onu gömdüler. Ve Moav akıncı birlikleri yılın girişinde ülkeye girerdi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ve öldü"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ve onu gömdüler"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "Ve akıncı birlikleri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girerdi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkeye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "girişinde"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yılın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:20.697048823Z",
+  "model": "glm-5.3"
+}

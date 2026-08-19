@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Çünkü ayakları kötülüğe koşar ve kan dökmeye acele ederler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ayakları"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kötülüğe"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "koşar"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "acele ederler"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "dökmeye"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:52.732693143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 137,
+  "translation": "Ey Babil kızı, yağmalanmış olan, ne mutlu sana karşılığını ödeyene — ⟨את⟩ o karşılığı ki sen bize ettin.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ey Babil"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "yağmalanmış olan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ödemesi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karşılığını"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "karşılığını"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "sen ettin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:45.611629292Z",
+  "model": "glm-5.3"
+}

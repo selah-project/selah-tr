@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Yehonatan bir ahit kesti David'le ⟨את⟩ — onu kendi nefesi gibi sevdiğinden.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ve kesti"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ve David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahit"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sevdiğinden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "kendi nefesi gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:09.873724650Z",
+  "model": "glm-5.3"
+}

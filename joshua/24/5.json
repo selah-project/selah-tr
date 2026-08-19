@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve ⟨את⟩ Moşe'yi ve ⟨את⟩ Aharon'u gönderdim, ve ⟨את⟩ Mitsrayim'i vurdum — onun ortasında yaptığım gibi; ve ardından ⟨את⟩ sizi çıkardım.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ve gönderdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe'yi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ve vurdum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptığım"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "onun ortasında"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ve ardından"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "çıkardım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:00.531167059Z",
+  "model": "glm-5.3"
+}

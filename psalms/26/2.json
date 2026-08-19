@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Beni sına, Yahve, ve beni dene; böbreklerimi eritip arıt, ve kalbimi.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "beni sına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ve beni dene"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "eritilip arıtılmalı"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "böbreklerim"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ve kalbim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:23.427788978Z",
+  "model": "glm-5.3"
+}

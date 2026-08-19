@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Ve ruhum üzerime çöktü, içimde kalbim şaşkına döndü.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "çöktü"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "içimde"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "şaşkına döndü"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:48.896902296Z",
+  "model": "glm-5.3"
+}

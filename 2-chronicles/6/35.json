@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "göklerden dualarını ve ⟨את⟩ yalvarışlarını işit ve ⟨את⟩ haklarını yerine getir.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ve işit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dualarını"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "dualarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yalvarışlarını"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "yalvarışlarını"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "haklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:03:39.183518984Z",
+  "model": "glm-5.3"
+}

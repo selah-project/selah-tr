@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Kötüler — düşmanlarım ve bana karşı olanlar — ⟨את⟩ etimi yemek üzere yaklaşıp üzerime gelince, onlar sendelediler ve düştüler.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "gelince"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemek üzere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etimi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "etimi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ve bana karşı olanlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "sendelediler"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ve düştüler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:51.627430061Z",
+  "model": "glm-5.3"
+}

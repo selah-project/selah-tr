@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Mizmor, David'e ait. Yahve, çadırında kim konuk kalacak? Kutsal dağında kim oturacak?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e ait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "konuk kalacak"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "çadırında"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "oturacak"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kutsal (dağın)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:02.372258327Z",
+  "model": "glm-5.3"
+}

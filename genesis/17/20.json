@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Yişmael'e gelince: seni duydum; işte onu kutsadım, onu bereketlendireceğim, onu son derece çoğaltacağım; on iki bey doğuracak, ve onu büyük bir millet yapacağım.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "Yişmael'e gelince"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "seni duydum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "kutsadım"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "bereketlendireceğim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "çoğaltacağım"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "son derece"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "derece"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "on iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(on)+iki"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "bey"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "doğuracak"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "ve yapacağım onu"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bir millet"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:35.014118016Z",
+  "model": "glm-5.3"
+}

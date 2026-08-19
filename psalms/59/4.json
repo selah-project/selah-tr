@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Çünkü bak, canım için pusuya yattılar; güçlüler bana karşı toplanıyorlar — benim isyanım ⟨değil⟩, benim günahım ⟨değil⟩, Yahve!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "pusuya yattılar"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canım için"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "toplanıyorlar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "güçlüler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "benim isyanım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "benim günahım"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:51.858634579Z",
+  "model": "glm-5.3"
+}

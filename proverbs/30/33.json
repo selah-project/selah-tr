@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Çünkü sütün sıkılması tereyağını çıkarır, burnun sıkılması kanı çıkarır ve öfkenin sıkılması kavgayı çıkarır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "sıkma"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "süt"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıkarır"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "tereyağı"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ve sıkma"
+    },
+    {
+      "surface": "אף",
+      "gloss": "burun"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıkarır"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ve sıkma"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "öfke (burunlar)"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıkarır"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kavga"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:41.579331378Z",
+  "model": "glm-5.3"
+}

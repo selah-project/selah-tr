@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Yalnızca kibir kavga verir, ama ⟨את⟩ danışanlarla ⟨birliktedir⟩ bilgelik.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnızca"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "kibir"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "kavga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "danışanlar"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "danışanlar"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bilgelik"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:35.383894297Z",
+  "model": "glm-5.3"
+}

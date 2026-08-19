@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Gökler sevine, yer coşsun; deniz ve onun doluluğu gürlesin.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "sevine"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ve coşsun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "gürlesin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ve doluluğu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:33.874313474Z",
+  "model": "glm-5.3"
+}

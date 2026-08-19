@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Çünkü sen bizi çakallar ⟨⟩ yerine ezdin ve üzerimizi ölüm gölgesiyle örttün.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "bizi ezdin"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "çakallar"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ve örttün"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimizi"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ölüm gölgesiyle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:02.368236466Z",
+  "model": "glm-5.3"
+}

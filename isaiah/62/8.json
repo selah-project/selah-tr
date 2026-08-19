@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Yahve sağ eliyle ve güçlü koluyla yemin etti: Düşmanlarına yiyecek olarak tahılını ⟨את⟩ bir daha vermeyeceğim, ve yabancı oğulları, uğrunda emek verdiğin şıranı içmeyecek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "yemin etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "sağ eliyle"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ve koluyla"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-eceğim"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahılını"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "tahılını"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "düşmanlarına"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve -ecek"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "içmeyecek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "şıranı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "emek verdiğin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun uğrunda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:04:37.916536566Z",
+  "model": "glm-5.3"
+}

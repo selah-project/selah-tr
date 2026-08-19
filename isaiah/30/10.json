@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Görenlere dediler ki: Görmeyin; öngörenlere de: Bize doğru şeyler öngörmeyin, bize tatlı şeyler söyleyin, bize yanılsamalar öngörün.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "görenlere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "görmeyin"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "ve öngörenlere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "öngörmeyin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "doğru şeyler"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "tatlı (yumuşak) şeyler"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "öngörün"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "yanılsamalar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:31.790346812Z",
+  "model": "glm-5.3"
+}

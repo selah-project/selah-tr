@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve şimdi, işte, Yisrael oğullarının çığlığı bana geldi; ve Miṣrayim'in ⟨את⟩ onları ezdiği baskıyı da ⟨את⟩ gördüm.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "çığlığı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ... de"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baskıyı"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "baskıyı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "eziyor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:08.883325448Z",
+  "model": "glm-5.3"
+}

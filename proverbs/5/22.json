@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Onun suçları yakalar ⟨את⟩ kötüyü, ve kendi günahının ipleriyle tutulur ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "onun suçları"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "yakalar onu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötüyü"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "ve ipleriyle"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "onun günahı"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "tutulur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:40.334790045Z",
+  "model": "glm-5.3"
+}

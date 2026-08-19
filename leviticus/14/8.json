@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve arıtılacak olan ⟨את⟩ giysilerini yıkayacak ve ⟨את⟩ bütün saçını tıraş edecek ve suda yıkanacak ve temiz olacak; ve sonra ordugâha girecek ve çadırının dışında yedi gün oturacak.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "ve yıkayacak"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "arıtılacak olan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giysilerini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "ve tıraş edecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün saçını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "saçını"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ve yıkanacak"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ve temiz olacak"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ve sonra"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "girecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ordugâhın"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve oturacak"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışında"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:29.717789445Z",
+  "model": "glm-5.3"
+}

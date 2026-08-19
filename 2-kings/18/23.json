@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve şimdi, lütfen efendimle ⟨את⟩, Aşur kralıyla ⟨את⟩ anlaşmaya gir de sana iki bin at vereyim — onlara binecek atlılar koyabiliyorsan kendin için!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "anlaşmaya gir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efendimle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralıyla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ve vereyim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki bin"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "at"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "koyabiliyorsan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "koymaya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendin için"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "atlılar"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:49:06.797284286Z",
+  "model": "glm-5.3"
+}

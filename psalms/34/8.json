@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yahve'nin malakı O'ndan korkanların çevresine konaklar ve onları kurtarır.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "konaklar"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresine"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "O'ndan korkanların"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "ve onları kurtarır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:52.191957277Z",
+  "model": "glm-5.3"
+}

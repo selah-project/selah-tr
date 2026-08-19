@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve Şaul Şemuël'e dedi: «⟨Evet⟩, dinledim Yahve'nin sözünü ve gittim yolda ki Yahve beni gönderdi, ve getirdim ⟨את⟩ Agag'ı, Amalek kralını, ve ⟨את⟩ Amalek'i herem ettim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dinledim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "söze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ve gittim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "beni gönderdiği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "ve getirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag'ı"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag'ı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek'in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Amalek'i"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek'i"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "herem ettim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:56.838362325Z",
+  "model": "glm-5.3"
+}

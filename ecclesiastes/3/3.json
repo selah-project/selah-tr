@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Öldürmek ⟨için⟩ vakit, ve iyileştirmek ⟨için⟩ vakit; yıkmak ⟨için⟩ vakit, ve inşa etmek ⟨için⟩ vakit.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vakit"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "öldürmek için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve vakit"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "iyileştirmek için"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vakit"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "yıkmak için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve vakit"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "inşa etmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:57.146336457Z",
+  "model": "glm-5.3"
+}

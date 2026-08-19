@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Günlerim uzanmış gölge gibidir ve ben ot gibi kurudum.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "günlerim"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "gölge gibi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "uzanmış (eğilmiş)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ot gibi"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "kurudum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:20.435420447Z",
+  "model": "glm-5.3"
+}

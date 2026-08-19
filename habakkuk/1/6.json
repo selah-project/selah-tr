@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Çünkü işte, Kasdim'i diriltiyorum ⟨את⟩ — o acı ve tez canlı ulusu; yeryüzünün genişliklerine yürüyen, kendisine ait olmayan konutları mülk edinen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "diriltiyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kasdim'i"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim'i"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ulusu"
+    },
+    {
+      "surface": "המר",
+      "gloss": "acı"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "ve tez canlı"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "genişliklerine"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mülk edinmek için"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "konutları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine ait"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:44.655460069Z",
+  "model": "glm-5.3"
+}

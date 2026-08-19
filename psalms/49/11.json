@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Çünkü bilgede ⟨o⟩ görür: ölürler; akılsız ve hayvan gibi birlikte yok olurlar ve servetlerini başkalarına bırakırlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bilgede"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ölürler"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "akılsız"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ve hayvan gibi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yok olurlar"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ve bırakırlar"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "başkalarına"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "servetlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:37.849944757Z",
+  "model": "glm-5.3"
+}

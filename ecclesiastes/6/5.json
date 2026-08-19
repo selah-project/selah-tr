@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Güneşi bile görmedi ve bilmedi; ⟨bu⟩ şundan ⟨daha⟩ huzurludur.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "görmedi (olumsuzluk)"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve bilmedi (olumsuzluk)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmedi"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "huzur\/dinlenme"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "buna"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "şundan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:06.677311485Z",
+  "model": "glm-5.3"
+}

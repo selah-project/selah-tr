@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 36:15",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ona dediler: \"Lütfen otur ve ⟨onu⟩ kulaklarımıza oku.\" Ve Baruh onların kulaklarına okudu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שב",
+      "gloss": "otur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "וקראנה",
+      "gloss": "ve oku"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "kulaklarımıza"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve okudu"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruh"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "onların kulaklarına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:17:47.033551769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yoav Davut'a ulaklar gönderdi ve dedi: Rabbat'a karşı savaştım, hatta ⟨את⟩ sular şehrini de ele geçirdim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ulaklar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "savaştım"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "Rabbat'a karşı"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatta"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "ele geçirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sular şehrini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:51.379901105Z",
+  "model": "glm-5.3"
+}

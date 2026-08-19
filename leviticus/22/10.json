@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve hiçbir yabancı kutsal şeyden yemeyecek; kâhinin misafiri ve ücretli işçisi kutsal şeyden yemeyecek.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve hiçbir"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-meyecek"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yemeyecek"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal şey"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "misafiri\/oturanı"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhinin"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ve ücretli işçisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-meyecek"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yemeyecek"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal şey"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:42.289695111Z",
+  "model": "glm-5.3"
+}

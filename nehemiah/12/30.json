@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kohanim ve Leviyiler arındılar; ⟨את⟩ halkı, ⟨את⟩ kapıları ve ⟨את⟩ surları arındırdılar.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "arındılar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Kohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ve Leviyiler"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "arındırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kapıları"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "kapıları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "surları"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "surları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:01.993902692Z",
+  "model": "glm-5.3"
+}

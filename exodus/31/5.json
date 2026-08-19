@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Taşı işlemek ve taşlamak için, ve ağacı işlemek için her çeşit işi yapmak üzere.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "ve işlemek"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "taş"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "taşlamak için"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "ve işlemek"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:16.312138041Z",
+  "model": "glm-5.3"
+}

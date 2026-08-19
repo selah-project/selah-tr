@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 82,
+  "translation": "Ne zamana kadar haksızlık mı hükmedeceksiniz, ve kötülerin ⟨yüzünü⟩ mü yüksekteceksiniz? Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ne zamana kadar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ne zamana kadar"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "hükmedeceksiniz"
+    },
+    {
+      "surface": "עול",
+      "gloss": "haksızlığı"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ve yüzünü"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "yüksekteceksiniz"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:13.897554834Z",
+  "model": "glm-5.3"
+}

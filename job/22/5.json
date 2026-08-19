@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Kötülüğün ⟨değil mi⟩ büyük ⟨değil mi⟩, ve suçlarının ⟨bir⟩ sonu ⟨yok⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "kötülüğün"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "suçlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:47.355009299Z",
+  "model": "glm-5.3"
+}

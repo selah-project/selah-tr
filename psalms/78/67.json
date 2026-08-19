@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve Yoşef'in çadırını reddetti, Efrayim oymağını seçmedi.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "reddetti"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırını"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoşef'in"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "oymağını"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil \/ -medi"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "seçti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:14.274423519Z",
+  "model": "glm-5.3"
+}

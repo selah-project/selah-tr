@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Ruhu çıkar, toprağına döner; o günde tasarıları yok olur.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "döner"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "toprağına"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "yok olur"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "tasarıları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:47.354625949Z",
+  "model": "glm-5.3"
+}

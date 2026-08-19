@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve ⟨את⟩ Yeruşalayim'in çevresindeki surları yıktı — Kasdim'in bütün gücü, ki o muhafız şefinin yanındaydı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "surları"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "surları"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "yıktı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gücü"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "şef"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "muhafızlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:57.769048672Z",
+  "model": "glm-5.3"
+}

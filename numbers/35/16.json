@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve eğer demir alet ile vurdu onu ve öldü — katildir o; öldürülecektir ⟨the⟩ katil.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "alet ile"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "vurdu onu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "katil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölmek"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "⟨the⟩ katil"
+    }
+  ],
+  "timestamp": "2026-08-19T07:43:38.268894808Z",
+  "model": "glm-5.3"
+}

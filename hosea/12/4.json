@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Rahimde kardeşinin ⟨את⟩ topuğundan tuttu, ve gücüyle Elohim'in ⟨את⟩ ile güreşti.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "rahimde"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "topuğundan tuttu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşini"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ve gücüyle"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "güreşti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:51.313047774Z",
+  "model": "glm-5.3"
+}

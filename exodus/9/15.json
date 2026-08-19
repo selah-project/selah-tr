@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü şimdi ⟨את⟩ elimi uzatmış olsaydım ⟨את⟩ seni ve ⟨את⟩ halkını vebayla vururdum, ve yeryüzünden silinmiştin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "uzattım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elim"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "ve seni"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ seni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "halkını"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "vebayla"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "ve silinirdin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:43.806219387Z",
+  "model": "glm-5.3"
+}

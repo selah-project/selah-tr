@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve ⟨את⟩ sofrayı ve ⟨את⟩ eşyasını, ve ⟨את⟩ temiz Menora'yı ve ⟨את⟩ bütün eşyasını, ve ⟨את⟩ buhur Sunağı'nı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sofra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "sofra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "eşyasını"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "eşyasını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün eşyasını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "eşyasını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "buhur Sunağı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "Sunağı"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "buhur"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:16.312671721Z",
+  "model": "glm-5.3"
+}

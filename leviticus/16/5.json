@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "İsrail oğullarının topluluğundan ⟨את⟩ iki teke keçiyi günah sunusu için ve bir koçu yakmalık sunu için alacak.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "ve ⟨את⟩ ... -den",
+      "marks": "topluğun"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "topluluğu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alacak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "teke"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah sunusu için"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ve bir koç"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yakmalık sunu için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:47.438079104Z",
+  "model": "glm-5.3"
+}

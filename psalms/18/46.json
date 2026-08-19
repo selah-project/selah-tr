@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Yabancıların oğulları solup erir ve siperlerinden titreyerek çıkarlar.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancıların"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "solup erirler"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "ve titreyerek çıkarlar"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "siperlerinden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:03.804269739Z",
+  "model": "glm-5.3"
+}

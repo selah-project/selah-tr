@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Babaları onlara sordu: Hangi yoldan gitti? Ve oğulları, Yahuda'dan gelen Elohim adamının gittiği yolu gördüler.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "babaları"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ve gördüler"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yolu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gittiği"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelen"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yahuda'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:21.860313395Z",
+  "model": "glm-5.3"
+}

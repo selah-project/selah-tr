@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 18:4",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve çömlekçinin elinde çamurdan yapmakta olduğu kap bozuldu; ve o yine dönüp onu, çömlekçinin gözünde doğru göründüğü gibi başka bir kap olarak yaptı.",
+  "tokens": [
+    {
+      "surface": "ונשחת",
+      "gloss": "ve bozuldu"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "kap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmakta olduğu"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "çamurdan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "çömlekçi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ve dönüp"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "onu yaptı"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kap"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "doğru göründü"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "çömlekçi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:10:07.185675251Z",
+  "model": "glm-5.3"
+}

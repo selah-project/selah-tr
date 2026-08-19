@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bu nedenle kötüler yargıda ayakta kalamayacak, günahkârlar da doğrular topluluğunda ⟨olmayacaklar⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "bu nedenle (birleşik: 'bundan ötürü')"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-dır\/bu nedenle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil \/ -mayacak"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "kalkamayacak \/ ayakta kalamayacak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "yargıda"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "günahkârlar da"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "topluluğunda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "doğruların"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:46.929758076Z",
+  "model": "glm-5.3"
+}

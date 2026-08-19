@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kötüyü aklayan ve doğruyu suçlayan — Yahve'nin iğrençliği, ikisi de öylece.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "aklayan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "ve suçlayan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğruyu"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "iğrençliği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ikisi de \/ öylece"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:38.974220060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve ⟨eğer⟩ bu söz gerçek ⟨olmuşsa⟩ — kızda bekâret kanıtı bulunamadıysa —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gerçek"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olmuşsa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "bulunamadıysa"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "bekâret kanıtı"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "kızda"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:39.251222754Z",
+  "model": "glm-5.3"
+}

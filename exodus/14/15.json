@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Yahve Moşe'ye dedi: Bana neden haykırıyorsun? İsrail oğullarına söyle, yola çıksınlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "haykırıyorsun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "yola çıksınlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:52.452985136Z",
+  "model": "glm-5.3"
+}

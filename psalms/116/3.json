@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Çevrelediler beni ölümün bağları, ve Şeol'un darlıkları buldular beni; sıkıntı ve keder buldum.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "çevrelediler beni"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "bağları"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümün"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ve darlıkları"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol'un"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "buldular beni"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ve keder"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "buldum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:07.657506355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Başımızın tacı düştü — vay bize! Çünkü günah işledik.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "tacı"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "başımızın"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi\/ah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "günah işledik"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:37.107708398Z",
+  "model": "glm-5.3"
+}

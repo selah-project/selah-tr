@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 8:53",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Çünkü ⟨sen⟩ onları kendine, yerin bütün halklarından ⟨ bir ⟩ miras olarak ayırdın, kulun Moşe'nin eliyle konuştuğun gibi, atalarımızı Mısır'dan çıkardığında, ey Adonay Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הבדלתם",
+      "gloss": "ayırdın"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "miras olarak"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... dan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkları"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "konuştuğun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eliyle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'nin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "çıkardığında"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarımızı"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımızı"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:01.565360438Z",
+  "model": "glm-5.3"
+}

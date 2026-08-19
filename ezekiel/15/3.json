@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ondan bir iş yapmak için odun alınır mı? Ondan herhangi bir alet asılacak bir çivi alınır mı?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "alınır mı"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "odun"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "bir işe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "alırlar mı"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "çivi"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "asmak için"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herhangi bir"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "alet"
+    }
+  ],
+  "timestamp": "2026-08-19T10:25:32.362431930Z",
+  "model": "glm-5.3"
+}

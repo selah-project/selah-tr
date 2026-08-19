@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kötülüğü yaptı, çünkü kalbini Yahve'yi ⟨את⟩ aramaya hazırlamadı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-madı"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hazırlamadı"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbini"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "aramaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:38.107197838Z",
+  "model": "glm-5.3"
+}

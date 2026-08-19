@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Onları senin yüz-zamanında, ya Yahve, öfkenle yutacak; onları ateş yakacak gibi fırın-ateşine koyacaksın.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "onları koyacaksın"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "fırın gibi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "senin yüzünün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "öfkesinde"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "onları yutacak"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ve onları yiyecek"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:53.501195694Z",
+  "model": "glm-5.3"
+}

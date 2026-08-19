@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Kim biçim verdi bir El'e, bir dökme put ki hiçbir işe yaramasın?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "biçim verdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ve oyma put"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "dökülmüş"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "-maması için"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "işe yaraması"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:54.811835782Z",
+  "model": "glm-5.3"
+}

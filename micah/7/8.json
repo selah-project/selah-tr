@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Sevinme bana, ey düşmanım! ⟨çünkü⟩ düştüm ama kalktım; karanlıkta oturduğumda Yahve ⟨bana⟩ ışık olacak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sevinme"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "sevinme"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "ey düşmanım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨çünkü⟩"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "düştüm"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "kalktım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨çünkü⟩"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "oturduğumda"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:21.530907284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "İsrail, Yahve'ye güven; onların yardımı ve kalkanı ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "güven"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "onların yardımı"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ve kalkanları"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:44.492340045Z",
+  "model": "glm-5.3"
+}

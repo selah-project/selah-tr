@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Yılan, büyü yapılmadan ısırırsa, dil ustasının hiçbir yararı yoktur.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ısırırsa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "yılan"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "yapılmadan"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "büyü"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "yararı"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ustasının"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:49.745430042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve tapınağın girişi için de böylece zeytin ağacından kapı söveleri yaptı — ⟨את⟩ duvarın dörtte birinde.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ve böylece"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "girişi için"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tapınağın"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "kapı söveleri"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zeytin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "duvarın dördü birinci"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "dörtte biri"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:32.705031571Z",
+  "model": "glm-5.3"
+}

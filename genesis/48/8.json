@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "İsrail de Yosef'in oğullarına ⟨את⟩ baktı ve \"Bunlar kim?\" dedi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "baktı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'in oğullarına"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:01.227306071Z",
+  "model": "glm-5.3"
+}

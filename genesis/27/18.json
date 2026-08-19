@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Babasının yanına geldi ve dedi: Babacığım. O da dedi: İşte buradayım; sen kimsin, oğlum?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Babacığım"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte buradayım"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:52.263235598Z",
+  "model": "glm-5.3"
+}

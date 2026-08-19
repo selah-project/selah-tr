@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Bulut ve karanlık ⟨onun⟩ çevresinde, sedep ve mişpat ⟨onun⟩ tahtının temeli.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ve karanlık"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sedep (doğruluk)"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ve mişpat (yargı)"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "temeli"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tahtının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.760225920Z",
+  "model": "glm-5.3"
+}

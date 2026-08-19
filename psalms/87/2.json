@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 87,
+  "translation": "Yahve, Zion'un kapılarını sever, Yaakov'un bütün konutlarından ⟨daha çok⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "sever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "kapılarını"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün... dan ⟨daha çok⟩"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "konutları"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:19.515256867Z",
+  "model": "glm-5.3"
+}

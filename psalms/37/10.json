@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve biraz daha — kötü yok; onun yerine bakarsın, o da yoktur.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ve daha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "biraz"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ve bakarsın"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "onun yerine"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "o da yoktur"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:00.875834878Z",
+  "model": "glm-5.3"
+}

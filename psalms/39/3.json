@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Sustum, dilsiz kaldım; iyi olandan bile sessiz durdum ve acım kışkırtıldı.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "dilsiz kaldım"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sessizce"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "susmuştum"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "iyi oandan bile"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ve acım"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "kışkırtıldı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:50.865931961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Lavan ⟨את⟩ o yerin tüm adamlarını topladı ve bir şölen yaptı.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm adamları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarını"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "şölen"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:43.857506074Z",
+  "model": "glm-5.3"
+}

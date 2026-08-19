@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve Yahve Yaakov'e dedi: \"Atalarının toprakına ve doğduğun yere dön; ve ben seninle olacağım.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e (kime)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'e"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "dön"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e (nereye)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprağa"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "atarının"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ve doğduğun yere"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ve olacağım"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:17.736849283Z",
+  "model": "glm-5.3"
+}

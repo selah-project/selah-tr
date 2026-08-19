@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "ve senin doğruluğunu ışık gibi, senin hakkını öğlen gibi ortaya çıkaracak.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ve ortaya çıkaracak"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "ışık gibi"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "senin doğruluğunu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ve senin hakkını"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "öğlen gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:09.682482152Z",
+  "model": "glm-5.3"
+}

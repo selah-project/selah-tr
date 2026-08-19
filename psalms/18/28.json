@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Çünkü sen ezik halkı kurtarırsın, ve kibirli gözleri alçaltırsın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezik"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "kurtarırsın"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ve gözleri"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "kibirli\/yüceltilmiş"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "alçaltırsın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:25.770206477Z",
+  "model": "glm-5.3"
+}

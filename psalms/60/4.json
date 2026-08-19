@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Yeri sarsdın, onu yardı; çatlaklarını iyileştir, çünkü sarsılıyor.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "sarsdın"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "yardı"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "iyileştir"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "çatlaklarını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sarsılıyor"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:09.846183294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve bakireler ikinci kez toplandığında, Mordehay kralın kapısında oturuyordu.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "ve ... toplandığında"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bakireler"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci kez"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "ve Mordehay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturuyordu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kapısında"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:00.994232013Z",
+  "model": "glm-5.3"
+}

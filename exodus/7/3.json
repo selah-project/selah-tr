@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ben ise ⟨את⟩ Paro'nun yüreğini sertleştireceğim ve ⟨את⟩ belirtilerimi ve ⟨את⟩ harikalarımı Mıtsrayim ülkesinde çoğaltacağım.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "sertleştireceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro'nun yüreğini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ve çoğaltacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belirtilerimi"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "belirtilerimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "harikalarımı"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "harikalarımı"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:20.174717317Z",
+  "model": "glm-5.3"
+}

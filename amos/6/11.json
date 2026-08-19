@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 6:11",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü bakın, Yahve buyruk veriyor: büyük ev kırık dökük taşlara, küçük ev ise çatlaklara vurulacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "buyruk veriyor"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "vuracak"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "רסיסים",
+      "gloss": "kırık dökük taşlar"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ve ev"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "בקעים",
+      "gloss": "çatlaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:42:18.399387363Z",
+  "model": "glm-5.3"
+}

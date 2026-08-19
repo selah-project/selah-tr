@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Eskiyi yıllanmış olarak yiyeceksiniz ve yeni yüzünden eskiyi dışarı çıkaracaksınız.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "eskiyi"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "yıllanmış olarak"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ve eskiyi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "dışarı çıkaracaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:15.394676317Z",
+  "model": "glm-5.3"
+}

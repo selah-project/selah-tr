@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "İnsanı saf altından, ve ölümlüyü Ofir altınından daha kıymetli kılacağım.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "kıymetli kılacağım"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlüyü"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "saf altından"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ve insanı"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "altından"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:45.324245062Z",
+  "model": "glm-5.3"
+}

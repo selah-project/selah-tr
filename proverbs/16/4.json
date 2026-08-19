@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Bütün işleyeni kendi amacı için Yahve yaptı, kötüyü de kötü güne ⟨ ⟨yaptı⟩⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "işleyeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "kendi amacı için"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ... de"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "güne"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:20.077701305Z",
+  "model": "glm-5.3"
+}

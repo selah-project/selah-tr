@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Ve gökler O'nun doğruluğunu ilan ettiler, çünkü Elohim'in kendisi yargıçtır. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ve ilan ettiler"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "O'nun doğruluğunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "yargıçtır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:05.048244913Z",
+  "model": "glm-5.3"
+}

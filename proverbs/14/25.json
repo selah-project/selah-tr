@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Gerçeğin tanığı canları kurtarır, ama yalanları soluklayan ⟨hile⟩ doludur.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "kurtarır"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "canları"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanığı"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gerçeğin"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ama soluklayan"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "yalanları"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:49.048543126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Reu, Serug'u babası olduğu ⟨את⟩'ten sonra yedi yıl ve iki yüz yıl yaşadı; oğullar ve kızlar babası oldu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "babası olduğu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug'u"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ve iki yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ve kızlar"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:59.847501645Z",
+  "model": "glm-5.3"
+}

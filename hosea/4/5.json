@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve sen bugün sendeleyeceksin, ve peygamber de seninle birlikte gece sendeleyecek; ve ben anneni yok edeceğim.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "ve sen sendeleyeceksin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "ve sendeledi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "ve ben yok edeceğim"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anneni"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:29.135035888Z",
+  "model": "glm-5.3"
+}

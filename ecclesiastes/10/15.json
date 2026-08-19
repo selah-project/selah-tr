@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ahmakların emeği onları yorar, çünkü şehre gitmeyi bilmezler.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Emeği"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ahmakların"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "yorar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gitmeyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:00.718759444Z",
+  "model": "glm-5.3"
+}

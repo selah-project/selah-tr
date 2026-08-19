@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Nazirlere ⟨את⟩ şarap içirdiniz ve peygamberlere şöyle diye buyurdunuz: 'Peygamberlik etmeyin.'",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "içirdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazirlere"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nazirler"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şarap"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peygamberlerin"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "buyurdunuz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-me"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "peygamberlik edin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:50.134645849Z",
+  "model": "glm-5.3"
+}

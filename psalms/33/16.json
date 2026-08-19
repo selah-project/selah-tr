@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Kral, çok orduyla kurtarılmaz; güçlü kişi, çok kuvvetle kurtulamaz.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "kurtarılmaz"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "orduyla"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "güçlü kişi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "kurtulamaz"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuvvetle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:22.676698243Z",
+  "model": "glm-5.3"
+}

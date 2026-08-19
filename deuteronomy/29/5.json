@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ekmek yemediniz, şarap ve sert içki de içmediniz; bilmeniz için ki Ben Yahve, sizin Elohim'inim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yemediniz değil"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "yemediniz"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ve şarap"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ve sert içki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "de içmediniz değil"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "içmediniz"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "bilmeniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:15.387876682Z",
+  "model": "glm-5.3"
+}

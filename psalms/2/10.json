@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve şimdi, ey krallar, akıllı olun; ey yeryüzünün yargıçları, terbiye görün.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "krallar"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "akıllı olun"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "terbiye görün"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "yargıçları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:48.099760382Z",
+  "model": "glm-5.3"
+}

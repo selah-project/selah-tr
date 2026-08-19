@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 122,
+  "translation": "Yeruşalayim'in esenliğini dileyin; seni sevenler rahat bulsun.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "dileyin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "rahat bulsun"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "seni sevenlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:53.906034626Z",
+  "model": "glm-5.3"
+}

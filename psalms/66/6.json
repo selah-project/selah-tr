@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Denizi kuru toprağa çevirdi; nehirde yürüyerek geçtiler; orada O'nda sevindik.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denizi"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "kuru toprağa"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "nehirde"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "geçtiler"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "yürüyerek (ayakla)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "sevindik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "O'nda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:56.948714599Z",
+  "model": "glm-5.3"
+}

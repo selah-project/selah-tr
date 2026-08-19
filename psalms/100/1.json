@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 100,
+  "translation": "Şükran ilahi. Bütün yeryüzü Yahve'ye sevinç çığlığı atsın.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Şükran ilahi"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "şükran için"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "sevinç çığlığı atsın"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:22.902682107Z",
+  "model": "glm-5.3"
+}

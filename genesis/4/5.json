@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kayin'e ve onun sunusuna ise bakmadı; Kayin çok öfkelendi ve yüzü düştü.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ise (ona göre)"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin'e"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "onun sunusuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bakmadı (olumsuz)"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "bakmadı"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "öfkelendi"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ve düştü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:15.277954707Z",
+  "model": "glm-5.3"
+}

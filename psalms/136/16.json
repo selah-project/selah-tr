@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Halkını çölde yürütene — çünkü merhameti sonsuza dek sürer.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "yürütene"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "merhameti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:08.825416625Z",
+  "model": "glm-5.3"
+}

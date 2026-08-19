@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Ham — Kenan'ın babası — babasının çıplaklığını ⟨את⟩ gördü ve dışarıda iki kardeşine anlattı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babası"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan'ın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çıplaklığı"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ve anlattı"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşine"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "dışarıda"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:02.711820927Z",
+  "model": "glm-5.3"
+}

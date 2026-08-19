@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Ve bütün insan ⟨korktu⟩, Elohim'in işini bildirdiler ve O'nun yaptığını akıllıca anladılar.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ve korktular"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ve bildirdiler"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "işini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "ve O'nun yaptığını"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "akıllıca anladılar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:57.407394653Z",
+  "model": "glm-5.3"
+}

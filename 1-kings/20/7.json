@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 20:7",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "İsrail kralı ülkenin bütün ihtiyarlarını çağırdı ve dedi: Bilin, lütfen, ve görün; çünkü bu adam kötülük arıyor — çünkü kadınlarım için, oğullarım için, gümüşüm için ve altınım için bana gönderdi ve ben ondan esirgemedim.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ihtiyarlarına"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דעו",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ve görün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "arıyor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לנשי",
+      "gloss": "kadınlarım için"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "ve oğullarım için"
+    },
+    {
+      "surface": "ולכספי",
+      "gloss": "ve gümüşüm için"
+    },
+    {
+      "surface": "ולזהבי",
+      "gloss": "ve altınım için"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "esirgemedim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:29.470799219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Kim ölçtü Yahve'nin Ruhu'nu ⟨את⟩, ve hangi adam O'na danışını bildirdi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ölçtü\/dengeledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin Ruhu'nu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואישׁ",
+      "gloss": "ve hangi adam"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "O'nun danışını"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "O'na bildirdi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:22.545255939Z",
+  "model": "glm-5.3"
+}

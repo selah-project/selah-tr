@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Halkın geri kalanını ⟨את⟩ ise kardeşi Avişay'ın eline verdi; o da Ammon oğullarına karşı dizildi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "halkın geri kalanını"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "geri kalanını"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eline"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avişay'ın"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "dizildi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:36.004080282Z",
+  "model": "glm-5.3"
+}

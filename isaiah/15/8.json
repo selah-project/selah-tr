@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Çünkü feryat Moav'ın ⟨את⟩ sınırını dolandı; Eğlayim'e dek onun haykırışı, Beer-Elim'de onun haykırışı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "dolandı"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "feryat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sınırını"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sınır"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav'ın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eğlayim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "onun haykırışı"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ve Beer-"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "onun haykırışı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:32.482888799Z",
+  "model": "glm-5.3"
+}

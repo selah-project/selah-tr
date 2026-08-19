@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Kayalıkta atlar mı koşar? Öküzlerle orada sürülür mü? — çünkü siz yargıyı zehire, doğruluğun meyvesini pelin otuna çevirdiniz.",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "koşar mı"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "kayalıkta"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "atlar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "sürülür"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "öküzlerle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "çevirdiniz"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "zehire"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "yargıyı"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ve meyvesini"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "doğruluğun"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "pelin otuna"
+    }
+  ],
+  "timestamp": "2026-08-19T10:42:18.399550562Z",
+  "model": "glm-5.3"
+}

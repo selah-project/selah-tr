@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve eğer yanında ⟨את⟩ yabancı bir misafir konuk olursa seninle ⟨את⟩, ülkenizde, onu ezmeyeceksiniz ⟨את⟩ onu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "konuk olursa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yanında"
+    },
+    {
+      "surface": "גר",
+      "gloss": "yabancı misafir"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ülkenizde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ezmeyeceksiniz değil"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ezmeyeceksiniz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:55.122676629Z",
+  "model": "glm-5.3"
+}

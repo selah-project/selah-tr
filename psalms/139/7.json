@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Nereye gidebilirim ruhundan, ve nereye yüzünden kaçabilirim?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "nereye"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gideyim"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ruhundan"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ve nereye"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "kaçayım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:30.428268589Z",
+  "model": "glm-5.3"
+}

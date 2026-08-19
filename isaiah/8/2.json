@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve kendime güvenilir tanıklar edineceğim: Uriyah ⟨את⟩ koheni ve Zekaryah'u ⟨את⟩, Yeverekyahu'nun oğlu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "ve tanık kılacağım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "tanıklar"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "güvenilir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Zekaryahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekyahu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:29.271723982Z",
+  "model": "glm-5.3"
+}

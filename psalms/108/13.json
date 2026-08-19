@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Bize düşmandan yardım ver; çünkü insanın kurtuluşu boştur.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "yardım"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "düşmandan"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ve boştur"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "kurtuluşu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:15.272917050Z",
+  "model": "glm-5.3"
+}

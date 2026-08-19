@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Çünkü onların goel'i güçlüdür; ⟨o⟩ ⟨את⟩ davalarını seninle sürecektir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "onların goel'i"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "güçlüdür"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "sürecektir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "davalarını"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "davalarını"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "seninle ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:52.814620749Z",
+  "model": "glm-5.3"
+}

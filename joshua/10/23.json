@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 10:23",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve böyle yaptılar ve ⟨את⟩ şu beş kralı ona mağaradan çıkardılar: ⟨את⟩ Yeruşalayim kralını, ⟨את⟩ Hevron kralını, ⟨את⟩ Yarmut kralını, ⟨את⟩ Lakiş kralını, ⟨את⟩ Eglon kralını.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "ve çıkardılar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beş kralı"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "beş"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "mağaradan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim kralını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralını"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron kralını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralını"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron'un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmut kralını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralını"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmut'un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakiş kralını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralını"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakiş'in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon kralını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralını"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon'un"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:02.733755909Z",
+  "model": "glm-5.3"
+}

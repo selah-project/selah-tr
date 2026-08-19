@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve gözün acımasın ⟨⟨את⟩⟩-siz: cana can, göze göz, dişe diş, ele el, ayağa ayak.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -ma"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "acımasın"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "gözün"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "cana"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "göze"
+    },
+    {
+      "surface": "שן",
+      "gloss": "diş"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "dişe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ele"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayak"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ayağa"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:32.019098777Z",
+  "model": "glm-5.3"
+}

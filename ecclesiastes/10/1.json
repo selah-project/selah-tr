@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ölü sinekler, koku yapıcının yağını bayıltıp kötü kokulu akıtır; hikmetten ve onurdan değerli olanı az bir ahmaklık ⟨da⟩ öyle ⟨yapar⟩.",
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "sinekler"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "bayıltır"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "akıtır"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "koku yapıcı"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "değerli"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "hikmetten"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "ve onurdan"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "ahmaklık"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:00.915786450Z",
+  "model": "glm-5.3"
+}

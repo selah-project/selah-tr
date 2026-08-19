@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve Yehuda kardeşlerine dedi: Ne kazanç, ki ⟨את⟩ kardeşimizi öldürelim ve ⟨את⟩ kanını örtelim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kazanç"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "öldürelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşimizi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "kardeşimizi"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "ve örtelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanını"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "kanını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:46.275073558Z",
+  "model": "glm-5.3"
+}

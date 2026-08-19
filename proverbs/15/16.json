@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yahve korkusuyla az ⟨⟨iyidir⟩⟩, çok hazine ve onunla birlikte kargaşadan iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "korkusuyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "hazineden"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "ve kargaşa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:48.348060480Z",
+  "model": "glm-5.3"
+}

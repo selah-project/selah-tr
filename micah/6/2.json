@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Duyun, ey dağlar, Yahve'nin ⟨את⟩ davasını ve ey yeryüzünün temelleri, sağlam kayalar; çünkü Yahve'nin halkıyla davası var ve İsrail'le tartışacak.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "duyun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "davasını"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "dava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "ve sağlam kayalar"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "temelleri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "dava"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve ile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "tartışacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:38.235478889Z",
+  "model": "glm-5.3"
+}

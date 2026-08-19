@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Şaul ve bütün İsrail, Filiştli'nin ⟨את⟩ bu sözlerini duyunca yıkıldılar ve çok korktular.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ve duyunca"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözlerini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filiştli'nin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "yıkdılar"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ve korktular"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:37.078513665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Yahve, alçakgönüllülerin özlemini duydun, yüreklerini sağlamlaştıracaksın, kulağını eğeceksin —",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "özlem"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçakgönüllülerin"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "duydun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "sağlamlaştıracaksın"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "yüreklerini"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "eğeceksin"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kulağını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:45.388919404Z",
+  "model": "glm-5.3"
+}

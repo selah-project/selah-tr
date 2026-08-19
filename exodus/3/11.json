@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Moşe Elohim'e dedi: Ben kimim ki Paro'nun yanına gideyim ve ⟨את⟩ Yisrael oğullarını Miṣrayim'den çıkarayım?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gideyim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...in yanına"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ve ki"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "çıkarayım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Miṣrayim'den"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:08.883739189Z",
+  "model": "glm-5.3"
+}

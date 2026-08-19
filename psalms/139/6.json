@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Olağanüstüdür ⟨bu⟩ bilgi, bana göre; yücedir — ona güç yetiremem.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "olağanüstü"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden \/ bana göre"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "yüce (kılınmış)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "gücüm yeter"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:30.428142643Z",
+  "model": "glm-5.3"
+}

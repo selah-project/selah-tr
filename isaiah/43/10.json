@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Sizler benim tanıklarımsınız, Yahve'nin bildirisi, ve benim seçtiğim kulum; bilmeniz, bana güvenmeniz ve kavramanız için ki ⟨ben⟩ O'yum: benden önce oluşmuş El yok, benden sonra da olmayacak.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "sizler"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "benim tanıklarım"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bildirisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ve benim kulum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "seçtim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "-ması için"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "bilmeniz"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "ve güvenmeniz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "ve kavramanız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "benden önce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yok"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "oluşmuş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ve benden sonra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:44.011945147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve halk uzakta durdu; Moşe ise Elohim'in olduğu ⟨o⟩ karanlığa yaklaştı.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ve durdu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzakta"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ve Moşe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "yaklaştı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "karanlığa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:22.943700374Z",
+  "model": "glm-5.3"
+}

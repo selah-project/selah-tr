@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ertesi gün Peleştililer ölüleri soymak için geldiğinde Şaul'u ve üç oğlunu Gilboa dağında yatmış buldular.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertesi gün"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "geldiğinde"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştililer"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "soymak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüleri"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ölüleri"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "buldular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul'u"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "üç oğlunu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "düşmüş\/yatmış"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:27.378625924Z",
+  "model": "glm-5.3"
+}

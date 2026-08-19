@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Haman, Mordehay'ın kendisine diz çökmediğini ve yere kapanmadığını görünce Haman öfkeyle doldu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "...değil"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "diz çöküyor"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "ve yere kapanıyor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "öfkeyle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:21.559262872Z",
+  "model": "glm-5.3"
+}

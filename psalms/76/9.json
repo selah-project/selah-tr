@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 76,
+  "translation": "Göklerden yargıyı duyurdun; yer korktu ve sustu.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "göklerden"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "duyurdun"
+    },
+    {
+      "surface": "דין",
+      "gloss": "yargıyı"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "korktu"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ve sustu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:19.271273326Z",
+  "model": "glm-5.3"
+}

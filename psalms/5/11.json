@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Onları suçlu ilan et, Elohim; kendi düzenlerinden düşsünler; suçlarının çokluğunda onları kov, çünkü sana isyan ettiler.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "onları suçlu ilan et"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "düşsünler"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "kendi düzenlerinden"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çokluğunda"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "suçlarının"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "onları kov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "isyan ettiler"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:54.773758616Z",
+  "model": "glm-5.3"
+}

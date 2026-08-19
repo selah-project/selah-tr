@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Dinle lütfen, ben de konuşayım; sana sorayım, sen de bana bildir.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dinle"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "konuşayım"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "sana sorayım"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "ve bana bildir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:29.566882313Z",
+  "model": "glm-5.3"
+}

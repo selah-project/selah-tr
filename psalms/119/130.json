@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Senin sözlerinin açılımı ışık saçar, saf olanlara anlayış verir.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "açılım"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "senin sözlerinin"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ışık saçar"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "anlayış verir"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "saf olanlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:28.637999236Z",
+  "model": "glm-5.3"
+}

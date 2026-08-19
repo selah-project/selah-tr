@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Yücel ⟨ol⟩, ey Elohim, göklerin üzerinde; ve bütün ⟨את⟩ yerin üzerinde ⟨olsun⟩ görkemin.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "yücel ⟨ol⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer (ארץ ile işaretli)",
+      "gloss_alt": null
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "görkemin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:26.481945623Z",
+  "model": "glm-5.3"
+}

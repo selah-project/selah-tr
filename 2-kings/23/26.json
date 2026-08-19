@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 23:26",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ancak Yahve, Yeuda'ya karşı tutuşmuş olan büyük öfkesinin alevinden dönmedi — Menaşşe'nin onu öfkelendirdiği bütün kışkıtmalar yüzünden.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "alevinden"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesinin"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "tutuşmuş"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yeuda'ya karşı"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכעסים",
+      "gloss": "kışkıtmalar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכעיסו",
+      "gloss": "onu öfkelendirdi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşe"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:33.533269637Z",
+  "model": "glm-5.3"
+}

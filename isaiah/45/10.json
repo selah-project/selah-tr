@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Vay ona — babaya diyene: «Ne doğuruyorsun?» ve kadına: «Ne doğuruyorsun?» diyene.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyene"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "babaya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "doğuruyorsun"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "ve kadına"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "doğuruyorsun"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:18.430371945Z",
+  "model": "glm-5.3"
+}

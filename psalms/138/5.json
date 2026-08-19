@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 138,
+  "translation": "Ve Yahve'nin yollarında ilahi söyleyecekler, çünkü Yahve'nin görkemi büyüktür.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ve ilahi söyleyecekler"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:36.313437111Z",
+  "model": "glm-5.3"
+}

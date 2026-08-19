@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve eğer kurbanı keçi ise, onu Yahve'nin önüne getirecek",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "עז",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbanı"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "getirecek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:10.250133267Z",
+  "model": "glm-5.3"
+}

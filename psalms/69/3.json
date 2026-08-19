@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Derin çukurda battım ve ⟨duracak⟩ yer yok; suların derinliklerine girdim ve sel beni sürükledi.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "batтım"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "derin çukur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "duracak yer"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "girdim"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "derinliklerine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ve sel"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "sürükledi beni"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:18.438921484Z",
+  "model": "glm-5.3"
+}

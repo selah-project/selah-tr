@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 8:9",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Çünkü onlar Aşşur'a çıktılar; Efrayim kendi başına yalnız bir yaban eşeğidir; sevgililer kiraladılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "çıktılar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur'a"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "yaban eşeği"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendi başına"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "התנו",
+      "gloss": "kiraladılar"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "sevgililer"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:35.002193862Z",
+  "model": "glm-5.3"
+}

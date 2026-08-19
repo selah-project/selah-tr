@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Yahve Moşe'ye dedi: Paroh'un yanına git ve ona şöyle söyle: Böyle dedi Yahve, İbranilerin Elohim'i: Halkımı ⟨את⟩ salıver ki bana kulluk etsinler.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "git"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-in yanına"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ve konuşacaksın"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "İbranilerin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salıver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ve bana kulluk edecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:19.732538863Z",
+  "model": "glm-5.3"
+}

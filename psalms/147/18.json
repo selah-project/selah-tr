@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Sözünü gönderir, onları eritir; rüzgârını eseceği ⟨zaman⟩ sular akar.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "gönderir"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "onları eritir"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "esir"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rüzgârını"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "akar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:20.264648776Z",
+  "model": "glm-5.3"
+}

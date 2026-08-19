@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Surları güçlendirdi ve içlerine komutanlar koydu; yiyecek, zeytinyağı ve şarap depoları.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "güçlendirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surlar"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "surlar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "içlerine"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "komutanlar"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "ve depolar"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ve zeytinyağı"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ve şarap"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:42.495277409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ama kendilerine öğüt verdikleri ihtiyarların ⟨את⟩ öğüdünü bıraktı ve kendisiyle ⟨את⟩ birlikte büyümüş, önünde duran gençlerle ⟨את⟩ istişare etti.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ve bıraktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öğüdünü"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "öğüt"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ihtiyarların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ona öğüt verdiler"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ve istişare etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gençlerle"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "gençler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "büyüdüler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "onunla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "durmakta olanlar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:01.387277825Z",
+  "model": "glm-5.3"
+}

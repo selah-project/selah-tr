@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İsrail köle midir? Yoksa evde doğmuş bir oğul mu? Neden ⟨o⟩ ganimete dönüştü?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "köle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi \/ yoksa"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "doğmuş"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "neden"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ganimete"
+    }
+  ],
+  "timestamp": "2026-08-19T10:05:15.517242228Z",
+  "model": "glm-5.3"
+}

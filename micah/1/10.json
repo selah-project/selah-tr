@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Gat'ta bildirmeyin; ağlayın — ağlamayın; Bet-ha-Afra'da, toz içinde kendimi yuvarladım.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gat'ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "bildirmeyin"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ağlayın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ağlamayın"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet-…"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "-ha-Afra'da"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "içinde kendimi yuvarladım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:07.987337911Z",
+  "model": "glm-5.3"
+}

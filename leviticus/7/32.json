@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve sağ butu, sunularınızın barış sunularından kâhine bir teruma (bağış) olarak verin ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sağ butu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "but"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "bağış (teruma) olarak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kâhine"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "sunularından"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "barış sunulararınızın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:58.062773667Z",
+  "model": "glm-5.3"
+}

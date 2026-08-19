@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim ⟨את⟩ rakia'yı yaptı, ve rakianın altındaki sular ile rakianın üstündeki sular arasında ayırdı; ve böyle oldu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakia'yı"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakia'yı"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ve ayırdı"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altındaki"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiaya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve arasında"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstündeki"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiaya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:37.272278466Z",
+  "model": "glm-5.3"
+}

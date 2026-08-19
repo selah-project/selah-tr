@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 101,
+  "translation": "Sabahları ülkenin bütün kötülerini kökünden keseceğim — Yahve'nin kentinden bütün kötülük yapanları kesip atmak için.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "sabahları"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "kökünden keseceğim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "kötülerini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kesip atmak için"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kentinden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "yapanları"
+    },
+    {
+      "surface": "און",
+      "gloss": "kötülük"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:41.315353541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Avraham ⟨את⟩ her şeyi, kendi olanın tümünü Yitshak'a verdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tümünü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kendi olan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshak'a"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:25.972485336Z",
+  "model": "glm-5.3"
+}

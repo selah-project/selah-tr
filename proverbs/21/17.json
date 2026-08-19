@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Eğlenceyi seven ⟨adam⟩ yoksulluğa ⟨uğrar⟩; şarabı ve yağı seven zenginleşmez.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "yoksulluk"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sever"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "eğlence"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "seven"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şarap"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ve yağ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "zenginleşir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:57.815215586Z",
+  "model": "glm-5.3"
+}

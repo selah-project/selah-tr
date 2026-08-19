@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve her kohen minhası tümüyle (yakılacak) olacak; yenmeyecektir.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minhası"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tümüyle"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacak\/değil"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yenecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:17.293468204Z",
+  "model": "glm-5.3"
+}

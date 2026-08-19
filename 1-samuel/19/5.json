@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "O, canını ⟨את⟩ avucuna koydu ve Filistli'yi vurdu; Yahve bütün Yisra'el için büyük bir kurtuluş yaptı; sen gördün ve sevindin — o halde niçin masum kan karşısında günah işleyip David'i karşılıksız yere öldüresin?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "avucuna"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistli'yi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistli'yi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": " yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün … için"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "sen gördün"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ve sevindin"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ve niçin"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "günah işleyesin"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kan karşısında"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "masum"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldüresin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David'i"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "karşılıksız yere"
+    }
+  ],
+  "timestamp": "2026-08-19T12:15:00.493783498Z",
+  "model": "glm-5.3"
+}

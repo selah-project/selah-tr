@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve İsrailoğulları gittiler ve yaptılar; Yahve'nin Moşe'ye ve Aharon'a emrettiği gibi — ⟨את⟩ Moşe'yi ve Aharon'u — öylece yaptılar.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "gittiler"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "emretti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe'yi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'yi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ve Aharon'u"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:31.702207999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Davud, Ṣova kralı Rehov oğlu Hadadezer'i, kendi elini Nehir üzerinde geri getirmeye giderken vurdu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer'i"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer'i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Ṣova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "giderken"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "geri getirmeye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "Nehir üzerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:25.383942984Z",
+  "model": "glm-5.3"
+}

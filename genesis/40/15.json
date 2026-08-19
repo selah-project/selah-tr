@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Çünkü gerçekten İbranilerin ülkesinden çalınarak kaçırıldım, ve burada da hiçbir şey yapmadım, çünkü beni ⟨את⟩ çukura koydular.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "çalınarak"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "kaçırıldım"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "İbranilerin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve de"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hiçbir şey"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "koydular"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "çukura"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "çukura"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:11.082712213Z",
+  "model": "glm-5.3"
+}

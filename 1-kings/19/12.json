@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve depremden sonra ateş; ateşte Yahve ⟨yoktu⟩; ve ateşten sonra ince bir sessizlik sesi ⟨geldi⟩.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ve sonra"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "depremden"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ve sonra"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ateşten"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "sessizlik"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "ince"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:34.873656047Z",
+  "model": "glm-5.3"
+}

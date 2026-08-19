@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yahve Moşe'ye dedi: Firavun'un yanına git ve ona söyle: Böyle dedi Yahve: Halkımı sal ki bana kulluk etsinler.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "git"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavun"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkım"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "bana kulluk etsinler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:59.906901322Z",
+  "model": "glm-5.3"
+}

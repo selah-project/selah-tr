@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 12:8",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Onunla ağızdan ağza konuşurum; açıkça, bilmece değil; Yahve'nin biçimini görür o. O halde kulum Moşe'yi dilinize dolamaktan neden korkmadınız?",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "ağızdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ağza"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ağız"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "konuşurum"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ve açıkça"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בחידת",
+      "gloss": "bilmecedecesine"
+    },
+    {
+      "surface": "ותמנת",
+      "gloss": "ve biçimini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "görür"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "ve neden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…-mediniz"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "kork"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "konuşmaktan"
+    },
+    {
+      "surface": "בעבדי",
+      "gloss": "kulum hakkında"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moşe'yi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:01.384219809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Elohim'im, canım üzerime çöktü; bu yüzden Seni hatırlıyorum — Yarden diyarından ve Hermonim'den, Mitsar dağından.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "çöktü \/ erimeye uğradı"
+    },
+    {
+      "surface": "על",
+      "gloss": "— bu yüzden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bundan dolayı"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "Seni hatırlıyorum"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "diyarından"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ve Hermonim'den"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dağından"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:11.817671952Z",
+  "model": "glm-5.3"
+}

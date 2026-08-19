@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Mabedine ateş saldılar; adının meskenini yere ⟨ואת⟩ kadar alçaltıp kirlettiler.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "saldılar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "mabedine"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yere"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "kirlettiler"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "meskenini"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:35.297244201Z",
+  "model": "glm-5.3"
+}

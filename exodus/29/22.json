@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 29:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve koçun yağından alacaksın: kuyruğunu, ve içleri örten yağı ⟨את⟩, ve karını örten ⟨את⟩ yağı, ve karaciğerin dilimini ⟨את⟩, ve iki böbreği ⟨את⟩, ve üzerindeki yağı ⟨את⟩, ve sağ butunu ⟨את⟩ — çünkü o, takdim koçudur.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ve alacaksın"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "koç"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "והאליה",
+      "gloss": "ve kuyruk (yağlı kuyruk)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "içleri örten yağ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "örten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iç organlar (karın)"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iç organlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karaciğerin dilimi"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "dilimi (lob)"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "karaciğer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iki böbrek"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böbrek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "üzerindeki yağ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "onların üzerinde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sağ but"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "but (bacak)"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "איל",
+      "gloss": "koç"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "takdim (atama)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:08.007562173Z",
+  "model": "glm-5.3"
+}

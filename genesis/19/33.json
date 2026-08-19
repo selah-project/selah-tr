@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "O gece babalarına ⟨את⟩ şarap içirdiler; büyük kız gelip babasıyla ⟨את⟩ yattı; o da yatışında da kalkışında da bilmedi.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "içirdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babalarına"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "babaları"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şarap"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "o gece"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "büyük kız"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "yattı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babası"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "babası"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve bilmedi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "(o) bildi"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "yatışında"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "kalkışında"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:19.506441048Z",
+  "model": "glm-5.3"
+}

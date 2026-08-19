@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Elohim, kutsallıktadır yolun; kim ⟨dir⟩ El gibi büyük bir El?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kutsallıkta"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "Elohim gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:51.611969979Z",
+  "model": "glm-5.3"
+}

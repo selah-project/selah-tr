@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ⟨את⟩ Resen'i — Ninova ile Kalah arasında; o ⟨is⟩ büyük şehirdir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Resen'i"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninova"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ile"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:00.533288228Z",
+  "model": "glm-5.3"
+}

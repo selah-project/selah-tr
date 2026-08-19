@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Vay haline, kanlar ⟨┤şehri├⟩ — tümü yalan dolu, yağma dolu; avcı yırtık ⟨et⟩ asla çekilmez.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay haline"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kanlar"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tümü"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "yağma"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asla değil"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "çekilmez"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "yırtık av (et)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:45:19.789016574Z",
+  "model": "glm-5.3"
+}

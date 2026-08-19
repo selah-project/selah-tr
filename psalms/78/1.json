@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Öğretici bir şiir, Asaf'a ait. Ey halkım, töremi işitmek için kulağını ⟨aç⟩; ağzımın sözlerine kulak ⟨verin⟩.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Öğretici bir şiir"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf'a ait"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "işitmek için kulağını ⟨aç⟩"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ey halkım"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "töremi"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "eğin (kulak verin)"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "kulaklarınızı"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sözlerine"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:20.015420538Z",
+  "model": "glm-5.3"
+}

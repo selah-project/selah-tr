@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "O gün Eli'ye karşı, evine dair konuştuğum her şeyi yerine getireceğim; başlangıçtan ve bitişe kadar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "o günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "yerine getireceğim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e karşı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her şey"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "konuştum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e dair"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evine"
+    },
+    {
+      "surface": "החל",
+      "gloss": "başlayarak"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ve bitirerek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:28.055344109Z",
+  "model": "glm-5.3"
+}

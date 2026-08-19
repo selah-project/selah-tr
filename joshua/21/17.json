@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Binjamin oymağından: ⟨את⟩ Giv'on ve ⟨את⟩ açık-çayırları, ⟨את⟩ Geva ve ⟨את⟩ açık-çayırları.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ve oymağından"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'on"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "açık-çayırları"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "açık-çayırları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "açık-çayırları"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "açık-çayırları"
+    }
+  ],
+  "timestamp": "2026-08-19T09:12:35.925889003Z",
+  "model": "glm-5.3"
+}

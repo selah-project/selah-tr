@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "tasarlamak için tasarım(lar), altında, gümüşte ve tunçta işlemek için.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "tasarlamak için"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "tasarımlar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "işlemek için"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ve gümüşte"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ve tunçta"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:25.792531995Z",
+  "model": "glm-5.3"
+}

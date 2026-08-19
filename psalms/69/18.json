@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Ve kulundan yüzünü gizleme, çünkü ⟨bana⟩ daraldım; acele et, bana cevap ver.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ve ... etme"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "gizleme"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "kulundan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "צר",
+      "gloss": "daraldım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "acele et"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bana cevap ver"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:09.815700812Z",
+  "model": "glm-5.3"
+}

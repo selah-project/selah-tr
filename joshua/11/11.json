@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ oradaki tüm canları kılıcın ağzıyla vurdular, herem ettiler; nefes alan hiç kimse kalmadı; ve ⟨את⟩ Hatsor'u ateşle yaktı.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ve vurdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm canları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "canları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzıyla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıcın"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "herem ettiler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "kaldı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nefes alan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hatsor'u"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yaktı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:32.960200910Z",
+  "model": "glm-5.3"
+}

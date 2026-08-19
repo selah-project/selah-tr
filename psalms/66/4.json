@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Bütün yer sana eğilecek, sana çalacak; adına ilahi çalacaklar. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "eğilecek (secde edecek)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ve çalacak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "çalacaklar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adına"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:57.069706559Z",
+  "model": "glm-5.3"
+}

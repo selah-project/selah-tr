@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Çünkü bak, senden uzak olanlar yok olacak; senden zina eden herkesi ⟨sen⟩ kökünden kazıdın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "senden uzak olanlar"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yok olacak"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "kökünden kazıdın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "zina eden"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:39.301870152Z",
+  "model": "glm-5.3"
+}

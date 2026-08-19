@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Mordehay'a Ester'in ⟨את⟩ sözlerini bildirdiler.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "bildirdiler"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordehay'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözlerini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester'in"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:24.307288994Z",
+  "model": "glm-5.3"
+}

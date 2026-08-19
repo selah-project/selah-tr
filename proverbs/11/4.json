@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Öfke gününde servet yarar sağlamaz, doğruluk ise ölümden kurtarır.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "yarar sağlar"
+    },
+    {
+      "surface": "הון",
+      "gloss": "servet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ve doğruluk"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "kurtarır"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:18.772722155Z",
+  "model": "glm-5.3"
+}

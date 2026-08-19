@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve kâhin canlı eti ⟨את⟩ görecek ve onu kirli ilan edecek; canlı et kirlidir — o, tsara'attır.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ve görecek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlı eti"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "החי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ve onu kirli ilan edecek"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "החי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "kirlidir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:46.084357478Z",
+  "model": "glm-5.3"
+}

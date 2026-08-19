@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Elohim Bilam'a kavuştu; ona şöyle dedi: ⟨את⟩ yedi mihtarı dizdim ve mihtarda boğa ve koç sundum.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ve kavuştu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-e"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yedi mihtarı"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "mihtarları"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "dizdim"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ve sundum"
+    },
+    {
+      "surface": "פר",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ve koç"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "mihtarda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:01.019162862Z",
+  "model": "glm-5.3"
+}

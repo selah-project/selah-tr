@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Bütün bunlar başımıza geldi, ama seni unutmadık ve senin antlaşmanda hainlik etmedik.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "başımıza geldi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "seni unutmadık"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "hainlik etmedik"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "senin antlaşmanda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:02.367961467Z",
+  "model": "glm-5.3"
+}

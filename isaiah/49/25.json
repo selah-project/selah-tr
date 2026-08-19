@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Çünkü şöyle dedi Yahve: Güçlünün esiri bile alınacak, zorbanın ganimeti bile kurtulacak; ⟨את⟩ senin hasmınla ben savaşacağım ve ⟨את⟩ oğullarını ben kurtaracağım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "esiri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "güçlünün"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alınacak"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "ve ganimeti"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "zorbanın"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "kurtulacak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "senin hasmın"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "senin hasmınla"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "savaşacağım"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "kurtaracağım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:34.519873226Z",
+  "model": "glm-5.3"
+}

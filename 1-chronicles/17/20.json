@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Yahve, yok ⟨biri⟩ sana benzer; ve yok Elohim senin dışında, bütün ⟨şeylerde⟩ ki kulaklarımızla işittik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sana benzer"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "senin dışında"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "işittik"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "kulaklarımızla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:59:14.121533210Z",
+  "model": "glm-5.3"
+}

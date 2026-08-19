@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Kişi ona dokunursa murdar olur, akşama kadar; bedenini suda yıkamadıkça kutsal şeylerden yemez.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "dokunursa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "ve murdar olur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kutsal şeyler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "–"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "yıkar"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bedenini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:39.887515547Z",
+  "model": "glm-5.3"
+}

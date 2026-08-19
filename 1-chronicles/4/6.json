@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Naarah ona doğurdu: ⟨את⟩ Ahuzzam'ı, ve ⟨את⟩ Hefer'i, ve ⟨את⟩ Temeni'yi, ve ⟨את⟩ Ahaştarili'yi. Bunlar Naarah'ın oğullarıdır.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzzam'ı"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hefer'i"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Temeni'yi"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Ahaştarili'yi"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ahaştarili"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:25:18.856762452Z",
+  "model": "glm-5.3"
+}

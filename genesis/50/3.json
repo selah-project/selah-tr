@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Ona kırk gün doldu, çünkü mumyalananların günleri böyle doldurulur; ve Mısırlılar ⟨את⟩ onu yetmiş gün ağladılar.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "doldurulur"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "mumyalananların"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ağladılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısırlılar"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:33.395327354Z",
+  "model": "glm-5.3"
+}

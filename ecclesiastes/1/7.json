@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bütün nehirler denize akar, ama deniz dolmaz; nehirlerin aktığı yere orada geri dönerler — yine akmak için.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "nehirler"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "akar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denize"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ve deniz"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "değildir"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolmuş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "ki nehirlerin"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "aktığı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "geri dönerler"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "akmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:05.357373881Z",
+  "model": "glm-5.3"
+}

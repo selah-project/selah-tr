@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Eğer gözlerime uykuyu, kirpiklerime kestirmeyi verirsem —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verirsem"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "uykuyu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gözlerime"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "kirpiklerime"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "kestirmeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.924010890Z",
+  "model": "glm-5.3"
+}

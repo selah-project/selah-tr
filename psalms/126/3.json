@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 126,
+  "translation": "Yahve bizimle büyüğünü yapmaya koyuldu; sevinenler olduk.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "büyüğünü yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmaya"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimle"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "olduk"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "sevinenler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:42.771894347Z",
+  "model": "glm-5.3"
+}

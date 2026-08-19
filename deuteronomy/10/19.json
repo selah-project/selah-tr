@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Garibi ⟨את⟩ sevin; çünkü Mısır ülkesinde siz gariplerdiniz.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "ve seveceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garibi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "garibi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "garipler"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "sizdiniz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:47.687110655Z",
+  "model": "glm-5.3"
+}

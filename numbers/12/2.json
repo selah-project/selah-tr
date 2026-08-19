@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve dediler: «Yahve yalnız Moşe ile mi konuştu? Bizimle de konuşmadı mı?» Ve Yahve duydu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "yalnız mı"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moşe ile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizimle"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ve duydu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:08.924389906Z",
+  "model": "glm-5.3"
+}

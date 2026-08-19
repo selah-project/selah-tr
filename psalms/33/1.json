@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ey sadıklar, Yahve'de coşkuyla sevinin; doğru olanlara övgü yakışır.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "coşkuyla sevinin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sadıklar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'de"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "doğru olanlara"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yakışır"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "övgü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:21.681775239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "halkların ilahlarından — ki çevrenizdedirler; sana yakın olanlar ya da senden uzak olanlar, ⟨⟨yerin⟩⟩ bir ucundan ⟨⟨yerin⟩⟩ öbür ucuna kadar —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "ilahlarından"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "halkların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "çevrenizdedirler"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "yakın olanlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "uzak olanlar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "bir ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve … kadar"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "öbür ucuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:16.702013457Z",
+  "model": "glm-5.3"
+}

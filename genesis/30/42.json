@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Sürü zayıfladığında ise koymazdı; böylece zayıflar Lavan'ın, güçlüler ise Yaakov'un olurdu.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "zayıfladığında ise"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koymazdı"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "o, koymazdı"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "böylece olurdu"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "zayıflar"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Lavan'ın"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "güçlüler"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov'un"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:48.241256946Z",
+  "model": "glm-5.3"
+}

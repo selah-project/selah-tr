@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Genç aslanlar yoksullaşır ve acıkır; ama Yahve'yi arayanlar hiçbir iyilikten yoksun kalmaz.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "genç aslanlar"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "yoksullaşır"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ve acıkır"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ama arayanlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "yoksun kalırlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:03.935464245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Eğer günleri kesin olarak belirlenmişse, aylarının sayısı seninledir, onun sınırını sen koydun ve ⟨o⟩ aşmayacaktır.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "kesin olarak belirlenmiş"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayısı"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "ayları"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ile senin"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "sınırı"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sen koydun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "aşmayacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:06.627851386Z",
+  "model": "glm-5.3"
+}

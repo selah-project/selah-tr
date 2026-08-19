@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 65,
+  "translation": "Suçların sözleri benden üstün geldi; isyanlarımızı — sen onları örtüp bağışlayacaksın.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "suçların"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "üstün geldi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "isyanlarımızı"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "onları örtüp bağışlayacaksın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:12.753876657Z",
+  "model": "glm-5.3"
+}

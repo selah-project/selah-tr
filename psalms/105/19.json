@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Sözü gelene kadar; Yahve'nin sözü onu arıttı.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zaman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelmesi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "arıttı onu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:18.334642180Z",
+  "model": "glm-5.3"
+}

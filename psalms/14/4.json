@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Bilmiyorlar mı bütün avlan yapanlar — halkımı ekmek yer gibi yiyenler — Yahve'ye çağırmıyorlar?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biliyorlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "yapanlar"
+    },
+    {
+      "surface": "און",
+      "gloss": "avlan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "yiyenler"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yediler"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırdılar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:51.941144792Z",
+  "model": "glm-5.3"
+}

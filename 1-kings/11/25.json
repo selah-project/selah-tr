@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Yisrael'e bir hasım oldu Şelomo'nun bütün günlerinde; ⟨את⟩ o kötülüğü de ki Hadad yaptı, ve Yisrael'den iğrendi, ve Aram üzerinde hüküm sürdü.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "hasım"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrael'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerinde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo'nun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kötülüğü"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "iğrendi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael'den"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "hüküm sürdü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:06.785880513Z",
+  "model": "glm-5.3"
+}

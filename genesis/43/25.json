@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ve ⟨את⟩ hediyyeyi Yosef'in öğleyin gelmesine kadar hazırladılar, çünkü orada ekmek yiyeceklerini duymuşlardı.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "ve hazırladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hediyyeyi"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hediyyeyi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gelmesi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef'in"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "öğleyin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "duymuşlardı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyeceklerini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:16.903146918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Bu nedenle ⟨kendimi⟩ hor görüyor ve pişman oluyorum, toz ve kül üzerinde.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bu nedenle"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "hor görüyorum"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ve pişman oluyorum"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ve kül"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:50.379624512Z",
+  "model": "glm-5.3"
+}

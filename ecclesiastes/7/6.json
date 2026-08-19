@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü akılsızın gülüşü, kazan altında yanan dikenlerin çıtırtısı gibidir; bu da heveldir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "sesi gibidir"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "dikenlerin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kazanın"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "gülüşü"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "akılsızın"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveldir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:02.975270198Z",
+  "model": "glm-5.3"
+}

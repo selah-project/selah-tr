@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Moşe kayınatasına dedi: Çünkü halk Elohim'e danışmaya bana geliyor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "kayınatasına"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "geliyor"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "danışmaya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'e"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:45.960793483Z",
+  "model": "glm-5.3"
+}

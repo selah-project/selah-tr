@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Eğer hırsızlık malı ⟨kesinlikle⟩ elinde bulunursa — özgür öküztür, eşektir, koyundur, ⟨hepsi⟩ canlı — iki kat ödeyecektir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "bulunmakta"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bulunursa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "hırsızlık malı"
+    },
+    {
+      "surface": "משור",
+      "gloss": "öküzden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eşeğe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "שה",
+      "gloss": "koyuna"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki kat"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödeyecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:27.138778124Z",
+  "model": "glm-5.3"
+}

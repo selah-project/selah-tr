@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yahve'nedir kurtuluş; senin kavminin üzerine ⟨⟩ senin kutsaman ⟨⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'nedir"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "senin kavmin"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "senin kutsaman"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:49:29.990637731Z",
+  "model": "glm-5.3"
+}

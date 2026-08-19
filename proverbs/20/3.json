@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Bir adam için onurdur tartışmadan kaçınmak; ama her ahmak didişmeye kalkışır.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "onur"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bir adam için"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kaçınmak"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "tartışmadan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ama her"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ahmak"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "didişmeye kalkışır"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:11.083836247Z",
+  "model": "glm-5.3"
+}

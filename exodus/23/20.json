@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "İşte, senin önünden bir ulak gönderiyorum, seni yolda korusun ve seni hazırladığım yere getirsin diye.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönderiyorum"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ulak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "senin önünden"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "seni korusun"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "ve seni getirsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "hazırladığım"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:29.412308687Z",
+  "model": "glm-5.3"
+}

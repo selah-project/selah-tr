@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Gelecekler ve O'nun salihliğini bildirecekler doğacak halka, çünkü ⟨O⟩ yaptı.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "gelecekler"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ve bildirecekler"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "O'nun salihliğini"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "doğacak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:16.693513016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "⟨את⟩ Yosef'in gömleğini aldılar, teke kesip ⟨את⟩ gömleği kana batırdılar.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'in gömleğini"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "gömleğini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef'in"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "kesip"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "teke"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçilerden"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "batırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gömleği"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "gömleği"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:27.748724627Z",
+  "model": "glm-5.3"
+}

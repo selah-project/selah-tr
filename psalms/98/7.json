@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 98,
+  "translation": "Deniz gürlésin ve dolu olan her şey; dünya ve içinde oturanlar.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "gürlésin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ve dolu olan her şey"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ve oturanlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onun içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:06.591750060Z",
+  "model": "glm-5.3"
+}

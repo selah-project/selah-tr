@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Yıkıldı boşluk şehri; her ev girişe kapatıldı.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "yıkıldı"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "boşluk"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "kapatıldı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "girişe"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:17.010536413Z",
+  "model": "glm-5.3"
+}

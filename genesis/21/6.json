@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Sara dedi: Elohim bana gülüş yaptı; duyan herkes benimle gülüyor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "gülüş"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes\/duyanın tümü"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "duyan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "gülüyor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim(benimle)"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:30.838861696Z",
+  "model": "glm-5.3"
+}

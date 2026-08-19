@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ertesi gün oldu: örtüyü aldı, suya batırdı, yüzünün üzerine serdi, ve o öldü; ve Hazael onun yerine kral oldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertesi gün"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "örtü"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "ve batırdı"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suya"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "ve serdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ve kral oldu"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:00.907353380Z",
+  "model": "glm-5.3"
+}

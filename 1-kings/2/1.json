@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Davud'un ölümüne günleri yaklaştı ve oğlu Şelomo'yu ⟨את⟩ buyrukla görevlendirerek şöyle dedi:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "yaklaştı"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölmeye"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ve buyrukla görevlendirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomo'yu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo'yu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T12:15:26.993760650Z",
+  "model": "glm-5.3"
+}

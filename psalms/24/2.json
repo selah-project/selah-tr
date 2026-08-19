@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Çünkü ⟨onu⟩ denizlerin üzerine ⟨o⟩ kurdu ve nehirlerin üzerine onu sağlamlaştırdı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "denizlerin"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "kurdu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nehirlerin"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "sağlamlaştırdı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:03.985478152Z",
+  "model": "glm-5.3"
+}

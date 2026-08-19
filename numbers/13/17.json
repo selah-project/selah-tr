@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Moşe onları Kenaan ülkesini görmek için gönderdi; ⟨אתם⟩ Kenaan ⟨את⟩ ülkesini araştırmaya, ve onlara dedi: Şimdi Negev'e çıkın, sonra da dağa ⟨את⟩ yükseleceksiniz.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "araştırmaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkesini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesini"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "çıkın"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Negev'e"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "ve yükseleceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dağa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağa"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:00.089299863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ester ⟨yine⟩ ekledi ve kralın önünde konuştu, ayaklarının önüne kapandı, ağladı ve ona yalvardı — Haman the Agagite'ın kötülüğünü ve Yahudiler aleyhine tasarladığı tasarıyı ⟨uzağa⟩ kaldırması için.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "ekledi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ve kapandı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaklarının"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "ve ağladı"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "ve yalvardı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kaldırması için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötülüğü"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kötülüğünü"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman'ın"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agaglı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tasarısını"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "tasarısını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tasarlamıştı"
+    },
+    {
+      "surface": "על",
+      "gloss": "aleyhine"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudiler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:00.442102504Z",
+  "model": "glm-5.3"
+}

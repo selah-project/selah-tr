@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Çünkü yürekleri yıkımı sayıklar ve dudakları eziyetten konuşur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שד",
+      "gloss": "yıkım \/ şiddet"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "sayıklar \/ kurar (içten mırıldanır)"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "yürekleri"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "eziyet \/ zarar"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "dudakları"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "konuşur (dişil çoğul fiil)"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:21.707929254Z",
+  "model": "glm-5.3"
+}

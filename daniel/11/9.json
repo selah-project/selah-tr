@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨o⟩, güney kralının krallığına girecek ve kendi toprağına dönecek.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ve girecek"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "krallığına"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "güneyin"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ve dönecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "kendi toprağına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:44:53.956905918Z",
+  "model": "glm-5.3"
+}

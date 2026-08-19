@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 93,
+  "translation": "Bollu suların seslerinden, denizin ulu kabarmalarından daha uludur yüksekte Yahve.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "seslerinden"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bollu"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ulu kabarmalarından"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "kabarmaları"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denizin"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "uludur"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "yüksekte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:47.576793480Z",
+  "model": "glm-5.3"
+}

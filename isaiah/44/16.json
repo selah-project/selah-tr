@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Yarısını ateşle yakar; yarısı üzerinde et yer; kızartmayı kızartır ve doyar; hatta ısınır ve der: 'Ah, ısındım, ateşi gördüm!'",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "yarısını"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yakar"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ile"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "yarısı"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yer"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "kızartır"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "kızartma"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ve doyar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hatta"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ısınır"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve der"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "ısındım"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ateşi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:01.202684573Z",
+  "model": "glm-5.3"
+}

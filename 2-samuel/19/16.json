@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve kral geri döndü ve Yarden'e kadar geldi; Yahuda ise kralın karşısına çıkmak ve ⟨את⟩ kralı ⟨את⟩ Yarden'in karşı kıyısına geçirmek için Gilgal'a geldi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve geri döndü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ve Yahuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgal'a"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gitmek için"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "karşısına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "geçirmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kral"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:00.299967937Z",
+  "model": "glm-5.3"
+}

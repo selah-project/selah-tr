@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve siz onu ⟨את⟩ kirletiyorsunuz, sizin 'Adonay'ın sofrası murdar, ⟨o⟩ ve ürünü hor, yemeği' diyerek.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ve siz"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "kirletiyorsunuz"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (adını)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "sizin diyerek"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sofrası"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "ve ürünü"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "hor"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yemeği"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:38.241363740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Annenin kızkardeşinin çıplaklığını açmayacaksın; çünkü o, annenin etidir.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kızkardeşi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annenin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açmayacaksın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "eti"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annenin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:13.420297451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 2:34",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "O zamanda bütün şehirlerini ele geçirdik ve ⟨את⟩ her şehri — erkekleri, kadınları ve çocukları — tamamen yok ederek adadık; sağ kalan bırakmadık.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "ve ele geçirdik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün şehirlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "şehirlerini"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ונחרם",
+      "gloss": "ve tamamen yok ederek adadık (herem)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her şehri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "erkekleri"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "ve kadınları"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ve çocukları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "השארנו",
+      "gloss": "bıraktık"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sağ kalan"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:32.930016183Z",
+  "model": "glm-5.3"
+}

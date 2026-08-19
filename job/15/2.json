@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 15:2",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Bilge kişi rüzgâr bilgisiyle mi yanıt verir ve karnını doğu rüzgârıyla mı doldurur?",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "bilge kişi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "yanıt verir"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgâr"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ve doldurur"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "doğu rüzgârı"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "karnını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:12.976195845Z",
+  "model": "glm-5.3"
+}

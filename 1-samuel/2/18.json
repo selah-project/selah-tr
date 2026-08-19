@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Şmuvel Yahve'nin yüzü önünde ⟨את⟩ hizmet ediyordu — bir delikanlı, keten efod kuşanmış.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ve Şmuvel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "hizmet ediyordu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "נער",
+      "gloss": "delikanlı"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "kuşanmış"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "keten"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:30.449431875Z",
+  "model": "glm-5.3"
+}

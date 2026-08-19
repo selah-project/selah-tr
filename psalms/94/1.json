@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "İntikam El'i Yahve, intikam El'i, parılda ortaya!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El'i"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "intikam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "intikam"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "parılda ortaya"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:34.251672972Z",
+  "model": "glm-5.3"
+}

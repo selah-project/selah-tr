@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Öfkeden gözüm soluklaştı; bütün düşmanlarım yüzünden kocudu.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "soluklaştı"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "öfkeden"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "kocudu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "düşmanlarım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:56.685493821Z",
+  "model": "glm-5.3"
+}

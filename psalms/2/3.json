@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "\"Kırıverelim ⟨את⟩ bağlarını, ve O'ndan atıverelim iplerini.\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "kırıverelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bağlarını"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "onların bağlarını"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ve atıverelim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "O'ndan"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "onların iplerini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:56.466367994Z",
+  "model": "glm-5.3"
+}

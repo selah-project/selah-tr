@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve Esav dedi: Bana çok ⟨var⟩, kardeşim; senin olan senin olsun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:00.614887786Z",
+  "model": "glm-5.3"
+}

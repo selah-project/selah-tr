@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Altın kâseler otuz, gümüş kâseler ikinci sınıftan dört yüz ve on, diğer kaplar bin.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "kâseler"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "kâseler"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "ikinci sınıftan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dört"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ve on"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kaplar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "diğer"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:46:25.262913441Z",
+  "model": "glm-5.3"
+}

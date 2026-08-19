@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ordusu ve sayılmışları: otuz beş bin ve dört yüz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ve ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ve sayılmışları"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ve otuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ve dört"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:33.389542902Z",
+  "model": "glm-5.3"
+}

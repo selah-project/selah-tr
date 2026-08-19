@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Düşmanın sesinden, kötünün baskısından; çünkü üzerime kötülük sarkıtıyorlar ve öfkeyle bana kin besliyorlar.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "sesinden"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmanın"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-nın yüzünden"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "baskısından"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "sarkıtıyorlar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "און",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ve öfkeyle"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "bana kin besliyorlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:16.632681431Z",
+  "model": "glm-5.3"
+}

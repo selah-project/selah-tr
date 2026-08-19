@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Çünkü sana kulluk etmeyecek ⟨olan⟩ ulus ve krallık yok olacak; evet, o uluslar tamamen ıssız kalacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ulus"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "ve krallık"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "sana kulluk etsin"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yok olacak"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "ve o uluslar"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ıssız"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "ıssız kalacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:35.270954849Z",
+  "model": "glm-5.3"
+}

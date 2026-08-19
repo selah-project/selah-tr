@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 82,
+  "translation": "Mizmor, Asaf'a ait. Elohim durur ⟨בעדת-אל⟩ El topluluğunda, Elohim'ler içinde ⟨את⟩ hükmeder.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf'a ait"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "durur"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "topluluğunda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'ler"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hükmeder"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:13.897144590Z",
+  "model": "glm-5.3"
+}

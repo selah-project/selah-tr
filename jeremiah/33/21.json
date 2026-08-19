@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 33:21",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "O zaman kulum Davud'la ⟨את⟩ ahdim de bozulur — onun için tahtında hüküm süren bir oğul olmaktan; ve ⟨את⟩ Leviler'i, kâhinleri, hizmetkârlarımı ⟨da⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdim"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "bozulur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulum"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "olmaktan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir oğul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hüküm süren"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tahtında"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Leviler"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviler"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "hizmetkârlarım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:14:23.113643190Z",
+  "model": "glm-5.3"
+}

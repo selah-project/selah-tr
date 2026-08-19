@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü günler çok ⟨sürecek⟩; İsraoğulları oturacak — kral yok, önder yok, kurban yok, dikili taş yok, efod yok, terafim yok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oturacaklar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsra'el"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "שר",
+      "gloss": "önder"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "dikili taş"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ve terafim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:01.510505194Z",
+  "model": "glm-5.3"
+}

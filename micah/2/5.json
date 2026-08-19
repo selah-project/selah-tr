@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Bu yüzden Yahve topluluğunda kura ile ip atacak ⟨kimse⟩ sana olmayacak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "atan (kimse)"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ip (ölçü ipi)"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "kura ile"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "toplulukta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:14.184799513Z",
+  "model": "glm-5.3"
+}

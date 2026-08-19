@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ⟨bir⟩ buhar yeryüzünden yükselir ve toprağın bütün yüzünü sulardı.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ve buhar"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "yükselir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ve suladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün yüzünü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:04.931129631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve ⟨olmuştu⟩ Şaul'un ölümünden sonra, Davud Amaleklileri yeniden ⟨את⟩ Amalek'ten döndü ve Çiklag'da iki gün kaldı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümünden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ve Davud"
+    },
+    {
+      "surface": "שב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "yenmekten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleklileri"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve kaldı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Çiklag'da"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:58.229791227Z",
+  "model": "glm-5.3"
+}

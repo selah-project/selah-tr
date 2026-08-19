@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Denizi yardı ve onları geçirdi, suları bir yığın gibi durdurdu.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "yardı"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denizi"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ve onları geçirdi"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "durdurdu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suları"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "נד",
+      "gloss": "yığın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:15.334035391Z",
+  "model": "glm-5.3"
+}

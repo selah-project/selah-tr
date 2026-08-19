@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Çünkü sen büyüksün ve harikalar yapıyorsun; sen tek başına Elohim'sin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yapan"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "harikalar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tek başına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.745273389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Kötülerin üzerine ağırlar, ateş ve kükürt yağmur gibi yağdırır; yakan bir rüzgâr ⟨olacaktır⟩ — kadehlerinin payı.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "yağmur gibi yağdırır"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "ağırlar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "ve kükürt"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ve rüzgâr"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "payı"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "kadehlerinin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:21.347638021Z",
+  "model": "glm-5.3"
+}

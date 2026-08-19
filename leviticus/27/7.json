@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve ⟨eğer⟩ altmış yaşından yukarı ⟨ise⟩ — ⟨eğer⟩ erkek ⟨ise⟩, değeri ⟨olacak⟩ on beş şekel, dişi için ise on şekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve ⟨eğer⟩"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "oğlu ⟨yaşından⟩"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "altmış"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ve yukarı"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨eğer⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve ⟨olacak⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "değerin"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şekel"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "ve dişi için"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "şekel"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:20.986451835Z",
+  "model": "glm-5.3"
+}

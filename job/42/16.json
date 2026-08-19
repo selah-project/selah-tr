@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve bundan sonra İyov yüz kırk yıl yaşadı; ve ⟨את⟩ oğullarını ve ⟨את⟩ oğullarının oğullarını — dört kuşak gördü.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ve yaşadı"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ve kırk"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarının oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dört"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "kuşak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:25.080523544Z",
+  "model": "glm-5.3"
+}

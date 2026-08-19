@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Öncekilere dair anı yoktur; ve ayrıca sonra olacaklara da — ⟨onlarla⟩, sonrakilerle birlikte olacaklarına — onlar için anı olmayacaktır.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "anı"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "öncekilere dair"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "sonra olacaklara"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "olacaklarına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacaktır"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar için"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "anı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "olacak olanlara"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "en sonrakilerle"
+    }
+  ],
+  "timestamp": "2026-08-19T12:38:12.362385597Z",
+  "model": "glm-5.3"
+}

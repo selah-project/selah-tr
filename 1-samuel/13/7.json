@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "İbraniler ise ⟨את⟩ Şeria'yı geçtiler — Gad ve Gilat toprağına; Şaul hâlâ Gilgal'daydı ve bütün halk titreyerek onun ardınca gitti.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "ve İbraniler"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "geçtiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şeria"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Şeria'yı"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprağına"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ve Gilat"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ve Şaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "hâlâ"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgal'da"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "titreyerek"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "onun ardınca"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:23.950452822Z",
+  "model": "glm-5.3"
+}

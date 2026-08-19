@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Filistinlilerin İsrail'e karşı yine savaşı oldu; Davud ve kulları onunla birlikte indi ve Filistinlilerle ⟨את⟩ savaştılar; ve Davud yorgun düştü.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "Filistinlilerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨karşı⟩",
+      "marks": "İsrail'e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ve indi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ve kulları"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ve savaştılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨karşı⟩",
+      "marks": "Filistinlilerle"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistinliler"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ve yorgun düştü"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:57.814765663Z",
+  "model": "glm-5.3"
+}

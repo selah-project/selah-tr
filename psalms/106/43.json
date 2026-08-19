@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Birçok kere onları kurtardı, ama onlar kendi tasarılarıyla isyan ettiler ve kendi suçlarıyla alçaldılar.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "kere"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "birçok"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "onları kurtardı"
+    },
+    {
+      "surface": "ו המה",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "isyan ettiler"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "kendi tasarılarıyla"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "ve alçaldılar"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "kendi suçlarıyla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:42.082284167Z",
+  "model": "glm-5.3"
+}

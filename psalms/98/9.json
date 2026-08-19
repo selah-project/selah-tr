@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 98,
+  "translation": "Yahve'nin önünde, çünkü ⟨O⟩ yeryüzünü yargılamak için geldi; dünyayı adaletle yargılayacak, halkları ise dürüstlükle.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "yargılamak için"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünü"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "yargılayacak"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyayı"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "adaletle"
+    },
+    {
+      "surface": "ו",
+      "gloss": "ve"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halkları"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "dürüstlükle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:50.958194869Z",
+  "model": "glm-5.3"
+}

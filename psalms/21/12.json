@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Çünkü sana karşı kötülük eğittiler, kötü bir düzen kurşunu tasarladılar — başaramayacaklar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "eğittiler"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana karşı"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "tasarladılar"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "kötü düzen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "başaramayacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:53.501483628Z",
+  "model": "glm-5.3"
+}

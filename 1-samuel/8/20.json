@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve biz de bütün uluslar gibi olalım; kralımız bize hüküm versin, önümüzden çıksın ve ⟨את⟩ savaşlarımızı savaşsın.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "ve olalım"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bütün ... gibi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "ve bize hüküm versin"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "kralımız"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıksın"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "önümüzden"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ve savaşsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savaşlarımızı"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "savaşlarımızı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:58.705970770Z",
+  "model": "glm-5.3"
+}

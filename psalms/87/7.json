@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 87,
+  "translation": "Ve şarkıcılar, çalgıcılar ⟨gibi⟩ ⟨diyecekler⟩: «Bütün pınarlarım sensin ⟨içinde⟩.»",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "ve şarkıcılar"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "çalgıcılar gibi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "pınarlarım"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sensin ⟨içinde⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:20.125009254Z",
+  "model": "glm-5.3"
+}

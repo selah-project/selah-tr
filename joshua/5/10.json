@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Yişrael oğulları Gilgal'da konakladılar ve Pesah'ı ⟨את⟩ ayın on dördünde, akşam vakti, Yeriho'nun çayırlarında yaptılar.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "ve konakladılar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgal'da"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah'ı"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah'ı"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "on-dördünde (dört)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "akşam vakti"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "çayırlarında"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho'nun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:40.161580291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Hayat istedi senden, ona verdin — uzun ömür, sonsuza dek, ebediyen.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "hayat"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "istedi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "verdın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ömür (günler)"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ebediyen"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:53.504402373Z",
+  "model": "glm-5.3"
+}

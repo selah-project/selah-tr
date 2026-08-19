@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve eğer kalbinde söylersen: «Yahve'nin söylemediği ⟨את⟩ sözü nasıl bileceğiz?»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "söylersen"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "kalbinde"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "bileceğiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "söylemediği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:36.714936019Z",
+  "model": "glm-5.3"
+}

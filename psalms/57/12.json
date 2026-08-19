@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 57,
+  "translation": "Yüceltıl, göklerin üzerinde, ey Elohim; bütün yeryüzünün üzerinde senin görkemin.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "yüceltıl"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "senin görkemin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:40.686400514Z",
+  "model": "glm-5.3"
+}

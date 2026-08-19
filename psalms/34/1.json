@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Davud'a ait — davranışını Avimelech'in önünde değiştirdiğinde; o da onu kovdu ve o gitti.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "değiştirdiğinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "davranışını (טעמו)"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "davranışını"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "onu kovdu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:11.012148368Z",
+  "model": "glm-5.3"
+}

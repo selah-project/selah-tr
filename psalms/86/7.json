@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Sıkıntı günümde sana sesleneceğim, çünkü beni yanıtlarsın.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sıkıntımın"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "sana sesleneceğim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "beni yanıtlarsın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:07.828350439Z",
+  "model": "glm-5.3"
+}

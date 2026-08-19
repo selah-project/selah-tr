@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Nuha üç oğul babası oldu: ⟨את⟩ Şem'i, ⟨את⟩ Ham'ı ve ⟨את⟩ Yefet'i.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuha"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:57.507751643Z",
+  "model": "glm-5.3"
+}

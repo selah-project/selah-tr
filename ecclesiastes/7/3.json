@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Keder, gülüşten iyidir; çünkü yüzün asıklığında yürek iyileşir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "keder"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "gülüşten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "asıklığında"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yüzün"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "iyileşir"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:20.018457839Z",
+  "model": "glm-5.3"
+}

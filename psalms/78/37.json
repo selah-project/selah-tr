@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Kalpleri O'nunla sağlam kurulmuş değildi ve O'nun antlaşmasına sadık kılınmadılar.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ve kalpleri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sağlam kurulmuş"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "O'nunla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadılar"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "sadık"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "O'nun antlaşmasına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:32.162360526Z",
+  "model": "glm-5.3"
+}

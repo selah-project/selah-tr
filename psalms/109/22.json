@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Çünkü ⟨ben⟩ ezik ve yoksul ⟨olan⟩ benim, ve içimde ⟨⟨is⟩⟩ yüreğim yaralı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezik"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve yoksul"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ve yüreğim"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "yaralı"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "içimde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:58.305089576Z",
+  "model": "glm-5.3"
+}

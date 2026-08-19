@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Çünkü ⟨onlar⟩ ot gibi çabucak biçilirler ve taze yeşillik gibi solup yok olurlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ot gibi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "çabucak"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "biçilirler"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ve yeşillik gibi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "taze ot"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "solup yok olurlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:27.822460092Z",
+  "model": "glm-5.3"
+}

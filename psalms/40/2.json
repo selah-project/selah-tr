@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Umutla bekledim, bekledim Yahve'yi; ve bana eğildi ve feryadımı işitti.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "umutla bekledim"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "bekledim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ve eğildi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ve işitti"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "feryadımı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:52.314070770Z",
+  "model": "glm-5.3"
+}

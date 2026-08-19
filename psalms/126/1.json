@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 126,
+  "translation": "Yükselişlerin şarkısı. Yahve Siyon'un geri dönüşünü ⟨את⟩ çevirdiğinde, rüya görenler gibi olduk.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "çevirdiğinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geri dönüşünü"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "geri dönüşünü"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon'un"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "olduk"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "rüya görenler gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:42.771529072Z",
+  "model": "glm-5.3"
+}

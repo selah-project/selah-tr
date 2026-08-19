@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Moşe, Elohim'i olan Yahve'nin yüzünü ⟨את⟩ yalvardı ve dedi: Neden, Yahve, öfken kendi halkında tutuşur — ki onları Mısır ülkesinden büyük güçle ve kuvvetli elle çıkardın?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ve yalvardı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin yüzünü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "tutuşur"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "öfken"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "kendi halkında"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "çıkardın"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "güçle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ve elle"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kuvvetli"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:45.111740607Z",
+  "model": "glm-5.3"
+}

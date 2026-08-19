@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Dedi: «Bahçede ⟨את⟩ sesini duydum ve korktum, çünkü çıplaktım, ve saklandım.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesini"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "duydum"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "bahçede"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve korktum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "çıplak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "-dım (ben)"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ve saklandım"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:02.572192986Z",
+  "model": "glm-5.3"
+}

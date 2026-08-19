@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Ben Yisrael oğullarının ortasında yaşayacağım, ve halkımı ⟨את⟩ Yisrael'i terk etmeyeceğim.\"",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "yaşayacağım"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "terk edeceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkımı Yisrael'i"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:33.029158208Z",
+  "model": "glm-5.3"
+}

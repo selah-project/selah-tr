@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Toprak çatladığı için, çünkü yerde yağmur olmamıştı; çiftçiler utandılar, başlarını örttüler.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "...için"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "çatladı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yağmur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "utandılar"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "çiftçiler"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "örttüler"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "başlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:09:00.555600772Z",
+  "model": "glm-5.3"
+}

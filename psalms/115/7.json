@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Elleri ⟨onların⟩ var ama dokunmazlar; ayakları ⟨onların⟩ var ama yürümezler; gırtlaklarında ⟨hiçbir ses⟩ mırıldanmazlar.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "elleri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "dokunurlar"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ayakları"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yürürler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mırıldanırlar"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "gırtlaklarında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:48.216932904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Onu Mısır kralı indirdi Yeruşalayim'de; ve ülkeyi yüz talant gümüş ve bir talant altın cezaya çarptırdı.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "ve onu indirdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "ve cezaya çarptırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talant"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ve bir talant"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:11:28.583450197Z",
+  "model": "glm-5.3"
+}

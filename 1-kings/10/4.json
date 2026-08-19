@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şeva kraliçesi ⟨את⟩ Şelomonun bütün hikmetini ve yaptığı evi görünce",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kraliçesi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün hikmetini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmetini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ve evi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...-yi ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yaptığı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:37.276170880Z",
+  "model": "glm-5.3"
+}

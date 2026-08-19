@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ bu kralların tüm şehirlerini ve ⟨את⟩ tüm krallarını Yehoşua ele geçirdi ve onları kılıcın ağzıyla vurdu, onları herem etti — Moşe'nin, Yahve'nin kulunun buyurduğu gibi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tüm şehirlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şehirlerini"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kralların"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tüm krallarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ele geçirdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "ve onları vurdu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzıyla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıcın"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "herem etti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:32.960424095Z",
+  "model": "glm-5.3"
+}

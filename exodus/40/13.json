@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve Aharon'a kutsal giysileri ⟨את⟩ giydireceksin, onu meshedeceksin ve onu kutsal kılacaksın, ve bana kâhinlik edecek.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "ve giydireceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal giysileri"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "giysileri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ve meshedeceksin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onu ⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ve kutsal kılacaksın"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onu ⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "ve kâhinlik edecek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:38.049062466Z",
+  "model": "glm-5.3"
+}

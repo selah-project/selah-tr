@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Bakın Avraham'a, babanıza, ve Sara'ya, sizi doğuran ana; çünkü tekdir onu çağırdım, onu kutsadım ve onu çoğalttım.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "babanıza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "doğurduğu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "onu çağırdım"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "ve onu kutsadım"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "ve onu çoğalttım"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:55.197003335Z",
+  "model": "glm-5.3"
+}

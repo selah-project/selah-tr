@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Bulunan herkes hançerlenecek, ve yakalanan herkes kılıçla düşecek.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "bulunan"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "hançerlenecek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve herkes"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "yakalanan"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "düşecek"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kılıçla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:37.672312263Z",
+  "model": "glm-5.3"
+}

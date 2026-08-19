@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Çünkü sen gizlice yaptın, ama ben ⟨את⟩ bu işi bütün Yisrael'in önünde ve güneşin önünde yapacağım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizlice"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ama ben"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yapacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu işi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ve önünde"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:17.420085267Z",
+  "model": "glm-5.3"
+}

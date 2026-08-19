@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Davud'a ait bir mizmor. Yahve'ye ⟨ait⟩ ⟨⟨dir⟩⟩ yeryüzü ve doluluğu, dünyâ ve onda oturanlar.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "bir mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ve doluluğu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyâ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ve oturanlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:03.985257199Z",
+  "model": "glm-5.3"
+}

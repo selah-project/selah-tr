@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "İsrail Yahve'ye adak adadı ve dedi: Eğer ⟨את⟩ bu halkı kesinlikle elime teslim edersen, ⟨את⟩ şehirlerini tamamen yok edeceğim (herem).",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "adadı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "adak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vermek"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verirsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "elime"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "herem edeceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehirlerini"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "şehirlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:03.484384625Z",
+  "model": "glm-5.3"
+}

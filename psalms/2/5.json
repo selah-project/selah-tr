@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "O zaman öfkede onlara konuşacak, gazabında onları dehşete düşürecek.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "konuşacak"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "öfkede"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "ve gazabında"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "onları dehşete düşürecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:51.876539096Z",
+  "model": "glm-5.3"
+}

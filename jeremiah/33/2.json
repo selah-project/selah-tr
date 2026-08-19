@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Böyle diyor Yahve, onu yapan Yahve, onu ⟨את⟩ biçimlendiren, onu kurmaya ⟨את⟩ — Yahve ⟨is⟩ onun adı:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onu yapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "biçimlendiren"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "onı kurmaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:14:28.865501758Z",
+  "model": "glm-5.3"
+}

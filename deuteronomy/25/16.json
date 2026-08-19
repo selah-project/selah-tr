@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Çünkü Yahve'nin, Elohim'inin iğrençliği ⟨her⟩ bunları yapan, ⟨her⟩ zulüm yapandır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "iğrençlik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "zulüm"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:36.749061584Z",
+  "model": "glm-5.3"
+}

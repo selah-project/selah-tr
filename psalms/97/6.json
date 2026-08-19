@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Gökler ⟨Onun⟩ doğruluğunu bildirdi ve bütün halklar ⟨O'nun⟩ yüceliğini gördü.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "bildirdiler"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "Onun doğruluğunu"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ve gördüler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "yüceliğini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.054802368Z",
+  "model": "glm-5.3"
+}

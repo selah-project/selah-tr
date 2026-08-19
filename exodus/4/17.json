@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ⟨את⟩ şu değneği elinde alacaksın — onunla ⟨את⟩ belgileri yapacaksın.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şu değneği"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "değnek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alacaksın"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belgileri"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "belgiler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:00.913230065Z",
+  "model": "glm-5.3"
+}

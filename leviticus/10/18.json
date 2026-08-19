@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "İşte ⟨את⟩ kanı kutsal yerin içine getirilmedi; benim buyurduğum gibi onu kutsal alanda ⟨את⟩ yemeliydiniz.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "getirilmedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanı"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal yerin"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "içeriye"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "yemek"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemeliydiniz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kutsal alanda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "buyurdum"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:55.785955806Z",
+  "model": "glm-5.3"
+}

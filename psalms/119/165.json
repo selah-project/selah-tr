@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Senin toranı sevenlere büyük şalom, onlara hiçbir çelme yoktur.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sevenlere"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "toranı"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "çelme"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:59.551656334Z",
+  "model": "glm-5.3"
+}

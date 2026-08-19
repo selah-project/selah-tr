@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yay çekenler — sağ elle ve sol elle taşlardan ve yaydan ok atabilenler; Şaul'un kardeşlerinden, Binyamin'den.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "çekenler"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yay"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "sağ elle"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "ve sol elle"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "taşlardan"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "ve oklarla"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "yayla"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "kardeşlerinden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "Binyamin'den"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:45.505008648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Çünkü böyle söyleti Yahve: Bir titreme sesi duyduk, korku — ve barış yok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "titreme"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "duyduk"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "korku"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barış"
+    }
+  ],
+  "timestamp": "2026-08-19T10:13:00.647000694Z",
+  "model": "glm-5.3"
+}

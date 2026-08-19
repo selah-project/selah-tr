@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve olmuştu, Başa ⟨bunu⟩ duyunca Ramah'ı ⟨את⟩ inşa etmekten vazgeçti ve Tirtsah'ta oturdu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve olmuştu"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "duyunca"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "vazgeçti"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "inşa etmekten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramah'ı"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve oturdu"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtsah'ta"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:31.370891398Z",
+  "model": "glm-5.3"
+}

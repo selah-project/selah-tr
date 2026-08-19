@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Bir kralın öfkesi ölüm elçileridir; bilge kişi ise onu yatıştırır.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bir kralın"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "elçileri"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümün"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve kişi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "onun öfkesini yatıştırır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:24.802406063Z",
+  "model": "glm-5.3"
+}

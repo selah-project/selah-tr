@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve yüzünü ⟨את⟩ duvara çevirdi ve Yahve'ye dua ederek şöyle dedi:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ve çevirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "duvara"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ve dua etti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:49:24.245215098Z",
+  "model": "glm-5.3"
+}

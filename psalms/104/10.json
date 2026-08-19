@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Kaynakları vadilere gönderen ⟨odur⟩; dağlar arasında yürürler.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "gönderen"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "kaynakları"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "vadilere"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "yürürler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:59.571124964Z",
+  "model": "glm-5.3"
+}

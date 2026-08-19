@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve gördü, kalktı ve canının ⟨olacağı yere⟩ doğru gitti, Yahuda'ya ait Beer-Şeva'ya vardı ve uşağını ⟨את⟩ orada bıraktı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canının"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yahuda'ya ait"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ve bıraktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uşağını"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "uşağını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:36.937963380Z",
+  "model": "glm-5.3"
+}

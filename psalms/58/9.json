@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Salyangoz gibi eriyerek yürüsün; kadınların düşüğü gibi güneşi görmesinler.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "salyangoz"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "eriyerek"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "yürüsün"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düşük"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kadının"
+    },
+    {
+      "surface": "בל",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "görmesinler"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:49.493928224Z",
+  "model": "glm-5.3"
+}

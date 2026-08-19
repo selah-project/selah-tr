@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 57,
+  "translation": "Ben doğruluğunu bildireceğim ve ⟨את⟩ işlerini — sana yarar sağlamayacaklar.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bildireceğim"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "doğruluğunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "işlerini"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "işlerini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayacak"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "sana yarar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:59.425282383Z",
+  "model": "glm-5.3"
+}

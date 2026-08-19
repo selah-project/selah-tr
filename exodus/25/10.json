@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve şittim ağacından bir aron yapacaklar: uzunluğu iki ama ve yarım, genişliği bir ama ve yarım, yüksekliği bir ama ve yarım.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ve yapacaklar"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bir aron"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iki ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ve yarım"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve bir ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ve yarım"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "genişliği"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve bir ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ve yarım"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "yüksekliği"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:30.372796494Z",
+  "model": "glm-5.3"
+}

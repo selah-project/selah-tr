@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Rahavam ile Yarovam arasında bütün günlerce savaş oldu.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ve savaş"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahavam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ile"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlerce"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:10.336512839Z",
+  "model": "glm-5.3"
+}

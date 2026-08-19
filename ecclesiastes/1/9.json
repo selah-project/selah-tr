@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Olan şey, olacak olandır; ve yapılan şey, yapılacak olandır; ve güneşin altında hiçbir yeni şey yoktur.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ki oldu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ki olacak"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve ne"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ki yapıldı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ki yapılacak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:28.324929439Z",
+  "model": "glm-5.3"
+}

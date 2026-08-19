@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Çünkü onların gücünün süsü sensin, ve senin rızanla boynuzumuz yüceltilecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "süsü"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "onların gücünün"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ve senin rızanla"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "yüceltilecek"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "boynuzumuz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:13.381202065Z",
+  "model": "glm-5.3"
+}

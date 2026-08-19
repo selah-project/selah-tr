@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Doğruları kötü yolda saptıran, kendi çukuruna ⟨kendisi⟩ düşer; kusursuzlar ise iyiyi miras alır.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "saptıran"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "doğruları"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "kendi çukuruna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kendisi"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "düşer"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "ve kusursuzlar"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "miras alır"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiyi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:27.903538647Z",
+  "model": "glm-5.3"
+}

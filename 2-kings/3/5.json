@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Ahav ölünce oldu: Moav kralı İsrail kralına karşı isyan etti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "ölünce"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "isyan etti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kralına karşı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:28.896487143Z",
+  "model": "glm-5.3"
+}

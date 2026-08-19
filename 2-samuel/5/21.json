@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve orada ⟨את⟩ putlarını bıraktılar; Davud ve adamları onları kaldırdı.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ve bıraktılar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putlarını"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "putlarını"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ve onları kaldırdı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ve adamları"
+    }
+  ],
+  "timestamp": "2026-08-19T09:29:14.554144355Z",
+  "model": "glm-5.3"
+}

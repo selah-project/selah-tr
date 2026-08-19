@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve evin başındaki Elyakim'i, yazıcı Şevna'yı ve çula bürünmüş kâhinlerin ihtiyarlarını, peygamber Amots oğlu Yeşayahu'ya gönderdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim'i"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "başındaki"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şevna'yı"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Şevna'yı"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "yazıcı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihtiyarları"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ihtiyarları"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinlerin"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "bürünmüş"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "çula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamber"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:08.728167103Z",
+  "model": "glm-5.3"
+}

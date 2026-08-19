@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Ay gibi ebediyen kurulmuştur, buluttaki şahit metindir. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "ay gibi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "kurulmuştur"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve şahit"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "bulutta"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "metindir"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:01.834496608Z",
+  "model": "glm-5.3"
+}

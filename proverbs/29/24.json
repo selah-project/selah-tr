@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Hırsızla ortak olan ⟨kimse⟩ kendi canından nefret eder; lanet işitir de bildirmez.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "ortak olan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "hırsızla"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nefret eder"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kendi canından"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lanet"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "işitir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ol-"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirmez"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:38.256942067Z",
+  "model": "glm-5.3"
+}

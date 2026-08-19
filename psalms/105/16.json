@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Yerin üzerinde kıtlık çağırdı; bütün ekmek asasını kırdı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kıtlık"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "asasını"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kırdı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:14.970365810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Çünkü Atalya'nın — o kötü kadının — oğulları ⟨את⟩ Elohim'in evini yıkmışlardı ve Beyt-Yahve'nin bütün kutsal şeylerini Baallar için yapmışlardı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "o kötü kadın"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "yıkmışlardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve hatta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kutsal şeyleri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yapmışlardı"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baallar için"
+    }
+  ],
+  "timestamp": "2026-08-19T12:07:43.148812698Z",
+  "model": "glm-5.3"
+}

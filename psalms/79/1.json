@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 79,
+  "translation": "Mizmor, Asaf'a ait. Elohim, uluslar mirasına girdiler, kutsal mabedini ⟨את⟩ kirlettiler, Yeruşalayim'i ⟨את⟩ yıkıntı yığınlarına çevirdiler.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf'a ait"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "girdiler"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "mirasına"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "kirlettiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal mabedini"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "mabed"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "çevirdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "yıkıntı yığınlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:26.649451758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Oğlum, sözlerimi koru, ve buyruklarımı ⟨את⟩ senin yanında sakla.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Oğlum"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "koru"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözlerimi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ve buyruklarımı"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "sakla"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ senin yanında",
+      "marks": "buyruklarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:12.683956041Z",
+  "model": "glm-5.3"
+}

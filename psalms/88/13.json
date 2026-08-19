@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Karanlıkta harikaların ⟨mı⟩ bilinecek, ve unutuş ülkesinde sadâkatin mi?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "bilinecek"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "harikaların"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ve sadâkatin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "unutuş"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:59.478952430Z",
+  "model": "glm-5.3"
+}

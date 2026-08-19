@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yumuşak bir yanıt öfkeyi geri çevirir, ama acı bir söz burun (öfke) yükseltir.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "yanıt"
+    },
+    {
+      "surface": "רך",
+      "gloss": "yumuşak"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "geri çevirir"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ama bir söz"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "acı"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "yükseltir"
+    },
+    {
+      "surface": "אף",
+      "gloss": "burun (öfke)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:07.445109665Z",
+  "model": "glm-5.3"
+}

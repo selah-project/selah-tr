@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Buzunu parçalar gibi savurur; soğuğunun önünde kim durabilir?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "savurur"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "buzunu"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "parçalar gibi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "soğuğunun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "durabilir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:20.264386696Z",
+  "model": "glm-5.3"
+}

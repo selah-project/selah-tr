@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Karşılaştın ⟨את⟩ sevinen ve doğruluk edenle, yollarında seni ananlarla; işte sen öfkellendin ve ⟨biz⟩ günah işledik; onlarda ⟨ezelden beri⟩ ⟨kaldık⟩ ve kurtulacağız.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "karşılaştın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sevinen ve doğruluk eden"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sevinen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve eden"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğruluk"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "seni ananlarla"
+    },
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "öfkellendin"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "ve günah işledik"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ezelden beri"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ve kurtulacağız"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:53.775560540Z",
+  "model": "glm-5.3"
+}

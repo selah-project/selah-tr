@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Kim yaptı ve işledi, çağıran nesilleri baştan? Ben, Yahve: ilk ve ⟨את⟩ sonlarla birlikte — Ben O'yum.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve işledi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağıran"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "nesilleri"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "baştan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sonlarla birlikte"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sonlarla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O'yum"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:09.729240327Z",
+  "model": "glm-5.3"
+}

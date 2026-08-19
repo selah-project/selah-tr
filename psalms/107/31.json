@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Yahve'ye sevgisini, ve insan oğullarına ⟨gösterdiği⟩ harikalarını şükranla anıtsınlar.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "şükranla anıtsınlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgisini"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ve harikalarını"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:52.548400141Z",
+  "model": "glm-5.3"
+}

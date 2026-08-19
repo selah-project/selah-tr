@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Bu şeylerden sonra, Kral Ah-aş-ve-roş'un öfkesi dinince, Vaşti'yi ⟨את⟩, yaptığını ve ואת hakkında hükmedileni hatırladı.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "bu şeyler"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "dinince"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaşveroş"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hatırladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaşti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaşti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yaptığı şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hükmedilen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "hükmedildi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:00.675218091Z",
+  "model": "glm-5.3"
+}

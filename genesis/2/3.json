@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Elohim ⟨את⟩ yedinci günü kutsadı ve ⟨את⟩ onu kutsal kıldı; çünkü onda, Elohim'in yaratıp yapmak üzere olduğu bütün işinden dinlenmişti.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "kutsadı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yedinci günü"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "kutsal kıldı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "dinlenmişti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün…den"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "işinden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yarattı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak üzere"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:56.166135081Z",
+  "model": "glm-5.3"
+}

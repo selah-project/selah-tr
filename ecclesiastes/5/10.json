@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "İyilik çoğaldığında onu yiyenler çoğalır; sahibine ne yarar ⟨var⟩ — gözünün görmesinden ⟨başka⟩?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "çoğaldığında"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoğalır"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "onu yiyenler"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "yarar"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "sahibine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "görmesinden"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:43.371434376Z",
+  "model": "glm-5.3"
+}

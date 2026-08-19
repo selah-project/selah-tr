@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve ⟨oldu⟩, öğle geçince, akşam minhahı yükselinceye kadar peygamberlik taklidi yaptılar; ama ses yoktu, karşılık veren yoktu, kulak veren yoktu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve ⟨oldu⟩"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "geçince"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "öğle"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "peygamberlik taklidi yaptılar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-inceye kadar"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "yükselinceye"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhah (akşam sunusu)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ama yoktu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "karşılık veren"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "kulak veren"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:16.778262829Z",
+  "model": "glm-5.3"
+}

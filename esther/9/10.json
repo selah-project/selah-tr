@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Haman'ın on oğlunu — Hamdata'nın oğlu, Yahudilerin düşmanı — öldürdüler; yağmaya ise ⟨את⟩ ellerini uzatmadılar.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman'ın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata'nın"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "düşmanı"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudilerin"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "öldürdüler"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "yağmaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "uzatmadılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellerini"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ellerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:39.708613840Z",
+  "model": "glm-5.3"
+}

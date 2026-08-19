@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kötü adam kötülük dudağına kulak verir; yalancı yıkım diline kulak verir.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "kötü adam"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "kulak verir"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨את⟩-gibi -e"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dudağına"
+    },
+    {
+      "surface": "און",
+      "gloss": "kötülüğün"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalancı"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "kulak verir"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "diline"
+    },
+    {
+      "surface": "הות",
+      "gloss": "yıkımın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:37.952499306Z",
+  "model": "glm-5.3"
+}

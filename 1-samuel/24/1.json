@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Davud oradan yukarı çıktı ve En-Gedi'nin sığınaklarında oturdu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ve yukarı çıktı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve oturdu"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "sığınaklarında"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:43.423512525Z",
+  "model": "glm-5.3"
+}

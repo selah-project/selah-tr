@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 16:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Sürgünlerim Moav'da, ⟨senin⟩ yanında konut tutsun; onlara yokedicinin yüzünden sığınak ol; çünkü zorba ⟨tükendi⟩, yıkım bitti, çiğneyen ⟨yok oldu⟩ — yeryüzünden.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "konut tutsun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senin yanında"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "sürgünlerim"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ol"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "yokedicinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "המץ",
+      "gloss": "zorba"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bitti"
+    },
+    {
+      "surface": "שד",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "yok oldu"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "çiğneyen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:41.614490956Z",
+  "model": "glm-5.3"
+}

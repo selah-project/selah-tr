@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Babanın çıplaklığı ve annenin çıplaklığı — açmayacaksın; ⟨o⟩ senin annendir, çıplaklığını açmayacaksın.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "ve çıplaklığı"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annenin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açmayacaksın"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açmayacaksın"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "çıplaklığını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:47.230044079Z",
+  "model": "glm-5.3"
+}

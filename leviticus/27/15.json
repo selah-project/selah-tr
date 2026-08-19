@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve eğer adayan evini ⟨את⟩ fedalıyorsa, senin değerlemenin gümüşünün beşte birini onun üzerine ekleyecektir ve onun ⟨olacaktır⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "adayan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "fedalıyorsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evini"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ve ekleyecektir"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "beşte birini"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşün"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "senin değerlemenin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:20.562996500Z",
+  "model": "glm-5.3"
+}

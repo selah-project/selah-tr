@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve şimdi git; ben ağzınla birlikte olacağım ve konuşacağın şeyi sana öğreteceğim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olacağım"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile birlikte"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzın"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "ve sana öğreteceğim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "konuşacağın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:13.868754193Z",
+  "model": "glm-5.3"
+}

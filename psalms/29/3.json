@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yahve'nin sesi suların üzerindedir; yücelik Elohi gök gürültüsü salar; Yahve ⟨⟨dir⟩⟩ çok suların üzerindedir.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "yücelik"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "gök gürültüsü salar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:51.442887918Z",
+  "model": "glm-5.3"
+}

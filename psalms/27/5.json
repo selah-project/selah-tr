@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Çünkü O, beni kötülük gününde çardağında gizleyecek, çadırının gizli yerinde beni saklayacak, kayaya ⟨⟨üzerine⟩⟩ beni yükseltecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "beni gizleyecek"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "çardağında"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "beni saklayacak"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizli yerinde"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kayada"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "beni yükseltecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:39.329873911Z",
+  "model": "glm-5.3"
+}

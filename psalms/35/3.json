@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve mızrağı çek, baltayla kavga edenlerin yolunu kes ⟨is⟩; benim canıma ⟨is⟩ 'kurtuluşun ben ⟨is⟩im' de.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "ve çek"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mızrak"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ve yolunu kes"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kavga edenlerimin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "kurtuluşun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:28.807646727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Yahve David'e ant içti, doğrulukla; ⟨o⟩ bundan dönmeyecek: «Karnının meyvesinden senin için taht ⟨üzerine⟩ oturtacağım.»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ant içti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "doğrulukla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-me"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dönmeyecek"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "meyvesinden"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "karnının"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "oturtacağım"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "taht ⟨üzerine⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:00.347405156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Çünkü ⟨o⟩ Elohim'imizdir, bizler ⟨ise⟩ onun merasının halkı ve onun elinin küçükbaş hayvanıyız. Bugün, eğer onun sesini duyarsanız —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizdir"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "bizler"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "onun merası"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ve küçükbaş hayvanı"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "onun elinin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "onun sesini"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "duyarsanız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.765891304Z",
+  "model": "glm-5.3"
+}

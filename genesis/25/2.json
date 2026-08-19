@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve ona doğurdu ⟨את⟩ Zimran'ı ve ⟨את⟩ Yokşan'ı ve ⟨את⟩ Medan'ı ve ⟨את⟩ Midyan'ı ve ⟨את⟩ Yişbak'ı ve ⟨את⟩ Şuah'ı.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ve o doğurdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yokşan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokşan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yişbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yişbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Şuah"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Şuah"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:53.261523582Z",
+  "model": "glm-5.3"
+}

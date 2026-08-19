@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 29:16",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Tersliğiniz! Çömlek çamuru gibi mi sayılacak biçim veren? Çünkü yapıt, onu yapana 'Beni o yapmadı' der; biçim verilmiş şey, onu biçim verene 'Anlamadı' der.",
+  "tokens": [
+    {
+      "surface": "הפככם",
+      "gloss": "tersliğiniz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "çömlek çamuru gibi"
+    },
+    {
+      "surface": "היצר",
+      "gloss": "biçim veren"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sayılacak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "yapıt"
+    },
+    {
+      "surface": "לעשהו",
+      "gloss": "onu yapana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "beni yaptı"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ve biçim verilmiş şey"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ליוצרו",
+      "gloss": "onu biçim verenine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "anladı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:51.532457912Z",
+  "model": "glm-5.3"
+}

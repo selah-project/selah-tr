@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Adonay, dudaklarımı sen aç, ve ağzım senin övgünü bildirsin.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudaklarımı"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "aç"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ve ağzım"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirsin"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "senin övgünü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:40.484312496Z",
+  "model": "glm-5.3"
+}

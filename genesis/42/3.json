@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve Yosef'in kardeşleri on kişi, Mıtsrayim'dan tahıl satın almak için indiler.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ve indiler"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef'in"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "satın almak için"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tahıl"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mıtsrayim'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:51.187464939Z",
+  "model": "glm-5.3"
+}

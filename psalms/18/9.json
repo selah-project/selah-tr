@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Burnun deliklerinden duman yükseldi ve ağzından ateş yedi; ondan közler tutuştu.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "yükseldi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "duman"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "burnunun deliklerinde"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ve ateş"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "közler"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "tutuştu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:19.492433156Z",
+  "model": "glm-5.3"
+}

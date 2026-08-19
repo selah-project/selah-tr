@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Şayet seni ödü düşman acıkmışsa, ona ekmek yedir; ve şayet susamışsa, ona su içir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "şayet"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "acıkmışsa"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "seni ödü düşman"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "ona yedir"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve şayet"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "susamışsa"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "ona içir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:49.922746975Z",
+  "model": "glm-5.3"
+}

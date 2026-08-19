@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "On telli ve nevel üzerine, higayon üzerine kinor ile.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "on telli"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor ile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:26.267200498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Bildim, Yahve, ki ⟨⟨hükümlerin⟩⟩ haktır, ve sadakatle beni eziyet ettin.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "bildim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "hak"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hükümlerin"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "ve sadakatle"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "beni eziyet ettin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:35.576060727Z",
+  "model": "glm-5.3"
+}

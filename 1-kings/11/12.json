@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ancak günlerinde yapmayacağım — ataların Davud yüzünden; oğlunun elinden koparacağım onu.»",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "günlerinde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-me"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "yapmayacağım"
+    },
+    {
+      "surface": "למען",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ataların"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "koparacağım onu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:40.764661940Z",
+  "model": "glm-5.3"
+}

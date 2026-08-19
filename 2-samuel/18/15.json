@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Yoav'ın silahlarını taşıyan on genç dönüp ⟨את⟩ Avşalom'u vurup onu öldürdüler.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ve dönüp"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "genç"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "taşıyan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "silahlarını"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav'ın"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ve vurup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avşalom'u"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom'u"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "onu öldürdüler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:33:08.939937028Z",
+  "model": "glm-5.3"
+}

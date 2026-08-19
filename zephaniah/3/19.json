@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zephaniah 3:19",
+  "book": "zephaniah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "İşte ben ⟨את⟩ bütün eziyet edenlerini ⟨⟨senin⟩⟩ o zamanda yapıyorum; kurtaracağım ⟨את⟩ topalı ve kovulanı toplayacağım; onları övgü ve ⟨⟨bir⟩⟩ ad ⟨⟨yapacağım⟩⟩ bütün yeryüzünde utanç ⟨⟨yerlerine⟩⟩.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapıyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün eziyet edenlerini senin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעניך",
+      "gloss": "eziyet edenlerini senin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ve kurtaracağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "topalı"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "topalı"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "ve kovulanı"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "toplayacağım"
+    },
+    {
+      "surface": "ושמתים",
+      "gloss": "ve koyacağım onları"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "övgüye"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "ve ada"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "utançlarında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:46:54.516446265Z",
+  "model": "glm-5.3"
+}

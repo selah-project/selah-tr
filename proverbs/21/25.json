@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Tembelin arzusu onu öldürür, çünkü elleri işlemekten kaçınır.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "arzusu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tembelin"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "onu öldürür"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "kaçınır"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "elleri"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "işlemekten"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:36.417021649Z",
+  "model": "glm-5.3"
+}

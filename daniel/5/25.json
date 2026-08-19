@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve ⟨bu⟩ yazı ⟨ki⟩ yazılmıştır: MENE, MENE, TEKEL ve PARASİN",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ve bu"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "yazı"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "yazılmıştır"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (sayıldı)"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (sayıldı)"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL (tartıldı)"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ve PARASİN (bölündü)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:43:22.156330313Z",
+  "model": "glm-5.3"
+}

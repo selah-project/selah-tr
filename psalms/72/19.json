@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Ve kutludur görkemli adı ebediyen; ve görkemiyle doldursun ⟨את⟩ bütün yeri; amin ve amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "ve kutludur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "görkemli ⟨adı⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ve doldursun"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "görkemiyle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün yeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ve amin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:14.202957471Z",
+  "model": "glm-5.3"
+}

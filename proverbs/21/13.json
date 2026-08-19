@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Kulağını yoksulun çığlığından kapatan — o da çağırır ama ⟨⟨cevap⟩⟩ verilmez.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "kapatan"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "çığından"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoksulun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "çağırır"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama verilmez"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "cevap"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:39.577709226Z",
+  "model": "glm-5.3"
+}

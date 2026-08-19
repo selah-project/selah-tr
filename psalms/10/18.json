@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Yetimi ve ezileni yargılamak için; artık yerdeki ölümlü korkutmayacak ⟨dünyadan⟩.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "yargılamak için"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetimi"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ve ezileni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "artık... -mayacak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "korkutmak"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨dünyadan⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdeki"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:45.389194893Z",
+  "model": "glm-5.3"
+}

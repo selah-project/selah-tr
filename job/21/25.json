@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve bir başkası acı ⟨bir⟩ nefesle ölür, iyilikten hiç tatmamıştır.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ve bir başkası"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölür"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nefesle"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "acı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve… değildir"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "tatmamıştır"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "iyilikten"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:28.743068262Z",
+  "model": "glm-5.3"
+}

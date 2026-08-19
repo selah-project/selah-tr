@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Bütün yüreğinle Yahve'ye güven, kendi anlayışına dayanma.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "güven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "yüreğinle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "anlayışına"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "dayanma"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:17.940378822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Eliyahu çocuğu ⟨את⟩ aldı ve onu üst odadan aşağı, eve indirdi ve annesine verdi; Eliyahu şöyle dedi: Bak, oğlun yaşıyor.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çocuğu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuğu"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "ve onu indirdi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "üst odadan"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "eve"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ve onu verdi"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "annesine"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "bak"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşıyor"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:46.844479885Z",
+  "model": "glm-5.3"
+}

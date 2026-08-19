@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Kimin ardından çıkmış İsrail kralı? Kimin ardından kovalıyorsun? Ölü bir köpeğin ardından, tek bir pirenin ardından.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkmış"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "kovalıyorsun"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "köpeğin"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "pirenin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek bir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:57.612424422Z",
+  "model": "glm-5.3"
+}

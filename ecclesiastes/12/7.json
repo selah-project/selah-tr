@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve toprak, ⟨nesne⟩ olduğu gibi yere döner; ve ruh, onu veren Elohim'e döner.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve döner"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yere"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "olduğu gibi"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ve ruh"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "döner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "onu verdi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:28.383825202Z",
+  "model": "glm-5.3"
+}

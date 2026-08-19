@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "ve ⟨את⟩ ilahlarını ateşe attılar; çünkü onlar ilah değildi, ancak insan ellerinin eseri, ağaç ve taştı; ve onları yok ettiler.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ve attılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilahlarını"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilahlarını"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değildi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "eseri"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ve taş"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ve onları yok ettiler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:09.755220625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Sevmek için bir zaman, nefret etmek için bir zaman; savaş zamanı, ve barış zamanı.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "bir zaman"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "sevmek için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve bir zaman"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nefret etmek için"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zaman"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve zaman"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barış"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:42.079469674Z",
+  "model": "glm-5.3"
+}

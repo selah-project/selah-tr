@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Yahve bir belirlenen vakit koydu, diyerek: Yarın Yahve bu sözü ülkede yapacak.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "belirlenen vakit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "yarın"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkede"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:27.372259646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Ve uluslar Yahve'nin ⟨את⟩ adından korkacak, ve yerin bütün kralları ⟨את⟩ senin yüceliğinden ⟨korkacak⟩.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ve korkacak"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senin yüceliğin"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "senin yüceliğin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:19.680145806Z",
+  "model": "glm-5.3"
+}

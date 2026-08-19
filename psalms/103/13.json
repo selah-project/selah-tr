@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Bir babanın oğulları üzerine şefkat göstermesi gibi, Yahve O'ndan korkanlar üzerine şefkat gösterir.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "şefkat göstermesi gibi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "şefkat gösterir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "O'ndan korkanlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:53.010742024Z",
+  "model": "glm-5.3"
+}

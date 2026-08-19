@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Bir mucize gibi oldum birçoklarına, ama sensin sığınağım, güç ⟨kaynağım⟩.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "mucize gibi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "birçoklarına"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ama sen"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güç"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:02.941597195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Yahve'nin gözünde doğru olanı yaptı ve atası Davud'un bütün yolunda yürüdü ve sağa da sola da sapmadı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "doğru olanı"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve yürüdü"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atası"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "סר",
+      "gloss": "saptı"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağa"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ve sola"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:11.296757628Z",
+  "model": "glm-5.3"
+}

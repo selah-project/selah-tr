@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Babanın karısının kızının — babandan doğmuş, ⟨o⟩ senin kızkardeşindir — çıplaklığını açmayacaksın.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısının"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "doğmuş"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "senin kızkardeşin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açmayacaksın"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "çıplaklığını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:59.243146940Z",
+  "model": "glm-5.3"
+}

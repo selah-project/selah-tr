@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve toprak ağzını açtı ve ⟨את⟩ onları, ⟨את⟩ evlerini, Korah'a ait bütün insanı ve ⟨את⟩ bütün malı yuttu.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "açtı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzını"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "yuttu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "evlerini"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "evlerini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Korah'a ait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "malı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:38:09.565004425Z",
+  "model": "glm-5.3"
+}

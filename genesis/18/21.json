@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 18:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "İneyim ⟨⟨şimdi⟩⟩ ve göreyim — bana ulaşan çığlığa tamamen mı uyup uymadıklarını; eğer uymadılarsa, bilirim.”",
+  "tokens": [
+    {
+      "surface": "ארדה",
+      "gloss": "İneyim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨şimdi⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ve göreyim"
+    },
+    {
+      "surface": "הכצעקתה",
+      "gloss": "çığlığa"
+    },
+    {
+      "surface": "הבאה",
+      "gloss": "gelen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar mı"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tamamen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değilse"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "bilirim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:19.044160817Z",
+  "model": "glm-5.3"
+}

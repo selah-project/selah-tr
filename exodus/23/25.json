@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Yahve'ye, Elohim'inize ⟨⟨את⟩⟩ kulluk edeceksiniz; O ⟨את⟩ ekmeğinizi ve ⟨את⟩ suğunuzu kutsayacak; ve hastalığı içinden uzaklaştıracağım.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ve kulluk edeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ve kutsayacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekmeğini"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ekmeğini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "suğunu"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "suğunu"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ve uzaklaştıracağım"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "hastalığı"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "içinden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:24.902130592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Bir adam gibi ki annesi onu teselli eder, böylece ben sizi teselli edeceğim ve Yeruşalayim'de teselli bulacaksınız.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "bir adam gibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesi"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "onu teselli eder"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "sizi teselli edeceğim"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ve Yeruşalayim'de"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "teselli bulacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:59.696306258Z",
+  "model": "glm-5.3"
+}

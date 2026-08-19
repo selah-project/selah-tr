@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve şimdi, eğer günahlarını taşırsan ⟨da⟩ — ve eğer ⟨taşırmazsan⟩, ne olur sil beni, yazdığın kitabından.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "taşırsan"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "günahlarını"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "değilse"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "sil beni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ne olur"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "kitabından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "yazdığın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:22.283460247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Beni güçlü düşmanımdan ve beni nefret edenlerden kurtardı, çünkü benden güçlüydüler.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "beni kurtardı"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "düşmanımdan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "ve nefret edenlerimden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "güçlüydüler"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:10.451923508Z",
+  "model": "glm-5.3"
+}

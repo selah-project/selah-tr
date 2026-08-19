@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ölçü ipleri bana hoş yerlerde düştü; evet, mirasım ⟨⟨benim⟩⟩ için cazibeli.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "ölçü ipleri (mizar şeritleri)"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "hoş yerlerde"
+    },
+    {
+      "surface": "אף",
+      "gloss": "evet \/ hem de"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "miras"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "cazibeli \/ parlak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime (benim için)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:06.550117253Z",
+  "model": "glm-5.3"
+}

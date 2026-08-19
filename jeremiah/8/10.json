@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Bu yüzden karlarını başkalarına, tarlalarını mirasçılara vereceğim; çünkü küçüğünden büyüğüne hepsi haksız kazanç peşinde, peygamberinden kâhinine kadar hepsi yalan işliyor.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karlarını"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "karlarını"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "başkalarına"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "tarlalarını"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "mirasçılara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "küçüğünden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyüğüne"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "haksız kazanç peşinde"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "haksız kazanç"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "peygamberinden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhinine"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "işliyor"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-08-19T12:18:12.505225909Z",
+  "model": "glm-5.3"
+}

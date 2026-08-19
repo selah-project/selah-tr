@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 120,
+  "translation": "Ne verilecek sana, ve ne eklenenecek sana, ey hilekâr dil?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve ne"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ekleyecek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hilekâr"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:16.624237690Z",
+  "model": "glm-5.3"
+}

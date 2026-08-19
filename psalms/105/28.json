@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Karanlığı gönderdi ve karanlık oldu; ve ⟨את⟩ sözüne baş kaldırmadılar.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlığı"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "ve karanlık oldu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "baş kaldırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözüne"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "sözüne"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:08.087020769Z",
+  "model": "glm-5.3"
+}

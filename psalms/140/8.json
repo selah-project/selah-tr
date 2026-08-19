@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 140,
+  "translation": "Yahve, Adonay, kurtuluşumun gücü, savaş ⟨o⟩ gününde başımı örttün.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "gücü"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kurtuluşumun"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "örttün"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "başımı"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "savaş\/silah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:12.047659065Z",
+  "model": "glm-5.3"
+}

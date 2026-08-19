@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Ama ben seninleyim sürekli; benim sağ elimden tuttun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ama ben"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "tuttun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "sağ (elim)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:15.480362092Z",
+  "model": "glm-5.3"
+}

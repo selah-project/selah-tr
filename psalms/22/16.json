@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Gücüm çömlek parçası gibi kurudu, ve dilim çeneme yapıştı; ölüm toprağına beni koydun.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "kurudu"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "çömlek parçası gibi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ve dilim"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "yapıştı"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "çeneme"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ve toprağına"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "koydun beni"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:09.125940730Z",
+  "model": "glm-5.3"
+}

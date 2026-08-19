@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 37:33",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Onu tanıdı ve dedi: Oğlumun ketonesi! Kötü bir canavar onu yedi! Yosef parçalanarak yendi!",
+  "tokens": [
+    {
+      "surface": "ויכירה",
+      "gloss": "onu tanıdı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ketones (gömlek)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumun"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "canavar (canlı)"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "onu yedi"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "parçalanarak"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "yendi (parçalandı)"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:30.971574969Z",
+  "model": "glm-5.3"
+}

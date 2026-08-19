@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Yahve halkın arasına ⟨את⟩ o yılanları, o yakıcıları gönderdi; ve halkı ısırdılar; ve Yisrael'den çok halk öldü.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "halkın içine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o yılanları, o yakıcıları"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "o yılanları"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "o yakıcıları"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ve ısırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Yisrael'den"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:42.918250313Z",
+  "model": "glm-5.3"
+}

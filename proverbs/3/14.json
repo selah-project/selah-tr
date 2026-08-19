@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü onun kazancı gümüş ticaretinden iyidir, ve onun geliri altından değerlidir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "onun kazancı"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "ticaretinden"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "ve onun geliri"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "onun geliri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:24.511659021Z",
+  "model": "glm-5.3"
+}

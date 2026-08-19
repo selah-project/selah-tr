@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Dedi: «Çünkü ⟨את⟩ yedi dişi kuzuyu elinden alacaksın — bana tanıklık olsun ⟨diye⟩ — çünkü ben bu kuyuyu kazdım.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yedi dişi kuzuyu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "dişi kuzu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alacaksın"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "için \/ diye"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "tanıklık olarak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "kazdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu kuyuyu"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kuyu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:24.979034489Z",
+  "model": "glm-5.3"
+}

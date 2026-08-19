@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yalnız ⟨את⟩ şunu gördüm: Elohim insanı doğru yarattı, ama onlar birçoğu hileler aradılar. — bak, yalnızca bunu buldum: Elohim ⟨את⟩ insanı düz (doğru) yaptı; onlar ise pek çok düzen (hile) arayıp buldular.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bak \/ gör"
+    },
+    {
+      "surface": "זה",
+      "gloss": "şunu"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "buldum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yarattı \/ yaptı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "doğru \/ düz"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ama onlar"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "aradılar"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "düzenler \/ hileler"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pek çok"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:34.072917415Z",
+  "model": "glm-5.3"
+}

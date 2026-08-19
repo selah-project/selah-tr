@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yatak üzerinde ⟨olsa⟩ ya da üzerinde oturduğu eşya üzerinde, ona dokunduğunda akşama kadar kirli olacak.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "yatak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "eşya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "oturur"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "dokunduğunda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kirli olur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşama"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:10.972696721Z",
+  "model": "glm-5.3"
+}

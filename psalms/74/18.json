@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Bunu anımsa: düşman Yahve'ye hakaret etti, ve ahmak bir halk adını küfretti.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "anımsa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "hakaret etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve bir halk"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ahmak"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "küfrettiler"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:43.628408006Z",
+  "model": "glm-5.3"
+}

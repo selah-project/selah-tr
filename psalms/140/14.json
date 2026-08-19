@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 140,
+  "translation": "Evet, sadıklar adına şükredecek, dosdoğru olanlar ⟨את⟩ yüzünün önünde oturacak.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "evet"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sadıklar"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "şükredecek"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "adına"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oturacak"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dosdoğru olanlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünün"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:33.641348336Z",
+  "model": "glm-5.3"
+}

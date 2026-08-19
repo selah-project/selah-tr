@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 21:21",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "İşte sana kötülük getiriyorum ve ardını süpüreceğim, ve Ahav'dan duvar işeyenini, kapalıyı ve bırakılmışı İsrail'de keseceğim.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "işte"
+    },
+    {
+      "surface": "מבי",
+      "gloss": "getiriyorum"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "ve süpüreceğim"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ardını"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ve keseceğim"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahav'dan"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "işeyen"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "duvara"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ve kapalı olan"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ve bırakılmış olan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrail'de"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:54.442518745Z",
+  "model": "glm-5.3"
+}

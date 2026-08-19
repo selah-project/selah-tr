@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Ona hesed çeken olmasın ve yetimlerine lütfeden olmasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "משך",
+      "gloss": "çeken"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve olmasın"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "lütfeden"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "yetimlerine"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:55.491101411Z",
+  "model": "glm-5.3"
+}

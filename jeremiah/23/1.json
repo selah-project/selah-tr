@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Vay haline çobanların — yok edenlerin ve dağıtanların ⟨את⟩ sürüsünü, meram sürüsümün — Yahve'nin neum'u.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay haline"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "çobanların"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "yok edenlerin"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "ve dağıtanların"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürüsünü"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürüsünü"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "meram sürüsümün"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum'u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:11:05.199986353Z",
+  "model": "glm-5.3"
+}

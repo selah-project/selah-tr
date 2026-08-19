@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ancak eti, canıyla birlikte ⟨yani⟩ kanıyla yemeyeceksiniz.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "eti"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "canıyla"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "kanıyla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemeyeceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:02.595794437Z",
+  "model": "glm-5.3"
+}

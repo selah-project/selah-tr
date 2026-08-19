@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ama kimse demez: 'Beni yapan Eloah nerede, geceler boyunca ezgiler veren?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ama kimse ... demez"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demez"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "beni yapan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veren"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "ezgiler"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "geceler boyunca"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:14.744692970Z",
+  "model": "glm-5.3"
+}

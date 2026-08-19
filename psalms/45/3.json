@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "İnsan oğullarından daha güzelsin; lütuf dudaklarına döküldü; bu yüzden Elohim seni sonsuza dek kutsadı.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "güzelsin"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "döküldü"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "dudaklarına"
+    },
+    {
+      "surface": "על",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "seni kutsadı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:14.372330561Z",
+  "model": "glm-5.3"
+}

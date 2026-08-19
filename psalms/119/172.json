@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Dilim senin sözüne karşılık söylesin, çünkü bütün mitsvaların tsedektir.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "karşılık söylesin"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "dilim"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "senin sözüne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mitsvaların"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedektir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:08.307192467Z",
+  "model": "glm-5.3"
+}

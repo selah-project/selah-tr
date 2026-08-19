@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Güneşin altında gördüğüm bir kötülük var, ve o insan üzerinde ağırdır:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bir kötülük"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüğüm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ve ağırdır"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:42.788355956Z",
+  "model": "glm-5.3"
+}

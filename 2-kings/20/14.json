@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 20:14",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "O zaman Yeşayahu peygamber kral Hizkiyahu'nun yanına geldi ve ona dedi: Bu adamlar ne söylediler ve nereden geldiler sana? Hizkiyahu da dedi: Uzak bir ülkeden geldiler, Babil'den.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "söylediler"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "ve nereden"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "geldiler"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkeden"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "uzak"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geldiler"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babil'den"
+    }
+  ],
+  "timestamp": "2026-08-19T09:49:26.105883191Z",
+  "model": "glm-5.3"
+}

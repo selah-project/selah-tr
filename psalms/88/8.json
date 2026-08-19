@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Öfken benim üzerine bastı, ve bütün dalgalarınla ezip ezdün. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "benim üzerine"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "bastı"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "öfken"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "dalgalarınla"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "ezdin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:32.765991814Z",
+  "model": "glm-5.3"
+}

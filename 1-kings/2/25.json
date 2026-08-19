@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kral Şelomo, Yehoyada'nın oğlu Benayahuyu ⟨את⟩ eliyle gönderdi; o da ona saldırdı ve o öldü.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eliyle"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "saldırdı"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:19.074638880Z",
+  "model": "glm-5.3"
+}

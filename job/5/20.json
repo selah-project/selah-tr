@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Kıtlıkta seni ölümden fidyeyle kurtarır ⟨o⟩, savaşta ise kılıcın ellerinden.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "kıtlıkta"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "seni fidyeyle kurtarır"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümden"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ve savaşta"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ellerinden"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıcın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:21.005693460Z",
+  "model": "glm-5.3"
+}

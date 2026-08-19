@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü hükmümü ve davamı sen yaptın; tahta oturdun, adil yargıç ⟨olarak⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hükmümü"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "ve davamı"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "oturdun"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "tahta"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "yargıç"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adil"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:07.130192182Z",
+  "model": "glm-5.3"
+}

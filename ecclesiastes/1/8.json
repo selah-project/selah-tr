@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Bütün sözler yorgunluktan bitkindir; ⟨hiçbir⟩ insan onları söylemeye güç yetiremez; göz görmeye doymaz ve kulak duymaktan dolmaz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "yorgunluktan bitkindir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "güç yetiremez"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "söylemeye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "doymaz"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmeye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "dolmaz"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kulak"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "duymaktan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:05.357518003Z",
+  "model": "glm-5.3"
+}

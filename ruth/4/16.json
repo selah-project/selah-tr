@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Noomi ⟨את⟩ çocuğu aldı ve koynuna koydu ve ona süt anne oldu.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çocuğu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuğu"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "koynuna"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "süt anne"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:17.601390770Z",
+  "model": "glm-5.3"
+}

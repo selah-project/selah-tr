@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 13:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve eğer kepek deride yayılıp yayılmışsa, kâhinin onu görmesinden sonra — temizliğine ⟨dair⟩ — o zaman ikinci kez kâhine görünsün.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yayılıp"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "yayılmışsa"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "kepek"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "deride"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הראתו",
+      "gloss": "görülmesinden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kâhine"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "—"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "temizliğine"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "ve görünsün"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci kez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kâhine"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:38.416676819Z",
+  "model": "glm-5.3"
+}

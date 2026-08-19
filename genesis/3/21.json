@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yahve Elohim Adem'e ve karısına deri gömlekler yaptı ve onları giydirdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Adem'e"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "ve karısına"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "gömlekler"
+    },
+    {
+      "surface": "עור",
+      "gloss": "deri"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ve onları giydirdi"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:44.034809907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve neden bizi Mısır'dan yukarı getirdiniz, bizi bu kötü yere sokmak için? Ne ekim yeri, ne incir, ne asma, ne nar; ve içecek su yok.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ve neden"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "bizi yukarı getirdiniz"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "sokmak için"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "bizi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ekim"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ne incir"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ne asma"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ne nar"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ve su"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "içecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:38:40.522559122Z",
+  "model": "glm-5.3"
+}

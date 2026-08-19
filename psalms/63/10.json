@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 63,
+  "translation": "Ama onlar canımı yok etmeye araştırırlar; yerin alt katmanlarına girecekler.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "yok etmeye"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "araştırırlar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girecekler"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "alt katmanlarına"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:45.449421829Z",
+  "model": "glm-5.3"
+}

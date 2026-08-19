@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ne zamana dek, Yahve, beni unutacaksın — sonsuza dek mi? Ne zamana dek yüzünü benden saklayacaksın?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ne zamana dek"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "beni unutacaksın"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ne zamana dek"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "saklayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünü"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:33.044510228Z",
+  "model": "glm-5.3"
+}

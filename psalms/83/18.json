@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Utanç duysunlar ve sonsuza dek dehşete kapılsınlar, evet mahvolup perişan olsunlar.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "utanç duysunlar"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ve dehşete kapılsınlar"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sonsuza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ve mahvolup"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "perişan olsunlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:15.474459667Z",
+  "model": "glm-5.3"
+}

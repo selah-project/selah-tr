@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Kuş ⟨את⟩ Nimrod'u doğurdu; o, yeryüzünde güçlü biri olmaya başladı.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ve Kuş"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod'u"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "החל",
+      "gloss": "başladı"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmaya"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "güçlü biri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:10.343820297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Bana yaşamın yolunu bildireceksin; ⟨את⟩ yüzünde sevinçlerin tokluğu, sağ elinde sonsuza dek güzellikler ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "bildireceksin bana"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaşamın"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tokluğu"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "sevinçlerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünde"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "güzellikler"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "sağ elinde"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:14.215911745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve kurbanda Yişay'ı çağıracaksın, ve ben sana ⟨את⟩ yapacağın şeyi bildireceğim; ve sana söyleyeceğim kimseyi bana meshedeceksin.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "ve çağıracaksın"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yişay'ı"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "kurban(da)"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "sana bildireceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yapacağın şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ve meshedeceksin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sana söyleyeceğim kimseyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söyleyeceğim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:28.230049530Z",
+  "model": "glm-5.3"
+}

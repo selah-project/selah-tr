@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Gözüm canımı yaraladı bütün kızları yüzünden şehrim ⟨olan⟩",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "yaraladı"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... yüzünden"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "şehrim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:22.093331271Z",
+  "model": "glm-5.3"
+}

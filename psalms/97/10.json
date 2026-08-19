@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Ey Yahve'yi sevenler, kötülükten nefret edin; O, sadık kullarının canlarını korur, onları kötülerin elinden kurtarır.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "sevenler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "nefret edin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "canlarını"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sadık kullarının"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "kurtarır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:59.083296269Z",
+  "model": "glm-5.3"
+}

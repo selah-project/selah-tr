@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Çünkü sen yarattın böbreklerimi, ördün beni annemin rahminde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "yarattın"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "böbreklerim"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ördün beni"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "rahimde"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annemin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:33.264369383Z",
+  "model": "glm-5.3"
+}

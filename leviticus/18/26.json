@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve siz חוקlarımı ve משפטlarımı koruyacaksınız, ve bu iğrençliklerden hiçbirini yapmayacaksınız — ⟨the⟩ yerli ⟨ve⟩ içinizde konuk olan konuk için.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ve koruyacaksınız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "חוקlarımı"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "חוקlarımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "משפטlarımı"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "משפטlarımı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve yapmayacaksınız"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapmayacaksınız"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hiçbirini"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "iğrençliklerden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "yerli"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ve konuk"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "konuk olan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "içinizde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:46.453446607Z",
+  "model": "glm-5.3"
+}

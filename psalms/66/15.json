@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Besili yakmalıları sana sunacağım, koçların buhusuyla; boğaları teke oğlaklarla birlikte sunacağım. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "yakmalıları"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "besili"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "sunacağım"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "buhusuyla"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "koçların"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sunacağım"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "boğaları"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "teke oğlaklarla"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:46.124651138Z",
+  "model": "glm-5.3"
+}

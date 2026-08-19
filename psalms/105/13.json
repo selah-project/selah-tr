@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Gezindiler bir ulustan ulusa, bir krallıktan başka bir halka.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "gezindiler"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "bir ulustan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulusa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ulusa"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "bir krallıktan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "halka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka bir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:14.969877063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Yahve'yi bütün kalbimle öveceğim, bütün harikalarını anlatacağım.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "öveceğim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbimle"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "anlatacağım"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "harikalarını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:14.565819918Z",
+  "model": "glm-5.3"
+}

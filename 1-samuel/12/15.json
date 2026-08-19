@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve eğer Yahve'nin sesine uymaz ve ⟨את⟩ Yahve'nin ağzına başkaldırırsanız, Yahve'nin eli sizin ve atalarınızın üzerine olacak.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uymazsanız"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sesine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ve başkaldırırsanız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzı"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "יד",
+      "gloss": "eli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ve atalarınızın üzerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:08.171114216Z",
+  "model": "glm-5.3"
+}

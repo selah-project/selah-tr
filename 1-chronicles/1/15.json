@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "ve ⟨את⟩ Hivili'yi, ve ⟨את⟩ Arkili'yi ve ⟨את⟩ Sinili'yi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hivili'yi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivili'yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Arkili'yi"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkili'yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Sinili'yi"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinili'yi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:23.339196511Z",
+  "model": "glm-5.3"
+}

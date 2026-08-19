@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Yardımlarını kutsal ⟨manned⟩ yerden göndersin ve Siyon'dan seni desteklesin.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "göndersin"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "yardımlarını"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "kutsal yerden"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ve Siyon'dan"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "seni desteklesin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:26.020571005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Yahve Moşe'ye konuştu, ⟨şöyle⟩ diye:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:39.400857820Z",
+  "model": "glm-5.3"
+}

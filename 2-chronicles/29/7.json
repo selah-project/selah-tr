@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 29:7",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Üstelik Salonun kapılarını kapadılar ve ⟨את⟩ kandilleri söndürdüler; buhur yakmadılar ve kutsal yerde İsrail'in Elohim'ine yakılan sunu sunmadılar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "üstelik"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "kapadılar"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "kapılarını"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "Salonun"
+    },
+    {
+      "surface": "ויכבו",
+      "gloss": "ve söndürdüler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandilleri"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "kandilleri"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "ve buhur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הקטירו",
+      "gloss": "yakmadılar"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "ve yakılan sunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "sunmadılar"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kutsal yerde"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim'ine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T12:09:11.978631238Z",
+  "model": "glm-5.3"
+}

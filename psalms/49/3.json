@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Hem insan oğulları hem adam oğulları; zengin ve yoksul birlikte.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "zengin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve yoksul"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:49.913839558Z",
+  "model": "glm-5.3"
+}

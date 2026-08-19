@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "İsraillioğullarının Midyanlılardan ⟨את⟩ öcünü al; ondan sonra halkının yanına toplanacaksın.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "öcünü al"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "öç"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanlılar"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midyanlılar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ondan sonra"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "toplanacaksın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...e (yanına)"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "halkın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:02.668158828Z",
+  "model": "glm-5.3"
+}

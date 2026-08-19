@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ansızın gelen dehşetten korkma, kötülerin yıkımı geldiğinde ⟨de⟩ korkma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "dehşetten"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ansızın"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "yıkımından"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ettiğinde"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "geldiğinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:31.150409441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve o, ⟨את⟩ Yahve'nin evinde altı yıl gizlendi; ve Atalya ülke üzerinde hüküm sürüyordu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ve oldu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "onunla (Yehoşeva ile \/ Yo'aş ile)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "gizlendi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ve Atalya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "hüküm sürüyordu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:29.728166824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "Çünkü terk edilmiş, ruhu kederli bir kadın gibi çağırdı seni Yahve; ve gençlik karısını — hor görülmüştür, dedi senin Elohim'in.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "bir kadın gibi"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "terk edilmiş"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "ve kederli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "çağırdı seni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ve karısını"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "gençlik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "hor görülmüştür"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:22.520503590Z",
+  "model": "glm-5.3"
+}

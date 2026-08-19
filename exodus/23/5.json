@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Eğer düşmanının eşeğini yükünün altında yatarken görürsen ve onu bırakmaktan kaçınmak istersen, onunla birlikte mutlaka kaldır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görürsen"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eşeğini"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "seni utanın"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "yatarken"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "yükünün"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "ve kaçınmak istersen"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "bırakmaktan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "mutlaka kaldır"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "bırak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:25.420034762Z",
+  "model": "glm-5.3"
+}

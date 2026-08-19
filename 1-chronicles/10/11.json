@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Yaveş-Gilat'ın tamamı, Filistlilerin Şaul'a yaptıklarının ⟨את⟩ tamamını duydu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "duydu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tamamı"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaveş"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamamını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tamamını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaptıklarının"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptıkları"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistliler"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaul'a"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:12.974280513Z",
+  "model": "glm-5.3"
+}

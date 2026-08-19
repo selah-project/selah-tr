@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 4:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "İşte ⟨את⟩ bugün beni toprağın yüzünden kovdun ve senin yüzünden saklanacağım; yeryüzünde serseri ve kaçak olacağım ve ⟨olur ki⟩ beni bulan herkes beni öldürecek.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "גרשת",
+      "gloss": "kovdun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-den"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "ומפניך",
+      "gloss": "ve senin yüzünden"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "saklanacağım"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ve olacağım"
+    },
+    {
+      "surface": "נע",
+      "gloss": "serseri"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "ve kaçak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve ⟨olur ki⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "beni bulan"
+    },
+    {
+      "surface": "יהרגני",
+      "gloss": "beni öldürecek"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:37.691109023Z",
+  "model": "glm-5.3"
+}

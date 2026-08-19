@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Eğer üzerime ordu konaklasa, yüreğim korkmaz; eğer üzerime savaş kalksa, ⟨ben⟩ bunda güvenen ⟨kişiyim⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "konaklasa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "korkar"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yüreğim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kalksa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "bunda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "güvenen"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:51.627574634Z",
+  "model": "glm-5.3"
+}

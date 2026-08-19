@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Mıtzrayım kralı Paro Yüksełmiş ve ⟨את⟩ Gezer'i ele geçirmiş, onu ateşle yakmış, şehirde oturan ⟨את⟩ Kenanlı'yı öldürmüş ve onu kızına, Şelomo'nun eşine çeyiz olarak vermişti.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtzrayım"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Yüksełmiş"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ve ele geçirmiş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer'i"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "ve onu yakmış"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kenanlı'yı"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanlı"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürmüş"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ve onu vermişti"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "çeyiz\/boşatma armağanı"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "kızına"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "eş"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:15.788616178Z",
+  "model": "glm-5.3"
+}

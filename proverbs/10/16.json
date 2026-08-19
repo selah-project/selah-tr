@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Sadıkın kazancı hayata ⟨götürür⟩, kötünün geliri günaha ⟨götürür⟩.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "kazancı\/işi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadıkın"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "hayata"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "geliri\/ürünü"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günaha"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:02.845694063Z",
+  "model": "glm-5.3"
+}

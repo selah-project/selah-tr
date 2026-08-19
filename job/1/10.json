@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Sen onun için, evi için ve çevresinde ona ait her şey için ⟨bir çit⟩ örmüş değil misin? Ellerinin işini kutsadın ve malı yeryüzünde çoğaldı.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "çit ördün"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ve ... için"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ve ... için"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "kutsadın"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "ve malı"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "çoğaldı"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:27.162212647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İşte şişkin ⟨bir can⟩ — onun içinde doğru olmayan nefesi ⟨vardır⟩; ama sadık olan doğru kişi onunla yaşayacak.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "şişkin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefesi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun içinde"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ama doğru kişi"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "sadakatiyle"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:45:59.502500594Z",
+  "model": "glm-5.3"
+}

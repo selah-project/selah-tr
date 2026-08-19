@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Atalarımız Mısır'da ⟨⟨senin⟩⟩ harikalarını kavrayamadılar; merhametlerinin bolluğunu ⟨את⟩ anımsamadılar; Kamış Denizi'nde, denizde ⟨⟨ona⟩⟩ başkaldırdılar.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-madılar"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "kavrayamadılar"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "harikalarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-madılar"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "anımsamadılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merhametlerinin bolluğunu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bolluğunu"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "merhametlerinin"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "başkaldırdılar"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı \/ üzerinde"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denizde"
+    },
+    {
+      "surface": "בים",
+      "gloss": "denizde"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Kamış Denizi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:38.433477591Z",
+  "model": "glm-5.3"
+}

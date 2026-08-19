@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve sırıkları halkalara ⟨sokulacak⟩; ve sırıklar sunağın iki yanında olacak, onu taşırken.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "ve sokulacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sırıkları"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sırıkları"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "halkalara"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sırıklar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "taşırken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (sunak)"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:45.731660508Z",
+  "model": "glm-5.3"
+}

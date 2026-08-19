@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve Şmuvel ölmüştü, ve bütün Yişrael ona yas tutmuştu, ve onu Ramah'ta, kendi şehrinde gömmüşlerdi. Ve Şaul, ülke-ruhçuları ve ⟨את⟩ bilicileri ülkeden uzaklaştırmıştı.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ve Şmuvel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölmüştü"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "yas tuttular"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "gömdüler onu"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramah'ta"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "ve kendi şehrinde"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ve Şaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "uzaklaştırdı"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ülke-ruhçuları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bilicileri"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "bilicileri"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "ülkeden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:49.683835616Z",
+  "model": "glm-5.3"
+}

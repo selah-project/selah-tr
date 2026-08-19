@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kral onlara sert cevap verdi ve kral Rehavam ihtiyarların ⟨את⟩ öğüdünü terk etti.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "onlara cevap verdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sert"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "terk etti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öğüdü"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "öğüdünü"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ihtiyarların"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:11.927717133Z",
+  "model": "glm-5.3"
+}

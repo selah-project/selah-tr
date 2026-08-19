@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Buğday ve arpa, asma, incir ve nar olan bir ülke; zeytinyağı ve bal olan bir ülke.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bir ülke"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "buğday"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ve arpa"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ve asma"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ve incir"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ve nar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bir ülke"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytin"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ve bal"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:31.027905959Z",
+  "model": "glm-5.3"
+}

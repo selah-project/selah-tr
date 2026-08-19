@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Hizkiya, Yahve'nin evinde ve kral evinin hazinelerinde bulunan bütün gümüşü verdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün gümüşü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "bulunan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ve hazinelerinde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:55.162382122Z",
+  "model": "glm-5.3"
+}

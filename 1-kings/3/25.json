@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve kral dedi: Diri çocuğu ikiye bölün ve yarısını birine, yarısını ⟨da⟩ ötekine verin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "bölün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri çocuğu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "החי",
+      "gloss": "diri"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ikiye"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ve verin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yarı"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "yarı"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "birine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yarı"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "yarı"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ötekine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:16.142970438Z",
+  "model": "glm-5.3"
+}

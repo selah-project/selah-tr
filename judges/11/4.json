@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve günlerden sonra oldu ki, Ammon oğulları İsrail'le savaştılar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "günlerden sonra"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ve savaştılar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:27.758061527Z",
+  "model": "glm-5.3"
+}

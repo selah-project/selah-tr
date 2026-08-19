@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Bilmezler mi avon işleyenler — halkımı yiyenler ekmeği yediler? Elohim'i çağırmadılar.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmezler"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işleyenler"
+    },
+    {
+      "surface": "און",
+      "gloss": "avon"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "yiyenler"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yediler"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmeği"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırdılar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:12.481530951Z",
+  "model": "glm-5.3"
+}

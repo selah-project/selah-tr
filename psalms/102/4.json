@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Çünkü günlerim dumanda tükendi, ve kemiklerim köz gibi kavruldular.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "dumanda"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerim"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ve kemiklerim"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "קד",
+      "gloss": "köz"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "kavruldular"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:33.254340107Z",
+  "model": "glm-5.3"
+}

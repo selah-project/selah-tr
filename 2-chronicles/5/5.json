@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve sandığı ⟨את⟩, toplantı çadırını ⟨את⟩ ve çadırdaki tüm kutsal eşyayı ⟨את⟩ yukarı çıkardılar; ⟨את⟩ onları ⟨את⟩ Levi kâhinler çıkardı.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "yukarı çıkardılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "çadırı"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tüm eşyayı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "eşyayı"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırda"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "çıkardılar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-19T12:02:52.746228918Z",
+  "model": "glm-5.3"
+}

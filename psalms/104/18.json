@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Yüksek dağlar dağ keçileri içindir; kayalar tapirler için sığınaktır.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "yüksek"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "dağ keçileri içindir"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "kayalar"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "tapirler için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:20.330620040Z",
+  "model": "glm-5.3"
+}

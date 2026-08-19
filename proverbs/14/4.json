@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Öküzler yokluğunda yemlik tertemizdir, ama çok ürün öküzün gücüyle ⟨gelir⟩.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "yokluğunda"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "öküzler"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "yemlik"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tertemiz"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ürün"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "gücüyle"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküzün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:03.690630520Z",
+  "model": "glm-5.3"
+}

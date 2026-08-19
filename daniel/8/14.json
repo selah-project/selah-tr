@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve bana dedi: İki bin üç yüz akşam-sabaha dek; sonra kutsal ⟨yer⟩ doğrulanacak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "akşam"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki bin"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ve üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "ve doğrulanacak"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal ⟨yer⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T11:44:36.029950026Z",
+  "model": "glm-5.3"
+}

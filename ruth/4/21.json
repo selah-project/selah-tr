@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Salmon ⟨את⟩ Boaz'ı babası oldu ⟨את⟩ Oved'i de Boaz babası oldu.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "ve Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz'ı"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "ve Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved'i"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:59.632060751Z",
+  "model": "glm-5.3"
+}

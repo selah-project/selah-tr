@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Onlara kulak vermeyin; Babil kralına ⟨את⟩ kulluk edin ve yaşayın; neden ⟨⟨bu şehir⟩⟩ bir harabe olsun?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…me(–yin)"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kulak vermeyin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kulluk edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babil kralına"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ve yaşayın"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bu şehir"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "bir harabe"
+    }
+  ],
+  "timestamp": "2026-08-19T10:12:01.399298153Z",
+  "model": "glm-5.3"
+}

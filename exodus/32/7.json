@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Yahve Moşe'ye konuştu: «Git, in; çünkü senin halkın — Mıtsrayim ülkesinden çıkardığın — yoldan saptı.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "רד",
+      "gloss": "in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "yoldan saptı"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "senin halkın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "çıkardığın"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:52.382016200Z",
+  "model": "glm-5.3"
+}

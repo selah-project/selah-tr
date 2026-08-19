@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ekmeğini suların yüzüne sal; çünkü çok gün sonra onu bulacaksın.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sal"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ekmeğini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çokluğunda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlerin"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "onu bulacaksın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:23.333495943Z",
+  "model": "glm-5.3"
+}

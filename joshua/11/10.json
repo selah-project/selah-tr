@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yehoşua o zamanda döndü ve ⟨את⟩ Hatsor'u ele geçirdi ve ⟨את⟩ kralını kılıçla vurdu; çünkü Hatsor önceden tüm bu krallıkların ⟨başı⟩ydı.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanda"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ve ele geçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor'u"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kralını"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kılıçla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "önceden"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "krallıkların"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:32.960034977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Yahve, Hizkiyahu'yu dinledi ve halkı şifa verdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ve dinledi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu'yu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ve şifa verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    }
+  ],
+  "timestamp": "2026-08-19T12:09:29.242023079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve kurbanın etinden arta kalan ise üçüncü gün ateşte yakılacaktır.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ve arta kalan"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "etinden"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "kurbanın"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yakılacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:02.874631385Z",
+  "model": "glm-5.3"
+}

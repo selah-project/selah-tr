@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve her köle, bir adamın parayla satın alınmış ⟨את⟩ onu, o zaman ondan yiyebilir.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "köle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "satın alınmış"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "parayla"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ve sünnet ettiğinde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yiyebilir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:51.403616491Z",
+  "model": "glm-5.3"
+}

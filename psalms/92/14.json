@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Yahve'nin evine dikilmiş ⟨fidanlar⟩, Elohimimizin avlularında çiçek açarlar.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "dikilmiş"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evine… içinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "avlularında"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "çiçek açarlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:16.049579184Z",
+  "model": "glm-5.3"
+}

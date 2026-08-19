@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Azarından kaçtılar; gök gürültüsünün sesinden telaşla uzaklaştılar.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-ından"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "azarından"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "kaçtılar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-inden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesinden"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "gök gürültüsünün"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "telaşla uzaklaştılar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:20.943254647Z",
+  "model": "glm-5.3"
+}

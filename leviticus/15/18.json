@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve bir kadın ki bir adam ⟨את⟩ ona tohum akıntısıyla yatacak, ikisi de suda yıkanacak ve akşama kadar tame olacaklar.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "ve bir kadın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatacak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ona (kadını)"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yatış"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "ve yıkanacaklar"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ve tame olacaklar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşama"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:11.063715331Z",
+  "model": "glm-5.3"
+}

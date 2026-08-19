@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çukur kazdı ve onu oydu; kazdığı çukura kendisi düşer.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "çukur"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "kazdı"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ve onu oydu"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ve düşer"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "çukura"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "yaptığı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:02.060775842Z",
+  "model": "glm-5.3"
+}

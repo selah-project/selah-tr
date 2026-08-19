@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Kralın sözünün olduğu yerde ⟨hüküm⟩ hükümrandır; ve kim ona «Ne yapıyorsun?» diyebilir?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "hükümrandır"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "diyebilir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapıyorsun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:18.376129334Z",
+  "model": "glm-5.3"
+}

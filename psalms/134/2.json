@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 134,
+  "translation": "Ellerinizi kutsal ⟨mahalleye⟩ kaldırın ve Yahve'yi kutsayın.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "kaldırın"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ellerinizi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal ⟨mahalleye⟩"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ve kutsayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.697292470Z",
+  "model": "glm-5.3"
+}

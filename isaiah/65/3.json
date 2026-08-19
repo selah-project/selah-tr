@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 65,
+  "translation": "Yüzüme karşı durmadan beni ⟨את⟩ öfkelendiren halk — bahçelerde kurban kesen, tuğlalar üzerinde buhur yakan.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "öfkelendiren"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüme"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "durmadan"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "kurban kesen"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "bahçelerde"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ve buhur yakan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "tuğlalar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:04:26.290304810Z",
+  "model": "glm-5.3"
+}

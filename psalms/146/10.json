@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Yahve ebediyen saltanat sürecektir — Elohim'in, ey Tsiyon, nesilden nesile. Halelu-Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "saltanat sürecektir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ey Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nesilden"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nesile"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:38.237132726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Harman ve şırahane onları doyurmayacak, ⟨ve⟩ yeni şıra ona yalan söyleyecek.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "harman"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "ve şırahane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "onları doyurmayacak"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ve yeni şıra"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "yalan söyleyecek"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:01.813607938Z",
+  "model": "glm-5.3"
+}

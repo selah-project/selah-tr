@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve kuzunun her birine bir ondalık — on dört kuzu için.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ve bir ondalık"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "bir ondalık"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "kuzuya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "dörde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "kuzular"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:44.492530187Z",
+  "model": "glm-5.3"
+}

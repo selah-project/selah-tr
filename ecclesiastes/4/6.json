@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Avuç dolusu huzur, iki avuç dolusu emek ve rüzgârın kaygısından iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolusu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "avuç"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "huzur"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "-dan dolu"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "iki avuç"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "emek"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ve kaygı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgâr"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:22.785367157Z",
+  "model": "glm-5.3"
+}

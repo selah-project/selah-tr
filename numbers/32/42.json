@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Novah gitti ve Kenat'ı ⟨את⟩ ve onun kızköylerini ⟨את⟩ ele geçirdi ve ona kendi adıyla Novah adını verdi.",
+  "tokens": [
+    {
+      "surface": "וינבח",
+      "gloss": "Ve Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ve ele geçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat'ı"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat'ı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "onun kızköylerini"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "onun kızköylerini"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve adını verdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "kendi adıyla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:42:30.116832997Z",
+  "model": "glm-5.3"
+}

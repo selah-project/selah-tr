@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve bir adam ki babasının karısıyla yatsa — babasının çıplaklığını açmıştır — ikisi de kesinlikle öldürülecektir; kanları onların üzerinde ⟨olacaktır⟩.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karısı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmıştır"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülecektir"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi de"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "kanları"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların üzerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:29.803333865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Davut ⟨את⟩ o Peleştilinin başını aldı ve onu Yeruşalayim'e getirdi; ⟨את⟩ aletlerini ise çadırına koydu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "o Peleştilinin"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "onu getirdi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "aletlerini"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "aletlerini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "çadırına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:53.213059381Z",
+  "model": "glm-5.3"
+}

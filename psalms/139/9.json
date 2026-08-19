@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Şafakın kanatlarını taksam, denizin en ucunda barınsam —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "taksam"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "kanatlarını"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "şafakın"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "barınsam"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "en ucunda"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denizin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:23.763445988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Başları üzerinde kel yeri yapmayacaklar, sakallarının kenarını tıraş etmeyecekler ve bedenlerinde kesiği kesiş yapmayacaklar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mayacaklar"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "kel yeri yapmak"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kel yeri"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "başları üzerinde"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "ve kenarını"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "sakallarının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmeyecekler"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "tıraş etmek"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "ve bedenlerinde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaklar"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "kesmek"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "kesik"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:32.573605690Z",
+  "model": "glm-5.3"
+}

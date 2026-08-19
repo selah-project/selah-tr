@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve dedi: Kendim üzerine ant içtim, Yahve'nin bildirisiyle; çünkü ⟨את⟩ şu şeyi yaptın ve ⟨את⟩ oğlunu, ⟨את⟩ biricik oğlunu esirgedin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kendim üzerine"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ant içtim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bildirisiyle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יען",
+      "gloss": "-dığı için"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu şeyi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "şu şeyi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "esirgedin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biricik oğlunu"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "biricik oğlunu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:47.302540287Z",
+  "model": "glm-5.3"
+}

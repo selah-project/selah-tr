@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "İşte bunlar kötüler; ve sonsuz huzur içinde yaşayanlar zenginliğe ulaştılar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ve huzur içinde yaşayanlar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ulaştılar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "zenginliğe"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:03.825158136Z",
+  "model": "glm-5.3"
+}

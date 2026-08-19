@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve o zamanda oldu: Yehuda kardeşlerinin yanından ⟨את⟩ indi ve bir Adullamlı adamın yanına yöneldi, adı Hirah idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ yanından",
+      "marks": "kardeşlerinin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yöneldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adullamlı"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hirah"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:22.266733138Z",
+  "model": "glm-5.3"
+}

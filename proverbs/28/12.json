@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Doğrular sevinince büyük ⟨bir⟩ yücelik ⟨vardır⟩; kötüler kalkınca insan aranır ⟨hale gelir⟩.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "sevinince"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "doğrular"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "yücelik"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "kötüler kalkınca"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "aranır"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:27.903898951Z",
+  "model": "glm-5.3"
+}

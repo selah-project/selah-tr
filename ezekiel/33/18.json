@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Sadık, sadakatinden döndüğünde ve haksızlık yaptığında, onların içinde ölecek.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "döndüğünde"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadık"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "sadakatinden"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yaptığında"
+    },
+    {
+      "surface": "עול",
+      "gloss": "haksızlık"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ve ölecek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:33:46.376111027Z",
+  "model": "glm-5.3"
+}

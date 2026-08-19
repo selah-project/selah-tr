@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kalbimde dedim ki: Gel, haydi, seni sevinçle sınayım ve iyi olanı gör; ve işte, o da heveldir.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "kalbimde"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "haydi"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "seni sınayım"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sevinçle"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ve gör"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "iyi olanı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveldir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:15.969938068Z",
+  "model": "glm-5.3"
+}

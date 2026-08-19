@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Yahve'nin övgüsünü ağzım söyleyecek ve bütün beden kutsal adını bereketleyecek, sonsuza dek ve daha öteye.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "övgüsünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "söyleyecek"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve bereketleyecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "beden"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve daha öteye"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:52.867129460Z",
+  "model": "glm-5.3"
+}

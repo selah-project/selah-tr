@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Utanç duysunlar oyma putlara kulluk edenlerin hepsi, putlarla övünenler; ⟨O'na⟩ secde edin, bütün elohim!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "utansınlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulluk edenlerin"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "oyma puta"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "övünenler"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "putlarla"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "secde edin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨O'na⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.054926451Z",
+  "model": "glm-5.3"
+}

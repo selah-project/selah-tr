@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 52,
+  "translation": "Sana sonsuza dek şükredeceğim, çünkü ⟨bunu⟩ yaptın; adını bekleyeceğim, çünkü ⟨adın⟩ iyidir haslarının önünde.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "sana şükredeceğim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ve bekleyeceğim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "haslarının"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:32.494778089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yahve, Sina çölünde Moşe'ye söyleyerek şöyle dedi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "söyleyerek dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölünde"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:51.287657926Z",
+  "model": "glm-5.3"
+}

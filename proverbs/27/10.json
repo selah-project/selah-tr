@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Arkadaşını ve babanın arkadaşını terk etme, ve kardeşinin evine felaket gününde girme; yakın komşu, uzak kardeşten iyidir.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "arkadaşını"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ve arkadaşı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "terk"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ve evine"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girme"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "felaketin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "komşu"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yakın"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "kardeşten"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "uzak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:59.198442273Z",
+  "model": "glm-5.3"
+}

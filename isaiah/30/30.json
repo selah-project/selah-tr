@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Yahve ⟨את⟩ sesinin görkemini duyuracak ve kolunun inişini gösterecek — öfkeyle burun delikleri kabararak ve yiyen ateş aleviyle; savurma, sel boşaltımı ve dolu taşıyla.",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "duyuracak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "görkemini (sesinin görkemi)"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sesinin"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "ve inişi"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "kolunun"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "gösterecek"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "öfkeyle"
+    },
+    {
+      "surface": "אף",
+      "gloss": "burun delikleri"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "ve aleviyle"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "yiyen"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "savurma"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "ve sel boşaltımı"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ve taşı"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "dolu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:52.483118231Z",
+  "model": "glm-5.3"
+}

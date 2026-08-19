@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ Emorluların bütün sınırını — Arnon'dan Yabbok'a ve çölden Yarden'e kadar — mülk edindiler.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "ve mülk edindiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sınırı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sınırı"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorluların"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "Arnon'dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve kadar"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabbok'a"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve -den"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve kadar"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:12.791285097Z",
+  "model": "glm-5.3"
+}

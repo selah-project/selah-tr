@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve aranıza ⟨את⟩ kırlığın hayvanını göndereceğim ve sizi yavrusuz bırakacak, ⟨את⟩ hayvanlarınızı kesecek, sizi azaltacak ve yollarınız ıssız kalacak.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "göndereceğim"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aranıza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kırlığın hayvanını"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hayvanını"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kırlığın"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "yavrusuz bırakacak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "kesecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayvanlarınızı"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "hayvanlarınızı"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "azaltacak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "ıssız kalacak"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "yollarınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:18.603440980Z",
+  "model": "glm-5.3"
+}

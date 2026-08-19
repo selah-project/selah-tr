@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Çünkü şöyle dedim: Ayağım kayarken sevinmesinler diye benim üzerime büyüklük yaptılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "diye...-mesin"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinmesinler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "kayarken"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayağım"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "büyüklük yaptılar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:18.374244455Z",
+  "model": "glm-5.3"
+}

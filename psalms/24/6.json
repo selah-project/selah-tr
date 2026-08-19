@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "İşte bu ⟨זה⟩ nesil, O'nu arayan, yüzünü arayan nesildir — ⟨הוא⟩ Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nesil"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "arayan"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "dileyen"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:12.118334952Z",
+  "model": "glm-5.3"
+}

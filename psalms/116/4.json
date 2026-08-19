@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Ve Yahve'nin adıyla çağırdım: Ah, Yahve, kaçır kurtularak canımı!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "ve adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "kurtar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:07.657641870Z",
+  "model": "glm-5.3"
+}

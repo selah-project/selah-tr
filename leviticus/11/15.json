@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "⟨את⟩ her kuzgunu türünden.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her kuzgun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kuzgun"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "türünden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:00.541369244Z",
+  "model": "glm-5.3"
+}

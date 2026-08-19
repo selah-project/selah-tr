@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve olaydı: Şelomo Yahve'nin evini, kralın evini ve Şelomo'nun yapmayı istediği her arzunu inşa edince,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve olaydı"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "edince, bitince"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "inşa etmek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kralın evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "her arzunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "arzunu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo'nun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "istedi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmayı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:27.908914121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "On iki yıl Kedorlaomer'e kulluk ettiler ⟨את⟩ Kedorlaomer ⟨için⟩, ve on üçüncü yıl isyan ettiler.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kulluk ettiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ve üç"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "isyan ettiler"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:33.383461474Z",
+  "model": "glm-5.3"
+}

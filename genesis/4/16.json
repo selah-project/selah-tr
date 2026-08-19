@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kayin Yahve'nin huzurundan çıktı ve Eden'in doğusunda Nod ülkesinde oturdu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "huzurundan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve oturdu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "doğusunda"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden'in"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:37.691462997Z",
+  "model": "glm-5.3"
+}

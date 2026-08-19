@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Gökte oturan gülecek; Adonay onlarla alay edecek.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "gökte"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "gülecek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "alay edecek"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlarla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:56.466480454Z",
+  "model": "glm-5.3"
+}

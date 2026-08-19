@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Çünkü suçlarım başımı aştı; ağır bir yük gibi, benden ağır geldi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "suçlarım"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "aştı"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımı"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "yük gibi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "ağır geldi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:01.069166716Z",
+  "model": "glm-5.3"
+}

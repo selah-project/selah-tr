@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Duy, Yahve, ve bana lutfet; Yahve, bana yardımcı ol.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Duy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ve bana lutfet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yardımcı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana ... ⟨ için ⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:50.973835352Z",
+  "model": "glm-5.3"
+}

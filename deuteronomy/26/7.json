@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve atalarımızın Elohim'i Yahve'ye yalvardık; ve Yahve ⟨את⟩ sesimizi işitti ve ⟨את⟩ sefaletimizi, ⟨את⟩ emeğimizi ve ⟨את⟩ ezilmişliğimizi gördü.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "ve yalvardık"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımızın"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ve işitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesimizi"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "sesimizi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefaletimizi"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "sefaletimizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "emeğimizi"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "emeğimizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ezilmişliğimizi"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ezilmişliğimizi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:49.882766188Z",
+  "model": "glm-5.3"
+}

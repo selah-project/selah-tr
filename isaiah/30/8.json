@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Şimdi git, onu bir tablet üzerine ⟨onların huzurunda⟩ yaz ve bir kitaba ⟨oysun⟩; sonsuz gelecek gün için ⟨tanıklık⟩ olarak dursun, ebediyen, sonsuza dek.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "git"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "yaz onu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tablet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onların huzurunda (görerek)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitap"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "oysun \/ kazı"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ve o olsun"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "gün için"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "son \/ gelecek"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "değince"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebediyat"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:50.610796745Z",
+  "model": "glm-5.3"
+}

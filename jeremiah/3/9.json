@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve oldu, zinasının hafifliğinden ötürü ⟨את⟩ yeri kirletti ve ⟨את⟩ taşla ve ⟨את⟩ ağaçla zina etti.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "hafifliğinden"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "zinasının"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "kirletti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "zina etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taşla"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "taşla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ağaçla"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağaçla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:05:35.389952825Z",
+  "model": "glm-5.3"
+}

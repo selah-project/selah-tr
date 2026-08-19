@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Çünkü su damlalarını ⟨kendine⟩ çeker, bulutlarının buharından yağmur süzülür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "çeker\/azaltır"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "damlalarını"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "süzülür"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağmur"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "onun buharından"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:52.428778117Z",
+  "model": "glm-5.3"
+}

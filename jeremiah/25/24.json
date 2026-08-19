@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "ve ⟨את⟩ Arab'ın bütün krallarını ve çölde oturan karma halkın ⟨את⟩ bütün krallarını;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün krallarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün krallarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "karma halk"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:11:20.236044548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Şaul ulaklar gönderdi Yişay'a ve dedi: «Gönder bana oğlun Davut'u, sürüde olanı.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve-gönderdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ulaklar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "gönder"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davut'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…olan"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sürüde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:24.546054490Z",
+  "model": "glm-5.3"
+}

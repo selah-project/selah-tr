@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "İç düşünceleri: evleri sonsuza dek, konakları nesilden nesile; topraklara kendi adlarını vermişler.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "içleri"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "evleri"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "konakları"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nesile"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ve nesile"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ad taktılar"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "kendi adlarıyla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "topraklara"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:37.850106614Z",
+  "model": "glm-5.3"
+}

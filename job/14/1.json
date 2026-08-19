@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "İnsan, kadından doğmuş, günleri kısa ve kargaşayla doludur.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "İnsan"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "doğmuş"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadından"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "kısa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ve doludur"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "kargaşayla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:08.683907047Z",
+  "model": "glm-5.3"
+}

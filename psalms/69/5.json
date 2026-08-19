@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Saçlarımdan çok oldular beni sebepsiz nefret edenler; gücendiler beni yok etmeye kalkanlar, yanlış düşmanlarım — gasp etmediğim şeyi o zaman geri vereceğim.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "çok oldular"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "saçlarımdan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "beni nefret edenler"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sebepsiz"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "gücendiler"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "beni yok etmeye kalkanlar"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yanlış (yere)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "gaspat­tım"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "geri vereceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:15.141323251Z",
+  "model": "glm-5.3"
+}

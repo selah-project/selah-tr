@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Kalk, arzda boyu ve eni boyunca yürü, çünkü onu sana vereceğim.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kalk"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "yürü"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "arzda"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "boyu boyunca"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "ve eni boyunca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "onu vereceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:59.190693735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Sana haykırıyorum, ama bana karşılık vermiyorsun; ⟨ben⟩ ayakta duruyorum, sen ⟨de⟩ bana bakıp duruyorsun.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "haykırıyorum"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "bana cevap veriyorsun"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ayakta durdum"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "ve bakıp düşünüyorsun"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:05.968905708Z",
+  "model": "glm-5.3"
+}

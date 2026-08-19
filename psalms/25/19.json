@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Gör düşmanlarımı, çünkü çoğaldılar, ve zorbalık nefretiyle nefret ettiler bana.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmanlarımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoğaldılar"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "ve nefretiyle"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorbalık"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "nefret ettiler bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:21.102281873Z",
+  "model": "glm-5.3"
+}

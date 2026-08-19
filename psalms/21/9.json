@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Elin tüm düşmanlarını bulacak, sağ elin senden nefret edenleri bulacak.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "bulacak"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmanlarını"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ elin"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bulacak"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "senden nefret edenleri"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:53.500972778Z",
+  "model": "glm-5.3"
+}

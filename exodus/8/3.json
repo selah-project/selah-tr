@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Büyücüler de gizli sanatlarıyla böylece yaptılar ve ⟨את⟩ kurbağaları Mısır ülkesinin üzerine çıkardılar.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ve yaptılar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "büyücüler"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "gizli sanatlarıyla"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ve çıkardılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurbağaları"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kurbağaları"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesinin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:10.082463639Z",
+  "model": "glm-5.3"
+}

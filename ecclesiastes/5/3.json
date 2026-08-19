@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Elohim'e bir adak adadığın zaman, onu ödemeyi geciktirme; çünkü ahmaklarda ⟨hiçbir⟩ hoşnutluk yoktur; adadığın ⟨את⟩ şeyi öde.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "olduğunda"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "adadığın"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "bir adak"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…me"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "geciktirme"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "onu ödemeyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hoşnutluk"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "ahmaklarda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adadığın şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "adadığın"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "adadığın"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "öde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:31.948811856Z",
+  "model": "glm-5.3"
+}

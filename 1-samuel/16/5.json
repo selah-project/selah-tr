@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve şöyle dedi: Selametle; Yahve'ye kurban için geldim; kendinizi kutsayın ve benimle kurbana gelin. Ve Yişay'ı ve oğullarını kutsadı ve onları kurban için çağırdı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve şöyle dedi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "selametle"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kurban için"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "geldim"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "kendinizi kutsayın"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ve gelin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ benimle"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "kurbana"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yişay'ı"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kurban için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:30.303715661Z",
+  "model": "glm-5.3"
+}

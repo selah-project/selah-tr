@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 24:25",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Onlar ondan ayrılıp gittiklerinde — çünkü onu ⟨את⟩ birçok hastalıkla bırakmışlardı — kulları, kohen Yehoyada'nın oğullarının kanları yüzünden ona karşı komplo kurdular ve onu yatağının üzerinde öldürdüler; o da öldü. Onu David şehrinde gömdüler, fakat kralların mezarlarında gömmediler.",
+  "tokens": [
+    {
+      "surface": "ובלכתם",
+      "gloss": "ayrılıp gittiklerinde"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bırakmışlardı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yo'aş)"
+    },
+    {
+      "surface": "במחליים",
+      "gloss": "hastalıklarla"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "birçok"
+    },
+    {
+      "surface": "התקשרו",
+      "gloss": "komplo kurdular"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona karşı"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "kanları yüzünden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "öldürdüler"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "yatağının"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "gömdüler"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fakat değil"
+    },
+    {
+      "surface": "קברהו",
+      "gloss": "gömdüler"
+    },
+    {
+      "surface": "בקברות",
+      "gloss": "mezarlarında"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kralların"
+    }
+  ],
+  "timestamp": "2026-08-19T12:07:39.468120685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 114,
+  "translation": "Dağlar koçlar gibi zıpladı, tepeler sürü yavruları gibi.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "zıpladı"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "koçlar gibi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tepeler"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "…yavruları gibi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:35.891768408Z",
+  "model": "glm-5.3"
+}

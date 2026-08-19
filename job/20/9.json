@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Gözü ⟨onu⟩ gördü ⟨ve⟩ artık görmeyecek; ⟨onun⟩ yerinden ⟨onu⟩ yine görmeyecek.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "gözü"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "onu gördü"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "artık eklemeyecek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "onu görmeyecek"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "yerinden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:08.097147197Z",
+  "model": "glm-5.3"
+}

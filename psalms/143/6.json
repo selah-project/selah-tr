@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Ellerimi sana doğru açtım, canım yorgun toprak gibi ⟨senden⟩ yalvarıyor sana. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "açtım"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerimi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "toprak gibi"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "yorgun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:32.064597959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ebediyen unutmayacağım senin buyruklerini, çünkü onlarla canlandırdın beni.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma (olumsuzluk)"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "unutacağım"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "senin buyruklerini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "candırdın beni"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:32.566264521Z",
+  "model": "glm-5.3"
+}

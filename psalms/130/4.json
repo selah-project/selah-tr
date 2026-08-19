@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 130,
+  "translation": "Çünkü seninle ⟨birliktedir⟩ bağışlama — ⟨bunun için⟩ saygıyla korkulasın diye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "bağışlama"
+    },
+    {
+      "surface": "למען",
+      "gloss": "—bunun için—"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "korkulasın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.905082792Z",
+  "model": "glm-5.3"
+}

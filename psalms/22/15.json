@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Sular gibi döküldüm, ve bütün kemiklerim dağıldı; yüreğim balmumu ⟨gibi⟩ oldu, içimde eridi.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "sular gibi"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "döküldüm"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "ve dağıldı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kemiklerim"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yüreğim"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "balmumu gibi"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "eridi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "içim (bağırsaklarım)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:09.125785536Z",
+  "model": "glm-5.3"
+}

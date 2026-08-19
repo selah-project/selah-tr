@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Benzerliği parçalamayı arzu eden aslan gibidir, genç aslan gibi gizli yerlerde pusuda yatar.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "benzerliği"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "aslan gibi"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "arzu eder"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "parçalamayı"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "ve genç aslan gibi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturur\/pusuda yatar"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "gizli yerlerde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:29.383195424Z",
+  "model": "glm-5.3"
+}

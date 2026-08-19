@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve dedi: Git, Daniel, çünkü ⟨bunlar⟩ gizlenmiş ve mühürlenmiş sözlerdir, son zamana dek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "סתומים",
+      "gloss": "gizlenmiş"
+    },
+    {
+      "surface": "וחתומים",
+      "gloss": "ve mühürlenmiş"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zamanına"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "son"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:57.378232041Z",
+  "model": "glm-5.3"
+}

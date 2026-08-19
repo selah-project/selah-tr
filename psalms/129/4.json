@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 129,
+  "translation": "Yahve adaletlidir, kötülerin urganlarını kesti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adaletlidir"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "kesti"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "urganlarını"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:32.815780290Z",
+  "model": "glm-5.3"
+}

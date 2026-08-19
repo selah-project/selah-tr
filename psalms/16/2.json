@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Yahve'ye dedim: «Sen benim Adonay'ımsın; ⟨⟨senin⟩⟩ dışında ⟨⟨hiçbir⟩⟩ iyiliğim ⟨yok⟩.»",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "iyiliğim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yok \/ hiçbir"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senin dışında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:05.466352736Z",
+  "model": "glm-5.3"
+}

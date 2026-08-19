@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ve Elohim'in sunağına gireceğim, sevincimin coşkusunun Elohim'i El'e; kenarla sana şükredeceğim, Elohim, Elohim'im.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "ve gireceğim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunağına"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El'e"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "sevinci"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "coşkumun"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ve sana şükredeceğim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kenarla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:10.309495032Z",
+  "model": "glm-5.3"
+}

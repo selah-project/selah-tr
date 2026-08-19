@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve sandığı şöyle yapacaksın ⟨את⟩ onu: üç yüz arşın sandığın uzunluğu, elli arşın eni, ve otuz arşın yüksekliği.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ve bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "onu ⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sandığın"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "elli"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "eni"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ve otuz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "yüksekliği"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:26.478288473Z",
+  "model": "glm-5.3"
+}

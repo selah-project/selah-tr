@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Bütün önderlerin birlikte kaçtı, yayın ardına bağlandı; bulunmuşların hepsi birlikte tutsak alındı — uzaklara kaçtılar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "önderlerin (senin)"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "yay(dan)"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bağlandılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "bulunmuşların (senin)"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bağlandılar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uzaklara"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "kaçtılar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:15.593283528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Kral Ester'e altın asayı uzattı; Ester kalktı ve kralın önünde durdu.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "uzattı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asayı"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "asa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ve durdu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:00.442255363Z",
+  "model": "glm-5.3"
+}

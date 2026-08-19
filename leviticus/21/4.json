@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Kavmi arasında ⟨bir⟩ efendi ⟨olsa da⟩ kendini kirletmesin — kendini kutsalsınlastirmasin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kendini kirletmesin"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "efendi\/koca"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "kavmi arasında"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "kendini kutsaldan çıkarmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:14.209416196Z",
+  "model": "glm-5.3"
+}

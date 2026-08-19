@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Kim anlatabilir Yahve'nin güçlü işlerini, kim duyurabilir ⟨O'nun⟩ bütün övgüsünü?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "anlatabilir"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "güçlü işlerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "duyurabilir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "övgüsünü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:31.732044087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Boş adamlarla oturmadım ve sinsi, gizlenenlerle gelmeyeceğim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "oturdum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "adamlarla"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "boş"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve birlikte"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "gizlenenlerle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "geleceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:23.428064467Z",
+  "model": "glm-5.3"
+}

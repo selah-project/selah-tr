@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Çünkü bir adam ⟨את⟩ düşmanını bulursa, onu iyi bir yoldan gönderir mi? Ve Yahve sana bugün bana yaptığın şeyin karşılığı olarak iyilik ödesin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bulursa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşmanını"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "düşmanını"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ve gönderir"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "sana ödesin"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılığında"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "yaptığın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:05.554658076Z",
+  "model": "glm-5.3"
+}

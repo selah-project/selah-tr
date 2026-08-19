@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Kapıda uyarıcıdan nefret ederler ve dosdoğru konuşanı iğrenirler.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "nefret ederler"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kapıda"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "uyarıcı"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ve konuşan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dosdoğru"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "iğrenirler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:42:48.653610366Z",
+  "model": "glm-5.3"
+}

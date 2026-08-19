@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve ziyafet evine girme ⟨onlarla⟩ oturmak için ⟨את⟩ yemek ve içmek için ⟨onlar⟩.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ve evine"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ziyafet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girme"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oturmak için"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "yemek"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemek"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ve içmek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:09:19.840948951Z",
+  "model": "glm-5.3"
+}

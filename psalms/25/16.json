@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yüzünü bana çevir ve bana lütuf göster, çünkü yalnız ve biçareyim ben.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "yüzünü çevir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ve bana lütuf göster"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ve biçare"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:29.655968135Z",
+  "model": "glm-5.3"
+}

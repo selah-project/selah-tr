@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve ⟨את⟩ evin zeminini altınla kapladı — içeriye ve dışarıya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evin zeminini"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "zeminini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kapladı"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altınla"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "içeriye"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ve dışarıya"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:37.981693527Z",
+  "model": "glm-5.3"
+}

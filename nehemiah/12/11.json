@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yoyada ⟨את⟩ Yonatan'ın babası oldu, ve Yonatan ⟨את⟩ Yadua'nın babasıydı.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Ve Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ve Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-08-19T11:51:56.708288070Z",
+  "model": "glm-5.3"
+}

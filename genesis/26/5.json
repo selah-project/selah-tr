@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Çünkü Avraham sesime kulak verdi ve nöbetimi, buyruklarımı, kurallarımı ve toralarımı korudu.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kulak verdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sesime"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ve korudu"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "nöbetimi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "buyruklarımı"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "kurallarımı"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ve toralarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:26.935969385Z",
+  "model": "glm-5.3"
+}

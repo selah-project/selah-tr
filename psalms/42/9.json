@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Gündüz Yahve sadakatini buyuracak, ve gecede bir şarkı ⟨benimle olacak⟩, hayatımın El'ine bir duam.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "buyuracak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sadakatini"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ve gecede"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El'e"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayatımın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:44.811975716Z",
+  "model": "glm-5.3"
+}

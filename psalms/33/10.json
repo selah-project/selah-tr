@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Yahve ulusların planını boşa çıkardı, halkların tasarılarını geçersiz kıldı.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "boşa çıkardı"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "planını"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "geçersiz kıldı"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "tasarılarını"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halkların"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:00.029021054Z",
+  "model": "glm-5.3"
+}

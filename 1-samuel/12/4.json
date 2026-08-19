@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve dediler: Bizi ezmedin, bimi eziyor-geçirmedin, ve bir adamın elinden hiçbir şey almadın.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "bizi ezdin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "bizi eziyor-geçirdin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "aldın"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hiçbir şey"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:29.185435392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ⟨האדם⟩ Adem, karısı Havva'yı tanıdı; hamile kaldı ve Kayin'i doğurdu ve dedi: Yahve ile ⟨את⟩ bir erkek kazandım.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "ve Adem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tanıdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Havva'yı"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havva"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "hamile kaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayin'i"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "kazandım"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir erkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:38.686690290Z",
+  "model": "glm-5.3"
+}

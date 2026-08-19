@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Bizim ⟨ise⟩ Elohim'imiz Yahve'dir ve onu bırakmadık; Yahve'ye hizmet eden kâhinlerimiz var: Aharon'un oğulları ve Leviyiler, ⟨görev⟩ işinin başında.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ama biz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "onu bıraktık"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "ve kâhinler"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "hizmet edenler"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ve Leviyiler"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "işin içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:58.482793251Z",
+  "model": "glm-5.3"
+}

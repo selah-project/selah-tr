@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ikinci ayda, ayın yirmi yedinci gününde yeryüzü tamamen kurudu.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ve ayda"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "yedisinde"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ve yirmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "kurudu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:41.909722020Z",
+  "model": "glm-5.3"
+}

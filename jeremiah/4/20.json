@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yıkım üstüne yıkım çağrılıyor, çünkü bütün ⟨ülke⟩ yağmalandı; bir anda yağmalandı çadırlarım, bir göz kırpımında perdelerim.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstüne"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "çağrılıyor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "yağmalandı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke (arz)"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "bir anda"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "yağmalandı"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "çadırlarım"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "bir göz kırpımı"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "perdelerim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:05:34.075391157Z",
+  "model": "glm-5.3"
+}

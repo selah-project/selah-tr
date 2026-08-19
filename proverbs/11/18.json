@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Kötü, aldatıcı bir emek ⟨kazanır⟩; doğruluğu eken ⟨ise⟩ gerçek bir ücret ⟨kazanır⟩.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapar"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "emek"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "aldatıcı"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ve eken"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "doğruluk"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ücret"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gerçek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:12.042037312Z",
+  "model": "glm-5.3"
+}

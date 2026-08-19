@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 130,
+  "translation": "Suçları gözetlesen Yah, Adonay, kim ayakta durabilir?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "suçları"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "gözetlesen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ayakta durabilir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.904939131Z",
+  "model": "glm-5.3"
+}

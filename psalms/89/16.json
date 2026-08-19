@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Ne mutlu ⟨o⟩ halka — sevinç narasını bilenlere; Yahve, senin yüzünün ışığında yürürler.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "bilenlere"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sevinç narasını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ışığında"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "yürürler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:13.754436141Z",
+  "model": "glm-5.3"
+}

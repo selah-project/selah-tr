@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "O gün insan gümüş putlarını ⟨את⟩ ve altın putlarını ⟨את⟩, kendisine tapmak için yapılmış olanları, köstebeklere ve yarasalara atacak.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "o günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "atacak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüş putlarını"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "putlarını"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altın putlarını"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "putlarını"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "altın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yapmış"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "tapmak için"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "köstebeklere"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "delik"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "ve yarasalara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:31.394113238Z",
+  "model": "glm-5.3"
+}

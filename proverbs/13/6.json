@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Doğruluk, yolda kusursuz olanı korur, ama kötülük günahı yoldan saptırır.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "doğruluk"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kusursuz olanı"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "ama kötülük"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "yoldan saptırır"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günahı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:32.478791692Z",
+  "model": "glm-5.3"
+}

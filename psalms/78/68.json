@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve Yahuda oymağını seçti, ⟨את⟩ Siyon dağını, ⟨את⟩ sevdiğini.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "seçti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda oymağını"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "oymak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siyon dağını"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevdi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:14.274620545Z",
+  "model": "glm-5.3"
+}

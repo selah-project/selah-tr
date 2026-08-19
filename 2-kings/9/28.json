@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve kulları ⟨את⟩ onu Yeruşalayim'e götürdüler ve ⟨את⟩ onu kendi mezarına — atalarıyla birlikte, Davud şehrinde — gömdüler.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "arabaya bindirip götürdüler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yeruşalayim'e"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ve gömdüler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "kendi mezarına"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarıyla"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehrinde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:25.132260476Z",
+  "model": "glm-5.3"
+}

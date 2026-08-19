@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Çocuklar onun içinde birbirini eziyorlardı; o da dedi: Eğer böyleyse, neden bu ⟨ben⟩? Ve Yahve'yi ⟨את⟩ sormaya gitti.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "ezziyorlardı"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "çocuklar"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "onun içinde"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyleyse"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "sormaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:47.468599098Z",
+  "model": "glm-5.3"
+}

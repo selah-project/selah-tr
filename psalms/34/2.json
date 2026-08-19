@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yahve'yi ⟨את⟩ her zaman kutsayacağım; sürekli O'nun övgüsü ağzımda ⟨olacak⟩.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "kutsayacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zamanda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "O'nun övgüsü"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağızda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:11.012374941Z",
+  "model": "glm-5.3"
+}

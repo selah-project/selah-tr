@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ve ⟨את⟩ kardeşinizi alın ve kalkın, o adama dönün.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşinizi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kardeşinizi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "alın"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ve kalkın"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "dönün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o adam"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:09.130114370Z",
+  "model": "glm-5.3"
+}

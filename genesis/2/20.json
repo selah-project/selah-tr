@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve insan bütün ehli hayvanlara, göklerin kuşlarına ve tarlanın bütün hayvanlarına adlar koydu; ama insana karşısına denk bir yardımcı bulunamadı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve ad koydu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün...lara"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ehli hayvanlara"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "ve kuşlarına"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hayvanına"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "ama insana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "bulunamadı"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yardımcı"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "karşısına denk"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:17.589959565Z",
+  "model": "glm-5.3"
+}

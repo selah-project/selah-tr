@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Hırsız gördüğünde onunla birlikte koştun ve zina edenlerle paydasın oldun.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "-dığında"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "hırsız"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "koştun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve ile"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "zina edenlerle"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "paydasın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:08.289557592Z",
+  "model": "glm-5.3"
+}

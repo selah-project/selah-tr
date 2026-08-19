@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Çünkü Yahve kutsal yerinin yüksekliğinden eğilip baktı, gökten yeryüzüne göz dikti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "eğilip baktı"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yüksekliğinden"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal yerinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gökten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzüne"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "göz dikti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:22.744495720Z",
+  "model": "glm-5.3"
+}

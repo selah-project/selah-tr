@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Eğer o geçer ve ⟨birini⟩ hapseder ve mahkemeyi toplarsa, onu kim geri çevirebilir?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "geçer"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "ve hapseder"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "ve toplar"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "onu geri çevirir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:18.700226578Z",
+  "model": "glm-5.3"
+}

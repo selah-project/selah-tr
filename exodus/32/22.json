@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Aharon dedi: Efendimin öfkesi tutmasın; sen ⟨את⟩ halkı biliyorsun, çünkü o kötülüktedir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "tutmasın"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "biliyorsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kötülükte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:53.107817407Z",
+  "model": "glm-5.3"
+}

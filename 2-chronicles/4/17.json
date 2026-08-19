@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yarden ovasında onları kral döktü, Sukkot ile Tseredah arasındaki killi toprakta.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "ovasında"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "onları döktü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "killi kalınlığında"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve arasında"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Tseredah"
+    }
+  ],
+  "timestamp": "2026-08-19T12:02:51.807955959Z",
+  "model": "glm-5.3"
+}

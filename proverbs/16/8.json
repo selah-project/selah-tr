@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Doğrulukla az ⟨mal⟩ iyidir; haksızlıkla ⟨gelen⟩ bol gelirlerden ⟨daha iyi⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "doğrulukla"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "bol miktarda"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "gelirlerden"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "olsuz"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:19.203483584Z",
+  "model": "glm-5.3"
+}

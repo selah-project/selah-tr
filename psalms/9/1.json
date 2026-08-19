@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ezgiciye, «Almut Levan» üzerine; Davud'a ait bir mezamir.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ezgiciye"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "«Almut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Levan» üzerine"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "bir mezamir"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:14.565619957Z",
+  "model": "glm-5.3"
+}

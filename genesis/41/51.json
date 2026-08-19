@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Ve Yosef ilkdoğanın adına Menaşe dedi, çünkü Elohim bana bütün emeğimi ve bütün babamın evini unutturdu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve … adını koydu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adına"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ilkdoğan"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "unutturdu bana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün emeğimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "emeğimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün babamın evini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babamın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:10.170665048Z",
+  "model": "glm-5.3"
+}

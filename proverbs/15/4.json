@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Şifalı dil bir yaşam ağacıdır, ama ondaki eğrilik ruhta kırılma ⟨yapar⟩.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "şifalı"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağacı"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaşam"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ama eğrilik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ondaki"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kırılma"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruhta"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:07.445616434Z",
+  "model": "glm-5.3"
+}

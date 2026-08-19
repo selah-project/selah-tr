@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Moşe dedi: Onu bugün yiyin, çünkü bugün Yahve'ye şabattır; bugün onu tarlada bulmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "onu yiyin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "onu bulacaksınız"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:39.074757500Z",
+  "model": "glm-5.3"
+}

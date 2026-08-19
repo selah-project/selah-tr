@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 101,
+  "translation": "Gözlerim ülkenin sadıklarının üzerinde olacak — yanımda otursunlar diye; kusursuz yolda yürüyen, işte ⟨o⟩ bana hizmet edecek.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözlerim"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sadıklarına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "otursunlar diye"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yanımda"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "bana hizmet edecek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:41.315038805Z",
+  "model": "glm-5.3"
+}

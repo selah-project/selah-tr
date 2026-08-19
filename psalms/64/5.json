@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Kusursuz olanı gizli yerlerden vurmak için; ansızın ona ok atarlar ve korkmazlar.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "vurmak için (ok atmak)"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "gizli yerlerden"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kusursuz olanı"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ansızın"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ona atarlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve korkmazlar değil"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "korkarlar"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:42.684612709Z",
+  "model": "glm-5.3"
+}

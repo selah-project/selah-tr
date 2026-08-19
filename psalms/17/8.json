@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Beni gözün bebeği gibi koru, kanatlarının gölgesinde beni sakla.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "beni koru"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "bebeği gibi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızını\/oğlunu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözün"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "gölgesinde"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kanatlarının"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "beni sakla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:33.596237808Z",
+  "model": "glm-5.3"
+}

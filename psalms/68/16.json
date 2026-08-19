@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Elohim'in ⟨את⟩ dağı, Başan ⟨את⟩ dağıdır; tepeler ⟨את⟩ dağı, Başan ⟨את⟩ dağıdır.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Başan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "tepeler (gabnunnim)"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Başan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:35.043715863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Yine hamile kaldı ve bir oğul doğurdu; ve ⟨את⟩ onun adını Onan diye çağırdı.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hamile kaldı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:22.267214070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Üçüncü yıl olunce Yehoşafat, Yahuda kralı, Yisra'el kralına doğru indi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "olunca"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yılda"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e doğru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T09:43:09.379525194Z",
+  "model": "glm-5.3"
+}

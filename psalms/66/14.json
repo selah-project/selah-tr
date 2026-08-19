@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Dudaklarımın açtığını, ağzımın sıkıntımda söylediğini.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "açtı"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudaklarımın"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ve söyledi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımın"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sıkıntıda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:46.124471897Z",
+  "model": "glm-5.3"
+}

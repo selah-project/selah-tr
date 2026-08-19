@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve şafak sökerken melekler Lot'u sıkıştırdılar, şöyle diyerek: Kalk, karını ⟨את⟩ ve burada bulunan iki kızını ⟨את⟩ al, yoksa şehrin suçuyla birlikte yok edilirsin.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "ve ... olduğu gibi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "şafak"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "ve acele ettirdiler"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "melekler"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lot'u"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karını"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "karını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "iki kızını"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "kızını"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "bulunan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "yok edilirsin"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "suçuyla birlikte"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:07.573741990Z",
+  "model": "glm-5.3"
+}

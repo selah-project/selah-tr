@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Babamız dedi: Dönün, bize biraz yiyecek satın alın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "babamız"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "dönün"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "satın alın"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "biraz"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:59.444361228Z",
+  "model": "glm-5.3"
+}

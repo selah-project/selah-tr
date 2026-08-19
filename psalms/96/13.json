@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Yahve'nin önünde, çünkü O geliyor, çünkü geliyor yeryüzünü yargılamak için; dünyayı adaletle yargılayacak ve halkları ⟨O'nun⟩ sadakatiyle.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geliyor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geliyor"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "yargılamak için"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünü"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "yargılayacak"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyayı"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "adaletle"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ve halkları"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "sadakatiyle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:13.453784300Z",
+  "model": "glm-5.3"
+}

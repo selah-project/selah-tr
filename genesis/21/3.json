@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Avraham kendisine doğan, Sara'nın kendisine doğurduğu oğlunun ⟨את⟩ adını Yitshak çağırdı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "doğan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurmuş olduğu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:11.109167482Z",
+  "model": "glm-5.3"
+}

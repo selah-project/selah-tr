@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Gençliğimin günahlarını ve isyanlarımı anımsama; hesed'ine göre anımsa beni, sen — iyiliğin uğruna, Yahve.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "günahlarını"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "gençliğimin"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "ve isyanlarımı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "anımsa"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "hesed'ine göre"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anımsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "iyiliğin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:38.145543224Z",
+  "model": "glm-5.3"
+}

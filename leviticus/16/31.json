@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Şabat, tam dinlenme Şabatıdır sizin için; ve canlarınızı ⟨את⟩ alcaltacaksınız — sonsuz bir düzen.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Şabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "tam dinlenme Şabatı"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o-dır"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ve alcaltacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlarınızı"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "canlarınızı"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "düzen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:32.052183649Z",
+  "model": "glm-5.3"
+}

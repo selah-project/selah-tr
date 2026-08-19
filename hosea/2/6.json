@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ⟨את⟩ oğullarına merhamet etmeyeceğim, çünkü zina çocuklarıdır onlar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarına"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "merhamet edeceğim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בני",
+      "gloss": "çocukları"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zina"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:54.724914118Z",
+  "model": "glm-5.3"
+}

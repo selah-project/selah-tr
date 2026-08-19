@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 52,
+  "translation": "Edomlu Doeg gelip Şaul'a haber verdi ve ona: \"David, Ahimelek'in evine geldi\" dedi.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "geldiğinde"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomlu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "haber verdi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaul'a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:42.207879153Z",
+  "model": "glm-5.3"
+}

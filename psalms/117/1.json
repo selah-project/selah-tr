@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 117,
+  "translation": "Övün Yahve'yi ⟨את⟩ bütün uluslar, yüceltin O'nu bütün halklar!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "yüceltin O'nu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "halklar"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:25.610063896Z",
+  "model": "glm-5.3"
+}

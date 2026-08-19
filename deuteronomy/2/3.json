@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Yeter size bu dağı ⟨את⟩ dolaşmanız; kendinize kuzeye doğru dönün.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "yeter"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "סב",
+      "gloss": "dolaşmanız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu dağı"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "dönün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendinize"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "kuzeye doğru"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:23.259279170Z",
+  "model": "glm-5.3"
+}

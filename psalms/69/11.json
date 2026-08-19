@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Oruç tuttuğumda canımı ağlattım ⟨νε⟩ ve bu bana hakaret oldu.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "ve ağladım"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "oruçta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "hakaretlere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T12:36:46.835493961Z",
+  "model": "glm-5.3"
+}

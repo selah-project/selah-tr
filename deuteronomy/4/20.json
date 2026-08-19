@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ⟨sizi⟩ Yahve aldı ve sizi Mısr'dan, demir fırınından çıkardı; ⟨bunun amacı⟩ bugün olduğu gibi O'na miras bir halk olmanızdı",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ve ⟨את⟩ sizi",
+      "marks": "aldı"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "çıkardı"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "demir fırınından"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "fırınından"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısr'dan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmanız"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'na"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "miras"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:37.602207489Z",
+  "model": "glm-5.3"
+}

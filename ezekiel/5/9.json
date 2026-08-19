@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve sende ⟨את⟩ yapmadığım şeyi ve ⟨את⟩ bir daha benzerini yapmayacağım şeyi yapacağım, bütün iğrencliklerinin yüzünden.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ve yapacağım"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yapmadığım şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "benzerini yapmayacağım şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yapacağım"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "benzerini"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "יען",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "iğrencliklerinin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:23:38.666569088Z",
+  "model": "glm-5.3"
+}

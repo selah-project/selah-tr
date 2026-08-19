@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Olsun bereket tahılı yeryüzünde, dağların başında; meyvesi Lübnan gibi salınsın; şehirden yeryüzünün otu gibi tomurcuklansınlar.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "bir tutam"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tahıl"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "başında"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "salınacak"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Lübnan gibi"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "meyvesi"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ve tomurcuklanacaklar"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şehirden"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ot gibi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:15.202179847Z",
+  "model": "glm-5.3"
+}

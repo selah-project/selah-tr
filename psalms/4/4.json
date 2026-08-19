@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve bilin ki Yahve kendi has kullarından ayırdığını seçmiştir; ben O'na yakardığımda Yahve işitecektir.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "ve bilin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ayırdığını seçmiştir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "has kul"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendi...için"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "işitecektir"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "yakardığımda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "O'na"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:40.453296492Z",
+  "model": "glm-5.3"
+}

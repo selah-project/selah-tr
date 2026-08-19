@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Çünkü ⟨bu⟩ bir ulustur, ⟨onlar⟩ öğütten yoksun; onlarda anlayış yoktur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ulus"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yoksun \/ kaybolmuş"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "öğütten"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "anlayış"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:42.097559876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Çünkü kötüler yok olacaklardır, ve Yahve'nin düşmanları kuzuların külçesi gibi — duman içinde yok olup bitecekler, tükenecekler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yok olacaklardır"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ve düşmanları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "külçesi gibi"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "kuzuların"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yok olup bitecekler"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "duman içinde"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükenecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:21.632489897Z",
+  "model": "glm-5.3"
+}

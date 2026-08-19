@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Yahve halkı ⟨את⟩ vurdu, çünkü ⟨את⟩ buzağıyı yaptılar — Aharon'un yaptığı buzağıyı.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Ve vurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "על",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…dıkları için"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzağıyı"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "buzağıyı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:58.162522192Z",
+  "model": "glm-5.3"
+}

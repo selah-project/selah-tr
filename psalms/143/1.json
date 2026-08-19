@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Mizmor, Davud'a ait. Yahve, duamı işit, yakarışıma kulak ver; sadakatınle beni yanıtla, tsidkatınle.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "işit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yakarışıma"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "sadakatınle"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "beni yanıtla"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "tsidkatınle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:48.896238534Z",
+  "model": "glm-5.3"
+}

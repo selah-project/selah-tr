@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü Yahve'nin iğrendiği şey sapık olandır; ⟨את⟩ doğrularla ise O'nun sırrıdır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "iğrençlik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "sapık"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "doğrularla"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "doğrular"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "O'nun sırrı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:37.686422605Z",
+  "model": "glm-5.3"
+}

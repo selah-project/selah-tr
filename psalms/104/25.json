@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "İşte ⟨bu⟩ deniz, büyük ve iki yanı geniş; orada sayısız sürünenler var, küçük canlılarla büyükler ⟨birlikte⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ve geniş"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "iki yanı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünenler"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayısı"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "canlılar"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "büyükler"
+    }
+  ],
+  "timestamp": "2026-08-19T12:37:03.963184947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve ⟨את⟩ sizleri uluslar arasında savuracağım ve arkanızdan kılıç çekeceğim; toprağınız yıkım yeri olacak ve kentleriniz ıssız olacak.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ sizleri",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "savuracağım"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "uluslar arasında"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "ve çekeceğim"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "arkanızdan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "toprağınız"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "yıkım yeri"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "ve kentleriniz"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ıssız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:08.275128701Z",
+  "model": "glm-5.3"
+}

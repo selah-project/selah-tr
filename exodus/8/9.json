@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Yahve, Moşe'nin sözüne göre yaptı; ve kurbağalar evlerden, avlulardan ve tarlalardan öldüler.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözüne göre"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'nin"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ve öldüler"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kurbağalar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "evler"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "avlular"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve -den"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "tarlalar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:01.416850296Z",
+  "model": "glm-5.3"
+}

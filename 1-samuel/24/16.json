@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve olsun Yahve yargıç, ve yargılasın benimle senin aranda, ve görsün ve dava sürsün ⟨את⟩ davamı, ve bana hüküm versin elinden.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve olsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "yargıç olarak"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ve yargılasın"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "senin aranda"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve görsün"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ve dava sürsün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "davamı"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "davamı"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ve bana hüküm versin"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "elinden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:57.612607589Z",
+  "model": "glm-5.3"
+}

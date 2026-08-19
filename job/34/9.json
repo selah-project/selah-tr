@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 34:9",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Çünkü 'İnsanoğlu, Elohim'le birlikte hoşnut olmaktan ⟨kâr⟩ elde etmez' demiştir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demiştir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "kâr eder \/ fayda sağlar"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "insanoğlu"
+    },
+    {
+      "surface": "ברצתו",
+      "gloss": "hoşnut olduğunda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:58.847352468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve İsrail evi ⟨את⟩ onun adını Man diye çağırdı; ve o, kişniş tohumu gibiydi, beyaz; ve tadı bal ile yapılmış bir gofret gibiydi.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ve çağırdılar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "tohumu gibi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kişniş"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "beyaz"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "ve tadı"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "gofret gibi"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "bal ile"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:49.159802877Z",
+  "model": "glm-5.3"
+}

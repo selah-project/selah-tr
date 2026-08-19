@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Uzun günler yaptı Yehoşua ⟨את⟩ bütün bu krallarla savaş.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "uzun\/çok"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu krallar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "krallar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:17.258927682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü İsrail ⟨bir⟩ çocuktu, ve onu sevdim, ve oğlumu Mısır'dan çağırdım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נער",
+      "gloss": "çocuktu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ve onu sevdim"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ve Mısır'dan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğlumu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:21.133771815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "İsrail oğulları Yahve'ye feryat edip dediler: Sana günah işledik, çünkü Elohim'imizi bıraktık ve Baalları ⟨את⟩ Beyt-haBaallara kulluk ettik.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "feryat ettiler"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "günah işledik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "bıraktık"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim'imizi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizi"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ve kulluk ettik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baallara"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baallara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:47.193861798Z",
+  "model": "glm-5.3"
+}

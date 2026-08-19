@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Bulutları yeryüzünün uçlarından yükselten, yağmur için şimşekleri yapan, rüzgârı ⟨kendi⟩ hazinelerinden çıkaran ⟨Odur⟩.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "yükselten"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "bulutları"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "uçlarından"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "şimşekleri"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "yağmur için"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "çıkaran"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgârı"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "hazinelerinden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:12.149413350Z",
+  "model": "glm-5.3"
+}

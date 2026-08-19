@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Yahve bana dedi: Kendine büyük bir tablet al ve üzerine insan yazı kalemiyle yaz: Maher-Şalal-Haş-Baz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "tablet"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ve yaz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "kalemle"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher (tez ganimet)"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Şalal (ganimet)"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Haş (çabuk)"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz (yağma)"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:29.271286525Z",
+  "model": "glm-5.3"
+}

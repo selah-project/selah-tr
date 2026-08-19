@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve Elohim onun üzerinden yükseldi — kendisiyle konuştuğu yerde.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ve yükseldi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "onun üzerinden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştuğu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "onunla (öncelikli olarak 'with him' eyleminde, H854 prepositional use)"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:43.126355197Z",
+  "model": "glm-5.3"
+}

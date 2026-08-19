@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve oğullarınızı ⟨את⟩ ve kızlarınızı ⟨את⟩ Yehuda oğullarının eline satacağım, ve onları uzak bir mile, Şevaim'e satacaklar; çünkü Yahve konuştu.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "ve satacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarınızı"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oğullarınızı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kızlarınızı"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "kızlarınızı"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eline"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "ve onları satacaklar"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "Şevaim'e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ile ilgili"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mile"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "uzak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:04.971562646Z",
+  "model": "glm-5.3"
+}

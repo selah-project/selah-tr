@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Adonay ona güler, çünkü görmüştür ki günü gelecektir.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "güler"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmüştür"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gelecektir"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "günü"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:33.980840862Z",
+  "model": "glm-5.3"
+}

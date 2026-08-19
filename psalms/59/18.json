@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Ey gücüm, sana ezgi söyleyeceğim; çünkü Elohim sığınağımdır, sadakatimin Elohim'i.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ezgi söyleyeceğim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "sadakatimin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:37.268654560Z",
+  "model": "glm-5.3"
+}

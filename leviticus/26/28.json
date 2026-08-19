@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ben de öfkeyle, karşıtlık içinde sizinle yürüyeceğim ve sizleri yedi kez cezalandıracağım, ben bile, günahlarınız üzerine ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "yürüyeceğim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinle"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "öfkeyle"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "karşıtlık"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "cezalandıracağım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi kez"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "günahlarınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:35.386994868Z",
+  "model": "glm-5.3"
+}

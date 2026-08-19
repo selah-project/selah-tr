@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ben gelip sizi sizin ülkeniz gibi bir ülkeye, ⟨את⟩ siz — tahıl ve şıra ülkesine, ekmek ve bağlar ülkesine — götürünceye dek.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "באי",
+      "gloss": "benim gelmem"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ve alıp götüreyim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "ülkeniz gibi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "tahıl"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ve şıra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "ve bağlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:41.512509933Z",
+  "model": "glm-5.3"
+}

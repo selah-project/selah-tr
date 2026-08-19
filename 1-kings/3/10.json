@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve ⟨söz⟩ Adonay'ın gözünde iyi oldu, çünkü Şelomo ⟨את⟩ bu sözü istemişti.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ve iyi oldu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "istedi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:53.703524010Z",
+  "model": "glm-5.3"
+}

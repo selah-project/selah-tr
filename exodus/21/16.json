@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve bir adamı çalıp onu satan, ya da ⟨adam⟩ onun elinde bulunursa, ölümle öldürülecektir.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "çalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adamı"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "onu satan"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "bulunursa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "onun elinde"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümle"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:53.192841722Z",
+  "model": "glm-5.3"
+}

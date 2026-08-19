@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ağzımın gönüllü sunularını hoşnut ol ⟨lütfen⟩ kabul et, Yahve; ve hükümlerini bana öğret.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "gönüllü sunularını"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımın"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "hoşnut ol kabul et"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ve hükümlerini"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "bana öğret"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:17.543384661Z",
+  "model": "glm-5.3"
+}

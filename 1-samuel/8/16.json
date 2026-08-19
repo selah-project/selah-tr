@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ⟨את⟩ erkek kölelerinizi, ⟨את⟩ kadın kölelerinizi, ⟨את⟩ en iyi delikanlılarınızı ve ⟨את⟩ eşeklerinizi alacak ve kendi işine koyacak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "erkek kölelerinizi"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "erkek kölelerinizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadın kölelerinizi"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "kadın kölelerinizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "delikanlılarınızı"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "delikanlılarınızı"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "en iyileri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eşeklerinizi"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "eşeklerinizi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alacak"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yapacak"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "kendi işine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:02.441574888Z",
+  "model": "glm-5.3"
+}

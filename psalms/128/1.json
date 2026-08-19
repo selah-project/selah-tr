@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 128,
+  "translation": "Yükselişlerin şarkısı. Ne mutlu herkese, Yahve'den korkana, O'nun yollarında yürüyene.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkese"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yürüyene"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "O'nun yollarında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:49.353298614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Atalarınız da böyle yaptılar: onları ben Kadeş-Barnea'dan ülkeyi görmek için gönderdiğimde.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atalarınız"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "gönderdiğimde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadeş'ten"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:42:46.641052301Z",
+  "model": "glm-5.3"
+}

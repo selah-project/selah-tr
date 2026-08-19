@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Alçak durumumuzda bizi anımsadı; çünkü sevgisi sonsuza dek sürer.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "alçak durumumuzda"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anımsadı"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgisi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:11.616205278Z",
+  "model": "glm-5.3"
+}

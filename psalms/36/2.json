@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Rasim פשע'yi kötüye söyler — kötünün isyanı kalbimin içinde ⟨bir rasimdir⟩: Elohim korkusu yok onun gözlerinin önünde.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "rasim"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "isyan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kötüye"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbimin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "korku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözlerinin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:38.187340934Z",
+  "model": "glm-5.3"
+}

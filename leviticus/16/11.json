@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 16:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Aharon kendi ⟨את⟩ günah kurbanı buzağısını sunacak ve kendi adına ve ev halkı adına kefaret yapacak ve kendi günah kurbanı buzağısını ⟨את⟩ kesecek, kendisinin olanı.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "sunacak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzağı"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buzağı"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah kurbanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefaret yapacak"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "onun adına"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ve ... adına"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ev halkı"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ve kesecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzağı"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buzağı"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah kurbanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:34.062415293Z",
+  "model": "glm-5.3"
+}

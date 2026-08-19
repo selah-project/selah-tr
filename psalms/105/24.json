@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Ve halkını ⟨את⟩ çok çoğalttı ve onu düşmanlarından güçlü kıldı.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "ve çok çoğalttı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkını"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "ve güçlü kıldı onu"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "düşmanlarından"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:00.270550022Z",
+  "model": "glm-5.3"
+}

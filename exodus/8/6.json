@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve ⟨o⟩ «yarına» dedi. ⟨Moşe⟩ «Sözcüğün üzere ⟨olsun⟩; Yahve Elohim'imize benzeyen yok bilmen için» dedi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "yarına"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sözcüğün üzere"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "bilmen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahve'ye benzeyen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imize"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:06.327152951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kilitli bir bahçe ⟨dır⟩ kardeşim gelin; kapatılmış bir kaynak, mühürlenmiş bir pınar.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "bahçe"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "kilitli"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kardeşim"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "גל",
+      "gloss": "kaynak"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "kapatılmış"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "pınar"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "mühürlenmiş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:51.911222979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Dellere mi muhtacım ben, ki ⟨את⟩ bunu yanımda deli olsun diye getirdiniz? Bu mu benim evime girecek?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "muhtacım"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "dellere"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "getirdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "deli olsun diye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yanımda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "girecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "evime"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:40.091192708Z",
+  "model": "glm-5.3"
+}

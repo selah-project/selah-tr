@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve ayrıca döktüğü masum kan için — ⟨את⟩ Yeruşalayim'i masum kanla doldurdu — ve Yahve bağışlamaya razı olmadı.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "masum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "döktüğü"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ve doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "masum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "razı olmadı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "bağışlamaya"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:43.981412788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Bu, suçlayıcılarımın ⟨Yahve'den⟩ yaptırdığı iş ⟨מאת⟩ Yahve'dendir, ve canım hakkında kötü söyleyenlerin ⟨payıdır⟩.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "yapılan iş"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "suçlayıcılarımın"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ve söyleyenlerin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakkında"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:17.179688613Z",
+  "model": "glm-5.3"
+}

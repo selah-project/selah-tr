@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Bütün Yisrael oğulları Yahve'nin Moşe'ye ⟨את⟩ ve Aharon'a ⟨את⟩ emrettiği gibi yaptılar; öylece yaptılar.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "emrettiği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:01.669241365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve ⟨את⟩ yakmalık sunu sunağını şitim ağacından yaptı: uzunluğu beş arşın, genişliği beş arşün — dörtköşe — ve yüksekliği üç arşındı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakmalık sunu sunağı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sununun"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ve beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "genişliği"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "dörtköşe"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ve üç"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "yüksekliği"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:40.050655230Z",
+  "model": "glm-5.3"
+}

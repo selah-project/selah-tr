@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Şeva baskın yaptı ve onları aldı; ⟨את⟩ hizmetkârları kılıcın ağzıyla vurdular; ve ben yalnız, tek başıma sana bildirmek için kurtuldum.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "ve baskın yaptı"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "ve onları aldı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hizmetkârları"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "hizmetkârları"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "vurdular"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzıyla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıcın"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "ve kurtuldum"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "tek başıma"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "bildirmek için"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:23.842347802Z",
+  "model": "glm-5.3"
+}

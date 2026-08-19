@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Yanına bin kişi düşecek, sağına on bin ⟨kişi⟩; sana yaklaşmayacak ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "düşecek"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "ve on bin"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "sağına"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "yaklaşmayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:28.862114767Z",
+  "model": "glm-5.3"
+}

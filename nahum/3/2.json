@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kırbaç sesi, tekerlek gürültüsü, dörtnala at, zıplayan savaş arabası!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "kırbaç"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ve sesi"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "gürültüsü"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "tekerlek"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ve at"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "dörtnala"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "ve savaş arabası"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "zıplayan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:45:19.789257896Z",
+  "model": "glm-5.3"
+}

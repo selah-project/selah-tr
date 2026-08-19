@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yüzlerinin biçimi ⟨şuydu⟩: insan yüzü — dördünde de sağda aslan yüzü, dördünde de solda boğa yüzü, dördünde de kartal yüzü.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "ve biçimi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yüzlerinin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ve yüzü"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "aslan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-de"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sağ tarafta"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "dördünde de"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ve yüzü"
+    },
+    {
+      "surface": "שור",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "sol taraftan"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "dördünde de"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ve yüzü"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "kartal"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "dördünde de"
+    }
+  ],
+  "timestamp": "2026-08-19T10:22:58.000848991Z",
+  "model": "glm-5.3"
+}

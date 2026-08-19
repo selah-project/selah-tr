@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 76,
+  "translation": "Elohim yargı için, yerin bütün alçakgönüllülerini kurtarmak için ayağa kalktığında. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "ayağa kalktığında"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "yargı için"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kurtarmak için"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "alçakgönüllüleri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:19.271529928Z",
+  "model": "glm-5.3"
+}

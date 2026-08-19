@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 148,
+  "translation": "Ateş ve dolu, kar ve buğu, fırtına rüzgârı — ⟨onlar⟩ O'nun sözünü yerine getiren.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ve dolu"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "kar"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ve buğu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgâr"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "fırtına"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yerine getiren"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "O'nun sözünü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:04.788906647Z",
+  "model": "glm-5.3"
+}

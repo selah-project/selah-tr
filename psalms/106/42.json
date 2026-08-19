@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Düşmanları onları ezip durdu, ve onlar onların eli altında ezildiler.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ve onları ezdiler"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "düşmanları"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ve ezildiler"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "onların eli"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:42.082131558Z",
+  "model": "glm-5.3"
+}

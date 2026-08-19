@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve kral buyurdu ve bir sandık yaptılar ve onu Yahve'nin evinin kapısına, dışarı koydular.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve buyurdu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ve onu koydular"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kapısına"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "dışarı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:07:43.148938043Z",
+  "model": "glm-5.3"
+}

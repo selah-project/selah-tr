@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Çünkü bilge için de ahmakla birlikte sonsuza dek bir anı ⟨yoktur⟩; zaten gelecek günlerde her şey çoktan unutulmuş olacak; ve bilge nasıl ölür — ahmakla ⟨birlikte⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨yoktur⟩"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bir anı"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "bilge için"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ahmakla"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "zaten çoktan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlerde"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "gelecek"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "unutulmuş olacak"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ve nasıl"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölür"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ahmakla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:14.324194991Z",
+  "model": "glm-5.3"
+}

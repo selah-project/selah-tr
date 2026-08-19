@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Dinle, İsrail: Sen bugün ⟨את⟩ Ürdün'ü geçiyorsun; senden büyük ve güçlü ulusları, göklere ⟨kadar⟩ yükseltilmiş, büyük ve surlu şehirleri mülk edinmek için girmek üzere.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dinle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçiyorsun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ürdün'ü"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ürdün"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "girmek için"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mülk edinmek için"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ve güçlü"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şehirleri"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "ve surlu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklere ⟨kadar⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:42.997517121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve Yaakov gönderip Rahel'i ve Lea'yı —sürüsünün bulunduğu— tarlaya çağırdı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel'i"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "ve Lea'yı"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e (yanına)"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sürüsüne"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:17.737002193Z",
+  "model": "glm-5.3"
+}

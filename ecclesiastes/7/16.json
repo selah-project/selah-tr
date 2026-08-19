@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çok doğru olma, ve kendini fazlasıyla bilge yapma — neden harap olasın?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ol"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve yapma"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "bilge yapma kendini"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "fazlasıyla"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "harap olasın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:13.207767387Z",
+  "model": "glm-5.3"
+}

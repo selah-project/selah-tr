@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Yahve tek başına onu yönetti; yanında yabancı bir El yoktu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "tek başına"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "onu yönetti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:43.433577895Z",
+  "model": "glm-5.3"
+}

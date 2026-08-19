@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Çünkü benimdir ormanın tüm hayvanı, bin dağın sığırları.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benimdir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "hayvanı"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ormanın"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "sığırları"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "dağ(lar)ının"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin \/ öküzler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:57.902657774Z",
+  "model": "glm-5.3"
+}

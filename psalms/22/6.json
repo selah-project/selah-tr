@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Sana yalvardılar ve kurtuldular; sana güvendiler ve utanca düşmediler.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "yalvardılar"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ve kurtuldular"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "güvendiler"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... düşmediler"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "utanç"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:52.965458588Z",
+  "model": "glm-5.3"
+}

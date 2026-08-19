@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ebeddeden Yahve, senin sözün göklerde durur.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ebeddeden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "senin sözün"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "durur (yerleşmiştir)"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:57.531873506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Tanınır, yukarı doğru balta getirir gibi, sık ağaçlıkta baltalarla ⟨את⟩ ağaç kesenler.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "tanınır"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "getirir gibi"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "yukarı doğru"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "sık ağaçlıkta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "baltalar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:35.296811944Z",
+  "model": "glm-5.3"
+}

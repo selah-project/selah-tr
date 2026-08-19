@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Küçük bir kent, içinde az insan; ve ona karşı büyük bir kral geldi, onu ⟨את⟩ kuşattı ve üzerine ona karşı büyük kuşatma yapıları kurdu.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "kent"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "küçük"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ve insan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona karşı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ve kuşattı"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (kenti)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ve kurdu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "kuşatma yapıları"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:26.483159461Z",
+  "model": "glm-5.3"
+}

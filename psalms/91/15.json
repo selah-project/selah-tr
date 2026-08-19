@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Bana seslenecek, ben de ona karşılık vereceğim; sıkıntıda onunla birlikte ben, onu kurtaracağım ve onu onurlandıracağım.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "bana seslenecek"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ve ben ona karşılık vereceğim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sıkıntıda"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "onu kurtaracağım"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ve onu onurlandıracağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:17.666426749Z",
+  "model": "glm-5.3"
+}

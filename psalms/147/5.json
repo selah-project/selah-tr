@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Büyük ⟨⟨O⟩⟩ Adonay'ımız ⟨ve⟩ gücü çok ⟨O⟩, anlayışının sayısı yok.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonay'ımız"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ve çok"
+    },
+    {
+      "surface": "כח",
+      "gloss": "güç"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "anlayışına"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:11.697858223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ülkesi gümüşle ve altınla doldu, ve hazinelerinin sonuna yok; ülkesi atlarla doldu, ve savaş arabalarının sonuna yok.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "ve doldu"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ülkesi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşle"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ve altınla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "sonuna"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "hazinelerinin"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ve doldu"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ülkesi"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "atlarla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "sonuna"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "savaş arabalarının"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:30.832455924Z",
+  "model": "glm-5.3"
+}

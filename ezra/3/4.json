@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve ⟨את⟩ Sukkot bayramını yazıldığı gibi yaptılar, ve günün gün be gün yakmasını sayıca, hükmün gereğince, bir günün işi kendi gününde.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayramını"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayramını"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "yazıldığı gibi"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ve yakması"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günün"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün be gün"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayıca"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "hükmün gereğince"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "işi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bir günün"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "kendi gününde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:46:45.934480342Z",
+  "model": "glm-5.3"
+}

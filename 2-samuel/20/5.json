@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Amasa ⟨את⟩ Yehuda'yı toplamak için gitti; ama kendisine belirlenen süreden daha uzun süre gecikti.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "toplamak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda'yı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "gecikti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan öte"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "belirlenen süre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ona belirlediği"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:01.554747695Z",
+  "model": "glm-5.3"
+}

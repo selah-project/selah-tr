@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Kör gözleri açmak için, zindandan tutsağı, karanlıkta oturanları hapishane evinden çıkarmak için.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "açmak için"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "kör"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "çıkarmak için"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "zindandan"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "tutsağı"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "hapishane"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanları"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlıkta"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:05.880104511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Yehoşua dedi: Mağaranın ⟨את⟩ ağzını açın ve ⟨את⟩ şu beş kralı bana mağaradan çıkarın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "açın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzını"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "mağaranın"
+    },
+    {
+      "surface": "וְהוֹצִיאוּ",
+      "gloss": "ve çıkarın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beş kralı"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "beş"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "mağaradan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:02.733569526Z",
+  "model": "glm-5.3"
+}

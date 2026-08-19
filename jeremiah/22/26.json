@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve seni ⟨את⟩ ve anneni ⟨את⟩, seni doğurmuş olanı, doğmadığınız başka bir ülkeye atacağım; ve orada öleceksiniz.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "ve atacağım"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anneni"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anneni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "seni doğurmuş"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeye"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "başka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "doğmadınız"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve orada"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "öleceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T10:10:30.118815992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Asmalarını ve incir ağaçlarını vurdu, sınırlarının ağaçlarını kırdı.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "asmalarını"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "ve incir ağaçlarını"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ve kırdı"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaçlarını"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sınırlarının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:07.644125261Z",
+  "model": "glm-5.3"
+}

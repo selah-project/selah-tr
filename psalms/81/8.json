@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Sıkıntıda çağırdın ve seni kurtardım; gök gürültüsünün gizli yerinde sana karşılık verdim, seni Meriva sularında sınadım. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "sıkıntıda"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "çağırdın"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ve seni kurtardım"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "sana karşılık verdim"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizli yerinde"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "gök gürültüsü"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "seni sınadım"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularında"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.764042021Z",
+  "model": "glm-5.3"
+}

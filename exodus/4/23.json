@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve sana dedim: Oğlumu ⟨את⟩ salıver ki bana kulluk etsin; ve sen onu salıvermeye reddettin; işte, ben oğlunu ⟨את⟩, ilkdoğanını öldürüyorum.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salıver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlumu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ki bana kulluk etsin"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "ve reddettin"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "onu salıvermeye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürüyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ilkdoğanını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:24.256780935Z",
+  "model": "glm-5.3"
+}

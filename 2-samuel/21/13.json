@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve oradan Şaul'un ⟨את⟩ kemiklerini ve oğlu Yehonatan'ın ⟨את⟩ kemiklerini çıkardı; ve asılı olanların ⟨את⟩ kemiklerini topladılar.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ve çıkardı"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul'un kemiklerini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yehonatan'ın kemiklerini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ve topladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asılı olanların kemiklerini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "asılı olanların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:57.814108745Z",
+  "model": "glm-5.3"
+}

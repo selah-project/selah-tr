@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ben Yahve, ⟨bu⟩ ⟨benim⟩ adımdır; ve görkmemi başkasına vermeyeceğim, ve övgümü oyma putlara.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨bu⟩⟨bu⟩"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "benim adımdır"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ve görkmemi"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "başkasına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ve övgümü"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "oyma putlara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:05.880227231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Kardeşini ⟨את⟩ yüreğinde nefret etmeyeceksin; arkadaşını ⟨את⟩ azarlamakla mutlaka azarlayacaksın ve onun üzerine günah taşımayacaksın.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "nefret edeceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşini"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşin"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "yüreğinde"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "azarlamakla"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "azalayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkadaşını"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "arkadaşın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "taşıyacaksın"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:08.289381256Z",
+  "model": "glm-5.3"
+}

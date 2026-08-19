@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 128,
+  "translation": "Yahve seni Siyon'dan kutsasın ve Yeruşalayim'in iyiliğini hayatının bütün günlerinde gör.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "kutsasın seni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siyon'dan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ve gör"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "iyiliğini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerinde"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "hayatının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:42.692739237Z",
+  "model": "glm-5.3"
+}

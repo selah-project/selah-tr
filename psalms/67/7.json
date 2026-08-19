@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 67,
+  "translation": "Yeryüzü ürününü verdi; bizi kutsasın Elohim, Elohim'imiz.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ürününü"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "bizi kutsasın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:59.116647781Z",
+  "model": "glm-5.3"
+}

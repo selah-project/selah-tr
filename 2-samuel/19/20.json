@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 19:20",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve krala dedi: Efendim bana suç yüklemesin ve kulunun, efendim kralın Yeruşalayim'den çıktığı gün ettiği bozgunu ⟨את⟩ anımsamasın; kral onu yüreğine koymasın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩ krala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mesin"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "yüklemesin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suç"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -mesin"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "anımsamasın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anımsamasın (ettiği bozgunu)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-diği şeyi"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "ettiği bozgunu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-diğinde"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıktığı"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruşalayim'den"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "koymak için"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨için⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yüreğine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:09.434440873Z",
+  "model": "glm-5.3"
+}

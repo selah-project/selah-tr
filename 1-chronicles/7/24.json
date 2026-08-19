@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve kızı Şeera; o inşa etti ⟨את⟩ Aşağı Beyt Horon'u ve ⟨את⟩ Yukarı'yı, ve ⟨את⟩ Uzen Şeera'yı.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Ve kızı"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Şeera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "Aşağı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yukarı"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Yukarı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Uzen Şeera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Şeera"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:30.261219951Z",
+  "model": "glm-5.3"
+}

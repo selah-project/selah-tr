@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ama onu ezdikçe ⟨את⟩, o kadar çoğaldı ve o kadar yayıldı; ve İsrail oğullarının yüzünden tiksinmeye başladılar.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "ve ne kadar... -dıkçe"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ezdiler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (İsrail'i)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o kadar"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "çoğaldı"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ve o kadar"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "yayıldı"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ve tiksinmeye başladılar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-in yüzünden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:37.414781912Z",
+  "model": "glm-5.3"
+}

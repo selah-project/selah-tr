@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ülkenizde düşük yapan ve kısırlaşan ⟨olmayacak⟩; ⟨את⟩ günlerinizin sayısını dolduracağım.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨olmayacak⟩"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "düşük yapan"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ve kısırlaşan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ülkenizde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayısını"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayısını"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "günlerinizin"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "dolduracağım"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:24.902362334Z",
+  "model": "glm-5.3"
+}

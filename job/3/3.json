@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yok olsun ⟨o⟩ içinde doğduğum ⟨⟩ gün; ve ⟨o⟩ gece ki denildi: Bir erkek gebe kaldı.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "yok olsun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "doğduğum"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "ve ⟨o⟩ gece"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "denildi"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "gebe kaldı"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "bir erkek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:54.876806011Z",
+  "model": "glm-5.3"
+}

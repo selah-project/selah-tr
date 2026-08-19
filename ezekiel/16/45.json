@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Annenin kızısın sen — kocasını ve çocuklarını iğrenç bulan; ve kız kardeşlerinin kız kardeşisin sen — ⟨את⟩ ki kocalarını ve çocuklarını iğrenç buldular; annen bir Hittitli'ydi, baban bir Amorlu.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen",
+      "marks": "געלת — iğrenç bulan"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "iğrenç bulan"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "kocasını"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "ve çocuklarını"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ve kız kardeşi"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "kız kardeşlerinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen",
+      "marks": "אשר — ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "iğrenç buldular"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "kocalarını"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "ve çocuklarını"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "anneniz"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hittitli"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "ve babanız"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Amorlu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:26:44.475136970Z",
+  "model": "glm-5.3"
+}

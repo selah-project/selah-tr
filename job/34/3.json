@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Çünkü kulak sözleri sınar, damaq ⟨yemek⟩ tadarak seçer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kulak"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "sınar"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "ve damak"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "tadar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemek için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:31.266494411Z",
+  "model": "glm-5.3"
+}

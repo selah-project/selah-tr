@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Kedemot'u ⟨את⟩ ve yaylalarını ⟨את⟩, Meyfaat'ı ⟨את⟩ ve yaylalarını ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kedemot'u"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yaylalarını"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "yaylalarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Meyfaat'ı"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meyfaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yaylalarını"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "yaylalarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:14.212775709Z",
+  "model": "glm-5.3"
+}

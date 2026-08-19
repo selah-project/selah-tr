@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Eğri yürekli iyilik bulmaz, ve dilinde terslik olan kötülüğe düşer.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "eğri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürekli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bulur"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ve ters olan"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "dilinde"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "düşer"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "kötülüğe"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:32.228646993Z",
+  "model": "glm-5.3"
+}

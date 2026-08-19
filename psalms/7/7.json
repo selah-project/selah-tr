@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Kalk, Yahve, öfkenle; kendini düşmanlarımın öfkeleri karşısında yücelt; benim için uyan — hüküm verdin ⟨çünkü⟩.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "öfkenle"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "kendini yücelt"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "öfkeleri karşısında"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "düşmanlarımın"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "ve uyan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hüküm"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "verdin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:17.656717613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "ve ⟨את⟩ kuku baykuşunu, ve ⟨את⟩ martıyı, ve ⟨את⟩ büyük baykuşu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kuku baykuşunu"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kuku baykuşunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "martıyı"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "martıyı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "büyük baykuşu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "büyük baykuşu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:15.421706850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve beş örtüyü ayrıca, ⟨ve⟩ altı örtüyü ayrıca bağladı.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ve bağladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beş örtüyü"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "örtüyü"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "altı örtüyü"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "örtüyü"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ayrıca"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:14.498027112Z",
+  "model": "glm-5.3"
+}

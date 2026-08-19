@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Gerçekten, siz ⟨is⟩ halk, ve sizinle birlikte ölecek ⟨is⟩ hikmet.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü\/ki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ve sizinle birlikte"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ölecek"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmet"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:38.557848530Z",
+  "model": "glm-5.3"
+}

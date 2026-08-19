@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Sadâkatınla beni kurtar ve ⟨את⟩ beni ⟨את⟩ çekip çıkar; kulağını bana eğ ve beni selamete erdir.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "sadâkatınla"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "ve beni çekip çıkar"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "eğ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ve beni selamete erdir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:59.227813394Z",
+  "model": "glm-5.3"
+}

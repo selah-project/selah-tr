@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Kalkanım Elohim'in üzerindedir; doğru yürekten gelenleri kurtaran ⟨O⟩dur.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "kalkanım"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "kurtaran"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "doğru yürekli(ler)"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:56.443387820Z",
+  "model": "glm-5.3"
+}

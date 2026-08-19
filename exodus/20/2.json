@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ben ⟨im⟩ Yahve, senin Elohim'in, ki seni Mıtsrayim ülkesinden, köleler evinden çıkardım.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "seni çıkardım"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "köleler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:41.481295364Z",
+  "model": "glm-5.3"
+}

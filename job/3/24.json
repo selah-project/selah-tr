@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü ekmeğimin önüne iniltim gelir, ve kükremelerim sular gibi dökülür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ekmeğimin"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "iniltim"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "gelir"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "ve dökülür"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sular gibi"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "kükremelerim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:55.725512335Z",
+  "model": "glm-5.3"
+}

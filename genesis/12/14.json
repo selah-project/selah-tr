@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve olmuştu: Avram Mısır'a girince, Mısırlılar ⟨את⟩ kadını gördüler, çünkü o çok güzeldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve olmuştu"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "girince"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mısır'a"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ve gördüler"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mısırlılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadını"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "güzel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:26.862030287Z",
+  "model": "glm-5.3"
+}

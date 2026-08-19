@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Olsun kalbim tam senin kurallarında, utanmayayım diye.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tam"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "senin kurallarında"
+    },
+    {
+      "surface": "למען",
+      "gloss": "diye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayayım"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "utanmayayım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:54.164181905Z",
+  "model": "glm-5.3"
+}

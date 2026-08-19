@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim dedi: Sular canlı ⟨nefesh⟩ sürüsüyle kaynasın, ve kuşlar yerin üzerinde, göklerin raci-yüzeyinin üzerinde uçsun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "kaynasın"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sürü"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "ve kuş"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "uçsun"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "racia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:20.628805666Z",
+  "model": "glm-5.3"
+}

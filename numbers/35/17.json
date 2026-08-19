@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve eğer el taşından — ki onunla ölebilir — vurdu ve öldü ise, o bir katildir; katil kesinlikle öldürülecektir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "taştan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölebilir"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "katil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kesinlikle (ölüm)"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "katil"
+    }
+  ],
+  "timestamp": "2026-08-19T07:43:19.271103638Z",
+  "model": "glm-5.3"
+}

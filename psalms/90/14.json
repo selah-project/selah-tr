@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Sabahleyin bizi sevindir ⟨את⟩ lütfunla — ve ötelim, ve sevinelim bütün günlerimiz boyunca.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "bizi sevindir\/doyur"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lütfun"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "ve ötelim"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ve sevinelim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "günlerimiz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:35.927721241Z",
+  "model": "glm-5.3"
+}

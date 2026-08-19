@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 98,
+  "translation": "Mizmor. Yahve'ye yeni bir şarkı söyleyin, çünkü harikalar yaptı; sağ eli ve kutsal kolu ona kurtuluş kazandırdı.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "harikalar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "kazandırdı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sağ eli"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ve kolu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:36.811414976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 27:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve avlunun kapısı için yirmi arşın örtü — tekhelet, argaman, tova kırması ve bükülmüş ince keten, nakışçının işi; sütunları dört, kaideleleri dört.",
+  "tokens": [
+    {
+      "surface": "ולשער",
+      "gloss": "ve kapısı için"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "avlunun"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "örtü"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "arşın"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ve argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ve tova"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kırması (renkli)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve ince keten"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "bükülmüş"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "nakışçının"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "sütunları"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dört"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ve kaideleleri"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dört"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:51.775925865Z",
+  "model": "glm-5.3"
+}

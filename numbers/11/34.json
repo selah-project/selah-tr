@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ o yerin adını Kivrot-Hataava çağırdı, çünkü orada arzulayan halkı ⟨את⟩ gömdüler.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o yerin adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "Kivrot"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "Hataava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "gömdüler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "arzulayan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:56.049570125Z",
+  "model": "glm-5.3"
+}

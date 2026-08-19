@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Kral Haman'a dedi: «Acele et, ⟨את⟩ giysiyi ve ⟨את⟩ atı al, söylediğin gibi, ve Mordehay'a — kralın kapısında oturan Yahudi'ye — öyle yap; söylediğin her şeyden bir şey düşürme.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman'a"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "acele et"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giysiyi"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "giysiyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "atı"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "atı"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "söylediğin"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yap"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordehay'a"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Yahudi'ye"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kapısında"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "düşürme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir şey"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her şeyden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "söylediğin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:06.317240904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yahve, Elohim'im, eğer bunu yaptıysam, avuçlarımda ⟨bir⟩ haksızlık varsa —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptıysam"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יש",
+      "gloss": "varsa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "haksızlık"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "avuçlarımda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:21.329507300Z",
+  "model": "glm-5.3"
+}

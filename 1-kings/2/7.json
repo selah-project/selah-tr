@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 2:7",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Barzillay'ın, Gilatlı'nın oğullarına chesed yap, ve sofranı yiyenler arasında olsunlar; çünkü böyle yaklaşmışlardı bana, kaçtığımda Avşalom yüzünden, kardeşinin.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ve ... oğullarına"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillay'ın"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gilatlı'nın"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yap"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ve olsunlar"
+    },
+    {
+      "surface": "באכלי",
+      "gloss": "yiyenler arasında"
+    },
+    {
+      "surface": "שלחנך",
+      "gloss": "sofranı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "yaklaşmışlardı"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בברחי",
+      "gloss": "kaçtığımda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:07.023890552Z",
+  "model": "glm-5.3"
+}

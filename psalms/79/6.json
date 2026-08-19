@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 79,
+  "translation": "Öfkünü ⟨את⟩ seni bilmeyen ulusların üzerine, ve adınla çağırmayan krallıkların üzerine dök.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "dök"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "öfkenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "uluslar",
+      "marks": "ulusların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "seni bilmeyen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "krallıklar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "adınla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırmayanlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:32.425436052Z",
+  "model": "glm-5.3"
+}

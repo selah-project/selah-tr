@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Moşe Yahve'nin önünde konuştu ⟨şöyle⟩ diyerek: İşte, İsrail oğulları beni dinlemediler; Paroh nasıl dinler beni, ben ki sünnetsiz-dudaklıyım?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dinlediler"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ve nasıl"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "dinler beni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "oysa ben"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "sünnetsiz"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "dudaklı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:49.879307657Z",
+  "model": "glm-5.3"
+}

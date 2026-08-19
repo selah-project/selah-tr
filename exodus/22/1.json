@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Eğer hırsız içeri girerken yakalanır da dövülerek ölürse, ⟨onun⟩ için kan sorumluluğu yoktur.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "delik açarak (içeri girerken)"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yakalanır"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "hırsız"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ve dövülürse"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ve ölürse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kan (sorumluluğu)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:27.138323617Z",
+  "model": "glm-5.3"
+}

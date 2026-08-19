@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "süt ve bal akan bir ülkeye; çünkü ben senin ortanda yukarı çıkmayacağım, çünkü sen sert-ençalı bir halksın — yoksa yolda seni yok ederim.»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkeye"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "akan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "süt"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ve bal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "çıkacağım"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "senin ortanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sert"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ençe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "seni yok ederim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:10.128812430Z",
+  "model": "glm-5.3"
+}

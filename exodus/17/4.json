@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Moşe Yahve'ye seslendi, diyerek: Bu halka ne yapayım? Biraz daha — ve beni taşlayacaklar.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ve seslendi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yapayım"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "biraz daha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "ve beni taşlayacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:46.930689463Z",
+  "model": "glm-5.3"
+}

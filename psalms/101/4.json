@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 101,
+  "translation": "Sapık ⟨bir⟩ yürek benden uzaklaşacak; kötülüğü bilmeyeceğim.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "sapık"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "uzaklaşacak"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayır"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilemeyeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:16.773339099Z",
+  "model": "glm-5.3"
+}

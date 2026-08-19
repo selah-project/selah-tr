@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve efendisinin evinde nezarette ⟨את⟩ kendisiyle birlikte olan Paroh'un hadımlarına sordu, diye: Neden yüzleriniz bugün kötüdür?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ve sordu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh'un hadımlarını"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "hadımlarını"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kendisiyle"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "nezarette"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "efendisinin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diye"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "neden"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "yüzleriniz"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:50.343869141Z",
+  "model": "glm-5.3"
+}

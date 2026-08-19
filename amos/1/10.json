@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve duvarına Tsor'un ateş göndereceğim, ve o kalelerini yiyecek.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ve göndereceğim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "duvarına"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor'un"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ve o yiyecek"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "kalelerini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:47.663253642Z",
+  "model": "glm-5.3"
+}

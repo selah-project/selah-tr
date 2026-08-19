@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Bana kulak as ve bana karşılık ver; şikâyetimde gezinip dururum ve inlerim.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "kulak as"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ve karşılık ver"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "gezinip dururum"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "şikâyetimde"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "ve inlerim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:16.632513312Z",
+  "model": "glm-5.3"
+}

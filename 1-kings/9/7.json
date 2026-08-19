@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "O zaman ⟨את⟩ İsrail'i onlara verdiğim toprağın yüzünden kesip atacağım; ve adıma kutsadığım ⟨את⟩ evi yüzümün öderinden kovup göndereceğim; ve İsrail bütün halklar arasında atasözüne ve alay konusuna dönüşecek.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "kesip atacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "kutsadım"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "adıma"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "kovup göndereceğim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "önderinden"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümün"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "atasözüne"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "ve alay konusuna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "halkların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:41.917455919Z",
+  "model": "glm-5.3"
+}

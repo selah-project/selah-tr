@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Ve denizden denize, nehirden yeryüzünün uçlarına kadar hükmedecek.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ve hükmedecek"
+    },
+    {
+      "surface": "מים",
+      "gloss": "denizden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denize"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "ve nehirden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "uçlarına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:03.420064650Z",
+  "model": "glm-5.3"
+}

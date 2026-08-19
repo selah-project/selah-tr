@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Şemuel halka «Gelin, Gilgal'a gidelim ve orada krallığı yenileyelim» dedi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ve gidelim"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "ve yenileyelim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "krallığı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:24.248944017Z",
+  "model": "glm-5.3"
+}

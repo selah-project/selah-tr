@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 8:19",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve olur ki, unutur-sanırsan ⟨את⟩ Yahve'yi, Elohim'ini, ve başka ilahların ardınca gidersen, onlara kulluk eder, onlara yere kapanırsan — bugün size karşı tanıklık ederim ki, kesinlikle helak olacaksınız.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve olur ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "unutur"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutursan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'ini"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ve gidersen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahların"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başka"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "onlara kulluk edersen"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "yere kapanırsan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "tanıklık ederim"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizin aleyhinize"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "helak"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "helak olacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:48.979293571Z",
+  "model": "glm-5.3"
+}

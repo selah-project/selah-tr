@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Peleştiler Elohim'in ⟨את⟩ sandığını aldılar ve onu Even-ha-Ezer'den Aşdod'a getirdiler.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Peleştiler"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "getirdiler onu"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "Even'den"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Aşdod'a"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:35.367366995Z",
+  "model": "glm-5.3"
+}

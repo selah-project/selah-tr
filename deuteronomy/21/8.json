@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Bağışla ⟨⟨halkını⟩⟩ Yahve, İsrail'i, ki sen fidyeyle kurtardın onları, Yahve; ve koyma masum kan ⟨halkının⟩ ortasında, İsrail halkının; ve bağışlanacak onlara ⟨o⟩ kan.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "Bağışla"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "⟨halkını⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "fidyeyle kurtardın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve koyma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "koyma"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "masum"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "ve bağışlanacak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨o⟩ kan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:48.428874561Z",
+  "model": "glm-5.3"
+}

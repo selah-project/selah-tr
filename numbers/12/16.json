@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve sonrasında halk Hatserot'tan yola çıktı ve Paran çölünde ordugâh kurdu.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ve sonrasında"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "yola çıktılar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "Hatserot'tan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ve ordugâh kurdular"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölünde"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:05.202980546Z",
+  "model": "glm-5.3"
+}

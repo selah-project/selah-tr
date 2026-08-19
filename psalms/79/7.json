@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 79,
+  "translation": "Çünkü Yaakov'u yediler ve ⟨את⟩ meskenini ıssız bıraktılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yediler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov'u"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "meskenini"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "meskeni"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ıssız bıraktılar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:32.425567589Z",
+  "model": "glm-5.3"
+}

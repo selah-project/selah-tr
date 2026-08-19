@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Sabah ışığı gibi, güneş doğarken — bulutsuz bir sabah; ışıltıdan, yağmurdan yeryüzünün taze otu ⟨süzülür⟩.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "ve ışığı gibi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "doğarken"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "bulutsuz"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "ışıltıdan"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "yağmurdan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "taze ot"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:09.340863881Z",
+  "model": "glm-5.3"
+}

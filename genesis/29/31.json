@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Yahve gördü ki Lea sevilmeyendir; ve ⟨את⟩ rahmini açtı; ve Rahel kısırdı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "nefret edilen \/ sevilmeyen"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ve açtı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahmini"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "rahmi"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ve Rahel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "kısır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:26.134017642Z",
+  "model": "glm-5.3"
+}

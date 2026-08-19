@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Tamar, gelini, ona ⟨את⟩ Peretsi ve ⟨את⟩ Zerahı doğurdu; Yehudanın bütün oğulları beşti.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "ve Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "gelini"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretsi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Zerahı"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:16.178905331Z",
+  "model": "glm-5.3"
+}

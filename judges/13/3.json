@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Yahve'nin meleği kadına göründü ve ona dedi: İşte, sen ⟨⟨kısırsın⟩⟩ ve doğurmadın; hamile kalıp ⟨bir⟩ oğul doğuracaksın.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "meleği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen",
+      "marks": "kısırsın"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "kısırsın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "doğurmadın"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "hamile kalacaksın"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "doğuracaksın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:50.971541431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve bina ettiğim ev büyüktür, çünkü Elohim'imiz bütün ilahlardan büyüktür.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ve ev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "bina ediyorum"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyüktür"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyüktür"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -den"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ilahlar"
+    }
+  ],
+  "timestamp": "2026-08-19T12:02:36.659386852Z",
+  "model": "glm-5.3"
+}

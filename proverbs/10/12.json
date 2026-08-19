@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Nefret kavgaları uyandırır; ama bütün suçların üstünü sevgi örter.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "nefret"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "uyandırır"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "kavgaları"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ama üstünü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "suçların"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "örter"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "sevgi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:43.018410061Z",
+  "model": "glm-5.3"
+}

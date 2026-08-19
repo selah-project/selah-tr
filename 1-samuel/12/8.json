@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ne zaman ki Yaakov Mısır'a geldi ve atalarınız Yahve'ye feryat etti, Yahve ⟨את⟩ Moşe'yi ve ⟨את⟩ Aharon'u gönderdi ve ⟨את⟩ atalarınızı Mısır'dan çıkardılar ve onları bu yerde yerleştirdiler.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ne zaman ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ve feryat ettiler"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "atalarınız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe'yi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ve çıkardılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarınızı"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atalarınızı"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "ve yerleştirdiler onları"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:48.966090965Z",
+  "model": "glm-5.3"
+}

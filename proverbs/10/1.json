@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şelomo'nun özdeyişleri. Bilge bir oğul babayı sevindirir, ama ahmak oğul annesinin kederidir.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "özdeyişleri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo'nun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevindirir"
+    },
+    {
+      "surface": "אב",
+      "gloss": "babayı"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ama oğul"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahmak"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "kederiesidir"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesinin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:03.078352471Z",
+  "model": "glm-5.3"
+}

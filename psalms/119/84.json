@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kulunun günleri ne kadar? Beni izleyenlere karşı ne zaman yargıyı uygulayacaksın?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunun"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ne zaman"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uygulayacaksın"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "beni izleyenlere karşı"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "yargıyı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:40.828431659Z",
+  "model": "glm-5.3"
+}

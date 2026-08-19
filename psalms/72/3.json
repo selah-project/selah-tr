@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Dağlar halka barışı taşısun, ve tepeler doğrulukla.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "taşısun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barışı"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ve tepeler"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "doğrulukla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:09.093919360Z",
+  "model": "glm-5.3"
+}

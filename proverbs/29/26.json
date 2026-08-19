@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Bir yöneticinin yüzünü arayanlar çoktur; ama her adamın hükmü Yahve'dendir.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "çoktur"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "arayanlar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "yöneticinin"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ama Yahve'den"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hükmü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:36.199745428Z",
+  "model": "glm-5.3"
+}

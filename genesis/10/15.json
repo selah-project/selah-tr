@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Kenan ⟨את⟩ Sidon'u ilkdoğanı ve ⟨את⟩ Ḥet'i doğurdu.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ve Kenan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidon'u"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidon'u"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ilkdoğanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Ḥet'i"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥet'i"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:01.636514075Z",
+  "model": "glm-5.3"
+}

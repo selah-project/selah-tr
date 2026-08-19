@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "ki bunları sıkıntı zamanı için, savaş ve harp günü için sakladım.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "sakladım"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "zamanı için"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "günü için"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ve harp"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:34.253908195Z",
+  "model": "glm-5.3"
+}

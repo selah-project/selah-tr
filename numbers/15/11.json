@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Böyle yapılacaktır tek sığır için, ya da tek koç için, ya da kuzulardan bir kuzu için ya da keçilerden biri için",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapılacaktır"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "sığır için"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "koç için"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "kuzu için"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "kuzulardan"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "keçilerden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:28.371210609Z",
+  "model": "glm-5.3"
+}

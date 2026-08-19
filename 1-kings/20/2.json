@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve Ahav'ın, İsrail kralının yanına şehre elçiler gönderdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ve gönderdi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav'ın"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "şehre"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:16.967470557Z",
+  "model": "glm-5.3"
+}

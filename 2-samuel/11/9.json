@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Uriya ise kralın evinin kapı önünde, efendisinin bütün ⟨את⟩ kullarıyla birlikte yattı; evine inmedi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yattı"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kapı önü"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün kulları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "efendisinin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve…-medi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:59.414504714Z",
+  "model": "glm-5.3"
+}

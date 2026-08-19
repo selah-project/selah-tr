@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Bunlardan ⟨את⟩ şunları yiyeceksiniz: ⟨את⟩ arbeh'i türüne göre, ⟨את⟩ solam'ı türüne göre, ⟨את⟩ hargol'u türüne göre ve ⟨את⟩ hagav'ı türüne göre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şunları"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlardan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh'i"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "çekirge (arbeh)"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "türüne göre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "solam'ı"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "türüne göre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hargol'u"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "türüne göre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hagav'ı"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "türüne göre"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:45.225212854Z",
+  "model": "glm-5.3"
+}

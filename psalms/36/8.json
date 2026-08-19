@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ne değerlidir sevgin, Elohim! İnsanoğulları kanatlarının gölgesinde sığınırlar.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "değerlidir"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sevgin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "insanoğulları ve"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanoğulları"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "gölgesinde"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kanatlarının"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "sığınırlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:50.599844040Z",
+  "model": "glm-5.3"
+}

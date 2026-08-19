@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Peliştimler savaş için ⟨את⟩ ordugâhlarını topladılar ve Yehuda'ya ait Sokoh'da bir araya geldiler; Sokoh ile Azeka arasında, Efes-Damim'de konakladılar.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "topladılar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliştimler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordugâhlarını"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ordugâhlarını"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaş için"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "bir araya geldiler"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda'ya ait"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "konakladılar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ile ... arasında"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Efes'te"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:47.801161401Z",
+  "model": "glm-5.3"
+}

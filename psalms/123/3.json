@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 123,
+  "translation": "Bize lutfet Yahve, bize lutfet; çünkü çok doyduk hakaretle.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "bize lutfet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "bize lutfet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çok"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "doyduk"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "hakaretle"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:46.032698970Z",
+  "model": "glm-5.3"
+}

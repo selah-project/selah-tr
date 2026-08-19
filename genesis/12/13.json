@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Lütfen de ki: Kızkardeşim ⟨את⟩ sen; böylece senin hatırın için bana iyilik yapılsın ve canım senin sayende yaşasın.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "de ki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kızkardeşim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen (vurgulu 2. tekil şahıs zamiri)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "böylece \/ için"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "iyilik yapılsın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "senin hatırın için"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "ve yaşasın"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "senin sayende"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:26.861790116Z",
+  "model": "glm-5.3"
+}

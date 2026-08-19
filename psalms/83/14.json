@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Elohay'ım, onları bir çember gibi, rüzgârın önünde saman gibi kıl.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay'ım"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "kıl (onları)"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "bir çember gibi"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "saman gibi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgâr"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:20.817366135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve yer, Elohim'in önünde bozulmuştu; ve yer şiddet ile dolmuştu.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "bozulmuştu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dolmuştu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "şiddet"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:57.507905675Z",
+  "model": "glm-5.3"
+}

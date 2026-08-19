@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ruhu tutmaya, ⟨את⟩ ruha egemen olacak insan yoktur; ölüm gününde egemenlik yoktur; savaşta salıverilme yoktur ve kötülük ⟨את⟩ sahibini kurtarmayacaktır.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "egemen"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "tutmaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruh"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "egemenlik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "salıverilme"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "savaşta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayacak"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "kurtarma"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sahibini"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sahibini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:27.475203285Z",
+  "model": "glm-5.3"
+}

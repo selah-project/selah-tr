@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve sizi ⟨את⟩ çölde kırk yıl yönettim; elbiseleriniz üstünüzde eskimedi, ayakkabın da ayağının üstünde eskimedi.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "ve yönettim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "eskimedi"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "elbiseleriniz"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "üstünüzde"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "ve ayakkabın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "eskimedi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstünde"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ayağının"
+    }
+  ],
+  "timestamp": "2026-08-19T09:05:59.899339912Z",
+  "model": "glm-5.3"
+}

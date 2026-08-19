@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve ben de Yisrael oğullarının — ⟨את⟩ ki Mısır ⟨את⟩ onları köle çalıştıranlardır — iniltisini duydum, ve ahdimi andım.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve-de"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "duydum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iniltisini"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "inilti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "köle çalıştıranlar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ve-andım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:35.509239472Z",
+  "model": "glm-5.3"
+}

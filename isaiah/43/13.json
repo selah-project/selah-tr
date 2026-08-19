@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Evet, günden ⟨beri⟩ Ben O'yum; ve elimden kurtaran yoktur. Ben ederim ve kim geri çevirebilir onu?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Evet"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "günden ⟨beri⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "elimden"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kurtaran"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "Ben ederim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "geri çevirebilir onu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:27.974874440Z",
+  "model": "glm-5.3"
+}

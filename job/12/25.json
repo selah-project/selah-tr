@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Karanlıkta el yorarlar, ışık yok ⟨⟨⟩⟩; ve onları sarhoş gibi saptırır.",
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "el yorarlar \/ yoklayarak ilerlerler"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ışık yok"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "ve onları saptırır"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "sarhoş gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:31.780142139Z",
+  "model": "glm-5.3"
+}

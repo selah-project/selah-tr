@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Yoksul ve muhtaç ücretli işçiyi sömürmeyeceksin — kardeşlerinden ya da memleketinde, kapılarında oturan misafirinden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "sömürmeyeceksin"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ücretli işçiyi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve muhtaç"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "kardeşlerinden"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "misafirinden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "memleketinde"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "kapılarında"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:20.538070069Z",
+  "model": "glm-5.3"
+}

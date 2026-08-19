@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve tahıl sunusunu yaklaştırdı, avucunu ondan doldurdu ve sunu altarının üzerinde tütsiledi, sabah yakılan sunusundan ayrı olarak.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yaklaştırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahıl sunusunu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tahıl sunusu"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "avucunu"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tütsiledi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨the⟩ sunu altarı"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ayrı olarak"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yakılan sunu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "⟨the⟩ sabahın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:02.618880812Z",
+  "model": "glm-5.3"
+}

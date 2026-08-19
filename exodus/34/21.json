@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Altı gün çalışacaksın, yedinci gün ⟨את⟩ dinleneceksin; sürüm zamanında da hasat zamanında da dinleneceksin.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "çalışacaksın"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ve yedinci günde"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "dinleneceksin"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "sürüm zamanında"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "ve hasat zamanında"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "dinleneceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:16.890736892Z",
+  "model": "glm-5.3"
+}

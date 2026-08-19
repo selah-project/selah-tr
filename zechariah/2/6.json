@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve dedim: Nereye gidiyorsun? Ve bana dedi: Yeruşalayim'i ⟨את⟩ ölçmek için, görmek üzere ne kadar genişliği ve ne kadar uzunluğu var.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nereye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gidiyorsun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ölçmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek üzere"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "genişliği"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "ve ne kadar"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "uzunluğu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:47:27.062604377Z",
+  "model": "glm-5.3"
+}

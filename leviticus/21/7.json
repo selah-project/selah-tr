@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Fahişe bir kadın ve kirli bir kadın almayacaklar; kocasından boşanmış bir kadın da almayacaklar; çünkü o, Elohim'ine kutsaldır.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "fahişe"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "ve kirli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "almayacaklar"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "almak"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ve kadın"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "boşanmış"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "kocasından"
+    },
+    {
+      "surface": "לא",
+      "gloss": "almayacaklar"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "almak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "Elohim'ine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:32.573998373Z",
+  "model": "glm-5.3"
+}

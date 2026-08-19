@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve aslanlar arasında gezindi, genç bir aslan oldu; av parçalamayı öğrendi, insan yedi.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "gezindi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "aslanlar"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "genç aslan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "ve öğrendi"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "parçalamaya"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "av"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:27:50.029855097Z",
+  "model": "glm-5.3"
+}

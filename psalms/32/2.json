@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ne mutlu ⟨o⟩ insana ki Yahve ⟨onun⟩ için ona suç saymaz ve ruhunda hile yoktur!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sayar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suç"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruhunda"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hile"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:31.830709030Z",
+  "model": "glm-5.3"
+}

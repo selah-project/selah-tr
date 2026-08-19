@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 25:9",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Bu yüzden, işte ben Moav'ın ⟨את⟩ omzunu şehirlerden açıyorum — kendi sınır şehirlerinden: ülkenin görkemi Beit ha-Yeşimot, Baal Meon ve Kiryatayim.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Bu yüzden"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "açıyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav'ın omzunu"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "omuz"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav'ın"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "şehirlerden"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "kendi şehirleri"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "sınırından"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "görkemi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "ha-Yeşimot"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "ve Kiryatayim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:31:40.725298505Z",
+  "model": "glm-5.3"
+}

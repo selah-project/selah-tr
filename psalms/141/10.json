@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 141,
+  "translation": "Kötüler kendi ağlarına düşsünler — ⟨ama⟩ ben ⟨onlarla birlikte değil⟩, ⟨tam⟩ geçene ⟨kadar⟩ ⟨güvende⟩ geçip gidene dek.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "düşsünler"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "kendi ağlarına"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e dek"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "geçip giderim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:33.063865158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Ve dedim: Hastalığımdır bu — Ey Yücelerin Yücesi'nin sağ elinin yılları.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ve dedim"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "hastalığımdır"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "yılları"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağ elinin"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Yücelerin Yücesi'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:49.292817052Z",
+  "model": "glm-5.3"
+}

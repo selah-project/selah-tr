@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Uzun ömür onun sağ ⟨elindedir⟩, sol ⟨elinde⟩ zenginlik ve şeref.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "uzun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "onun sağ elinde"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "onun sol elinde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zenginlik"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ve şeref"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:24.511913217Z",
+  "model": "glm-5.3"
+}

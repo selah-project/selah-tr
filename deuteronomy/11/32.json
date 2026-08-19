@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve özen göstereceksiniz, önünüze bugün koyduğum ⟨את⟩ bütün hukukları ve ⟨את⟩ mişpatları yerine getirmeye.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ve özen göstereceksiniz"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün hukukları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hukukları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "mişpatları"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mişpatları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "koyuyorum"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "önünüze"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:41.387044168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Moşe bütün İsrail'i çağırdı ve onlara dedi: Dinle, ey İsrail, ⟨את⟩ hükümleri ve ⟨את⟩ yasaları ki ben bugün kulaklarınıza söylüyorum; ve onları öğrenmeniz ve onları yapmayı gözetmeniz için.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e doğru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dinle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hükümleri"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hükümleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yasaları"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "yasaları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söylüyorum"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "kulaklarınıza"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "ve öğreneceksiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ve gözetecesiniz"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "yapmaya"
+    }
+  ],
+  "timestamp": "2026-08-19T08:58:28.207385159Z",
+  "model": "glm-5.3"
+}

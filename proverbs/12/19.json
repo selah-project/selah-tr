@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Gerçeğin dudakları sonsuza dek ⟨sürecek⟩, ama yalancı dil bir an ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "dudakları"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gerçeğin"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "sürecek"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ama... dek"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "bir an"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dili"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalancı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:29.978913005Z",
+  "model": "glm-5.3"
+}

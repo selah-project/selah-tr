@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve kâhin görecek, ve işte çoğaltıcı yaralık bütün etini ⟨את⟩ örtmüşse, kâhin yaralıyı ⟨את⟩ temiz ilan edecek; bütünü beyaza dönmüştür — temizdir o.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ve görecek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "örtmüşse"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "çoğaltıcı yaralık"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün etini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "etini"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "temiz ilan edecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaralıyı"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yaralı"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bütünü"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "dönmüştür"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "beyaza"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "temizdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:46.083961076Z",
+  "model": "glm-5.3"
+}

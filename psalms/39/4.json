@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "İçimde kalbim ısındı; düşündükçe içimde ateş tutuştu — dilimle konuştum.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "ısındı"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "içimde"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "düşündükçe"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "tutuştu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "konuştum"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "dilimle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:50.866044622Z",
+  "model": "glm-5.3"
+}

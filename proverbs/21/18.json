@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Kötü kişi, doğru kişi için fidyedir; hain de düz ruhlu ⟨kişilerin⟩ yerine ⟨geçer⟩.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "fidye"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "doğru kişi için"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü kişi"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ve yerine"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düz-yürüyenler"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "hain"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:57.815439824Z",
+  "model": "glm-5.3"
+}

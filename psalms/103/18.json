@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Onun beritini koruyanlara ve Onun pikudlarını, onları yapmak için, anımsayanlara.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "koruyanlara"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "Onun beritini"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "ve anımsayanlara"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "Onun pikudlarını"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "onları yapmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:15.613640336Z",
+  "model": "glm-5.3"
+}

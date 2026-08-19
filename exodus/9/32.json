@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ama buğday ve siyez vurulmadı, çünkü onlar geç olunandır.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ve buğday"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ve siyez"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "vuruldular"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "geç olgunlaşan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:56.725311725Z",
+  "model": "glm-5.3"
+}

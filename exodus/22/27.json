@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Elohim'e sövmeyeceksin ve halkının önderine lanet etmeyeceksin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "sövmeyeceksin"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ve önderine"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "lanet etmeyeceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:23.426126474Z",
+  "model": "glm-5.3"
+}

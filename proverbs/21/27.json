@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Kötülerin kurbanı iğrençliktir; hele kötü niyetle getiriyorsa!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "kurbanı"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "iğrençliktir"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "kötü niyetle"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "getiriyorsa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:36.417372373Z",
+  "model": "glm-5.3"
+}

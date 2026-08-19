@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim ışığı ⟨את⟩ gördü, ki iyiydi; ve Elohim ışık ile karanlık arasında ayırdı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ışığı"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ışığı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiydi"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ve ayırdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ile"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "karanlık"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:45.990205110Z",
+  "model": "glm-5.3"
+}

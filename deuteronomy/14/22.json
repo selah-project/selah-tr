@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Onda ondasını ayıracaksın — tohumunun bütün ürününün ⟨את⟩, tarlanın yıl yıl çıkardığının.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "onda ondasını ayır"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ayıracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tohumunun bütün ürününün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ürünün"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tohumunun"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "çıkan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:40.354784166Z",
+  "model": "glm-5.3"
+}

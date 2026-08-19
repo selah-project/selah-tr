@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Onun ki babasına ve annesine: \"Onu görmedim,\" dedi; kardeşlerini ⟨את⟩ tanımadı ve oğullarını ⟨את⟩ bilmedi; çünkü senin sözünü gözetti ve senin antlaşmanı koruyacaklar.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "diyen"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "babasına"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ve annesine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmedi"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "onu gördüm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşlerini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşlerini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmedi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "tanıdı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmedi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bildi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gözettiler"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "senin sözünü"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ve senin antlaşmanı"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "koruyacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:17.808330186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Yehonatan üzerinden olan ⟨את⟩ kaftanı çıkardı ve onu David'e verdi, ve giysilerini, ve kılıcına kadar, ve yayına kadar, ve kuşağına kadar.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "ve çıkardı üzerinden"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaftanı"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kaftanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerinde olan"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ve verdi onu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ve giysilerini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve -e kadar"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kılıcına"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve -e kadar"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "yayına"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve -e kadar"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "kuşağına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:09.873887778Z",
+  "model": "glm-5.3"
+}

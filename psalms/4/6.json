@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Doğruluğun kurbanlarını kesin ve Yahve'ye güvenin.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "kesin"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurbanlarını"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğruluğun"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "ve güvenin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:21.283392378Z",
+  "model": "glm-5.3"
+}

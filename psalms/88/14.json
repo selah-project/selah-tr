@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Ben ise sana, Yahve, yalvardım; ve sabahleyin duam senin önüne çıkacak.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "yalvardım"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ve sabahleyin"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duam"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "senin önüne çıkacak"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:59.479217873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve Yahve Moşe'ye dedi: Senin konuştuğun ⟨את⟩ bu sözü de yapacağım; çünkü gözümde lütuf buldun ve seni adınla tanıyorum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "konuştun"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yapacağım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "buldun"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözümde"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "ve seni tanıyorum"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adınla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:12.403567740Z",
+  "model": "glm-5.3"
+}

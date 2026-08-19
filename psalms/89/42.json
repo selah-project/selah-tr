@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Yoldan geçenlerin hepsi onu yağmaladı; komşularına ⟨o⟩ alay konusu oldu.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "onu yağmaladı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "geçenlerin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoldan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "alay konusu"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "komşularına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:57.870836357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Döndüm ve dağdan indim ve ⟨את⟩ tabletleri yaptığım sandığa koydum; orada kaldılar, Yahve'nin bana buyurduğu gibi.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "Döndüm"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ve indim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ve koydum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabletleri"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabletleri"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sandığa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptığım"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldular"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "bana buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:12.822590475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ne biliyorsun ki biz bilmiyoruz? Ne anlıyorsun ki o bizimle ⟨değil⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "biliyorsun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "biliriz"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "anlıyorsun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:16.623435139Z",
+  "model": "glm-5.3"
+}

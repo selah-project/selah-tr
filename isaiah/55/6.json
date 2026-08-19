@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Yahve'yi bulunduğu sürece arayın, yakın olduğu sürece O'na seslenin.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "arayın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "bulunduğu sürece"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "O'na seslenin"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "olduğu sürece"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yakın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:40.271599451Z",
+  "model": "glm-5.3"
+}

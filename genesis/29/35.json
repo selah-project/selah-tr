@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yine gebe kaldı ve bir oğul doğurdu ve şöyle dedi: Bu kez Yahve'ye ⟨את⟩ övgü sunacağım; bu yüzden adını Yehuda çağırdı; ve doğurmaktan durdu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "gebe kaldı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu kez"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "övgü sunacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "bu yüzden (üzerine)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "doğurmaktan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:29.365713726Z",
+  "model": "glm-5.3"
+}

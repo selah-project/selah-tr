@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Bir ondalık, kuzuların her biri için — yedi kuzu için birer ondalık.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "bir ondalık"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "bir ondalık"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "kuzu için"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "yedi için"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "kuzular"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:24.280094924Z",
+  "model": "glm-5.3"
+}

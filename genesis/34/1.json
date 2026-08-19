@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Dina, Lea'nın Yaakov'a doğurduğu kızı, ülkenin kızlarını görmek için dışarı çıktı.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea'nın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurduğu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov'a"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "kızlarını"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:19.950966355Z",
+  "model": "glm-5.3"
+}

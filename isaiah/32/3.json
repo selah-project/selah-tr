@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve görenlerin gözleri yılmayacak, işitenlerin kulakları dinleyecek.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ve ... değil"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "yılmayacak (dik dik bakmak)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "görenlerin"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ve kulakları"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "işitenlerin"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "kulak kabartacak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:12.716821279Z",
+  "model": "glm-5.3"
+}

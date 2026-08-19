@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Büyüktür Yahve ve çok övülmeye layık; ve büyüklüğünün ⟨sonu⟩ aranamaz.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Büyüktür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ve övülmeye layık"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ve büyüklüğünün"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "aranacak son"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:29.786795Z",
+  "model": "glm-5.3"
+}

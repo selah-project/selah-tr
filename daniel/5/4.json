@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Şarap içtiler ve altın, gümüş, bakır, demir, ağaç ve taş ilahlarına övgü sundular.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "içtiler"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "şarap"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "ve övdüler"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ilahlarına"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "altın"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "ve gümüş"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "bakır"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "demir"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "ağaç"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "ve taş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:43:41.304872637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Yahve'yi, atalarının Elohim'ini ⟨את⟩ bıraktılar; ⟨את⟩ Aşerimlere ve ⟨את⟩ putlara kulluk ettiler; bu suçları yüzünden Yahuda ve Yeruşalayim üzerine öfke geldi.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "bıraktılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kulluk ettiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşerimler"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Aşerimler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "putlar"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "putlar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ve Yeruşalayim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "suçları yüzünden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T12:07:40.310365124Z",
+  "model": "glm-5.3"
+}

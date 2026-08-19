@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 130,
+  "translation": "Ve O, Yisra'eli ⟨את⟩ bütün suçlarından fidyeyle kurtaracak.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ve O"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "fidyeyle kurtaracak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'eli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -dan"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "suçlarından"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:33.301982875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ama yıkamazsa ve bedenini yıkamazsa, suçunu yüklenecektir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yıkamazsa"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ve bedenini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "yıkamazsa"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ve yüklenirse"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "suçunu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:40.456931232Z",
+  "model": "glm-5.3"
+}

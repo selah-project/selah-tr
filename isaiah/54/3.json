@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "Çünkü sağa ve sola yarılacaksın; tohumun ulusları miras alacak, boş kalmış şehirleri ise meskun kılacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağa"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ve sola"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "yarılacaksın"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ve tohumun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "miras alacak"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ve şehirleri"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "boş kalmış"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "meskun kılacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:20.980704397Z",
+  "model": "glm-5.3"
+}

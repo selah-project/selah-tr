@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Söz yoktur, ve sözler yoktur; sesleri duyulmaz.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "-sız"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "duyulur"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sesleri"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:04.003508326Z",
+  "model": "glm-5.3"
+}

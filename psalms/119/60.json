@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Acele ettim ve gecikmedim buyruklarını korumaya.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "acele ettim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -me(dım)"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "geciktim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "korumaya"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:16.507580567Z",
+  "model": "glm-5.3"
+}

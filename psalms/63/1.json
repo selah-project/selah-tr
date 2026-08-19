@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 63,
+  "translation": "David'e ait ezgi — Yehuda çölünde bulunduğunda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ezgi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e ait"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "bulunduğunda"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölünde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:25.326484550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Yeniden secde edip şöyle dedi: «Kulun nedir ki, benim gibi ölü bir köpeğe yöneldin?»",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "secde etti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nedir"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "yöneldin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "köpek"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ki"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "benim gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:53.352780724Z",
+  "model": "glm-5.3"
+}

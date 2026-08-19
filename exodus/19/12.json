@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve halka çevresine sınır koyacaksın, deyip: Dağa çıkmamaya ve onun ucuna dokunmamaya kendinizi koruyun; dağa dokunan her kimse kesinlikle öldürülecek.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "ve sınır koyacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresine"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "kendinizi koruyun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendiniz"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "çıkma"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ve dokunma"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "onun ucuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her kimse"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "dokunan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:00.060358357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Şelomo, Yahve'nin evini Yeruşalayim'de, Moriya Dağı'nda — babası Davud'a ⟨את⟩ görünen yerde — Davud'un Arnan haYevusi'nin harman yerinde hazırladığı yerde inşa etmeye başladı.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "başladı"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "inşa etmeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Moriya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hazırladı"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "harman yerinde"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan'ın"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "haYevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T12:03:02.036519366Z",
+  "model": "glm-5.3"
+}

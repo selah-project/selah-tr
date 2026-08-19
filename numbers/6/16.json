@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve kâhin onları Yahve'nin önüne takdim eder, ve ⟨את⟩ günahlığını ve ⟨את⟩ yakmalığını yapar.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ve takdim eder"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ve yapar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günahlığını"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "günahlığını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yakmalığını"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "yakmalığını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:12.332390753Z",
+  "model": "glm-5.3"
+}

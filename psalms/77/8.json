@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Sonsuza dek mi Adonay terk edecek, ve bir daha hiç hoşnut olmayacak mı?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "sonsuza dek mi"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "terk edecek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "hoşnut olmak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hiç"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:49.252175710Z",
+  "model": "glm-5.3"
+}

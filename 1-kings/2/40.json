@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Şim'i kalkti ve esegini ⟨את⟩ bagladi ve Gat'a, Akiş'in yanina, kölelerini ⟨את⟩ aramak için gitti; ve Şim'i gitti ve kölelerini ⟨את⟩ Gat'tan geri getirdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Şim'i"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ve bağladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eşağı"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "eşağını"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "Gat'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiş'e"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "aramak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köleleri"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "köleleri"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Şim'i"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köleleri"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "köleleri"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "Gat'tan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:29.168215470Z",
+  "model": "glm-5.3"
+}

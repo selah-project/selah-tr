@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Kutsal şeylerımı hor gördün ve ⟨את⟩ şabatlarımı kirlettin.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "kutsal şeylerımı"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "hor gördün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şabatlarımı"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "şabatlarımı"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "kirlettin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:28:23.129885793Z",
+  "model": "glm-5.3"
+}

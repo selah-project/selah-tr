@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "İçinizden her kalbi bilge olan gelsin ve Yahve'nin buyurduğu ⟨את⟩ her şeyi yapsın.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbli"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "içinizden"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "gelsin(ler)"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ve yapsın(lar)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her şey"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:50.685395938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Baş ezenci için, telli çalgılar üzerine, sekizlide — Davud'un mizmoru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "baş ezenci için"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "telli çalgılar üzerine"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "sekizlide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'un"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:57.305010882Z",
+  "model": "glm-5.3"
+}

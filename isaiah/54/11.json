@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 54:11",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "Ey ezilmiş, fırtınayla savrulmuş, avunmamış ⟨olan⟩! Bak, ben taşlarını sür sür 𝄒 yerine — antimonla döşüyorum taşlarını ve temellerini safirlerle atıyorum.",
+  "tokens": [
+    {
+      "surface": "עניה",
+      "gloss": "ezilmiş"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "fırtınayla savrulmuş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נחמה",
+      "gloss": "avunmuş"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מרביץ",
+      "gloss": "döşüyorum"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "antimonla"
+    },
+    {
+      "surface": "אבניך",
+      "gloss": "taşlarını"
+    },
+    {
+      "surface": "ויסדתיך",
+      "gloss": "ve temellerini atıyorum"
+    },
+    {
+      "surface": "בספירים",
+      "gloss": "safirlerle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:36.367373592Z",
+  "model": "glm-5.3"
+}

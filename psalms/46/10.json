@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Savaşları dünyanın ucuna kadar durdurur; yayı kırar, mızrağı keser, savaş arabalarını ateşte yakar.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "durdurur"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "savaşları"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ucuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dünyanın"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yayı"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "kırar"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ve keser"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mızrağı"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "savaş arabalarını"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:17.252121471Z",
+  "model": "glm-5.3"
+}

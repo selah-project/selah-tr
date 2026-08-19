@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Siz de bana ⟨את⟩ cevap verdiniz ve “Söyleyeceğin ⟨iş⟩ yapılacak şey için iyidir” dediniz.",
+  "tokens": [
+    {
+      "surface": "וַתַעֲנוּ",
+      "gloss": "ve cevap verdiniz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ve dediniz"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi(dir)"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz\/iş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "söyledin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:35.787687933Z",
+  "model": "glm-5.3"
+}

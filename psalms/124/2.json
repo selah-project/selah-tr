@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 124,
+  "translation": "Yahve bizim için olmasaydı, insanlar bize karşı kalktığında,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "olmasaydı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olmuş"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "kalktığında"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bize karşı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:46.838137810Z",
+  "model": "glm-5.3"
+}

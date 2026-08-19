@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Yahve önünde sessiz ol ve O'nun için bekle; yolunda başarı kazanana öfkelenme, kötü planlar işleyen adamdan dolayı öfkelenme.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "sessiz ol"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve için(önünde)"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ve bekle(sabırla titreyerek)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'nun için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "öfkelenme"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "kızma"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "başarı kazanana"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "işleyen"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "kötü planlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:09.682661082Z",
+  "model": "glm-5.3"
+}

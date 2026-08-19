@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Elin olsun sağının ⟨adamının⟩ üzerinde, kendin için güçlendirdiğin insan-oğlunun üzerinde.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "senin elin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "senin sağının"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "güçlendirdin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendin için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:56.942137472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Yitro, Moşe'nin kayınpederi, Moşe'nin karısı Tzippora'yı onu gönderdikten sonra aldı ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "Moşe'nin kayınpederi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzippora'yı"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzippora'yı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'nin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "onu gönderdikten"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:48.497700638Z",
+  "model": "glm-5.3"
+}

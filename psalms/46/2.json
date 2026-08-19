@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Elohim ⟨is⟩ bizim sığınağımız ve gücümüz, sıkıntılarda ⟨çok⟩ bulunur bir yardım.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ve güç"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "yardım"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "sıkıntılarda"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "bulunur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:57.839968896Z",
+  "model": "glm-5.3"
+}

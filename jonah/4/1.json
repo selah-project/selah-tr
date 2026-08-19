@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Yona'ya göre kötü ⟨oldu⟩ — ⟨bu⟩ büyük bir kötülük; ve ⟨o⟩ öfkelendi.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "kötü oldu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ya göre"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "öfkelendi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:41.726477326Z",
+  "model": "glm-5.3"
+}

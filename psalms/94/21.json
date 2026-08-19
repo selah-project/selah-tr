@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Sadıkın canına karşı toplanırlar ve masum kanı suçlu sayarlar.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "toplanırlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canına"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadıkın"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ve kanı"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "masum"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "suçlu sayarlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:48.610084282Z",
+  "model": "glm-5.3"
+}

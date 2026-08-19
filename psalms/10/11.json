@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kalbinde dedi: 'El unuttu; yüzünü gizledi, asla görmez, sonsuza dek.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "kalbinde"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "unuttu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "gizledi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmez"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:19.592431160Z",
+  "model": "glm-5.3"
+}

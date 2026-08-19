@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve yalnız Moşe Yahve'ye yaklaşacak; onlar yaklaşmayacaklar ve halk onunla birlikte çıkmayacak.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ve yaklaşacak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "yaklaşacaklar"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ve halk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "çıkacaklar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:50.915984814Z",
+  "model": "glm-5.3"
+}

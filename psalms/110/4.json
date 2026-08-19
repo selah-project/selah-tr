@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 110,
+  "translation": "Yahve and içti ve pişman olmayacak: «Sen sonsuza dek kutsalsın, Malki-Tsedek düzenince kâhinsin.»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "and içti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayacak"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "pişman"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhinsin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ince"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "düzen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:16.703941694Z",
+  "model": "glm-5.3"
+}

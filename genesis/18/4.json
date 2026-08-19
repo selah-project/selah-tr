@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "«Lütfen biraz su alınsın, ayaklarınızı yıkayın ve ağacın altında yaslanın.»",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "alınsın"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "biraz"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "yıkayın"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "ayaklarınızı"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "yaslanın"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağacın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:33.006129364Z",
+  "model": "glm-5.3"
+}

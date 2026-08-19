@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Moşe dedi: Yahve şöyle dedi: Gece yarısında ben Mısır'ın ortasına çıkacağım.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "gece yarısında gibi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "çıkanı\/çıkacağım"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasına"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:03.056786841Z",
+  "model": "glm-5.3"
+}

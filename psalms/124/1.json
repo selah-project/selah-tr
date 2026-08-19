@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 124,
+  "translation": "Yükselişler şarkısı, Davud'a ait. Yahve bizim için olmasaydı — şimdi İsrail söylesin,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişler"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "olmasaydı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olmuş"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "söylesin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:46.837916547Z",
+  "model": "glm-5.3"
+}

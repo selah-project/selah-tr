@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Filistimliler savaştı ve İsrail yenildi ve her adam çadırına kaçtı; ve vuruş çok büyük oldu; ve İsrail'den otuz bin yaya asker düştü.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "ve savaştılar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistimliler"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "ve yenildi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ve kaçtılar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her adam"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "çadırına"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "vuruş\/bozgun"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ve düştü"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsrail'den"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "yaya asker"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:27.998163545Z",
+  "model": "glm-5.3"
+}

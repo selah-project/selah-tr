@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ezilenlerin yağmasından, yoksulların inlemesinden ötürü şimdi kalkacağım, der Yahve; onu kurtuluşa koyacağım — ⟨onun için⟩ soluk çeken için ⟨eylerim⟩.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "yağmasından"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ezilenlerin"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "inlemesinden"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "yoksulların"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "kalkacağım"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "koyacağım"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "kurtuluşa"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "soluk çeken"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:47.477612420Z",
+  "model": "glm-5.3"
+}

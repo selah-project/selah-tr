@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve ⟨eğer⟩ barış sunusu olarak bir kesim Yahve'ye kurban edecekseniz, rızalığınız için kesmelisiniz onu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ve ⟨eğer⟩"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kurban kesecekseniz"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "bir kesim"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "barış sunusu olarak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "rızalığınız için"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "kesmelisiniz onu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:55.311127811Z",
+  "model": "glm-5.3"
+}

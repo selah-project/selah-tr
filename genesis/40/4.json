@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve cellatlar sorumlusu Yosef'i ⟨את⟩ onlarla görevlendirdi; o da ⟨את⟩ onlara hizmet etti; ve gözetim altında günler ⟨oldu⟩.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ve görevlendirdi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sorumlusu"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "cellatların"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "ve hizmet etti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlara"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "gözetim altında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:18.939045683Z",
+  "model": "glm-5.3"
+}

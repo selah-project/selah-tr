@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Sevgililerim ve dostlarım belamın karşısında duruyor, yakınlarım uzakta durdular.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "sevgililerim"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ve dostlarım"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "karşısında"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "belamın"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "duruyor"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "ve yakınlarım"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzakta"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "durdular"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:02.587671092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ta ki görkemim seni çalıp övsün ve susmasın. Ey Yahve, Elohim'im, sonsuza dek sana teşekkür edeceğim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "seni çalıp övsün"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görkemim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "susmasın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sana teşekkür edeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:39.593310438Z",
+  "model": "glm-5.3"
+}

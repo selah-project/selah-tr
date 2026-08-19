@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Hüküm ve doğruluk yaptım; beni ezenlere bırakma.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hüküm"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ve doğruluk"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "bırakma beni"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "beni ezenlere"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:47.655166929Z",
+  "model": "glm-5.3"
+}

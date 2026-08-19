@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Ey doğrular, Yahve'de sevinin; kutsal adının anısına şükredin.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "sevinin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ey doğrular"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'de"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ve şükredin"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "anısına"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:59.083528203Z",
+  "model": "glm-5.3"
+}

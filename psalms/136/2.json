@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "İlahların ilahı Elohim'e şükredin, çünkü sonsuza dek sürer O'nun sevgi-merhameti.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükredin"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ilahların ilahı Elohim'e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ilahların"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgi-merhameti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:10.324893975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve alacaksın ⟨את⟩ iki şoham taşını, ve üzerlerine kazıyacaksın Yişrael oğullarının adlarını.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ve alacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki şoham taşı"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "taş"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "şoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ve kazıyacaksın"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "üzerlerine"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:12.436919810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve sular sunak çevresinde aktı, ve hendeği de ⟨את⟩ suyla doldurdu.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ve aktı"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ve de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendeği"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "hendeği"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suyla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:08.882619541Z",
+  "model": "glm-5.3"
+}

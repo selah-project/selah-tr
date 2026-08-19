@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "ve ⟨את⟩ Parşandata'yı ve ⟨את⟩ Dalpon'u ve ⟨את⟩ Aspata'yı",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Parşandata'yı"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parşandata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dalpon'u"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalpon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aspata'yı"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspata"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:46.329848856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve yıkacaksınız ⟨את⟩ onların sunaklarını, kıracaksınız ⟨את⟩ dikili taşlarını, Aşeralarını ateşte yakacaksınız, ilahlarının oyma putlarını keseceksiniz ve ⟨את⟩ onların adlarını o yerden yok edeceksiniz.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "ve yıkacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların sunaklarını"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "onların sunaklarını"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "ve kıracaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikili taşlarını"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "dikili taşlarını"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "ve Aşeralarını"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "yakacaksınız"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "ve oyma putlarını"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların ilahlarının"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "keseceksiniz"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ve yok edeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların adlarını"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "onların adlarını"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "o yer"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:04.551498662Z",
+  "model": "glm-5.3"
+}

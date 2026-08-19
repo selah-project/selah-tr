@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Yahve'nin meleği Eliyahu'ya şöyle dedi: Onunla in, ondan korkma. Ve ⟨o⟩ kalktı ve onunla birlikte krala indi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "meleği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "in"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "ona (krala)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ve indi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "ona (krala)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krala"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:07.369814992Z",
+  "model": "glm-5.3"
+}

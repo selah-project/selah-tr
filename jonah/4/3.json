@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve şimdi, Yahve, al ⟨lütfen⟩ ⟨את⟩ canımı benden; çünkü ölümüm yaşamımdan iyidir.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canımı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ölümüm"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "yaşamımdan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:41.726974870Z",
+  "model": "glm-5.3"
+}

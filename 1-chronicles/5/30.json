@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Elazar ⟨את⟩ Pinehas'ı babası oldu; Pinehas ⟨את⟩ Avişua'yı babası oldu.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinehas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avişua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avişua"
+    }
+  ],
+  "timestamp": "2026-08-19T11:55:34.998733242Z",
+  "model": "glm-5.3"
+}

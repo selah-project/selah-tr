@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Adam ⟨את⟩ karısını yine bildi ve ⟨o⟩ bir oğul doğurdu ve ⟨את⟩ adını Şet çağırdı, çünkü «bana Elohim Hevel'in yerine başka bir tohum koydu, çünkü Kayin onu öldürdü» ⟨ dedi ⟩.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "bildi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karısını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Şet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שת",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "onu öldürdü"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:00.573964079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yahve'den korkun, ⟨את⟩ Yahve, ey O'nun kutsalları; çünkü O'ndan korkanlara hiçbir eksik yoktur.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "korkun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "O'nun kutsalları"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "eksik"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "O'ndan korkanlara"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:03.935340112Z",
+  "model": "glm-5.3"
+}

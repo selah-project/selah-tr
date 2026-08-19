@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "Elini yücelerden uzat; beni koparıp kurtar bana çok sulardan, yabancı oğullarının elinden.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "uzat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "elini"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yücelerden"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "beni kopar"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ve kurtar bana"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "sulardan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çok"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:59.999039189Z",
+  "model": "glm-5.3"
+}

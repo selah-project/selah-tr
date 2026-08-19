@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Sonsuz mu öfkesi tutacak, ebediyete mi saklayacak? İşte, konuştun ve kötülükleri yaptın ve gücün yetti.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "öfkesi tutacak mı"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuz mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "saklayacak mı"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ebediyete mi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "konuştun"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "ve yaptın"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "kötülükleri"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "ve gücün yetti"
+    }
+  ],
+  "timestamp": "2026-08-19T12:18:18.844766396Z",
+  "model": "glm-5.3"
+}

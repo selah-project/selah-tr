@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "çünkü onu sürgüne götürdükleri yerde orada ölecek ve ⟨את⟩ bu ülkeyi bir daha görmeyecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "sürgüne götürdükleri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölecek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bu ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görmeyecek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    }
+  ],
+  "timestamp": "2026-08-19T10:11:12.041738751Z",
+  "model": "glm-5.3"
+}

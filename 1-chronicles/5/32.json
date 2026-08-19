@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "ve Uzzi ⟨את Zerahya'yı babası oldu, ve Zerahya ⟨את Merayot'u babası oldu.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "ve Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerahya"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerahya"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ve Zerahya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-19T11:55:34.999088538Z",
+  "model": "glm-5.3"
+}

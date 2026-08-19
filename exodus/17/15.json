@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Moşe bir sunak yaptı ve onun adını Yahve-Nissi çağırdı.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi (sancağım)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:45.605100396Z",
+  "model": "glm-5.3"
+}

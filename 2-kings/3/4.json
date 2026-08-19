@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Moav kralı Meşa bir koyun yetiştiricisiydi ve Yisrael kralına yüz bin koç ve yüz bin toklu yünleriyle geri verirdi.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Ve Meşa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "koyun yetiştiricisi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ve geri verirdi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "koç"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ve yüz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "toklu"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "yün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:16.069422385Z",
+  "model": "glm-5.3"
+}

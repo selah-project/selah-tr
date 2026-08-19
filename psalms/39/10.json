@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Dilsiz kaldım, ağzımı açmadım; çünkü ⟨bunu⟩ sen yaptın.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "dilsiz kaldım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma \/ olmadı"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "açmadım"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaptın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:40.112262985Z",
+  "model": "glm-5.3"
+}

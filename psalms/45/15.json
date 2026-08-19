@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Sırmalı dokumalarla krala sunulur ⟨o⟩; ardından bâkireler, arkadaşları, sana getirilirler.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "sırmalı dokumalarla"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "sunulur"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krala"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bâkireler"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "onun ardından"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "arkadaşları"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "getirilirler"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:03.187840939Z",
+  "model": "glm-5.3"
+}

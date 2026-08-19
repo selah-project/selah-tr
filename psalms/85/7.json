@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 85,
+  "translation": "Sen geri dönecek değil misin, bizi dirilteceksin — ve halkın sende sevinecek.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "geri dönecek"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "bizi dirilt"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ve halkın"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinecek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sende"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:19.525047679Z",
+  "model": "glm-5.3"
+}

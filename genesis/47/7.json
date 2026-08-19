@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Yosef, babası Yaakov'u getirdi ve onu Paro'nun önüne durdurdu; Yaakov da ⟨את⟩ Paro'yu kutsadı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov'u"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'u"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "ve onu durdurdu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro'nun"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro'yu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro'yu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:38.976308134Z",
+  "model": "glm-5.3"
+}

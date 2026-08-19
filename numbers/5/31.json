@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve adam suçsuz sayılacak, ama o kadın ⟨את⟩ kendi suçunu yüklenecek.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "suçsuz sayılacak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "suçtan"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "yüklenecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suçunu"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "suçunu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:43.785239774Z",
+  "model": "glm-5.3"
+}

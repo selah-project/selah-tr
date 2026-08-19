@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü korktuğum korku başıma geldi, ve dehşete kapıldığım şey bana geldi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "korku"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "korktuğum"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "ve başıma geldi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve dehşete kapıldığım"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "dehşete kapıldığım"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gelen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:49.805449691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Çünkü dilimde ⟨henüz⟩ bir söz yok ki, bak, Yahve, sen onu tümüyle bilirsin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "bir söz"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "dilimde"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sen bilirsin"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "onu tümüyle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:21.388278434Z",
+  "model": "glm-5.3"
+}

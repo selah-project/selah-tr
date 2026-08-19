@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "Sevgim ve sığınağım, kulem ve kurtarıcım bana; kalkanım, kendisine güvendiğim ⟨odur⟩ — halkımı deviren, benim buyruğum altına.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "sevgim"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ve sığınağım"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kulem"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ve kurtarıcım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "kalkanım"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ve kendisine"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "güvendiğim"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "deviren"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "benim buyruğum altına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:53.442497611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çünkü sen, ey Yahve, doğru kişiyi kutsayacaksın; hoşnutluğunla onu ⟨bir⟩ kalkan gibi kuşatacaksın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "kutsayacaksın"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru kişiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "kalkan gibi"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "hoşnutlukla"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "onu kuşatacaksın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:40.021439050Z",
+  "model": "glm-5.3"
+}

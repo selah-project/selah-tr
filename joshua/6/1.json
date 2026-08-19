@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yeriho, İsrail oğullarının yüzünden kapalı ve kapatılmış ⟨ idi ⟩; çıkan yok ve giren yok.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Ve Yeriho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "kapalı"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "ve kapatılmış"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "çıkan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "בא",
+      "gloss": "giren"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:42.317409879Z",
+  "model": "glm-5.3"
+}

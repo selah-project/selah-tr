@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Sırtımı vuranlara verdim, yanaklarımı yolanlara; yüzümü utançtan ve tükürükten gizlemedim.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "sırtımı"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "vuranlara"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "ve yanaklarımı"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "yolanlara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "gizledim"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "utançtan"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "ve tükürükten"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:07.300424020Z",
+  "model": "glm-5.3"
+}

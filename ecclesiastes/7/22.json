@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü birçok kez senin kalbin bilir ki sen de ⟨את⟩ başkalarını lanetledin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kezler"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "birçok"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "senin kalbin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başkalarını"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "lanetledin"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başkalarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:04.282163044Z",
+  "model": "glm-5.3"
+}

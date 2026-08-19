@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ah, o gün için! Çünkü yakindir Yahve'nin günü, ve Şadday'dan ⟨bir⟩ yikim gibi gelecek.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "o gün için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yakindir"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "ve yikim gibi"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Şadday'dan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:05.724362195Z",
+  "model": "glm-5.3"
+}

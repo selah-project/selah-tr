@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 12:13",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ağımı onun üzerine geracağim ve tuzağımde yakalanacak; onu Babil'e, Kaşdimler ülkesine götüreceğim ve ⟨את⟩ o ülkeyi görmeyecek ve orada ölecek.",
+  "tokens": [
+    {
+      "surface": "ופרשתי",
+      "gloss": "geracağim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağım"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "ağım"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "ונתפש",
+      "gloss": "yakalanacak"
+    },
+    {
+      "surface": "במצודתי",
+      "gloss": "tuzağımde"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "götüreceğim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "Babil'e"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babil'e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesine"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kaşdimler"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "ve ⟨את⟩ onu",
+      "marks": "görmeyecek (o ülkeyi)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görmeyecek"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve orada"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölecek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:25:42.252374432Z",
+  "model": "glm-5.3"
+}

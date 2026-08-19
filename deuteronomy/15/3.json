@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yabancıdan ⟨את⟩ isteyebilirsin; ama kardeşinde ⟨את⟩ sana ait olanı elin bıraksın.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yabancıdan"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "yabancıdan"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "isteyebilirsin"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana ait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşinde"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşinde"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "bıraksın"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:07.485965996Z",
+  "model": "glm-5.3"
+}

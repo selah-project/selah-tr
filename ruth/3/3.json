@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yıkan, yağlan, giysini üzerine giyin ve harmana in; adam yiyip içini bitirinceye kadar kendini ona bildirme.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "yıka"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "yağlan"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "giy"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "giysini"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "in"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "harmana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "bildirme"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-inceye kadar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "o bitirince"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemek"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ve içmek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:54.005941927Z",
+  "model": "glm-5.3"
+}

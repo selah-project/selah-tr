@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Yaklaşık beş bin adam aldı ve onları Beyt-El ile Hay arasında, şehrin batısında pusu ⟨את⟩ olarak yerleştirdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "yaklaşık beş"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yerleştirdi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "onları ⟨את⟩",
+      "marks": "pusu"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "pusu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ile"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "batısında"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şehrin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:04.265978928Z",
+  "model": "glm-5.3"
+}

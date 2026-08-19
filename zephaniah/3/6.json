@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 3:6",
+  "book": "zephaniah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ulusları kestim, köşeleri ıssızlaştı; sokaklarını çölleştirdim, geçen kimse olmadan; kentleri harap oldu, adam olmadan, oturan yok.",
+  "tokens": [
+    {
+      "surface": "הכרתי",
+      "gloss": "kestim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "ıssızlaştı"
+    },
+    {
+      "surface": "פנותם",
+      "gloss": "köşeleri"
+    },
+    {
+      "surface": "החרבתי",
+      "gloss": "çölleştirdim"
+    },
+    {
+      "surface": "חוצותם",
+      "gloss": "sokaklarını"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "olmadan"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "geçen"
+    },
+    {
+      "surface": "נצדו",
+      "gloss": "harap oldu"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kentleri"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "olmadan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oturan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:47:11.604418633Z",
+  "model": "glm-5.3"
+}

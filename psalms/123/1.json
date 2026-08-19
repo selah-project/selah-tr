@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 123,
+  "translation": "Yükselişlerin şarkısı. Sana, göklerde oturana ⟨את⟩ gözlerimi kaldırdım.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "kaldırdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlerimi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerimi"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "oturana"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:49.357349690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Siyon'dan, güzelliğin tamamından, Elohim parıldadı.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Siyon'dan"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "tamamından"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "güzelliğin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "parıldadı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:25.281031315Z",
+  "model": "glm-5.3"
+}

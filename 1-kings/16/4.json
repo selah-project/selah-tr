@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "«Şehirde ölen Başa'dan kim varsa köpekler yiyecek; kırsalda ölen ondan kim varsa gökyüzünün kuşları yiyecek.»»",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ölen"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "Başa'ya ait"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyecekler"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "köpekler"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ve ölen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kırsalda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyecekler"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuşları"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökyüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:50.660712549Z",
+  "model": "glm-5.3"
+}

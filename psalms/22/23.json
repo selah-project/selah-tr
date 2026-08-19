@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Kardeşlerime adını anlatacağım, cemaatin ortasında seni öveceğim.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "anlatacağım"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kardeşlerime"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "cemaatin"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "seni öveceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:01.159463813Z",
+  "model": "glm-5.3"
+}

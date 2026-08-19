@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Kutsanmış Adonay — gün gün bizim yükümüzü üstlenir bizim için, El ⟨olan⟩ kurtuluşumuz. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutsanmış"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "yükümüzü üstlenir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "kurtuluşumuz"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:41.790868644Z",
+  "model": "glm-5.3"
+}

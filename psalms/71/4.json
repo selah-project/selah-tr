@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Elohim'im, beni kötünün elinden, zalimin ve zorbanın avucundan kurtar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "avucundan"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "zalimin"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ve zorbanın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:59.228146165Z",
+  "model": "glm-5.3"
+}

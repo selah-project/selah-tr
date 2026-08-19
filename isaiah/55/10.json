@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Çünkü yağmur ve kar gökten nasıl iner de oraya geri dönmez — ⟨את⟩ yeri sulamadıkça ve onu doğurup büyütmedikçe, ekene tohum ve yiyene ekmek vermeyeceğine —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "iner"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yağmur"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "ve kar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökten"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ve oraya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dönmez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-madıkça"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "sulamadıkça"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "ve onu doğurup"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "ve onu büyütüp"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ekene"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ve ekmek"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yiyene"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:05.708803420Z",
+  "model": "glm-5.3"
+}

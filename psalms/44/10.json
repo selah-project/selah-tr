@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Ama ⟨sen⟩ bizi terk ettin ve bizi utanca düşürdün, ve ordularımızla birlikte çıkmıyorsun.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "terk ettin"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ve bizi utanca düşürdün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve... değil"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıkmıyorsun"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ordularımızla birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:52.148577284Z",
+  "model": "glm-5.3"
+}

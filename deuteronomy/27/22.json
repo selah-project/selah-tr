@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Kız kardeşiyle — babasının kızı veya annesinin kızı — yatan lanetlidir; ve bütün halk diyecek: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "lanetlidir"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "kız kardeşi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesinin"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve diyecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:19.093979520Z",
+  "model": "glm-5.3"
+}

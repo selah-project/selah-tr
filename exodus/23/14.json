@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Yılda üç kez bana bayram yapacaksın.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "kez (ayak)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "bayram yapacaksın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yılda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:44.795367916Z",
+  "model": "glm-5.3"
+}

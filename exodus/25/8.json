@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve bana bir mabet yapsınlar; aralarında konut kurayım.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ve yapsınlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "bir mabet"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ve konut kurayım (şahneyti)"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "aralarında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:15.879386330Z",
+  "model": "glm-5.3"
+}

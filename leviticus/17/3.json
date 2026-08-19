@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "İsrail evinden her hangi ⟨bir⟩ adam ki öküz ya da kuzu ya da keçi katlederse — orduda ⟨yahut⟩ dışarıda, ordunun dışında katlederse:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "herhangi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "katlederse"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "kuzu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "עז",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "orduda"
+    },
+    {
+      "surface": "או",
+      "gloss": "yahut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "katlederse"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışarıda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ordunun dışına"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:20.330223626Z",
+  "model": "glm-5.3"
+}

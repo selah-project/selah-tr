@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve onları Moav kralının ⟨את⟩ yüzü önüne yerleştirdi ve Dawit'in hisarda olduğu bütün günler onunla oturdular.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ve yerleştirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ve oturdular"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "היות",
+      "gloss": "olduğu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "hisarda"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:38.857704312Z",
+  "model": "glm-5.3"
+}

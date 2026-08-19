@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Atalarımızla ⟨את⟩ değil, Yahve bu ⟨את⟩ antlaşmayı bizimle kesti; biz, şunlar, burada, bugün, hepimiz diriyiz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarımız"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antlaşmayı"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "antlaşmayı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü\/ki"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle",
+      "marks": "bizimle"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "şunlar"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "hepimiz"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "diri"
+    }
+  ],
+  "timestamp": "2026-08-19T08:58:28.207834462Z",
+  "model": "glm-5.3"
+}

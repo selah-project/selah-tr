@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve David ⟨את⟩ eşyaları üzerine bıraktı, eşya bekçisinin eline, ve savaş düzenine koştu, ve geldi, ve kardeşlerinin esenliğini sordu.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "ve bıraktı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eşyaları"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "eşyaları"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "על",
+      "gloss": "eline"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "bekçisi"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "eşya"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ve koştu"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "savaş düzenine"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ve sordu"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kardeşlerinin"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "esenliğini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:34.568316657Z",
+  "model": "glm-5.3"
+}

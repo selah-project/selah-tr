@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve şehir önderi Zevul, Eved oğlu Gaal'in ⟨את⟩ sözlerini işitti; öfkesi tutuştu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "işitti"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "önder"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözleri"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal'in"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "tutuştu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:01.469531625Z",
+  "model": "glm-5.3"
+}

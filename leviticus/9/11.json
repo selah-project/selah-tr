@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve ⟨את⟩ eti ve ⟨את⟩ deriyi ateşle kampın dışında yaktı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "eti"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "eti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "deriyi"
+    },
+    {
+      "surface": "העור",
+      "gloss": "deriyi"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yaktı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışında"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampın"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:00.468309524Z",
+  "model": "glm-5.3"
+}

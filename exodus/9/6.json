@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Yahve ⟨את⟩ bu sözü ertesi günü yaptı ve Mısır'ın bütün hayvanları öldü; ama Yişraelin oğullarının hayvanlarından tek biri bile ölmedi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertesi günü"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "hayvanları"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ın"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "ve hayvanlarından"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişraelin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek biri"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:27.372507351Z",
+  "model": "glm-5.3"
+}

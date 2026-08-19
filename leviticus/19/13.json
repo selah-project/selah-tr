@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Komşunu ⟨את⟩ ezmeyeceksin ve onu soymayacaksın; ücretlinin ücreti ⟨את⟩ yanında sabaha kadar beklemeyecek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksın"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "ezmek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komşunu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "komşun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve soyacaksın"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "soymak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksın"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "geceleyecek"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "emeği"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ücretlinin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yanında"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabaha"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:59.069863351Z",
+  "model": "glm-5.3"
+}

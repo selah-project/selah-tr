@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Güneşin altında yapılan bütün işleri gördüm; ve işte hepsi hevel ve rûah kaygısıdır.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün işleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "işleri"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "yapılan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ve kaygısı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rûahın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:07.216378991Z",
+  "model": "glm-5.3"
+}

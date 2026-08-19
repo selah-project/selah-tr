@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 14:12",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve adam yatar ve kalkmaz; gökler var olmayınca ⟨değil⟩ uyanmazlar, uykularından uyandırılmazlar.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve kalkmaz"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kalkar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "var olmayınca"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "⟨değil⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "uyanmazlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmaz"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "uyandırılmazlar"
+    },
+    {
+      "surface": "משנתם",
+      "gloss": "uykularından"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:51.891317982Z",
+  "model": "glm-5.3"
+}

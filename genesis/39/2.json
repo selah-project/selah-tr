@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Ve Yahve Yosef'le ⟨את⟩ birlikte idi; ve ⟨o⟩ başarılı bir adam oldu; ve Mısırlı efendisinin evinde ⟨bulundu⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ve oldu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'le birlikte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "başarılı"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "efendisinin"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mısırlı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:24.068367815Z",
+  "model": "glm-5.3"
+}

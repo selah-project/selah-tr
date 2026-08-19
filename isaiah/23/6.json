@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Tarşiş'e geçin, kıyının sakinleri, vay edin!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "geçin"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "Tarşiş'e"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "vay edin \/ feryat edin"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sakınleri"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kıyı \/ ada"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:05.602309961Z",
+  "model": "glm-5.3"
+}

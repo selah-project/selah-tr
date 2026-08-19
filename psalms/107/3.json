@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Ve ülkelerden topladı onları — doğudan ve batıdan, kuzeyden ve denizden.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "ve ülkelerden"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "onları topladı"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "doğudan"
+    },
+    {
+      "surface": "ג וממערב",
+      "gloss": ""
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ve batıdan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kuzeyden"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ve denizden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:15.090545273Z",
+  "model": "glm-5.3"
+}

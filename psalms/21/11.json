@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Onların meyvesini ⟨את⟩ yeryüzünden yok edeceksin, ve onların tohumunu insan-oğullarından.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "onların meyvesini"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeryüzünden"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "yok edeceksin"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ve onların tohumunu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:53.501343213Z",
+  "model": "glm-5.3"
+}

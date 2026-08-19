@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Ve gözüm bana pusu kuranları ⟨görür⟩; bana karşı doğan kötülük yapanları kulaklarım ⟨duyar⟩.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "ve baktı \/ bakar"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "bana pusu kuranları"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "doğanları \/ kalkanları"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötülük yapanları"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "duyarlar"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "kulaklarım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:20.403195180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Ölüler arasında serbest bırakılmışım, mezarda yatan ölüler gibi; ⟨onları⟩ artık anımsamıyorsun, ve onlar senin elinden koparıldılar.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "ölüler arasında"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "serbest bırakılmış"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "öldürülmüşler"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "yatan"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mezarda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "anımsıyorsun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "senin elinden"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "koparıldılar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:32.765768257Z",
+  "model": "glm-5.3"
+}

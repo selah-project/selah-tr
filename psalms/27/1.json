@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Davut'a ait. Yahve benim ışığımdır ve kurtuluşum — kimden korkayım? Yahve ⟨⟨⟩⟩ yaşamımın kalesidir — kimden titreyeyim?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davut'a ait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "benim ışığımdır"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "ve kurtuluşum"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kimden"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "korkayım"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kalesidir"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yaşamımın"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kimden"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "titreyeyim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:51.627210762Z",
+  "model": "glm-5.3"
+}

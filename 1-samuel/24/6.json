@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve oldu bundan sonra, ve Davud'un kalbi onu ⟨את⟩ Şaul'e ait kanadı kestiği için vurdu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onu ⟨את⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebebiyle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanadı"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kanadı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaul'e ait"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:46.906635743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Çünkü onun zevki Yahve'nin Tora'sındadır ve Tora'sında gece gündüz tekrarlayıp durur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Tora'sında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "zevki"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ve Tora'sında"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mırıldanır"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ve gece"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:59.083382527Z",
+  "model": "glm-5.3"
+}

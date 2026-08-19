@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Ve bunu bilmeyi düşünürdüm — ⟨bu⟩ gözümde bir zahmetti ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ve düşünürdüm"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmeyi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zahmet"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözümde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:14.063923640Z",
+  "model": "glm-5.3"
+}

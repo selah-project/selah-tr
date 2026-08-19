@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Yahve'ye karşı hikmet yok, anlayış yok ve ⟨de⟩ akıl yoktur.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "anlayış"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve ⟨de⟩ yok"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "akıl\/danışma"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:31.568733609Z",
+  "model": "glm-5.3"
+}

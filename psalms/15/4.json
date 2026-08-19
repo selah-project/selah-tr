@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Gözünde hor görülen değersizdir; ama Yahve'den korkanları ⟨את⟩ onurlandırır. Zararına yemin eder ve değiştirmez.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "hor görülen"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "değersizdir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'den korkanları"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "korkanları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'den"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "onurlandırır"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yemin eder"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "zararına"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "değiştirmez"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:02.372812462Z",
+  "model": "glm-5.3"
+}

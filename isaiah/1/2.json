@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Duyun, ey gökler, ve kulak ver, ey yer; çünkü Yahve konuştu: Oğullar büyüttüm, yücelttim, ve ⟨onlar⟩ bana isyan ettiler.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "duyun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ey gökler"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "ve kulak ver"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ey yer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "büyüttüm"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "yücelttim"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "isyan ettiler"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:15.577055263Z",
+  "model": "glm-5.3"
+}

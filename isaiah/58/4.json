@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 58:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Bakın, davalışmak ve kavga için oruç tutuyorsunuz, kötülükle yumruklamak için. Bugünkü gibi oruç tutmayın, sesinizin yüksekte duyulması için.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "davalışmak için"
+    },
+    {
+      "surface": "ומצה",
+      "gloss": "ve kavga"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "oruç tutuyorsunuz"
+    },
+    {
+      "surface": "ולהכות",
+      "gloss": "ve vurmak için"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "yumrukle"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötülükle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "oruç tutun"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bugünkü gibi"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "duyurmak için"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "yüksekte"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "sesinizi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:06.907217134Z",
+  "model": "glm-5.3"
+}

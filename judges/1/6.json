@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Adoni-Bezek kaçtı; ardından koştular, onu yakaladılar ve elinin ⟨את⟩ ve ayaklarının başparmaklarını kestiler.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "ve kaçtı"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ve kovaladılar"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "ve yakaladılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu yakaladılar"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "ve kestiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başparmaklarını"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "başparmaklarını"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "elinin"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "ve ayaklarının"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:06.243324760Z",
+  "model": "glm-5.3"
+}

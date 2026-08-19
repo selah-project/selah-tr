@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Koro şefine; Davud'un mezamiri, bir şarkı.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koro şefine"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezamir"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:37.468965638Z",
+  "model": "glm-5.3"
+}

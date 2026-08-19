@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve Elohim'inin ⟨את⟩ onu sürekli aradığı ⟨bir⟩ ülke ⟨bu⟩; Yahve Elohim'inin gözleri onun üzerindedir ⟨her zaman⟩, yılın başından yılın sonuna dek.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "arar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (toprağı)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onun üzerinde"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "başından"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yılın"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve dek"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sonuna"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:05.093334939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Yah'ı övün, çünkü Elohim'imizi ezgilerle övmek iyidir, çünkü ne hoş, ne yakışıklıdır övgü.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ezgilerle övmek"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "hoş"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yakışıklıdır"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "övgü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:17.301413395Z",
+  "model": "glm-5.3"
+}

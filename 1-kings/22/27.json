@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve şöyle diyeceksin: Kral böyle dedi: Bunu ⟨את⟩ hapishaneye koyun ve ona sıkıntı ekmeği yedirin ve sıkıntı suyu, ben esenlikle dönene dek.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ve diyeceksin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "koyun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "hapishane"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "ve yedirin ona"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ve su"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e dek"
+    },
+    {
+      "surface": "באי",
+      "gloss": "gelişim"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "esenlikle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:53.598776755Z",
+  "model": "glm-5.3"
+}

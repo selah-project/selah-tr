@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve kâhin parmağını ⟨את⟩ kana batıracak ve kandan yedi kez Yahve'nin önüne, kutsal perdenin yüzü ⟨את⟩ önüne serpecek.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ve batıracak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parmağını"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "parmağını"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ve serpecek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kandan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kez"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdenin yüzü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perdenin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:57.659732249Z",
+  "model": "glm-5.3"
+}

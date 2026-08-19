@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Onları ⟨את⟩ yargılayacak mısın, onları yargılayacak mısın, insanoğlu? Atalarının iğrençliklerini ⟨את⟩ onlara bildir.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "yargılayacak mısın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Onları"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "yargılayacak mısın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iğrençliklerini"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "iğrençliklerini"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "onlara bildir"
+    }
+  ],
+  "timestamp": "2026-08-19T10:27:31.472101276Z",
+  "model": "glm-5.3"
+}

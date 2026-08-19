@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Ölülere mucize mi yapacaksın? Refaimler mi dirilip seni övecek? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ölülere mi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mucize"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaimler"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "dirilecek"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "seni övecek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:37.900859565Z",
+  "model": "glm-5.3"
+}

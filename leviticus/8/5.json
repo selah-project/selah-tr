@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Moşe cemaate dedi: Bu, Yahve'nin yapılmasını buyurduğu ⟨the⟩ sözdür.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:43.911774357Z",
+  "model": "glm-5.3"
+}

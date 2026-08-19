@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Yahve'nin sözüyle gökler yapıldı, ve ağzının nefesiyle bütün orduları.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "sözüyle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "yapıldı"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ve nefesiyle"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "orduları"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:22.581149446Z",
+  "model": "glm-5.3"
+}

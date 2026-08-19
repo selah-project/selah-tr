@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Yahve İsrail'in sesini işitti ve ⟨את⟩ Kenanlı'yı teslim etti; ⟨את⟩ onları ve ⟨את⟩ şehirlerini herem etti ve o yerin adını Horma çağırdı.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "işitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve teslim etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenanlı'yı"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanlı'yı"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "ve herem etti"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "şehirlerini"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "şehirlerini"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:03.484551042Z",
+  "model": "glm-5.3"
+}

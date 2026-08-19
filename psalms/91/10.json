@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Kötülük sana uğramayacak, bela çadırına yaklaşmayacak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mayacak"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "uğramayacak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "bela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mayacak"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "yaklaşmayacak"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "çadırına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:21.098477051Z",
+  "model": "glm-5.3"
+}

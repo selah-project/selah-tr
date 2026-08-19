@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve Mısırlılar bilecekler ki ben Yahve'yim, elimi Mısır'ın üzerine uzattığımda ve Yişrael oğullarını ⟨את⟩ aralarından çıkardığımda.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ve bilecekler"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısırlılar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "uzattığımda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ve çıkardığımda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yişrael oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "aralarından"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:35.987642343Z",
+  "model": "glm-5.3"
+}

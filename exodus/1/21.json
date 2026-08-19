@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve olduğu ⟨çünkü⟩ ebe kadınlar Elohim'den korktular, ⟨O⟩ onlara evler yaptı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ve olduğu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨çünkü⟩"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "korktular"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ebe kadınlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:10.223386593Z",
+  "model": "glm-5.3"
+}

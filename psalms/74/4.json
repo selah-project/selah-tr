@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Düşmanların senin toplantı yerinin ortasında kükredi; alametlerini alamet ⟨olarak⟩ diktiler.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "kükredi"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "düşmanların"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "toplantı yerinin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "diktiler\/koydular"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "alametlerini"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "alamet(ler)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:51.275925870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Yehuda, rehini kadının elinden almak için oğlağı ⟨את⟩ keçilerin oğlağını dostu Adullamlı'nın eliyle gönderdi; ama onu bulamadı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlağı"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "oğlağı"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "keçilerin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eliyle"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "dostu"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Adullamlı"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "almak için"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "rehini"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama olmadı"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "onu bulamadı"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:18.957959216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "İşte doğuya giderim — ⟨o⟩ orada değildir; batıya dönerim — onu anlayamam.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "doğuya \/ ileri"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "giderim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "— ⟨o⟩ orada değildir"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "batıya \/ geriye dönerim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "anlayamam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:29:30.399996283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve günlerin devreleri olunca Hana hamile kaldı ve bir oğul doğurdu ve adına Şmu'el dedi, çünkü onu Yahve'den istedim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "devrelerinde"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlerin"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ve hamile kaldı"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ve adını koytu \/ çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmu'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahve'den"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "onu istedim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:20:52.610687188Z",
+  "model": "glm-5.3"
+}

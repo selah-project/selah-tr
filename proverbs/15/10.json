@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yolu bırakan için terbiye ⟨acıdır⟩; azarlamadan nefret eden ölecektir.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "terbiye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "acıdır"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "bırakan için"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nefret eden"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "azarlamadan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:21.817957912Z",
+  "model": "glm-5.3"
+}

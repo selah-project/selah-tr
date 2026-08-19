@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Yalancı sözü sadık nefret eder, ama kötü kokar ⟨ve⟩ utanç duyar.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "nefret eder"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadık"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ama kötü"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "kokar"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ve utanç duyar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:32.478570561Z",
+  "model": "glm-5.3"
+}

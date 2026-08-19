@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "İnsan El'e ⟨⟩ yararlı mıdır? ⟨çünkü⟩ bilge ⟨onun⟩ kendisine yararlıdır.",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "El'e mi"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "yararlı olur"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "insan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "yararlı olur"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bilge"
+    }
+  ],
+  "timestamp": "2026-08-19T11:29:07.420334119Z",
+  "model": "glm-5.3"
+}

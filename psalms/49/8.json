@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Kardeş asla fidye verip kurtaramaz; Elohim'e kefareti verilemez.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "kardeş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asla"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "fidyeyle kurtarmak"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "kurtarabilir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiç kimse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asla"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "veremez"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "kefaretini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:47.869340478Z",
+  "model": "glm-5.3"
+}

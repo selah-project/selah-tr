@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve ⟨את⟩ Aharon'u ve ⟨את⟩ oğullarını atayacaksın, ve ⟨את⟩ kâhinliklerini koruyacaklar; yaklaşan yabancı ise öldürülecektir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "atayacaksın"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ve koruyacaklar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kâhinliklerini"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "kâhinliklerini"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ve yabancı"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaklaşan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:48.722153796Z",
+  "model": "glm-5.3"
+}

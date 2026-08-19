@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Şaul gençliğine dedi: Sözcüğün iyi; gel, gidelim. Ve Elohim adamının bulunduğu şehre gittiler.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "gençliğine"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözcüğün"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gel"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "gidelim"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "gittiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:17.206380277Z",
+  "model": "glm-5.3"
+}

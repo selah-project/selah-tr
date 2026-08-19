@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yahve Moşe'ye dedi: Şimdi göreceksin Paro'ya ne yapacağım; çünkü güçlü el ile onları gönderecek ve güçlü el ile onları ülkesinden kovacak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "göreceksin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yapacağım"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro'ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "el ile"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "onları gönderecek"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ve el ile"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "onları kovacak"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ülkesinden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:08.453867032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "Ambarlarımız dolu, türden türe ⟨את⟩ tahılı çıkarıyor; davarlarımız sokaklarımızda binlerle, on binlerle çoğalıyor.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "ambarlarımız"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "çıkarıyor"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "türden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "türe"
+    },
+    {
+      "surface": "זן",
+      "gloss": "tür"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "davarlarımız"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "binlerle çoğalıyor"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "on binlerle"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "sokaklarımızda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:02.135994648Z",
+  "model": "glm-5.3"
+}

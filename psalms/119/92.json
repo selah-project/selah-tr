@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Eğer senin Torah'ın benim sevincim olmasaydı, o zaman sıkıntımda yok olmuştum.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "eğer ... olmasaydı"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "senin Torah'ın"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "benim sevincim"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "yok olmuştum (helâk olmuştum)"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "sıkıntımda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:57.532411740Z",
+  "model": "glm-5.3"
+}

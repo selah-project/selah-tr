@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve babamı ve annemi, kardeşlerimi ve kızkardeşlerimi diri tutacaksınız, onlara ait her şeyiyle birlikte ⟨את⟩, ve canlarımızı ölümden kurtaracaksınız ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "diri tutacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babamı"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babamı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "annemi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annemi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kardeşlerimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşlerimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kızkardeşlerimi"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "kızkardeşlerimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara ait"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "kurtaracaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlarımızı"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "canlarımızı"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:47.468230029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Ya'ir öldü ve Kamon'da gömüldü.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ya'ir"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "Kamon'da"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:56.575812232Z",
+  "model": "glm-5.3"
+}

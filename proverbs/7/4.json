@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Hikmete de: 'Kardeşimsin ⟨את⟩' de, ve anlayışa akraba diye seslen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Hikmete"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kardeşimsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen (Hikmet)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ve akrabaya"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "anlayışa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "seslen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:12.684472298Z",
+  "model": "glm-5.3"
+}

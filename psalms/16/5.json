@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Yahve payımın ölçüsü ve kadehim ⟨⟨odur⟩⟩; sen varsın kaderimi tutan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "payın ölçüsü"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "payım"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ve kadehim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "tutan (destekleyen)"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "kaderim (kura payım)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:06.549889797Z",
+  "model": "glm-5.3"
+}

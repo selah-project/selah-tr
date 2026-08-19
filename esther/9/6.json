@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Şuşan kalesinde ise Yahudiler beş yüz kişi öldürüp yok ettiler.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "ve Şuşan'da"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "kale"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "öldürdüler"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudiler"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ve yok ettiler"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:42.251479515Z",
+  "model": "glm-5.3"
+}

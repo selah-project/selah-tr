@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 99,
+  "translation": "Yüceltin Yahve'yi, Elohim'imizi, ve kutsal dağına secde edin, çünkü kutsaldır Yahve, Elohim'imiz.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "yüceltin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ve secde edin"
+    },
+    {
+      "surface": "להר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsaldır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:52.611021110Z",
+  "model": "glm-5.3"
+}

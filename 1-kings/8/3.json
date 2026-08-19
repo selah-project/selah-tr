@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve İsrail'in bütün ihtiyarları geldi, ve kâhinler ⟨את⟩ sandığı kaldırdılar.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ihtiyarları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "kaldırdılar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandığı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:40.060607544Z",
+  "model": "glm-5.3"
+}

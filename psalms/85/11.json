@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 85,
+  "translation": "Hesed ve emet karşılaştı; tsedek ve şalom öpüştü.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ve emet"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "karşılaştı"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ve şalom"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "öpüştü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.888418712Z",
+  "model": "glm-5.3"
+}

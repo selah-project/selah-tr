@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yahve'nin sesi sedirleri kırar; evet, Yahve Luvnan sedirlerini ⟨את⟩ kırar.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kırar"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedirleri"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "evet, kırar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Luvnan sedirlerini"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedirlerini"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Luvnan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:47.069829763Z",
+  "model": "glm-5.3"
+}

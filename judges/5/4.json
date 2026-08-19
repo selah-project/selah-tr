@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 5:4",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yahve, Seir'den çıktığında, Edom tarlasından yürüdüğünde, yer sarsıldı, hatta gökler damla damla aktı, hatta bulutlar su damlattı.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "çıktığında sen"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "Seir'den"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "adım attığında sen"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "tarladan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatta, yine"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "damla damla aktı"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatta, yine"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "bulutlar"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "damla damla aktı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T09:15:07.555496008Z",
+  "model": "glm-5.3"
+}

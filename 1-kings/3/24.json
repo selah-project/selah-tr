@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kral: «Bana bir kılıç getirin» dedi. Kılıcı kralın önüne getirdiler.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "getirin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "getirdiler"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "kılıcı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:46.127019908Z",
+  "model": "glm-5.3"
+}

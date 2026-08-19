@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Yargıda haksızlık yapmayacaksınız; yoksulun yüzünü ⟨kaldırmayacaksınız⟩ ve büyüğün yüzünü ⟨süslemeyeceksiniz⟩; adaletle yargılayacaksınız ⟨את⟩ senin yoldaşını.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksınız"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapmak"
+    },
+    {
+      "surface": "עול",
+      "gloss": "haksızlık"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "yargıda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksın"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kaldırmak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoksulun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve yapmayacaksın"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "süslemek"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyüğün"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "adaletle"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "yargılayacaksın"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "senin yoldaşın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:59.070271125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "İyyov Yahve'ye karşılık verdi ve ⟨את⟩ Yahve'ye şöyle dedi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "karşılık verdi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:29.566415600Z",
+  "model": "glm-5.3"
+}

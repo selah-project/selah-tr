@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Ahav'ın bütün hanedanı yok olacak; ve Ahav'dan duvara işeyeni, kapalıyı ve terkedilmişi İsrail'de kesip atacağım.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ve yok olacak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hanedanı"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav'ın"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ve kesip atacağım"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahav'dan"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "duvara işeyeni"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "duvara"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ve kapalıyı"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ve terkedilmişi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrail'de"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:00.972453800Z",
+  "model": "glm-5.3"
+}

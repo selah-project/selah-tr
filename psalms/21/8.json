@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Çünkü kral güvenir Yahve'ye ve Elyon'un hesedine — sarsılmayacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "güvenir"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ve hesedine"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon'un (Yüce'nin)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarsılmayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:53.504870841Z",
+  "model": "glm-5.3"
+}

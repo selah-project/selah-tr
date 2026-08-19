@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Gürültünün sesinden kaçtı kavimler; yüceliğinden dağıldı uluslar.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "sesinden"
+    },
+    {
+      "surface": "המון",
+      "gloss": "gürültünün"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kavimler"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "yüceliğinden"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "dağıldı"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:44.107256875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Benden iste, ulusları miras olarak sana vereyim ve yeryüzünün uçlarını mülkün olarak.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "iste"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ve vereyim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mirasın olarak"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "ve mülkün olarak"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "uçlarını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:51.877146185Z",
+  "model": "glm-5.3"
+}

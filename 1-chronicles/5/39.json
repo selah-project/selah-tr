@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Şallum ⟨את⟩ Hilkiyah'yı doğurdu ve Hilkiyah ⟨את⟩ Azaryah'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ve Şallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkiyah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiyah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ve Hilkiyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:55:32.827477652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 126,
+  "translation": "Geri dön, ey Yahve, sürgünlüğümüzü ⟨את⟩ Negev'deki dereler gibi [çevir]!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "geri dön"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürgünlüğümüzü"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "sürgünlüğümüzü"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "dereler gibi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Negev'de"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:42.771997519Z",
+  "model": "glm-5.3"
+}

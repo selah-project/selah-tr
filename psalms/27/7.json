@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Duy Yahve, sesimi; sana sesleniyorum; bana lütfet ve bana karşılık ver.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Duy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sesimi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sesleniyorum"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ve bana lütfet"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ve bana karşılık ver"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:39.330279345Z",
+  "model": "glm-5.3"
+}

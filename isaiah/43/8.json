@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Kör bir halk çıkar, ve gözleri vardır; sağır bir halk, ve kulakları vardır onlara.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kör"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ve gözleri"
+    },
+    {
+      "surface": "יש",
+      "gloss": "vardır"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ve sağır"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ve kulakları"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:34.859600520Z",
+  "model": "glm-5.3"
+}

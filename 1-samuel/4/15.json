@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Eli doksan sekiz yaşında bir oğuldu, ve gözleri donmuştu, göremiyordu.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "ve Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "doksan"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ve sekiz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "ve gözleri"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "donmuştu (kalkmıştı)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "gücü yetiyordu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmeye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:45.980397749Z",
+  "model": "glm-5.3"
+}

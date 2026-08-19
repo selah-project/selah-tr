@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve vuracaksın ⟨את⟩ efendin Ahav'ın hanedanını; ve peygamberler kullarımın kanını ve Yahve'nin bütün kullarının kanını İzevel'in elinden ödeyeceğim.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "ve vuracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efendin Ahav'ın hanedanını"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hanedanını"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav'ın"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "efendinin"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "ve ödeyeceğim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kanını"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kullarımın"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peygamberlerin"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ve kanını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kullarının"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzevel'in"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:00.972289237Z",
+  "model": "glm-5.3"
+}

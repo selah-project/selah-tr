@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Senin buyruklarından anlıyorum; bu yüzden her yalan yolundan nefret ediyorum.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "senin buyruklarından"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "anlıyorum"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nefret ediyorum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yol"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:33.555493593Z",
+  "model": "glm-5.3"
+}

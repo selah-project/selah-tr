@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 63,
+  "translation": "Ve dedi: Gerçekten halkım ⟨onlar⟩, yalan söylemeyecek çocuklar; ve onlara kurtarıcı oldu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "çocuklar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "yalan söyleyecek"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "kurtarıcı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:59.958837241Z",
+  "model": "glm-5.3"
+}

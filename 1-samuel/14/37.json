@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-samuel 14:37",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Şaul Elohim'e sordu: Peştiştilerin ardından ineyim mi, onları İsrail'in eline teslim edecek misin? Ama o gün ona cevap vermedi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "sordu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "הארד",
+      "gloss": "ineyim mi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peştiştilerin"
+    },
+    {
+      "surface": "התתנם",
+      "gloss": "onları teslim edecek misin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eline"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ... değil"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ona cevap verdi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:03.432774162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Senin hükümlerine göre bu güne dek ⟨onlar⟩ ayakta durdular; çünkü ⟨her şey⟩ senin kullarındır.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "senin hükümlerine göre"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ayakta durdular"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün(e dek)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨her şey⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "senin kullarındır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:57.532259071Z",
+  "model": "glm-5.3"
+}

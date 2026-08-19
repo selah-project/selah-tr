@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "⟨O⟩ dedi: «Seninle dönmeye ve seninle girmeye güç yetiremem; ve seninle bu yerde ekmek yemeyeceğim ve su içmeyeceğim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "güç yetirebilirim"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "dönmeye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ve girmeye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yerim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "içerim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "bu yerde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:34.898066251Z",
+  "model": "glm-5.3"
+}

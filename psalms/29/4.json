@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yahve'nin sesi güçledir; Yahve'nin sesi görkeme ⟨⟨bürünmüştür⟩⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "güçle"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "görkemde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:51.443002843Z",
+  "model": "glm-5.3"
+}

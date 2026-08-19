@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Moşe geldi ve halka Yahve'nin bütün ⟨את⟩ sözlerini ve ⟨את⟩ bütün hükümleri anlattı; ve bütün halk tek sesle cevap verdi ve dediler: Yahve'nin konuştuğu bütün sözleri yapacağız.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "ve anlattı"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ve",
+      "marks": "bütün hükümleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hükümleri"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ve cevap verdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yapacağız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:50.916197708Z",
+  "model": "glm-5.3"
+}

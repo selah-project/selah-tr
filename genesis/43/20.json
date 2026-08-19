@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ve dediler: Lütfen, efendim, gerçekten baştan inmiştik yiyecek satın almaya.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "בי",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "gerçekten inmek"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "inmiştik"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "baştan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "satın almaya"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:54.311555223Z",
+  "model": "glm-5.3"
+}

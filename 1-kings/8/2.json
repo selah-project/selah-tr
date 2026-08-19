@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve bütün İsrail adamları Kral Şelomo'ya, Etanim ayında, bayramda — o yedinci aydır — toplandılar.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "toplandılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ayında"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "bayramda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ay"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yedinci"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:40.060442537Z",
+  "model": "glm-5.3"
+}

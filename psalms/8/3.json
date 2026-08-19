@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Küçük çocukların ve emziklerin ağzından güç kurdun, düşmanların yüzünden — düşmanı ve öç alıcıyı susturmak için.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "küçük çocukların"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "ve emziklerin"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "kurdun"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güç"
+    },
+    {
+      "surface": "למען",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "düşmanların"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "susturmak için"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmanı"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ve öç alıcıyı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:13.706375702Z",
+  "model": "glm-5.3"
+}

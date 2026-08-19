@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve topluluğun ihtiyarları ellerini ⟨את⟩ boğanın başına Yahve'nin önünde koysunlar ve boğayı ⟨את⟩ Yahve'nin önünde kessinler",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "ve koysunlar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ihtiyarları"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "topluluğun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellerini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ellerini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başına"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğanın"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ve kessinler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boğayı"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğayı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:30.565110908Z",
+  "model": "glm-5.3"
+}

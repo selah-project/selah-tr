@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Kusursuz yürüyen, doğruluğu işleyen ve kalbinde gerçek konuşan ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ve işleyen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ve konuşan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gerçek"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "kalbinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:02.372500972Z",
+  "model": "glm-5.3"
+}

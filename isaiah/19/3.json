@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Mitsrayim'in ruhu onun içinde sönecek; onun planını yutacağım; ilahlara, fısıldayanlara, ruh çağıranlara ve bilicilere başvuracaklar.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "ve sönecek"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim'in"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "onun içinde"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "onun planını"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "yutacağım"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ve başvuracaklar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "ilahlara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e doğru"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "fısıldayanlara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e doğru"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ruh çağıranlara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e doğru"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "bilicilere"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:42.687971632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 4:11",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Huram ⟨את⟩ kazanları, ⟨את⟩ kürekleri ve ⟨את⟩ çanakları yaptı; Huram, Elohim'in evinde Kral Şelomo için yapmakta olduğu işi bitirdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazanları"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "kazanları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kürekleri"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "kürekleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çanakları"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "çanakları"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "bitirdi"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmayı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "işi"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmakta olduğu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kral için"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T12:03:01.003420733Z",
+  "model": "glm-5.3"
+}

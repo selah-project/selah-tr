@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Hepsi tek bir yere gider; hepsi topraktan ⟨oldu⟩ ve hepsi toprağa geri döner.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gider"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek bir"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "topraktan"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ve hepsi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "geri döner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "toprağa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:05.731846500Z",
+  "model": "glm-5.3"
+}

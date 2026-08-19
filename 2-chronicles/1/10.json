@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Şimdi bana bilgelik ve bilgi ver, ki bu halkın önüne çıkıp girebileyim; çünkü senin ⟨את⟩ bu büyük halkını kim yargılayabilir?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bilgelik"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ve bilgi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ve çıkayım"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "ve gireyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "yargılayabilir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senin bu büyük halkını"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "senin halkını"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T12:02:43.687474120Z",
+  "model": "glm-5.3"
+}

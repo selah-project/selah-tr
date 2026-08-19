@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Bir ses diyor ki: 'Çağır!' Ve ⟨o⟩ dedi: 'Ne çağırayım?' 'Bütün et çimen, ve bütün sevgisi tarla çiçeği gibidir.'",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağır"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırayım"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "çimendir"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun sevgisi"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "çiçek gibi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:36.598268316Z",
+  "model": "glm-5.3"
+}

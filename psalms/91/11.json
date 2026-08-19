@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Çünkü meleklerine senin için buyruk verecek, seni bütün yollarında korusunlar diye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "meleklerine"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "buyruk verecek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "seni korusunlar diye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "yollarında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:21.098663015Z",
+  "model": "glm-5.3"
+}

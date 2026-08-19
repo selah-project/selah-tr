@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ne zaman ki sesini yumuşatır, ona güvenme; çünkü yüreğinde yedi iğrençlik ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ne zaman ki"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "yumuşatır"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "güven"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "iğrençlik"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "yüreğinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:02.904543159Z",
+  "model": "glm-5.3"
+}

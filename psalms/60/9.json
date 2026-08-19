@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Gilad benimdir, ve Menashe benimdir; ve Efrayim başımın sığınağıdır, Yehuda benim kanun koyucumdur.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "benimdir"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ve benimdir"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ve Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "kanun koyucum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:06.129188361Z",
+  "model": "glm-5.3"
+}

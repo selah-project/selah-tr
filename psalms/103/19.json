@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Yahve göklerde tahtını kurmuştur, ve Onun malkutunun hepsine hükmetmektedir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "kurmuştur"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tahtını"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "ve Onun malkutu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hepsine"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "hükmetmektedir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:15.613904814Z",
+  "model": "glm-5.3"
+}

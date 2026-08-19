@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Odunu çoğalt, ateşi yak, eti bitir; harmanı yoğur da kemikler kor gibi kızarsın.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "çoğalt"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "odunu"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "yak"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ateşi"
+    },
+    {
+      "surface": "התם",
+      "gloss": "bitir"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "eti"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "ve yoğur"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "harmanı"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "ve kemikler"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "kor gibi kızarsın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:31:21.174421860Z",
+  "model": "glm-5.3"
+}

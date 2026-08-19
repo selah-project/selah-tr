@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve onunla ⟨את⟩ geri döndü, evinde ekmek yedi ve su içti.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve geri döndü"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ve yedi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ve içti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:27.099565290Z",
+  "model": "glm-5.3"
+}

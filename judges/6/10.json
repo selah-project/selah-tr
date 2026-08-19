@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve size dedim: Ben Yahve, sizin Elohim'iniz; oturduğunuz topraklarında Emorluların ilahlarından korkmayın; ama benim sesime kulak vermediniz.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohim'iniz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "korkmayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorluların ilahlarını (אלהי האמרי)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilahlarından"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorluların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "oturduğunuz"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "topraklarında"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama olmadı"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "kulak verdiniz"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "benim sesime"
+    }
+  ],
+  "timestamp": "2026-08-19T09:15:50.601368732Z",
+  "model": "glm-5.3"
+}

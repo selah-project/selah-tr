@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 112,
+  "translation": "Kalbi desteklenmiştir, korkmayacak — düşmanlarına ⟨göz atana⟩ dek.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "desteklenmiştir"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "korkar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "göz atar"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "düşmanlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:43.040696513Z",
+  "model": "glm-5.3"
+}

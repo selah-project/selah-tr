@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Yahve'nin Tora'sı kusursuzdur, canı geri çevirir; Yahve'nin tanıklığı güvenilirdir, saflara bilgelik verir.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora'sı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "geri çevirir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canı"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "tanıklığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "güvenilir"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "bilgelik verir"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "saflara"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:53.877517437Z",
+  "model": "glm-5.3"
+}

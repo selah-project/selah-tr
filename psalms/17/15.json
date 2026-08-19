@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ben ise doğrulukta yüzünü göreceğim; uyandığımda benzerliğinle ⟨tok olacağım⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "doğrulukta"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "görürüm"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "tok olacağım"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "uyandığımda"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "benzerliğinle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:37.331802759Z",
+  "model": "glm-5.3"
+}

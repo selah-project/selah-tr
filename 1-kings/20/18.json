@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve dedi: Eğer barış için çıktılarsa, onları canlı yakalayın; ve eğer savaş için çıktılarsa, canlı yakalayın onları.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "barış için"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıktılarsa"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "onları yakalayın"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaş için"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıktılarsa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "onları yakalayın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:30.987792233Z",
+  "model": "glm-5.3"
+}

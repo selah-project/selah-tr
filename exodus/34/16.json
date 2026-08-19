@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve onun kızlarından oğulların için alırsın, ve onun kızları ilahlarının ardından zina ederler, ve ⟨את⟩ oğullarını ilahlarının ardından zinaya sürüklerler.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ve alırsın"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "onun kızlarından"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "oğulların için"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "ve zina ederler"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "onun kızları"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "onların ilahları"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "ve zinaya sürüklerler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "onların ilahları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:19:59.007600612Z",
+  "model": "glm-5.3"
+}

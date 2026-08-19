@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Yahve ⟨את⟩ sevenlerinin tümünü korur ve ⟨את⟩ kötülerin tümünü yok eder.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sevenlerinin tümünü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tümünü"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "sevenlerinin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kötülerin tümünü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tümünü"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "yok eder"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:31.347375888Z",
+  "model": "glm-5.3"
+}

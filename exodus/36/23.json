@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve mişkan için ⟨את⟩ tahtaları yaptı; yirmi tahta, güney tarafına, güneye doğru.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahtaları"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "tahtaları"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "mişkan için"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "tahta"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tarafına"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "güney"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "güneye doğru"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:29.634426344Z",
+  "model": "glm-5.3"
+}

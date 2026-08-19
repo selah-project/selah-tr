@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "İşte, yiğitleri dışarıda feryat ediyorlar; barışın elçileri acıyla ağlıyorlar.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte\/bakın"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "yiğitleri"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "feryat ediyorlar"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "dışarıda"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "elçileri"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barışın"
+    },
+    {
+      "surface": "מר",
+      "gloss": "acıyla"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "ağlıyorlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:32.558040399Z",
+  "model": "glm-5.3"
+}

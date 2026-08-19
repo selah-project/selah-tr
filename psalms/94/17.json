@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Eğer Yahve'nin yardımı bana olmasaydı, nefsim az kalsın sessizlikte barınacaktı.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "eğer olmasaydı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "yardımı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "az kalsın"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "barınacaktı"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sessizlik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:16.953933452Z",
+  "model": "glm-5.3"
+}

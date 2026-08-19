@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kral Ahaşveroş yeryüzüne ve denizin adalarına angarya koydu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ahaşveroş"
+    },
+    {
+      "surface": "מס",
+      "gloss": "angarya"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "ve adalar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:41.372117537Z",
+  "model": "glm-5.3"
+}

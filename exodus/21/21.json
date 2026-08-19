@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ancak bir gün veya iki gün ayakta kalırsa, cezalandırılmayacaktır; çünkü o onun gümüşüdür.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bir gün"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "iki gün"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ayakta kalırsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "cezalandırılacaktır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "onun gümüşü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:03.518311439Z",
+  "model": "glm-5.3"
+}

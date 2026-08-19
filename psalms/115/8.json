@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Yapanları onlar gibi olacak; onlara güvenen herkes ⟨de öyle olacak⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "onlar gibi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaklar"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "yapanları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "güvenen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:48.217047539Z",
+  "model": "glm-5.3"
+}

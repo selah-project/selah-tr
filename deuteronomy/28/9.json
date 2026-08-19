@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Yahve seni kendisine kutsal bir halk olarak diriltecek, sana yemin ettiği gibi — çünkü Yahve'nin, Elohim'in buyruklarını koruyacak ve ⟨onun⟩ yollarında yürüyeceksin.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "seni diriltecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bir halk olarak"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yemin etti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "koruyacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyrukları"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyrukları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ve yürüyeceksin"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "onun yollarında"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:30.466319572Z",
+  "model": "glm-5.3"
+}

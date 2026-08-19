@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Eğer bir adam tarlayı ya da bağlık ovayı otlatıp hayvanını salıverirse de ⟨את⟩ hayvanıbaşkasının tarlasında otlatırsa, kendi tarlasının en iyisinden ve kendi bağının en iyisinden ödeyecektir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "otlatırsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "bağ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ve salıverirse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayvanı"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "hayvanını"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ve otlatırsa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başkasının"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "en iyisinden"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "kendi tarlasının"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "ve en iyisinden"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "kendi bağının"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödeyecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:27.138931570Z",
+  "model": "glm-5.3"
+}

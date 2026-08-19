@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yahve'nin sandığı Pelişt ülkesinde yedi ay kaldı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelişt"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ay"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:41.243453306Z",
+  "model": "glm-5.3"
+}

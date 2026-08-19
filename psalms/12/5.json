@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ki demişlerdi: Dilimizle üstün geleceğiz; dudaklarımız ⟨את⟩ ile bizimdir; bize efendi kimdir?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "demişlerdi"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "dilimizle"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "üstün geleceğiz"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "dudaklarımız"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ile bizimdir"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "efendi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:47.477327061Z",
+  "model": "glm-5.3"
+}

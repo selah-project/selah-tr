@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve ⟨את⟩ ilahlarını orada bıraktılar; ve David buyruk verdi ve ateşte yakıldılar.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ve bıraktılar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilahlarını"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilahlarını"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve buyruk verdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ve yakıldılar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    }
+  ],
+  "timestamp": "2026-08-19T12:26:31.026680945Z",
+  "model": "glm-5.3"
+}

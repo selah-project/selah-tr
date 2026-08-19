@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve çok çok korktular ve dediler: 'İşte, iki kral bile onun önünde duramadı; biz nasıl durabiliriz?'",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ve korktular"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-medi"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "dur"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünde"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ve nasıl"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "durelim"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:25.714904135Z",
+  "model": "glm-5.3"
+}

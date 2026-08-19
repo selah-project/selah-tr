@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Şemuél Yahve'nin söylediği ⟨את⟩ şeyi yaptı ve Beyt-lehem'e geldi; ve şehrin ileri gelenleri onu karşılamak için titrediler ve ona dedi: Gelişin ⟨es› barış ⟨ile mi⟩?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söylediği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ve titrediler"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ileri gelenleri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "onu karşılamak için"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "barış"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "gelişin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:28.230255521Z",
+  "model": "glm-5.3"
+}

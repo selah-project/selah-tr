@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Moşe dinledi, ve gözünde iyi göründü.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dinledi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "iyi göründü"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "gözünde"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:55.786339002Z",
+  "model": "glm-5.3"
+}

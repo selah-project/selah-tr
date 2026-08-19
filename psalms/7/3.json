@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yoksa canımı aslan gibi parçalar, koparır — ve kurtaran yoktur.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "parçalar"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "aslan gibi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "koparır"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kurtaran"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:21.329398697Z",
+  "model": "glm-5.3"
+}

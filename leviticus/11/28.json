@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve nevbellerini taşıyan ⟨את⟩ giysilerini yıkayacak ve akşama kadar murdar olacak; onlar sizin için murdardır.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "ve taşıyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevbellerini"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "nevbellerini"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yıkayacak"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ve murdar olacak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşama"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "murdardır"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:40.068801748Z",
+  "model": "glm-5.3"
+}

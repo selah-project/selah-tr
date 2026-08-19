@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ancak, çünkü Yahve'nin düşmanlarını ⟨את⟩ bu sözle hor gördün, yine de sana doğan oğlan kesinlikle ölecek.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "hor görme"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "hor gördün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin düşmanlarını"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sözle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yine de"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "doğan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölmek"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:16.891406453Z",
+  "model": "glm-5.3"
+}

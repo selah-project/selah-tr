@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve Yahve, arkadaşları için dua ettiğinde İyov'un ⟨את⟩ esaretini çevirdi; ve Yahve İyov'un ⟨את⟩ bütün malına, ⟨ikiz⟩ katına ekledi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İyov'un esaretini"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "esaretini"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyov'un"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "dua ettiğinde"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "için"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "arkadaşları"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ve ekledi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün malına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "İyov'un olan"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "katına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:47.615011484Z",
+  "model": "glm-5.3"
+}

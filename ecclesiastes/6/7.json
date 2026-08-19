@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "İnsanın bütün emeği ⟨onun⟩ ağzı içindir; ama nefes ⟨yine de⟩ doymaz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "emeği"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "ağzı içindir"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ama yine de"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "doymaz (olumsuzluk)"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "doymaz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:06.677736627Z",
+  "model": "glm-5.3"
+}

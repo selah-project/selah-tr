@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve kim komşusuyla ⟨את⟩ ormana girer odun kesmeye, ve eli baltayla ağacı kesmek için savrulur, ve demir ağaçtan kayar ve ⟨את⟩ komşusuna rastlar ve o ölür — o, bu şehirlerden birine kaçsın ve yaşasın.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komşusu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "komşusu"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ormana"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "kesmeye"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "odun"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "savrulur"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "eli"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "baltayla"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "kesmek için"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağacı"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "kayar"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağaçtan"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "rastlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komşusu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "komşusu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ölür"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "kaçsın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "birine"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "şehirlerden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ve yaşasın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:40.604339575Z",
+  "model": "glm-5.3"
+}

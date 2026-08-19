@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Altıncı gün ⟨günü⟩ Gad oğullarına ⟨ait⟩ naï: Deuel oğlu Elyasaf.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "altıncı"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "naşî (önder)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:24.237058208Z",
+  "model": "glm-5.3"
+}

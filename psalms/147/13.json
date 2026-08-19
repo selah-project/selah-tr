@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Çünkü kapılarının sürgülerini güçlendirdi, senin içindeki oğullarını kutsadı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "güçlendirdi"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "sürgülerini"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "kapılarının"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kutsadı"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "senin içindeki"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:05.207720786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Yaakov Rahel'i öptü ve sesini ⟨את⟩ yükseltti ve ağladı.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "öptü"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel'i"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "yükseltti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesini"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ağladı"
+    }
+  ],
+  "timestamp": "2026-08-19T08:53:55.430675247Z",
+  "model": "glm-5.3"
+}

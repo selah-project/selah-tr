@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve şimdi sen diyorsun: Git, efendine söyle: İşte Eliyahu burada.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ve şimdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyorsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Git"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "efendine"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "İşte"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:51.001719664Z",
+  "model": "glm-5.3"
+}

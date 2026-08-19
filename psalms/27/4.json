@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Bir ⟨şey⟩ Yahve'den ⟨את⟩ istedim — ⟨את⟩ onu arayacağım: Yahve'nin evinde yaşamımın tüm günleri boyunca oturmak, Yahve'nin güzelliğini seyretmek ve sarayını ziyaret etmek.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "istedim"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'den istediklerim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ararım"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "oturmak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yaşamımın"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "seyretmek"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "güzelliğini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ve ziyaret etmek"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "sarayında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:51.627842068Z",
+  "model": "glm-5.3"
+}

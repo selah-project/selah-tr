@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve kâhin onu ⟨את⟩ yaklaştırsın ve Yahve'nin önüne diksin.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ve yaklaştırsın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (kadını)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "ve diksin (dursun)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:32.621836503Z",
+  "model": "glm-5.3"
+}

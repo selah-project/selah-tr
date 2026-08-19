@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve Babil kralı onları vurdu ve onları Rivla'da, Hamat ülkesinde öldürdü; böylece Yahuda kendi toprağından sürgün edildi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivla'da"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "sürgün edildi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstünden"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "toprağından"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:06.077279192Z",
+  "model": "glm-5.3"
+}

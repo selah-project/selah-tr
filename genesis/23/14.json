@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Efron, Avraham'a ⟨את⟩ yanıt verdi, ona söyleyerek:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ve yanıtladı"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham'ı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham'ı"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söyleyerek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:06.759286351Z",
+  "model": "glm-5.3"
+}

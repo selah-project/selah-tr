@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "bu, etinin derisinde eski bir tsaraattır; kâhin onu kirli ilan eder, onu kapatmaz, çünkü o kirlidir.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "eski"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "deride"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "etinin"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "kirli ilan eder"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "kapatmaz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "kirli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:41.216881275Z",
+  "model": "glm-5.3"
+}

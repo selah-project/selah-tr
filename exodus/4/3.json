@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Dedi: «Onu yere at.» O da onu yere attı ve ⟨o⟩ bir yılan oldu; Moşe de onun önünden kaçtı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "onu at"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ve onu attı"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "yılan olarak"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ve kaçtı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "onun önünden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:29.587955592Z",
+  "model": "glm-5.3"
+}

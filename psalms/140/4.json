@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 140,
+  "translation": "Dillerini yılan gibi bilediler; engereğin zehiri dudaklarının altındadır. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "bilediler"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dillerini"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "yılan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zehiri"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "engereğin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dudaklarının"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:47.150692506Z",
+  "model": "glm-5.3"
+}

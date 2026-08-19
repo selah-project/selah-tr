@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 85,
+  "translation": "Bizi geri çevir, kurtuluşumuzun Elohim'i, ve öfkeni bizden kaldır.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "bizi geri çevir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "kurtuluşumuzun"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "ve kaldır"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "öfkeni"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:19.524732372Z",
+  "model": "glm-5.3"
+}

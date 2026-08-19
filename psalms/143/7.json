@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Acele et, beni yanıtla, Yahve; ruhum tükendi, yüzünü benden gizleme, yoksa çukura inenlerle birlikte olurum.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "acele et"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "beni yanıtla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...me"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "gizle-"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "olurum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "inenler"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çukura"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:32.064745175Z",
+  "model": "glm-5.3"
+}

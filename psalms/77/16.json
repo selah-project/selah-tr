@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Kolunla satın aldın ⟨kendine⟩ halkını, Yaakov'ın ve Yosef'in oğullarını. Sela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "satın aldın (yakın akraba olarak kurtardın)"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "kolunla"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ve Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:51.612258363Z",
+  "model": "glm-5.3"
+}

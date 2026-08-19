@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Kendine yolu hazırlayacaksın ve Yahve Elohim'in sana mülk vereceği ülkenin ⟨את⟩ sınırlarını üçe böleceksin; her katil için oraya kaçmak ⟨oraya⟩ olacaktır.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "hazırlayacaksın"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ve üçe böleceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sınırlarını"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sınırlarını"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "sana mülk vereceği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olacaktır"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "kaçmak için"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "katil"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:33.677669528Z",
+  "model": "glm-5.3"
+}

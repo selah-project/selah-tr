@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Elohim'in savaş arabaları iki miryat, binlerce şin'an — Adonay onların arasında, Sina'da, kutsallıkta.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "savaş arabaları"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "iki miryat"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "binlerce"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "şin'an"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların arasında"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina'da"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kutsallıkta"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:41.790551823Z",
+  "model": "glm-5.3"
+}

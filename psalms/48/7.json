@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Titreme orada ⟨onları⟩ yakaladı, doğum sancısı gibi bir sancı — ⟨bir doğuran kadın⟩ gibi.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "titreme"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "⟨onları⟩ yakaladı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "doğum sancısı"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "bir doğuran kadın gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:20.978456370Z",
+  "model": "glm-5.3"
+}

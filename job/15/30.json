@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Karanlıktan kaçamayacak, sürgünü alevle kuruyacak ve ⟨onun⟩ ağzının nefesiyle savrulacak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "kaçacak \/ dönecek"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "sürgünü"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "kuruyacak"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "alev"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "ve savrulacak"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "nefesiyle"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "onun ağzı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:29.666462123Z",
+  "model": "glm-5.3"
+}

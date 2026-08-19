@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Çünkü suçumu bildireceğim, günahımdan dolayı kaygılanacağım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "suçumu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bildireceğim"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "kaygılanacağım"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "günahımdan dolayı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:18.374573940Z",
+  "model": "glm-5.3"
+}

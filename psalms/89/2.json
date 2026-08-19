@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Yahve'nin ḥesedini ebediyyen terennüm edeceğim; nesilden nesile sadakatini ağzımla bildireceğim.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ḥesedini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebediyyen"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "terennüm edeceğim"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nesile"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ve nesil"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "bildireceğim"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sadakatini"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağızımla"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:08.816186331Z",
+  "model": "glm-5.3"
+}

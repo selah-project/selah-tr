@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Çünkü iyilik için bekledi Marot'ta oturan; çünkü kötülük indi — Yahve'den ⟨את⟩ — Yeruşalayim'in kapısına.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "bekledi"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "iyilik için"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marot'ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "indi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'den"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "kapısına"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:07.987674480Z",
+  "model": "glm-5.3"
+}

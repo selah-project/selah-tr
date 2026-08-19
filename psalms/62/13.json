@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Ve sana, ey Adonay, ⟨⟩ hesed ⟨aittir⟩; çünkü sen herkese yaptığı işin karşılığını ödersin.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "ve sana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ödersin \/ karşılığını verirsin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "herkese (her kişiye)"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "yaptığı işin karşılığı gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:32.978511489Z",
+  "model": "glm-5.3"
+}

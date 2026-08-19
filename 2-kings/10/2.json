@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve şimdi, bu mektup size geldiğinde — efendinizin oğulları ⟨את⟩ sizinle, savaş arabaları ve atlar ⟨את⟩ sizinle, bir surlu şehir ve silahlar da ⟨את⟩ sizinle —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "geldiğinde"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "bu mektup"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizinle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "efendinizin"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizinla"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "savaş arabaları"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "ve atlar"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ve şehir"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "surlu"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "ve silahlar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:25.714516613Z",
+  "model": "glm-5.3"
+}

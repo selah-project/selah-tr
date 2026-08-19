@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve seni kendime imanla nişanlayacağım, ve Yahve'yi bileceksin ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "ve seni kendime nişanlayacağım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "imanla"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ve bileceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:51.042849054Z",
+  "model": "glm-5.3"
+}

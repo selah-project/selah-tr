@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "⟨את⟩ Tsoara, ⟨את⟩ Ayalon ve ⟨את⟩ Hevron'u — ki bunlar Yehuda'da ve Binyamin'dedir — surlu şehirler.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Tsoara"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda'da"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ve Binyamin'de"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şehirler"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "surlu"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:42.495111595Z",
+  "model": "glm-5.3"
+}

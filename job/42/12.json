@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve Yahve, İyov'un ⟨את⟩ sonunu başlangıcından daha çok kutsadı; ve onun oldu on dört bin küçükbaş, ve altı bin deve, ve bin çift sığır, ve bin dişi eşek.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kutsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İyov'un sonunu"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sonunu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyov'un"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "başlangıcından"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "on dört"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(on)+dört"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "küçükbaş"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bin"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "deve"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ve bin"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "çift"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sığır"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ve bin"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "dişi eşek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:47.615445793Z",
+  "model": "glm-5.3"
+}

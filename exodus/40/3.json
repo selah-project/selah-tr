@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve oraya ⟨את⟩ Tanıklık Sandığı'nı koyacaksın, ve Sandığın üzerine ⟨את⟩ perdeyi çekeceksin.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "koyacaksın"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tanıklık Sandığı'nı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Sandık"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Tanıklık"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "örteceksin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Sandığın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeyi"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdeyi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:39.401216289Z",
+  "model": "glm-5.3"
+}

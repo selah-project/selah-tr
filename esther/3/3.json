@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kralın kapısındaki kralın kulları Mordehay'a dediler: Niçin sen kralın buyruğunu ⟨את⟩ çiğniyorsun?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kapısında"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordehay'a"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "niçin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "çiğniyorsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruğunu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyruğunu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:57.945357842Z",
+  "model": "glm-5.3"
+}

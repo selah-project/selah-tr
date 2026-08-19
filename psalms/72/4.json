@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Halkın yoksullarını yargılasın, ihtiyaç sahiplerinin oğullarını kurtarsın, ve ezeni ezsin.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "yargılasın"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "yoksullarını"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "kurtarsın"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ihtiyaç sahibinin"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "ve ezsin"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ezeni"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:09.094086007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Adonay Yahve'nin güçlerine gireceğim, senin doğruluğunu anacağım — yalnız seninkini.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "gireceğim"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "güçlerine"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "anacağım"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "senin doğruluğunu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız seninkini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:18.207416255Z",
+  "model": "glm-5.3"
+}

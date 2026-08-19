@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve sen ⟨את⟩, çünkü kocanın altında saptın ve kirlandın, ve kocandan başka bir adam seninle yatışını ⟨את⟩ verdiyse —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve sen ⟨את⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "saptın"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "kocanın"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ve çünkü"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "kirlandın"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdiyse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "בך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yatışını"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "yatışını"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "-den başka"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "kocandan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:31.127433664Z",
+  "model": "glm-5.3"
+}

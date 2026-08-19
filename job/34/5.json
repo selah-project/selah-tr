@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Çünkü İyov 'Ben haklıyım' dedi, ve El hükmümü kaldırdı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "haklıyım"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kaldırdı"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hükmümü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:14.547239773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 57,
+  "translation": "Gönderecek göklerden ve beni kurtaracak, beni yutacak olanı rezil edecek; selah. Gönderecek Elohim hasedini ve emet'ini",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "gönderecek"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "göklerden"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "ve beni kurtaracak"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "rezil edecek"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "beni yutacak olan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "gönderecek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hasedini"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ve emet'ini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:05.914334025Z",
+  "model": "glm-5.3"
+}

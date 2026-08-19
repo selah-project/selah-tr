@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Kesinlikle sizi azarlayacak, eğer gizlice yüz kayırırsanız.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "kesinlikle"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "azarlayacak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizlice"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "kayırırsanız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:01.480243444Z",
+  "model": "glm-5.3"
+}

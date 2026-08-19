@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Rüşvet alan — masum kanı ⟨את⟩ canı dövmek için — lanetli; ve bütün halk diyecek: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "lanetli"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alan"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rüşvet"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "dövmek için"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canı"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "masum"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve diyecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:17.394850078Z",
+  "model": "glm-5.3"
+}

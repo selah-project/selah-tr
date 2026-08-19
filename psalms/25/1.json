@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Davud'a ait. Sana, ey Yahve, nefsimi yükseltirim.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsim"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "yükseltirim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:32.906892699Z",
+  "model": "glm-5.3"
+}

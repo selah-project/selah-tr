@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Senin için başka elohim olmayacak üzümümde ⟨yüzümün önünde⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başka"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüme"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:41.481432770Z",
+  "model": "glm-5.3"
+}

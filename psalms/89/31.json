@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Eğer oğullarım Tora'mı bırakır ve hükümlerimde yürümezlerse,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "bırakırlarsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora'mı"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ve hükümlerimde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "yürürler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:21.881907864Z",
+  "model": "glm-5.3"
+}

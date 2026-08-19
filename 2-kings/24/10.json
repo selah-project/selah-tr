@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "O zamanda Bavel kralı Nevukadnetsar'ın kulları Yeruşalayim'e karşı yükseldi ve şehir kuşatma altına girdi.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yükseldi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ve girdi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "kuşatma altına"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:06.693597241Z",
+  "model": "glm-5.3"
+}

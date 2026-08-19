@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve dedi İsrail'in kralı Elişa'ya, ⟨את⟩ onları görünce: Babam, vurayım mı, vurayım mı?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "vurayım mı"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "vurayım mı"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:22.825987265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve ⟨bir⟩⟨is⟩ biri kirişi keserken demir suya düştü; o da bağırdı ve «Ah, efendim! Oysa o ödünç alınmıştı» dedi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ve oldu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "kesip düşürüyordu"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "kirişi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "demir (balta başı)"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "demir (balta başı)"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suya"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ve bağırdı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ödünç alınmıştı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:13.376938037Z",
+  "model": "glm-5.3"
+}

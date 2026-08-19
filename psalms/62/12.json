@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Bir kez konuştu Elohim, iki kez — şunu duydum: güç Elohim'indir.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "bir kez"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki kez"
+    },
+    {
+      "surface": "זו",
+      "gloss": "şunu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "duydum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güç"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e ait"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:22.710527086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Halkın çokluğunda ⟨,⟩ kralın süsü ⟨vardır⟩; ama ulusun yokluğunda yöneticinin yıkımı.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "çokluğunda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "süsü"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "ama yokluğunda"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "ulusun"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "yıkımı"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "yöneticinin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:49.048976231Z",
+  "model": "glm-5.3"
+}

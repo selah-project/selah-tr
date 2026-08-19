@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Yoksulun ⟨the⟩ öğüdünü rezil ediyorsunuz, çünkü Yahve onun ⟨the⟩ sığınağıdır.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "öğüdünü"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul(un)"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "rezil ediyorsunuz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "sığınağıdır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:44.963564764Z",
+  "model": "glm-5.3"
+}

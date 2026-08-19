@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Şelam kurbanının boğusundan çıkarıldığı gibi; kohen onları yakılan sununun sunağında tütsü olarak yakacaktır.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "şekilde"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "çıkarıldığı"
+    },
+    {
+      "surface": "משור",
+      "gloss": "boğusundan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "şelam"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "tütsü olarak yakacaktır"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunağında"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakılan sununun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:41.560972969Z",
+  "model": "glm-5.3"
+}

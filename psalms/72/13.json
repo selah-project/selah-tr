@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Zayıfın üzerine ve yoksulun üzerine acır, yoksulların canlarını kurtarır.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "acır"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zayıfın"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve yoksulun"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ve canlarını"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "yoksulların"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "kurtarır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:15.201475017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ashur'u ülkemde kırmak ve dağlarımın üstünde onu çiğnemek için; onların üzerinden boyunduruğu kalkar, yükü omzundan sıyrılır.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "kırmak için"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "ülkemde"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üstünde"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "dağlarımın"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "onu çiğnerim"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ve kalkar"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "onların üzerinden"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "boyunduruğu"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "ve yükü"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "omzunun"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "sıyrılır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:53.235233110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Kurtar, Elohim, ⟨את⟩ Yişraeli tüm sıkıntılarından!",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "kurtar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yişraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişraeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sıkıntılarından"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:20.690796973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Çünkü Yahve'nin sözü dosdoğrudur ve bütün işleri sadakatledir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dosdoğru⟨dur⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "işleri"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sadakatle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:21.682284196Z",
+  "model": "glm-5.3"
+}

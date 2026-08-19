@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve ⟨את⟩ Binyamin'i, Yosef'in kardeşini, Yaakov kardeşleriyle göndermedi; çünkü dedi: Belki başına bir musibet gelir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin'i"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef'in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşleri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "belki\/—"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "başına gelir"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "musibet"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:51.187628650Z",
+  "model": "glm-5.3"
+}

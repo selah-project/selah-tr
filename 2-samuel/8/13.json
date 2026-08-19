@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Davud, döndüğünde Aram'ı Tuz Vadisi'nde vurmasından ⟨את⟩ bir ad kazandı — on sekiz bin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve kazandı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "döndüğünde"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "vurmasından"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram'ı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "vadisinde"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "tuz"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "sekiz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:44.226514576Z",
+  "model": "glm-5.3"
+}

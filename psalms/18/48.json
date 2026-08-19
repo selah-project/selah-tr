@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Öçler bana veren El'dir ⟨odur⟩, halkları benim altıma dize getirir.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El'dir"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "veren"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "öçler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ve dize getirir"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halkları"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "benim altıma"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:03.804489840Z",
+  "model": "glm-5.3"
+}

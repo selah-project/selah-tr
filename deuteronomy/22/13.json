@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Bir adam bir kadın alır, ona girer ve ondan nefret eder ise",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alır"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bir kadın"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ve girer"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ve ondan nefret eder"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:51.063153353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Bir ülkenin ⟨isyanı⟩yla önderleri çoğalır; anlayan ve bilen bir adamla ⟨düzen⟩ ⟨öylece⟩ uzun sürer.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "isyanıyla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoğalar"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "önderleri"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "ve kişiyle"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "anlayan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "uzun sürer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:36.019490048Z",
+  "model": "glm-5.3"
+}

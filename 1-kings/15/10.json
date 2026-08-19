@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve Yeruşalayim'de kırk bir yıl hüküm sürdü; annesinin adı Avişalom'un kızı Maacha'ydı.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ve kırk"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hüküm sürdü"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesinin"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maacha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avişalom'un"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:12.389142294Z",
+  "model": "glm-5.3"
+}

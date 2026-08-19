@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Bu, Yahve'nin yaptığı gündür; onda coşalım ve sevinelim.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "coşalım"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ve sevinelim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:56.915267745Z",
+  "model": "glm-5.3"
+}

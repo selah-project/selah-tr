@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "İnce başaklar ⟨את⟩ yedi iyi başağı yuttiler; büyücülere söyledim ve bana bildiren yok.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "yuttilar"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "başaklar"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "ince"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yedi iyi başağı"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "başak"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "söyledim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑e"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "büyücüler"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "bildiren"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:35.049084521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Aç olsam sana söylemem; çünkü benimdir dünya ve onun doluluğu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "aç olsam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "söylemem (değil)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söylerim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benimdir"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ve onun doluluğu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:57.902929085Z",
+  "model": "glm-5.3"
+}

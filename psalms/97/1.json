@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Yahve ⟨hüküm sürüyor⟩, yeryüzü sevinçle coşsun, sayısız adalar sevsin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hüküm sürdü"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "coşsun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevsinler"
+    },
+    {
+      "surface": "איים",
+      "gloss": "adalar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sayısız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.759982323Z",
+  "model": "glm-5.3"
+}

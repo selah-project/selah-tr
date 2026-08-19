@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve ⟨את⟩ bütün altını ve gümüşü, ⟨את⟩ Yahve'nin evinde ve kral evinin hazinelerinde bulunan bütün kapları ve ⟨את⟩ rehin oğulları aldı ve Şomron'a döndü.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün altını ve gümüşü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "ve gümüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün kapları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kaplar"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "bulunan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ve hazinelerinde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "rehin oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "rehin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ve döndü"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Şomron'a"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:50.038318196Z",
+  "model": "glm-5.3"
+}

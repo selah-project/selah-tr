@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Dinle, ey halkım, ve ben söyleyeceğim; ey Yisrael, ve ben sana tanıklık edeceğim: Elohim, senin Elohim'in benim.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Dinle"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ey halkım"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ve ben söyleyeceğim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ve ben tanıklık edeceğim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "benim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:05.048361391Z",
+  "model": "glm-5.3"
+}

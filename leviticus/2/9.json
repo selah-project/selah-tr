@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve kohen minha'dan onun anma kısmını ⟨את⟩ kaldıracak ve sunak üzerinde tütsüleyecek — Yahve'ye hoş koku olarak ateş sunusu.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "ve kaldıracak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha'dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun anma kısmını (אזכרתה)"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "onun anma kısmını"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ve tütsüleyecek"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sunak üzerinde"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ateş sunusu"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "koku"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "hoş \/ dinlendirici"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:38.383952952Z",
+  "model": "glm-5.3"
+}

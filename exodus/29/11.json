@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve boğazlayacaksın ⟨את⟩ boğayı Yahve'nin önünde, Buluşma Çadırı'nın girişinde.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ve boğazlayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boğa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinde"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadırı'nın"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Buluşma"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:46.549308012Z",
+  "model": "glm-5.3"
+}

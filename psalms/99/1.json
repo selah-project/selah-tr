@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 99,
+  "translation": "Yahve hüküm sürdü — halklar titresin; keruvlar üzerinde oturan Odur, yer sarsılsın.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hüküm sürdü"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "titresinler"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruvlar"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "sarsılsın"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:08.993924879Z",
+  "model": "glm-5.3"
+}

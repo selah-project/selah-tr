@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "El mi yargıtı eğerivet eder, yoksa Şadday adaleti mi eğerivet eder?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "eğerivet eder mi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "yargıyı"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "eğerivet eder mi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adaleti"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:43.703768645Z",
+  "model": "glm-5.3"
+}

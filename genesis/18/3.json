@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve dedi: «Adonay, eğer gözlerinizde lütuf bulduysam, lütfen kulunun yanından geçme.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "bulduysam"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gözlerinizde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...me (olumsuz)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "geç"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunun"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:33.005969290Z",
+  "model": "glm-5.3"
+}

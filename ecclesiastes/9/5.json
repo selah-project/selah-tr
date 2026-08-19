@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü yaşayanlar öleceklerini bilirler, ama ölüler hiçbir şey bilmezler; onlara artık bir karşılık yoktur, çünkü anıları unutuldu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yaşayanlar"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "bilirler"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "öleceklerini"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "ama ölüler"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "değiller"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hiçbir şey"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "karşılık"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "unutuldu"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "anıları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:23.448786909Z",
+  "model": "glm-5.3"
+}

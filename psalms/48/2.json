@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Büyük ⟨⟨dir⟩⟩ Yahve, ve çok övülmeye layık, Elohim'imizin ⟨⟨şehrinde⟩⟩, kutsal dağında.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Büyük"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ve övülmeye layık"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehrinde"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:25.252184459Z",
+  "model": "glm-5.3"
+}

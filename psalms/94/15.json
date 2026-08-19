@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Çünkü yargı adalete dönecek, Ve onun ardından yüregi doğru olanların hepsi ⟨olacak⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עד",
+      "gloss": "adi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adaleti"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dönecek"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "yargı"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ve onun ardından"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "dogru olanların"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yüregi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:51.705499361Z",
+  "model": "glm-5.3"
+}

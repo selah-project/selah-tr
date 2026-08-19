@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yahuda'ya ait surlu şehirleri ⟨את⟩ ele geçirdi, ve Yeruşalayim'e kadar geldi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ve ele geçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surlu şehirleri"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şehirleri"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "surlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yahuda'ya ait"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'e"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:51.736315705Z",
+  "model": "glm-5.3"
+}

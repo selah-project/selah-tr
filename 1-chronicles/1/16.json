@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "ve ⟨את⟩ Arvadlı'yı, ve ⟨את⟩ Semarlı'yı ve ⟨את⟩ Hamatlı'yı",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Arvadlı'yı"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadlı'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Semarlı'yı"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Semarlı'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hamatlı'yı"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamatlı'yı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:23.339351515Z",
+  "model": "glm-5.3"
+}

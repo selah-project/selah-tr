@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Ve benim için ⟨bu kadar⟩ değerli ⟨duruyor⟩ düşüncelerin, El ⟨אל⟩! Onların sayısı ⟨ne⟩ çok!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ve benim için"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "değerli"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "düşüncelerin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "sayısı (başları)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:22.948544676Z",
+  "model": "glm-5.3"
+}

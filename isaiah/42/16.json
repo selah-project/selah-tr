@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 42:16",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Körlere bilmedikleri bir yolda yürüteceğim, bilmedikleri patikalarda adım attıracağım; önlerindeki karanlığı ışığa, eğri yolları düzüge çevireceğim. İşte bu şeyleri onlara yaptım ve onları bırakmadım.",
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "ve yürüteceğim"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "körlere"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "bir yolda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bildikleri"
+    },
+    {
+      "surface": "בנתיבות",
+      "gloss": "patikalarda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bildikleri"
+    },
+    {
+      "surface": "אדריכם",
+      "gloss": "adım attıracağım"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "koyacağım"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "karanlığı"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "önlerindeki"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ışığa"
+    },
+    {
+      "surface": "ומעקשים",
+      "gloss": "ve eğri yolları"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "düzüge"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "işte bunlar"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "şeyleri"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "yaptım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "עזבתים",
+      "gloss": "bıraktım"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:38.651640847Z",
+  "model": "glm-5.3"
+}

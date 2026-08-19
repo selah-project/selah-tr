@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "«Önüne bir melek göndereceğim ve ⟨את⟩ Kenanlı'yı, Emorlu'yu, Hitti'yi ve Perizzi'yi, Hivvi'yi ve Yevusi'yi kovacağım;",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ve göndereceğim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "melek"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ve kovacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenanlı'yı"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanlı"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorlu"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ve Hitti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ve Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivvi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ve Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:10.128615018Z",
+  "model": "glm-5.3"
+}

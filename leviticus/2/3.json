@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve mindan arta kalan Aharon'un ve oğullarının olacak — kutsalların kutsalı, Yahve'nin ateş sunularından.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ve arta kalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...dan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minda"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon'un olacak"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ve oğullarının"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kutsalların"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ateş sunularından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:58.979188661Z",
+  "model": "glm-5.3"
+}

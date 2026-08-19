@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve sokağa bakan iki kapı kapanacak, öğütmenin sesi alçalınca, ve kuşun sesine kalkılacak, ve şarkının kızları eğilecek;",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "ve kapanacak"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "iki kapı"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sokağa"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "alçalınca"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "öğütmeye ait"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "ve kalkılacak"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sesine"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "kuşun"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ve eğilecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "şarkının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:13.582031290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şelomon ona ⟨את⟩ bütün sorularını bildirdi; kraldan gizli kalmış ve ona bildirmediği hiçbir söz yoktu.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sorularını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "sorularını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değildi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hiçbir söz"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "gizli kalmış"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraldan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...-yi ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmedi"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "bildirmediği"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:37.276005162Z",
+  "model": "glm-5.3"
+}

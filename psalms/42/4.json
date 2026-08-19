@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Gözyaşlarım bana gündüz ve gece ekmek oldu; bana bütün gün 'Nerede Elohim'in?' derlerken.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "gözyaşlarım"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ve gece"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "derlerken"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:14.927211301Z",
+  "model": "glm-5.3"
+}

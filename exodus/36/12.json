@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 36:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Bir perdede elli ilme yaptı, ve ikinci birleşmedeki perdenin ucunda elli ilme yaptı; ilmeler biri diğerine karşılıklı ⟨duruyordu⟩.",
+  "tokens": [
+    {
+      "surface": "חמשים",
+      "gloss": "elli"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "ilme"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "ביריעה",
+      "gloss": "perdede"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ve elli"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "ilme"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ucunda"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "perdenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "במחברת",
+      "gloss": "birleşmede"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "מקבילת",
+      "gloss": "karşılıklı"
+    },
+    {
+      "surface": "הללאת",
+      "gloss": "ilmeler"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "biri"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:21.484470665Z",
+  "model": "glm-5.3"
+}

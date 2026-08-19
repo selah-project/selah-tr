@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 4:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Çünkü şöyle dedi Yahve, Yahuda adamına ve Yeruşalayim'e: nadası sizin için sürün, dikenlere ekmeyin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adamına"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "ve Yeruşalayim'e"
+    },
+    {
+      "surface": "נירו",
+      "gloss": "sürün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "nadas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -meyin"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "ekmeyin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "dikenlere"
+    }
+  ],
+  "timestamp": "2026-08-19T10:05:56.818773401Z",
+  "model": "glm-5.3"
+}

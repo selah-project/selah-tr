@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve bu sana ⟨את⟩ işaret olacak Yahve'den: Yahve yapacak ⟨את⟩ bu sözcüğü, o söylediği şeyi.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ve bu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "האות",
+      "gloss": "işaret"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ...den",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözcük"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu sözcük"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söyledi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:23.353129250Z",
+  "model": "glm-5.3"
+}

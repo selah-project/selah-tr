@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Yahve, senin Elohim'in, önünden geçen ⟨odur⟩; ⟨o⟩ bu ulusları önünden yok edecek ve sen onları mülk edineceksin ⟨את⟩. Yehoşua, senin önünden geçen ⟨odur⟩, Yahve'nin konuştuğu gibi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçiyor"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "senin önünden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "yok edecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ulusları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "senin önünden"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ve onları mülk edineceksin"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçiyor"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "senin önünden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:19.920735209Z",
+  "model": "glm-5.3"
+}

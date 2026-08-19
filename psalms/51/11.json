@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Yüzünü günahlarımdan gizle; bütün suçlarımı sil.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "gizle"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "günahlarımdan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "suçlarımı"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "sil"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:55.442844189Z",
+  "model": "glm-5.3"
+}

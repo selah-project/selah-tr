@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve David kralın canı Avşalom'a çıkmaya ⟨hasret çekdi⟩, çünkü Amnon'a dair avunmuştu, çünkü ölmüştü.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "ve ⟨tükendi\/hasret çekdi⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "çıkmaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e doğru"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "avundu"
+    },
+    {
+      "surface": "על",
+      "gloss": "...e dair"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:40.508977719Z",
+  "model": "glm-5.3"
+}

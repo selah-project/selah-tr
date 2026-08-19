@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ester dedi: Bir adam, düşman ve hasım — Haman, şu kötü ⟨adam⟩. Ve Haman kralın ve kraliçenin önünden korkuya kapıldı.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ve hasım"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ve Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "korkuya kapıldı"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "önünden"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "ve kraliçenin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:30.863213076Z",
+  "model": "glm-5.3"
+}

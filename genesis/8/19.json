@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Bütün canlılar, bütün sürüngenler ve bütün kuşlar — yer üzerinde sürünen her şey — ailelerine göre gemiden çıktılar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canlılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "sürüngenler"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "kuşlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "sürünen şey"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıktılar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "gemi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:43.278619765Z",
+  "model": "glm-5.3"
+}

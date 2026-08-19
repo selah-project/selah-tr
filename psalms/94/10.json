@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Ulusları terbiye eden ⟨o⟩ ayırt etmez mi? İnsana bilgi öğreten ⟨o⟩ bilmez mi?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "ulusları terbiye eden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ayırt eder"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "öğreten"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:49.354160412Z",
+  "model": "glm-5.3"
+}

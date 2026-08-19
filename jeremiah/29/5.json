@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Evler kurun ve ⟨orada⟩ oturun; bağlar (bahçeler) dikin ve ⟨את⟩ meyvelerini yiyin.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "kurun"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evler"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ve oturun"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ve dikin"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "bahçeler"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ve yiyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meyvelerini"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "meyvelerini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:12:28.543233857Z",
+  "model": "glm-5.3"
+}

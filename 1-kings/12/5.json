@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Onlara dedi: «Gidin ⟨עוד⟩ üç gün, sonra bana dönün.» Ve halk gitti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gidin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine\/daha"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ve dönün"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ve gittiler"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:01.386533965Z",
+  "model": "glm-5.3"
+}

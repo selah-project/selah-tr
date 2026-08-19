@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Gümüşle bana tatlı kamış satın almadın ve kurbanlarının yağıyla beni doyurmadın; ama günahlarınla beni hizmet ettirdin, suçlarınla beni yordun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "satın almadın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşle"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "tatlı kamış"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ve yağ"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "kurbanlarının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "beni doyurmadın"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ama"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "beni hizmet ettirdin"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "günahlarınla"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "beni yordun"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "suçlarınla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:30.645158331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Çevrene ⟨bir⟩ çember gibi ⟨konaklayacağım⟩, senin üzerine ⟨kuşatma⟩ kuleleriyle kuşatacağım, sana karşı siperler kuracağım.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "konaklayacağım"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "bir çember gibi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "çevrene"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "kuşatacağım"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senin üzerine"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "kuşatma kuleleriyle"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "kuracağım"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana karşı"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "siperler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:36.889060091Z",
+  "model": "glm-5.3"
+}

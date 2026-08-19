@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Yahve, öfkende beni kınama, gazabında beni terbiye etme.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ma \/ etme"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "öfkende"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "beni kınama"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "gazabında"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "beni terbiye etme"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:08.256928264Z",
+  "model": "glm-5.3"
+}

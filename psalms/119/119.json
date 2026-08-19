@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Cüruf gibi ortadan kaldırdın yerin bütün kötülerini; bu yüzden senin tanıklıklarını sevdim.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "cüruf gibi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ortadan kaldırdın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "kötülerini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevdim"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "senin tanıklıklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:02.975515749Z",
+  "model": "glm-5.3"
+}

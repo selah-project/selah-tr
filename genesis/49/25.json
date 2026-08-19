@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Babanın El'inden — o yardım eder sana — ve ⟨את⟩ Şadday'dan — o kutsar seni — yukarıdan göklerin kutsamalarıyla, aşağıda uzanan derinliğin kutsamalarıyla, göğüslerin ve rahmin kutsamalarıyla.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "El'den"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "ve yardım eder sana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Şadday"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "ve kutsar seni"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "kutsamaları"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yukarıdan"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "kutsamaları"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "derinliğin"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "uzanmış"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aşağıda"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "kutsamaları"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "göğüslerin"
+    },
+    {
+      "surface": "וירחם",
+      "gloss": "ve rahmin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:48.537882701Z",
+  "model": "glm-5.3"
+}

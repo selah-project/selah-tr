@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Yalnız O'dur kayam ve kurtuluşum, sığınağım O; çok sarsılmam.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kayam"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ve kurtuluşum"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarsılırım"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:22.423185880Z",
+  "model": "glm-5.3"
+}

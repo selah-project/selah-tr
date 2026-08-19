@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 84,
+  "translation": "Ne sevgilidir meskenlerin, Yahve Tsevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "sevgili(dir)"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "meskenlerin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:43.871931784Z",
+  "model": "glm-5.3"
+}

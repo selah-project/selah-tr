@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve akşam oldu: ⟨את⟩ Lea'yı, kızını aldı ve onu ⟨את⟩ ona getirdi; ve o ona girdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "akşam"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": " aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea'yı"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kızını"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "getirdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:43.857668823Z",
+  "model": "glm-5.3"
+}

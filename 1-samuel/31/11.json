@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve Filistlerin Şaul'a ne yaptıklarını ⟨את⟩ duydular Yaveş-Gilad oturanları.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ve duydular"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona dair"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanları"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaveş"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yaptıklarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptıklarını"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistler"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaul'a"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:31.570218492Z",
+  "model": "glm-5.3"
+}

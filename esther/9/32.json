@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Ester'in buyruğu bu Purim sözlerini doğruladı; ve ⟨the⟩ kitaba yazıldı.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "ve buyruk"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester'in"
+    },
+    {
+      "surface": "קים",
+      "gloss": "doğruladı"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "Purim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "ve yazıldı"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kitaba"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:29.927545606Z",
+  "model": "glm-5.3"
+}

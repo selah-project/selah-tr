@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Haksızlık yapmayacaksınız yargıda; ölçüde, tartıda ve ölçeşte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksınız"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapmayacaksınız"
+    },
+    {
+      "surface": "עול",
+      "gloss": "haksızlık"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "yargıda"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ölçüde"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "tartıda"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ve ölçeşte"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:55.123230441Z",
+  "model": "glm-5.3"
+}

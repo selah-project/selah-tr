@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Moşe, Yahve'nin ahit sandığını taşıyan Levililere emredip şöyle dedi:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "emretti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levililer"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levililer"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "taşıyanları"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:20.423124094Z",
+  "model": "glm-5.3"
+}

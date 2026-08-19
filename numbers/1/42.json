@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Naftali oğulları — soy kayıtları, ailelerine göre, atalarının evine göre, isimlerin sayısınca, yirmi yaşından yukarı, orduya çıkabilen herkes —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "soy kayıtları"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "...evinin evine göre"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayısınca"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "isimlerin"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "yaşından"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ve yukarı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkabilen"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "orduya"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:40.784486429Z",
+  "model": "glm-5.3"
+}

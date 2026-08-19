@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 76,
+  "translation": "Azarından senin, Elohi Yaakov, sersemler ⟨düşer⟩ hem savaş arabası hem at.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "azarından senin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "sersemler"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "hem savaş arabası"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "hem at"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:34.998513679Z",
+  "model": "glm-5.3"
+}

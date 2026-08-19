@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ne mutlu o adamakişine ki kötülerin öğüdünde yürümedi, günahkârların yolunda durmadı ve alaycıların oturma yerinde oturmadı.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yürüdü"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "öğüdünde"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ve yolunda"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahkârların"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ve oturma yerinde"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "alaycıların"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturdu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:59.083164610Z",
+  "model": "glm-5.3"
+}

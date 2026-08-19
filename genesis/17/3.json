@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Avram yüzüstü kapandı ve Elohim ⟨את⟩ onunla konuşarak şöyle dedi:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ve kapandı (yüzüstü düştü)"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünün"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:59.785652865Z",
+  "model": "glm-5.3"
+}

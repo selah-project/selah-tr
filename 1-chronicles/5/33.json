@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Merajoth ⟨את⟩ Amarjah'yı babası oldu ⟨⟨⟩⟩ ve Amarjah ⟨את⟩ Ahituv'u babası oldu",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajoth"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah'yı"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ve Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahituv'u"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahituv"
+    }
+  ],
+  "timestamp": "2026-08-19T11:55:35.189230732Z",
+  "model": "glm-5.3"
+}

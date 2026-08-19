@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Doğrular görür ve sevinir, ve bütün haksızlık ağzını kapatır.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "görür"
+    },
+    {
+      "surface": "יששרים",
+      "gloss": "doğrular"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ve sevinir"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haksızlık"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "kapatır"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ağzını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:51.869501465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Bütün boğayı ordugâhın dışına, temiz bir yere, külün döküldüğü yere çıkaracak ve onu odunla ateşte yakacaktır; külün döküldüğü yerde yakılacaktır.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "çıkaracak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün boğayı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğayı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-{e}"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışına"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ordugâhın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-{e}"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "temiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-{e}"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "döküldüğü yer"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "külün"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "yakacaktır"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-{de}"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "odunla"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "על",
+      "gloss": "-{de}"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "döküldüğü yer"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "külün"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yakılacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:41.561352379Z",
+  "model": "glm-5.3"
+}

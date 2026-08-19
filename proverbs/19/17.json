@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Yahve'ye ödünç veren, dala iyilik eder; ve onun iyiliğini ona öder.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "ödünç veren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "iyilik eder"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dala"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "ve onun iyiliğini"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "öder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:15.011634893Z",
+  "model": "glm-5.3"
+}

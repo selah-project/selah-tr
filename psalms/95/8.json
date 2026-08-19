@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Kalbinizi Meriva'da olduğu gibi, çölde Massa gününde olduğu gibi sertleştirmeyin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…-meyin"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "sertleştirmeyin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kalbinizi"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "Meriva'da olduğu gibi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gününde olduğu gibi"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:05.766018944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Sığır için zevk uygun değildir, hele kölenin önderlere hükmetmesi için.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "uygundur"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "sığır için"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "zevk"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sa bile"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kölenin"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hükmetmesi"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "önderlere"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:53.585986977Z",
+  "model": "glm-5.3"
+}

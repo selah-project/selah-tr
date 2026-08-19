@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Bunlar savaş arabalarıyla ⟨ve⟩ bunlar atlarla ⟨öne çıkarlar⟩, biz ise Yahve Elohim'imizin adını anarız.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "savaş arabalarıyla"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ve bunlar"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "atlarla"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz ise"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "anarız"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:32.694447450Z",
+  "model": "glm-5.3"
+}

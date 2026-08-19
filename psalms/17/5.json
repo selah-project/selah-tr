@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Adımların senin patikalarında sağlam durdu, ayaklarım hiç kaymadı.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "sağlam durdu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "adımların"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "senin patikalarında"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hiç"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "kaymadı"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ayaklarım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:33.595797677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Gördün, çünkü sen emeğe ve hınca bakarsın; elinle vermek ⟨için⟩. Sefile sana bırakır ⟨kendini⟩; sen yetimin yardımcısı oldun.",
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "emeğe"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ve hınca"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "bakarsın"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermek için"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "elinle"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "bırakır"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "sefil"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetimin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "היית",
+      "gloss": "oldun"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "yardımcısı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:16.637793260Z",
+  "model": "glm-5.3"
+}

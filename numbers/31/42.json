@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve Yişraeil oğullarının yarısından — ki onu Moşe, savaşan adamlardan ayırmıştı —",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ve yarıdan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişraeil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "ayırmıştı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "savaşan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:42:05.354880976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 113,
+  "translation": "Kim ⟨var⟩ Yahve Elohim'imiz gibi — ⟨O⟩, oturmak için ⟨kendini⟩ yücelten?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahve gibi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "yücelten"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oturmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:38.689993337Z",
+  "model": "glm-5.3"
+}

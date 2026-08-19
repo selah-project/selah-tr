@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Nerede ⟨şimdi⟩ kralın, ki kurtarsın seni bütün şehirlerinde? Ve hâkimlerin ki, 'Ver bana bir kral ve önderler' demiştin?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "ve kurtarsın seni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "şehirlerinde"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ve hâkimlerin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "demiştin"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bir kral"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ve önderler"
+    }
+  ],
+  "timestamp": "2026-08-19T12:35:57.010800731Z",
+  "model": "glm-5.3"
+}

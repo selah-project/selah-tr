@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Bunun üzerine böğürlerim kıvranmayla doldu; doğuran kadının sancıları gibi sancılar beni yakaladı; işitmekten eğildim, görmekten dehşete kapıldım.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nedeniyle"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "böğürlerim"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "kıvranmayla"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "sancılar"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "beni yakaladı"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "gibi sancıları"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "doğuranın"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "eğildim"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "işitmekten"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "dehşete kapıldım"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "görmekten"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:25.147282563Z",
+  "model": "glm-5.3"
+}

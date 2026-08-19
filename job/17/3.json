@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Koy şimdi kefaleti benim ⟨için⟩ senin ⟨yanında⟩; kim ⟨o⟩ ki elimle ⟨el⟩ vursun?",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "koy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi\/rica"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "kefalet (benim)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "senin yanında"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "elimle"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "vursun (el)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:37.128255451Z",
+  "model": "glm-5.3"
+}

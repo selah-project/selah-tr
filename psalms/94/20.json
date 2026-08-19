@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Yıkımın tahtı seninle ortaklık kurar mı? Zorluğu kural uyarınca biçim vereni mi?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "seninle ortaklık kurar mı"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taht"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "yıkımın"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "biçim vereni"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zorluğu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "חק",
+      "gloss": "kural"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:18.842808357Z",
+  "model": "glm-5.3"
+}

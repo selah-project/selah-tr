@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ayırt etmek için ⟨the⟩ kutsal ile ⟨the⟩ profan arasında, ve ⟨the⟩ murdar ile ⟨the⟩ temiz arasında.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ve ayırt etmek"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve arasında"
+    },
+    {
+      "surface": "החל",
+      "gloss": "profan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve arasında"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ve arasında"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "temiz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:07.385541996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Bil'am'ı dinlemeye razı olmadım; o ise kutsadı, size kutsama ile ⟨את⟩ sizleri ⟨את⟩ sizleri onun elinden kurtardım.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadım"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "razı"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dinlemeye"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bil'am'ı"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kutsadı"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "kutsama ile"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizleri",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "kurtardım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizleri",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "onun elinden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:13:28.513817636Z",
+  "model": "glm-5.3"
+}

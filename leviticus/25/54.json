@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 25:54",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve eğer ⟨bunlarla⟩ kurtarılmazsa, yovel yılında o ve oğulları onunla çıkacak.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "kurtarılmazsa"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "bunlarla"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıkacak"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "yılında"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:29.255364726Z",
+  "model": "glm-5.3"
+}

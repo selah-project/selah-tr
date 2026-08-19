@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Adem karısına Havva adını verdi, çünkü ⟨o⟩ bütün yaşayanların annesi oldu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve ad verdi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısına"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "annesi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşayanların"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:42.361893891Z",
+  "model": "glm-5.3"
+}

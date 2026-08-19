@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Eli ona dedi: Ne zamana kadar sarhoş olacaksın? Şarabını kendinden uzaklaştır.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ne zaman"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "sarhoş olacaksın"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "uzaklaştır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şarabını"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "şarabını"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kendinden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:20:16.341289698Z",
+  "model": "glm-5.3"
+}

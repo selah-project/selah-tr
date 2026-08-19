@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Onu ⟨את⟩ ezer ezmez — çünkü bana feryat edip ederse, feryadını kesinlikle duyarım.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ezmek"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ezersen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "feryat"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ederse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "duymak"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "duyarım"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "feryadını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:07.495925636Z",
+  "model": "glm-5.3"
+}

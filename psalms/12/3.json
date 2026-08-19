@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Boşluk konuşur kişi ⟨את⟩ arkadaşına; yalancı dudak, kalple ve kalple konuşur.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "boşluk"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "konuşur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkadaşına"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "arkadaşına"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dudak"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "yalancı"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "kalple"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ve kalple"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "konuşur"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:35.667242160Z",
+  "model": "glm-5.3"
+}

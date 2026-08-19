@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Günahlarımıza göre bizimle davranmadı ve suçlarımıza göre bize karşılık vermedi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "günahlarımıza göre"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "suçlarımıza göre"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "karşılık verdi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimize"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:53.031177040Z",
+  "model": "glm-5.3"
+}

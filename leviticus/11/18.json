@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "ve ⟨את⟩ baykuşu, ve ⟨את⟩ pelikanı, ve ⟨את⟩ akbabayı",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "baykuşu"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "baykuşu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "pelikanı"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "pelikanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "akbabayı"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "akbabayı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:15.421942876Z",
+  "model": "glm-5.3"
+}

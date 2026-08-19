@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Toprağını işleyen ekmekle doyar; ve boşlukların peşinden koşan yürekten yoksundur.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "işleyen"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "toprağını"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "doyar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmekle"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ve peşinden koşan"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "boşlukların"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "yoksundur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürekten"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:20.749392576Z",
+  "model": "glm-5.3"
+}

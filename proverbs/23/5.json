@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Gözlerin onun üstünde uçar mı — ve o artık ⟨yoktur⟩; çünkü kendine kanatlar yapar, kartal gibi göklere doğru uçup gider.",
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "uçar mı (gözlerin)"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözlerin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun üstünde"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ve o artık ⟨yoktur⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapar (kendine)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "kanatlar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kartal gibi"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "uçup gider"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklere doğru"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:59.146132326Z",
+  "model": "glm-5.3"
+}

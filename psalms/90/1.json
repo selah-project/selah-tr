@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Moşe'nin, Elohim adamının duâsı. Adonay, ⟨⟨sen⟩⟩ dor dor ⟨⟨ bizim ⟩⟩ sığınağımız oldun.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "duâ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşe'nin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "היית",
+      "gloss": "oldun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "dor ⟨içinde⟩ dor"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dor"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:46.313949300Z",
+  "model": "glm-5.3"
+}

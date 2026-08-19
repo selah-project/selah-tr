@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 130,
+  "translation": "Umutlansın Yisra'el Yahve'de, çünkü Yahve'nin yanında hesed ⟨vardır⟩ ve O'nun yanında bol kurtuluş ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Umutlansın"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahve'de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ve bol"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "O'nun yanında"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "kurtuluş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:33.301843602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Bizim belirtilerimizi görmedik; artık peygamber yok ve ⟨את⟩ bizimle birlikte ne kadar süreceğini bilen biri yok.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "belirtilerimizi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "gördük"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle birlikte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "süreceğini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:35.883122495Z",
+  "model": "glm-5.3"
+}

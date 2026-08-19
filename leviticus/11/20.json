@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Dört ⟨ayak⟩ üzerinde yürüyen bütün uçan sürüngenler sizin için iğrençliktir",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sürünenler"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "uçan"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dört"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iğrençliktir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:15.422305262Z",
+  "model": "glm-5.3"
+}

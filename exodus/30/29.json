@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Onları kutsal kılacaksın ve ⟨onlar⟩ en kutsal ⟨olacaklar⟩; onlara dokunan her şey kutsal olacak.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "kutsal kılacaksın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ve olacaklar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kutsallar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "dokunan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "kutsal olacak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:23.113221442Z",
+  "model": "glm-5.3"
+}

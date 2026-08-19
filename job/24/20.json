@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 24:20",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Onu rahim unutur, kurdu tatlısını yer ⟨onu⟩; artık anılmaz, ve haksızlık ağaç gibi kırılır.",
+  "tokens": [
+    {
+      "surface": "ישכחהו",
+      "gloss": "unutur onu"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "rahim"
+    },
+    {
+      "surface": "מתקו",
+      "gloss": "tatlısını"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "kurt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yok"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "anılır"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "ve kırılır"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ağaç gibi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haksızlık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:29:22.166960039Z",
+  "model": "glm-5.3"
+}

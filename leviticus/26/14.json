@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve eğer bana kulak vermezseniz ve ⟨את⟩ bütün bu mitzvotları yapmazsanız",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kulak verirsiniz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yaparsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu mitzvotlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mitzvotları"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:23.175042863Z",
+  "model": "glm-5.3"
+}

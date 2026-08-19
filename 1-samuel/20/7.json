@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Eğer şöyle derse — 'İyi, kulun ⟨için⟩ esenlik ⟨var⟩' — ama öfkelenirse, ⟨şunu⟩ bil ki ondan kötülük karara bağlanmıştır.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "derse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kulun için"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kızgın olmak"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "kızarsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "דע",
+      "gloss": "bil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tamamlanmıştır"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:51.958804655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Onu yüreklerinin inadına bıraktırdım; kendi öğütlerinde yürüsünler diye.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "bıraktırdım"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "inadına"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "yüreklerinin"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yürüsünler"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "kendi öğütlerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:59.111685916Z",
+  "model": "glm-5.3"
+}

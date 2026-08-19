@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Kalbinin arzusunu ona verdin, ve dudaklarının dileğini esirgemedin. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "arzusunu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbinin"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "verdin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ve dileğini"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "dudaklarının"
+    },
+    {
+      "surface": "בל",
+      "gloss": "esirgemedin (olumsuzluk)"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "esirgedin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:54.870448737Z",
+  "model": "glm-5.3"
+}

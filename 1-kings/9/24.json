@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ancak Firavun'un kızı, Davut şehrinden kendisi için yapılmış olduğu eve çıktığı zaman, ⟨o⟩ Milo'yu yaptı.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavun"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şehrinden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo'yu"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:19.068076238Z",
+  "model": "glm-5.3"
+}

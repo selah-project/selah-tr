@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨şöyle⟩ oldu: Davud ⟨את⟩ Edom'un yanında iken, ordu önderi Yoav ölüleri gömmeye çıktığında, Edom'da bütün erkekleri vurmuştu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "iken"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom'un yanında"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "çıktığında"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "önderi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ordunun"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "gömmeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüleri"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ölüleri"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurmuştu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkekleri"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom'da"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:45.137695848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Olacak ki Yarden'i ⟨את⟩ geçtiğinizde, bugün ⟨את⟩ size emrettiğim şu taşları ⟨את⟩ Eyval Dağı'nda dikeceksiniz ve onları ⟨את⟩ sıvayla sıvayacaksın.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "olacak ki"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "geçtiğinizde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden'i"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "dikeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taşları"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "taşları"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "emrediyorum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ size"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyval"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "sıvayacaksın"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "sıvayla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:41.111995889Z",
+  "model": "glm-5.3"
+}

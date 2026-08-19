@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Şaul Yonatan'ın sözünü dinledi; ve Şaul yemin etti: 'Yahve yaşar, öldürülmez.'",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dinledi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sözünü … -e"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan'ın"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "yemin etti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "'eğer' (yalın yemin kalıbında eridi)"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülmez"
+    }
+  ],
+  "timestamp": "2026-08-19T12:15:00.494017526Z",
+  "model": "glm-5.3"
+}

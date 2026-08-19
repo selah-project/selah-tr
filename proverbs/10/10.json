@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Gözünü kırpan acı verir; ve dudakları aptal olan devrilir.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "kırpan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözünü"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "acı"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ve aptal"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "dudakları"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "devrilir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:43.018121007Z",
+  "model": "glm-5.3"
+}

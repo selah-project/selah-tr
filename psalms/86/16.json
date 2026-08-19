@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Yüzünü ⟨bana⟩ çevir ve bana lütuf göster, gücünü kuluna ver, ve cariyenin oğlunu kurtar.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "yüzünü çevir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨bana⟩ doğru"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ve bana lütuf göster"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "gücünü"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kuluna"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ve kurtar"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "cariyenin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:05.904926574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Kandiller için yağ, mesh yağı için baharatlar ve güzel kokulu buhurlar için günyağacı reçineleri;",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "kandiller için"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "baharatlar"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "—yağı için"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ve buhur için"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "güzel kokulu (reçineler)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:15.879063236Z",
+  "model": "glm-5.3"
+}

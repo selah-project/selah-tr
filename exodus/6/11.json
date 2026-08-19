@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Gir, Paroh'a, Mısır kralına, söyle; o da İsrail oğullarını ⟨את⟩ kendi ülkesinden göndersin.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "gir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ve göndersin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kendi ülkesinden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:49.879128997Z",
+  "model": "glm-5.3"
+}

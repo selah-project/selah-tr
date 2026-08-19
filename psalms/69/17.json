@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Bana cevap ver, Yahve, çünkü hasedin⟨(sadakatın)⟩ iyidir; rahamin⟨(merhametlerinin)⟩ çokluğuna göre yüzünü bana çevir.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "bana cevap ver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hasedin"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "çokluğuna göre"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahamin"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "yüzünü çevir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:09.815413760Z",
+  "model": "glm-5.3"
+}

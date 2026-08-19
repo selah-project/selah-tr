@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İsrail Yahve'ye kutsaldır, ürününün ilkmevesi; onu yiyenlerin hepsi suçlu olacak, kötülük onların başına gelecek — Yahve'nin ağzından.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ilkmevesi"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ürününün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "onu yiyenler"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "suçlu olacak"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "gelecek"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onların başına"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:04:57.348460931Z",
+  "model": "glm-5.3"
+}

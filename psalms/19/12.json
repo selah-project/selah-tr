@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Gerçi kulun onlarla uyarılır; onları koruyanın ödülü büyüktür.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gerçi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "uyarılır"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "onları koruyan(lar)a"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ödül(ü)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "büyüktür"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:44.803979854Z",
+  "model": "glm-5.3"
+}

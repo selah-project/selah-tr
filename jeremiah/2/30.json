@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Boş yere vurdum ⟨את⟩ oğullarınızı — terbiye kabul etmediler; kılıcınız peygamberlerinizi ⟨את⟩ yuttu, yıkıcı bir aslan gibi.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "boş yere"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "vurdum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarınızı"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oğullarınızı"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "terbiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mediler"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "kabul ettiler"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "yuttu"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "kılıcınız"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "peygamberlerinizi"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "aslan gibi"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "yıkıcı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:05:06.440124381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 85,
+  "translation": "Topladın ⟨את⟩ tüm öfkeni, geri döndün sen gazabının kızgınlığından.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "topladın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "öfkeni"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "geri döndün"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "kızgınlığından"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "senin gazabın"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:47.945866431Z",
+  "model": "glm-5.3"
+}

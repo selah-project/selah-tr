@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 52,
+  "translation": "Yutan sözlerin tümünü sevdin, ey aldatıcı dil.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sevdin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tümünü"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yutan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldatıcı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:54.695259886Z",
+  "model": "glm-5.3"
+}

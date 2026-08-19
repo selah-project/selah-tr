@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Çünkü sen, Adonay, iyisin ve bağışlayansın; seni çağıran herkese bol sevgilisin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "ve bağışlayan"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ve bol"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herkese"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "seni çağıranlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:07.828011976Z",
+  "model": "glm-5.3"
+}

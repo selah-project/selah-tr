@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ah keşke bilseydim de onu bulsaydım, onun ⟨belirlenen⟩ yerine kadar gelseydim!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim\/ah keşke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ver(seydi)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilseydim"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ve onu bulsaydım"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "gelseydim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "onun ⟨belirlenen yeri⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T11:29:24.694148225Z",
+  "model": "glm-5.3"
+}

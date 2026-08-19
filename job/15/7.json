@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 15:7",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "İlk doğen insan ⟨mı⟩ sensin? Tepelerden önce mi yaratıldın?",
+  "tokens": [
+    {
+      "surface": "הראישון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "doğdun mu"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ve öncesinde"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tepelerin"
+    },
+    {
+      "surface": "חוללת",
+      "gloss": "yaratıldın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:21.736184235Z",
+  "model": "glm-5.3"
+}

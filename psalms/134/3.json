@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 134,
+  "translation": "Yahve seni Siyon'dan kutsasın, gökleri ve yeri yapan ⟨Yahve⟩.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "seni kutsasın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siyon'dan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ve yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.697401513Z",
+  "model": "glm-5.3"
+}

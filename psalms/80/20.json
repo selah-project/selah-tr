@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Yahve, Elohim Tzevaot, bizi geri çevir; yüzünü parlat ve kurtulacağız.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizi geri çevir"
+    },
+    {
+      "surface": "האר",
+      "gloss": "parlat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "senin yüzünü"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ve kurtulacağız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:56.942416328Z",
+  "model": "glm-5.3"
+}

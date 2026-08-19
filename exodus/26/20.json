@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve Mişkan'ın ikinci ⟨the⟩ yanına, kuzey yönüne: yirmi tahta.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ve yanı için"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mişkan'ın"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "yönüne"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kuzey"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yirmi"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tahta"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:02.822052784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ki onların ellerinde kötü tasarı vardır, ve sağ elleri rüşvetle doludur.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "onların ellerinde"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kötü tasarım"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ve sağ elleri"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rüşvetle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:50.495209840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "İşte, avon içinde doğdum, ve günah içinde gebe kaldı beni annem.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "avon içinde"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "doğdum (sancılar içinde) — twist or whirl; fig. writhe — burada doğum sancısı, 'doğdum'"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "ve günah içinde"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "gebe kaldı beni"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annem"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:42.984631761Z",
+  "model": "glm-5.3"
+}

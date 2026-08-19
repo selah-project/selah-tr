@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Sabah oğlumü emzirmek için kalktığımda, işte ölüydü; sabah ona dikkatle baktığımda, işte doğurduğum oğlum değildi.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "kalktığımda"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "emzirmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlumu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölüydü"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "dikkatle baktığımda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değildi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "doğurduğum"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:46.126375349Z",
+  "model": "glm-5.3"
+}

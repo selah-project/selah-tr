@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Nerede ⟨the⟩ Hamat kralı, ve Arfad kralı, ve Sefarvayim şehrinin kralı, Hena ve İva?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "nerede"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ve kralı"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arfad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ve kralı"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şehrinin"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ve İva"
+    }
+  ],
+  "timestamp": "2026-08-19T09:49:15.236336985Z",
+  "model": "glm-5.3"
+}

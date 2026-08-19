@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Bakın, Yahve'nin eli kurtarmaktan kısalmadı, ve kulağı duymaktan ağırlaşmadı.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bakın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "kısalmadı"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "kurtarmaktan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ağırlaşmadı"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kulağı"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "duymaktan"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:48.774964858Z",
+  "model": "glm-5.3"
+}

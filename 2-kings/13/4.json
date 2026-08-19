@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Yehoahaz Yahve'nin yüzünü ⟨את⟩ yalvardı, ve Yahve ona seslendirdi; çünkü İsrail'in ⟨את⟩ sıkıntısını görmüştü — çünkü onları ⟨את⟩ Aram kralı eziyordu.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "yalvardı"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin yüzünü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "seslendirdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmüştü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sıkıntısını"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sıkıntısını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "eziyordu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:26.614310610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Vay sana, ey ülke, kralın ⟨bir⟩ delikanlı olduğunda ve beylerin sabahleyin yediğinde!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ey ülke"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "נער",
+      "gloss": "delikanlı"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ve beylerin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yediğinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:00.718903485Z",
+  "model": "glm-5.3"
+}

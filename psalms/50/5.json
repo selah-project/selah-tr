@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Has kullarımı bana toplayın, kurban üzerinde antlaşmamı kesenler.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "toplayın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "has kullarımı"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "kesenler"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "antlaşmamı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:05.048066003Z",
+  "model": "glm-5.3"
+}

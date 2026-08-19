@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Çünkü O'nun kutsadıkları ülkeyi miras alacaklar ve O'nun lanetledikleri kesilip atılacaklar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "O'nun kutsadıkları"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "miras alacaklar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "ve O'nun lanetledikleri"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kesilip atılacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:36.695794580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Koro şefine, Şuşan Edut üzerine, bir mihtam, Davud'a, öğretmek için.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koro şefine"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Şuşan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "bir mihtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "öğretmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:09.845629951Z",
+  "model": "glm-5.3"
+}

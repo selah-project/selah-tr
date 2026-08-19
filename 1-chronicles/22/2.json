@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve David, İsrail toprağında yaşayan garpleri ⟨את⟩ toplamak için söyledi, ve yontulmuş taşları Elohim'in evini yapmak için yontmak üzere taş yontucular görevlendirdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "toplamak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garpleri"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "garpleri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "toprağında"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ve görevlendirdi"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "taş yontucular"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "yontmak için"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "taşlarını"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "yontulmuş"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:00:12.144911844Z",
+  "model": "glm-5.3"
+}

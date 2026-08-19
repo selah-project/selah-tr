@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Yahve senin üzerine gönderecek ⟨את⟩ laneti, ⟨את⟩ kargaşayı ve ⟨את⟩ azarı, elini uzattığın her şeyde, ki yapacaksın; ta yok edilinceye ve çabucak mahvoluncaya kadar, kötülüğünün yüzünden, davranışlarının, ki beni terk ettin.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "gönderecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senin üzerine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laneti"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "laneti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kargaşayı"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "kargaşayı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "azarı"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "azarı"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "uzattığın"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta...kı"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "yok edilinceye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve ta...kı"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "mahvoluncaya"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "çabucak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülüğünün"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "davranışlarının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "beni terk ettin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:57.615024247Z",
+  "model": "glm-5.3"
+}

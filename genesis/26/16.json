@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Avimelekh Yitshak'a dedi: Bizden git, çünkü bizden çok daha güçlü oldun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "bizden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "güçlü oldun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizden"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:00.934801161Z",
+  "model": "glm-5.3"
+}

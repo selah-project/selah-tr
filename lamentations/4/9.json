@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kılıçla öldürülenler, açlıktan ölenlerden daha iyi ⟨idiler⟩; çünkü bunlar, tarlanın ürünü yokken, delinmiş halde eriyip gittiler.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "daha iyi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idiler"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "öldürülenleri"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "…dan ölenler"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "açlık"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "çünkü bunlar"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "eriyip gittiler"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "delinmiş halde"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "ürün yokken"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tarla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:49.506945470Z",
+  "model": "glm-5.3"
+}

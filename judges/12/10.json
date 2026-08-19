@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve İvtsan öldü ve Beyt-Lehem'de gömüldü.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "İvtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem'de"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:08.291364497Z",
+  "model": "glm-5.3"
+}

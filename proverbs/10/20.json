@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Seçkin gümüş gibidir doğru kişinin dili; kötülerin yüreği ise değersizdir.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "seçkin"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru kişinin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "değersiz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:47.212058680Z",
+  "model": "glm-5.3"
+}

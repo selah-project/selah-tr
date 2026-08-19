@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Ama sen, Yahve Adonay, ⟨את⟩ benimle, adın uğruna davran; çünkü sadakatin iyidir — beni kurtar.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ama sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "davran"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "benimle"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sadakatin"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "beni kurtar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:58.304876959Z",
+  "model": "glm-5.3"
+}

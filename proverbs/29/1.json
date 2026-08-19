@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Çok uyarılan ama ense katılaştıran adam, bir anda kırılır ve ⟨onun için⟩ şifa yoktur.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "uyarılan"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "katılaştıran"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ense"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "bir anda"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "kırılır"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "şifa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:34.702472136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve haberciye şöyle diye emretti: «Savaşın bütün ⟨את⟩ sözlerini krala söyleyip bitirdiğinde»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ve emretti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haberciye"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "haberciye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "bitirdiğinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savaşın bütün sözlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "savaşın"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "söylemeyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krala"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:01.377676063Z",
+  "model": "glm-5.3"
+}

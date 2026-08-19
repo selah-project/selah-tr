@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve adamlar onların azıklarından aldılar; ama Yahve'nin ağzını ⟨את⟩ sormadılar.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ve aldılar"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "onların azıklarından"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin ağzını"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sormadılar"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "(sorma)"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:44.569473060Z",
+  "model": "glm-5.3"
+}

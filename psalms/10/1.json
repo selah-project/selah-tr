@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Neden, Yahve, uzakta duruyorsun, sıkıntı zamanlarında ⟨⟨kendini⟩⟩ saklıyorsun?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "duruyorsun"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "uzakta"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "saklıyorsun"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "zamanlarında"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sıkıntıda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:31.093217058Z",
+  "model": "glm-5.3"
+}

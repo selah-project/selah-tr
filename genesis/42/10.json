@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve ona dediler: Hayır, efendim; kulun ⟨o⟩⟨lar⟩⟨ın⟩ yiyecek satın almaya geldi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayır"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ve kulların"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geldi(ler)"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "satın almaya"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:50.200213223Z",
+  "model": "glm-5.3"
+}

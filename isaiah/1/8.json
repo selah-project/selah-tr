@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Tsiyon'un kızı kalır, bağdaki bir çardak gibi, hıyarlardaki bir bekçi kulübesi gibi, kuşatılmış bir şehir gibi ⟨yalnız⟩.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "ve kalır"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "çardak gibi"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "bağdaki"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kulübe gibi"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "hıyarlardaki"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "şehir gibi"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "kuşatılmış"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:15.222108227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Eğer ⟨sözler⟩ varsa bana cevap ver; konuş, çünkü seni haklı çıkarmayı istiyorum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "bana cevap ver"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "istiyorum"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "seni haklı çıkarmayı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:31.930257188Z",
+  "model": "glm-5.3"
+}

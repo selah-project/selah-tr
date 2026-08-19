@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve ⟨את⟩ Negev'i, ⟨את⟩ ovayı — Yeriho'nun vadi ovasını, palmiye ağaçları şehrini — Coar'a kadar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Negev'i"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ovayı"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ovayı"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "vadisi"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho'nun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmiye ağaçlarının"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Coar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:30.997696497Z",
+  "model": "glm-5.3"
+}

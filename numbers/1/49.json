@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yalnız Levi oymağını ⟨את⟩ saymayacaksın ve onların başlarını İsrail oğullarının ortasında saymayacaksın.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi oymağı"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "oymak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "sayacaksın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "onların başları"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "onların başları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kabul edeceksin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:12.679368714Z",
+  "model": "glm-5.3"
+}

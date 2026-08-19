@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Çünkü böğürlerim yanıklarla doldu ve etimde sağlamlık ⟨yoktur⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "böğürlerim"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "yanıklarla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve ⟨yoktur⟩"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sağlamlık"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "etimde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:01.069668388Z",
+  "model": "glm-5.3"
+}

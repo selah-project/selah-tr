@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "ki Avraham'la kesmiş ⟨את⟩, ve Yitshak'a yemini,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesmiş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ve yemini"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Yitshak'a"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:07.278045051Z",
+  "model": "glm-5.3"
+}

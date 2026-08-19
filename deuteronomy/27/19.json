@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Yabancının, yetimin ve dulun hukukunu eğen lanetlidir; ve tüm halk diyecek: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "lanetlidir"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "eğen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukukunu"
+    },
+    {
+      "surface": "גר",
+      "gloss": "yabancının"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetimin"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ve dulun"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve diyecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:20.963162194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Senin içinde bulunmayacak oğlunu ya da kızını ateşten geçiren, fal açan, büyü yapan, kehanette bulunan ve büyücülük eden kimse.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...mayacak"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bulun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senin içinde"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "geçiren"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "veya kızını"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşten"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "fal açan"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "falcılık"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "büyü yapan"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "ve kehanette bulunan"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "ve büyücülük eden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:51.522364420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Unutuldum, kalpten ⟨⟨bir⟩⟩ ölü gibi; kırık bir kap gibi ⟨oldum⟩.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "unutuldum"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "ölü gibi"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "kalpten"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "kap gibi"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yok olmuş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:12.415334124Z",
+  "model": "glm-5.3"
+}

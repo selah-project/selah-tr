@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Çünkü sizden önceki ülkenin adamları ⟨את⟩ bütün bu iğrençlikleri yaptılar, ve ⟨the⟩ ülke kirlendi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu iğrençlikleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "iğrençlikleri"
+    },
+    {
+      "surface": "האל",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizden önce"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "ve kirlendi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:46.453638185Z",
+  "model": "glm-5.3"
+}

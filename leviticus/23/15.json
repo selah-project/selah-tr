@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve şabattan ertesi günden itibaren — ⟨את⟩ sallama sunusunun omerini getirdiğiniz günden — kendinize sayacaksınız: yedi şabat, tam ⟨olan⟩ olacak.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "sayacaksınız"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendinize"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertesi günden"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbatın"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "günden"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "getirdiğiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer (sheaf)"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "sallama sunusunun"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "şabat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "tam"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olacak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:37.154565668Z",
+  "model": "glm-5.3"
+}

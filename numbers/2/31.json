@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 2:31",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Dan kampında sayılanların tümü: yüz yedi bin beş yüz altı yüz; sancaklarıyla en arka tarafta yola çıkacaklar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tümü"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "sayılanların"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampında"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ve yedi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ve elli"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "en arkada"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "yola çıkacaklar"
+    },
+    {
+      "surface": "לדגליהם",
+      "gloss": "sancaklarıyla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:39.854892075Z",
+  "model": "glm-5.3"
+}

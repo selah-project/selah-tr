@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve iğrençlik ⟨olacaklar⟩ sizin için; etlerinden yemeyeceksiniz ve ⟨את⟩ leşlerini iğrenç sayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "ve iğrençlik"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaklar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "etlerinden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leşlerini"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "leşlerini"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "iğrenç sayacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:02.057878871Z",
+  "model": "glm-5.3"
+}

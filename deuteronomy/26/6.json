@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve Mısırlılar ⟨את⟩ bize kötülük ettiler ve bizi ezip yoksun bıraktılar ve üzerimize ağır angarya koydular.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "ve kötülük ettiler"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "Mısırlılar"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mısırlılar"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ve bizi ezip yoksun bıraktılar"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ve koydular"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimize"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "angarya"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ağır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:49.882603641Z",
+  "model": "glm-5.3"
+}

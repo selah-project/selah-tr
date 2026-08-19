@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve o yere Tav'era adını verdi, çünkü Yahve'nin ateşi onların içinde yanmıştı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve ad verdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "o yerin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "şu"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tav'era"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "yanmıştı"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların içinde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:08.785921270Z",
+  "model": "glm-5.3"
+}

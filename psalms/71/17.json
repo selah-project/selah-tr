@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Elohim, gençliğimden ⟨bana⟩ öğrettin ve şimdiye dek harikalarını bildiririm.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "öğrettin ⟨bana⟩"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gençliğimden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve şimdiye dek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "şimdiye"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bildiririm"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "harikalarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:16.869058650Z",
+  "model": "glm-5.3"
+}

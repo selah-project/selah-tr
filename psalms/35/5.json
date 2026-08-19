@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Saman gibi olsunlar rüzgârın önünde, ve Yahve'nin meleği onları kovalayan olsun.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olsunlar"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "saman gibi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgârın"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ve meleği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "kovalayan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:29.416860216Z",
+  "model": "glm-5.3"
+}

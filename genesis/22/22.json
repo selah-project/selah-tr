@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "ve ⟨את⟩ Kesed'i, ve ⟨את⟩ Hazo'yu, ve ⟨את⟩ Pildaş'ı, ve ⟨את⟩ Yidlaf'ı, ve ⟨את⟩ Betuel'i.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kesed'i"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hazo'yu"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Hazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Pildaş'ı"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildaş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yidlaf'ı"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Betuel'i"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:48.024555081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Boğazından bağır, sakınma, şofar gibi sesini yükselt; halkma başkaldırılarını, Yaakov'un evine günahlarını bildir.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "bağır"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "boğazla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakınma"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "kendini tutma"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "şofar gibi"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "yükselt"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "ve bildir"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "halkma"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "başkaldırılarını"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ve evine"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "günahlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:06.906509459Z",
+  "model": "glm-5.3"
+}

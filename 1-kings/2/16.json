@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve şimdi ⟨senden⟩ tek bir rica ediyorum ⟨⟨את⟩ yüzümü geri çevirme⟩; o da ona \"Söyle\" dedi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "bir rica"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ediyorum"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ senden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "geri çevirme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzümü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümü"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve o dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Söyle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:15.127766726Z",
+  "model": "glm-5.3"
+}

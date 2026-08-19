@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Çünkü bizi sınadın, ey Elohim; bizi gümüş arıtılır gibi arıttın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "bizi sınadın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "arıttın bizi"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "arıtılır gibi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:43.955549546Z",
+  "model": "glm-5.3"
+}

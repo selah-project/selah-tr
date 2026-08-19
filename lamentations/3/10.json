@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Bana pusuda bekleyen bir ayı, gizli yerlerde bir aslandır.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ayı"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "pusuda bekleyen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨odur⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "aslandır"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "gizli yerlerde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:05.283520381Z",
+  "model": "glm-5.3"
+}

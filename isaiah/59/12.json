@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Çünkü çoğaldı isyanlarımız senin önünde ve günahlarımız aleyhimizde tanıklık etti; çünkü isyanlarımız ⟨את⟩ yanımızdadır ve suçlarımızı biliyoruz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoğaldı"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "isyanlarımız"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "senin önünde"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "ve günahlarımız"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "tanıklık etti"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "aleyhimizde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "isyanlarımız"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yanımızda",
+      "marks": "isyanlarımız"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "ve suçlarımızı"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "biliyoruz"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:09.902377025Z",
+  "model": "glm-5.3"
+}

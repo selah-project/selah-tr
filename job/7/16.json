@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "⟨Hayattan⟩ tiksindim; sonsuza dek yaşamayacağım. Benden vazgeç, çünkü günlerim bir soluktur.",
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "tiksindim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "yaşayacağım"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "vazgeç"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "bir soluk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:18.319995352Z",
+  "model": "glm-5.3"
+}

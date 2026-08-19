@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Kâhin ⟨את⟩ birini günah sunusu, ⟨את⟩ birini de yakmalık sunu olarak yapacak; kâhin onun için Yahve'nin önünde, akıntısının kirinden ötürü kefaret sunacak.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ve yapacak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yakmalık sunu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefaret sunacak"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "akıntısının"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "kiri"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:08.330882037Z",
+  "model": "glm-5.3"
+}

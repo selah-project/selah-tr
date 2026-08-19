@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Davud ve adamları kente geldiler, işte o ateşle yakılmıştı; kadınları, oğulları ve kızları esir alınmıştı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kent"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "yanmıştı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "kadınları"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "esir alındı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:16.182794522Z",
+  "model": "glm-5.3"
+}

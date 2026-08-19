@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve bunlar ⟨idi⟩ ailelerine göre, yerlerine göre, adlarıyla Esav'ın beylerinin adları: Bey Timna, Bey Alva, Bey Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "beylerinin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav'ın"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "yerlerine göre"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "adlarıyla"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "bey"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "bey"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "bey"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:19.179678833Z",
+  "model": "glm-5.3"
+}

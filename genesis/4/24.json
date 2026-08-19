@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Çünkü Kayin için yedi kat intikam alınacak; Lemek için ise yetmiş yedi kat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "yedi kat"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "intikam alınacak"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "ve Lemek için"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ve yedi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:40.995123539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 121,
+  "translation": "Yardımım Yahve'den ⟨gelir⟩, gökleri ve yeri yapanın ⟨olandan⟩.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "yardımım"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapanın"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ve yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:33.830341008Z",
+  "model": "glm-5.3"
+}

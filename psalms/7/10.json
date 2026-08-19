@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Kötülerin kötülüğü son bulsun, ⟨lütfen⟩; doğru kişi ise sağlam kılinsın; kalpleri ve böbrekleri sınayan, doğru olan Elohim'dir ⟨O⟩.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "son bulsun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "ve sağlam kılinsın"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru kişi"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "ve sınayan"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "kalpleri"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "ve böbrekleri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:56.443241544Z",
+  "model": "glm-5.3"
+}

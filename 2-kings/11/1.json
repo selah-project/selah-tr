@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Atalya, Ahazyah'nın annesi, oğlunun öldüğünü görünce kalktı ve ⟨את⟩ krallığın bütün tohumunu yok etti.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Ve Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "annesi"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazyah'nın"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "yok etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krallığın bütün tohumunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohumunu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "krallığın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:29.727712071Z",
+  "model": "glm-5.3"
+}

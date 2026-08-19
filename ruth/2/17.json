@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Tarlada akşama kadar topladı ve ⟨את⟩ topladıklarını dövdü; arpa olarak bir efa kadar oldu.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşama"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "dövdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "topladıklarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "topladığı"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "bir efa kadar"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:25.660842988Z",
+  "model": "glm-5.3"
+}

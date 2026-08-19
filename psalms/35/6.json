@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Yolları karanlık ve kaygan olsun, ve Yahve'nin meleği onları kovalasın.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "yolları"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlık"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "ve kaygan"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ve meleği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "onları kovalasın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:29.417059847Z",
+  "model": "glm-5.3"
+}

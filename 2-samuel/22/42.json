@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Yardım için baktılar ama kurtaran yoktu; Yahve'ye ⟨döndüler⟩, ama ⟨O⟩ onlara karşılık vermedi.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "yardım için baktılar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ama yoktu"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "kurtaran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ... değil"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "onlara karşılık verdi"
+    }
+  ],
+  "timestamp": "2026-08-19T12:15:25.416875854Z",
+  "model": "glm-5.3"
+}

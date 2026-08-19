@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 131,
+  "translation": "Değil mi? Düzledim ve susturdum canımı, sütten kesilmiş çocuk gibi annesinin üzerinde; sütten kesilmiş çocuk gibi bende canım ⟨içinde⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "değil mi?"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "düzledim"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ve susturdum"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sütten kesilmiş çocuk gibi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesinin"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sütten kesilmiş çocuk gibi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bende"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:02.783471537Z",
+  "model": "glm-5.3"
+}

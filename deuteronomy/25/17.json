@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Anımsa ⟨את⟩ Amalek'in yolda, Mısır'dan çıktığınızda sana yaptıklarını —",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "anımsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek'in sana yaptıkları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "çıktığınızda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:55.366467888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 93,
+  "translation": "Tanıklıkların çok sağlam ⟨dır⟩; evine yakışır kutsallık, ey Yahve, günlerin uzunu ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "tanıklıkların"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "sağlam ⟨dır⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "evine"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yakışır"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsallık"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "⟨için⟩ uzunluğuna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:27.416578828Z",
+  "model": "glm-5.3"
+}

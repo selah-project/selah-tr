@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Eğer benimle savaşmaya ⟨את⟩ muktedir olup beni öldürebilirse, sizin köleleriniz oluruz; ama ben ona muktedir olup onu öldürürsem, siz bizim kölelerimiz olursunuz ve bize kölelik edersiniz.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "muktedir olursa"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "savaşmaya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ benimle"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "ve beni öldürürse"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "oluruz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "köleler"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "muktedir olurum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "ve onu öldürürsem"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "olursunuz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "köleler"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ve kölelik edersiniz"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bize",
+      "marks": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:37.078072305Z",
+  "model": "glm-5.3"
+}

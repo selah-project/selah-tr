@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Yolları her zaman ⟨sağlamdır⟩; ⟨senin⟩ hükümlerin onun karşısında yücedir ⟨uzaktır⟩; bütün düşmanlarına ⟨karşı⟩ sövüp sayar.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "⟨sağlamdır⟩"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yolları"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zamanda"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yücedir"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hükümlerin"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "onun karşısında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "düşmanları"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "sövüp sayar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:50.385638313Z",
+  "model": "glm-5.3"
+}

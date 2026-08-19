@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve ⟨את⟩ Kivtsayim'i çevresindeki meralarıyla ve ⟨את⟩ Bet-Horon'u çevresindeki meralarıyla — dört kent.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kivtsayim'i"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "meralarıyla"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çevresindeki meraları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Bet-Horon'u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "meralarıyla"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çevresindeki meraları"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kent"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dört"
+    }
+  ],
+  "timestamp": "2026-08-19T09:12:32.723686284Z",
+  "model": "glm-5.3"
+}

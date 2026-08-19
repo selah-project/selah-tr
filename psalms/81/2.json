@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Elohim'e, gücümüze, sevinçle ilahi söyleyin; Yaakov'un Elohim'ine coşkuyla bağırın.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "ilahi söyleyin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "gücümüze"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "coşkuyla bağırın"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "…Elohim'ine"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:55.117522313Z",
+  "model": "glm-5.3"
+}

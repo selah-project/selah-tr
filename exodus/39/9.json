@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Dörtköşe ⟨idi⟩, katlanmış olarak yaptılar ⟨את⟩ hoşeni: bir karış ⟨onun⟩ uzunluğu, bir karış ⟨onun⟩ genişliği — katlanmış.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "dörtköşe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "katlanmış"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoşeni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoşeni"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "bir karış"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "⟨onun⟩ uzunluğu"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ve bir karış"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "⟨onun⟩ genişliği"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "katlanmış"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:30.831813660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve ⟨eğer⟩ üçüncü günde ⟨gerçekten⟩ yenecek olursa, murdardır ⟨o⟩; kabul görmeyecektir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve ⟨eğer⟩"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "⟨gerçekten⟩ yenecek"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "olursa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "murdardır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "kabul görmeyecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:55.311842510Z",
+  "model": "glm-5.3"
+}

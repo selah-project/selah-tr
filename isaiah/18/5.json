@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Çünkü hasattan önce, çiçek geçip gitmişken ve ekşi üzüm tomurcukta olgunlaşırken, sürgünler budama kancalarıyla kesilecek ve dal tutamları da kaldırılıp budanacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önce"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "hasat"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "tamamlanınca"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "çiçek"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "ekşi üzüm"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "olgunlaşırken"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olurken"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "tomurcukta"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "ve kesecek"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "sürgünleri"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "budama kancalarıyla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dal tutamları"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "dal tutamları"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kaldıracak"
+    },
+    {
+      "surface": "התז",
+      "gloss": "budayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:21.205307751Z",
+  "model": "glm-5.3"
+}

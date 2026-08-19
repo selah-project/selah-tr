@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Moşe onları ⟨את⟩ Pa ran çölünden gönderdi, Yahve'nin ağzına göre; hepsi adamlar, Yisrael oğullarının başları, onlar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "çölünden"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Pa ran"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e göre"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:10.716696909Z",
+  "model": "glm-5.3"
+}

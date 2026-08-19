@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Babanı dinle — o, seni doğuran; ve anneni hor görme, çünkü o yaşlandı.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dinle"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "babana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o (şu)"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "seni doğuran"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve... me"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "hor gör"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "yaşlandı"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:45.986241124Z",
+  "model": "glm-5.3"
+}

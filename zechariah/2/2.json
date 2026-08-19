@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İçimde konuşan meleğe: Bunlar nedir? dedim. Bana şöyle dedi: Bunlar, ⟨את⟩ Yahuda'yı, ⟨את⟩ Yisra'el'i ve Yeruşalayim'i savuran boynuzlardır.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "melek"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konuşan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "içimde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nedir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "boynuzlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "savurdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda'yı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ve Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:47:45.851344105Z",
+  "model": "glm-5.3"
+}

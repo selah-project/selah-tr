@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "İşte ben size Eliya peygamberi ⟨את⟩ gönderiyorum, büyük ve korkunç Yahve günü gelmeden önce.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "İşte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönderiyorum"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliya peygamberi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamberi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önce"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gelmeden"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "ve korkunç"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:09.774486857Z",
+  "model": "glm-5.3"
+}

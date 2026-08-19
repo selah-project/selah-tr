@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Yerin krallıkları, Elohim'e söyleyin; Adonay'a çalın-örün. Sela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "krallıkları"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "çalın-örün"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay'a"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:33.403204246Z",
+  "model": "glm-5.3"
+}

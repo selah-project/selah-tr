@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Işığı biçimlendiren, karanlığı yaratan; şalom yapan, kötülüğü yaratan: Ben Yahve'yim, bütün bunları yapan.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "biçimlendiren"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışığı"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "ve yaratan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlığı"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "ve yaratan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:34.197416221Z",
+  "model": "glm-5.3"
+}

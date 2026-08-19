@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İşte günler geliyor: ⟨את⟩ kolunu ve ⟨את⟩ babanın evinin kolunu keseceğim — evinde yaşlı ⟨bir kimse⟩ olmaktan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "באים",
+      "gloss": "geliyor"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "ve keseceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolunu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "kolunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "babanın evinin kolunu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kol"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "olmaktan"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlı"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "evinde"
+    }
+  ],
+  "timestamp": "2026-08-19T12:14:18.198201477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yisrael oğullarına konuş; bana bir teruma alsınlar; gönülü gönüllendiren her adamdan ⟨את⟩ terumamı alacaksınız.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e\/doğru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "alsınlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma \/ bağış"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ -den",
+      "marks": "her adam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "gönüllendirir"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "gönlü"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terumamı"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "terumamı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:39.687349633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Gömleğimi çıkardım ⟨את⟩, onu nasıl geri giyeyim? Ayaklarımı yıkadım ⟨את⟩, onları nasıl kirleteyim?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "çıkardım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gömleğimi"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "gömleğimi"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "giyeyim"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "yıkadım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayaklarımı"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaklarımı"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "kirleteyim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:20.030150601Z",
+  "model": "glm-5.3"
+}

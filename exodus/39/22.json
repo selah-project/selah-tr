@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Ve fod'un mintanını yaptı — dokuma işi, tümü tikeli ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mintanını"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mintanını"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "fod'un"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "dokuma"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tümü"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tikeli"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:25.236288940Z",
+  "model": "glm-5.3"
+}

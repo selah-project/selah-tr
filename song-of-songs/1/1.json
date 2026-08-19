@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Şirlerin şiri — Şelomo'ya ait olan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şir"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "şirlerin şiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Şelomo'ya ait olan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:36.703999978Z",
+  "model": "glm-5.3"
+}

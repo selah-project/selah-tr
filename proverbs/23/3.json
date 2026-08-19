@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Onun lezzetlilerini arzulama, çünkü ⟨o⟩ yalan ekmeğidir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "arzulama"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "onun lezzetlilerini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "çünkü o"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "yalan(lar)ın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:56.863994448Z",
+  "model": "glm-5.3"
+}

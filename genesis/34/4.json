@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Şekem babası Hamor'a şöyle dedi: ⟨את⟩ şu kızı benim için karı olarak al.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor'a"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu kızı"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "şu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "karı olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:19.951496553Z",
+  "model": "glm-5.3"
+}

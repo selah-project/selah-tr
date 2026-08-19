@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve sünnet edeceksiniz ⟨את⟩ sünnet derinizin etini; ve ⟨olacak⟩ benimle aranızda ahdin işareti olarak.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "ve sünnet edeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sünnet derinizin etini"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "sünnet derinizin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve ⟨olacak⟩"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "işaret olarak"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdin"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ve aranızda"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:16.482706807Z",
+  "model": "glm-5.3"
+}

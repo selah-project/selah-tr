@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kötülerden uzaktır kurtuluş, çünkü senin hükümlerini aramadılar.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "uzaktır"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kötülerden"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "senin hükümlerini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "aramadılar"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:37.004858719Z",
+  "model": "glm-5.3"
+}

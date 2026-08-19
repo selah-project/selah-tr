@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Akşam, sabah ve öğleyin ⟨içimden⟩ konuşacağım ve inleyeceğim; ve sesimi işitir.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Akşam"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ve sabah"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ve öğleyin"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "⟨içimden⟩ konuşacağım"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "ve inleyeceğim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ve işitir"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sesimi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:23.715601243Z",
+  "model": "glm-5.3"
+}

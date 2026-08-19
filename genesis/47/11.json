@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Ve Yosef, babasını ⟨את⟩ ve kardeşlerini ⟨את⟩ yerleştirdi ve onlara Mısır ülkesinde, ülkenin en iyi yerinde, Raamses ülkesinde mülk verdi; Firavun'un buyurduğu gibi.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "yerleştirdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babasını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşlerini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşlerini"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "mülk"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "en iyisinde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:53.642908590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Çünkü isyanlarımı ben bilirim, ve günahım karşımdadır ⟨her⟩ zaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "isyanlarımı"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilirim"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ve günahım"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "karşımda(dır)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "her zaman"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:42.984239092Z",
+  "model": "glm-5.3"
+}

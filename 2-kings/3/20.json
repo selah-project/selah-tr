@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve ⟨oldu⟩ sabahleyin, minhah sunusu ⟨yükselirken⟩, ve işte su Edom yolundan geliyordu; ve ülke ⟨את⟩ su ile doldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve ⟨oldu⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "yükselirken"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhah sunusu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "באים",
+      "gloss": "geliyordu"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "yolundan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ve doldu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "המים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:25.317876439Z",
+  "model": "glm-5.3"
+}

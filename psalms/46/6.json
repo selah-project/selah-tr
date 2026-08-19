@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Elohim onun ortasındadır, sarsılmayacaktır; Elohim ona yardım eder ⟨sabah⟩ ağarıp ⟨yüz⟩ çevirirken.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "onun ortasında"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sarsılmaz"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "ona yardım eder"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "yüz çevirirken"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:17.592202815Z",
+  "model": "glm-5.3"
+}

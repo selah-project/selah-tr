@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Çünkü içim ekşidi (לבבי: kalbim mayalandı) ve böbreklerim sızladı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "ekşidi\/mayalandı"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ve böbreklerim"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "sızladı\/delandı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:15.480049820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Haşa bana! Sizleri ⟨את⟩ haklı çıkarmam; ölünceye dek masumiyetimi kendimden uzaklaştırmayacağım.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "haşa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(-me)"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "haklı çıkarırım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizleri",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ölünce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "uzaklaştırırım"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "masumiyetimi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kendimden"
+    }
+  ],
+  "timestamp": "2026-08-19T12:24:17.436190118Z",
+  "model": "glm-5.3"
+}

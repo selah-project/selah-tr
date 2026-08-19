@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Ve ⟨את⟩ başlığı ince ketenden, ve ⟨את⟩ başlıkların süslerini ince ketenden, ve ⟨את⟩ keten donları ince ketenden, bükülmüş — bükülmüş ketenden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "başlığı"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "başlığı"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ince keten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "başlıkların süslerini"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "süslerini"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "başlıkların"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ince keten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "donları"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "donları"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "keten"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ince keten"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "bükülmüş"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:40.529472114Z",
+  "model": "glm-5.3"
+}

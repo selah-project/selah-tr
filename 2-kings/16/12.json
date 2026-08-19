@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Kral Damaşek'ten geldiği zaman, Kral sunağı gördü, Kral sunağa yaklaştı ve üzerine sunularını yükseltti.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damaşek'ten"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunağı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "yaklaştı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yükseltti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:13.094550835Z",
+  "model": "glm-5.3"
+}

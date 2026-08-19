@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Yehoşua'ya ⟨את⟩ yanıt verip dediler ki: Bize buyurduğun her şeyi yapacağız ve bizi gönderdiğin her yere gideceğiz.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ve yanıt verdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoşua'ya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "bize buyurduğun"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yapacağız"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ... yere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "bizi gönderdiğin"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "gideceğiz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:50.941114382Z",
+  "model": "glm-5.3"
+}

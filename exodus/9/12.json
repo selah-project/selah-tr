@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Yahve Paroh'un ⟨את⟩ kalbini güçlendirdi, ve onları dinlemedi, Yahve'nin Moşe'ye konuştuğu gibi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ve güçlendirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh'un kalbini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbini"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dinledi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştuğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:01.076285217Z",
+  "model": "glm-5.3"
+}

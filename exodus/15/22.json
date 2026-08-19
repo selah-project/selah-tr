@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Moşe İsrail'i Kamış Denizi'nden yola çıkardı; Şur çölüne çıktılar ve çölde üç gün yürüdüler, ama su bulamadılar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "yola çıkardı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Denizi'nden"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Kamış"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "çıktılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çölüne"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Şur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "yürüdüler"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ... değil"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "bulamadılar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:48.013570787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Esav dedi: ⟨Bak⟩, ben ölmeye gidiyorum; bekârlık bana ne ⟨fayda⟩ verir?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨bak⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gidiyorum"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölmeye"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ve neden"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "bekârlık"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:19.291834095Z",
+  "model": "glm-5.3"
+}

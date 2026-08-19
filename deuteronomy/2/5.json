@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Onlarla kavgaya girmeyin; çünkü onların topraklarından size bir ayak tabanının basabileceği kadar bile vermeyeceğim; çünkü ⟨את⟩ Seir dağını Esav'a mülk olarak ben verdim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "meyin"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "kavgaya girmeyin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-meyeceğim (değil)"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vermeyeceğim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "onların topraklarından"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "basabileceği (basamak yeri)"
+    },
+    {
+      "surface": "כף",
+      "gloss": "taban (avuç)"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "mülk olarak"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav'a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ben verdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seir dağını"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:59.405075933Z",
+  "model": "glm-5.3"
+}

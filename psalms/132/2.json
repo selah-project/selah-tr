@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Ki Yahve'ye yemin etti, Yaakov'ün Güçlüsü'ne adak adadı.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yemin etti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "adak adadı"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Güçlüsü'ne"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'ün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.923764871Z",
+  "model": "glm-5.3"
+}

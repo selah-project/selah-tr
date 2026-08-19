@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "İlk ürün ⟨sunusu⟩ olarak onları ⟨את⟩ Yahve'ye sunabilirsiniz; ama sunak üzerine hoş koku için yükseltilemeyecekler.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban \/ sunu"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ilk ürün"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "sunabilirsiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e doğru"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "yükseltilecekler"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "koku için"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "hoş"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:38.384557267Z",
+  "model": "glm-5.3"
+}

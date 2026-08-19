@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 113,
+  "translation": "Yahve'nin adı ⟨olsun⟩ kutsanmış, şimdiki zamandan sonsuza dek.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "kutsanmış"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "şimdiki zamandan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve sonsuza dek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuzluk"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:35.503171716Z",
+  "model": "glm-5.3"
+}

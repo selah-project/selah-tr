@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "genesis 41:54",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Ve Yusuf'un söylediği gibi kıtlığın yedi yılı gelmeye başladı; ve bütün ülkelerde kıtlık oldu, ama bütün Mısır ülkesinde ekmek ⟨ vardı⟩.",
+  "tokens": [
+    {
+      "surface": "ותחלינה",
+      "gloss": "ve başladı"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yılı"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kıtlığın"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "gelmeye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söylediği"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kıtlık"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ülkelerde"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ama bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:34.350649966Z",
+  "model": "glm-5.3"
+}

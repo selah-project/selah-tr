@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Amalek'i ⟨gördü⟩ ve ⟨את⟩ mışlını kaldırdı ve dedi: Ulusların başlangıcı Amalek, ve sonu ⟨sonsuz⟩ yıkım.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek'i"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek'i"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ve kaldırdı"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "mışlını"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "başlangıcı"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "ve sonu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sonsuz"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yıkım"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:42.277545077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kurtar, Yahve! Çünkü hasid sona erdi, çünkü sadıklar insan oğulları arasından yok oldular.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "kurtar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "sona erdi"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "yok oldular"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "sadıklar"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğulları arasından"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:35.667051556Z",
+  "model": "glm-5.3"
+}

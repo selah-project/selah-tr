@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve ⟨את⟩ suçunu Yahve'ye takdim edecek — sürüden kusursuz bir koç, senin takdirin göre suç sunusu olarak, kahine.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suçunu"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "suçunu"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "takdim edecek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "איל",
+      "gloss": "koç"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürü"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "senin takdirin göre"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "suç sunusu olarak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:10.451737768Z",
+  "model": "glm-5.3"
+}

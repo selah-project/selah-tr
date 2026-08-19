@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ağzının sözleri kötülük ve aldatmaca; akıllı olmayı bıraktı, iyilik yapmayı ⟨bıraktı⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "און",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ve aldatmaca"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "bıraktı"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "akıllı olmayı"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "iyilik yapmayı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:38.187639168Z",
+  "model": "glm-5.3"
+}

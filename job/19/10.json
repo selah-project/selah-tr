@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 19:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Her yandan yıktı beni ve ⟨gittim⟩; umudumu bir ağaç gibi söküp aldı.",
+  "tokens": [
+    {
+      "surface": "יתצני",
+      "gloss": "yıktı beni"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "her yandan (çevre)"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ve gittim (yok olup gittim)"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "ve söküp aldı"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "bir ağaç gibi"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "umudumu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:47.416499668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Sadığın ağzı hikmeti mırıldanır ve dili adâleti konuşur.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadığın"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mırıldanır"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmeti"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ve dili"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "konuşur"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adâleti"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:04.048125279Z",
+  "model": "glm-5.3"
+}

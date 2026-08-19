@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Yahve'ye şükredin, adıyla çağırın, halklar arasında O'nun fiillerini bildirin.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükredin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırın"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "bildirin"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "halklar arasında"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "O'nun fiillerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:16.828803300Z",
+  "model": "glm-5.3"
+}

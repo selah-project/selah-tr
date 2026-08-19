@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Bir sözün sonu başından iyidir; ruhu uzun olan, ruhu yüksek olandan iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözün"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "başından"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzun olan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "yüksek olandan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:02.975516229Z",
+  "model": "glm-5.3"
+}

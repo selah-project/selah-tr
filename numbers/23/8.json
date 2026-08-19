@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Neyi delip lanetleyeyim? El lanetlemedi; ve neye öfkeleneyim? Yahve öfkelenmedi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne(yi)"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "delip lanetleyeyim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "lanetledi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ve ne(ye)"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "öfkeleneyim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "öfkelenmedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:20.069656508Z",
+  "model": "glm-5.3"
+}

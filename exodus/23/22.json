@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Çünkü ⟨eğer⟩ gerçekten sesine kulak verirsen ve söylediğim her şeyi yaparsan, düşmanlarınla düşman olacağım ve sana baskı yapanlara baskı yapacağım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kulak vererek"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kulak vereceksen"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sesine"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yaparsan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "söylediğim"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "düşman olacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşmanların"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmanların"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ve baskı yapacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sana baskı yapanlar"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "sana baskı yapanlara"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:45.173359765Z",
+  "model": "glm-5.3"
+}

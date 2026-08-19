@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 42:27",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Ve biri, konak yerinde eşeğine yem vermek için çuvalını ⟨את⟩ açtı, ve gümüşünü ⟨את⟩ gördü — ve işte o torbasının ağzındaydı.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "açtı"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çuvalını"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "çuvalını"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermek için"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "yem"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "eşeğine"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "konak yerinde"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşünü"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "torbasının"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:19.282710433Z",
+  "model": "glm-5.3"
+}

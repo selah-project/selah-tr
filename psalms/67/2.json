@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 67,
+  "translation": "Elohim bize lütfetsin ve bizi kutsasın; yüzünü ⟨את⟩ ile bize parıldatsın. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "bize lütfetsin"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ve bizi kutsasın"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "parıldatsın"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ile bize",
+      "marks": "bize"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:56.853406271Z",
+  "model": "glm-5.3"
+}

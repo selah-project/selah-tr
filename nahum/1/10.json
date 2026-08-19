@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Çünkü dikenler gibi dolanmış ve içkisiyle sarhoş olmuş ⟨olarak⟩ yenilecekler — kuru saman gibi, büsbütün kuru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şimdiki gibi"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "dikenler"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "dolanmış"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "ve içkisiyle"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "sarhoş olmuş"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yenilecekler"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "saman gibi"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "büsbütün"
+    }
+  ],
+  "timestamp": "2026-08-19T10:45:26.344146723Z",
+  "model": "glm-5.3"
+}

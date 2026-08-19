@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Ateşle yakılmış ⟨ve⟩ kesilmiş; senin yüzünün azarından ⟨onlar⟩ yok olacak.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "yakılmış"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "kesilmiş"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "azarından"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "senin yüzünün"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yok olacaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:56.941910478Z",
+  "model": "glm-5.3"
+}

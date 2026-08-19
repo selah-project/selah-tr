@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Elohim'in adamı «Nereye düştü?» dedi; o da ona ⟨את⟩ yeri gösterdi. O da bir odun kesip oraya attı ve demir yüzücu çıkardı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Nereye"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düştü"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ve ona gösterdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ve kesti"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bir odun"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ve attı"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ve yüzdürdü"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "demiri"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:13.377176826Z",
+  "model": "glm-5.3"
+}

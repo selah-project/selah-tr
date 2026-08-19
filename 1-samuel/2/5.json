@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Toklar ekmek karşılığı tutuldular, ve açlar ⟨susmayı⟩ bıraktılar; kısırlık yedi doğurdu, ve çok çocuklu olan solup gitti.",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "toklar"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "ekmek için"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "tutuldular"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "ve açlar"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "bıraktılar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…-e kadar"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "kısırlık(kadın)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "ve çok"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "çocuklu"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "solup gitti"
+    }
+  ],
+  "timestamp": "2026-08-19T09:20:54.548048131Z",
+  "model": "glm-5.3"
+}

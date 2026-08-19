@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Eğitimi seven bilgiyi sever; azardan nefret eden ⟨is⟩ hayvandır.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "seven"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "eğitim"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "seven"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ve nefret eden"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "azar"
+    },
+    {
+      "surface": "בער",
+      "gloss": "hayvan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:33.707330841Z",
+  "model": "glm-5.3"
+}

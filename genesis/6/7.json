@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yahve dedi: İnsanı, yarattığımı, toprağın yüzünden sileceğim; insandan hayvana kadar, sürüngene ve göklerin kuşuna kadar — çünkü yaptıklarıma üzüldüm, çünkü onları ben yaptım.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "sileceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "yarattığımı"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "insandan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürüngene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve kadar"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuşuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "üzüldüm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "onları yaptım"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:13.023090397Z",
+  "model": "glm-5.3"
+}

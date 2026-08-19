@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ben Yahve, sizin Kadoşunuz, İsrail'in Yaratıcısı, sizin Malikiniz.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "sizin Kadoşunuz"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Yaratıcısı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "sizin Malikiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:27.975255756Z",
+  "model": "glm-5.3"
+}

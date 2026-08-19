@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Kral Davut yaşlandı, günlere ⟨erişti⟩; onu giysilerle örttüler, ama ona ısı gelmedi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ve kral"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlandı"
+    },
+    {
+      "surface": "בא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlere"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ve onu örttüler"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "giysilerle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ... olmadı"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ısındı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:33.300206574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ⟨את⟩ kendi evini Şelomo inşa etti, on üç yıl; ve bitirdi ⟨את⟩ bütün evini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kendi evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kendi evini"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "on"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ve bitirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün evini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:49.487862234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ama Yahve'yi bekleyenler güçlerini yeniler; kartallar gibi kanat açıp yükselirler, koşar ama yorulmazlar, yürür ama bitkin düşmezler.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "ama bekleyenler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "yenilerler"
+    },
+    {
+      "surface": "כח",
+      "gloss": "güçlerini"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "yükselirler"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "kanat"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "kartallar gibi"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "koşarlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama olmaz"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "yorulurlar"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yürürler"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama olmaz"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "bitkin düşerler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:47.166762098Z",
+  "model": "glm-5.3"
+}

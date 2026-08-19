@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve Şet yaşadı beş yıl ve yüz yıl, ve ⟨את⟩ Enos'u babası oldu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ve yaşadı"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Şet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ve yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enos'u"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enos"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:58.593724224Z",
+  "model": "glm-5.3"
+}

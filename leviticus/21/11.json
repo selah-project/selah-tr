@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve hiçbir ölü cana yaklaşmayacak; babası için ve annesi için kirlenmeyecek.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ve üzerine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "cana"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mayacak"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girmeyecek"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "babası için"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ve annesi için"
+    },
+    {
+      "surface": "לא",
+      "gloss": "meyecek"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kirlenmeyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:57.841132496Z",
+  "model": "glm-5.3"
+}

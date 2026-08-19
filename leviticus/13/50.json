@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Kâhin ⟨את⟩ lekeye bakacak ve ⟨את⟩ lekeyi yedi gün boyunca kapatacak (karantinaya alacak).",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ve bakacak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leke"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lekeye"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ve kapatacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leke"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lekeyi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:14.591325605Z",
+  "model": "glm-5.3"
+}

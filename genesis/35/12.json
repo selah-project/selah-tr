@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve ⟨את⟩ toprak ki verdim Avraham'a ve Yitshak'a — sana veririm ⟨onu⟩, ve senden sonra zürriyetine veririm ⟨את⟩ toprağı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "toprak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham'a"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "ve Yitshak'a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "veririm onu"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ve zürriyetine"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "senden sonra"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "veririm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:47.203119290Z",
+  "model": "glm-5.3"
+}

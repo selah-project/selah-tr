@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Yahve'nin Ruhu benim aracılığımla konuştu, ⟨O'nun⟩ sözü dilimin üstündedir.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "benim aracılığımla"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ve ⟨O'nun⟩ sözü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünde"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "dilimin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:09.340495759Z",
+  "model": "glm-5.3"
+}

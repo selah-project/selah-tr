@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Şelah otuz yıl yaşadı ve ⟨את⟩ Ever'i doğurdu.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Ve Şelah"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever'i"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever'i"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:03.143868651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve bir nehir Edenden çıkıp bahçeyi ⟨את⟩ sulamak için akardı; ve oradan ayrılır ve dört başlığa ⟨olurdu⟩.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ve nehir"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkıp akar"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "sulamak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahçeyi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bahçe"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ve oradan"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ayrılır"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olurdu"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "dörde"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "başlık"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:45.932352235Z",
+  "model": "glm-5.3"
+}

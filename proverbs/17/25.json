@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kendini tutan bir oğul değil — akılsız oğul babasına öfke, onu doğurana acıdır.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "babasına"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "akılsız"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "ve acı"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "onu doğurana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:51.073987016Z",
+  "model": "glm-5.3"
+}

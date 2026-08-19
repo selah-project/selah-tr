@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve onları evinizin kapı sövelerine ve kapılarınıza yazın.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ve yazın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "kapı sövelerine"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinizin"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ve kapılarınıza"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:22.477398888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Davud ile bütün İsrail evi, Yahve'nin sandığını ⟨את⟩ bağrışmalar ve şofar sesi içinde yukarı taşıyorlardı.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ve Davud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "yukarı taşıyorlardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığını"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "bağrışmalar içinde"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ve sesi içinde"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:15.017129474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 79,
+  "translation": "İlk suçlarımızı bize karşı anımsama; rahmetlerin çabuk öncülük etsin bize, çünkü çok yoksullaştık.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "anımsama"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "suçlarımız"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "çabuk"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "öncülük etsin bize"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmetlerin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "yoksullaştık"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:32.425708926Z",
+  "model": "glm-5.3"
+}

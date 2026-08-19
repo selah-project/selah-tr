@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Toi, Hamat kralı, Duvid'ın Hadadezer'in bütün ordusunu vurduğunu işitti ⟨ki⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "işitti"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurduğunu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Duvid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ordusunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ordusunu"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer'in"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:01.275735406Z",
+  "model": "glm-5.3"
+}

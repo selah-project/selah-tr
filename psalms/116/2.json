@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Çünkü kulağını bana eğdi, ve günlerim boyunca çağıracağım ⟨onu⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "eğdi"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ve günlerim boyunca"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağıracağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:07.657351732Z",
+  "model": "glm-5.3"
+}

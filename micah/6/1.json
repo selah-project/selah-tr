@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Duyun şimdi Yahve'nin söylediğini: Kalk, dağlarla davalaş, tepeler sesini duysun.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "duyun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "söylediğini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söylüyor"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "davalaş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dağlar"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "ve duysunlar"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "tepeler"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sesini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:38.235183370Z",
+  "model": "glm-5.3"
+}

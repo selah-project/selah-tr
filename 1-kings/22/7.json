@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Yehoşafat dedi: Burada Yahve ⟨için⟩ bir peygamber daha yok mu, ve ⟨את⟩ ondan soralım?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "yok mu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve için"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "ve soralım"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ ondan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:43:38.593259974Z",
+  "model": "glm-5.3"
+}

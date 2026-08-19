@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "İhtiyarlardan daha çok ⟨anlayışla⟩ ayırt ediyorum, çünkü bekçilik ettim buyruklarınızın.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ihtiyarlardan"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ayırt ediyorum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "buyruklarınızın"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "bekçilik ettim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:02.418633552Z",
+  "model": "glm-5.3"
+}

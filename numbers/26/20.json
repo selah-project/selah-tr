@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Yehuda'nın oğulları ailelerine göre şunlardı: Şelah'tan Şelaniler ailesi, Peres'ten Peresiler ailesi, Zerah'tan Zerahiler ailesi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldular"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda'nın"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "Şelah'tan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailesi"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Şelaniler"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "Peres'ten"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailesi"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Peresiler"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "Zerah'tan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailesi"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerahiler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:00.790859408Z",
+  "model": "glm-5.3"
+}

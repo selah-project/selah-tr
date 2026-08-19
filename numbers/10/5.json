@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ⟨bir⟩ terua öttürdüğünüzde, doğuda konaklayan ordular yola koyulacaktır.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "ve öttürdüğünüzde"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "terua"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "ve yola koyulacaklar"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ordular"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "konaklayanlar"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "doğuya"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:49.936511713Z",
+  "model": "glm-5.3"
+}

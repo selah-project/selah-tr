@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ hızırvu — çünkü o tırnağını yarar, tırnağında yarık bulunur, ama geviş getirmez — o sizin için murdardır.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hızırvu"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "hızır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "yarar"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "tırnak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ve yarık"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "yarık"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "tırnağında"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ama o"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geviş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "getirmez"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:52.127453155Z",
+  "model": "glm-5.3"
+}

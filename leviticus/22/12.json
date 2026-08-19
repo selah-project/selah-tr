@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve bir kâhinin kızı yabancı bir erkeğe ⟨ait⟩ olursa, o, kutsal şeylerden ayrılan takdimeden yemeyecek.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ve bir kızı"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olursa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bir erkeğe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "takdimeden"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kutsal şeylerin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-meyip"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemeyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:42.289999932Z",
+  "model": "glm-5.3"
+}

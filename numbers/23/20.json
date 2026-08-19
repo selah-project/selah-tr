@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "İşte, kutsamak ⟨emrini⟩ aldım; ve ⟨o⟩ kutsadı, ve ben onu geri çevirmem.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kutsamak"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "aldım"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "onu geri çeviririm"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:09.878433481Z",
+  "model": "glm-5.3"
+}

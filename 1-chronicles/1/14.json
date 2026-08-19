@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "ve ⟨את⟩ Yevusili'yi, ve ⟨את⟩ Emorili'yi ve ⟨את⟩ Girgaşili'yi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Yevusili'yi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevusili'yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Emorili'yi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorili'yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Girgaşili'yi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaşili'yi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:23.339035486Z",
+  "model": "glm-5.3"
+}

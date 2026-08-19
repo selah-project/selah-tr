@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve dedi: Git ve ⟨bu⟩ halka de: Duyasınz duyun, ama anlamayın; görüsü görün, ama bilmeyin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Git"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ve de"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "duyun"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "duyasınız"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama olmaz"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "anlamayın"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ve görün"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "görüsü"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama olmaz"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "bilmeyin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:58.531829783Z",
+  "model": "glm-5.3"
+}

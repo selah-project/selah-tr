@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Rûhâch ile üfledin — onları deniz örttü, kurşun gibi güçlü sulara daldılar.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "üfledin"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "rûhâch ile"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "örttü"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "daldılar"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "kurşun gibi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sulara"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "güçlü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:14.838015645Z",
+  "model": "glm-5.3"
+}

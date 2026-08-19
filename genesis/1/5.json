@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim ışığa \"Gün\" adını verdi, ve karanlığa \"Gece\" adını verdi; ve akşam oldu ve sabah oldu — birinci gün.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve adını verdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ışığa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "\"Gün\""
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ve karanlığa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "adını verdi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "\"Gece\""
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "akşam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:45.990349252Z",
+  "model": "glm-5.3"
+}

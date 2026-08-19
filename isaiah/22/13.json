@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 22:13",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve işte sevinç ve neşe: sığır öldürmek ve koyun kesmek, et yemek ve şarap içmek — yiyelim ve içelim, çünkü yarın öleceğiz!",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinç"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ve neşe"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürmek"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sığır"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ve kesmek"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "koyun"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemek"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "ושתות",
+      "gloss": "ve içmek"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şarap"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "yiyelim"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ve içelim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "yarın"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "öleceğiz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:51.285614416Z",
+  "model": "glm-5.3"
+}

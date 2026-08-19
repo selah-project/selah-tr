@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Elohim, bizi attın, bizi kırdın, öfkelendin — bize geri dön!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "bizi attın"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "bizi kırdın"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "öfkelendin"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "geri dön"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:09.846057768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Sana sığındım, Yahve; ebediyen mahcup olmayayım.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mayım olmayayım"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mahcup olmayayım"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ebediyen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:59.227520189Z",
+  "model": "glm-5.3"
+}

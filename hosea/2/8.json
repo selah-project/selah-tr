@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Bu yüzden, işte, ⟨את⟩ yolunu dikenlerle çeviriyorum, ve ⟨את⟩ onun çitini örüyorum, ve patikalarını bulamayacak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "bu yüzden"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "שך",
+      "gloss": "çeviriyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yolunu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "dikenlerle"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ve örüyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çitini"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "çitini"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "ve patikalarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bulacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:54.725218794Z",
+  "model": "glm-5.3"
+}

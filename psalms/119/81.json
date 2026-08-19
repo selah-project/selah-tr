@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kurtuluşun için canım tükendi; senin sözün için umutla bekledim.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "kurtuluşun için"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "senin sözün için"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "umutla bekledim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:40.827897209Z",
+  "model": "glm-5.3"
+}

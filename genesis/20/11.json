@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 20:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Avraham dedi: «Çünkü öyle düşündüm: kesin ⟨yok⟩ bu yerde Elohim korkusu; beni eşim yüzünden öldüreceklerdir.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "düşündüm"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kesin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨yok⟩"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "korkusu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "bu yerde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והרגוני",
+      "gloss": "beni öldüreceklerdir"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sebebiyle"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "eşim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:39.281439864Z",
+  "model": "glm-5.3"
+}

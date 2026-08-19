@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Yahve'ye kutsal ihtişam içinde eğilin; O'nun yüzünden titreyin, bütün ⟨⟨the⟩⟩ yer.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "eğilin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "ihtişamında"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "titreyin"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "O'nun yüzünden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:33.873984741Z",
+  "model": "glm-5.3"
+}

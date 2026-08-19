@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 52,
+  "translation": "Çünkü şöyle diyor Yahve: Karşılıksız satıldınız ve gümüşle değil kurtarılacaksınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "karşılıksız"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "satıldınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşle"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "kurtarılacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T10:01:40.887037248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Yahve'yi hep önüme koydum; çünkü sağ tarafımdadır, sarsılmam ⟨hiç⟩.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "koydum (denk getirdim)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "önüme (karsımda)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hep (sürekli)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "sağ tarafımda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla (değil)"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarsılırım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:06.550417671Z",
+  "model": "glm-5.3"
+}

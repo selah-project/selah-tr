@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Bütün yapıtların seni övecek, Yahve, ve hasidlerin seni kutsayacak.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "seni övecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "yapıtların"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ve hasidlerin"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "seni kutsayacak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:23.402351075Z",
+  "model": "glm-5.3"
+}

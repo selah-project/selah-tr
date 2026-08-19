@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ona şöyle dedi: «Böyle dedi Yahve: Çünkü ⟨את⟩ adamı — heremim olanı — elinden salıverdin, canın onun canı yerine, halkın da onun halkı yerine olacak.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "salıverdin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "heremim olanı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "onun canı"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ve halkın"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onun halkı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:35.070663502Z",
+  "model": "glm-5.3"
+}

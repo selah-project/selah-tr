@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve Esav dedi: Yanımdaki halktan kimilerini ⟨את⟩ seninle bırakayım lütfen. Ve o dedi: Bu neden gereksin? Efendimin gözlerinde lütuf bulayım.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "bırakayım"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yanımdayken",
+      "marks": "halk (yanımdaki)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "bulayım"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlerinde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:40.395809837Z",
+  "model": "glm-5.3"
+}

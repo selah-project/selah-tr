@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve gözlerini kaldırdı ve ⟨את⟩ kadınları ve ⟨את⟩ çocukları gördü ve dedi: Bunlar sana kimler? Ve dedi: Elohim'in kuluna lutfederek verdiği çocuklar ⟨הם⟩.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ve kaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlerini"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözlerini"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadınları"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kadınları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "çocukları"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "çocukları"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "çocuklar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onları"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "lutfederek verdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuluna"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kuluna"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:39.261981221Z",
+  "model": "glm-5.3"
+}

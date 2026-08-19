@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ⟨oldu⟩ — yağmur yerin üzerine kırk gün ve kırk gece ⟨yağdı⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yağmur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ve kırk"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:59.768604893Z",
+  "model": "glm-5.3"
+}

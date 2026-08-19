@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "O'na şakıyın, O'na çalgı çalıp ilahi söyleyin, bütün harikalarını düşünün\/konuşun.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "şakıyın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'na"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "çalgı çalıp ilahi söyleyin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'na"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "düşünün\/konuşun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "harikalarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:16.829019564Z",
+  "model": "glm-5.3"
+}

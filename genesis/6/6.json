@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yahve, insanı yeryüzünde yaptığına üzüldü ve kalbine kadar kederlendi.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ve üzüldü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığına"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ve kederlendi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbine"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:13.022891057Z",
+  "model": "glm-5.3"
+}

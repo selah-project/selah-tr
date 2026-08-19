@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Elohim'i anarım ve inlerim; ⟨kendimle⟩ konuşurum ve ruhum bayılır. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "anarım"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ve inlerim"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "konuşurum"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ve bayılır"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:57.014543732Z",
+  "model": "glm-5.3"
+}

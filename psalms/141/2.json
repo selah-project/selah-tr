@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 141,
+  "translation": "Duam senin önünde tütsü gibi yerleşsin; avuçlarımın yükselişi akşam sunusu gibi olsun.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "yerleşsin"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duam"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tütsü"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "senin önünde"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "yükselişi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "avuçlarımın"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "sunusu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "akşam"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:56.345852641Z",
+  "model": "glm-5.3"
+}

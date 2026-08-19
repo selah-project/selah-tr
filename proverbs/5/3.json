@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çünkü yabancı kadının dudakları bal damlatır, damağı avuç yağından daha pürüzsüzdür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "bal (damlası)"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "damlatır"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudakları"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "yabancı kadın"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "ve pürüzsüzdür"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yağdan"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "damağı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:13.041447106Z",
+  "model": "glm-5.3"
+}

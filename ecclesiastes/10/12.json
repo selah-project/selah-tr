@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Bilgenin ağzının sözleri lütuftur; ama akılsızın dudakları onu yutar.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilgenin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuftur"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "dudakları"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "akılsızın"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "onu yutar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:49.745564114Z",
+  "model": "glm-5.3"
+}

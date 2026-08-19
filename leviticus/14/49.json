@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Evi arındırmak için iki kuş, sedir ağacı, kokarın kızılı ve mercanköşkü alsın.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "alsın"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "arındırmak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "kuş"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ve ağaç"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedir"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ve kokarın kızılı"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "(kızıl)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ve mercanköşk"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:20.339632469Z",
+  "model": "glm-5.3"
+}

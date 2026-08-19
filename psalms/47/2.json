@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Ey bütün halklar, el çırpın; Elohim'e sevinç çığlığı sesiyle bağırın!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "çırpın"
+    },
+    {
+      "surface": "כף",
+      "gloss": "el (avuç)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bağırın"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sesiyle"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sevinç çığlığı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:09.452926377Z",
+  "model": "glm-5.3"
+}

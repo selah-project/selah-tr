@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Arzularından ayrılmadılar, ⟨hâlâ⟩ yiyecekleri ağızlarındayken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ayrıldılar"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "arzularından"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hâlâ"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "yiyecekleri"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ağızlarındayken"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:07.719333985Z",
+  "model": "glm-5.3"
+}

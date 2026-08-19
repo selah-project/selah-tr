@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Onları arayacaksın ve onları bulmayacaksın — seninle kavga eden adamlar; yok gibi, hiçlik gibi olacaklar seninle savaşan adamlar.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "onları arayacaksın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "onları bulacaksın"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "senin kavganın"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaklar"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "yok gibi"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "ve hiçlik gibi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "senin savaşının"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:05.976351827Z",
+  "model": "glm-5.3"
+}

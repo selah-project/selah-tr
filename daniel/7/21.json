@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Görüyordum, ve işte o boynuz kutsallarla savaş yapıyordu ve onlara üstün geliyordu.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "görüyordum"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "işte ⟨idim⟩"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "ve o boynuz"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "o"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "yapıyordu"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "kutsallar"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "ve üstün geliyordu"
+    },
+    {
+      "surface": "להון",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:44:23.592298648Z",
+  "model": "glm-5.3"
+}

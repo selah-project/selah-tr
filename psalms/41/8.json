@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Birlikte ⟨bana⟩ karşı fısıldaşır bütün nefret edenlerim; ⟨bana⟩ karşı kötülük kurarlar ⟨bana⟩.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨bana⟩ karşı"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "fısıldaşır"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nefret edenlerim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨bana⟩ karşı"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "kurarlar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T12:36:39.453334819Z",
+  "model": "glm-5.3"
+}

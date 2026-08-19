@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 110,
+  "translation": "Yoldaki dereden içecek; ⟨⟨bu⟩⟩ yüzden başını kaldıracak.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "dereden"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoldaki"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "içecek"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüzden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "kaldıracak"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:56.245823371Z",
+  "model": "glm-5.3"
+}

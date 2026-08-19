@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 150,
+  "translation": "O'nu tef ve dansla övün, O'nu telli çalgılar ve ugav ile övün.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "O'nu övün"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "tef ile"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "ve dansla"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "O'nu övün"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "telli çalgılarla"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ve ugav ile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:42.497957828Z",
+  "model": "glm-5.3"
+}

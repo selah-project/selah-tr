@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ben ise bol lütfunla evine gireceğim, kutsal sarayına korkun içinde yere kapanacağım.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lütfunla"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "gireceğim"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evine"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "yere kapanacağım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "sarayına"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "korkun içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:43.510691404Z",
+  "model": "glm-5.3"
+}

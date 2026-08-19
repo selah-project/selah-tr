@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "⟨את⟩ yağı yiyorsunuz, ⟨את⟩ yünü giyiyorsunuz, besiliyi kesiyorsunuz, ⟨את⟩ sürüyü otlatmıyorsunuz.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyorsunuz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yünü"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "yünü"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "giyiyorsunuz"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "besiliyi"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kesiyorsunuz"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürüyü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "otlatıyorsunuz"
+    }
+  ],
+  "timestamp": "2026-08-19T10:34:59.692227320Z",
+  "model": "glm-5.3"
+}

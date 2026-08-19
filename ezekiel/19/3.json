@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve yavrularından biri yetişti; genç bir aslan oldu; avı parçalamayı öğrendi — insan yedi.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "ve yetişti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "yavrularından"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "genç aslan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "ve öğrendi"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "parçalamayı"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "avı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:27:37.674577934Z",
+  "model": "glm-5.3"
+}

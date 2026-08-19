@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Tarla ve içindeki her şey zıplasın; o zaman ormanın bütün ağaçları sevinçle ötecek.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "zıplasın"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "içindeki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun içinde"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ötecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağaçları"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ormanın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:33.874428359Z",
+  "model": "glm-5.3"
+}

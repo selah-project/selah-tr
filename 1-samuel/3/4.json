@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Yahve Şemuël'e seslendi; o da «İşte ben!» dedi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ve seslendi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "İşte ben!"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:09.053986307Z",
+  "model": "glm-5.3"
+}

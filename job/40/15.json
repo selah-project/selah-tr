@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 40:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "İşte şimdi Behemot'u, ki onu seninle birlikte yarattım; otu sığır gibi yer.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "Behemot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yarattım"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "otu"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "sığır gibi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T11:33:13.868431924Z",
+  "model": "glm-5.3"
+}

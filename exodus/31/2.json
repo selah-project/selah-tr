@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Gör, adıyla çağırdım Betzalel'i, Uri oğlunu, Hur oğlunun oğlunu, Yehuda aşiretinden.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "aşiretinden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:25.792228151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü her ne kadar büyütseler ⟨את⟩ çocuklarını, yoksun bırakacağım onları insanlardan; çünkü ayrıca vay hâline onların, ben onlardan ayrıldığımda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "her ne kadar"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "büyütseler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çocuklarını"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "çocuklarını"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "yoksun bırakacağım"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "insanlardan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hâline onların"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ayrıldığımda"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:49.630369066Z",
+  "model": "glm-5.3"
+}

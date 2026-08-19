@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 25:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yovil'den sonraki yılların sayısına göre komşunuzdan ⟨את⟩ satın alacaksınız; hasat yıllarının sayısına göre o size satacak.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "sayısına göre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yılların"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonrasındaki"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "yovil'den"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "satın alacaksın"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ -den",
+      "marks": "komşunuzdan"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "komşunuzdan"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayısına göre"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yıllarının"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasat\/ürün"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "o satacak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:30.638049238Z",
+  "model": "glm-5.3"
+}

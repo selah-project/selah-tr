@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "İnsan işine çıkar ve akşama dek emeğine.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "işine"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ve emeğine"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "-e dek"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "akşam"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:11.729243641Z",
+  "model": "glm-5.3"
+}

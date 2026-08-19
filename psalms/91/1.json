@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Elyon'un sığınağında oturan, Şadday'ın gölgesinde konaklar.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sığınağında"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon'un"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "gölgesinde"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday'ın"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "konaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:32.541782821Z",
+  "model": "glm-5.3"
+}

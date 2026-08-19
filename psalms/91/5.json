@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Gece korkusundan korkmayacaksın, gündüz uçan oktan ⟨da⟩ korkmayacaksın.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "korkmayacaksın"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "korkusundan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "oktan"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "uçan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:28.861745033Z",
+  "model": "glm-5.3"
+}

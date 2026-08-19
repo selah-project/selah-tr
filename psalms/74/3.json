@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Adımlarını kaldır ⟨yönel⟩ sonsuz yıkıntılara doğru; düşman kutsalda ⟨yaptığı⟩ bütün kötülükleri ⟨yaptı⟩.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "kaldır"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "adımlarını"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "yıkıntılara doğru"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötülük(leri)"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kutsalda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:51.275818831Z",
+  "model": "glm-5.3"
+}

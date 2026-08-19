@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Onların acıları çoğalacak — başka ⟨tanrıların⟩ ardından koştular; içkilerini kanla dökmeyeceğim, ve isimlerini ⟨את⟩ dudaklarıma almayacağım.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "çoğalacak"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "acıları \/ putları"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "koştular"
+    },
+    {
+      "surface": "בל",
+      "gloss": "-meyeceğim"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "dökmeyeceğim"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "içkilerini"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "kanla"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ve -mem"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "almayacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isimlerini"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "isimlerini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudaklarıma"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:05.466716187Z",
+  "model": "glm-5.3"
+}

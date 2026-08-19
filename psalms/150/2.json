@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 150,
+  "translation": "O'nu gücüyle yaptığı işlerde övün, O'nu büyüklüğünün çokluğuna göre övün.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "O'nu övün"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "gücüyle yaptığı işlerinde"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "O'nu övün"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "çokluğuna göre"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "büyüklüğünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:42.497659537Z",
+  "model": "glm-5.3"
+}

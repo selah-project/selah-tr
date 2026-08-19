@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Koruşuya — 'Şafak geyiği' üzerine — David'e ait mezmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koruşuya"
+    },
+    {
+      "surface": "על",
+      "gloss": "— üzerine"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "geyik"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "şafağın"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e ait"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:12.952128274Z",
+  "model": "glm-5.3"
+}

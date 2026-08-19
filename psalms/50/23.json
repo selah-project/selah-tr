@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Şükran sunan beni yüceltir; ⟨ve⟩ ⟨ö⟩ yolu düzene koyan ⟨kimseye⟩ Elohim'in kurtuluşunu göstereceğim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "şükran"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "beni yüceltir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve koyan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "göstereceğim"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "kurtuluşunu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:55.656164358Z",
+  "model": "glm-5.3"
+}

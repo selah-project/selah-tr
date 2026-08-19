@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Çünkü servet sonsuza dek ⟨sürmez⟩, taç da kuşak kuşağa ⟨kalmaz⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "servet"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "taç"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kuşağa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kuşak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:26.108824093Z",
+  "model": "glm-5.3"
+}

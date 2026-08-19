@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "İsrail Yaratıcısı'nı ⟨את⟩ unuttu ve saraylar inşa etti; Yahuda ise çok sayıda surlu şehir ⟨kurdu⟩; ben de şehirlerinin üzerine ateş göndereceğim ve onun kalelerini yiyecek.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "ve unuttu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaratıcısı'nı"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Yaratıcısı'nı"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "saraylar"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ve Yahuda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çoğalttı"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şehirler"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "surlu"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "ve göndereceğim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "şehirlerinin üzerine"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ve yiyecek"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "kalelerini"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:32.039745280Z",
+  "model": "glm-5.3"
+}

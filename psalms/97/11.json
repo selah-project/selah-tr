@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 97,
+  "translation": "Doğruya ışık ekilmiştir, doğru yürekliye sevinç.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ekilmiştir"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "doğruya"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "ve doğru yürekliye"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinç"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:59.083414109Z",
+  "model": "glm-5.3"
+}

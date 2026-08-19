@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Yahve herkese iyidir, ve rahmetleri bütün yapıtlarının üzerindedir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herkese"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ve rahmetleri"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "yapıtlarının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:23.402160213Z",
+  "model": "glm-5.3"
+}

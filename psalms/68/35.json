@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Elohim'e gücü verin ⟨O'na⟩; Israel'in üstünde ⟨O'nun⟩ ululuğu, ve bulutlarda ⟨O'nun⟩ gücü.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "עז",
+      "gloss": "gücü"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel'in"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "ululuğu"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ve gücü"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "bulutlarda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:33.403599330Z",
+  "model": "glm-5.3"
+}

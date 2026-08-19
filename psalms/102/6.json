@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "İnlememin sesinden kemiğim etime yapıştı.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "sesinden"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "inlememin"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "yapıştı"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kemiğim"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "etime"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:17.007688356Z",
+  "model": "glm-5.3"
+}

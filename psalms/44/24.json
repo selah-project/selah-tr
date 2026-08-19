@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Uyan! Niçin uyuyorsun, Adonay? Kalk! Bizi ebediyen terk etme!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niçin"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "uyuyorsun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "terk etme"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ebediyen"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:00.102958685Z",
+  "model": "glm-5.3"
+}

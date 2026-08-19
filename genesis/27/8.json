@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve şimdi oğlum, sesime kulak ver, sana emrettiğim şeye ⟨את⟩ ⟨⟨uy⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sesime"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "şeye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "emrediyorum"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:17.625680628Z",
+  "model": "glm-5.3"
+}

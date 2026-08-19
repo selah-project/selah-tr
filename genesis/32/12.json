@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Beni kurtar, lütfen, kardeşimin elinden, Esav'ın elinden; çünkü ondan korkuyorum — ⟨את⟩ — gelip beni vurmasın, anneyi çocukların üstüne.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşimin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav'ın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "korkuyorum"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "ondan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "…-masın"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelip"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "beni vurmasın"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anne"
+    },
+    {
+      "surface": "על",
+      "gloss": "…in üstüne"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "çocuklar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:54.641223387Z",
+  "model": "glm-5.3"
+}

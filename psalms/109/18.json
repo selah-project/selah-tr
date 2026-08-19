@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Ve laneti giyindi ⟨onu⟩ giysi gibi, ve su gibi içine girdi, ve yağ gibi kemiklerine.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "ve giyindi"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "laneti"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "giysisi gibi"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ve girdi"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "su gibi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "içine"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "ve yağ gibi"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "kemiklerine"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:17.179335Z",
+  "model": "glm-5.3"
+}

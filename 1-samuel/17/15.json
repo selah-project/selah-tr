@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Davud gidip Şaul'dan geri dönüyordu, Beyt-Lehem'de babasının ⟨את⟩ sürüsünü gütmek için.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ve Davud"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gidiyordu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ve dönüyordu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "gütmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürüsünü"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürü"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:28.612609415Z",
+  "model": "glm-5.3"
+}

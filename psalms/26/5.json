@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Kötülük yapanların topluluğundan nefret ettim ve kötülerle oturmayacağım.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nefret ettim"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "topluluğunu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötülük yapanların"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve … ile"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "oturacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:14.491314678Z",
+  "model": "glm-5.3"
+}

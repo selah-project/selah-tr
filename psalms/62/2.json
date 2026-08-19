@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Yalnız Elohim'e karşı sessizleşir canım; O'ndandır kurtuluşum.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sessizleşir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "O'ndan"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kurtuluşum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:22.423062469Z",
+  "model": "glm-5.3"
+}

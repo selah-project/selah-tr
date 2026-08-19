@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Yahve alçakgönüllüleri destekler, kötüleri yeryüzüne kadar alçaltır.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "destekler"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçakgönüllüleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "alçaltır"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüleri"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:11.698040198Z",
+  "model": "glm-5.3"
+}

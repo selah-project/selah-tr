@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "David sana ne ekleyebilir daha, kulunun şerefine? Ve sen ⟨את⟩ kulunu bildin, ⟨את⟩ kulun olarak.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ekleyebilir"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "şerefine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunun"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulunu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bildin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:59:14.121223093Z",
+  "model": "glm-5.3"
+}

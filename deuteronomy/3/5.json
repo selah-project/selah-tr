@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Bütün bu şehirler surlu, yüksek duvar, kapılar ve sürgü ile ⟨idi⟩; surları olmayan köy şehirleri çok çok ⟨sayıda⟩ ayrıca.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şehirler"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "surlu\/kaleli"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "duvar"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "yüksek"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "kapılar"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ve sürgü"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ayrıca\/…den başka"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "…şehirleri"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "sursuz köylerin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:41.444762864Z",
+  "model": "glm-5.3"
+}

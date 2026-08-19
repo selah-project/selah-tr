@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Kulun David uğruna, maşîahının yüzünü çevirme.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-me"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "çevirme"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "maşîahının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:00.347280283Z",
+  "model": "glm-5.3"
+}

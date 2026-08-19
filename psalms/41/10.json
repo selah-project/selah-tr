@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Hatta barışığım olan adam, kendisine güvendiğim, ekmeğimi yiyen, topuğunu bana karşı büyüttü.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hatta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "barışığım"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvendiğim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "yiyen"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ekmeğimi"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "büyüttü"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "topuğunu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:46.012752800Z",
+  "model": "glm-5.3"
+}

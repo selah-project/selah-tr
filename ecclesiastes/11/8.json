@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü insan birçok yıl yaşarsa ⟨olsun⟩, hepsinde sevinç duysun; ve ⟨את⟩ karanlık günlerini anımsasın; çünkü çok olacaklar; bütün ⟨gelen⟩ heveldir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıllar"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çok"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşarsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "hepsinde"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinç duysun"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ve anımsasın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günleri"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerini"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "karanlığın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çok"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaklar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "gelen"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:34.815060292Z",
+  "model": "glm-5.3"
+}

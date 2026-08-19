@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 13:14",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve olacaktır ki yarın oğlun sana sorup diyecek: 'Bu nedir?' — ve ona diyeceksin: 'Güçlü el ile Yahve bizi Mısır'dan, köleler evinden çıkardı.'",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ve olacaktır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "sana soracak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlun"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "yarın"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ve diyeceksin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "bizi çıkardı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kölelerin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:22.763010562Z",
+  "model": "glm-5.3"
+}

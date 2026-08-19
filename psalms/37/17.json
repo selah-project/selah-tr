@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Çünkü kötülerin kolları kırılacaktır, ama doğruları destekleyen Yahve'dir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "kolları"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "kırılacaktır"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ama destekleyen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "doğruları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:21.631998785Z",
+  "model": "glm-5.3"
+}

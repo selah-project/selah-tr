@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve kâhin parmağını kandan batıracak ve Yahve'nin önünde, perdenin yüzüne ⟨את⟩ yedi kez serpecek.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ve batıracak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "parmağını"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ve serpecek"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kez"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdenin yüzünü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:40.952029856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Yahve Sara'yı ⟨את⟩ söylediği gibi ziyaret etti, ve Yahve Sara'ya söylediği gibi yaptı ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ve Yahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ziyaret etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara'yı"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "söylediği gibi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söylemiş olduğu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sara'ya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "konuştuğu gibi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuşmuş olduğu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:11.108755114Z",
+  "model": "glm-5.3"
+}

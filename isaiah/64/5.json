@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Ve hepimiz murdar gibi olduk ve bütün doğruluklarımız adet bezine benzer; hepimiz yaprak gibi solduk ve suçlarımız rüzgâr gibi bizi alıp götürdü.",
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "ve olduk"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "murdar gibi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "hepimiz"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "ve bez gibi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "adet(le kirli)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "doğruluklarımız"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ve solduk"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "yaprak gibi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "hepimiz"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "ve suçlarımız"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "rüzgâr gibi"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "bizi alıp götürdü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:04:11.847195302Z",
+  "model": "glm-5.3"
+}

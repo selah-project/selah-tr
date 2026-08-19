@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Gelin, evlatlar, bana kulak verin; Yahve korkusunu size öğreteceğim.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Gelin"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "evlatlar"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kulak verin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "korkusunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "size öğreteceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:03.935571986Z",
+  "model": "glm-5.3"
+}

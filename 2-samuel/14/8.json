@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kral kadına «Evine git, ben senin hakkında emir vereceğim» dedi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e karşı"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadına"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "git"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "evine"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "emir vereceğim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senin hakkında"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:53.715798863Z",
+  "model": "glm-5.3"
+}

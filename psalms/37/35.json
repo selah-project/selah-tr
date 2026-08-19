@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Zorba bir kötüyü gördüm; kendini yemyeşil, yerli bir ağaç gibi yaymış ⟨halde⟩.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "zorba"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "ve kendini yaymış"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "yerli ağaç gibi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yemyeşil"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:24.341700619Z",
+  "model": "glm-5.3"
+}

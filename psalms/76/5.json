@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 76,
+  "translation": "Parlıyorsun sen, yücesin ⟨sen⟩, av dağlarından ⟨daha⟩ ⟨yüce⟩.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "parlıyorsun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "yücesin"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "dağlarından"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:34.998120198Z",
+  "model": "glm-5.3"
+}

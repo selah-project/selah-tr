@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 87,
+  "translation": "Yahve, halkları yazarken sayacak: «İşte bu ⟨orada⟩ doğdu.» Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sayacak"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "yazarken"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halkları"
+    },
+    {
+      "surface": "זה",
+      "gloss": "işte bu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:20.124862026Z",
+  "model": "glm-5.3"
+}

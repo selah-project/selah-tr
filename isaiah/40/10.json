@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "İşte Adonay Yahve güçle gelir ve kolu O'nun için hükmeder; işte ödülü O'nun ⟨את⟩ yanındadır ve işinin karşılığı O'nun önündedir.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "güçle"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelir"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ve kolu"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "hükmeder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'nun için"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ödülü"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ödülü"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "ve işinin karşılığı"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "O'nun önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:47.406525788Z",
+  "model": "glm-5.3"
+}

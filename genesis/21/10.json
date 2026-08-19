@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Avraham'a dedi: Bu cariyeyi ve oğlunu ⟨את⟩ kov; çünkü bu cariyenin oğlu benim oğlumla, Yitshak'la birlikte mirasçı olmayacaktır.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham'a"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "kov"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "cariyeyi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "mirasçı olmayacak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "cariyenin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak'la"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:45.785164629Z",
+  "model": "glm-5.3"
+}

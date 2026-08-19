@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Senin korkun ⟨değil mi⟩ güvencilğin, ümidin ve yollarının tamlığı?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "senin korkun"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "güvencilğin"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "ümidin"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "ve tamlığı"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "yollarının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:00.043555158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Mitsrajim kralına bildirildi ki halk kaçtı; ve Paroh'un ve kullarının yüreği halka karşı çevrildi, ve dediler: Bu ne diye yaptık, ki İsrail'i ⟨את⟩ kulluğumuzdan salıverdik?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bildirildi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim'in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ve çevrildi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yüreği"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ve kullarının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "yaptık"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "salıverdik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'i"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "kulluğumuzdan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:28.882536068Z",
+  "model": "glm-5.3"
+}

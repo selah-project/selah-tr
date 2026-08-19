@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Kutludur Yahve, İsrail'in Elohim'i, ⟨ezeli⟩ olandan ⟨ebedi⟩ olana dek. Amin ve amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutludur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "⟨ezeli⟩ olandan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve dek"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨ebedi⟩ olana"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ve amin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:37.924908250Z",
+  "model": "glm-5.3"
+}

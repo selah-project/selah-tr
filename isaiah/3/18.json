@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "O günde Adonay ⟨את⟩ ayak bilekliklerinin süsünü, ve alın bantlarını, ve hilalleri kaldıracak.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "o günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "kaldıracak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayak bilekliklerinin süsünü"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "süsünü"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "ayak bileklikleri"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "ve alın bantları"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "ve hilaller"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:42.286087531Z",
+  "model": "glm-5.3"
+}

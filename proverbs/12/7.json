@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kötüler devrilir ve ⟨artık⟩ yokturlar; sadıkların evi ise ayakta kalır.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "devrilir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "ve yokturlar"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ve evi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sadıkların"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ayakta kalır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:15.094016386Z",
+  "model": "glm-5.3"
+}

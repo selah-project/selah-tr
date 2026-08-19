@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Üzerimden aşağı kaldır ⟨חרpaha⟩ hakareti ve küçümsemeyi, çünkü tanıklıklarını korudum.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "kaldır"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "üzerimden"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hakaret"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ve küçümseme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tanıklıklarını"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "korudum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:48.198406111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Lea, doğurmayı bıraktığını görünce cariyesi Zilpa'yı aldı ve onu Yaakov'a ⟨את⟩ eş olarak Yaakov'a verdi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "durmuştu"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "doğurmaktan"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "cariyesi"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onları",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov'a"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "eş olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:56.935811416Z",
+  "model": "glm-5.3"
+}

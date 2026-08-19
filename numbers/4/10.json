@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve koyacaklar onu ve ⟨את⟩ bütün kaplarını tuhaş derisi örtüye, ve koyacaklar taşıyıcı direğin üzerine.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ve koyacaklar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün kapları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "kapları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "örtü"
+    },
+    {
+      "surface": "עור",
+      "gloss": "derisi"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tuhaş"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ve koyacaklar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "taşıyıcı direk"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:26.431341512Z",
+  "model": "glm-5.3"
+}

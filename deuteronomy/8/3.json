@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve seni alçalttı ve seni acıktırdı ve seni ⟨את⟩ man ile yedirdi — ki sen bilmiyordun ve ataların da bilmiyorlardı — sana bildirmek için ki: ekmek üzerinde değil yalnız, insan yaşar; çünkü Yahve'nin ağzından çıkan her şey üzerinde insan yaşar.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "ve seni alçalttı"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "ve seni acıktırdı"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "ve seni yedirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man ile"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sen bilmiyordun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "bilmiyorlardı"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ataların"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "sana bildirmek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşar"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "çıkan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşar"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:17.432922601Z",
+  "model": "glm-5.3"
+}

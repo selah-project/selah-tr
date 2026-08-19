@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve Yişmael'in kızı, Nevayot'un kızkardeşi Boşemat'i ⟨את⟩ [aldı].",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Boşemat'i"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Boşemat'i"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kızı"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yişmael'in"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kızkardeşi"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayot'un"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:17.281216316Z",
+  "model": "glm-5.3"
+}

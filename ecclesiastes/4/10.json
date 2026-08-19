@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Çünkü düşerlerse, biri dostunu kaldırır; ama tek olan düşerse, onu kaldıracak ikincisi yoktur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "düşerlerse"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "kaldırır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dostunu"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "dostunu"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tek olan"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "düşerse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikincisi"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "onu kaldıracak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:27.858789515Z",
+  "model": "glm-5.3"
+}

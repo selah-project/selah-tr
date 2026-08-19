@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Hiçbir ulusa böyle yapmamıştır; ⟨onlar⟩ yasalarını hiç bilmezler. Yah'ı övün!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmıştır"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ulusa"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ve yasaları"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hiç"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "bilmezler"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:20.264932048Z",
+  "model": "glm-5.3"
+}

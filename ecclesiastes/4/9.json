@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "İkililer tekten iyidir, çünkü emeklerinde onlara iyi bir kar vardır.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "iyidirler"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ikililer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יש",
+      "gloss": "vardır"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "emeklerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:27.858554856Z",
+  "model": "glm-5.3"
+}

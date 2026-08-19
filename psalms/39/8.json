@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Ve şimdi, neyi bekledim? Adonay, umudum sensin ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "bekledim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "umudum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sende\/senin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨odur⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:55.407087528Z",
+  "model": "glm-5.3"
+}

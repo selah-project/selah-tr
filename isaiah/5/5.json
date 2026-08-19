@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve şimdi ⟨את⟩ size bildireyim, dalkırımıma ne yapacağımı: çitini kaldıracağım ve ⟨o⟩ yakılacak; duvarını yıkacağım ve ⟨o⟩ çiğnenecek.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "bildireyim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ size",
+      "marks": "siz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yapacağımı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapıyorum"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "dalkırımıma"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "kaldıracağım"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "çitini"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "yakılmaya"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "yıkacağım"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "duvarını"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olacak"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "çiğnenmeye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:12.459370187Z",
+  "model": "glm-5.3"
+}

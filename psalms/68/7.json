@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Elohim yalnızları evde yerleştirir, bağlıları esenliğe çıkarır; ancak başkaldıranlar kuru bir yerde otururlar.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "yerleştirir"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "yalnızları"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "eve"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "çıkarır"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "bağlıları"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "esenliğe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "başkaldıranlar"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "otururlar"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "kuru bir yerde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:28.030737996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Bana kulak verin, doğruyu izleyenler, Yahve'yi arayanlar: bakın sizi yonttuğu kayaya ve sizi oyduğu çukurun kovuğuna.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "kulak verin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "izleyenler"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğruyu"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arayanlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kayaya"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "yontulduğunuz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "kovuğuna"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çukurun"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "oyulduğunuz"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:55.196697547Z",
+  "model": "glm-5.3"
+}

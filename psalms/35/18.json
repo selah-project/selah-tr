@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Seni büyük toplulukta öveceğim, güçlü bir halk içinde seni yücelteceğim.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Seni öveceğim"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "top lulukta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "halk içinde"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "seni yücelteceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:37.880320612Z",
+  "model": "glm-5.3"
+}

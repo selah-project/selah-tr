@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Çünkü bu gün sizin için kefaretle örtülecek — sizi arıtsın diye bütün günahlarınızdan ⟨את⟩ sizin için; Yahve'nin önünde arınacaksınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "kefaretle örtülecek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "arıtmak için"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün...-dan"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "günahlarınızdan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "arınacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:32.052046108Z",
+  "model": "glm-5.3"
+}

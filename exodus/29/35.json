@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Aharon'a ve oğullarına böyle yapacaksın, tüm ⟨o⟩ şeylere göre ki sana emrettim; yedi gün ellerini dolduracaksın.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon'a"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ve oğullarına"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tümüne göre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "emrettim"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩ seni",
+      "marks": "sana emrettim"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "dolduracaksın"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ellerini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:42.701179372Z",
+  "model": "glm-5.3"
+}

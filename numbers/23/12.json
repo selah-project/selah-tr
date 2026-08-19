@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve cevap verdi ve dedi: Yahve'nin ağzıma koyduğu şeyi ⟨את⟩, onu ⟨את⟩ konuşmak için gözetmez miyim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ve cevap verdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "koyduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzıma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "gözetmez miyim"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "konuşmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:18.113152378Z",
+  "model": "glm-5.3"
+}

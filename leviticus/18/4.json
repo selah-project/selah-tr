@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "⟨את⟩ hükümlerimi yapacaksınız ve ⟨את⟩ kararlarımı koruyacaksınız, onlarda yürümek için; Ben Yahve, sizin Elohim'inizim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hükümlerimi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hükümlerimi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapacaksınız"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kararlarımı"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "kararlarımı"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "koruyacaksınız"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yürümek için"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:28.681151237Z",
+  "model": "glm-5.3"
+}

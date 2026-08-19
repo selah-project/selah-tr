@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çölde yürüyüp Edom ülkesini ⟨את⟩ ve Moav ülkesini ⟨את⟩ dolaşarak geçti; güneşin doğusundan Moav ülkesine geldi ve Arnon'un öte yakasında konakladılar; Moav sınırına girmediler, çünkü Arnon Moav'ın sınırıdır.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yürüdü"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "dolaştı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom ülkesini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesini"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Moav ülkesini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesini"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "doğusundan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ülkesine"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "konakladılar"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "öte yakasında"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon'un"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "באו",
+      "gloss": "girdiler"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "sınırına"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sınırıdır"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:34.018481547Z",
+  "model": "glm-5.3"
+}

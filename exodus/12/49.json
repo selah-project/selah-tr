@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Tek bir Torah ⟨olacak⟩ yerli doğan için ve aranızda konuk olan yabancı için.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tek bir"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨olacak⟩"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "yerli doğan için"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ve yabancı için"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "konuk olan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "aranızda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:01.668984182Z",
+  "model": "glm-5.3"
+}

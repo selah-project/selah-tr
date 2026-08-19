@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve onun iki oğlunu da ⟨את⟩ — birinin adı Gerşom'du, çünkü 'yabancı bir ülkede misafir oldum' demişti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "iki oğlunu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerşom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişti"
+    },
+    {
+      "surface": "גר",
+      "gloss": "misafir"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkede"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "yabancı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:48.497868083Z",
+  "model": "glm-5.3"
+}

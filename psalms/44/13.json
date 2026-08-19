@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Halkını servetsiz⟨liğe⟩ sattın ve onların bedeliyle kazanç çoğaltmadın.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "satıyorsun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "karşılıksız"
+    },
+    {
+      "surface": "הון",
+      "gloss": "servet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve...-madın"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "çoğaltmadın"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "onların bedeliyle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:02.764494360Z",
+  "model": "glm-5.3"
+}

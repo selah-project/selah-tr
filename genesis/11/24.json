@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Nahor yirmi dokuz yıl yaşadı ve Terah'ın babası oldu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "dokuz"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ve yirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:59.848033477Z",
+  "model": "glm-5.3"
+}

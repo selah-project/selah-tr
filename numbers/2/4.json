@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Onun ordusu ve sayılmış olanları yetmiş dört bin altı yüzdür.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ve onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ve sayılmışları"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dört"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ve yetmiş"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:00.291180044Z",
+  "model": "glm-5.3"
+}

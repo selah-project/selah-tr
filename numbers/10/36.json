@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 10:36",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve durduğunda derdi: Dön, Yahve, Yisrael'in binlerce rebabot ⟨sayısınca⟩!",
+  "tokens": [
+    {
+      "surface": "ובנחה",
+      "gloss": "ve durduğunda"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "derdi"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Dön"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "rebabot (on binler)"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "binlerce"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:26.134824663Z",
+  "model": "glm-5.3"
+}

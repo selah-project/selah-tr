@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Davut'a bildirip şöyle dediler: İşte Peleştimliler K'eila'da savaşıyorlar ve harman yerlerini yağmalıyorlar.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "bildirip dediler"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davut'a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştimliler"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "savaşıyorlar"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "K'eila'da"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "yağmalıyorlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harman yerlerini"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "harman yerlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:15.644928142Z",
+  "model": "glm-5.3"
+}

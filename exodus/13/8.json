@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve o gün oğluna anlatacaksın, şöyle diyerek: 'Bundan dolayı yaptı Yahve bana, Mısır'dan çıktığımda.'",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "anlatacaksın"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "bundan dolayı"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "çıktığımda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:48.061018632Z",
+  "model": "glm-5.3"
+}

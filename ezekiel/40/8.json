@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve ⟨את⟩ kapının revağını ev tarafından ölçtü — bir kamış.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ve ölçtü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapının revağını"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "revağını"
+    },
+    {
+      "surface": "השער",
+      "gloss": "kapının"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ev tarafından"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bir kamış"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-19T10:36:12.388367282Z",
+  "model": "glm-5.3"
+}

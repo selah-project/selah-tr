@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Altı yıl tarlanı ekeceksin ve altı yıl bağını budayacaksın ve ⟨את⟩ ürününü toplayacaksın.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ekeceksin"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tarlanı"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "budayacaksın"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "bağını"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ve toplayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürünü"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ürününü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:32.581878828Z",
+  "model": "glm-5.3"
+}

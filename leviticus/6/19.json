@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Onu günah sunusu olarak sunan kâhin ⟨את⟩ onu yiyecektir; kutsal bir yerde yenecektir, toplantı çadırının avlusunda.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "günah sunusunu sunan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "onu yiyecektir"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yenecektir"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "avlusunda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantı"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:10.261970354Z",
+  "model": "glm-5.3"
+}

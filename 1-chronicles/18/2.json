@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Moav'ı vurdu; ve Moavlılar David'e kul oldular, haraç getirir oldular.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav'ı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav'ı"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldular"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavlılar"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kullar"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Daved'e"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "getirirler"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "haraç"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:55.659761757Z",
+  "model": "glm-5.3"
+}

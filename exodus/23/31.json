@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve sınırını koyacağım ⟨את⟩ Kamış Denizi'nden Filistler denizine dek, ve çölden ⟨the⟩ nehre dek; çünkü ülkenin oturanlarını ⟨את⟩ elinize vereceğim, ve onları yüzünden kovacaksın.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ve koyacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sınırını"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "sınırını"
+    },
+    {
+      "surface": "מים",
+      "gloss": "denizinden"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Kamış (Denizi)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve dek"
+    },
+    {
+      "surface": "ים",
+      "gloss": "denizine"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistler"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "ve çölden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "nehre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "elinize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oturanları"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanlarını"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "ve kovacaksın onları"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "yüzünden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:48.417331513Z",
+  "model": "glm-5.3"
+}

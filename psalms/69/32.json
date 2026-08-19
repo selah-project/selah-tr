@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Bu, boynuzlu ve toynaklı boğadan Yahve'ye daha hoş gelecektir.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "daha hoş gelecektir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "משור",
+      "gloss": "boğadan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ergin boğa"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "boynuzlu"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "toynaklı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:20.402454131Z",
+  "model": "glm-5.3"
+}

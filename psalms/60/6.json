@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 60,
+  "translation": "Senden korkanlara bir sancak verdin, hakikat yüzünden dalgalansın diye. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "verdın"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "Senden korkanlara"
+    },
+    {
+      "surface": "נס",
+      "gloss": "sancak"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "dalgalansın diye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "hakikat"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:22.710212541Z",
+  "model": "glm-5.3"
+}

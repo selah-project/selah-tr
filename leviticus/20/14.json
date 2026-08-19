@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve bir adam ki bir kadınla ⟨את⟩ ve onun annesiyle ⟨את⟩ alırsa, bu bir ahlaksızlıktır; ateşte onu ⟨את⟩ ve onları ⟨את⟩ yakacaklar, ve aranızda ahlaksızlık olmayacaktır.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alırsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bir kadınla"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bir kadın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "onun annesiyle"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "onun annesi"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ahlaksızlık"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "yakacaklar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onu ⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "ve onları ⟨את⟩",
+      "marks": "kadını ve annesini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayacak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ahlaksızlık"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "aranızda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:46.521368554Z",
+  "model": "glm-5.3"
+}

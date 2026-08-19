@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Horev'de Yahve'yi öfkelendirdiniz ⟨את⟩; Yahve size öyle kızdı ki ⟨את⟩ sizi yok etmek ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "ve Horev'de"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "ödülendirdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "ve öfkelendi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizinle"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "yok etmek için"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:21.504508857Z",
+  "model": "glm-5.3"
+}

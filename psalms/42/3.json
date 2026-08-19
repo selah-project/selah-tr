@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Canım Elohim'e, diri El'e susadı; ne zaman geleceğim ve Elohim'in yüzünü göreceğim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "susadı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El'e"
+    },
+    {
+      "surface": "חי",
+      "gloss": "diri"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ne zaman"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "geleceğim"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ve göreceğim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:14.927051277Z",
+  "model": "glm-5.3"
+}

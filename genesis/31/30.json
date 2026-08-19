@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve şimdi — gitmen, gitmiş olman ⟨çünkü⟩ babanın evini özlemiş, özlemişsindir; neden ⟨את⟩ ilahlarımı çaldın?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gitmen"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "gitmişsindir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "özlemiş"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "özlemişsindir"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "eve"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "çaldın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilahlarımı"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilahlarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:37.802354164Z",
+  "model": "glm-5.3"
+}

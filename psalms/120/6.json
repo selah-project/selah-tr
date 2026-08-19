@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 120,
+  "translation": "Çok uzun ⟨zaman⟩ yaşam ⟨az önce⟩ nefesim, barışı nefret edenin yanında ⟨konakladı⟩.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "çok uzun"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "⟨konakladı⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨az önce⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nefret edenin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barışı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.104051775Z",
+  "model": "glm-5.3"
+}

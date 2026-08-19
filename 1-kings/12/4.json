@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "«Babamız boyunduruğumuzu ağırlaştırdı; sen şimdi babamızın ağır zorlu hizmetini ve üzerimize koyduğu ağır boyunduruğu hafiflet, sana kulluk edelim.»",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "baban"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ağır yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boyunduruğumuzu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "boyunduruğumuzu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "hafiflet"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "hizmetinden"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ve boyunduruğundan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "koyduğu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimize"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "sana kulluk edelim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:17.918595606Z",
+  "model": "glm-5.3"
+}

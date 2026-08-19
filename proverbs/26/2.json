@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Gezinen kuşa, uçan kırlangıca benzer şekilde sebepsiz lanet gelip konmaz.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "kuşa benzer"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "gezinmek için"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "kırlangıca benzer"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "uçmak için"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "laneti"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sebepsiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "gelir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:04.536837370Z",
+  "model": "glm-5.3"
+}

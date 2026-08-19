@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 79,
+  "translation": "Komşularımıza ⟨iğrençlik⟩, alay ve maskara olduk çevremizdekilere.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "olduk"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "⟨iğrençlik⟩"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "komşularımıza"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "alay"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "maskara"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "çevremizdekilere"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:26.650042024Z",
+  "model": "glm-5.3"
+}

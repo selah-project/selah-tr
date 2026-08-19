@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Mısır kralı İbrani ebelerelere söyledi — birinin adı Şifra, ikincinin adı ise Pua idi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ebelere"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "İbrani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Şifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikincinin"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:51.222495405Z",
+  "model": "glm-5.3"
+}

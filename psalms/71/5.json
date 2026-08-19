@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Çünkü sensin ümidim, Adonay Yahve, gençliğimden beri güvenimsin ⟨sen⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ümidim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "güvenim"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gençliğimden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:02.941228383Z",
+  "model": "glm-5.3"
+}

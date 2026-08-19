@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Çünkü düşmanım canının peşine düştü, canımı yere ezdi, beni karanlıklara yerleştirdi, ezelî ölüler gibi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "peşine düştü"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ezdi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yere"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "beni yerleştirdi"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "karanlıklara"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ölüler gibi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ezelî"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:48.896730221Z",
+  "model": "glm-5.3"
+}

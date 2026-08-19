@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve ⟨את⟩ Davut şehrinin yarıklarını gördünüz, çünkü çoğaldılar, ve alttaki havuzun ⟨את⟩ sularını topladınız.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yarıkları"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "yarıkları"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "gördünüz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoğaldılar"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ve topladınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suları"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularını"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "havuzun"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "alttaki"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:23.743503847Z",
+  "model": "glm-5.3"
+}

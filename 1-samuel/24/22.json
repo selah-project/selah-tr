@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve şimdi, bana Yahve adına ant iç ki: tohumumu ⟨את⟩ benden sonra kesmeyecek ve adımı ⟨את⟩ babamın evinden yok etmeyeceksin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ant iç"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve adına"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer ki"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "keseceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tohumumu"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "tohumumu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "benden sonra"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "yok edeceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adımı"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "adımı"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babamın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:41.445572017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve bana dedi: Gir ve ⟨את⟩ kötü iğrençlikleri gör, ki onlar burada yapıyorlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gir"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ve gör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötü iğrençlikleri"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "iğrençlikleri"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "yapıyorlar"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    }
+  ],
+  "timestamp": "2026-08-19T10:25:11.348258739Z",
+  "model": "glm-5.3"
+}

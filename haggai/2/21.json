@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Söyle Zerubavel'e, Yehuda'nın valisine: Ben gökleri ve yeri sarsıyorum.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "söyle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩'e"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubavel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "valisi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "sarsıyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gökleri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-08-19T10:47:06.323308639Z",
+  "model": "glm-5.3"
+}

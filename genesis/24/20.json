@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve acele etti, kürahsını suluğa boşalttı ve yine kuyuya, su çekmeye koştu; bütün develeri için su çekti.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "ve acele etti"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "ve boşalttı"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kürahını"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "suluğun"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ve koştu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuyuya"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kuyu"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "su çekmeye"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "ve su çekti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "develeri için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:02.106058407Z",
+  "model": "glm-5.3"
+}

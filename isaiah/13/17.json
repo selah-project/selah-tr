@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "İşte onların üzerine Medleri kışkırtıyorum — ⟨את⟩ Medleri, ki gümüşü saymazlar ve altını arzu etmezler.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "İşte ben"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kışkırtıyorum"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzerine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Medleri"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "saymazlar"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ve altını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "arzu etmezler"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:39.968293949Z",
+  "model": "glm-5.3"
+}

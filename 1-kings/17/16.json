@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Un küpü tükenmedi ve yağ çanağı eksilmedi, Yahve'nin Eliyahu'nun eliyle konuştuğu sözün üzere.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "küp"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "un"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tükenmedi"
+    },
+    {
+      "surface": "וצצפחת",
+      "gloss": "ve çanak"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "eksilmedi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözün üzere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştuğu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elinle"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu'nun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:01.871225298Z",
+  "model": "glm-5.3"
+}

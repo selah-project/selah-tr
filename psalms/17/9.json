@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Kötülerin yüzünden — işte beni yakıp yıktılar; canıma düşman olanlar çevremi sararak üzerime çullandılar.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "זו",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "beni yakıp yıktılar"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "çullandılar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:29.382546854Z",
+  "model": "glm-5.3"
+}

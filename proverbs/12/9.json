@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Küçük görülen ve ⟨onun⟩ bir hizmetkârı olan, kendini yücelten ve ekmeği eksik olandan ⟨daha⟩ iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "küçük görülen"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ve bir hizmetkârı olan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "kendini yücelten"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ve eksik"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmeği"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:20.749075688Z",
+  "model": "glm-5.3"
+}

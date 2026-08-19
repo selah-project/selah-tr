@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Yosef halka dedi: İşte bugün sizi ⟨את⟩ ve topraklarınızı ⟨את⟩ Paroh için satın aldım; bakın, size tohum; toprağı ⟨את⟩ ekersiniz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "satın aldım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "topraklarınızı"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "topraklarınızı"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroh için"
+    },
+    {
+      "surface": "הא",
+      "gloss": "bakın"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "ekersiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağı"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:02.645930375Z",
+  "model": "glm-5.3"
+}

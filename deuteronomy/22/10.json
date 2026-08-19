@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Sığır ile ve eşekle birlikte sürmeceksin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "sürmeceksin"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "sığır ile"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ve eşekle"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:46.691070887Z",
+  "model": "glm-5.3"
+}

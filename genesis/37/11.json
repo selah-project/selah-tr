@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Kardeşleri onu kıskandı; ama babası ⟨את⟩ sözü sakladı.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ve kıskandılar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ama babası"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "sakladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:59.212547138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 84,
+  "translation": "Ne mutlu ⟨o⟩ insana ki gücü sensin ⟨onunki⟩; yollar ⟨o⟩ kalplerindedir.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insana"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "gücü"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onunki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sensin"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "yollar"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "kalplerindedir"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:02.833115812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Yahve, yolunu bana öğret; beni düz bir yolda yönlendir — hasımlarım yüzünden.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "öğret bana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ve yönlendir beni"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "bir yolda"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "düz"
+    },
+    {
+      "surface": "למען",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "hasımlarımın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:33.484902795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Onun günlerinde Edom Yahuda'nın eli altından isyan etti ve üzerlerine bir kral hüküm sürmeye getirdiler.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "onun günlerinde"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "isyan etti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "יד",
+      "gloss": "eli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "hüküm sürmeye getirdiler"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "üzerlerine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bir kral"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:35.330242689Z",
+  "model": "glm-5.3"
+}

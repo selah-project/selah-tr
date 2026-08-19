@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Yalnız O'dur kayam ve kurtuluşum; sığınağım ⟨O'dur⟩; sarsılmam.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kayam"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ve kurtuluşum"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "yüksek sığınağım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarsılırım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:23.186921438Z",
+  "model": "glm-5.3"
+}

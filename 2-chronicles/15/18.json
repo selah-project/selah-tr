@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve babasının kutsal şeylerini ve kendi kutsal şeylerini Elohim'in evine getirdi: gümüş, altın ve kaplar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babasının kutsal şeylerini"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kutsal şeylerini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "ve kendi kutsal şeylerini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ve altın"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ve kaplar"
+    }
+  ],
+  "timestamp": "2026-08-19T12:04:55.978226703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve Lot'a da — Avram'la ⟨את⟩ birlikte yürüyene — koyun sürüleri, sığırlar ve çadırlar vardı.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve ... da"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot'a"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram'la"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "koyun sürüleri"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ve sığırlar"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ve çadırlar"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:47.967195124Z",
+  "model": "glm-5.3"
+}

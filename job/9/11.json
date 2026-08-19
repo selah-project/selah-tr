@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "İşte, yanımdan geçer de ⟨onu⟩ görmem; geçip gider de ⟨onu⟩ fark etmem.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "geçer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yanımdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "görmem"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "geçip gider"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "fark etmem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:57.248452030Z",
+  "model": "glm-5.3"
+}

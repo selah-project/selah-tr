@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve hatırlayacaksın: çünkü Mısır'da köle ⟨idin⟩; ve bu ⟨hükümleri⟩ koruyup ⟨onları⟩ yapacaksın — ⟨את⟩ ⟨hükümlerin⟩ ⟨bu⟩ ⟨şeklini⟩.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "ve hatırlayacaksın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "köle"
+    },
+    {
+      "surface": "היית",
+      "gloss": "idiN"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ve koruyacaksın"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hükümler"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hükümleri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:55.229515125Z",
+  "model": "glm-5.3"
+}

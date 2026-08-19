@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve eğer o yoksul bir adam ise rehini ile yatmayacaksın.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "yatmayacaksın"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "rehini ile"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:00.182883638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Yahve İsrail'in bütün tohumunu reddetti ve onları ezip aşağıladı ve onları yağmacıların eline verdi, ta onları yüzünün önünden atmaya dek.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "reddetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohumunu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ve onları ezip aşağıladı"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ve onları verdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eline"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "yağmacıların"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ... dek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "onları attı"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "yüzünün önünden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:30.001412955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ⟨ki⟩ oğlunun kulağına ve torununun kulağına anlatasın diye — Mısır'da ⟨את⟩ ne yaptımsa ve onların içine koyduğum ⟨את⟩ işaretlerimi — ve bileesiniz diye ki ben Yahve'yim.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "ve …-ması için"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "anlatasın"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kulağına"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ve oğlu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yaptımsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne …-sa"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "yaptımsa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "işaretlerimi"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "işaretlerimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "koyduğum"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların içine"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ve bileesiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:42.106432490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Güneş batınca temiz olur; sonra kutsal şeylerden yer, çünkü o onun ekmeğidir.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ve batınca"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ve temiz olur"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ve sonra"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kutsal şeyler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ekmeğidir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:39.887700101Z",
+  "model": "glm-5.3"
+}

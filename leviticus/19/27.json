@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Başınızın kenarını tıraş etmeyeyeceksiniz ve sakalınızın kenarını bozmaya çalışmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "yuvarlak kesmeyin"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kenarını"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "başınızın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "bozmaya çalışmayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenarını"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kenarını"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "sakalının"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:56.764938495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Çünkü her dileğin bir zamanı ve yargısı vardır ⟨⟨vardır⟩⟩; çünkü insanın kötülüğü onun üzerine çok büyüktür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dileğin"
+    },
+    {
+      "surface": "יש",
+      "gloss": "vardır"
+    },
+    {
+      "surface": "עת",
+      "gloss": "bir zamanı"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ve yargısı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "çok"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:27.474848812Z",
+  "model": "glm-5.3"
+}

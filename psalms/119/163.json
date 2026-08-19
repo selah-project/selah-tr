@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Yalanı sevmedim, iğrendim ondan; senin toranı sevdimm — senin toran ⟨ise⟩ sevgimdir.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "yalanı"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "sevmedim\/nefret ettim"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "ve iğrendim"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "senin toran"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevdimm — sevgimdir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:04.605386357Z",
+  "model": "glm-5.3"
+}

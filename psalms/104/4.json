@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Elçilerini rüzgârlar yapıyor, hizmetkârlarını yalayan alev ateş.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yapıyor"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "elçilerini"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "rüzgârlar"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "hizmetkârlarını"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "להט",
+      "gloss": "yalayan alev"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:22.902380003Z",
+  "model": "glm-5.3"
+}

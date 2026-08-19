@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 11:16",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü Mısır'dan çıktıklarında, İsrail çöle yürüyerek Kamız Denizi'ne kadar gitti ve Kadeş'e vardı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בעלותם",
+      "gloss": "çıktıklarında"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yürüyerek gitti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Denizi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Kamız"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kadeş'e"
+    }
+  ],
+  "timestamp": "2026-08-19T12:33:40.034985125Z",
+  "model": "glm-5.3"
+}

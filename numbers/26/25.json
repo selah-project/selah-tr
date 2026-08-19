@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 26:25",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Bunlar Yissaşar'ın aileleri sayımlarına göre: dört ⟨⟩ bin altmış ve üç yüz.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "aileleri"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaşar'ın"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "sayımlarına göre"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dört"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "altmış"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:47.042122473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Davud'a ait. Beni yargıla, Yahve, çünkü bütünlüğümde yürüdüm ve Yahve'ye güvendim; sarsılmayacağım.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "beni yargıla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "bütünlüğümde"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "yürüdüm"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "ve Yahve'ye"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvendim"
+    },
+    {
+      "surface": "לא",
+      "gloss": " değil"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "sarsılırım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:23.427543618Z",
+  "model": "glm-5.3"
+}

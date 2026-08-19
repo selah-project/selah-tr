@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Orada düştüler ⟨the⟩ kötülük işleyenler; itildiler ve kalkmaya güç yetiremediler.",
+  "tokens": [
+    {
+      "surface": "שָׁ֝מָּ֗ה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "düştüler"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "işleyenler"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "itildiler"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "güç yetirebildiler"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "kalkmaya"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:31.393182955Z",
+  "model": "glm-5.3"
+}

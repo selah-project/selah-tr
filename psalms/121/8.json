@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 121,
+  "translation": "Yahve çıkışını korusun ve girişini, şimdi ve sonsuza dek.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "korusun"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "çıkışını"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ve girişini"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "şimdiden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve dek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.808908184Z",
+  "model": "glm-5.3"
+}

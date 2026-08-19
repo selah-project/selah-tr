@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Benim Elim'sin, sana şükredeceğim; Elohim'im sensin, seni yücelteceğim.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "benim Elim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensin"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ve sana şükredeceğim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "seni yücelteceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:53.962595244Z",
+  "model": "glm-5.3"
+}

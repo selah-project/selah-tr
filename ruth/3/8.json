@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Gece yarısı oldu; adam titredi, döndü — ve işte, bir kadın ayaklarının ucunda yatıyordu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "yarısında"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecenin"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "titredi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bir kadın"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yatıyordu"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "ayaklarının ucunda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:29.277574362Z",
+  "model": "glm-5.3"
+}

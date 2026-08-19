@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Tek bir hüküm sizin için olacaktır; garip için de yerli için de aynı olacak; çünkü ben Yahve, sizin Elohim'inizim.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "hüküm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek bir"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaktır"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "garip gibi"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "yerli gibi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:16.224941750Z",
+  "model": "glm-5.3"
+}

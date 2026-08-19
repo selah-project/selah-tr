@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kamp yola çıkarken Aharon ve oğulları girecek ve örtü-perdeyi indirecekler ve onunla ⟨את⟩ tanıklık sandığını örtecekler.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ve girecek"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "yola çıkarken"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "ve indirecekler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örtü-perdeyi"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perde"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "örtü"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ve örtecekler"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "tanıklığın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:13.371093233Z",
+  "model": "glm-5.3"
+}

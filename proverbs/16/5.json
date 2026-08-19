@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Yahve'nin iğrençliğidir ⟨the⟩ yürekli-gururlu herkes; el ele ⟨olsa da⟩, suçsuz kılınmayacaktır.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "iğrençlik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "yürekli-gururlu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "suçsuz kılınmayacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:19.202939021Z",
+  "model": "glm-5.3"
+}

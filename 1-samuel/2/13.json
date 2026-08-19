@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kâhinlerin halkla ⟨את⟩ ilgili âdeti şöyleydi: her kim bir kurban keserse, kâhinin gençleri gelirken — et kaynarken — elinde üç dişli et çatalı olurdu.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "âdeti\/yasağı şöyleydi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinlerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kim"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kese"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "bir kurban"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "gelirdi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "genç"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhinin"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "kaynarken"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "ve üç dişli çatal"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dişli"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "elinde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:22.270197689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve yoksulluğun bir yolcu gibi gelecek, ve kıtlığın ⟨bir⟩ silahlı adam gibi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ve gelecek"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "bir yolcu gibi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "yoksulluğun"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "ve kıtlığın"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "bir adam gibi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "silahlı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:10.421552209Z",
+  "model": "glm-5.3"
+}

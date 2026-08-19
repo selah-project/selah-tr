@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 131,
+  "translation": "Yükselişlerin şarkısı, Davud'a ait. Yahve, gönlüm yücelmedi ve gözlerim yükseleşmedi ve büyük işlerde, benden üstün olağanüstü şeylerde yürümedim.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "yücelmedi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "gönlüm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "yükseleşmedi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "yürümedim"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "büyük işlerde"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "ve olağanüstü şeylerde"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden üstün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:02.783200229Z",
+  "model": "glm-5.3"
+}

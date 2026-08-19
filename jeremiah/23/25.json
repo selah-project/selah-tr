@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Duydum ⟨את⟩ ne söylediler peygamberler, o peygamberlik edenler adımla yalan, söyleyerek: 'Rüya gördüm, rüya gördüm.'",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "duydum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne söylediler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "söylediler"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "peygamberler"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "peygamberlik edenler"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "adımla"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söyleyerek"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "rüya gördüm"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "rüya gördüm"
+    }
+  ],
+  "timestamp": "2026-08-19T10:11:10.215163849Z",
+  "model": "glm-5.3"
+}

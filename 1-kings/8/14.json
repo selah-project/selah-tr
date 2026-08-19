@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve kral çevirdi ⟨את⟩ yüzünü ve kutsadı ⟨את⟩ bütün Yisrael cemaatini; ve bütün Yisrael cemaati ayakta duruyordu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ve çevirdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün Yisrael cemaatini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ayakta duruyordu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:32.886968503Z",
+  "model": "glm-5.3"
+}

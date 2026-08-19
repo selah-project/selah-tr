@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 86,
+  "translation": "Yolunu öğret bana, Yahve; ben senin gerçeğinde yürüyeceğim; kalbimi birleştir ki adına korku ile saygı duyayım.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "öğret bana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "yürüyeceğim"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "senin gerçeğinde"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birleştir"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kalbimi"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "korku ile saygı duyayım"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.745425056Z",
+  "model": "glm-5.3"
+}

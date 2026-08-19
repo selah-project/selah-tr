@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Oğulu öpün; öfkelenir de ⟨את⟩ yoldan yoksun kalırsınız diye; çünkü öfkesi birazcık tutuşursa ne mutlu O'na sığınanların hepsine.",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "öpün"
+    },
+    {
+      "surface": "בר",
+      "gloss": "Oğul"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "öfkelenir"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "ve yoksun kalırsınız"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoldan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "tutuşursa"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "birazcık"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsine"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "sığınanların"
+    },
+    {
+      "surface": "בו",
+      "gloss": "O'na"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:48.100242095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve seni Assur kralının elinden kurtaracağım, ve ⟨את⟩ bu şehri; ve bu şehri koruyacağım.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "ve elinden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "seni kurtaracağım"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bu şehir"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bu şehir"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ve koruyacağım"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:23.352985077Z",
+  "model": "glm-5.3"
+}

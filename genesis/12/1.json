@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yahve Avram'a dedi: Kendin için git, ülkenizden, doğduğun yerden ve babanın evinden, sana göstereceğim ⟨the⟩ ülkeye ⟨git⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−e doğru"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "ülkenden"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "ve doğduğun yerinden"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ve evinden"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−e doğru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "sana göstereceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:27.431982644Z",
+  "model": "glm-5.3"
+}

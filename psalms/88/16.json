@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Sefilim ⟨⟨⟩⟩ ben, ve ölmek üzereyim gençliğimden beri; dehşetlerini taşıdım, şaşkına dönüyorum.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "sefil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "ve ölmek üzere"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "gençlikten"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "taşıdım"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "dehşetlerini"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "şaşkına dönüyorum"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:57.584884215Z",
+  "model": "glm-5.3"
+}

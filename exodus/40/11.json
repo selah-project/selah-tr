@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Yıkanma havuzunu ve kaidesini meshedeceksin ve onu kutsal kılacaksın.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "meshedeceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yıkanma havuzunu"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yıkanma havuzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kaidesini"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "kaidesi"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "kutsal kılacaksın"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:35.779298053Z",
+  "model": "glm-5.3"
+}

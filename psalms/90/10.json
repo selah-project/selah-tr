@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Yıllarımızın günleri içinde yetmiş yıldır; güçlü olursa seksen yıl; ama onların şişmesi emek ve eziyettir; çünkü çabucak kesilir ve ⟨biz⟩ uçup gideriz.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "yıllarımızın"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "güçlü olursa"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "seksen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "onların şişmesi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "emek"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ve eziyet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גז",
+      "gloss": "kesilir"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "çabucak"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "uçup gideriz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:39.862407745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Ne kadar büyüktür işlerin, Yahve! Düşüncelerin çok derindir.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "büyüktür"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "işlerin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "derindir"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "düşüncelerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:30.713090526Z",
+  "model": "glm-5.3"
+}

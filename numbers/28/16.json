@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Ve ilk ayda, ayın on dördüncü günü Pesah'tır Yahve'ye.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ve ayda"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "dört"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:35.490754469Z",
+  "model": "glm-5.3"
+}

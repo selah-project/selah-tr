@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Çünkü ⟨şöyle⟩ der: «Prenslerim hep birlikte ⟨değil mi⟩ krallardır?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "prenslerim"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hep birlikte"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "krallardır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:24.019925900Z",
+  "model": "glm-5.3"
+}

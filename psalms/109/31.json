@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Çünkü o, yoksulun sağında durur; canını yargılayanlardan onu kurtarmak için.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "durur"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "sağında"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yoksulun"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kurtarmak için"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "yargılayanlardan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:27.135603581Z",
+  "model": "glm-5.3"
+}

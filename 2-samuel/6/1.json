@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yeniden topladı David ⟨את⟩ bütün seçilmişleri İsrail'den, otuz bin.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yeniden topladı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün seçilmişleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "seçilmişleri"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrail'den"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:34:04.045919507Z",
+  "model": "glm-5.3"
+}

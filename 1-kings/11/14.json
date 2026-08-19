@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Yahve Salomo'ya bir düşman kaldırdı: Hadad Edomlu, kral soyundan olan, Edom'da ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ve kaldırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "bir düşman"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Salomo'ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomlu"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "soyundan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom'da"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:45.137468809Z",
+  "model": "glm-5.3"
+}

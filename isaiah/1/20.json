@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ama reddedip baş kaldırırsanız kılıç tarafından yutulacaksınız; çünkü Yahve'nin ağzı konuştu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "reddedip"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "baş kaldırırsanız"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kılıç"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yutulacaksınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:51:23.696484547Z",
+  "model": "glm-5.3"
+}

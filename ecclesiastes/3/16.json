@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve yine gördüm güneşin altında: yargı yerinde ⟨orada⟩ kötülük, ve doğruluk yerinde ⟨orada⟩ kötülük.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ve yine"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerinde"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "yargı"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ve yerinde"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "doğruluk"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kötülük"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:00.953808817Z",
+  "model": "glm-5.3"
+}

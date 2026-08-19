@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Bilgelerin yüreği yas evidedir, ve ahmakların yüreği neşe evidedir.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "yüreği"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bilgelerin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evededir"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "yas"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ve yüreği"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ahmakların"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evededir"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "neşe"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:20.018566762Z",
+  "model": "glm-5.3"
+}

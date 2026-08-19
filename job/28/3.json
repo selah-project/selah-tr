@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 28:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Karanlığa ⟨bir⟩ son koyar, ve her ⟨şeyin⟩ sonuna o, taşları araştırır — karanlık taşlarını ve ölüm gölgesini.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "son"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koyar"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "karanlığa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "son\/uç"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "חוקר",
+      "gloss": "araştırır"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "taş"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "karanlık (alacakaranlık)"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ve ölüm gölgesi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:18.907620081Z",
+  "model": "glm-5.3"
+}

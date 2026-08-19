@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Çünkü kurban istemezsin, verirdim ⟨onu⟩; yakılan takdime ile hoşnut olmazsın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "istemezsin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "verirdim"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "yakılan takdime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "hoşnut olmazsın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:40.484523268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve ⟨eğer⟩ yer, ve ⟨eğer⟩ içerseniz — siz değil misiniz yiyenler, ve siz içenler?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ve ⟨eğer⟩"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yerseniz"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ve ⟨eğer⟩"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "içerseniz"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "değil misiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "yiyenler"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ve siz"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "içenler"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:57.924205820Z",
+  "model": "glm-5.3"
+}

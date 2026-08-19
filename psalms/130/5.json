@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 130,
+  "translation": "Yahve'yi bekledim, canım bekledi ve sözüne umutla kandım.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "bekledim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "bekledi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "ve sözüne"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "umutla kandım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:33.301473467Z",
+  "model": "glm-5.3"
+}

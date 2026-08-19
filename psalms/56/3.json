@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 56,
+  "translation": "Düşmanlarım beni yutuyorlar bütün gün, çünkü bana karşı savaşanlar çok, Ey Yüceler Yücesi.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "yutuyorlar"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çok"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "savaşanlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Yüceler Yücesi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:50.080979715Z",
+  "model": "glm-5.3"
+}

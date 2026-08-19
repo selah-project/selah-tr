@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Beni sağlamlığın uyarınca yargıla, Yahve, Elohim'im; ve bana karşı sevinmesinler.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "beni yargıla"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "senin doğruluğuna göre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve olmasın (olumsuz)"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinsinler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:38.815530593Z",
+  "model": "glm-5.3"
+}

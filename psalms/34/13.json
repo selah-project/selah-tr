@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Kimdir ⟨o⟩ adam, hayatı isteyen, günleri seven, iyiyi görmek ⟨için⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kimdir"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "isteyen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hayatı"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiyi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:26.789471798Z",
+  "model": "glm-5.3"
+}

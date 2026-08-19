@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yoksul ve bilge bir çocuk, uyarıyı artık bilmeyen yaşlı ve akılsız bir kraldan daha iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ve bilge"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "bir kraldan"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlı"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ve akılsız"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "uyarıyı almayı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:42.352669971Z",
+  "model": "glm-5.3"
+}

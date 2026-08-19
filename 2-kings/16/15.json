@@ -1,0 +1,187 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 16:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve kral Ahaz onu, kâhin Uriya'ya ⟨את⟩ şöyle buyurdu: Büyük sunağın üzerinde sabah yakılan sunusunu ⟨את⟩, akşam tahıl sunusunu ⟨את⟩, kralın yakılan sunusunu ⟨את⟩ ve tahıl sunusunu ⟨את⟩, bütün ülke halkının yakılan sunusunu ⟨את⟩, tahıl sunularını ve libasyonlarını tütsüle; ve bütün yakılan sunu kanını ve bütün kesme sunu kanını onun üzerine serp; ve tunç sunak bana danışmak için olsun.",
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "onu buyurdu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "tütsüle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakılan sunu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yakılan sunusu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sabahın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tahıl sunusu"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "tahıl sunusu"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşamın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yakılan sunu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yakılan sunusu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tahıl sunusu"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "tahıl sunusu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yakılan sunu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yakılan sunusu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "ve tahıl sunularını"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ve libasyonlarını"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yakılan sununun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kesme sununun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "serp"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "ve tunç sunak"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tunç"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "danışmak için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:22.190781341Z",
+  "model": "glm-5.3"
+}

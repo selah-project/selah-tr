@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Savaşçının ganimeti onun elinden alınabilecek mi, ya da haklı esir kurtarılabilecek mi?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "alınabilecek mi"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "savascının elinden"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "ganimeti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "esir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "haklı"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "kurtarılabilecek mi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:01:47.688227528Z",
+  "model": "glm-5.3"
+}

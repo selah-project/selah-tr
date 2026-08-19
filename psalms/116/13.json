@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Kurtuluşların kadehini kaldıracağım ve Yahve'nin adıyla çağıracağım.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "kadeh"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kurtuluşların"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kaldıracağım"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ve ... adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağıracağım"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:25.521053961Z",
+  "model": "glm-5.3"
+}

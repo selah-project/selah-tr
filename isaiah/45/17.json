@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "İsrail Yahve'de kurtarıldı, ezici-bir-kurtuluşla, sonsuz kurtuluşlarla; sonsuz çağlara dek utanmayacaksınız ve mahcup olmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "kurtarıldı"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'de"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "sonsuz (çoğul)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "utanmayacaksınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "mahcup olmayacaksınız"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "sonsuz çağların"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sonuna dek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:32.282300194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve ⟨Esav⟩ dedi: Yolculuğa çıkalım ve gidelim; ve ben senin önünde gideyim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "yolculuğa çıkalım"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ve gidelim"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ve gideyim"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "senin önünde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:00.615469495Z",
+  "model": "glm-5.3"
+}

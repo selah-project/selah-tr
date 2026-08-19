@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Sen oturuşumu ve kalkışımı bilirsin; uzaktan düşüncemi anlarsın.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilirsin"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "oturuşumu"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "ve kalkışımı"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "anlarsın"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "düşüncemi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uzaktan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:21.388041754Z",
+  "model": "glm-5.3"
+}

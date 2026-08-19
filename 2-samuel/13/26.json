@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 13:26",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Avşalom dedi: Olmadıysa, rica ederim kardeşim Amnon ⟨את⟩ bizimle gelsin. Kral ona şöyle dedi: O neden seninle gitsin?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "olmadıysa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gelsin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ric ederim"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle",
+      "marks": "bizimle"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gitsin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:49.950157033Z",
+  "model": "glm-5.3"
+}

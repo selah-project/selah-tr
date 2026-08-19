@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Davud'a ait; öğretici bir şiir. Ne mutlu ⟨o kimse ki⟩ suçu kaldırılmış, günahı örtülmüştür!",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "öğretici şiir"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "kaldırılmış"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "suç"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "örtülmüş"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:31.830498596Z",
+  "model": "glm-5.3"
+}

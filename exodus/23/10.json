@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve altı yıl toprağını ekeceksin ve ⟨את⟩ ürününü toplayacaksın.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ekeceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toprağını"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "toprağını"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ve toplayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürününü"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ürününü"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:44.581459429Z",
+  "model": "glm-5.3"
+}

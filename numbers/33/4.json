@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve Miṣrayim, Yahve'nin içlerinde vurduğu ⟨את⟩ her ilkdoğanı gömüyordu; ve ilahlarında Yahve yargılar etti.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "ve Miṣrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "gömüyordu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her ilkdoğan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "içlerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ilkdoğan"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "ve ilahlarında"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "yargılar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:43:23.529568393Z",
+  "model": "glm-5.3"
+}

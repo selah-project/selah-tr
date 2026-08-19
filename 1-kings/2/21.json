@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve dedi: Avişag ⟨את⟩ Şunamlı, Adoniya'ya — kardeşine — ⟨the⟩ karı olarak verilsin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verilsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avişag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avişag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Şunamlı"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adoniya'ya"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşin"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "karı olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:57.620808352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve Avraham Beer-Şeva'da bir ejder ağacı dikti ve orada Yahve'nin, Olam El'in adıyla çağırdı.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "ve dikti"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "ejder ağacı"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Beer-Şeva'da"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:03.555845168Z",
+  "model": "glm-5.3"
+}

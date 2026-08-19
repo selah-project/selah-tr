@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Yahve, ⟨את⟩ Yona'yı yutsun diye büyük bir balık hazırladı; ve Yona üç gün ve üç gece balığın karnında oldu.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "hazırladı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "balık"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "yutmak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "karnında"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "balığın"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ve üç"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "gece"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:34.958895219Z",
+  "model": "glm-5.3"
+}

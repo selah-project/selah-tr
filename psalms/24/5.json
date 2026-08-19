@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Yahve'den ⟨את⟩ bereket taşıyacak, kurtuluşunun Elohim'inden doğruluk.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "taşıyacak"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bereket"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'den (kaynak olarak bereket)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ve doğruluk"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohim'inden"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "kurtuluşunun"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:12.118124850Z",
+  "model": "glm-5.3"
+}

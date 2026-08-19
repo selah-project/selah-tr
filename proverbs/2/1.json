@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Oğlum, sözlerimi benimsersen ve buyruklarımı seninle ⟨אתך⟩ birlikte saklarsan,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alırsan \/ benimsersen"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözlerimi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ve buyruklarımı"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "saklarsan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "seninle birlikte (yer: buyruklar saklanır)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:15:11.064404361Z",
+  "model": "glm-5.3"
+}

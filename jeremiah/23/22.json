@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Eğer sırrımda durmuş olsalardı, sözlerimi halkıma ⟨את⟩ duyursalardı, onları kötü yollarından ve eylemlerinin kötülüğünden geri çevirirlerdi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "dursalardı"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "sırrımda"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ve duyursalardı"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkıma"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkıma"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "ve geri çevirirlerdi onları"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "yollarından"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "ve kötülüğünden"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "eylemlerinin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:10:54.205279110Z",
+  "model": "glm-5.3"
+}

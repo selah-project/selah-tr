@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Çetsron'un ona doğan oğulları: ⟨את⟩ Yerahme'el ve ⟨את⟩ Ram ve ⟨את⟩ Keluvay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Çetsron'un"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "doğan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerahme'el"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerahme'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Keluvay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Keluvay"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:56.329606128Z",
+  "model": "glm-5.3"
+}

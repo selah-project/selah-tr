@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Başka ilahların ardınca gitmeyeceksiniz — çevrenizdeki ulusların ilahlarından ⟨hiçbirinin⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "gideceksiniz"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahların"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başka"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "…ilahlarından"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onlar"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "çevrenizdeki"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:05.932908181Z",
+  "model": "glm-5.3"
+}

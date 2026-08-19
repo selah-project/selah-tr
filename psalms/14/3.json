@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "⟨Onların⟩ hepsi saptı, birlikte murdarlaştılar; iyilik yapan yoktur, bir tek ⟨kişi⟩ bile yok.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "saptı"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "murdarlaştılar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir tek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:51.940933518Z",
+  "model": "glm-5.3"
+}

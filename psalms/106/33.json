@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Çünkü ruhu ⟨את⟩ acılaştırdılar ve dudaklarıyla ⟨o⟩ tepeden konuştu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "acılaştırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "ve tepeden konuştu"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "dudaklarıyla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:42.606953023Z",
+  "model": "glm-5.3"
+}

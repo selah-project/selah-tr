@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Kralımızın günü! Prensler şarabın hararetiyle hasta oldular; o, elini ⟨את⟩ alay edenlerle uzattı.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "kralımızın"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "hasta oldular"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "prenser"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "harareti"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "şarabın"
+    },
+    {
+      "surface": "משך",
+      "gloss": "uzattı"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alay edenlerle"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "alay edenlerle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:01.904179723Z",
+  "model": "glm-5.3"
+}

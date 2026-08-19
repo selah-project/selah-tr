@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Yaşayan her sürünen sizin için yiyecek olacaktır; yeşil otu size verdiğim gibi ⟨את⟩ hepsini size verdim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaktır"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "yeşil ot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hepsini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsini"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:02.595646547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Karı yün gibi veren, kırağıyı kül gibi savurandır.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "veren"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "karı"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "yün gibi"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "kırağıyı"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "kül gibi"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "savurandır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:05.208415379Z",
+  "model": "glm-5.3"
+}

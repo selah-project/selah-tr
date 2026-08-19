@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 39,
+  "translation": "Suç üzerine azarlarla bir adamı terbiye ettin; güveysi bir güve gibi erittin. Şüphesiz her insan ⟨bir⟩ buhar ⟨dır⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "azarlarla"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suç"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "terbiye ettin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ve erittin"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "güve gibi"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "güveysini"
+    },
+    {
+      "surface": "אך",
+      "gloss": "şüphesiz"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "buhar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:45.860222877Z",
+  "model": "glm-5.3"
+}

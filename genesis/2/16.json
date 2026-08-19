@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Yahve Elohim insana emretti, diyerek: Bahçenin her ağacından ⟨olan⟩ yiyerek yiyeceksin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ve emretti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bahçenin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyerek"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yiyeceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:18.245312778Z",
+  "model": "glm-5.3"
+}

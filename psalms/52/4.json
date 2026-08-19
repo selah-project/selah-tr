@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 52,
+  "translation": "Dilin yıkım planlar; bileylenmiş bir ustura gibi, hile işleyen ⟨sen⟩.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "planlar"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "dilin"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "ustura gibi"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "bileylenmiş"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "işleyen"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hile"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:42.208133922Z",
+  "model": "glm-5.3"
+}

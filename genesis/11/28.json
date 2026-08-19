@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Haran, babası Teraḥ'ın yüzü önünde, doğduğu ülkede, Kaldiler'in Ur'unda öldü.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraḥ'ın"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "doğduğu"
+    },
+    {
+      "surface": "באור",
+      "gloss": "Ur'da"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kaldiler'in"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:04.591715391Z",
+  "model": "glm-5.3"
+}

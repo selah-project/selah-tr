@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 65,
+  "translation": "Ve siz Yahve'yi bırakanlarsınız, kutsal dağımı unutanlar; Gad için ⟨את⟩ sofra kuranlar ve Meni için karışık şarap dolduranlar.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ve siz"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "bırakanlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "unutanlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal dağımı"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kutsal olan benim"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "kuranlar (sofra)"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "Gad için"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sofra"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "dolduranlar"
+    },
+    {
+      "surface": "למני",
+      "gloss": "Meni için"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "karışık şarap"
+    }
+  ],
+  "timestamp": "2026-08-19T10:04:32.714982601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Selah yöneticisine. David'e ait. Nabal, kendi kalbinde şöyle dedi: 'Elohim yok.' Onlar yozlaştılar, iğrenç işler yaptılar; iyilik yapan yoktur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Selah yöneticisine"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e ait"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "şöyle dedi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabal (akılsız)"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "kendi kalbinde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "yozlaştılar"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "iğrenç işler yaptılar"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:51.940299667Z",
+  "model": "glm-5.3"
+}

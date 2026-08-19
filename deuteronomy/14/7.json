@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 14:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ancak şunu yemeyeceksiniz: geviş getirenlerden ve tırnağı yarıık olmayanlardan — ⟨את⟩ deveyi, ⟨את⟩ tavşanı ve ⟨את⟩ kaya tuylusunu; çünkü onlar geviş getirir ama tırnağı yarmamışlardır; size murdardırlar.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şunu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "şunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "getirenlerden"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "geviş"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "ve yarlayanlardan"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "tırnağı"
+    },
+    {
+      "surface": "השסועה",
+      "gloss": "yarıık"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deveyi"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "deveyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tavşanı"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "tavşanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kaya tuylusunu"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "kaya tuylusunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "getirir"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geviş"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ve tırnağı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הפריסו",
+      "gloss": "yarmış"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:14.073537378Z",
+  "model": "glm-5.3"
+}

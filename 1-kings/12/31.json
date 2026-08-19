@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve bama evlerinden ⟨את⟩ bir ev yaptı ve halkın uçlarından, Levi oğullarından olmayan kimselerden kahinler yaptı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bir evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bama( yüksek yerler)"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kahinler"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "uçlarından"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değillerdi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldu( lar)"
+    },
+    "not gerçek boyut",
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:20.300736088Z",
+  "model": "glm-5.3"
+}

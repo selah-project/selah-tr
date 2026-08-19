@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Kalbim güzel bir söz kaynatıyor; işlerimi krala anlatıyorum ben; dilim hızlı bir yazıcının kalemidir.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "kaynatıyor"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "güzel"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anlatıyorum"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "işlerimi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krala"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "dilim"
+    },
+    {
+      "surface": "עט",
+      "gloss": "kalem"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "yazıcı"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "hızlı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:14.372202431Z",
+  "model": "glm-5.3"
+}

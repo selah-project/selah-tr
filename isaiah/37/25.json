@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ben kuyular kazdım ve su içtim, ve ayak tabanımın avucuyla Mısır'ın bütün ırmaklarını kurutacağım.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "kazdım"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ve içtim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "ve kurutacağım"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "avucuyla"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ayak tabanımın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "ırmaklarını"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mısır'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:31.279476808Z",
+  "model": "glm-5.3"
+}

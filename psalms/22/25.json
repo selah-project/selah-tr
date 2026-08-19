@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Çünkü ezilenin eziyetini hor görmedi ve iğrenç saymadı; yüzünü ondan gizlemedi; ona doğru yakarışında ⟨onu⟩ işitti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hor görmedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iğrenç saymadı"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "eziyetini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezilenin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve gizlemedi değil"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "gizlemedi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "ve yakarışında"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona doğru"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "işitti"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:11.700955460Z",
+  "model": "glm-5.3"
+}

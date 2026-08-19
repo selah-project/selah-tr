@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Kâhin onu sunağa yaklaştıracak, ⟨את⟩ başını koparacak, sunakta tütsüleyecek; kanı sunağın duvarına akıtılacak.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "onu yaklaştıracak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ve koparacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başını"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ve tütsüleyecek"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sunakta"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "ve akıtılacak"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "duvar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:58.275652794Z",
+  "model": "glm-5.3"
+}

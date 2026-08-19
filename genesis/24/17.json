@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Köle onu karşılamaya koştu ve dedi: Lütfen kürahından az su yudumla⟨bana⟩.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "koştu"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "köle"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "onu karşılamaya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "yudumla bana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "kürahından"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:02.105478010Z",
+  "model": "glm-5.3"
+}

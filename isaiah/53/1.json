@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Kim inandı bizim işittiğimize, ve Yahve'nin kolu kime açıldı?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "inandı"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "bizim işittiğimize"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ve kolu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kime"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "açıldı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:19.289057566Z",
+  "model": "glm-5.3"
+}

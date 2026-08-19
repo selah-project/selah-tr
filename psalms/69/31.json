@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Elohim'in adını ezgiyle öveceğim ve ⟨O'nu⟩ şükranla büyüteceğim.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "öveceğim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "ezgiyle"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "ve O'nu büyüteceğim"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "şükranla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:20.402325279Z",
+  "model": "glm-5.3"
+}

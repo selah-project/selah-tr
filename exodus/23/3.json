@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve davasında yoksula öncelik tanımayacaksın.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ve yoksula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanımayacaksın"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "öncelik tanımayacaksın"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "davasında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:47.458154323Z",
+  "model": "glm-5.3"
+}

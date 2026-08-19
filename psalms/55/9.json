@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Kaçışımı acele ettiririm, savuran rüzgârdan, fırtınadan.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "acele ettiririm"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "kaçış"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "rüzgârdan"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "savuran"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "fırtınadan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:58.109082543Z",
+  "model": "glm-5.3"
+}

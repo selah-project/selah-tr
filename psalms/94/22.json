@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Ve Yahve benim için sığınağım ⟨oldu⟩, Elohim'im ise kaya-sığınağım.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "yüksek sığınak olarak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ve Elohim'im"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kaya olarak"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:48.610358339Z",
+  "model": "glm-5.3"
+}

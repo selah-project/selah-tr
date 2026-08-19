@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Sakın çok öfkeyle gazaplanma, ey Yahve, ve sonsuza dek suçu anımsama; işte bak şunu, hepimiz senin halkınız.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "gazaplanma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve sakın"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "anımsama"
+    },
+    {
+      "surface": "עון",
+      "gloss": "suç"
+    },
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "bak"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şunu (rica)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "senin halkın"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "hepimiz"
+    }
+  ],
+  "timestamp": "2026-08-19T10:04:11.847747573Z",
+  "model": "glm-5.3"
+}

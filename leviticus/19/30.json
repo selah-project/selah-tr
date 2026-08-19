@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "⟨את⟩ Şabatlarımı gözetin ve mabedimden korkun; Ben Yahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabatlarımı"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Şabatlarımı"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "gözetin"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ve mabedim"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "korkun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:57.281176438Z",
+  "model": "glm-5.3"
+}

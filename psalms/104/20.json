@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Karanlığı var edersin ve gece olur; onda ormanın bütün canlıları sürünür.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "var edersin"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "karanlığı"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve olur"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "sürünür"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "canlıları"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ormanın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:20.330925949Z",
+  "model": "glm-5.3"
+}

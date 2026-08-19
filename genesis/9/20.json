@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Noach — toprağın adamı — başladı ve bir bağ dikt(i).",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ve başladı"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ve dikt(i)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "bağ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:28.093346375Z",
+  "model": "glm-5.3"
+}

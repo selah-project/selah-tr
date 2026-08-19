@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Yehova'nın yollarında yüreği yüceldi; ayrıca ⟨את⟩ yüksek yerleri ve ⟨את⟩ Aşerimleri Yehuda'dan kaldırdı.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "yüceldi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yüreği"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüksek yerleri"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "yüksek yerleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aşerimleri"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Aşerimleri"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yehuda'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T12:06:25.859137966Z",
+  "model": "glm-5.3"
+}

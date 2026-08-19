@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Onun günlerinde Edom, Yahuda ⟨eli⟩ egemenliği altından başkaldırdı ve üzerine kendi ⟨krallarını⟩ bir kral getirip krallık yaptılar.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "onun günlerinde"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "başkaldırdı"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨eli⟩ eli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ve krallık yaptılar"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "üzerlerine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bir kral"
+    }
+  ],
+  "timestamp": "2026-08-19T12:07:05.084929845Z",
+  "model": "glm-5.3"
+}

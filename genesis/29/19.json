@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Lavan dedi: Onu ⟨את⟩ sana vermem, onu ⟨את⟩ başka bir adama vermemden iyidir; yanımda otur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "vermem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "vermemden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "otur"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yanımda"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:46.043143907Z",
+  "model": "glm-5.3"
+}

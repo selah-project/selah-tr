@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Uykusuz nöbette kaldım ve oldum yalnız kuş gibi çatıda.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "uykusuz nöbette kaldım"
+    },
+    {
+      "surface": "ויהיה ואהיה",
+      "gloss": "ve oldum"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kuş gibi"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "גג",
+      "gloss": "çatıda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:17.007980559Z",
+  "model": "glm-5.3"
+}

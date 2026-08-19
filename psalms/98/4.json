@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 98,
+  "translation": "Haykırın Yahve'ye, bütün düzza; coşkuyla patlayın, sevinçle çığlık atın, ilahi söyleyin.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Haykırın"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "coşkuyla patlayın"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ve sevinçle çığlık atın"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "ve ilahi söyleyin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:36.811919113Z",
+  "model": "glm-5.3"
+}

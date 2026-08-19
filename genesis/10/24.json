@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Arpakşad ⟨את⟩ Şelah'ı doğurdu ve Şelah ⟨את⟩ Ever'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ve Arpakşad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelah'ı"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Şelah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ve Şelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever'ı"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:54.010317838Z",
+  "model": "glm-5.3"
+}

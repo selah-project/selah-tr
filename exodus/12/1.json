@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yahve Moşe'ye ve Aharon'a, Mıtsrayim ülkesinde ⟨işte⟩ şöyle söyleyip konuştu:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve kime"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle söyleyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:18.392508891Z",
+  "model": "glm-5.3"
+}

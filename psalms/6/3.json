@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Bana lütfet Yahve, çünkü bitkinim ben; iyileştir beni Yahve, çünkü sarsıldı kemiklerim.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "bana lütfet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "bitkinim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "iyileştir beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kemiklerim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:57.305316911Z",
+  "model": "glm-5.3"
+}

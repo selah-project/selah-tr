@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Yere bakar — sarsılır; dağlara dokunur — tüterler.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "bakar"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yere"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "sarsılır"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "dokunur"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "dağlara"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "tüterler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:25.713386263Z",
+  "model": "glm-5.3"
+}

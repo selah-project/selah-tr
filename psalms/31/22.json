@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Kutludur Yahve, çünkü merhametini bana şaşılası kıldı kuşatmalı kentte.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kutludur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "şaşılası kıldı"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "merhametini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kentte"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kuşatmalı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:12.580979726Z",
+  "model": "glm-5.3"
+}

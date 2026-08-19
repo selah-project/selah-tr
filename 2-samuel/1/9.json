@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve bana dedi: Lütfen üstüme gel ve beni öldür, çünkü beni şaşkınlık yakaladı, çünkü canım hâlâ bende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "üstüne gel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstüme"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "ve beni öldür"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "beni yakaladı"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "şaşkınlık"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hâlâ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "...şekilde"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bende"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:39.375115258Z",
+  "model": "glm-5.3"
+}

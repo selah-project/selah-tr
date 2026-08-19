@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve ⟨את⟩ başını kestiler ve ⟨את⟩ silahlarını soydular ve Filist ülkesine, etrafa, putlarının evinde ⟨את⟩ halka müjdelemek için gönderdiler.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "ve kestiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başını"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ve soydular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silahlarını"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "silahlarını"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ve gönderdiler"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesine"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filist"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "etrafa"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "müjdelemek için"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "putlarının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "halka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halka"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:31.569648040Z",
+  "model": "glm-5.3"
+}

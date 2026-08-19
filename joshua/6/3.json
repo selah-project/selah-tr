@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve ⟨ את ⟩ şehri dolanacaksınız — bütün savaş adamları ⟨ את ⟩ şehri bir kez çevreleyerek; böylece altı gün yapacaksın.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "Ve dolanacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "savaşın"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "çevreleyerek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kez"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:42.317848963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Günlerin ölümlü insanın günleri gibi mi, yılların bir adamın günleri gibi mi?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "gibi mi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insanın"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "günlerin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "yılların"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "bir adamın günleri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:29.091254960Z",
+  "model": "glm-5.3"
+}

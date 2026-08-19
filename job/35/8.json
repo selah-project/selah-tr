@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Senin gibi bir insana kötülüğün, insanoğluna da doğruluğun ⟨dokunur⟩.",
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "bir insana"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "senin gibi"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "kötülüğün"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ve oğluna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanoğluna"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "doğruluğun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:37.224848901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Bana topraktan bir sunak yapacaksın ve üzerinde ⟨את⟩ yakmalık sunularını ve ⟨את⟩ esenlik sunularını — ⟨את⟩ koyunlarını ve ⟨את⟩ sığırlarını — keseceksin; adımı anımsatacağım her yerde sana geleceğim ve seni kutsayacağım.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "topraktan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "ve keseceksin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakmalık sunularını"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "yakmalık sunularını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "esenlik sunularını"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "esenlik sunularını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koyunlarını"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "koyunlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sığırlarını"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "sığırlarını"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "anımsatacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adımı"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "adımı"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "geleceğim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "ve kutsayacağım seni"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:22.944201345Z",
+  "model": "glm-5.3"
+}

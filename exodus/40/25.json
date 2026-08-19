@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve Yahve'nin önünde kandilleri yaktı, nasıl ki Yahve Moşe'ye ⟨את⟩ emretti.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yaktı"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "kandilleri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nasıl ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "emretti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe'ye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:16.496243365Z",
+  "model": "glm-5.3"
+}

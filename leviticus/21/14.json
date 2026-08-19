@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Dul, boşanmış, kirlenmiş veya fahişe — ⟨את⟩ bunları almayacak; ancak kendi halkından bir bâkireyi kadın olarak alacak.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "dul"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "boşanmış"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "kirlenmiş"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "fahişe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunları"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "almayacak"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alacak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bir bâkire"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "kendi halkından"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alacak"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadın olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:08.598265915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Kendi gözünde bilge ⟨olan⟩ bir adam gördün mü — avamdan ona ⟨daha çok⟩ umut vardır.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "gördün mü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kendi gözünde"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "umut"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "avam için"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan (daha çok)"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:34.556878251Z",
+  "model": "glm-5.3"
+}

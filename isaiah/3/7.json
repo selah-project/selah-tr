@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "O gün kişi yükselip şöyle diyecek: «Heleci olmayacağım, evimde ekmek yok, giysi yok, beni halka önder yapmayın.»",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "yükselip diyecek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olmayacağım"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "heleci"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "ve evimde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "giysi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "yapmayın"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "önder"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halk"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:03.015525669Z",
+  "model": "glm-5.3"
+}

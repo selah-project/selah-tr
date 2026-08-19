@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ben hayatı sevmedim, çünkü güneşin altında yapılan iş bana kötü geldi; çünkü her şey hevel ve ruhun sıkıntısıdır.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ve nefret ettim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayatı"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hayatı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "yapılan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel (boşluk)"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ve sıkıntısı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:17.494687853Z",
+  "model": "glm-5.3"
+}

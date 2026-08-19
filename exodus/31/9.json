@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "ve ⟨את⟩ yakma sunağının ve ⟨את⟩ bütün gereçlerini, ve ⟨את⟩ yıkanma havuzunu ve ⟨את⟩ kaidesini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yakma sunağı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "yakma sunağı"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün gereçleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "gereçleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yıkanma havuzu"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "yıkanma havuzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaidesi"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "kaidesi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:56.215368151Z",
+  "model": "glm-5.3"
+}

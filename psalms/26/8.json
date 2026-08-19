@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Yahve, evinin konutunu ve görkeminin meskeninin yerini sevdim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevdim"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "konutunu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ve yerini"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "meskeninin"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "görkeminin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:14.491858002Z",
+  "model": "glm-5.3"
+}

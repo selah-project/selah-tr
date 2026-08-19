@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve eğer seninle barış yapmazsa ve seninle savaş yaparsa, ona kuşatma uygulayacaksın.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değilse"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "barış yaparsa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ve yaparsa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "kuşatacaksın"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:43.716915879Z",
+  "model": "glm-5.3"
+}

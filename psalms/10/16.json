@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Yahve kraldır ebediyen ve sonsuza dek; uluslar onun ülkesinden yok oldular.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraldır"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve sonsuza dek"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "yok oldular"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "onun ülkesinden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:16.638035545Z",
+  "model": "glm-5.3"
+}

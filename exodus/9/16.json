@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve doğrusu bunun için ayakta tuttum seni: ⟨את⟩ gücümü sana göstermek için, ve adımın bütün yeryüzünde anlatılması için.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ve doğrusu"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "-diği için"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "seni ayakta tuttum"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "-mek için"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "sana göstermek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gücümü"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ve -ması için"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "anlatmak"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "adımın"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:43.806343741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Eli ⟨את⟩ feryadın sesini duydu ve dedi: Bu şamatanın sesi nedir? Ve adam acele etti, geldi ve Eli'ye bildirdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ve duydu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feryadın sesini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "feryadın"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nedir"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "şamatanın"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ve adam"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "acele etti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ve bildirdi"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eli'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:45.980218870Z",
+  "model": "glm-5.3"
+}

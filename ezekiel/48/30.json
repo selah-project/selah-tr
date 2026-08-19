@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Ve bunlar ⟨⟩ kentin çıkıntılarıdır: kuzey yönünden beş yüz ve dört bin ölçü.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve bunlar"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "çıkıntıları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kentin"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "yönünden"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kuzey"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ve dört"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bin"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ölçü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:38:23.794121723Z",
+  "model": "glm-5.3"
+}

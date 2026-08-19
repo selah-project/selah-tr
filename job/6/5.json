@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yaban eşeği ot üzerinde böğürür mü, öküz yemi üzerinde böğürür mü?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "böğürür mü"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "yaban eşeği"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "böğürür"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "yemi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:27.490931396Z",
+  "model": "glm-5.3"
+}

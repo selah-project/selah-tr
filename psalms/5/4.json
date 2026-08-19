@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yahve, sabah sesimi işitirsin; sabah sana sunumu düzenlerim ve gözcü olurum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "işitirsin"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sesimi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "düzenlerim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "ve gözcü olurum"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:47.818572304Z",
+  "model": "glm-5.3"
+}

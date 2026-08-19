@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "⟨את⟩ Silahlarını ilahlarının evine koydular ve ⟨את⟩ kafatasını Dagon'un evine çaktılar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "koydular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Silahlarını"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "Silahlarını"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilahlarının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kafatasını"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "kafatasını"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "çaktılar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:12.974119268Z",
+  "model": "glm-5.3"
+}

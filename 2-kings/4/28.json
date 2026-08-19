@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve dedi: Efendimden ⟨את⟩ bir oğul mu istedim? Söylemedim mi: Beni ⟨את⟩ aldatmayacaksın?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "istedim mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "söyledim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "–me"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "aldat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "beni"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:49.461915697Z",
+  "model": "glm-5.3"
+}

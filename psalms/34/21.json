@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Bütün kemiklerini korur; onlardan biri kırılmaz.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "biri"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "kırılmaz"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:28.830900227Z",
+  "model": "glm-5.3"
+}

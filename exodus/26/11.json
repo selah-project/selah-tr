@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Elli tunç çengel yapacaksın ve çengelleri ilmeklere ⟨את⟩ sokacaksın ve çadırı ⟨את⟩ bağlayacaksın; ve ⟨⟨tek olacaktır⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yapacaksın"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "çengelleri"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tunç"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "elli"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "sokacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çengelleri"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "çengelleri"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "ilmeklere"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "bağlayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadırı"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olacaktır"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:50.355166378Z",
+  "model": "glm-5.3"
+}

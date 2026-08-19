@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Ve ⟨את⟩ bütün Naftali'yi, ⟨את⟩ Efrayim ve Menaşşe ülkesini, ⟨את⟩ bütün Yehuda ülkesini, sonraki denize kadar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün Naftali'yi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali'yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Efrayim ülkesini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesini"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ve Menaşşe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün Yehuda ülkesini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denize"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "sonraki"
+    }
+  ],
+  "timestamp": "2026-08-19T09:07:30.997520124Z",
+  "model": "glm-5.3"
+}

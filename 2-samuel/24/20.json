@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Aravna bakınca ⟨את⟩ kralı ve ⟨את⟩ kendisine doğru geçen hizmetkârlarını gördü; Aravna dışarı çıktı ve kralın önünde yüzü yere değerek yere kapandı.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "bakınca"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hizmetkârlarını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hizmetkârlarını"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "geçen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kendisine doğru"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve dışarı çıktı"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ve yere kapandı"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralın önünde"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "yüzü"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:34.639342761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ester ⟨את⟩ halkını ve ⟨את⟩ soyunu bildirmedi; çünkü Mordehay ona, bildirmemesi için buyruk vermişti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkını"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "soyunu"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "soyunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyruk verdi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "bildirsin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:58.172294984Z",
+  "model": "glm-5.3"
+}

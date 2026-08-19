@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Günahkârları kötülük kovalar, ama salihleri ⟨את⟩ iyilikle ödüllendirir.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "günahkârları"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "kovalar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "salihleri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salihler"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödüllendirir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:33.691397048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 25:2",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve şöyle olur: eğer kötü dayağı hak etmişse, hâkim onu yıktırır ve kendi önünde, kötülüğünün ölçüsüne göre, sayılı olarak dövdürür.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve şöyle olur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "layık"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "dayak"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "והפילו",
+      "gloss": "yıktırır"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "hâkim"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "dövdürür"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "kendi önünde"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "ölçüsüne göre"
+    },
+    {
+      "surface": "רשעתו",
+      "gloss": "kötülüğünün"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayılı olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:19.585117302Z",
+  "model": "glm-5.3"
+}

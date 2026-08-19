@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Kalk, o büyük şehir Nine'e git ve ⟨ona⟩ karşı seslen; çünkü kötülükleri yüzümün önüne çıktı.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehre"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "o büyük"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ve seslen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona karşı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "kötülükleri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüme"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:30.252880764Z",
+  "model": "glm-5.3"
+}

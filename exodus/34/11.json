@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Kendin için bugün sana emrettiğim ⟨את⟩ şeye dikkat et; işte yüzünün önünden ⟨את⟩ Emorî'yi, Kenanî'yi, Hittî'yi, Perizzî'yi, Hivvî'yi ve Yevusî'yi kovuyorum.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "dikkat et"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendin için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şeye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sana emrettiğim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "kovuyorum"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "yüzünün önünden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorî'yi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorî'yi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ve Kenanî'yi"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ve Hittî'yi"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ve Perizzî'yi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ve Hivvî'yi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ve Yevusî'yi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:01.939310133Z",
+  "model": "glm-5.3"
+}

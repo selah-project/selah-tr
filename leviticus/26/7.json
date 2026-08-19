@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve düşmanlarınızı ⟨את⟩ kovalayacaksınız ve önünüzde kılıca düşecekler.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "ve kovalayacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşmanlarınızı"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmanlarınızı"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ve düşecekler"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "önünüzde"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kılıca"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:39.074323308Z",
+  "model": "glm-5.3"
+}

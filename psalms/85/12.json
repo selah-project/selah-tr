@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 85,
+  "translation": "Emet topraktan süreceksin ⟨⟨will⟩⟩, ve tsedek göklerden eğilip bakacak.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "emet"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "topraktan"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "süreceksin"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ve tsedek"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "göklerden"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "eğilip bakacak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.888537164Z",
+  "model": "glm-5.3"
+}

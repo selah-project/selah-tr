@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve ⟨eğer⟩ bir hayvan kirliyse, takdirin üzerinden fidyeyle kurtulsun ve beşte birini üzerine eklesin; ve ⟨eğer⟩ kurtarılmazsa, takdirin üzerinden satılsın.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "hayvan"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "kirli"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "ve fidyeyle kurtulsun"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "takdirin üzerinden"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ve eklesin"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "beşte biri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "kurtarılırsa"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ve satılsın"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "takdirin üzerinden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:53.085052763Z",
+  "model": "glm-5.3"
+}

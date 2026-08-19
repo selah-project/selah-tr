@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "«Vay bize! Bu güçlü Elohim'lerin elinden bizi kim kurtaracak? Bunlar ⟨הם⟩ Mısır'ı çölde her türlü vuruşla vuran Elohim'lerdir.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "kurtaracak bizi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'lerin"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨הם⟩ onlardır"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'ler"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "vuran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mısır'ı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ı"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her türlü"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "vuruşla"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:22.794132804Z",
+  "model": "glm-5.3"
+}

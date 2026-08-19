@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Tanıkların eli onun üzerine ilk olarak ölümü için olacak, ve bütün halkın eli sonra; ve kötüyü ⟨⟨senin⟩⟩ ortadan söküp atacaksın.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "tanıkların"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ilk olarak"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ölümü için"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ve eli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ve söküp atacaksın"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ortandan"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:29.280990957Z",
+  "model": "glm-5.3"
+}

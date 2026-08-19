@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü seni Mıtsrayim ülkesinden çıkardım, köleler evinden seni kurtardım ve önüne Moşe'yi ⟨את⟩, Aharon'u ve Miryam'ı gönderdim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "çıktardım seni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ve evinden"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "köleler"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "kurtardım seni"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ve gönderdim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ve Miryam"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:38.235791120Z",
+  "model": "glm-5.3"
+}

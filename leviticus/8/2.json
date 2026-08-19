@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "⟨את⟩ Aharon'u ve ⟨את⟩ oğullarını onunla al, ⟨את⟩ giysileri, ⟨את⟩ mesh yağını, ⟨את⟩ günah sunusu boğasını, ⟨את⟩ iki koçu ve ⟨את⟩ mayasız ekmek sepetini.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "giysileri"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "giysileri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "mesh yağını"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağını"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "boğayı"
+    },
+    {
+      "surface": "פר",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "iki koçu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "koçu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sepeti"
+    },
+    {
+      "surface": "סל",
+      "gloss": "sepet"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mayasız ekmek"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:47.478723222Z",
+  "model": "glm-5.3"
+}

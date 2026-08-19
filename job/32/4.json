@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Elihu ise İyov'u ⟨את⟩ sözlerde bekledi, çünkü onlar ondan günler bakımından yaşlıydılar.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "ve Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "bekledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sözlerde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "yaşlı"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "günler bakımından"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:39.271936794Z",
+  "model": "glm-5.3"
+}

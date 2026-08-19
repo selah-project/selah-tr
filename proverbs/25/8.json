@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Tartışmaya aceleyle çıkma, yoksa komşun ⟨את⟩ seni utandırdığında sonunda ne yapacağını ⟨bilmezsin⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıkma"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "tartışmaya"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "aceleyle"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yapacağını"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "utandırdığında"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "komşun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:47.239949054Z",
+  "model": "glm-5.3"
+}

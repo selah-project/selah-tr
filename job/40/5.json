@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Bir kere konuştum ve cevap vermeyeceğim, iki kere ⟨de⟩ ve artık eklemeyeceğim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "bir kere"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "konuştum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "cevap vereceğim"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "iki kere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ekleyeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:48.411290415Z",
+  "model": "glm-5.3"
+}

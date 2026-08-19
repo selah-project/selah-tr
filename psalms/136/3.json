@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Efendilerin efendisi Adonay'e şükredin, çünkü sonsuza dek sürer O'nun sevgi-merhameti.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükredin"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "efendilerin efendisi Adonay'e"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "efendilerin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgi-merhameti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:10.325013228Z",
+  "model": "glm-5.3"
+}

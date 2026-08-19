@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Yahve Moşe'ye dedi: Ne zamana kadar buyruklarımı ve toralarımı gözetmeyi reddediyorsunuz?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ne zamana"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "redediyorsunuz"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "gözetmeyi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "buyruklarımı"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ve toralarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:39.075296910Z",
+  "model": "glm-5.3"
+}

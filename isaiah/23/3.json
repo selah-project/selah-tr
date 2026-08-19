@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve bol sular üzerinde Şihor'un tohumu, nehrin hasadı ⟨onun⟩ geliri oldu; ve o ulusların pazarı oldu.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "Ve sular üzerinde"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bol"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohumu"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Şihor'un"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "hasadı"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "nehrin"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "geliri"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ve o oldu"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "ticaret merkezi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusların"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:35.255228710Z",
+  "model": "glm-5.3"
+}

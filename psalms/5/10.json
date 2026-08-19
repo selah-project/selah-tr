@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çünkü ağzında doğruluk ⟨yoktur⟩, içleri belâdır ⟨ve⟩ yürekleri; boş bir mezardır boğazları, dilleriyle yalarak pürüzsüz konuşurlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "doğruluk"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "içleri"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "belâ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mezar"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "açık\/boş"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "boğazları"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dilleriyle"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "pürüzsüz konuşurlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:54.773602410Z",
+  "model": "glm-5.3"
+}

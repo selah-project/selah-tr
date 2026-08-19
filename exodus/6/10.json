@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Yahve Moşe'ye konuştu, ⟨şöyle⟩ diyerek.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:49.878976428Z",
+  "model": "glm-5.3"
+}

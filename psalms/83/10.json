@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Onlara Midyan gibi yap, Kişon vadisinde Sisera gibi, Yavin gibi ⟨yap⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yap"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "Midyan gibi"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "Sisera gibi"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "Yavin gibi"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "vadisinde"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kişon"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:26.905570361Z",
+  "model": "glm-5.3"
+}

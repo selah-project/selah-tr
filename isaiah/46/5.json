@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Kimi bana benzetirsiniz, kimi eşit kılarsınız, kimi bana kıyaslarınız ki benzer olsun?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "bana benzetirsiniz"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "ve eşit kılarsınız"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "ve bana kıyaslarınız"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "ki benzer olsun"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:19.998443240Z",
+  "model": "glm-5.3"
+}

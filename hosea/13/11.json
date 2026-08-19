@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Öfkemde sana bir kral verdim ve gazabımda ⟨onu⟩ aldım.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bir kral"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "öfkemde"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ve aldım"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "gazabımda"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:31.940730302Z",
+  "model": "glm-5.3"
+}

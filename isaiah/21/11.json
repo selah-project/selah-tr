@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Yük: Duma. Bana Seir'den biri sesleniyor: Nöbetçi, geceden ne kaldı? Nöbetçi, geceden ne kaldı?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Duma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sesleniyor"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "Seir'den"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nöbetçi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "geceden kaldı"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nöbetçi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "geceden kaldı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:05.808518118Z",
+  "model": "glm-5.3"
+}

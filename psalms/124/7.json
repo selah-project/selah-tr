@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 124,
+  "translation": "Canımız kuş gibi kaçtı kuş tuzaklarından; tuzak kırıldı ve biz kurtulduk.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "canımız"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kuş gibi"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "tuzak(lar)dan"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "kuş tuzağı kuran(lar)"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "tuzak"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "kırıldı"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ve biz"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "kurtulduk"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:44.695829921Z",
+  "model": "glm-5.3"
+}

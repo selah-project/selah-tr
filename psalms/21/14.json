@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Yahve, gücünle yücel; senin kahramanlığına karşı śarkı söyleyip ezgilendiriyoruz.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "yücel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "gücünle"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "śarkı söyleyelim"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "ve ezgilendirelim"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "kahramanlığın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:47.297480385Z",
+  "model": "glm-5.3"
+}

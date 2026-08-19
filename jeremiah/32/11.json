@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve satış senedini aldım — ⟨את⟩ mühürlü nüshayı, ⟨the⟩ şart ve hükümleriyle, ve ⟨את⟩ açık nüshayı.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ve aldım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senedi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "senet"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "satış"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mühürlü nüshayı"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "mühürlü"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "şartları"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ve hükümleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "açık nüshayı"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "açık"
+    }
+  ],
+  "timestamp": "2026-08-19T10:13:40.174895245Z",
+  "model": "glm-5.3"
+}

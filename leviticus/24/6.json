@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve koyacaksın onları ⟨את⟩ iki sıra halinde, sıra başına altışar, saf masanın üzerine, Yahve'nin önüne.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ve koyacaksın"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (çörekleri)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "sıra (dizilim)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "sıra"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "saf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:17.427664127Z",
+  "model": "glm-5.3"
+}

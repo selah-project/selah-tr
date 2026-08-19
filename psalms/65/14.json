@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 65,
+  "translation": "Koyun sürüleriyle dolu kırlıklar ⟨⟨giyinir⟩⟩ ve vadiler tahılla örtünür; bağrışırlar, evet şakırlar.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "giyinir"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "sürüleri"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "koyun"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "ve vadiler"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "örtünür"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tahılla"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "bağrışırlar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "evet"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "şakırlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:47.425984595Z",
+  "model": "glm-5.3"
+}

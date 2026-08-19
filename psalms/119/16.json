@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Törelerinde zevk duyacağım, sözünü unutmayacağım.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Törelerinde"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "zevk duyacağım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "unutmayacağım"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözünü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:14.725189889Z",
+  "model": "glm-5.3"
+}

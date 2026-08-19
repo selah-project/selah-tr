@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Onu yücelt, o ⟨seni⟩ yükseltir; onu kucakladığında seni onurlandırır.",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "onu yücelt"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "ve o yükseltir seni"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "onu onurlandırır seni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-dığında"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "onu kucakladığında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:41.284752261Z",
+  "model": "glm-5.3"
+}

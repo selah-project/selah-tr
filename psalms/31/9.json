@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve beni düşmanın eline kapatmadın; ayaklarımı geniş yerde durdurdun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "beni kapatmadın"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "el(in)de"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "durdurdun"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "geniş yer(de)"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaklarım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:56.170764359Z",
+  "model": "glm-5.3"
+}

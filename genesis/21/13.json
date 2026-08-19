@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve ⟨את⟩ cariyenin oğlunu da bir ulus yapacağım, çünkü o senin zürriyettir.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve ... da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cariyenin oğlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "cariyenin"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bir ulus"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "onu yapacağım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "senin zürriyetin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:25.073210669Z",
+  "model": "glm-5.3"
+}

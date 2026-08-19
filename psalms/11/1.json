@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Koro şefine. Davut'a ait. Yahve'ye sığındım; canıma «Kaç, kuş gibi dağa kaç!» nasıl dersiniz?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koro şefine"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davut'a ait"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "איך",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "dersiniz"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "kaç"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "dağınıza"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "kuş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:30.461317527Z",
+  "model": "glm-5.3"
+}

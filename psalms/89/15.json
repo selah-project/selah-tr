@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "Sadakat ve hüküm ⟨senin⟩ tahtının temelidir; sevgi-dostluk ve gerçek yüzünün önünde yürür.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "sadakat"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ve hüküm"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "temeli"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tahtının"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi-dostluk"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ve gerçek"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "önünde giderler"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:13.754311918Z",
+  "model": "glm-5.3"
+}

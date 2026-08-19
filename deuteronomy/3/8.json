@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve o zamanda Ürdün'ün ötesindeki, Arnon vadisinden Hermon dağına kadar olan iki Emorlu kralının elinden ülkeyi ⟨את⟩ aldık.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ve aldık"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ötesinde"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ürdün'ün"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "vadisinden"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…e kadar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:41.445495848Z",
+  "model": "glm-5.3"
+}

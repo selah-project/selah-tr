@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Moab'ın yükü. Çünkü bir gecede Moab'ın Ar'ı yağmalandı, ⟨o⟩ sustu; çünkü bir gecede Moab'ın Kir'i yağmalandı, ⟨o⟩ sustu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab'ın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "bir gecede"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yağmalandı"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab'ın"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "sustu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "bir gecede"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yağmalandı"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab'ın"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "sustu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:54:22.895066502Z",
+  "model": "glm-5.3"
+}

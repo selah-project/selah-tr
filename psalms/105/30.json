@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Kurbağalarla kaynaştı ⟨the⟩ ülkeleri, krallarının ⟨the⟩ odalarında.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "kaynaştı\/çoğaldı"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ülkeleri"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "kurbağalar"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "odalarında"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "krallarının"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:16.866291973Z",
+  "model": "glm-5.3"
+}

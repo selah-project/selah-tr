@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Sabahleyin çiçeklenir ve geçip gider; akşama doğru biçilir ve kurur.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "çiçeklenir"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ve geçip gider"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "akşama doğru"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "biçilir"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ve kurur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:43.891569760Z",
+  "model": "glm-5.3"
+}

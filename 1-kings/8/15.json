@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve dedi: Kutsudur Yahve, Yisrael'in Elohim'i, ki ağzıyla ⟨את⟩ atam Davud'a söyledi ve eliyle tamamladı, diye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "kutsudur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söyledi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ağzıyla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atam Davud'a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ve eliyle"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tamamladı"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diye"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:32.887155633Z",
+  "model": "glm-5.3"
+}

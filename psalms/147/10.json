@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Atın gücünde hoşlanmaz, adamın bacaklarında yönelmez.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "gücünde"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "atın"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hoşlanmaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "bacaklarında"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "yönelmez"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:57.362333904Z",
+  "model": "glm-5.3"
+}

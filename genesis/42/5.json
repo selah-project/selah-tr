@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Yisrael oğulları tahıl almaya geldiler, gelenler arasında, çünkü kıtlık vardı Kenaan ülkesinde.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "geldiler"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "tahıl almaya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "gelenler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kıtlık"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkesinde"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:40.874447064Z",
+  "model": "glm-5.3"
+}

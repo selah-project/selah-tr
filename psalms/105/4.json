@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Yahve'yi ve gücünü arayın, O'nun yüzünü sürekli arzulayın.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "arayın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ve gücünü"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "arzulayın\/dileyin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "O'nun yüzünü"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:16.829298540Z",
+  "model": "glm-5.3"
+}

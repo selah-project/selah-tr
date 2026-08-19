@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Ay'ı ve yıldızları geceye egemen olsunlar diye ⟨את⟩; çünkü sonsuza dek sürer onun sevgisi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ay'ı"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "Ay'ı"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ve yıldızları"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "egemen olsunlar diye"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "geceye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun sevgisi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:57.651102099Z",
+  "model": "glm-5.3"
+}

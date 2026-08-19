@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve seni yaklaştırdı, ⟨את⟩ seni ve ⟨את⟩ bütün kardeşlerini, Levi oğullarını, ⟨את⟩ seninle birlikte — ve siz ayrıca kâhinliği mi arıyorsunuz?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ve yaklaştırdı"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün kardeşlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşlerini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle birlikte"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "ve arıyorsunuz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "kâhinliği"
+    }
+  ],
+  "timestamp": "2026-08-19T07:38:02.519098566Z",
+  "model": "glm-5.3"
+}

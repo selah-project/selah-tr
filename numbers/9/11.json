@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "İkinci ayda, on dördüncü günde, akşamlar arasında onu ⟨את⟩ yapacaklar; mayasız ekmeklerle ve acı otlarla onu yiyecekler.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ayda"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "dört"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "akşamlar"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "yapacaklar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (pesah'ı)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mayasız ekmekler"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "ve acı otlar"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "onu yiyecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:41.144814038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Düşse bile tamamen atılmaz ⟨değildir⟩; çünkü Yahve elini desteklemektedir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "atılmaz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "destekler"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    }
+  ],
+  "timestamp": "2026-08-19T12:36:31.339503151Z",
+  "model": "glm-5.3"
+}

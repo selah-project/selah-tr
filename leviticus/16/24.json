@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve bedenini kutsal bir yerde suda yıkayacak, giysilerini giyecek, çıkacak ve kendi yakmalık sunusunu ve halkın yakmalık sunusunu yapacak ve kendisi için ve halk için kefaret yapacak.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "yıkayacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bedenini"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bedenini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "giyecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giysilerini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıkacak"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "yapacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakmalık sunusunu"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kendi yakmalık sunusunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "halkın yakmalık sunusunu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yakmalık sunusunu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kefaret yapacak"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "kendisi için"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ve için"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:35.448215270Z",
+  "model": "glm-5.3"
+}

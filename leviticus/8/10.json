@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Moşe mesh yağını aldı; ⟨את⟩ mişkanı ve içindeki her şeyi meshetti, ve onları kutsadı.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ve meshetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mişkanı"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mişkanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "onları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:02.474072251Z",
+  "model": "glm-5.3"
+}

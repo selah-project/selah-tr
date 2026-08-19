@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve şimdi gel, seni Paro'nun yanına göndereyim; ⟨את⟩ halkımı, Yisrael oğullarını, Miṣrayim'den çıkar.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "seni göndereyim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...in yanına"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Miṣrayim'den"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:08.883557793Z",
+  "model": "glm-5.3"
+}

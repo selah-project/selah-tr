@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Eğer onu yerinden yutsa, ⟨o yer⟩ onu inkâr eder: 'Seni görmedim.'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "onu yutsa"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "yerinden"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ve inkâr eder"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "seni gördüm"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:57.438080814Z",
+  "model": "glm-5.3"
+}

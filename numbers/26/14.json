@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Bunlar Şimon oğullarının aileleridir: yirmi iki bin iki yüz.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "aileleri"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "Şimon'un"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ve yirmi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ve iki yüz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:57.310867508Z",
+  "model": "glm-5.3"
+}

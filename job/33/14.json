@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Çünkü El bir ⟨kez⟩ konuşur, ve iki ⟨kez⟩, ⟨kimse⟩ onu gözetlemez.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "bir ⟨kez⟩"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "konuşur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ve iki ⟨kez⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…-mez"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "gözetlemez"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:56.963967187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Gece ⟨henüz⟩ varken kalktı ve ev halkına yemek, hizmetçi kızlarına da pay verdi.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "henüz... varken"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "yemek"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "ev halkına"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ve pay"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "hizmetçi kızlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:02.161631504Z",
+  "model": "glm-5.3"
+}

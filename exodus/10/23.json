@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kimse ⟨את⟩ kardeşini görmedi ve üç gün boyunca hiç kimse yerinden kalkmadı; ama bütün Yisrael oğullarına yerleşim yerlerinde ışık vardı.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kimse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiç kimse"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "yerinden"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışık"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "yerleşim yerlerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:59.235140961Z",
+  "model": "glm-5.3"
+}

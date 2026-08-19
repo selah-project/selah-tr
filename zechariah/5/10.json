@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Benimle konuşan meleğe dedim: Nereye götürüyorlar efanın ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ve dedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "melek"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konuşan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nereye"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "götürüyorlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efayı"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-08-19T10:47:20.722119821Z",
+  "model": "glm-5.3"
+}

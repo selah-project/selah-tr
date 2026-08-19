@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Sadakati büyük cemaatte müjdeledim; işte dudaklarımı kapatmadım, Yahve, sen bildin.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "müjdeledim"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sadakat"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "cemaatte"
+    },
+    {
+      "surface": "רב",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudaklarımı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "kapattım"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bildin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:08.162010814Z",
+  "model": "glm-5.3"
+}

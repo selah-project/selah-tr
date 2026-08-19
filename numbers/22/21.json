@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Bilam sabahleyin kalktı ve dişi eşeğini ⟨את⟩ bağladı ve Moav önderleriyle gitti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "bağladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dişi eşeğini"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "dişi eşeğini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "önderleri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-19T07:39:28.497197848Z",
+  "model": "glm-5.3"
+}

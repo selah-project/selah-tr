@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Bunları hatırlarım ve canımı üzerime dökerim; çünkü kalabalıkla geçerim, onlarla yumuşak yürüyerek Elohim'in evine kadar, sevinç ve şükran sesiyle, bayram tutan bir kalabalıkla.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "hatırlarım"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "ve dökerim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "geçerim"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "kalabalıkla"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "onlarla yumuşak yürürüm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sesiyle"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sevinç"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "ve şükran"
+    },
+    {
+      "surface": "המון",
+      "gloss": "bir kalabalık"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "bayram tutan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:11.817301476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve çocuk büyüdü ve sütten kesildi; Avraham ⟨את⟩ Yitshak'ın sütten kesildiği gün büyük bir ziyafet yaptı.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Ve büyüdü"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ve sütten kesildi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ziyafet"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "sütten kesilme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:30.839122086Z",
+  "model": "glm-5.3"
+}

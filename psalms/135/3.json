@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Övün Yah, çünkü Yahve iyidir; adına ezgiler söyleyin, çünkü o tatlıdır.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ezgi söyleyin"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "adına"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "tatlı\/hoş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:23.188633117Z",
+  "model": "glm-5.3"
+}

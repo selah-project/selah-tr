@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Yehoşua halkı ⟨את⟩ gönderdi, herkes kendi mülküne.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kendi mülküne"
+    }
+  ],
+  "timestamp": "2026-08-19T12:13:02.612769568Z",
+  "model": "glm-5.3"
+}

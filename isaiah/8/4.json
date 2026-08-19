@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Çünkü çocuk 'babam' ve 'annem' çağırmayı bilmeden önce Şam'ın ⟨את⟩ servetini ve Şomron'un ⟨את⟩ ganimetini Aşur kralının önüne taşıyacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "önce"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmeden"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırmayı"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babam"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ve annem"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "taşıyacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "servet"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "servet"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Şam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ganimet"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ganimet"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    }
+  ],
+  "timestamp": "2026-08-19T09:52:29.272155278Z",
+  "model": "glm-5.3"
+}

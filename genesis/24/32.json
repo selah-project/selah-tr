@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve adam eve girdi, ve develeri çözledi, ve develere saman ve yem verdi, ve ayaklarını yıkaması için ve yanındaki ⟨את⟩ adamların ayaklarını [yıkaması için] su verdi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve girdi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "eve doğru"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ve çözledi"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "develeri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "saman"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "ve yem"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "develere"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ve su"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "yıkamak için"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "onun ayaklarını"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ve ayaklarını"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "onunla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:46.505295072Z",
+  "model": "glm-5.3"
+}

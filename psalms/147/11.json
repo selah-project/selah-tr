@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 147,
+  "translation": "Yahve' den korkanlardan ⟨את⟩ hoşnut olur, bağışına umut bağlayanlardan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "hoşnut olur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "O'ndan korkanlar"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "O'ndan korkanlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bağışına umut bağlayanlar"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "umut bağlayanlar"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "bağışına"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:57.362480660Z",
+  "model": "glm-5.3"
+}

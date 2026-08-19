@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Onu değiştirmeyecek ve onu takas etmeyecek — iyiyi kötüyle veya kötüyü iyyle; ve eğer behemayı behemayla takas ederse ⟨olsa⟩, hem o hem de onun karşılığı kutsal olacaktır.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "onu değiştirir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "takas eder"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (iyi)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiyi"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kötüyle"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötüyü"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "iyiyle"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "המר",
+      "gloss": "takas eder"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "takas etse"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "behema"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "behemayla"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ve olur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ve onun karşılığı"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaktır"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:58.759995004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Yatağımın üzerinde başımın görümlerinde görüyordum, ve işte bir gözcü ve kutsal biri gökten iniyor ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "görüyordum"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "görümlerinde"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yatağımın"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gözcü"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "ve kutsal biri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "gökten"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "indi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:43:03.291773114Z",
+  "model": "glm-5.3"
+}

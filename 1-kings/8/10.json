@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve oldu: kâhinler kutsal yerden çıktıklarında, bulut Yahve'nin evini ⟨את⟩ doldurdu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "çıktıklarında"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal yer"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ve bulut"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:04.631011997Z",
+  "model": "glm-5.3"
+}

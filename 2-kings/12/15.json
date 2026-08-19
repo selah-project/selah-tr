@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Çünkü onu işi yapanlara verirlerdi ve onunla Yahve'nin ⟨את⟩ evini güçlendirirlerdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "yapanlara"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "onu verirlerdi"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ve güçlendirirlerdi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:15.382646564Z",
+  "model": "glm-5.3"
+}

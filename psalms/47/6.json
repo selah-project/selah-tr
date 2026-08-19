@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Elohim zafer narasıyla yükseldi, Yahve şofar sesiyle.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "yükseldi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "zafer narasıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sesiyle"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:24.951255679Z",
+  "model": "glm-5.3"
+}

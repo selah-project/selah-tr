@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Yoksunlukla ve açlıkla kimsesiz ⟨kalmışlar⟩; kurak yerdekini ısıranlar — dün ⟨bile⟩ yıkım ve harabeydi.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "yoksunlukla"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "ve açlıkla"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "kimsesiz\/çorak"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "ısıran\/kazıyan"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kurak yer"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "dün"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "ve harabe"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:26.162387448Z",
+  "model": "glm-5.3"
+}

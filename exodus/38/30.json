@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Onunla ⟨את⟩ Buluşma Çadırının kapısının kaide(larını), ve ⟨את⟩ tunç sunağı, ve ⟨את⟩ sunağın tunç ızgarasını, ve ⟨את⟩ sunağın bütün kaplarını yaptı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaideler"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kaideler"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kapısı"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırın"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "buluşma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tunç sunak"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tunç"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tunç ızgara"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ızgara"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tunç"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona ait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün kaplar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kapları"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:28.631445776Z",
+  "model": "glm-5.3"
+}

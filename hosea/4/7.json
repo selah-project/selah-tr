@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Çoğaldıkça bana karşı öylece günah işlediler; onurlarını utanca çevireceğim.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "çoğaldıkça"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "günah işlediler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana karşı"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "onurlarını"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "utanca"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "çevireceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:29.135483624Z",
+  "model": "glm-5.3"
+}

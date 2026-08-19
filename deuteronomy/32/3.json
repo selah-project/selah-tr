@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Çünkü Yahve'nin adını çağıracağım; Elohimimiz'e büyüklük verin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağıracağım"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "büyüklük"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimimiz'e"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:41.391777882Z",
+  "model": "glm-5.3"
+}

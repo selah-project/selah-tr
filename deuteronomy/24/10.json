@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Komşuna herhangi bir borç verdiğinde rehinini almak için onun evine girmeyeceksin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ne zaman"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "verdiğinde borç"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "komşuna"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "borç"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "herhangi bir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "gireceksin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "onun evine"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "rehin almak için"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "rehinini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:00.182521444Z",
+  "model": "glm-5.3"
+}

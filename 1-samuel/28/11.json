@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Kadın dedi: ⟨את⟩ kimi çıkarayım sana? Ve o dedi: ⟨את⟩ Şmuël'i — çıkar bana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "çıkarayım"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şmuël'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmuël'i"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "çıkar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:45.328516006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ben gördüm ki hikmetin ahmaklıktan üstünlüğü ⟨var⟩, ışığın karanlıktan üstünlüğü gibi.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ve ben gördüm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "ki … ⟨var⟩"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "üstünlük"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "hikmetin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "ahmaklık"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "üstünlüğü gibi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ışığın"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "karanlık"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:14.323444303Z",
+  "model": "glm-5.3"
+}

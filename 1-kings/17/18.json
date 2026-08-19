@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Eliyahu'ya dedi: Bana ne, sana ne, ⟨yâ⟩ Elohim adamı? Bana ⟨gelmişsin⟩ suçumu anımsatmaya ve oğlumu öldürmeye.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ḳarşı"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ve sana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "geldin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "anımsatmaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suçum"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "suçum"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "ve öldürmeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:54.974566888Z",
+  "model": "glm-5.3"
+}

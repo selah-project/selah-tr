@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 113,
+  "translation": "Tozdan yoksulu ⟨O⟩ kaldırır, çöplükten ⟨⟩ fakiri yüceltir.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "kaldırır"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "tozdan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "çöplükten"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "yüceltir"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "fakir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:38.690349084Z",
+  "model": "glm-5.3"
+}

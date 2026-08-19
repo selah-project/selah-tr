@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Kararımsın yıldızları karanlık olsun; ışık beklesin de ⟨bir şey⟩ olmasın; şafakların kirpiklerini görmesin.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "karanlık olsun"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "yıldızları"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "alacakaranlığının"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "beklesin"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ışığı"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve ⟨bir şey⟩ olmasın"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ... -mesin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görsün"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "kirpiklerini"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "şafakların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:43.135018523Z",
+  "model": "glm-5.3"
+}

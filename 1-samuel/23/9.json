@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Davud, Şaul'ün kendisine karşı gizlice kötülük planladığını bilince, kâhin Eviyatar'a: Efodu yaklaştır, dedi.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "bilince"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kendisine karşı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "gizlice planlıyor"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "yaklaştır"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:54.492488167Z",
+  "model": "glm-5.3"
+}

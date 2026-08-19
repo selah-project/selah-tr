@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve ona ⟨את⟩ Bilha'yı, hizmetçisini, eş olarak verdi; ve Yaakov onunla yattı.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha'yı"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "hizmetçisini"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "eş olarak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve yattı (girdi)"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:43.259125960Z",
+  "model": "glm-5.3"
+}

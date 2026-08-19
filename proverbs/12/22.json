@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yalan dudaklar Yahve'nin iğrençliğidir, ama sadakatle iş yapanlar ⟨onun⟩ hoşnutlığıdır.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "iğrençliğidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudaklar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "ama iş yapanlar"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sadakatle"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "⟨onun⟩ hoşnutlığıdır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:15.203241913Z",
+  "model": "glm-5.3"
+}

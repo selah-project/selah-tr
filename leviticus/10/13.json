@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Onu ⟨את⟩ kutsal yerde yiyeceksiniz, çünkü senin hakkın ve oğullarının hakkıdır, Yahve'nin ateş adaklarındandır; çünkü böyle emrolundum.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ve yiyeceksiniz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (kalan tahıl sunusu)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerde"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "senin hakkın"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ve hak"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o(dur)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ateş adaklarından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "emrolundum"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:18.125174941Z",
+  "model": "glm-5.3"
+}

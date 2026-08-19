@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Onun yüceliği sizi korkutmuyacak mı? Ve onun dehşeti üzerinize düşmeyecek mi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "onun yüceliği"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "korkutacak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ve onun dehşeti"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşecek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "üzerinize"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:01.480356114Z",
+  "model": "glm-5.3"
+}

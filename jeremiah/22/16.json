@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Yoksulun ve düşkünün davasını yargıladı — o zaman iyi ⟨idi⟩. Bu, ⟨את⟩ Beni bilmek değil midir? — Yahve'nin sözü.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "yargıladı"
+    },
+    {
+      "surface": "דין",
+      "gloss": "davasını"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksulun"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "düşkünün"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bu ⟨olan⟩"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "bilmek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Beni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sözü\/bildirisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:11:15.059751759Z",
+  "model": "glm-5.3"
+}

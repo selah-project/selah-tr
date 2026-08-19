@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Yahve'nin gözünde değerlidir ⟨onun⟩ haslıklarının ölümü ⟨המותה⟩.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "değerli"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ölümü ⟨המותה⟩"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "haslıklarının"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:29.869181421Z",
+  "model": "glm-5.3"
+}

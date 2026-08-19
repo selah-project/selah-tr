@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 114,
+  "translation": "Ey dağlar, koçlar gibi zıpladınız; siz tepecikler, sürü kuzularının yavruları gibi!",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ey dağlar"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "zıpladınız"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "koçlar gibi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "siz tepecikler"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "...yavrularının gibi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:31.953060074Z",
+  "model": "glm-5.3"
+}

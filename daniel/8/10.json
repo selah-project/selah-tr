@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Göklerin ordusuna kadar büyüdü ve ordudan ve yıldızlardan ⟨bazılarını⟩ yere düşürdü ve onları çiğnedi.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "büyüdü"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "düşürdü"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ordudan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve -den"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "yıldızlardan"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "onları çiğnedi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:44:14.242880259Z",
+  "model": "glm-5.3"
+}

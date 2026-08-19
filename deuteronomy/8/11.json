@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Kendine dikkat et, yoksa Yahve'yi, Elohim'ini ⟨את⟩ unutursun — buyruklarını, hükümlerini ve tüzüklerini gözetmemek için, ki ben sana bugün buyuruyorum.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "dikkat et"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutursun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'ini"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "için değil"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gözetmek"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "buyruklarını"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ve hükümlerini"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ve tüzüklerini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sana buyuruyorum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:28.787595973Z",
+  "model": "glm-5.3"
+}

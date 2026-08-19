@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kulum Moşe böyle değildir; bütün evimde güvenilir olan odur.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değildir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulum"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "evimde"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "güvenilir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:01.383879219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Çünkü Yahve ateşle ve kılıcıyla ⟨את⟩ tüm eti yargılayacak; ve Yahve'nin öldürülmüşleri çok olacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "yargılayacak"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "ve kılıcıyla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm eti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "eti"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ve çok olacak"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "öldürülmüşleri\/delik deşik edilenleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:59.696965939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve Şuha'nın kardeşi Keluv, Mehir'i ⟨את⟩ babası oldu; o, Eşton'un babasıdır.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ve Keluv"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Şuha'nın"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehir'i"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mehir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babası"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eşton'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:54.182313037Z",
+  "model": "glm-5.3"
+}

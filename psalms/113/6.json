@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 113,
+  "translation": "⟨O⟩, görmek için ⟨kendini⟩ alçaltır — göklerde ve ⟨⟩ yeryüzünde.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "alçaltan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göklerde"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ve yeryüzünde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:38.690206685Z",
+  "model": "glm-5.3"
+}

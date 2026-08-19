@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ⟨את⟩ Oval'ı, ⟨את⟩ Avimael'i ve ⟨את⟩ Şeva'yı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Oval'ı"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oval'ı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Avimael'i"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Şeva'yı"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva'yı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:58.169137365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve ahit kitabını aldı ve halkın kulaklarında okudu; ve dediler: Yahve'nin konuştuğu her şeyi yapacağız ve dinleyeceğiz.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabını"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ahit"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "okudu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kulaklarında"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştuğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yapacağız"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "ve dinleyeceğiz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:57.575006086Z",
+  "model": "glm-5.3"
+}

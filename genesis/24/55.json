@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve kardeşi ile annesi dedi: Genç kız bizimle ⟨את⟩ günler ya da on gün otursun; sonra gitsin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve annesi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "otursun"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "genç kız"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle",
+      "marks": "bizimle"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "on gün"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gitsin"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:04.121427687Z",
+  "model": "glm-5.3"
+}

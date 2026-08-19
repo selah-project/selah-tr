@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Yanık karşılığında yanık, yara karşılığında yara, çürük karşılığında çürük.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "yanık"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılığında"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "yanık"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılığında"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "çürük"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılığında"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "çürük"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:00.745611591Z",
+  "model": "glm-5.3"
+}

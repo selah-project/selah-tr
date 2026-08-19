@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Arkada ve önde çepeçevre kuşattın beni, ve elini ⟨senin⟩ üzerime koydun.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "arkada"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "ve önde"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "kuşattın beni"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ve koydun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "avucun"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:30.427937404Z",
+  "model": "glm-5.3"
+}

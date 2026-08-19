@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 76,
+  "translation": "Ezgiciye, telli çalgılarla; Asaf'a bir mizmor, bir şarkı.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ezgiciye"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "telli çalgılarla"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "bir mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf'a"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bir şarkı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:36:54.624828812Z",
+  "model": "glm-5.3"
+}

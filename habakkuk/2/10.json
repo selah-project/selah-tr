@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Sen evin için utanç tasarladın — ⟨böylece⟩ birçok halkı yok ederek kendi canına karşı günah işledin.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "tasarladın"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "utanç"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "evin için"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "yok ederek"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halkları"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "birçok"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ve günah işledin"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:45:39.107533918Z",
+  "model": "glm-5.3"
+}

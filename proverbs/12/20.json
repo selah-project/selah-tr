@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kötülük kurgulayanların yüreğinde hile ⟨vardır⟩, barış öğütleyenlere ⟨gelince⟩ sevinç ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "hile"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "yüreğinde"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "kurgulayanların"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "ama öğütleyenlere"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barış"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinç"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:29.979050693Z",
+  "model": "glm-5.3"
+}

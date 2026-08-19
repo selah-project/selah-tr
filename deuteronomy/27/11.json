@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve Moşe o gün halka ⟨את⟩ şöyle emretti:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ve emretti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:25.404532109Z",
+  "model": "glm-5.3"
+}

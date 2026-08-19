@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Ormandan gelen yaban domuzu onu kemiriyor, tarlanın canlısı onu otlatıyor.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "onu kemiriyor"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "domuz"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ormandan"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ve zîz"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "onu otlatıyor"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:47.758904751Z",
+  "model": "glm-5.3"
+}

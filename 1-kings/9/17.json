@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Şelomo ⟨את⟩ Gezer'i, ⟨את⟩ Aşağı Bet-Horon'u ve ⟨את⟩ Baalat'ı, ⟨את⟩ çöldeki Tamar'ı, ülkenin ⟨את⟩ bütün ambar şehirlerini inşa etti —",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aşağı Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "aşağı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:19.507956071Z",
+  "model": "glm-5.3"
+}

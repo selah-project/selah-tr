@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Sizin kuzunuz kusursuz, erkek, bir yaşında olsun; koyunlardan veya keçilerden alacaksınız.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "kuzu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yılın"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "koyunlar"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "veya -dan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "keçiler"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:10.511013380Z",
+  "model": "glm-5.3"
+}

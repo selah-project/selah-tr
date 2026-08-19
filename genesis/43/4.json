@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Eğer kardeşimizi ⟨את⟩ bizimle göndermeye razıysan, ineriz ve sana yiyecek satın alırız.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "razıysan"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "göndermeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşimizi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "kardeşimizi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "ineriz"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ve satın alırız"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:08.677970211Z",
+  "model": "glm-5.3"
+}

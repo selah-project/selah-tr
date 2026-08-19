@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Kardeşin Yaakov'a ⟨yaptığın⟩ şiddetten ötürü utanç seni ört(ecek), ve sonsuza dek kesilip atılacaksın.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "şiddetten"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kardeşin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "seni ört(ecek)"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "utanç"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ve kesilip atılacaksın"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:29.417365366Z",
+  "model": "glm-5.3"
+}

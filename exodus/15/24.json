@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve halk Moşe'ye karşı söylendi: «Ne içeceğiz?»",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "söylendi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e karşı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "içeceğiz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:48.013940979Z",
+  "model": "glm-5.3"
+}

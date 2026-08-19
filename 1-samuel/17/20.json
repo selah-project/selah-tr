@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Davud sabahleyin erken kalktı, sürüyü ⟨את⟩ bir bekçiye bıraktı ve yükünü alıp Yişay'nin ona buyurduğu gibi yola çıktı; ordugâh çemberine vardığında, ordu savaş düzenine çıkıyor ve savaş narası atıyordu.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "erken kalktı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "bıraktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürüyü"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bekçi"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ona buyurduğu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişay"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "çemberine"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "ve ordu"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "çıkıyordu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "savaş düzeni"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "nara atıyorlardı"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "savaşta"
+    }
+  ],
+  "timestamp": "2026-08-19T12:14:48.295201197Z",
+  "model": "glm-5.3"
+}

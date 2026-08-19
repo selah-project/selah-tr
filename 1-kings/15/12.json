@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve kutsal eşleri ülkeden uzaklaştırdı, atalarının yaptığı bütün putların ⟨את⟩ hepsini kaldırdı.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ve uzaklaştırdı"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kutsal eşleri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülke"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ve kaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün putlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "putlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarının"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:12.389474860Z",
+  "model": "glm-5.3"
+}

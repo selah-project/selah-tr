@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "İlahiler ⟨oldu⟩ bana ⟨senin⟩ hükümlerin, göç evimin ⟨içinde⟩.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "ilahiler"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "senin hükümlerin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evin içinde"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "göçümün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:32.038046392Z",
+  "model": "glm-5.3"
+}

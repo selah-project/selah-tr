@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Çünkü Yahve'nin işlerine ve ellerinin yapısına dikkat etmezler; ⟨onları⟩ yıkacak ve onları yeniden kurmayacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmezler"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "dikkat etmezler \/ anlamazlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "işler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "yapı \/ eser"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "onları yıkacak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "onları kuracak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:26.552203799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 56,
+  "translation": "Çünkü Yahve hadımlara böyle dedi: Şabatlarımı koruyanlar, ⟨את⟩ ve dilediğim şeyleri seçenler, ve antlaşmama sıkıca tutunanlar için.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "hadımlara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "koruyanlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabatlarımı"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Şabatlarımı"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "ve seçenler"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "şeyleri"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "dilediğim"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "ve sıkıca tutunanlar"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "antlaşmama"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:40.695427591Z",
+  "model": "glm-5.3"
+}

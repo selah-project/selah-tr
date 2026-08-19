@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Sadakati ⟨fısıldayan⟩ doğruluğu bildirir, ama yalancı tanık hile.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "fısıldayan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sadakati"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirir"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ama tanık"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "yalancı"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:29.978491362Z",
+  "model": "glm-5.3"
+}

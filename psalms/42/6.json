@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 42,
+  "translation": "Neden içindesin, canım, neden bende erimeye uğradın? Elohim'i bekle; çünkü O'na yine şükredeceğim, O'nun yüzünün kurtuluşlarına ⟨yani O'na⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "erimeye uğradın \/ çöktün"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "neden uğuldadın"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bende \/ üzerimde"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "bekle \/ um"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "O'na şükredeceğim"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kurtuluşlarına"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "O'nun yüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:11.817506337Z",
+  "model": "glm-5.3"
+}

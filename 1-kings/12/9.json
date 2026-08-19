@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Onlara dedi: Ne öğüt veriyorsunuz da ⟨את⟩ şu halka söz geri verebilirim — bana şöyle diyerek: Babanın bizim üstümüze koyduğu boyunduruktan hafiflet?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "öğüt veriyorsunuz"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "da geri verebilirim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu halka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dediler"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "hafiflet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העל",
+      "gloss": "boyunduruk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baban"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üstümüze"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:22.671449583Z",
+  "model": "glm-5.3"
+}

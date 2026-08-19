@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Yollar harap oldu, geçen yolcu kesildi; antlaşmayı bozdu, şehirleri hor gördü, insana değer vermedi.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "harap oldu"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "yollar"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kesildi\/sustu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçen"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yolcu\/yol"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bozdu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "antlaşmayı"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "hor gördü"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şehirleri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmedi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "değer verdi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:32.558183690Z",
+  "model": "glm-5.3"
+}

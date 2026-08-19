@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Yahve'den korkanlar desinler şimdi: «Çünkü merhameti sonsuza dek sürer.»",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "desinler"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "korkanlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'den"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "merhameti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:54.760106668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Yahve kötülerin değneğini kırdı, hüküm sürenlerin asâsını.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "kırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "değneği"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "asâyı"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "hüküm sürenlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:56.175970102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 118,
+  "translation": "Ölmeyeceğim, çünkü yaşayacağım ve Yah'ın işlerini anlatacağım.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ölmeyeceğim (değil)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ölmek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "yaşayacağım"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ve anlatacağım"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "işlerini"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:05.926018006Z",
+  "model": "glm-5.3"
+}

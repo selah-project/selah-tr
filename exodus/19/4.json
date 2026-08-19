@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "«Sizler Mısırlılara yaptıklarımı gördünüz, ve sizi kartal kanatları üzerinde taşıdım, ⟨את⟩ sizleri kendime getirdim.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "sizler"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "gördünüz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptıklarımı"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mısırlılara"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "taşıdım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "kanatları"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "kartal"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "getirdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kendime"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:46.324996778Z",
+  "model": "glm-5.3"
+}

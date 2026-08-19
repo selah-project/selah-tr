@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Adımla çağrılan herkes, görkemim için onu yarattım, onu biçimlendirdim, evet onu yaptım.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "çağrılan"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "adımla"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "ve görkemim için"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "onu yarattım"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "onu biçimlendirdim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "evet"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "onu yaptım"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:34.859436168Z",
+  "model": "glm-5.3"
+}

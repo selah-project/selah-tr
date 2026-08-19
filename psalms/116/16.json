@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Ey Yahve, ⟨dua ederim⟩; çünkü kulunum ben, kulunum ben, cariyenin oğluyum; bağlarımı çözdün.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ah, lütfen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunum"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulunum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "cariyenin"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "çözdün"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "bağlarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:29.869402947Z",
+  "model": "glm-5.3"
+}

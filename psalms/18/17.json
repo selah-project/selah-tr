@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Yukarıdan gönderdi, beni aldı, beni birçok sudan çekip çıkardı.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yukarıdan"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "beni aldı"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "beni çekip çıkardı"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "sudan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "birçok"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:10.451701213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Eğer atalarına yemin ettiğim ⟨את⟩ o yeri göreceklerse — bütün hakaret edenlerim onu görmeyecek.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "göreceklerse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "o yeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "yemin ettiğim"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "atalarına"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "hakaret edenlerim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "onu görecek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:02.014273424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 13:19",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Gerçekleşen istek cana tatlıdır; ama akılsızlara iğrençlikten kötülükten dönmektir.",
+  "tokens": [
+    {
+      "surface": "תאוה",
+      "gloss": "istek"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "gerçekleşen"
+    },
+    {
+      "surface": "תערב",
+      "gloss": "tatlıdır"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "cana"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ve-iğrençlik"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "akılsızlara"
+    },
+    {
+      "surface": "סור",
+      "gloss": "dönmektir"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kötülükten"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:53.971401994Z",
+  "model": "glm-5.3"
+}

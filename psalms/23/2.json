@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Taze otların bulunduğu meralarda beni yatırır, dinlenme sularının yanından beni yönetir.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "meralarda"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "taze otların"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "beni yatırır"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularının"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "dinlenme"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "beni yönetir"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:06.480724106Z",
+  "model": "glm-5.3"
+}

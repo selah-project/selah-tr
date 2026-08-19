@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Onlar ki halkımın etini yediler, derilerini üzerlerinden yüzdüler, ⟨את⟩ kemiklerini kırdılar ve tenceredeki gibi, kazanın ortasındaki et gibi parçaladılar.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "onlar ki"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yediler"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "etini"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımın"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "ve derilerini"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "üzerlerinden"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "yüzdüler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kemiklerini"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "kemiklerini"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "kırdılar"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ve parçaladılar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "tenceredeki"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "ve et gibi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasındaki"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kazanın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:44:33.487471552Z",
+  "model": "glm-5.3"
+}

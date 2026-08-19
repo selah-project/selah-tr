@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Sana dayandım rahimden, annemin bağırından ⟨sen⟩ çıkaran oldun; övgüm sürekli ⟨sana⟩ ⟨dir⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "dayandım"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "rahimden"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "bağırdan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "annemin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "çıkaran"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "övgüm"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:02.941438515Z",
+  "model": "glm-5.3"
+}

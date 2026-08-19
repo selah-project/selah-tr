@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 6:33",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "O henüz onlarla konuşurken, işte elçi ona iniyordu ve ⟨o⟩ şöyle dedi: İşte, bu kötülük Yahve'den ⟨את⟩; Yahve için ne kadar daha bekleyeyim?",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "henüz o"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "konuşurken"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "elçi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "iniyordu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'den (kaynak belirtme: min + את)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne kadar"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "bekleyeyim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve için"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:58.694705006Z",
+  "model": "glm-5.3"
+}

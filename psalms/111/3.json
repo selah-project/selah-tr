@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 111,
+  "translation": "Görkem ve haşmet ⟨vardır⟩ O'nun işinde; O'nun doğruluğu sonsuza dek durur.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "görkem"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ve haşmet"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "O'nun işinde"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ve O'nun doğruluğu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "durur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:33.644238007Z",
+  "model": "glm-5.3"
+}

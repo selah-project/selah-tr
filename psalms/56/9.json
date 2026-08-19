@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 56,
+  "translation": "Sığınağımı Sen saydın; gözyaşlarımı tulumuna koy — onlar kitabının içinde değil mi?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "sığınağımı (başımı kaçındığım yerleri)"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "Sen saydın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "koy"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "gözyaşlarımı"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "tulumuna"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "kitabının içinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:43.709167071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 133,
+  "translation": "Siyon dağlarına inen Hermon çiyi gibi — çünkü orada Yahve ⟨את⟩ bereketi buyurdu: sonsuza dek yaşamı.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "çiy gibi"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "inen"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "dağlarına"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bereketi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bereketi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaşamı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "(ebediyen)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:03.827002997Z",
+  "model": "glm-5.3"
+}

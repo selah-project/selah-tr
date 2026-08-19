@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Sana dayanan niyeti esenlik, esenlik içinde korursun; çünkü sana güvenmiştir.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "niyeti"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "dayanan"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "korursun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "güvenmiştir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:45.554849505Z",
+  "model": "glm-5.3"
+}

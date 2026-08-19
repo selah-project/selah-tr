@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Girişinde kutlu ⟨olsun⟩ ⟨sen⟩, ve çıkışında kutlu ⟨olsun⟩ ⟨sen⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kutlu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "gelişinde"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ve kutlu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "çıkışında"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:41.237804516Z",
+  "model": "glm-5.3"
+}

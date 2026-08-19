@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Kötüler böyle değildir; çünkü saman gibi ⟨onlar⟩ — rüzgârın savurduğu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "saman gibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "savurur onu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgâr"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:59.083669369Z",
+  "model": "glm-5.3"
+}

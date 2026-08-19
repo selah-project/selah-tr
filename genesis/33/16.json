@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve o gün Esav kendi yoluna Seir'e döndü.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ve döndü"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "kendi yoluna"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "Seir'e"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:40.395920243Z",
+  "model": "glm-5.3"
+}

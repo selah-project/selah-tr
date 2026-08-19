@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "İlk atan günah işledi ve aracıların bana başkaldırdı.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "atan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "İlk"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah işledi"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "ve aracıların"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "başkaldırdılar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T09:59:52.550448093Z",
+  "model": "glm-5.3"
+}

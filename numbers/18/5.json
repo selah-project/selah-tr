@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve koruyacaksınız ⟨את⟩ kutsalın gözetimini ve ⟨את⟩ sunağın gözetimini; artık Yisrael oğulları üzerine öfke olmayacak.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ve koruyacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsalın gözetimini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gözetim"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sunağın gözetimini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gözetim"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... olmayacak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "öfke"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:39.665105064Z",
+  "model": "glm-5.3"
+}

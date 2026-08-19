@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Dedikoducunun sözleri lokma yutkunur gibidir, ve onlar karnın odalarına iner.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "dedikoducunun"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "lokma yutkunur gibi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "iner"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "odalarına"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "karnın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:42.110022820Z",
+  "model": "glm-5.3"
+}

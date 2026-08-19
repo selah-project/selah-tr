@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Yehoşafat dedi: Burada Yahve'den ⟨באתו⟩ başka bir peygamber yok mu, ⟨ki⟩ O'ndan soralım?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "yok mu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'den"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "başka"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "ve soralım"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨מאתו⟩ O'ndan",
+      "marks": "O'ndan"
+    }
+  ],
+  "timestamp": "2026-08-19T12:06:44.633502003Z",
+  "model": "glm-5.3"
+}

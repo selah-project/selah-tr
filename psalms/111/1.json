@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 111,
+  "translation": "Yah'ı övün! Bütün kalbimle Yahve'ye şükredeceğim, dosdoğru olanların meclisinde ve cemaatte.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "şükredeceğim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kalbimle"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "meclisinde"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dosdoğru olanların"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ve cemaatte"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:33.643896739Z",
+  "model": "glm-5.3"
+}

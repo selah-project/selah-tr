@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Onların arasına sürü sineklerini gönderdi de onları yedi, ve kurbağalar da onları mahvetti.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların arasına"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sürü sinekleri"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ve onları yedi"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "ve kurbağalar"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ve onları mahvetti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:10.197243846Z",
+  "model": "glm-5.3"
+}

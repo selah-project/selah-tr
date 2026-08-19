@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "İşte, Başa'nın ardını ve evinin ardını tüketiyorum; evini ⟨את⟩, Nevat oğlu Yarovam'ın evi gibi vereceğim.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "tüketiyorum \/ yakıyorum"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardını"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa'nın"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ve ardını"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ve vereceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evini"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evini"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "…evi gibi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-08-19T09:40:50.660503487Z",
+  "model": "glm-5.3"
+}

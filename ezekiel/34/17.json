@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 34:17",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Siz ise, sürüm, şöyle diyor Adonay Yahve: İşte ben küçükbaş hayvanla küçükbaş hayvanın arasına, koçlarla teke keçilerin arasına hükmedeceğim.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "siz ise"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "sürüm"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hükmedeceğim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasına"
+    },
+    {
+      "surface": "שה",
+      "gloss": "küçükbaş hayvan"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "küçükbaş hayvanın"
+    },
+    {
+      "surface": "לאילים",
+      "gloss": "koçlar"
+    },
+    {
+      "surface": "ולעתודים",
+      "gloss": "teke keçiler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:33:59.189127275Z",
+  "model": "glm-5.3"
+}

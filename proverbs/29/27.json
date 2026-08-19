@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Zalim adam salihlerin iğrençliğidir; kötünün iğrençliği de yolda dosdoğru olandır.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "iğrençliği"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salihlerin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "עול",
+      "gloss": "zalim"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ve iğrençliği"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dosdoğru"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:36.199985848Z",
+  "model": "glm-5.3"
+}

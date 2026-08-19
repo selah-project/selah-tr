@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 90,
+  "translation": "Günlerimizi öylece saymayı bize öğret, ve ⟨biz⟩ hikmetin kalbine erişelim.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "saymayı"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "günlerimizi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "öğret"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "erişelim"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kalbine"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmetin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:39.862691210Z",
+  "model": "glm-5.3"
+}

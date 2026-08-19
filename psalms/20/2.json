@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Yahve seni sıkıntı gününde yanıtlasın; Yaakov'un Elohim'inin adı seni yüceltsin.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "seni yanıtlasın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıkıntının"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "seni yüceltsin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:26.020415981Z",
+  "model": "glm-5.3"
+}

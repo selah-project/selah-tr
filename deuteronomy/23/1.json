@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Bir adam babasının eşini ⟨את⟩ almayacak ve babasının eteğini açmayacaktır.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alacak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babasının eşini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "eş"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "açacak"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "eteğini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:25.350499613Z",
+  "model": "glm-5.3"
+}

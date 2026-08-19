@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "El'im, El'im, beni neden bıraktın? Kurtuluşumdan uzak, kükreyişimin sözlerinden ⟨⟨uzak⟩⟩.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El'im"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El'im"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "beni bıraktın"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "uzak"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "kurtuluşumdan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerinden"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "kükreyişimin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:12.952359647Z",
+  "model": "glm-5.3"
+}

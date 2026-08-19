@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Ne zamana kadar, Elohim, düşman hakaret edecek? Sana dost olmayan, adını sonsuza dek mi küçümseyecek?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ne zamana"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "hakaret edecek"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "küçümseyecek"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sana düşman olan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:35.883312788Z",
+  "model": "glm-5.3"
+}

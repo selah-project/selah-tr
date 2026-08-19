@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve işte Esav'ın, Edom'un babasının, Seir dağında ⟨olan⟩ soy kayıtları bunlardır.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve işte bunlar"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "soy kayıtları"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav'ın"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babasının"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom'un"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:22.000072602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Beni gören göz artık beni görmeyecek; gözlerin ⟨benim⟩ üstümde ⟨olacak⟩ ve ben ⟨artık⟩ olmayacağım.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "beni görmeyecek"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "görenüm"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözlerin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨üstümde⟩"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ve ben olmayacağım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:36.582766054Z",
+  "model": "glm-5.3"
+}

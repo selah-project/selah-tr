@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve ⟨o⟩ adamlar ⟨את⟩ ellerini uzattılar ve Lut'u kendilerine eve içeri getirdiler ve ⟨את⟩ kapıyı kapadılar.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ve uzattılar"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellerini"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ellerini"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ve getirdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lut'u"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut'u"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kendilerine"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "eve içeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kapıyı"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "kapıyı"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "kapadılar"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:23.944739598Z",
+  "model": "glm-5.3"
+}

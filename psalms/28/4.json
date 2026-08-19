@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Onlara ver — eylemlerine göre, ve yaptıklarının kötülüğüne göre; ellerinin işine göre onlara ver; karşılıklarını onlara geri öde.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "eylemlerine göre"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "ve kötülüğüne göre"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "yaptıklarının"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "işine göre"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ellerinin"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "השב",
+      "gloss": "geri öde"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "karşılıklarını"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:34.999303233Z",
+  "model": "glm-5.3"
+}

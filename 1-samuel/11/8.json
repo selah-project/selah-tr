@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve onları Bezek'te saydı; ve İsrail oğulları üç yüz bin, Yahuda adamları ise otuz bin idi.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "ve onları saydı"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezek'te"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ve idiler"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:36.357417361Z",
+  "model": "glm-5.3"
+}

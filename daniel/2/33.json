@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Bacakları demirdendi, ayakları ise bir kısmı demirden, bir kısmı ise çamurdandı.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "onun bacakları"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "onun ayakları"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "onlardan (bir kısmı)"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "ve onlardan (bir kısmı)"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "çamur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:49.184367389Z",
+  "model": "glm-5.3"
+}

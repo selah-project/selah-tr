@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ahab, İzevel'e Eliyahu'nun yaptığı her şeyi ve bütün peygamberleri kılıçla nasıl öldürdüğünü — ⟨את⟩ her şeyi ve ⟨את⟩ her şeyi, bütün peygamberleri ⟨את⟩ kılıçla öldürmesini — haber verdi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "haber verdi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "İzevel'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün peygamberleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peygamberleri"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kılıçla"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:38.348740469Z",
+  "model": "glm-5.3"
+}

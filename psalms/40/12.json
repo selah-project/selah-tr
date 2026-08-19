@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Sen, Yahve, rahmetlerini benden esirgemiyeceksin; hesdin ve gerçeğin sürekli beni koruyacak.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "esirgeyeceksin"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmetlerini"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesdin"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ve gerçeğin"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "beni koruyacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:08.162293147Z",
+  "model": "glm-5.3"
+}

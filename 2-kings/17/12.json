@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve putlara kulluk ettiler — ki Yahve onlara: 'Bu ⟨את⟩ işi yapmayacaksınız' demişti.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ve kulluk ettiler"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "putlara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "işi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:14.631575659Z",
+  "model": "glm-5.3"
+}

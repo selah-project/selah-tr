@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Uluslar arasında görkemini anlatın, bütün halklar arasında harikalarını.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "anlatın"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "uluslar içinde"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "görkemini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün... içinde"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "harikalarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:32.393783217Z",
+  "model": "glm-5.3"
+}

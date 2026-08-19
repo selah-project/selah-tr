@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Ve gelecek ve ⟨את⟩ Mıtsrayim ülkesini vuracak: ölüm için olan ölüme, esirlik için olan esirliğe, kılıç için olan kılıca.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "ve gelecek"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ve vuracak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mıtsrayim ülkesini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ülkesini"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki ne"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölüm için"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölüme"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ne"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "esirlik için"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "esirliğe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve ne"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kılıç için"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kılıca"
+    }
+  ],
+  "timestamp": "2026-08-19T10:19:18.284358159Z",
+  "model": "glm-5.3"
+}

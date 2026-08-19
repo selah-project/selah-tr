@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Eğer ⟨o⟩ dönerse değil — kılıcını bileyler, yayını germiş ⟨ve⟩ onu hazırlamıştır.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dönerse"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kılıcını"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "bileyler"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "yayını"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "germiş"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "ve onu hazırlamıştır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:02.060302004Z",
+  "model": "glm-5.3"
+}

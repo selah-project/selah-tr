@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Efendim kullarına ⟨את⟩ sordu: Size baba ya da kardeş var mı, diye.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "sordu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kullarına"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kullarına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diye"
+    },
+    {
+      "surface": "היש",
+      "gloss": "var mı"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "אח",
+      "gloss": "kardeş"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:55.293832099Z",
+  "model": "glm-5.3"
+}

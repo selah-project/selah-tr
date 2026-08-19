@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Ve saf altından bir kaporet yaptı: uzunluğu iki buçuk arşın, genişliği bir buçuk arşın.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "saf"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iki arşın"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ve buçuk"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve bir arşın"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ve buçuk"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "genişliği"
+    }
+  ],
+  "timestamp": "2026-08-19T07:20:58.747158399Z",
+  "model": "glm-5.3"
+}

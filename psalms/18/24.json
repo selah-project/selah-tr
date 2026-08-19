@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve O'na karşı kusursuz oldum ve suçumdan kendimi korudum.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ve oldum"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kusursuz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "O'nunla"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ve kendimi korudum"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "suçumdan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:43.948916109Z",
+  "model": "glm-5.3"
+}

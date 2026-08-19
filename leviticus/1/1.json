@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yahve Moşe'ye seslendi ve onunla buluşma çadırından konuştu, şöyle derken:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "seslendi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e (doğru)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "çadırdan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "buluşma"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle derken"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:58.610065471Z",
+  "model": "glm-5.3"
+}

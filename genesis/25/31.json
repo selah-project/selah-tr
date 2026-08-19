@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yaakov dedi: Bugün ⟨את⟩ bekârlığını bana sat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "sat"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bekârlığını"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "bekârlığını"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:19.291720062Z",
+  "model": "glm-5.3"
+}

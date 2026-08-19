@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 84,
+  "translation": "Serçe bile bir ev buldu, kırlangıç kendine bir yuva — yavrularını koyduğu yeri: ⟨את⟩ sunaklarını, Yahve Tsevaot, kralım ve Elohim'im.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "serçe"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "buldu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "ve kırlangıç"
+    },
+    {
+      "surface": "קן",
+      "gloss": "yuva"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-diği"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "koyduğu"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "yavrularını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunaklarını"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "sunaklarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralım"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ve Elohim'im"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:43.872287300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Yedinci şabbatın ertesi gününe kadar elli gün sayacaksınız ve Yahve'ye yeni bir minah sunacaksınız.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertesi gün"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbatın"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "sayacaksınız"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "elli"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "ve sunacaksınız"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minah (tahıl sunusu)"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:37.154705814Z",
+  "model": "glm-5.3"
+}

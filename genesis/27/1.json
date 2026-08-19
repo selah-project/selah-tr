@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve ⟨olmuştu⟩ ki Yitshak yaşlandı, gözleri görmekten karardı; oğullarından büyüğü Esav'ı çağırdı ve ona «Oğlum» dedi; o da ona «İşte buradayım» dedi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve ⟨oldu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlandı"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "karardı"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözleri"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "görmekten"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav'ı"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "büyüğü"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte buradayım"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:05.414071513Z",
+  "model": "glm-5.3"
+}

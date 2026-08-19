@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yoav, Ammon oğullarının Rabbat'ına karşı savaştı ve ⟨את⟩ kral şehrini ele geçirdi.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "savaştı"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabbat'a karşı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ele geçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kral şehrini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kralın \/ krallığın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:51.379720041Z",
+  "model": "glm-5.3"
+}

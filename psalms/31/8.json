@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Sevineceğim ve ⟨senin⟩ sadakatında coşacağım, ki gördün ⟨את⟩ sıkıntımı; bildin darlıklarda ⟨olmayı⟩ canımın.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "sevineceğim"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ve coşacağım"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sadakatında"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sıkıntımı"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "sıkıntımı"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bildin"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "darlıklarda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:49.323243954Z",
+  "model": "glm-5.3"
+}

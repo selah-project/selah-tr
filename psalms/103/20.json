@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Yahve'yi kutsayın, Onun malakhları, güçlü kahramanlar, Onun davarını yapanlar, Onun davarının sesine kulak vermek için.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "kutsayın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "Onun malakhları"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "kahramanları"
+    },
+    {
+      "surface": "כח",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "yapanlar"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Onun davarını"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kulak vermek için"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sesine"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Onun davarının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:15.614047163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Sizi yeminle bağladım, Yeruşalayim kızları, ceylanlar ya da tarlaların geyikleri hakkı için: aşkı uyandırmayın, aşkı harekete geçirmeyin — ⟨את⟩ aşkı — ta ki o dile(yi)nceye dek.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "yeminle bağladım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "Yeruşalayim kızları"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ceylanlar hakkı için"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "geyikleri hakkı için"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlaların"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-ma (olumsuzluk)"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "uyandırmayın"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve -me"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "harekete geçirmeyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aşk"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "aşk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ... dek"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "o dile(yi)nce"
+    }
+  ],
+  "timestamp": "2026-08-19T12:38:02.673835570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 112,
+  "translation": "İyi ⟨bir⟩ adam, bağışlayandır ve ödünç verendir; işlerini yargı ile sürdürür.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "bağışlayan"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ve ödünç veren"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "sürdürür"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "işlerini"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "yargı ile"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:43.040170874Z",
+  "model": "glm-5.3"
+}

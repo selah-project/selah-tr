@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "⟨Onlar⟩ gördüler, ⟨böylece⟩ şaşkınlığa düştüler; dehşete kapıldılar, telâşla kaçtılar.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "⟨onlar⟩"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨böylece⟩"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "şaşkınlığa düştüler"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "dehşete kapıldılar"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "telâşla kaçtılar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:20.978328069Z",
+  "model": "glm-5.3"
+}

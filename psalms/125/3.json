@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 125,
+  "translation": "Çünkü kötünün değneği doğru kimselerin kaderi üzerinde dinlenmeyecek; öyle ki doğrular ellerini suça uzatmayacaklar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "dinlenecek"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "değneği"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kötünün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kaderi"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "doğru kimselerin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "öyle ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "uzatacaklar"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "doğrular"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "suça"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ellerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:35.792597500Z",
+  "model": "glm-5.3"
+}

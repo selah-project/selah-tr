@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "ve ⟨את⟩ her kuzgunu cinsince,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "her kuzgunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kuzgun"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "cinsince"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:12.982007941Z",
+  "model": "glm-5.3"
+}

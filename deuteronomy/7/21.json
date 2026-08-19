@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Onlardan korkma, çünkü Yahve Elohim'in senin ortanda ⟨dır⟩, büyük ve korkunç El.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "kork"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "senin ortanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ve korkunç"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:58.351724046Z",
+  "model": "glm-5.3"
+}

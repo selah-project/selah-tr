@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Moav yıkanma kazanımdır; Edom üzerine sandalımı atacağım; Peleşet üzerine bağırıp zafer ilan edeceğim.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kazan"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yıkanmamın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "atacağım"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandalım"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleşet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "bağırıp zafer ilan edeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:21.808248068Z",
+  "model": "glm-5.3"
+}

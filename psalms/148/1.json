@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 148,
+  "translation": "Övün Yah! Övün Yahve'yi göklerden, ⟨את⟩ onu ululayın yüceliklerde.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "onu ululayın"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "yüceliklerde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:09.724252891Z",
+  "model": "glm-5.3"
+}

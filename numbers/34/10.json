@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Doğu sınırını kendiniz için Hatsar-Enan'dan Şefam'a doğru çizeceksiniz.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "çezeceksiniz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kendiniz için"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "sınır"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "doğu"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "Hatsar'dan"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enan"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "Şefam'a"
+    }
+  ],
+  "timestamp": "2026-08-19T07:43:31.688955446Z",
+  "model": "glm-5.3"
+}

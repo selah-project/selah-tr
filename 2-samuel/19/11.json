@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve üzerimize meshettiğimiz Avşalom savaşta öldü; ve şimdi kralı ⟨את⟩ geri getirmekte niçin susuyorsunuz?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ve Avşalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "meshettik"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzerimize"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "savaşta"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niçin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "susuyorsunuz"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "geri getirmeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:25.906593485Z",
+  "model": "glm-5.3"
+}

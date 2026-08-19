@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Yahve'nin meleği ona ateş alevi içinde, çalımn ortasından göründü; baktı ve işte çalı ateşle yanıyordu, ama çalı tüketilmiyordu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve göründü"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "meleği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "alevi içinde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "çalının"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve baktı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "çalı"
+    },
+    {
+      "surface": "בער",
+      "gloss": "anıyordu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "ama çalı"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "değildi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "tüketiliyor"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:08.828988664Z",
+  "model": "glm-5.3"
+}

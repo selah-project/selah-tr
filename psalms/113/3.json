@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 113,
+  "translation": "Güneşin doğuşundan batışına dek övülür Yahve'nin adı.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "doğuşundan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "batışına"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "övülür"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:35.503306911Z",
+  "model": "glm-5.3"
+}

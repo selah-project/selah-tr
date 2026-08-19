@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve ondan sabaha kadar bir şey bırakmayacaksınız; sabaha kadar ondan arta kalanı ateşte yakacaksınız.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve…me"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "bırakmayacaksınız"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabaha"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ve arta kalan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sabaha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "yakacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:19.138952236Z",
+  "model": "glm-5.3"
+}

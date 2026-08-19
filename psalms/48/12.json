@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Siyon Dağı sevsin, Yahuda'nın kızları senin hükümlerin yüzünden coşsun.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sevsin"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dağı"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "coşsun"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kızları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda'nın"
+    },
+    {
+      "surface": "למען",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "senin hükümlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:28.984190085Z",
+  "model": "glm-5.3"
+}

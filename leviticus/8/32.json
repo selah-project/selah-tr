@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Etten ve ekmekten arta kalanı ateşle yakacaksınız.",
+  "tokens": [
+    {
+      "surface": "ו הנותר",
+      "gloss": "ve arta kalanı"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "etten"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ve ekmekten"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "yakacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:03.165239694Z",
+  "model": "glm-5.3"
+}

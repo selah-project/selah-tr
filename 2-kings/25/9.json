@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve Yahve'nin ⟨את⟩ evini, kralın evini ve ⟨את⟩ Yeruşalayim'in bütün evlerini yaktı; ve ⟨את⟩ her büyük evi ateşte yaktı.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "ve yaktı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'nin evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kralın evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün evleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "evleri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "her büyük evi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yaktı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:57.768819092Z",
+  "model": "glm-5.3"
+}

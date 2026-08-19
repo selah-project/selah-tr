@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Kalbim çarpıyor, gücüm beni terk etti ve gözlerimin ışığı — onlar bile ⟨את⟩ yanımda değil.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "çarpıyor"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "beni terk etti"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ve ışığı"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerimin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yanımda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:02.587501911Z",
+  "model": "glm-5.3"
+}

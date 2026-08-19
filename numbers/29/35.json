@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Sekizinci gün size bir atzeret ⟨olsun⟩; hiçbir iş gücü yapmayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "sekizinci"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "atzeret"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hiçbir"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "iş"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "gücü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yapmayacaksınız... değil"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapacaksınız"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:15.862078429Z",
+  "model": "glm-5.3"
+}

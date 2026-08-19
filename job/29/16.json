@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yoksullara baba oldum ben, ve bilmediğim davayı araştırıp çıkarırdım.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "yoksullara"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ve dava"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmediğim"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "onu araştırıp çıkarırdım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:24.751538995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Davut evinin anahtarını onun omzuna koyacağım; ve o açacak ve kapatan olmayacak, ve o kapayacak ve açan olmayacak.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ve koyacağım"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "anahtar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "onun omzuna"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "ve o açacak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve ...olmayacak"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "kapatan"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ve o kapayacak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve ...olmayacak"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "açan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:30.340414851Z",
+  "model": "glm-5.3"
+}

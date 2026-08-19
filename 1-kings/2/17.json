@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ⟨o⟩ dedi: «Konuş, lütfen, Şelomo ⟨o⟩ krala — çünkü ⟨o⟩ yüzünü geri çevirmeyecek — ve bana Avişag ⟨o⟩ Şunamli'yi eş olarak versin.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve ⟨o⟩ dedi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Şelomo'ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "geri çevirecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünü"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve versin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avişag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avişag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Şunamli"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "eş olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:36:30.373971922Z",
+  "model": "glm-5.3"
+}

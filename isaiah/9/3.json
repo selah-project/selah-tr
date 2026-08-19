@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Çünkü ⟨את⟩ yükünün boyunduruğunu ve ⟨את⟩ omzunun değneğini, onu ezenin asasını kırdın — Midyan günü gibi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yükünün boyunduruğunu"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunduruk"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "yükünü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "omzunun değneğini"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "değnek"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "omzunun"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "asa"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "onun ezeninin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "kırdın"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "günü gibi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:06.462375700Z",
+  "model": "glm-5.3"
+}

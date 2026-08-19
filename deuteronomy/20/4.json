@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Çünkü sizinle beraber yürüyen Yahve, sizin Elohim'inizdir; düşmanlarınızla sizin için savaşmak ve sizi kurtarmak için ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohim'inizdir"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinle beraber"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "savaşmak için"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "עם",
+      "gloss": "beraber"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmanlarınızla"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kurtarmak için"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:44.384380834Z",
+  "model": "glm-5.3"
+}

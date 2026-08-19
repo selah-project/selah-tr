@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 11:12",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ben mi hamile kaldım bütün bu halkın ⟨את⟩? Ben mi doğurdum onu ki bana 'Onu bağrında taşı, sütanneyi ⟨את⟩ emzeni taşıdığı gibi, atlarına yemin ettiğin toprağa kadar' dersin?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "ben mi"
+    },
+    {
+      "surface": "הריתי",
+      "gloss": "hamile kaldım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu halkın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ילדתיהו",
+      "gloss": "doğurdum onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dersin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "taşı onu"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "bağrında"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "taşar"
+    },
+    {
+      "surface": "האמן",
+      "gloss": "sütanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emzeni"
+    },
+    {
+      "surface": "הינק",
+      "gloss": "emzeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "yemin ettin"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "atlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:47.397012904Z",
+  "model": "glm-5.3"
+}

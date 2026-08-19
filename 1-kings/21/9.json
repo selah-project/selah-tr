@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve mektupların içine şöyle yazdı: «Oruç ilan edin ve ⟨את⟩ Navot'u halkın başına oturtun.»",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "ve yazdı"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "mektupların içinde"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle deyip"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ilan edin"
+    },
+    {
+      "surface": "צום",
+      "gloss": "oruç"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "ve oturtun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot'u"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "başına"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:43:29.508379646Z",
+  "model": "glm-5.3"
+}

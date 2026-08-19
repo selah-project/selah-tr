@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 88,
+  "translation": "Çukura inenlerle birlikte sayıldım; gücü olmayan bir adam gibi oldum.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "sayıldım"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "inenler"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çukura"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "bir adam gibi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "איל",
+      "gloss": "gücü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:32.765536192Z",
+  "model": "glm-5.3"
+}

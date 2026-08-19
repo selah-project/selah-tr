@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve ondan Moşe ve Aharon ve oğulları ⟨את⟩ ellerini ve ⟨את⟩ ayaklarını yıkadılar.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ve yıkadılar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ve Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellerini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ellerini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayaklarını"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ayaklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:21.243004511Z",
+  "model": "glm-5.3"
+}

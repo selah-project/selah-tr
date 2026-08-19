@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 111,
+  "translation": "Büyüktür Yahve'nin işleri; onlarda hoşnutluk bulanların hepsince araştırılır.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "büyüktür"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "işleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "araştırılır"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hepsince"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "onlarda hoşnutluk bulanların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:33.644098624Z",
+  "model": "glm-5.3"
+}

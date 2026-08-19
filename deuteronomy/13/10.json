@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Çünkü ⟨onu⟩ mutlaka öldüreceksin: elin onda ilk olacak, onu öldürmek için, ve bütün halkın eli sonradan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "mutlaka öldürmek"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "onu öldüreceksin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "ilk olarak"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "onu öldürmeye"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ve eli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sonradan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:01.954127449Z",
+  "model": "glm-5.3"
+}

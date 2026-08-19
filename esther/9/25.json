@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve o kralın önüne geldiğinde, mektupla birlikte şunu dedi: Yahudilere karşı düşündüğü kötü tasarısı kendi başına dönsün; ve onu ⟨את⟩ ve oğullarını ⟨את⟩ ağaca astılar.",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "geldiğinde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mektupla"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dönsün"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "tasarısı"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "düşündü"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudilere"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kendi başına"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "ve astılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onu ⟨את⟩",
+      "marks": "onu (Haman'ı)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağaca"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:19.774952574Z",
+  "model": "glm-5.3"
+}

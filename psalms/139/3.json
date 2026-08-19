@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Yolumu ve yatırımı eler gibi inceledin; bütün yollarıma alışkınsın.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "yolumu"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "ve yatırımımı"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "eler gibi inceledin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarıma"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "alışkınsın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:21.388159082Z",
+  "model": "glm-5.3"
+}

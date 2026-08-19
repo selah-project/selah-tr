@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Avraham yaşlandı, günlerle dolmuştu⟨idi⟩; ve Yahve Avraham'ı ⟨את⟩ her şeyle kutsadı.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "ve Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlandı"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolmuştu (girip gelmişti)"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlerle"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kutsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham'ı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her şeyle"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:48.249887533Z",
+  "model": "glm-5.3"
+}

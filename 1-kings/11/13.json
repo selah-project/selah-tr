@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ancak bütün krallığı koparmayacağım; bir oymak oğluna vereceğim, kulum Davud için ve seçtiğim Yeruşalayim için.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün krallığı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "krallığı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "koparmayacağım"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "oymak"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kulum"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ve için"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "seçtim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:45.137206852Z",
+  "model": "glm-5.3"
+}

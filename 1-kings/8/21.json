@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve oraya, aramızda atalarımızla Mısır diyarından çıkarırken kestiği Yahve'nin ahdi ⟨את⟩ sandık için bir yer koydum.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "koydum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sandık için"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "çıkarırken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "diyârından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:36.999825308Z",
+  "model": "glm-5.3"
+}

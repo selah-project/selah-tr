@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Yağmurlarınızı mevsiminde vereceğim ve toprak ürününü verecek ve tarlanın ağacı meyvesini verecek.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "yağmurlarınızı"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "mevsiminde"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ürününü"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ve ağaç"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarhanın"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "meyvesini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:03.936348290Z",
+  "model": "glm-5.3"
+}

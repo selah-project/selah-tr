@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve Adah, Esav'a Elifaz'ı ⟨את⟩ doğurdu; ve Boşemat Reuel'i ⟨את⟩ doğurdu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ve doğurdu"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaz'ı"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz'ı"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ve Boşemat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel'i"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel'i"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:17.281336111Z",
+  "model": "glm-5.3"
+}

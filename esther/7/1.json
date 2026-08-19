@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve kral ve Haman, kraliçe Ester ile ⟨birlikte⟩ içmeye geldiler.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ve Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "içmeye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraliçe"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:26.372990957Z",
+  "model": "glm-5.3"
+}

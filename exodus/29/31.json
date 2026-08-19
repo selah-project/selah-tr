@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve ⟨את⟩ tahsis koçunu alacaksın ve etini kutsal bir yerde pişireceksin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "koçunu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "koç"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "tahsis"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alacaksın"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ve pişireceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etini"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "etini"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "bir yerde"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:20.718563452Z",
+  "model": "glm-5.3"
+}

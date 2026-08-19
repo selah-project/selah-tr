@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve vuracağım ⟨את⟩ bu şehrin sakinlerini, ⟨את⟩ insanı ve ⟨את⟩ hayvanı — büyük veba ile ölecekler.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ve vuracağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu şehrin sakinlerini"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sakinlerini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hayvanı"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvanı"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "veba ile"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ölecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T12:18:24.699396351Z",
+  "model": "glm-5.3"
+}

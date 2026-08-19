@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Senin mülkün ⟨bir⟩ bütün çağların mülküdür, ve senin egemenliğin bütün ⟨idiyor⟩ nesil nesil ⟨sürer⟩.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "senin mülkün"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mülk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "çağların"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "ve senin egemenliğin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nesil"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ve nesil"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:29.277918341Z",
+  "model": "glm-5.3"
+}

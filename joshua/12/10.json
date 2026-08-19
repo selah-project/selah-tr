@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yeruşalayim'in kralı, bir; Hevron'un kralı, bir;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:38.150678086Z",
+  "model": "glm-5.3"
+}

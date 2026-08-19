@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Adamaman, adamayıp ödememenden iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…dığın şey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "adamaman"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "adamaya göre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve …meme"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ödememen"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:31.948961729Z",
+  "model": "glm-5.3"
+}

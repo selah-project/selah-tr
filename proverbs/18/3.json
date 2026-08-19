@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Kötü geldiğinde küçümseme de gelir, ve alçaklık ile birlikte hakaret.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "geldiğinde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "küçümseme"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve birlikte"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "alçaklık"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hakaret"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:15.657125583Z",
+  "model": "glm-5.3"
+}

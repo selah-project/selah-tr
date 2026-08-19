@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Günleri az olsun, görevini bir başkası alsın.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "az"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "görevini"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alsın"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "bir başkası"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:09.522976912Z",
+  "model": "glm-5.3"
+}

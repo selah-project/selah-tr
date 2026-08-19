@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Onlarla üfleyince sana, toplantı çadırının giriş kapısına, bütün topluluk toplansın ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "üfleyince (çalınca)"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "toplanacaklar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "topluluk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "giriş kapısı"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "buluşma (toplantı)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:05.716113945Z",
+  "model": "glm-5.3"
+}

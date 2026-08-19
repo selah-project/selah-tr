@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Günlerim az değil mi? ⟨Bırak⟩ bırak beni, ⟨O⟩ ⟨benden⟩ uzak tutsun da biraz ferahlayayım.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerim"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "bıraksın"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "tutsun"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ve ferahlayayım"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "biraz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:30.964859268Z",
+  "model": "glm-5.3"
+}

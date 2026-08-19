@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Elohim, benden uzaklaşma; Elohim'im, yardımımıza çabuk gel.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzaklaş"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yardımıma"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "çabuk"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:02.211188482Z",
+  "model": "glm-5.3"
+}

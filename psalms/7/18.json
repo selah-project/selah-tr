@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Yahve'yi öveceğim O'nun doğruluğuna göre, ve Yahve Elyon'un adına ezgi söyleyeceğim.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "öveceğim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "O'nun doğruluğuna göre"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ve ezgi söyleyeceğim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:44.575180837Z",
+  "model": "glm-5.3"
+}

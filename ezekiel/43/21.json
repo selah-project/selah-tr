@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Günah sunusu boğasını alacaksın ve onu tapınağın belirlenmiş ⟨yerinde⟩, mabet dışında yakacaksın.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ve alacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boğa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ve onu yakacaklar"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "belirlenmiş yerinde"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tapınağın"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışında"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "mabet"
+    }
+  ],
+  "timestamp": "2026-08-19T10:37:00.902538244Z",
+  "model": "glm-5.3"
+}

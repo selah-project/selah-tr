@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Aharon'u ve oğullarını Toplantı Çadırının girişine yaklaştıracaksın ve onları suyla yıkayacaksın.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "yaklaştıracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Toplantı"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "yıkayacaksın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suyla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:22:35.779414042Z",
+  "model": "glm-5.3"
+}

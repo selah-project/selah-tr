@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Onlara ⟨את⟩ yanıt verdiler ve dediler: Var; işte önündedir; şimdi acele et, çünkü bugün şehre geldi, çünkü bugün halk için bamada (yüksek yerde) kurban var.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "yanıt verdiler"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önündedir"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "acele et"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şehre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "halk için"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "bamada (yüksek yerde)"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:17.206716241Z",
+  "model": "glm-5.3"
+}

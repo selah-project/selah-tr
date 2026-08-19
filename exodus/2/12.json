@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Şuraya buraya baktı ve bir adamın olmadığını görünce Mısırlı'yı ⟨את⟩ vurdu ve onu kuma gömdü.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ve baktı"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şuraya"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ve buraya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mısırlı'yı"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mısırlı'yı"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "ve onu gizledi\/gömdü"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:04.857924306Z",
+  "model": "glm-5.3"
+}

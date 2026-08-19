@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Ağzının Tora'sı bana binlerce altın ve gümüşten iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torası"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "binlerceden"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ve gümüş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:32.188549004Z",
+  "model": "glm-5.3"
+}

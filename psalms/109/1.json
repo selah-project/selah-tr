@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Ezgiciye. Davud'a ait mezmur. Övgümün Elohim'i, sessiz kalma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ezgiciye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a ait"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "övgümün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "sessiz kalma"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:17.249566686Z",
+  "model": "glm-5.3"
+}

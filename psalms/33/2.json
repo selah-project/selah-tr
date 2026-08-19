@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Kinorla Yahve'ye teşekkür edin; asor telli nevaliyle O'na çalın.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "teşekkür edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorla"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevaliyle"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor (on telli)"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "çalın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "O'na"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:21.682028455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Kurbanların için seni kınayacak değilim; holokostların sürekli önümdedir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değilim"
+    },
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "kurbanların"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "seni kınayacak"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "ve holokostların"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "önümdedir"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:05.048468140Z",
+  "model": "glm-5.3"
+}

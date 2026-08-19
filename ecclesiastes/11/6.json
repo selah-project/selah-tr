@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Sabah ⟨את⟩ tohumunu ek, akşama doğru ⟨kalma⟩ elini bırakma; çünkü bilmezsin hangisi iyi sonuç verecek, bu mu şu mu; ya da ikisi birden iyi mi diye.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tohumunu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tohumunu"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ve akşama doğru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "bırakma"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "değilsin"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilen"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hangi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "iyi sonuç verecek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve ya"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bir gibi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:34.814708584Z",
+  "model": "glm-5.3"
+}

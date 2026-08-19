@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Eğer Elohim'imizin adını unutmuşsak ve avuçlarımızı yabancı bir El'e doğru açmışsak —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "unutmuşsak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizin"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "ve açmışsak"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "avuçlarımızı"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El'e"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yabancı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:00.102365414Z",
+  "model": "glm-5.3"
+}

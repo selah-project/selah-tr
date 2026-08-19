@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "⟨את⟩ kimi bilgi öğretecek ve ⟨את⟩ kimi haberi anlayacak? Sütten kesilenler, memelerden ayrılanlar ⟨için⟩ mi?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "öğretecek"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "bilgi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlayacak"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "haberi"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "kesilenler"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "sütten"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ayrılanlar"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "memelerden"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:10.408288008Z",
+  "model": "glm-5.3"
+}

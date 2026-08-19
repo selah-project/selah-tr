@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Çünkü dün ⟨idi⟩ biz, ve bilmiyorduk; çünkü gölgemiz ⟨var⟩ yeryüzünde ⟨yalnızca⟩ günlerimizin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "dün"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve bilmiyorduk"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "biliriz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "צל",
+      "gloss": "gölge"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "günlerimiz"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:56.704840057Z",
+  "model": "glm-5.3"
+}

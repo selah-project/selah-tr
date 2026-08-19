@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Onu sabah sabah topladılar, her kişi yemesinin ölçüsünce; güneş ısınınca eridi.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "topladılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (mannı)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ölçüsünce"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yemesinin"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ve ısınınca"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ve eridi"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:46.446375225Z",
+  "model": "glm-5.3"
+}

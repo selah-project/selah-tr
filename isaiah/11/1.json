@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Yişay'ın kökünden bir fidan çıkacak, ve sürgünü köklerinden verecek meyve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıkacak"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "fidan\/sopa"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "kökünden\/kütüğünden"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişay'ın"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "ve sürgün"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "onun köklerinden"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "meyve verecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:38.333919752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 138,
+  "translation": "Çünkü Yahve yücedir, ama alçağa bakar; kibrini uzaktan tanır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רם",
+      "gloss": "yücedir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "alçağa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bakar"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "kibrini"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "uzaktan"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "tanır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:36.313729189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve kuşağı ⟨את⟩ satın aldım, Yahve'nin sözüne göre, ve belime sardım.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Ve satın aldım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuşağı"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kuşağı"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözüne göre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ve sardım"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "belime"
+    }
+  ],
+  "timestamp": "2026-08-19T10:08:28.082049340Z",
+  "model": "glm-5.3"
+}

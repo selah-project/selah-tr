@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Buna rağmen Haman kendini tuttu, evine girdi; ⟨את⟩ dostlarını ve ⟨את⟩ karısi Zereş'i çağırtıp getirtti.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "kendini tuttu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evine"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "getirtti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dostlarını"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "dostlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Zereş"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereş"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:40:27.500685488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Atalarınızın beni sınadığı, beni yokladığı — işimi de görmüşlerdi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "atalarınızın beni sınadığı"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "beni sınadılar"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "atalarınız"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "beni yokladılar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:47.950064098Z",
+  "model": "glm-5.3"
+}

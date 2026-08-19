@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve bir kâhin gümüşüyle ⟨satın alma ile⟩ bir can satın alırsa, o ondan yiyebilir; ve evinde doğan bunlar onun ekmeğinden yiyebilirler.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "ve bir kâhin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "satın alırsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bir can"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "satın alma"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "gümüşüyle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yiyebilir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "ve evinde doğan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyebilirler"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "onun ekmeğinden"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:42.289860477Z",
+  "model": "glm-5.3"
+}

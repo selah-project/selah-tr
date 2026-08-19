@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Yahve, hasidlerinin ayaklarını korur, kötülerse karanlıkta susturulur; çünkü güç ile değil, kişi üstün gelecek ⟨değil⟩.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "ayaklarını"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "hasidlerinin"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ve kötüler"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "susturulur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "güç ile"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "üstün gelecek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:20:50.983987716Z",
+  "model": "glm-5.3"
+}

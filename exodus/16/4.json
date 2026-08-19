@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 16:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Yahve Moşe'ye dedi: «İşte ben size gökten ekmek yağdırıyorum; halk çıkacak ve her gün bir günlük payı toplayacak — benim toramda yürür mü, yoksa yürümaz mı ⟨diye⟩ onu sınamam için.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte ben"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "yağdırıyorum"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gök"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıkacak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "ve toplayacak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "payı"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bir günün"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "her gün"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "onu sınamam"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "yürür mü"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "toramda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yok"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:44.567376432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Moşe dağa çıktı, ve bulut ⟨את⟩ dağı örttü.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "örttü"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dağı"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:38.768364457Z",
+  "model": "glm-5.3"
+}

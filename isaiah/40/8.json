@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Çimen kurur, çiçek solar, ama Elohim'imizin sözü sonsuza dek duracaktır.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "kurur"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "çimen"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "solar"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "çiçek"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ama söz"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imizin"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "duracaktır"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:36.598704560Z",
+  "model": "glm-5.3"
+}

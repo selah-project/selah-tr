@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve ⟨את⟩ beni arayacaksınız ve bulacaksınız, çünkü bütün kalbinizle beni arayacaksınız.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ve arayacaksınız"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ve bulacaksınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "beni arayacaksınız"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün …le"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kalbinizle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:12:35.677919327Z",
+  "model": "glm-5.3"
+}

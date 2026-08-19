@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Çünkü siz şöyle dediniz: 'Ölümle ⟨את⟩ antlaşma kestik, Şeol ile anlaştık; sel gibi bastıran kamçı geçip üstümüzden akmayacak, çünkü yalanı sığınağımız yaptık ve yanlışlık içinde gizlendik.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "siz dediniz"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "kestik"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "antlaşma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüm"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümle"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve ile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "yaptık"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "anlaşma"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "kamçı"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "sel gibi bastıran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "bize uğrayacak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "yaptık"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalanı"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "sığınağımız"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "ve yanlışlıkta"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "gizlendik"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:25.416803858Z",
+  "model": "glm-5.3"
+}

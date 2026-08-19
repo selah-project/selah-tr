@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Dövüştün, Edom'u ⟨את⟩ dövdün ve kalbin seni yüceltti — şimdi büyüklük tasla ve evinde otur; neden kötülükte kavgaya girişesin ki düşesin, sen ve Yahuda ⟨seninle⟩?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "dövüştün"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "dövdün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom'u"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom'u"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ve seni yüceltti"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kalbin"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "büyüklük tasla"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ve otur"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "kavgaya girişesin"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "kötülükte"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "düşesin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ve Yahuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:34.220038841Z",
+  "model": "glm-5.3"
+}

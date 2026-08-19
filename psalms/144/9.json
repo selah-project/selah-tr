@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "Elohim, sana yeni bir şarkı söyleyeceğim; on telli nevel ile sana ezgi çalacağım.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "söyleyeceğim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevel ile"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "on telli"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ezgi çalacağım"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:54.304450143Z",
+  "model": "glm-5.3"
+}

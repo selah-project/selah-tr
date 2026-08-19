@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve sadakatini benim soyumdan sonsuza dek kesme; Yahve Davud'un düşmanlarını her birini yeryüzünün yüzünden kesip atarken de ⟨etme⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve... etme"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kesme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadakatini"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sadakatini"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-den"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "soyumdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de ⟨etme⟩"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "kesip atarken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşmanlarını"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarını"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud'un"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-den"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:55.942377827Z",
+  "model": "glm-5.3"
+}

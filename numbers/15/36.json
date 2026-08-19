@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 15:36",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Bütün cemaat onu, ordugahın dışına çıkardılar ⟨את⟩ onu; ve taşlarla onu taşladılar ⟨את⟩ onu, ve öldü; Yahve'nin Moşe'ye ⟨את⟩ emrettiği gibi.",
+  "tokens": [
+    {
+      "surface": "ויציאו",
+      "gloss": "çıkardılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "çıkarılan adam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cemaat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışına"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ordugahın"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "ve taşladılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "taşlanan adam"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "taşlarla"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "emrettiği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:27.626013925Z",
+  "model": "glm-5.3"
+}

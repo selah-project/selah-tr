@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Filiştli dedi: İsrail'in ⟨את⟩ savaş düzenlerini bugün hakaretten geçirdim; bana bir adam verin, birlikte savaşalım.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filiştli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "hakaret ettim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savaş düzenlerini"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "savaş düzenleri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ve savaşalım"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:37.078334997Z",
+  "model": "glm-5.3"
+}

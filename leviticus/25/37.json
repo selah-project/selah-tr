@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Gümüşünü ona nesekle (faizle) vermeyeceksin ve marbiyle (artışla) yiyeceğini vermeyeceksin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşünü"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vereceksin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "nesekle (faizle)"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "ve marbiyle (artışla)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vereceksin"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "yiyeceğini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:46.719430106Z",
+  "model": "glm-5.3"
+}

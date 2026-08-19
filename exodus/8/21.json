@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Paroh, Moşe'yi ve Aharon'u çağırdı ve dedi: Gidin, bu ülkede Elohinize kurban kesin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'yi"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ve Aharon'u"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gidin"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "kurban kesin"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "Elohinize"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bu ülkede"
+    }
+  ],
+  "timestamp": "2026-08-19T07:12:35.601346626Z",
+  "model": "glm-5.3"
+}

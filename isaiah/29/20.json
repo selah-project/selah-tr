@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Çünkü zorba yok olacak, ve alaycı tükenmiş olacak, ve kötülük gözetenlerin hepsi kesilmiş olacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "yok olacak"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "zorba"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ve tükenmiş olacak"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "alaycı"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "ve kesilmiş olacak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "שקדי",
+      "gloss": "gözetenler"
+    },
+    {
+      "surface": "און",
+      "gloss": "kötülük"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:40.500874352Z",
+  "model": "glm-5.3"
+}

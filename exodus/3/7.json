@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Yahve dedi: Görmüş olarak gördüm halkımın ⟨את⟩ sıkıntısını, Mitzrayim'de olan; ve ⟨את⟩ feryatlarını duydum baskıcılarından ötürü; çünkü acılarını biliyorum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmüş olarak"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sıkıntısını"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sıkıntısını"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitzrayim'de"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "feryatlarını"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "feryatlarını"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "duydum"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-den ötürü"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "baskıcılarından"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "biliyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acılarını"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "acılarını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:24.645945808Z",
+  "model": "glm-5.3"
+}

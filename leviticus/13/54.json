@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "O zaman kâhin buyruk verir ve içinde ⟨את⟩ açarın bulunduğu şeyi yıkarlar, ve onu ikinci kez yedi gün kapalı tutarlar",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "buyruk verir"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ve yıkarlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "içinde açarın bulunduğu şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun içinde"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "açar"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "ve kapalı tutarlar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci kez"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:31.006994247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ey insan oğulları, ne zamana dek şerefim lekeleye dönecek? Boşluğu seveceksiniz, yalanı arayacaksınız. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ne zamana dek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "şerefim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "lekeleye"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "seveceksiniz"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "boşluğu"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "arayacaksınız"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalanı"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:40.453179243Z",
+  "model": "glm-5.3"
+}

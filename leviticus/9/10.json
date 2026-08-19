@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve ⟨את⟩ yağı, ⟨את⟩ böbrekleri ve ⟨את⟩ karaciğerden olan perdeyi — günah sunusundan — sunak üzerinde tütsüledi; Yahve'nin Moşe'ye emrettiği gibi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "böbrekleri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böbrekleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "perdeyi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "perdeyi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "karaciğer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah sunusun-"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "tütsüledi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sunak üzerinde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "emretti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe'yi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'yi"
+    }
+  ],
+  "timestamp": "2026-08-19T08:56:00.468102861Z",
+  "model": "glm-5.3"
+}

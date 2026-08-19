@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Büyüdüm ve Yeruşalayim'de benden önce olmuş ⟨herkesten⟩ çoğaldım; hatta hikmetim de ⟨bana⟩ kaldı.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "büyüdüm"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "çoğaldım"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "herkesten"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olmuş"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önce"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hatta"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "hikmetim"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "kaldı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:18.863455344Z",
+  "model": "glm-5.3"
+}

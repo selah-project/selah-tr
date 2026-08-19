@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ⟨את⟩ sesini sözlerinin duydum; ve ⟨את⟩ sesini sözlerini duyduğumda, ben yüzümün üzerine derin uykuya daldım ve yüzüm yere ⟨dönüktü⟩.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ve duydum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sözlerinin"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ve duyduğumda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "derin uykuya daldım"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümün"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ve yüzüm"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    }
+  ],
+  "timestamp": "2026-08-19T11:45:48.245380444Z",
+  "model": "glm-5.3"
+}

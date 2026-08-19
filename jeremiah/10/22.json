@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 10:22",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "İşte bir haber sesi geliyor ve kuzey ülkesinden büyük bir gürültü — Yahuda ⟨את⟩ şehirlerini çöl haline, çakalların yurdu kılmaya.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "haberin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "באה",
+      "gloss": "geliyor"
+    },
+    {
+      "surface": "ורעש",
+      "gloss": "ve gürültü"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kuzeyin"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "kılmaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda şehirlerini"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şehirlerini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "çöl \/ ıssızlık"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "yurt"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "çakalların"
+    }
+  ],
+  "timestamp": "2026-08-19T10:08:14.872287327Z",
+  "model": "glm-5.3"
+}

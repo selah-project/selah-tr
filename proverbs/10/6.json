@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kutsamalar doğrunun başı üzerinedir, ama kötülerin ağzı şiddeti örter.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "kutsamalar"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "başına"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ve ağzı"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "örter"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "şiddeti"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:22.687937269Z",
+  "model": "glm-5.3"
+}

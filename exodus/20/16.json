@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Yakınına karşı yalan tanıklık etmeyeceksin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tanıklık edeceksin (yanıt vereceksin)"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "yakınına karşı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanık"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:31.948402908Z",
+  "model": "glm-5.3"
+}

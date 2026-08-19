@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "İsrail'in bütün cemaati ⟨את⟩ onu yapacaktır.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "cemaati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "yapacaklar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:21.298815318Z",
+  "model": "glm-5.3"
+}

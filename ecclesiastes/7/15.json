@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "⟨את⟩ her şeyi gördüm hevel günlerimde: doğrusu kendisinin doğruluğunda yiten var, ve kötüsü kötülüğünde uzun ömürlü olan var.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her şeyi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "her şeyi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlerimde"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hevel (boşluk) günlerim"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru kişi"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yiten"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "doğruluğunda"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ve var"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü kişi"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "uzun ömürlü"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "kötülüğünde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:13.207629297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 65,
+  "translation": "Ne mutlu ⟨olana⟩ ki seçtiğin ve yaklaştırdığın, avlularında otursun; evinin iyiliğiyle, kutsal tapınağının ⟨iyiliğiyle⟩ doyacağız.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "seçtiğin"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ve yaklaştırdığın"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "otursun"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "avlularında"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "doyacağız"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "iyiliğiyle"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tapınağının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:13.435876255Z",
+  "model": "glm-5.3"
+}

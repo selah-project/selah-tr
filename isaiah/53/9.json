@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Kötülere ⟨את⟩ mezarını verdi ve ölümünde zengine ⟨את⟩; çünkü şiddet işlemedi ve ağzında hile bulunmadı.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötülere"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülere"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "mezarını"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "ve ⟨את⟩",
+      "marks": "zengine"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "zengine"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "ölümünde"
+    },
+    {
+      "surface": "על",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "şiddet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "işledi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hile"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ağzında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:20.042276855Z",
+  "model": "glm-5.3"
+}

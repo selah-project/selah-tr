@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve Yahve dedi: Çünkü ⟨onlar⟩ ⟨את⟩ toramı bıraktılar — ki onu önlerine koymuştum — ve sesime itaat etmediler ve onda yürümediler.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "çünkü (üzerine)"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "bıraktılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toramı"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "toramı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "koymuştum"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "önlerine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "itaat etmediler"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "sesime"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "yürümediler"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:07:33.179307508Z",
+  "model": "glm-5.3"
+}

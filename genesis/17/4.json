@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "\"Ben ⟨is⟩, işte antlaşmam seninle ⟨את⟩; ve çok sayıda ulusun babası olacaksın.\"",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "antlaşmam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seninle"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ve olacaksın"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "baba olarak"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kalabalığı\/çokluğu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusların"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:59.785764644Z",
+  "model": "glm-5.3"
+}

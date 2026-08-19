@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Bana lütfet Yahve, çünkü sıkıntıdayım; gazapla eridi gözüm, canım ve karnım.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "bana lütfet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıkıntı(dayım)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "eridi"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "gazap(la)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "ve karnım"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:56.170964691Z",
+  "model": "glm-5.3"
+}

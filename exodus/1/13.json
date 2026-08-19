@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Mısır, Yiśrael oğullarını ⟨את⟩ zorla çalıştırdı.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "çalıştırdılar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiśrael oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiśrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "zorla"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:51.221419830Z",
+  "model": "glm-5.3"
+}

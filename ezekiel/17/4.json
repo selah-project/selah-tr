@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Sürgünlerinin başını ⟨את⟩ kopardı ve onu Kenan diyarına, tüccarlar şehrine getirdi; onu oraya koydu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürgünlerinin başını"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "sürgünlerinin"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "kopardı"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ve onu getirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "diyarına"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehrinde"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "tüccarların"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onu koydu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:27:06.453344007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve koruyacaksınız ⟨את⟩ kurallarımı ve ⟨את⟩ hükümlerimi, ki onları insan yaparsa onlarla yaşar; ben Yahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ve koruyacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurallarımı"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "kurallarımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hükümlerimi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hükümlerimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yaparsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ve yaşar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:47.229648539Z",
+  "model": "glm-5.3"
+}

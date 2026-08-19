@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 70,
+  "translation": "Canımı arayanlar utansın ve rezil olsun; kötülüğümü isteyenler geri dönsünler ve mahcup olsunlar.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "utansınlar"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ve rezil olsunlar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arayanları"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "geri çekilsinler"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geriye"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ve mahcup olsunlar"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "isteyenleri"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kötülüğümü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:44.074191476Z",
+  "model": "glm-5.3"
+}

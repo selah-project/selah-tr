@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve ⟨את⟩ Patrusim'i, ⟨את⟩ Kasluḥim'i — oradan Peleştim çıktı — ve ⟨את⟩ Kaftorim'i.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Patrusim'i"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kasluḥim'i"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluḥim'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oradan (ki)"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıktılar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Kaftorim'i"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim'i"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:01.636383118Z",
+  "model": "glm-5.3"
+}

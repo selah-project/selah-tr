@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve ⟨olacak⟩ bu gün sizin için anı olarak; ve bayram edeceksiniz onu ⟨את⟩, Yahve'ye bayram olarak; nesilleriniz boyunca sonsuz bir kural olarak bayram edeceksiniz onu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ve olacak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "anı olarak"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "ve bayram edeceksiniz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (bayram)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "nesilleriniz boyunca"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kural"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuz"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "bayram edeceksiniz onu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:55.675727860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 5:23",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve olur ki günah işler ve suçlu olur; gasp ettiği gaspı ya da ezip aldığı eziyeti ya da kendisine bırakılan emaneti ya da bulduğu kaybı geri verir",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ve olur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "günah işler"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "suçlu olur"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "geri verir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaspı"
+    },
+    {
+      "surface": "הגזלה",
+      "gloss": "gaspı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "gasp ettiği"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eziyeti"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "eziyeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ezdiği"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emaneti"
+    },
+    {
+      "surface": "הפקדון",
+      "gloss": "emaneti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "bırakılan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kendisine"
+    },
+    {
+      "surface": "או",
+      "gloss": "veya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaybı"
+    },
+    {
+      "surface": "האבדה",
+      "gloss": "kaybı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "bulduğu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:42.726902480Z",
+  "model": "glm-5.3"
+}

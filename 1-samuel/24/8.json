@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve Davud adamlarını ⟨את⟩ sözlerle dizginledi ve Şaul'e karşı kalkmalarına izin vermedi; ve Şaul mağaradan kalktı ve yolda yürüdü.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "ve dizginledi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamlarını"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "adamlarını"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sözlerle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "izin verdi onlara"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kalkmaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'e"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ve Şaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "mağaradan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:46.906974753Z",
+  "model": "glm-5.3"
+}

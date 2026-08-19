@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve ⟨o⟩ dedi: Hangi yoldan çıkacağız? Ve ⟨o⟩ dedi: Edom çölünün yolundan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hangi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "çıkacağız"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çölü"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T12:16:28.353500653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Yararsız sözle mi tartışır ve kendisiyle hiçbir fayda sağlamayan konuşmalarla mı?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "tartışır"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sözle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "yararlı olur"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "ve konuşmalarla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "fayda sağlar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-08-19T11:27:12.976371007Z",
+  "model": "glm-5.3"
+}

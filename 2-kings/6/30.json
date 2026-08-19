@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve kral ⟨את⟩ kadının sözlerini duyunca giysilerini ⟨את⟩ yırttı; o surların üzerinden geçiyordu, halk baktı ve işte teninin üzerinde, iç tarafta çul ⟨vardı⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "duyunca"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözlerini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadının"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ve yırttı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giysilerini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçiyordu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "surların"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "השק",
+      "gloss": "çul"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "teninin"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iç taraftan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:46.051163319Z",
+  "model": "glm-5.3"
+}

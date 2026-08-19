@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve yalnız ⟨את⟩ sizinle değil — ben ⟨את⟩ bu antlaşmayı ve ⟨את⟩ bu laneti kesiyorum.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinle",
+      "marks": "sizinle"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "yalnız siz"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesiyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu antlaşmayı"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "bu antlaşmayı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bu laneti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu laneti"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:06:23.850268892Z",
+  "model": "glm-5.3"
+}

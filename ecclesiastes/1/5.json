@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Güneş doğar ve güneş batar; kendi yerine soluk soluğa koşar — doğduğu ⟨o⟩ yer ⟨oradadır⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "doğar"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "batar"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve -e"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "kendi yerine"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "soluk soluğa koşar"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "doğduğu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:05.357009479Z",
+  "model": "glm-5.3"
+}

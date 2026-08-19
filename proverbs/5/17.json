@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yalnız senin olsunlar, yabancılarla ⟨את⟩ seninle olmasın.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olsunlar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız senin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve olmasın"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "yabancılara"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle",
+      "marks": "yabancılarla seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:55.522790606Z",
+  "model": "glm-5.3"
+}

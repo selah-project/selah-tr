@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Çünkü kulların ⟨את⟩ taşlarını benimser ve ⟨את⟩ tozuna lütfeder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "benimser"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kulların"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taşlarını"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "taşlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tozuna"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "tozuna"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "lütfeder"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:19.680023577Z",
+  "model": "glm-5.3"
+}

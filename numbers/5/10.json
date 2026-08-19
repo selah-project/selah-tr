@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve her kişi ⟨את⟩ kutsal şeylerini — kendisinin olacak; kişi kahine ne verirse o, ona ait olacak.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve her kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal şeylerini"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "kutsal şeylerini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisinin"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verirse"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahine"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:03.801453550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve ⟨את⟩ iki böbreği ve ⟨את⟩ üzerindeki yağı, böbrek üstü bezleri üzerindeki yağı, ve ⟨את⟩ karaciğer üzerindeki parçayı böbreklerle birlikte çıkaracak",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "iki böbreği"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böbreği"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "üzerindeki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "böbrek üstü bezleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "parçayı"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "parçayı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerindeki"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "karaciğer"
+    },
+    {
+      "surface": "על",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böbreklerle"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "çıkaracak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:10.249895517Z",
+  "model": "glm-5.3"
+}

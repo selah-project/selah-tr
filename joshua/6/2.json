@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve Yahve Yehoşua'ya dedi: Bak, ⟨ את ⟩ Yeriho'yu ve ⟨ את ⟩ onun kralını senin eline verdim — yiğitlik kahramanlarını.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Bak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "senin eline"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriho'yu"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "onun kralını"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "onun kralı"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "kahramanlarını"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "yiğitlik"
+    }
+  ],
+  "timestamp": "2026-08-19T09:08:42.317691978Z",
+  "model": "glm-5.3"
+}

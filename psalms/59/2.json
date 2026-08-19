@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Beni düşmanlarımdan kurtar, Elohim'im; bana karşı duranlardan beni yücelt.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "düşmanlarımdan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "bana karşı duranlardan"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "beni yücelt"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:51.858374069Z",
+  "model": "glm-5.3"
+}

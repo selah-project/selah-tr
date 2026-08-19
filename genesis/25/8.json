@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve Avraham son nefesini verdi ve öldü, iyi bir ihtiyarlıkta, yaşlı ve tok olarak; ve kavmine kavuştu.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "son nefesini verdi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ihtiyarlıkta"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iyi bir"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yaşlı"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ve tok"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ve kavuştu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "kavmine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:25.973085011Z",
+  "model": "glm-5.3"
+}

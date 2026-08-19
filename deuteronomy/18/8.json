@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Pay olarak pay yiyecekler — babalarla göre sattıklarının dışında, yalnızca.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "pay"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "pay olarak"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyecekler"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "yalnızca"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "sattıklarının dışında"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e göre"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "babalarla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:23.256909347Z",
+  "model": "glm-5.3"
+}

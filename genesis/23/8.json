@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve onlarla ⟨את⟩ konuştu, şöyle diyerek: Nefsinizde ⟨את⟩ iste varsa ölümü yüzümün önünden gömmeye, beni dinleyin ve benim için Tsohar oğlu Efron'la ⟨את⟩ aracılık edin.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יש",
+      "gloss": "varsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefsinizde"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nefsinizde"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "gömmeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölümü"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yüzümün önünden"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "beni dinleyin"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "ve aracılık edin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim için"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "Efron'la"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsohar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:04.992448881Z",
+  "model": "glm-5.3"
+}

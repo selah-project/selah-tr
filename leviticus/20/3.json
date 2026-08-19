@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve ben yüzümü o adamın üzerine koyacağım ve onu halkının ortasından keseceğim; çünkü zürriyetinden Moloh'a verdi, mabedimi kirletmek ve kutsal adımı lekelemek için.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "koyacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzümü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzümü"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "adamın üzerine"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ve keseceğim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "zürriyetinden"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Moloh'a"
+    },
+    {
+      "surface": "למען",
+      "gloss": "için"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "kirletmek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabedimi"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mabedimi"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "ve lekelemek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adımı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kutsal"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:26.548121076Z",
+  "model": "glm-5.3"
+}

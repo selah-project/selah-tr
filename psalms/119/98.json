@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Buyruklarınız beni düşmanlarımdan daha bilge kılıyor, çünkü ⟨o⟩ sonsuza dek benimledir.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "düşmanlarımdan"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "beni bilge kılıyor"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "buyruklarınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benimledir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:02.418367762Z",
+  "model": "glm-5.3"
+}

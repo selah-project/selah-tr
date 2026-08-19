@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "⟨את⟩ iki arabayı ve ⟨את⟩ dört sığırı Gerşon oğullarına verdi, hizmetlerine göre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki arabayı"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "arabayı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "dört sığırı"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "dört"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sığırı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerşon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "göre"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hizmetlerine"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:41.020626228Z",
+  "model": "glm-5.3"
+}

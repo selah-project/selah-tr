@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kızlarına dedi: Nerede o? Neden ⟨את⟩ adamı bıraktınız? Onu çağırın, ekmek yiyecektir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "kızlarına"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "nerede o"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "bıraktınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "çağırın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "yiyecektir"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:43.705411511Z",
+  "model": "glm-5.3"
+}

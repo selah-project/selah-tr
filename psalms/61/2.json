@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 61,
+  "translation": "Duy ⟨çağrımı⟩, Elohim, çığlığımı; kulak ver duama.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "duy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "çığlığımı"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duama"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:09.966349026Z",
+  "model": "glm-5.3"
+}

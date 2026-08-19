@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 5:6",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Açtım ben sevdiğime; ama sevgilim yüz çevirip geçmişti — canım, o konuşurken ⟨dışarı⟩ çıktı. Onu aradım, ⟨ama⟩ onu bulamadım; ona seslendim, ⟨ama⟩ bana karşılık vermedi.",
+  "tokens": [
+    {
+      "surface": "פתחתי",
+      "gloss": "açtım"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "sevdiğime"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ve sevgilim"
+    },
+    {
+      "surface": "חמק",
+      "gloss": "yüz çevirip"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "onun sözüyle"
+    },
+    {
+      "surface": "בקשתיהו",
+      "gloss": "onu aradım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ⟨değil⟩"
+    },
+    {
+      "surface": "מצאתיהו",
+      "gloss": "onu buldum"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ona seslendim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ⟨değil⟩"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bana karşılık verdi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:35.072446272Z",
+  "model": "glm-5.3"
+}

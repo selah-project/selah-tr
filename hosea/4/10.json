@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve yiyecekler ve doymayacaklar; zina ettiler ve çoğalmayacaklar; çünkü Yahve'yi ⟨את⟩ bıraktılar, korumayı ⟨bıraktılar⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ve yiyecekler"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "doymayacaklar"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "zina ettiler"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "çoğalmayacaklar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bıraktılar"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "korumak için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:08.430087618Z",
+  "model": "glm-5.3"
+}

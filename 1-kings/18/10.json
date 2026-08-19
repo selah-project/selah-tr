@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Yahve, senin Elohim'in yaşdır olarak, efendimin seni aramak için göndermediği hiçbir ulus ve krallık yoktur; ve 'Yok' dediler; ve ⟨את⟩ krallığı ve ⟨את⟩ ulusu, seni bulamadıklarına dair yemin ettirdi.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "yaşdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Elohim'in"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer (yemin biçimi)"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ulus"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "ve krallık"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "seni aramak için"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "ve yemin ettirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krallığı"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "krallığı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulusu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ulusu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "seni bulur"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:51.001550130Z",
+  "model": "glm-5.3"
+}

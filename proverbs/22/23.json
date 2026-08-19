@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Çünkü Yahve onların davasını savunacak ve onları soyanların ⟨את⟩ canını sökecek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "savunacak"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "onların davasını"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "ve sökecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "onları soyanların"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:30.277090987Z",
+  "model": "glm-5.3"
+}

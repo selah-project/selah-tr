@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Yosef öldü, bütün kardeşleri ve o bütün kuşak da.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşleri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "o kuşak"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:09:18.909594683Z",
+  "model": "glm-5.3"
+}

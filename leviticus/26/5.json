@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve harmanınız üzüm hasadına ⟨את⟩ yetişecek, ve üzüm hasadı ekime ⟨את⟩ yetişecek; ekmeğinizi tokluğa kadar yiyeceksiniz ve ülkenizde güven içinde yaşayacaksınız.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "ve yetişecek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin (için)"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "harman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzüm hasadı"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "üzüm hasadı"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ve üzüm hasadı"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "yetişecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ekim\/tohum"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ve yiyeceksiniz"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "ekmeğinizi"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tokluğa kadar"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ve yaşayacaksınız"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "güven içinde"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ülkenizde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:39.073941516Z",
+  "model": "glm-5.3"
+}

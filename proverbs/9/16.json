@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "«Kim aptal ise dönsün buraya, ve yüreği eksik olana» der ona.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "aptal"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "dönsün"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "buraya"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ve eksik olana"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yüreği"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "der"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:43.280358456Z",
+  "model": "glm-5.3"
+}

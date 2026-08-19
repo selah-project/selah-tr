@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 82,
+  "translation": "Zayıfı ve yoksulu kurtarın, kötülerin elinden ⟨onları⟩ çıkarıp kurtarın.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "kurtarın"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zayıfı"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve yoksulu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "çıkarıp kurtarın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:13.897836595Z",
+  "model": "glm-5.3"
+}

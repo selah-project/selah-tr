@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Ve Ashur kralı ⟨את⟩ İsrail'i Ashur'a sürdü ve onları Halah'ta, Havor'da, Gozan nehri kıyısında ve Med kentlerinde yerleştirdi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ve sürdü"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashur'a"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ve yerleştirdi"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halah'ta"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ve Havor'da"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "nehri"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ve kentlerinde"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Med"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:50.047832004Z",
+  "model": "glm-5.3"
+}

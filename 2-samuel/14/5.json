@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kral ona «Sana ne oldu?» dedi; kadın «Gerçekten dul bir kadınım ben, kocam öldü» dedi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dul"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "kocam"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:53.715102075Z",
+  "model": "glm-5.3"
+}

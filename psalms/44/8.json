@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Çünkü bizi sıkıntılarımızdan kurtardın, benden nefret edenleri utandırdın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "bizi kurtardın"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "sıkıntılarımızdan"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "benden nefret edenleri"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "utandırdın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:52.935026242Z",
+  "model": "glm-5.3"
+}

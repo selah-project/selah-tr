@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve kendi için bamotlar, se'irimler ve kendi yaptığı buzağılar için kâhinler atadı.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ve atadı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendi için"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kâhinler"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "bamotlar için"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "ve se'irimler için"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "ve buzağılar için"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptığı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:05:01.577904115Z",
+  "model": "glm-5.3"
+}

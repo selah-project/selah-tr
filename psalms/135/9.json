@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Mısır'ın ortasına, Paro'nun ve bütün kullarının üzerine belirtiler ve harikalar gönderdi",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "belirtiler"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ve harikalar"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "senin ortana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paro'nun üzerine"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kullarının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:07.823054640Z",
+  "model": "glm-5.3"
+}

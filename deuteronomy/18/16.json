@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 18:16",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Her şeye göre — ki sen istedin Yahve'den, Elohim'in'den, Horev'de, topluluğun gününde, şöyle diyerek: 'Bir daha duymayayım ⟨את⟩ Yahve'nin, Elohim'im'in sesini, ve ⟨את⟩ şu büyük ateşi bir daha görmeyeyim, ölmeyeyim diye.'",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "her şeye göre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "istedin"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'den"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in'den"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horev'de"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "topluluğun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "duymayayım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im'in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "şu büyük ateşi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ateşi"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "şu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "görmeyeyim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayın"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ölmeyeyim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:02:15.522914253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Zulüm tanıkları ayağa kalkar; bilmediğim şeyi benden isterler.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "ayağa kalkar"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tanıkları"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zulüm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bildiğim"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "benden isterler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:41.485266620Z",
+  "model": "glm-5.3"
+}

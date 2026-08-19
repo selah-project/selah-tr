@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Seni sularla yıkadım ve üzerinden kanını duruldum, ve seni yağla meshettim.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "seni yıkadım"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sularla"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "duruldum"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "kanını"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "seni meshettim"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:06.439714396Z",
+  "model": "glm-5.3"
+}

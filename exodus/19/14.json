@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Moşe dağdan halkın yanına indi ve halkı kutsadı; onlar da giysilerini yıkadılar.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ve indi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın yanına"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ve yıkadılar"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "giysilerini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:26.439989247Z",
+  "model": "glm-5.3"
+}

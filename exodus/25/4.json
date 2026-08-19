@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve mavi mor, ve kırmızı tüyü, ve ince keten, ve keçi kılı.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "ve mavi mor"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ve erguvan"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ve tüyü\/kermes"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kırmızısı"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve ince keten"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "ve keçi kılı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:39.687617216Z",
+  "model": "glm-5.3"
+}

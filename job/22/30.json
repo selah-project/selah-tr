@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Suçsuz olmayanı ⟨bile⟩ kurtarır; ve senin ellerinin arılığıyla kurtulur.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "kurtarır"
+    },
+    {
+      "surface": "אי",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "suçsuz"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "ve kurtulur"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "arılıkla"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "avuçların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:28:56.382250096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve Davud atalarının yanına yattı ve Davud şehrinde gömüldü.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ve yattı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ve gömüldü"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehrinde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    }
+  ],
+  "timestamp": "2026-08-19T09:35:50.019501067Z",
+  "model": "glm-5.3"
+}

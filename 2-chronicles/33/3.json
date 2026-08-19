@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 33:3",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Ve döndü, babası Hizkiyahu'nın yıktığı yücelik yerlerini yeniden inşa etti, ve Baallar için sunaklar dikti, ve Aşeralar yaptı, ve göklerin bütün ordusuna secde etti ve onlara ⟨ את ⟩ kulluk etti.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yücelik yerlerini"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "yücelik yerleri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "yıktığı"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dikti"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "sunaklar"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baallar için"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "אשרות",
+      "gloss": "Aşerolar"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "secde etti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordusu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "kulluk etti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onlara ⟨את⟩",
+      "marks": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T12:10:47.183496801Z",
+  "model": "glm-5.3"
+}

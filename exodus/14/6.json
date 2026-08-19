@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve savaş arabalarını ⟨את⟩ bağladı, ve halkını ⟨את⟩ yanına aldı.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ve bağladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savaş arabalarını"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "savaş arabalarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "halkını"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yanına"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:28.882799884Z",
+  "model": "glm-5.3"
+}

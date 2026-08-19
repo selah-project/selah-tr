@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Çünkü ben Yahve, Elohim'in — Kadoş Yisrael ben, seni kurtaran; kefaretin olarak Mıtsrayim'i verdim, Kuş ve Seva'yı senin yerine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kadoş (kutsal olan)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "seni kurtaran"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "kefaretin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mıtsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ve Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "senin yerine"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:04.736977Z",
+  "model": "glm-5.3"
+}

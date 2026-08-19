@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "Yahve bütün düşenlere dayanak ⟨olur⟩, ve bütün eğilmişleri doğrultur.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "dayanak olur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "düşenlere"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ve doğrultur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "eğilmişleri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:29.278213386Z",
+  "model": "glm-5.3"
+}

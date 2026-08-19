@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim dedi: \"Rakia olsun suların ortasında, ve sular ile sular arasında ayırsın.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakia (yay)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve olsun"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ayıran"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "למים",
+      "gloss": "sulara karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:37.271826546Z",
+  "model": "glm-5.3"
+}

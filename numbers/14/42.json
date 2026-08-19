@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Çıkmayın, çünkü Yahve içinizde ⟨değil⟩ ve düşmanlarınızın önünde vurulmayasınız diye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "çiğnenmesin\/−me"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "çıkmayın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "içinizde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -meyesiniz"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "vurulmayasınız"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmanlarınızın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:36:23.493578750Z",
+  "model": "glm-5.3"
+}

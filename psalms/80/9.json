@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Bir asmayı Mısır'dan söküp çıkardın; ulusları kovdun ve onu diktin.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "asma"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "söküp çıkardın"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "kovdun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ve onu diktin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:49.227185016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Hikmeti satın al, anlayışı satın al; unutma ve ağzımın sözlerinden sapma.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "satın al"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmeti"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "satın al"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "anlayışı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve sapma"
+    },
+    {
+      "surface": "תט",
+      "gloss": "(sapma)"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "sözlerinden"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:41.284199633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Olson ki sonu kesilmede olsun, başka bir kuşakta adları silinsin.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun ki"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "onu son"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kesilmede"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "kuşakta"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka bir"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "silinsin"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "adları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:12.715271111Z",
+  "model": "glm-5.3"
+}

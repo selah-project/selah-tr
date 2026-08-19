@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "İşte, içte ⟨gizli yerlerde⟩ gerçek istedin, ve ⟨gizli⟩ sırlarda bana hikmeti bildirirsin.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "işte"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gerçek"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "isteden"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "içte ⟨gizli yerlerde⟩"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "ve ⟨gizli⟩ sırlarda"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmeti"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "bana bildirirsin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:42.984751435Z",
+  "model": "glm-5.3"
+}

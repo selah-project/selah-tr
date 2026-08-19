@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Gözlerimde değerli olduğundan, şerefli bulunduğundan ve ben seni sevdiğimden, insanları senin yerine, ulusları canın yerine vereceğim.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "olduğundan"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "değerli (oldun)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlerimde"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "şerefli (oldun)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "seni sevdim"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "vereceğim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanları"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "senin yerine"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ve ulusları"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:04.737112706Z",
+  "model": "glm-5.3"
+}

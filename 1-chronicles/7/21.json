@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 7:21",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve Zavad oğlu, ve Şutelah oğlu; ve Ezer ve Elad — onları Gat adamları, o ülkede doğmuş olanlar, öldürdüler; çünkü onlar mallarını ⟨את⟩ almak için inmişlerdi.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Ve Zavad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ושותלח",
+      "gloss": "ve Şutelah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "ve Ezer"
+    },
+    {
+      "surface": "ואלעד",
+      "gloss": "ve Elad"
+    },
+    {
+      "surface": "והרגום",
+      "gloss": "ve öldürdüler onları"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "הנולדים",
+      "gloss": "doğmuş olanlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "indiler"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "almak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mallarını"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "mallarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:30.260597012Z",
+  "model": "glm-5.3"
+}

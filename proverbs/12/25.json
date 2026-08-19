@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kaygı bir adamın yüreğinde onu büker, ama iyi bir söz onu sevindirir.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "kaygı"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "yüreğinde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adamın"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "onu büker"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ama bir söz"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "onu sevindirir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:31.245970180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 81,
+  "translation": "Ah, halkım bana kulak verseydi, Yiśra'el yollarımda yürüseymiş!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ah, ...-seydi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kulak verse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiśra'el"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yollarımda"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yürüse"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:59.111886088Z",
+  "model": "glm-5.3"
+}

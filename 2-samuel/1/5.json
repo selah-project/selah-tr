@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Davud kendisine haber getiren delikanlıya sordu: Şaul ve oğlu Yonatan öldü diye nasıl bildin?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sordu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "delikanlı"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "haber getiren"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איך",
+      "gloss": "nasıl"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bildin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "diye"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ve Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:28.817272053Z",
+  "model": "glm-5.3"
+}

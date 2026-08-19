@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve kâhin emredecek ve ⟨את⟩ kuşlardan birini pişmiş toprak bir kabın içine, canlı suların üzerine kesecek.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ve emredecek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ve kesecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuşlardan birini"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "kuş"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "birini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kap"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "pişmiş toprak"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:29.717027152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve kendi yanına Ammon oğullarını ve Amalek'i topladı, gidip İsrail'i vurdu ve ⟨את⟩ hurma ağaçları şehrini mülk edindiler.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kendi yanına"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammon oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ve Amalek'i"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'i"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "mülk edindiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehri"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehri"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "hurma ağaçları"
+    }
+  ],
+  "timestamp": "2026-08-19T09:15:24.964341680Z",
+  "model": "glm-5.3"
+}

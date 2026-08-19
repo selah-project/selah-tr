@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve oldu ki ülkenin halkı Yahuda halkının ellerini gevşetiyordu ve onları inşadan ⟨את⟩ yıldırıyorlardı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkenin"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "gevşetenler"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ellerini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "halkının"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ve yıldıranlar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "inşa etmekten"
+    }
+  ],
+  "timestamp": "2026-08-19T11:47:03.247544619Z",
+  "model": "glm-5.3"
+}

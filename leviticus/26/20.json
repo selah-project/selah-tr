@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve gücünüz boşa tükenecek; toprağınız ⟨את⟩ ürününü vermeyecek ve toprağın ağacı meyvesini vermeyecek.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ve tükenecek"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "boşa"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "gücünüz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve -mez"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "toprağınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürününü"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ürününü"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ve ağacı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "meyvesini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:50.668599612Z",
+  "model": "glm-5.3"
+}

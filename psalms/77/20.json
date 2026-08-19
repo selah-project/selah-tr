@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Denizde ⟨idi⟩ senin yolun, senin patikaların suların çoğunda ⟨idi⟩; ve senin izlerin bilinmediler.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "denizde"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "senin yolun"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "ve senin patikaların"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suların içinde"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çok"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ve senin izlerin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "bilindiler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:55.284517962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve kanından toplantı çadırına, kutsal yerde kefaret için getirildiği her günah sunusu yenmeyecektir; ateşte yakılacaktır.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve her"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "getirilir"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "kanından"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içine"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantı"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kefaret için"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kutsal yerde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yenecek"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşte"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "yakılacak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:24.245138099Z",
+  "model": "glm-5.3"
+}

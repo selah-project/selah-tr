@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Bana lûtfet, Elohim, hasdîne göre; rahamîminin çokluğuna göre isyanlarımı sil.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "bana lûtfet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "hasdîne göre"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "çokluğuna göre"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahamîminin"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "sil"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "isyanlarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:37.526677676Z",
+  "model": "glm-5.3"
+}

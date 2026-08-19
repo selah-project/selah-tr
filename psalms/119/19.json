@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Yeryüzünde bir garibim ⟨ben⟩; mitsvalarını benden gizleme.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "garib"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me (olumsuz emir)"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "gizleme"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mitsvalarını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:37:15.349383348Z",
+  "model": "glm-5.3"
+}

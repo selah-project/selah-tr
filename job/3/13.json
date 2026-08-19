@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü şimdi yatmış ⟨olurdum⟩ ve sessiz kalırdım; uykuya dalmış ⟨olurdum⟩ — o zaman bana dinlenme olurdu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "yatmış olurdum"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "ve sessiz kalırdım"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "uykuya dalmış olurdum"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "dinlenme olurdu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:42.974489105Z",
+  "model": "glm-5.3"
+}

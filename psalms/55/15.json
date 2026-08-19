@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Ki birlikte sır-danışmasını tatlandırırdık; Elohim'in evinde kalabalıkla yürürdük.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "tatlandırırdık"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sır-danışması"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "yürürdük"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "kalabalıkla"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:15.663707275Z",
+  "model": "glm-5.3"
+}

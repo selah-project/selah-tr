@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 50,
+  "translation": "Elohim'imiz gelecek ve ⟨sessiz kalmayacak⟩; önünde ateş yutacak, çevresinde şiddetle kuduracak.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "gelecek"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ⟨değil⟩"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "sessiz kalacak"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yutacak"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "ve çevresinde"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "kuduracak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "şiddetle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:25.281185517Z",
+  "model": "glm-5.3"
+}

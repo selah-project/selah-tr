@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 89,
+  "translation": "⟨Sen⟩ Rahav'ı ölü gibi ezip çiğnedin; gücünün kolu ile düşmanlarını dağıttın.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "ezdin"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "ölü gibi"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav'ı"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "kolu ile"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "gücünün"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "dağıttın"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "düşmanlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:04.863507940Z",
+  "model": "glm-5.3"
+}

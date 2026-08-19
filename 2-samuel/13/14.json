@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ama onun sesini dinlemeye razı olmadı; ondan güçlü davrandı ve onu aşağıladı ve ⟨את⟩ onunla yattı.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve olmadı"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "razı"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dinlemeye"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "onun sesini"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "güçlü davrandı"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "aşağıladı"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "onunla yattı"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (onunla yattı)"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:52.547530361Z",
+  "model": "glm-5.3"
+}

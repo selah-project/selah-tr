@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 92,
+  "translation": "Mizmor, şir — şabat günü içindir.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şir"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "günü içindir"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabat"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:26.266571225Z",
+  "model": "glm-5.3"
+}

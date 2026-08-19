@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve Yaakov Rahel için yedi yıl hizmet etti, ve onu ⟨את⟩ sevmesinden ötürü gözünde birkaç gün gibiydiler.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "ve hizmet etti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Rahel için"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ve oldular"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "günler gibi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "birkaç"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sevmesinden ötürü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:46.043268211Z",
+  "model": "glm-5.3"
+}

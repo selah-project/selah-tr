@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Ona kötü günlerden dinlenme veresin diye, Kötü kişiye kadar çukur kazılıncaya dek.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "dinlenme vermek için"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "günlerden"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "kazılsın"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kötü kişiye"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çukur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:51.705167020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü gözleriniz gördü ⟨את⟩ bütün büyük işi Yahve'nin — yaptığı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "gözleriniz"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-en"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:37.215457391Z",
+  "model": "glm-5.3"
+}

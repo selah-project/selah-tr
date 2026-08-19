@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Çünkü ona ne yapılacağı açıklanmamış olduğu için onu gözetim altına koydular ⟨את⟩ onu.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "koydular"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "gözetim altına konulan adam"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "gözetim altına"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "açıklanmamış"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapılacağı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:27.625642615Z",
+  "model": "glm-5.3"
+}

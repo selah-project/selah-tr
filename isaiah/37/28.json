@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Oturuşunu ve çıkışını ve girişini biliyorum; ve ⟨את⟩ bana karşı öfkelendiğini ⟨biliyorum⟩.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "oturuşunu"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ve çıkışını"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ve girişini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "biliyorum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "öfkelendiğini"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "öfkelendiğini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:31.280148553Z",
+  "model": "glm-5.3"
+}

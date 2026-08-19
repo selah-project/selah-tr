@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 57,
+  "translation": "\"Barış yok,\" dedi Elohim'im, kötüler için.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "barış"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "kötüler için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:02:19.083456326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yahve kullarının canını kurtarır ve O'na sığınanların hiçbiri suçlu olmayacaktır.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "kurtarır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kullarının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "suçlu olacaklar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hepsi"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "sığınanlar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "O'na"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:13.452769184Z",
+  "model": "glm-5.3"
+}

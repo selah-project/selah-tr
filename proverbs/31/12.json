@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ona iyilik etmiştir ⟨ve⟩ kötülük değil, yaşadığı günlerin tümünde.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "ona iyilik etmiştir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve kötülük değil"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tümünde"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerin"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "yaşadığı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:58.073723109Z",
+  "model": "glm-5.3"
+}

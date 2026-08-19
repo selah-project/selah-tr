@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Mısır'da sana söylediğimiz söz bu değil mi: 'Bizden vazgeç, ⟨את⟩ Mısırlılara kulluk edelim'; çünkü ⟨את⟩ Mısırlılara kulluk etmek bize çölde ölmekten iyidir.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "söylediğimiz"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "vazgeç"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizden"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "kulluk edelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mısırlılara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısırlılar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kulluk etmek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mısırlılara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısırlılar"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "ölmekten"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:11.028773545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 139,
+  "translation": "Göklere çıksam — orada sensin; Şeol'de yatağımı sersem — işte sensin orada.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "çıksam"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökler"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensin"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ve sereyim (yatak)"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "işte sensin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:30.428395526Z",
+  "model": "glm-5.3"
+}

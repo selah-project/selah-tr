@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Aşur bizi kurtarmayacak, at üzerine binmeyeceğiz ve artık demeyeceğiz 'Elohim'imiz' kendi ellerimizin yapısına; çünkü sende yetim merhamet bulur.",
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "bizi kurtarmayacak"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "binmeyeceğiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "demeyeceğiz"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "'Elohim'imiz'"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "yapısına"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ellerimizin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sen-de"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "merhamet bulur"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:03.129886681Z",
+  "model": "glm-5.3"
+}

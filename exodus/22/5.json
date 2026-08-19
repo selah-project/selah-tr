@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Eğer ateş çıkıp dikenleri bulursa ve saman yığını ya da ekin ya da tarla yendiğinde, ateşi yakan tam tamına ⟨את⟩ yangını ödeyecektir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Eğer"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıkarsa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "ve bulursa"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "dikenleri"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "ve yenilirse"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "saman yığını"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ekin"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödeyecektir"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yangını"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "yangını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:17:01.695274877Z",
+  "model": "glm-5.3"
+}

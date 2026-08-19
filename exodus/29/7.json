@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve ⟨את⟩ mesh yağını alacaksın, başının üzerine dökeceksin ve onu mesh edeceksin.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ve alacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesh yağını"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağını"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mesh"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ve dökeceksin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başının"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ve mesh edeceksin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ onu",
+      "marks": "onu (Aharon'u)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:23.423525499Z",
+  "model": "glm-5.3"
+}

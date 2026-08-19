@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Yahve'yi kutsayın, bütün yapıtları O'nun, bütün yerlerde egemenliğinin; kutsa ey canım ⟨את⟩ Yahve'yi.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "kutsayın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "yapıtları O'nun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün ... de"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "yerlerde"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "egemenliğinin"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "kutsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:47.734103464Z",
+  "model": "glm-5.3"
+}

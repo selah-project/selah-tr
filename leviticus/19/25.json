@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve beşinci yılda ⟨את⟩ meyvesini yiyeceksiniz — ⟨bu⟩ size ürününü artırsın diye; ben Yahve, Elohim'iniz ⟨im⟩.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ve beşinci yılda"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "beşinci"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yiyeceksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meyvesini"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "meyvesini"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "artırsın diye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ürününü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:28:56.764546323Z",
+  "model": "glm-5.3"
+}

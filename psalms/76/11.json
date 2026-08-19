@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 76,
+  "translation": "Çünkü insanın öfkesi seni övecek; öfkenin kalıntısını kuşanacaksın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "seni övecek"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "kalıntısını"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "öfkenin"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "kuşanacaksın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:19.271704801Z",
+  "model": "glm-5.3"
+}

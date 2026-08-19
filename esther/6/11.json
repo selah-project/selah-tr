@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Haman ⟨את⟩ giysiyi ve ⟨את⟩ atı aldı ve ⟨את⟩ Mordehay'ı giydirdi ve onu şehrin meydanında ata bindirdi ve önünde şöyle çağırdı: «Kralın onurlandırmayı istediği adama böyle yapılır!»",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giysiyi"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "giysiyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "atı"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "atı"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ve giydirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordehay'ı"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay'ı"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "ve onu bindirdi"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "meydanında"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapılır"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ister"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "onurlandırmayı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:06.317406418Z",
+  "model": "glm-5.3"
+}

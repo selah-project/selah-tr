@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Her şeyin sonu, ⟨hep birlikte⟩ duyuldu: Elohim'den kork ⟨את⟩ ve ⟨את⟩ buyruklerini koru; çünkü bu, insanın bütünüdür.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözün"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "her şeyin"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "duyuldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kork"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "buyruklarını"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "buyruklarını"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "koru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütünüdür"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:47.657062416Z",
+  "model": "glm-5.3"
+}

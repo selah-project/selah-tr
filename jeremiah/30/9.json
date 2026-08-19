@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Yahve'ye, Elohim'lerine ⟨את⟩ kulluk edecekler ve kendileri için dirilteceğim ⟨את⟩ Davud, krallarına.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ve kulluk edecekler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim'leri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Davud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "dirilteceğim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:13:00.006534973Z",
+  "model": "glm-5.3"
+}

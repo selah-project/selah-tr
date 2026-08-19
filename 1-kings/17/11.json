@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Almaya gitti ve ona seslendi ve dedi: Al lütfen bana elinde bir lokma ekmek.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Gitti"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "almaya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve seslendi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "Al"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "פת",
+      "gloss": "bir lokma"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "elinde"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:56.183708692Z",
+  "model": "glm-5.3"
+}

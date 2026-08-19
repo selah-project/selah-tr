@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ⟨את⟩ kutsalı yutulur-yutulmaz görmeye girmesinler ki ölmesinler.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -mesin"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girmesinler"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmeye"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "yutulur-yutulmaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsalı"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsalı"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ve ölsünler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:03.693001377Z",
+  "model": "glm-5.3"
+}

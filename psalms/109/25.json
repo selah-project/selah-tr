@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Ben ise onlar için bir alay ⟨oldum⟩; beni görünce başlarını sallıyorlar.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "alay \/ aşağılama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar için"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "beni görünce"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "sallıyorlar"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "başlarını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:57.742038149Z",
+  "model": "glm-5.3"
+}

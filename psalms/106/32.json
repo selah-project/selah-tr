@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Ve öfkelendirdiler onu Meriva sularında, ve Moşe'ye kötü gitti onların yüzünden.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "ve öfkelendirdiler"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularında"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ve kötü gitti"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşe'ye"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "onların yüzünden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:37.749190075Z",
+  "model": "glm-5.3"
+}

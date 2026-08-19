@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ki işittik ve onları bildik; atalarımız da bize anlattılar.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "işittik"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "ve onları bildik"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ve atalarımız"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "anlattılar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:20.015791624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "David bunu duyunca Yoav'ı ve ⟨את⟩ bütün güçlü adamlar ordusunu gönderdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "duydu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav'ı"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav'ı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün güçlü adamlar ordusunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordusunu"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "güçlü adamlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:59:05.250870380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve bunlar Aharon'un oğullarının adlarıdır: ⟨en⟩ büyüğü Nadav, ve Avihu, Elazar ve Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ilkdoğan"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ve Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ve Itamar"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:26.752656828Z",
+  "model": "glm-5.3"
+}

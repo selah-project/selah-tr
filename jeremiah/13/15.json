@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Duyun ve kulak verin, kibirlenmeyin; çünkü Yahve konuştu.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Duyun"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ve kulak verin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-meyin"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "kibirlenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    }
+  ],
+  "timestamp": "2026-08-19T12:18:18.035911603Z",
+  "model": "glm-5.3"
+}

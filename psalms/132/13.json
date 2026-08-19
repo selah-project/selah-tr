@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Çünkü Yahve Siyon'u seçti, onu ⟨oturak⟩ olarak kendisi için arzuladı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "seçti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siyon'u"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "arzuladı"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "oturak olarak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisi için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.301199542Z",
+  "model": "glm-5.3"
+}

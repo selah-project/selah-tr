@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Titreyin O'nun yüzünden, bütün ⟨את⟩ yeryüzü; evet, dünya kuruludur, sarsılmayacaktır.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "titreyin"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "O'nun yüzünden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzü"
+    },
+    {
+      "surface": "אף",
+      "gloss": "evet"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "kuruludur"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sarsılacaktır"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:33.657440494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Elohim, ⟨sen⟩ biliyorsun benim aptallığımı; ve suçlarım senden gizlenmedi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "biliyorsun"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "benim aptallığımı"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ve suçlarım"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "gizlenmedi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:15.141549414Z",
+  "model": "glm-5.3"
+}

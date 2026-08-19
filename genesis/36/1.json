@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve işte Esav'ın soyağacı — o, Edom'dur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "soyağacı"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav'ın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T07:04:17.280763820Z",
+  "model": "glm-5.3"
+}

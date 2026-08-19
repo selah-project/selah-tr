@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ama sen ve kulların — biliyorum ki henüz Yahve Elohim'in yüzünden korkmuyorsunuz.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ve sen"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ve kulların"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "biliyorum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "henüz"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "korkmuyorsunuz"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:11:56.725005576Z",
+  "model": "glm-5.3"
+}

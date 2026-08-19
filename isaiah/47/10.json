@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 47:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Kötülüğüne güvendin, 'Beni gören yok' dedin; senin bilgeliğin ve bilgin, seni yoldan çevirdi, ve kalbinde dedin: 'Ben ⟨im⟩, ve başkası yok ⟨yanımda⟩.'",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "ve güvendin"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "kötülüğüne"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dedin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "ראני",
+      "gloss": "beni gören"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "bilgeliğin"
+    },
+    {
+      "surface": "ודעתך",
+      "gloss": "ve bilgin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שובבתך",
+      "gloss": "seni yoldan çevirdi"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "ve dedin"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "kalbinde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "ve benim sonum\/yoktur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "başka"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:41.810348122Z",
+  "model": "glm-5.3"
+}

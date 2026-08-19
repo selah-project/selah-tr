@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 31:6",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Çünkü ⟨öyle⟩ bir gün var: Efrayim dağında bekçiler bağırıp diyecekler: 'Kalkın, Çiyon'a, Yahve Elohim'imizin yanına çıkalım!'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bir gün"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bağırıp diyecekler"
+    },
+    {
+      "surface": "נצרים",
+      "gloss": "bekçiler"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "kalkın"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "ve çıkalım"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Çiyon'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim'imiz"
+    }
+  ],
+  "timestamp": "2026-08-19T10:13:22.769944129Z",
+  "model": "glm-5.3"
+}

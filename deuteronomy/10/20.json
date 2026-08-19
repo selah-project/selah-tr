@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Yahve'yi, Elohim'ini ⟨את⟩ korkacaksın; ⟨את⟩ ona kulluk edeceksin, ona yapışacaksın ve adına ant içeceksin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'ini"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "korkacaksın"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ona"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "kulluk edeceksin"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ve ona"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "yapışacaksın"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ve adına"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ant içeceksin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:47.687253112Z",
+  "model": "glm-5.3"
+}

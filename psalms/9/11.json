@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Adını bilenler sana güvenecek, çünkü arayanları terk etmedin, ey Yahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ve güvenecek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "bilenler"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "terk etmedin"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "arayanlarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:01.424619892Z",
+  "model": "glm-5.3"
+}

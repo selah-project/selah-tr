@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 25:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Yılların çokluğuna göre satın alma bedelini artıracaksın, yılların azlığına göre bedelini azaltacaksın; çünkü hasat sayısını o sana satıyor.",
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "-e göre"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çokluğuna"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "yılların"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "artıracaksın"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "onun satın alma bedelini"
+    },
+    {
+      "surface": "ולפי",
+      "gloss": "ve -e göre"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "azlığına"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "yılların"
+    },
+    {
+      "surface": "תמעיט",
+      "gloss": "azaltacaksın"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "onun bedelini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayısını"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasatların"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "satıyor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:30.638189124Z",
+  "model": "glm-5.3"
+}

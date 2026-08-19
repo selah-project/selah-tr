@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve dikili taşları kırdı, Aşerim'leri kesti ve yerlerini insan kemikleriyle doldurdu.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "ve kırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikili taşları"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "dikili taşları"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ve kesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşerim'leri"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Aşerim'leri"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ve doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerlerini"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "yerlerini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kemikleriyle"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:50:33.715054335Z",
+  "model": "glm-5.3"
+}

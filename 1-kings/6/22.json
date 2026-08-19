@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve ⟨את⟩ bütün evi altınla kapladı, bütün ev tamamlanana dek; ve Devir'e ait bütün sunağı da altınla kapladı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün ev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kapladı"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altınla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e dek"
+    },
+    {
+      "surface": "תם",
+      "gloss": "tamamlanması"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "Devir'e ait"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kapladı"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altınla"
+    }
+  ],
+  "timestamp": "2026-08-19T09:37:13.181518062Z",
+  "model": "glm-5.3"
+}

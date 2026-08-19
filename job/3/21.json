@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ölümü bekleyip de ⟨o⟩ gelmeyenlere; onu saklı hazineler(den çok) kazıp arayanlara —",
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "bekleyenlere"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "o yoktur"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ve onu kazıp ararlar"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "saklı hazinelerden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:55.725063127Z",
+  "model": "glm-5.3"
+}

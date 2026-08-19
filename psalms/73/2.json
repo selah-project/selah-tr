@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Ben ise nerdeyse ayaklarım eğilip kaymıştı, adımlarım yok gibi dökülmüştü.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "nerdeyse"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "eğilip kaymıştı"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaklarım"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "yok gibi"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "dökülmüştü"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "adımlarım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:32.038390412Z",
+  "model": "glm-5.3"
+}

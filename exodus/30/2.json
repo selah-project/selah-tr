@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Bir arşın uzunluğu, bir arşın genişliği olsun — kare olacak — ve yüksekliği iki arşın; boynuzları onun ⟨bir parçası⟩ olsun.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "bir arşın"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ve bir arşın"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "genişliği"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kare"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "ve iki arşın"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "yüksekliği"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "boynuzları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:41.746354190Z",
+  "model": "glm-5.3"
+}

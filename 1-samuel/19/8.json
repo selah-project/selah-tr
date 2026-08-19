@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Savaş yine olmaya devam etti ve Davud çıkıp Peliştimlerle savaştı ve onları büyük bir yenilgiye uğrattı ve onun önünden kaçtılar.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "ve devam etti"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "savaş"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmaya"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ve savaştı"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Peliştimlerle"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ve vurdu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "yenilgiyle"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ve kaçtılar"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "onun önünden"
+    }
+  ],
+  "timestamp": "2026-08-19T12:14:42.550702246Z",
+  "model": "glm-5.3"
+}

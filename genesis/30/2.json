@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Yaakov'un öfkesi Rahel'e alevlendi, ve dedi: Ben miyim Elohim'in yerine, ki ⟨sen⟩den rahim meyvesini esirgeyen?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "alevlendi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Rahel'e"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "yerine mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben miyim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "esirgeyen"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvesini"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "rahim"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:43.258865349Z",
+  "model": "glm-5.3"
+}

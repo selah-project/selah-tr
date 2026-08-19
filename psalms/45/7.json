@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Tahtın, ey Elohim, ebedî ve daimadır; doğruluğun asasıdır krallığının asası.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "tahtın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebedî"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve daima"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "asası"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "doğruluğun"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "asası"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "krallığının"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:23.819755191Z",
+  "model": "glm-5.3"
+}

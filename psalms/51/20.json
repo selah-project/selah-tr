@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "İyilik et rızânla ⟨את⟩ Siyon'a; Yeruşalayim'in surlarını ⟨sen⟩ kur.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "iyilik et"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "rızânla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "surlarını"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:40.484793558Z",
+  "model": "glm-5.3"
+}

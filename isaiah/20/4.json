@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Böylece Aşur kralı Mısır'ın esirlerini ⟨את⟩ ve Kuş'un sürgünlerini ⟨את⟩ sürecek — gençler ve yaşlılar, çıplak ve yalınayak, kalçaları açılmış — Mısır'ın çıplaklığı ⟨olarak⟩.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "sürecek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esirlerini"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "esirlerini"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sürgünlerini"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "sürgünlerini"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş'un"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "gençler"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ve yaşlılar"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "çıplak"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "yalınayak"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "ve açılmış"
+    },
+    {
+      "surface": "שת",
+      "gloss": "kalçaları"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır'ın"
+    }
+  ],
+  "timestamp": "2026-08-19T09:55:14.892638339Z",
+  "model": "glm-5.3"
+}

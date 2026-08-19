@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Yahve onu hastalık yatağında destekleyecek; yatağını tüm hastalığında sen çevirdin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "onu destekleyecek"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "yatak"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "hastalık"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "yatağını"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "çevirdin"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "hastalığında"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:43.889128834Z",
+  "model": "glm-5.3"
+}

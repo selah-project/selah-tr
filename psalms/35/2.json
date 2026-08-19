@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Küçük kalkanı ve büyük kalkanı kavrayıp yardımımıza ⟨is⟩ doğrul.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "kavrayıp tut"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "küçük kalkan"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ve büyük kalkan"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ve doğrul"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "yardımıma"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:28.807498005Z",
+  "model": "glm-5.3"
+}

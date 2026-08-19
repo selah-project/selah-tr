@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Canım edutlarını korudu, onları çok sevdim.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "korudu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "edutlarını"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "ve onları sevdim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:59.552040907Z",
+  "model": "glm-5.3"
+}

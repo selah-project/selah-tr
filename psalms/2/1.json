@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Neden uluslar öfkeyle kudurdu, ve halklar boş şeyler düşünüyor?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "öfkeyle kudurdular"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "uluslar"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ve halklar"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "düşünüyorlar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "boş şey"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:56.466012147Z",
+  "model": "glm-5.3"
+}

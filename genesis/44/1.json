@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Ve evinin yöneticisine emir verdi: «Adamların çuvallarını taşıyabilecekleri kadar yiyecekle doldur ve herkesin gümüşünü çuvalının ağzına koy» dedi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ve emir verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evinin yöneticisi (אשר על ביתו)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "על",
+      "gloss": "başındaki"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çuvalları (אמתחת האנשים)"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "çuvallarını"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamların"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyecekle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "güçlerinin yettiği"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "taşımaya"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ve koy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "herkesin"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "çuvalının"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:44.156602028Z",
+  "model": "glm-5.3"
+}

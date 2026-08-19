@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Umut ediyorduk barışı, ama iyilik yok; şifa zamanı için — ve işte dehshet!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "umut ediyorduk"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "barışı"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ama yok"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "zamanı için"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "şifa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "dehşet"
+    }
+  ],
+  "timestamp": "2026-08-19T10:07:58.578721589Z",
+  "model": "glm-5.3"
+}

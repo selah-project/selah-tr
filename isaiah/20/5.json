@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve dehşete kapılacaklar, Kuş'tan — umutlarından — ve Mitsrayim'den — görkemlerinden — utanacaklar.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "dehşete kapılacaklar"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "utanacaklar"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kuş'tan"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "umutlarından"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ve ...'den"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim'den"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "görkemlerinden"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:11.741368943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve kadın yılana dedi: «Bahçenin ağaçlarının meyvesinden yiyoruz.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "yılana"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "meyvesinden"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaçlarının"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bahçenin"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yiyoruz"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:21.564536532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Yalnız kanı yemeyeceksiniz; onu yeryüzüne su gibi dökeceksiniz.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kanı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemeyeceksiniz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzüne"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "onu dökeceksin"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "su gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:27.079218077Z",
+  "model": "glm-5.3"
+}

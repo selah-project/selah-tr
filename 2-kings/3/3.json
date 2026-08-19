@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Yalnız Yarovam'ın, Nevat oğlunun, Yisrael'i günaha soktuğu günahlara yapıştı; onlardan ayrılmadı.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "günahlara"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam'ın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "günaha soktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael'i"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "yapıştı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ayrıldı"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:16.069252030Z",
+  "model": "glm-5.3"
+}

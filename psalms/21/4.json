@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Çünkü onu iyilik kutsamalarıyla karşıladın, başına saf altından taç koydun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "onu karşıladın"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "kutsamalarla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "koydun"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "başına"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "taç"
+    },
+    {
+      "surface": "פז",
+      "gloss": "saf altın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:54.870576477Z",
+  "model": "glm-5.3"
+}

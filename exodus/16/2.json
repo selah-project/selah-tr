@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve Yisrael oğullarının bütün cemaati çölde Moşe'ye ve Aharon'a karşı söylendi.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "söylendiler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "cemaati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'ye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve … karşı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'a"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:44.567029095Z",
+  "model": "glm-5.3"
+}

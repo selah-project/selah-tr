@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Çünkü İsrail, Beyt Davud'dan koparıldı ve Navat oğlu Yarovam'ı ⟨את⟩ kral yaptılar; ve Yarovam İsrail'i ⟨את⟩ Yahve'nin ardından sürükledi ve onları büyük bir günaha soktu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "koparıldı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "kral yaptılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarovam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navat"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "sürükledi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "onları günaha soktu"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "günah"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:41.562502523Z",
+  "model": "glm-5.3"
+}

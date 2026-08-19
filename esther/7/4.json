@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 7:4",
+  "book": "esther",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü ben ve halkım, yok edilmek, öldürülmek ve helak edilmek için satıldık; ama kölelere ve cariyelere satılmış olsaydık, susardım — çünkü düşman, kralın zararına ⟨değecek⟩ değerde ⟨değildir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נמכרנו",
+      "gloss": "satıldık"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "ve halkım"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "yok edilmek için"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "öldürülmek için"
+    },
+    {
+      "surface": "ולאבד",
+      "gloss": "ve helak edilmek için"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "ama eğer"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "kölelere"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "ve cariyelere"
+    },
+    {
+      "surface": "נמכרנו",
+      "gloss": "satılmış olsaydık"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "susardım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur \/ değildir"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "değecek"
+    },
+    {
+      "surface": "בנזק",
+      "gloss": "zararına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:41:26.373552776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Kalk, Yahve, istirahat yerine; sen ve gücünün sandığı!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "kalk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "istirahat yerine"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ve sandığı"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "gücünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:59.175187927Z",
+  "model": "glm-5.3"
+}

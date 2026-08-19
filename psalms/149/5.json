@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 149,
+  "translation": "Hasidler zaferle sevinç içinde sıçrasınlar, yataklarında coşkuyla şakısınlar.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "sıçrasınlar\/sevinçten coşsunlar"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "hasidler"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "zaferle\/onurla"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "şakısınlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "yataklarında"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:47.345049625Z",
+  "model": "glm-5.3"
+}

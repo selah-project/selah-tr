@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Göğün kuşu ve denizin balıkları, denizlerin yollarından geçen ⟨her şey⟩.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "kuşu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göğün"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ve balıkları"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geçen"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yollarından"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "denizlerin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:46.290210344Z",
+  "model": "glm-5.3"
+}

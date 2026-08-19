@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Bir boğa, sığır yavrusu; bir koç; bir kuzu, bir yaşında, yakmalık sunu için.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "boğa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yavrusu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sığırın"
+    },
+    {
+      "surface": "איל",
+      "gloss": "koç"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kuzu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir yaşında oğlu"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "yaşının"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yakmalık sunu için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:33:59.094934368Z",
+  "model": "glm-5.3"
+}

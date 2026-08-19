@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Biri «Yahve'ninim ben» diyecek, ve biri Yaakov adıyla çağrılacak, ve biri eliyle «Yahve için» yazacak ve Yişrael adını kendine takacak.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "biri"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "diyecek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye ait"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ve biri"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "çağrılacak"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ve biri"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "yazacak"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "eliyle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve için"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ve adıyla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "kendine takacak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:06.044253249Z",
+  "model": "glm-5.3"
+}

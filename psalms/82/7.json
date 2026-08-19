@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 82,
+  "translation": "Ne var ki Âdem gibi öleceksiniz ve yöneticilerden biri gibi düşeceksiniz.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "ne var ki"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "Âdem gibi"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "öleceksiniz"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ve ... gibi biri"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "yöneticilerin"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "düşeceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:29.270646048Z",
+  "model": "glm-5.3"
+}

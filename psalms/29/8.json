@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yahve'nin sesi çölü sarsar; Yahve Kaadeş çölünü sarsar.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "sarsar"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çölü"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "sarsar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çölünü"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kaadeş"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:47.070293171Z",
+  "model": "glm-5.3"
+}

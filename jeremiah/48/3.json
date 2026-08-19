@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 48,
+  "translation": "Ḥoronayim'den bir çığlık sesi: yıkım ve büyük kırılma!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "çığlık"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "Ḥoronayim'den"
+    },
+    {
+      "surface": "שד",
+      "gloss": "yıkım"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ve kırılma"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    }
+  ],
+  "timestamp": "2026-08-19T10:20:29.070858272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve bunların arasında bir adam ⟨yoktu⟩ Moşe'nin ve kohen Aharon'un saydıklarından, ki İsrail oğullarını Sina çölünde saydılar.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "Ve bunların arasında"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "saydıklarından"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'nin"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ve Aharon'un"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "saydılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölünde"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    }
+  ],
+  "timestamp": "2026-08-19T08:57:07.127972749Z",
+  "model": "glm-5.3"
+}

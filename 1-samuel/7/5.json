@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve Şemuël dedi: Toplayın ⟨את⟩ bütün Yisrael'i Mitzpa'ya, ve sizin için Yahve'ye dua edeceğim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "toplayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün Yisrael'i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitzpa'ya"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ve dua edeceğim"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:14.527120538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü heveli çoğaltan birçok sözler vardır; adam için artık ne vardır?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יש",
+      "gloss": "vardır"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sözler"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "birçok"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "çoğaltan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "artık"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "adam için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:51.233222636Z",
+  "model": "glm-5.3"
+}

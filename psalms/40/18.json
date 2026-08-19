@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ben ise yoksul ve düşkünüm; Adonay bende hesap tutar ⟨⟨את⟩⟩. Yardımım ve kurtarıcım sensin, Elohim'im; gecikme!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ben ise"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve düşkün"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hesap tutar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bende"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "yardımım"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ve kurtarıcım"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "gecikme"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:39.853213046Z",
+  "model": "glm-5.3"
+}

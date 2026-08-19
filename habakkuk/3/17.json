@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 3:17",
+  "book": "habakkuk",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Çünkü incir ağacı çiçek açmayacak, bağlarda ürün olmayacak; zeytinin işi yalan söyleyecek, tarlalar yiyecek yapmayacak; sürü ağıldan kesilmiş olacak ve ahırlarda sığır olmayacak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "incir ağacı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mayacak (olumsuzluk)"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "çiçek açmayacak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve olmayacak"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "ürün"
+    },
+    {
+      "surface": "בגפנים",
+      "gloss": "bağlarda"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "yalan söyleyecek"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytinin"
+    },
+    {
+      "surface": "ושדמות",
+      "gloss": "ve tarlalar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmayacak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "kesilmiş olacak"
+    },
+    {
+      "surface": "ממכלה",
+      "gloss": "ağıldan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürü"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve olmayacak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sığır"
+    },
+    {
+      "surface": "ברפתים",
+      "gloss": "ahırlarda"
+    }
+  ],
+  "timestamp": "2026-08-19T10:46:13.434257808Z",
+  "model": "glm-5.3"
+}

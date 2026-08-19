@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Çünkü dedin: «Sana ne yarar sağlar? Günahımdan bana ⟨ne⟩ kazandırır?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dedin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "yarar sağlar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "kazandırır"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "günahımdan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:27.746005202Z",
+  "model": "glm-5.3"
+}

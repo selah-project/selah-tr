@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Bayram gününde, Yahve'nin şölânü gününde ne yapacaksınız?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapacaksınız"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "belirli mevsim (bayram)"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ve gününde"
+    },
+    {
+      "surface": "חג",
+      "gloss": "şölânün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:10.548818127Z",
+  "model": "glm-5.3"
+}

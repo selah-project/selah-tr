@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Kutsanmış olacaksın bütün halklardan ⟨daha⟩; sende kısırlık olmayacak — erkek de kadın da — ve hayvanlarında da ⟨olmayacak⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutsanmış"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaksın"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... dan ⟨daha⟩"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "halklardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sende"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "kısır erkek"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ve kısır kadın"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ve hayvanlarında"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:10.626813382Z",
+  "model": "glm-5.3"
+}

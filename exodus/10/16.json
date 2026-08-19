@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Paroah aceleyle Moşe'yi ve Aharon'u çağırmaya koştu ve dedi: Yahve'ye, sizin Elohim'inize ve size karşı günah işledim.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "aceleyle koştu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroah"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "çağırmaya"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşe'yi"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ve Aharon'u"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah işledim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohim'inize"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ve size karşı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:11.138134613Z",
+  "model": "glm-5.3"
+}

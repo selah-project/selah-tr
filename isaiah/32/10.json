@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Günler ve bir yıl boyunca, ey güvenenler, titreyeceksiniz; çünkü hasat tükendi, toplama gelmeyecek.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunca \/ üzerine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bir yıl"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "titreyeceksiniz"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "güvenenler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tükendi"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "hasat (üzüm)"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "toplama"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "-sız"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:07.017212196Z",
+  "model": "glm-5.3"
+}

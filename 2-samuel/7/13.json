@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "O, adıma bir ev kuracak ve ben onun krallığının tahtını ⟨את⟩ sonsuza dek sağlamlaştıracağım.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "kuracak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "adıma"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ve sağlamlaştıracağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahtını"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tahtını"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "krallığının"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sonsuza"
+    }
+  ],
+  "timestamp": "2026-08-19T09:29:39.045492498Z",
+  "model": "glm-5.3"
+}

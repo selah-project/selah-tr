@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve hiçbir kan yemeyeceksiniz, bütün yerleşimlerinizde — kuşa da hayvana da ait olsa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve hiçbir"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yemeyeceksiniz"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyeceksiniz"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "yerleşimlerinizde"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "kuşa"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "hayvana da"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:31.279630244Z",
+  "model": "glm-5.3"
+}

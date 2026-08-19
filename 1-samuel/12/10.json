@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Ve Yahve'ye feryat ettiler ve dediler: Günah ettik, çünkü Yahve'yi terk ettik ve ⟨את⟩ Baallar'a ve ⟨את⟩ Aştarotlar'a kulluk ettik; ve şimdi bizi düşmanlarımızın elinden kurtar, ve sana kulluk edelim.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ve feryat ettiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "günah ettik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "terk ettik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ve kulluk ettik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baallar'a"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baallar'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Aştarotlar'a"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Aştarotlar'a"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "kurtar bizi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "düşmanlarımızın"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ve sana kulluk edelim"
+    }
+  ],
+  "timestamp": "2026-08-19T12:14:18.337941563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Şaul, Davut'u görmek için elçileri gönderip dedi: Onu yatakla bana yukarı çıkarın, öldürmek için.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elçileri"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "elçileri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davut'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut'u"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "demesi için"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "yukarı çıkarın"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "yatakla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "öldürmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:22.415115743Z",
+  "model": "glm-5.3"
+}

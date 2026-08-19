@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Öldürme onları, yoksa halkım unutur; gücünle onları sars ve indir onları, kalkanımız Adonay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ölme"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "öldür onları"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "unuturlar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkım"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "onları sars"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "gücünle"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "ve indir onları"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "kalkanımız"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:48.267901076Z",
+  "model": "glm-5.3"
+}

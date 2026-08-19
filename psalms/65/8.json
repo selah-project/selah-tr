@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 65,
+  "translation": "Denizlerin gürültüsünü, dalgalarının gürültüsünü ve ulusların uğultusunu susturandır.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "susturandır"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gürültüsünü"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "denizlerin"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gürültüsünü"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "dalgalarının"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "ve uğultusunu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ulusların"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:13.436367337Z",
+  "model": "glm-5.3"
+}

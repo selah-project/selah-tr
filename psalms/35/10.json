@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Bütün kemiklerim diyecek: «Yahve, kim Sana benzer — zavallıyı, ondan güçlü olanın elinden kurtaran, zavallıyı ve yoksulu, onu soğan(dan kurtaran)!»",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kemiklerim"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "diyecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Sana benzer"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kurtaran"
+    },
+    {
+      "surface": "עני",
+      "gloss": "zavallıyı"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "güçlü olandan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ve zavallıyı"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve yoksulu"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "onu soğandan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:41.485117097Z",
+  "model": "glm-5.3"
+}

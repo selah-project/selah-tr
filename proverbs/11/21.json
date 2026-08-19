@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "El ele ⟨olsa da⟩ kötüye yakınlık gösterilmez, doğruların soyu ise kurtulur.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yakınlık gösterilmez"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "kötüye yakınlık gösterilmez"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ve soy"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "doğruların"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "kurtulur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:58.885131377Z",
+  "model": "glm-5.3"
+}

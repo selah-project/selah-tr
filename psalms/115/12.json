@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 115,
+  "translation": "Yahve bizi anımsadı: ⟨o⟩ kutsayacak, ⟨את⟩ İsrail'in evini kutsayacak, ⟨את⟩ Aharon'un evini kutsayacak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "bizi anımsadı"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kutsayacak"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kutsayacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail'in evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kutsayacak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon'un evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:44.492737503Z",
+  "model": "glm-5.3"
+}

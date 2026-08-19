@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 53,
+  "translation": "Baskıyla ve yargıyla alındı; ⟨את⟩ soyunu kim düşünecek? Çünkü yaşayanlar diyarından kesildi — halkımın İsyanı yüzünden; ölüm onun içindi.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "baskıyla"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "ve yargıyla"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alındı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "soyunu"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "soyunu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "düşünecek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "kesildi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "diyarından"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaşayanların"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "İsyanı yüzünden"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "halkımın"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onun için"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:45.386350918Z",
+  "model": "glm-5.3"
+}

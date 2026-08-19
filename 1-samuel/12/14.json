@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Eğer Yahve'den korkarsanız ve ⟨את⟩ O'na kulluk eder ve sesine uyarsanız ve Yahve'nin ağzına başkaldırmazsanız, hem siz hem de üzerinizde hüküm süren kral Yahve'nin, Elohim'inizin ardından giden olursunuz.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Eğer"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "korkarsanız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ve kulluk ederseniz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ O'na",
+      "marks": "O'na (Yahve)"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "ve uyarsanız"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sesine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "başkaldırırsanız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzı"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "olursunuz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hem de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hüküm süren"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "üzerinizde"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'inizin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:08.170906832Z",
+  "model": "glm-5.3"
+}

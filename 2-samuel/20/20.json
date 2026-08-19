@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve Yoav yanıtladı ve dedi: Haşşa, haşşa benden; yutmayayım ve yıkmayayım.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yanıtladı"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "haşşa (uzak olsun)"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "haşşa (uzak olsun)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-mayayım (eğer)"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "yutayım"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ve -mayayım"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "yıkeyim"
+    }
+  ],
+  "timestamp": "2026-08-19T09:34:17.660959539Z",
+  "model": "glm-5.3"
+}

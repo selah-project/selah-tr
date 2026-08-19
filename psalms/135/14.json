@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Çünkü Yahve ⟨את⟩ halkını yargılayacak ve kullarına ilişkin yinelenecek ⟨pişman olacaktır⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "yargılayacak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve … üzerine"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kullarına"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "yinelenecek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:09.981903655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "At bir kurtuluş için ⟨aldatıcıdır⟩, ve gücünün çokluğuyla kurtaramaz.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "aldatıcıdır"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "at"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "kurtuluş için"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ve çokluğuyla"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "gücünün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "kurtarır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:09.064462880Z",
+  "model": "glm-5.3"
+}

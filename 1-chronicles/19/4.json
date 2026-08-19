@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Hanun David'in ⟨את⟩ kullarını aldı ve onları tıraş etti ve ⟨את⟩ giysilerini kalçalarına kadar ortadan kesti ve onları gönderdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kullarını"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kullarını"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David'in"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "ve onları tıraş etti"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ve kesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giysilerini"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ortadan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "kalçalarına"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ve onları gönderdi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:58:54.097520820Z",
+  "model": "glm-5.3"
+}

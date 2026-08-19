@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve ⟨את⟩ kutsal şeyden günah işlediği şeyi ödesin, üzerine beşte birini ekleyip ⟨את⟩ onu kâhine versin; kâhin suç sunusu koçuyla onun için kefaret edecek ve ⟨o⟩ bağışlanacak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "günah işlediği şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah işledi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal şey"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödesin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "beşte birini"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "beşte birini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ekleyecek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ve versin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "kâhine (verilecek şeyi)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kâhine"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "ve kâhin"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "kefaret edecek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "koçla"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "suç sunusu"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ve bağışlanacak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T07:23:52.739868613Z",
+  "model": "glm-5.3"
+}

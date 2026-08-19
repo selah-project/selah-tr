@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Saul tahta çıktığında ⟨bir⟩ yıl ⟨yaşındaydı⟩ ve İsrail üzerinde ⟨iki⟩ yıl krallık etti.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "krallığında"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ve iki"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yıl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krallık etti"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:39.459329972Z",
+  "model": "glm-5.3"
+}

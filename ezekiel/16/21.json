@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve ⟨את⟩ oğullarını katlettin ve onları verdin, ⟨את⟩-onları onlara geçirmek ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "katlettin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "ve onları verdin"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "geçirmek için"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T10:26:22.572978037Z",
+  "model": "glm-5.3"
+}

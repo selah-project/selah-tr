@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kâhin yakmalık sunuyu ⟨את⟩ ve tahıl sunusunu ⟨את⟩ sunağın üzerine çıkaracak, kâhin onun için kefaret yapacak ve o arınmış olacak.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ve çıkaracak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakmalık sunuyu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yakmalık sunuyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tahıl sunusunu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tahıl sunusunu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sunağın üzerine"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ve kefaret yapacak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun için"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ve arınmış olacak"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:36.793071091Z",
+  "model": "glm-5.3"
+}

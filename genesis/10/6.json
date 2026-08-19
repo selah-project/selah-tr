@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Ham'ın oğulları: Kuş, Mitzrayim, Fut ve Kenan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ve oğulları"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ve Mitzrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ve Fut"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ve Kenan"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:10.343494449Z",
+  "model": "glm-5.3"
+}

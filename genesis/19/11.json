@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve ⟨את⟩ evin kapısında ⟨bulunan⟩ adamları küçüktên büyüğe körlükle vurdular; ve kapıyı bulmaya yoruldular ⟨ama bulamadılar⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "adamları"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kapısında"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "vurdular"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "körlükle"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "küçükten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve değin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyüğe"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "ve yoruldular"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "bulmaya"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "kapıyı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:23.944928559Z",
+  "model": "glm-5.3"
+}

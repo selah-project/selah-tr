@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 101,
+  "translation": "Dostunu gizlice dilleyeni ⟨את⟩ ⟨onu⟩ kökünden keseceğim; yüce gözlü ve geniş yüreklisini ⟨את⟩ katlanamam.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "dilleyeni"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizlice"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "dostunu"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "kökünden keseceğim"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "yüce"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözlü"
+    },
+    {
+      "surface": "ווחב",
+      "gloss": "ve geniş"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yürekli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "katlanamam"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:41.314786941Z",
+  "model": "glm-5.3"
+}

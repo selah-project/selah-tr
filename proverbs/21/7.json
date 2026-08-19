@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Kötülerin şiddeti onları sürükleyip götürür; çünkü hukuku yapmayı reddettiler.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "şiddeti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "onları sürükleyip götürür"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "reddettiler"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmayı"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukuku"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:21.371235274Z",
+  "model": "glm-5.3"
+}

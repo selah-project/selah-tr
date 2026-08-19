@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Çünkü doğru kişi yedi kez düşer ve ⟨yine⟩ kalkar; ama kötüler kötülükte sendeler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi kez"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "düşer"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru kişi"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ve kalkar"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ama kötüler"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "sendeler"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "kötülükte"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:07.928003232Z",
+  "model": "glm-5.3"
+}

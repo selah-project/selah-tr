@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve kâhin buyursun, ve içinde leke bulunan ⟨את⟩ taşları söksünler, ve onları ⟨את⟩ şehrin dışına, kirli bir yere atsınlar.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ve buyursun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "ve söksünler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taşlar"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "taşlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "leke"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "ve atsınlar"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "onları ⟨את⟩",
+      "marks": "taşlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışına"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "kirli"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:57.098994080Z",
+  "model": "glm-5.3"
+}

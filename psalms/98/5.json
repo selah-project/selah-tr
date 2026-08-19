@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 98,
+  "translation": "Yahve'ye çegin (kinor) ile çalın; çegin ve ezgi sesiyle çalın.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "çalın (enstrümanla)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "çegin (kinor) ile"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "çegin (kinor) ile"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ve sesiyle"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ezgi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:06.591441756Z",
+  "model": "glm-5.3"
+}

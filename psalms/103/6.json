@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Yahve doğruluklar işler ve bütün ezilenler için hükümler ⟨yerine getirir⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "işler"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "doğruluklar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ve hükümler"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün … için"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ezilenler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:52.175021796Z",
+  "model": "glm-5.3"
+}

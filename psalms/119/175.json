@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Canım yaşasın ve seni övsün, ve hükümlerin bana yardım etsin.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "yaşasın"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ve seni övsün"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ve hükümlerin"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "bana yardım etsin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:02.383683745Z",
+  "model": "glm-5.3"
+}

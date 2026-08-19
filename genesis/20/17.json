@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Avraham Elohim'a dua etti; Elohim de Avimelekh'i ⟨את⟩, karısını ve ⟨את⟩ cariyelerini iyileştirdi — ve ⟨onlar⟩ doğurdular.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "dua etti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ve iyileştirdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh'i"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "karısını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ve cariyeleri"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ve doğurdular"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:03.588762680Z",
+  "model": "glm-5.3"
+}

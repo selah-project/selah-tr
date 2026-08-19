@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Yehoşua ⟨את⟩ halkın görevlilerine emretti, söyleyerek:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ve emretti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkın görevlileri"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "görevlileri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söyleyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T12:33:15.131862375Z",
+  "model": "glm-5.3"
+}

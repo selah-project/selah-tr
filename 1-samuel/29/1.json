@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Peliştliler bütün ordularını Afek'te topladılar ve Yisrael Yizreel'deki ⟨את⟩ pınarın yanında konakladı.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "topladılar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliştliler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ordularını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ordularını"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afek'te"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ve Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "konakladı"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pınarın yanında"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizreel'deki"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:16.788872936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Seni anlayışlı kılacağım ve gideceğin yolda sana öğüt vereceğim; gözüm senin üzerinde olacak.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "seni anlayışlı kılacağım"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ve sana öğüt vereceğim \/ yön göstereceğim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "זו",
+      "gloss": "o"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gideceğin"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "danışacağım \/ öğüt vereceğim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senin hakkında \/ üzerinde"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:22.723031419Z",
+  "model": "glm-5.3"
+}

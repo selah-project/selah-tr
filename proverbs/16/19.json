@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Alçak ruhlu olmak ⟨את⟩ yoksullarla, ganimeti ⟨את⟩ kibirlilerle paylaşmaktan iyidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "alçak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoksullarla"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "yoksullarla"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "paylaşmaktan"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ganimeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kibirlilerle"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "kibirlilerle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:18.488024991Z",
+  "model": "glm-5.3"
+}

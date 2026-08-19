@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve Davud dedi: Yahve diridir; ya Yahve onu vuracak, ya günü gelip ölecek, ya savaşa inecek ve yok edilecek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "חי",
+      "gloss": "diri(dir)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü\/ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…ise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "onu vuracak"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelecek"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ve ölecek"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "savaşa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "inecek"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ve yok edilecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:58.893351870Z",
+  "model": "glm-5.3"
+}

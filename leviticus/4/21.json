@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ⟨את⟩ boğayı kampın dışına çıkaracak ve onu, ilk boğayı yaktığı gibi yakacak; o, topluluğun günah sunusudur.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ve çıkaracak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boğayı"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğayı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "için"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışına"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampın"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ve yakacak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (boğa)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yaktığı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilk boğayı"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "boğayı"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah sunusu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "topluluğun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:09.272959246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Şüphesiz inşa ettim ⟨את⟩ senin için yüksek bir konut evi, oturmun için sağlam bir yer, ebediyyen.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "inşa ederek"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "inandım"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "yüksek konut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "sağlam yer"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "oturmun için"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ebediyyen"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:32.886713458Z",
+  "model": "glm-5.3"
+}

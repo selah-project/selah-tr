@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve bir adam bir insan canına vurursa, ölümle öldürülecektir.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ve bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "vurursa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herhangi bir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canına"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümle"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:15.229678316Z",
+  "model": "glm-5.3"
+}

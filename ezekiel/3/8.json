@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "İşte ⟨את⟩ yüzünü onların yüzlerine karşı sağlam kıldım, ve ⟨את⟩ alnını onların alnına karşı sağlam ⟨kıldım⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kıldım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yüzünü"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "sağlam"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "onların yüzlerine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "alnını"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "alnını"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sağlam"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "karşı"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "onların alnına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:23:18.618545707Z",
+  "model": "glm-5.3"
+}

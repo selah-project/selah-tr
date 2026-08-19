@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Her becerikli ⟨adam⟩ bilgiyle davranır; ama ahmak ahmaklığını serer.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "becerikli"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "davranır"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "bilgiyle"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ama ahmak"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "serer"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ahmaklığını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:19:33.714615627Z",
+  "model": "glm-5.3"
+}

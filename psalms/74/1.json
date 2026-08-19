@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 74,
+  "translation": "Öğretici şiir, Asaf'a ait. Neden, ey Elohim, bizi sonsuza dek reddettin? Neden öfken sürülerinin, otlak sana benzeyen ⟨koyunlarının⟩ üzerinde tütiyor?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "öğretici şiir"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf'a ait"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "reddettin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "tütiyor"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "öfken"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sürü(leri)"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "otlağının sana benzeyen ⟨koyunları⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:51.275433236Z",
+  "model": "glm-5.3"
+}

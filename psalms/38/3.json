@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Çünkü okların ⟨benim⟩ içime saplandı ve elin üzerime çöktü.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "okların"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "saplandı\/indi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "içime"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "ve çöktü"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerime"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:08.257060342Z",
+  "model": "glm-5.3"
+}

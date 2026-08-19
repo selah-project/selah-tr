@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Bakın, bir kral adaletle hüküm sürecek ve önderler hakla yönetecekler.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bakın"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "adaletle"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hüküm sürecek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bir kral"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ve önderler"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hakla"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "yönetecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:57:12.716427267Z",
+  "model": "glm-5.3"
+}

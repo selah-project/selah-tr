@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 16:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Kral Ahaz, Assur kralı Tiglat-Pileser ile karşılaşmak üzere Damaşek'e gitti; Damaşek'teki sunağı gördü ve Kral Ahaz sunağın biçimini ve bütün yapımına ait örneğini kâhin Uriya'ya gönderdi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gitti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "karşılaşmak üzere"
+    },
+    {
+      "surface": "תגלת",
+      "gloss": "Tiglat"
+    },
+    {
+      "surface": "פלאסר",
+      "gloss": "Pileser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "דומשק",
+      "gloss": "Damaşek'e"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunağı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Damaşek'te"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biçimini"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "biçim"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "örneğini"
+    },
+    {
+      "surface": "תבניתו",
+      "gloss": "örneği"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "yapımına ait"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:13.094220467Z",
+  "model": "glm-5.3"
+}

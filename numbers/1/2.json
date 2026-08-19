@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "İsrail oğulları topluluğunun ⟨את⟩ başını, ailelerine göre, atalarının evine göre, adları sayısınca, bütün erkeği, kişi kişi sayınız:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "kaldırınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "topluluğunun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailelerine göre"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evine göre"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayısınca"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkeği"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "kişi kişi (kafalarına göre)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:25.977864725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Işığı bir giysi gibi sarınıyor, gökleri bir çadır bezi gibi geriyor.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "sarınıyor"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışığı"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "bir giysi gibi"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "geriyor"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gökleri"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "bir çadır bezi gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:22.902134002Z",
+  "model": "glm-5.3"
+}

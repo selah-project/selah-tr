@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Ve Yosef dedi: Hayvanlarınızı verin, ben de hayvanlarınız karşılığında size ⟨ekmek⟩ vereyim, eğer gümüş tükendiyse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "hayvanlarınızı"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ben de vereyim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "hayvanlarınız karşılığında"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "tükendiyse"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:50.133227574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Onu kaldırıp annesinin yanına götürdü; çocuk öğleye kadar dizlerinin üzerinde oturdu ve öldü.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "onu kaldırdı"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "onu getirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesinin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oturdu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "dizlerinin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "öğleye"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:20.171087869Z",
+  "model": "glm-5.3"
+}

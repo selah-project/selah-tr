@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Çünkü ⟨seninledir⟩ yaşamın kaynağı; senin ışığında ışığı görürüz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "kaynağı"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaşamın"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "senin ışığında"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "görürüz"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışığı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:50.890665913Z",
+  "model": "glm-5.3"
+}

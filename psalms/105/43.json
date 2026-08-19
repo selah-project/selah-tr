@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Halkını sevinçle çıkardı, seçtiklerini ⟨את⟩ coşkun şarkıyla.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ve çıkardı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "sevinçle"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "coşkun şarkıyla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seçtiklerini"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "seçtiklerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:47.490194657Z",
+  "model": "glm-5.3"
+}

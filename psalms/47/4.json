@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 47,
+  "translation": "Halkları bizim ⟨altımıza⟩ söker, ulusları ayaklarımızın altına.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "söker (ezer)"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halkları"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "altımıza"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ve ulusları"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ayaklarımızın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:09.453192328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "ve sağ elinin diktiği ⟨onu⟩, ve kendin için güçlendirdiğin oğul hakkında.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ve onu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "dikti"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ elin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve hakkında"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "güçlendirdin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendin için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:47.759202444Z",
+  "model": "glm-5.3"
+}

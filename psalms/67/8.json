@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 67,
+  "translation": "Bizi kutsasın Elohim, ve O'ndan korksun yeryüzünün bütün uçları ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "bizi kutsasın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ve korksunlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeryüzünün bütün uçları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "uçları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:59.116773838Z",
+  "model": "glm-5.3"
+}

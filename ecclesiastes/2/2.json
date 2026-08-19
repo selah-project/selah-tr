@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Gülüş için dedim ki: çıldırmış; ve sevinç için: Bu ne yapıyor?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "gülüş için"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "çıldırmış"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ve sevinç için"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapıyor"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:15.970197034Z",
+  "model": "glm-5.3"
+}

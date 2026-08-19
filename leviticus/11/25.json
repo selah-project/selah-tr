@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve nevbellerinden bir şey taşıyan herkes giysilerini yıkayacak ve akşama kadar murdar olacak.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ve herkes"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "taşıyan"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "nevbellerinden"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yıkayacak"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ve murdar olacak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "akşama"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:40.068184039Z",
+  "model": "glm-5.3"
+}

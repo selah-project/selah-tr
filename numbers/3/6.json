@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Levi oymağını yaklaştır ve onu kâhin Aharon'un önüne durdur; ona hizmet etsinler.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "yaklaştır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi oymağı"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "oymak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "ve durdur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Levi oymağı)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "ve hizmet etsinler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ona",
+      "marks": "ona (Aharon'a)"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:37.227108249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Bir düşte, gece görümünde, derin uyku insanların üzerine çökerken, yatağın üzerindeki kestirmelerde ⟨konuşur⟩.",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "bir düşte"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "görüm"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "çökerken"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "derin uyku"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "insanların"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "kestirmelerde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "yatağın"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:56.964144223Z",
+  "model": "glm-5.3"
+}

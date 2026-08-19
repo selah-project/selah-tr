@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Mektupta şöyle yazdı: Uriya'yı savaşın en şiddetli cephesinin karşısına koyun, ondan geri çekilin; vurulup ölsün.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yazdı"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mektupta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "koyun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya'yı"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "מול",
+      "gloss": "karşısına"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzüne"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "savaşın"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "en şiddetli"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "geri çekilin"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "vurulup"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ölsün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:59.202232937Z",
+  "model": "glm-5.3"
+}

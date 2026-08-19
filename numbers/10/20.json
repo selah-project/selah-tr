@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve Gad oğulları kabilesinin ordusunun üzerinde Elyasaf, Deuel'in oğlu ⟨vardı⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerinde"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordusunun"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabilesinin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:01.040880418Z",
+  "model": "glm-5.3"
+}

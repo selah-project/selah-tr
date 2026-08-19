@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ne üzerine batırıldı ⟨את⟩ temelleri? Ya da kim yerleştirdi ⟨את⟩ köşe taşını?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "temellerini"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "batırıldı"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "yerleştirdi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "taşını"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "köşe",
+      "marks": "köşe taşını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:32:15.124418857Z",
+  "model": "glm-5.3"
+}

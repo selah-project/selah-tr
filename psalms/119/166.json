@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Yahve, kurtuluşunu umdum ve mitsvalarını yaptım.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "umdum"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "kurtuluşunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "ve mitsvalarını"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaptım"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:59.551890783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Boaz ⟨את⟩ Oved'i doğurdu; Oved de ⟨את⟩ İşay'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ve Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved'i"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ve Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İşay'ı"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "İşay"
+    }
+  ],
+  "timestamp": "2026-08-19T11:52:56.330190381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Genç oldum, yaşlandım da; ve salih kişi terk edilmiş görmedim, ve zürriyeti ekmek arayan.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "genç"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "yaşlandım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve görmedim"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "(gördüm)"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salih kişi"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "terk edilmiş"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ve zürriyeti"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "arayan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:07.507676036Z",
+  "model": "glm-5.3"
+}

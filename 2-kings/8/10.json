@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Elişa ona dedi: Git, de: Yaşayacaksın; ama Yahve bana gösterdi ki ölecek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yaşa"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "yaşayacaksın"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ve bana gösterdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מות",
+      "gloss": "öl"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:43.456331850Z",
+  "model": "glm-5.3"
+}

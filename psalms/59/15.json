@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 59,
+  "translation": "Ve akşama dönsünler, köpek gibi homurdansınlar ve şehrin çevresinde dolaşsınlar.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "dönsünler"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "akşama"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "homurdansınlar"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "köpek gibi"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "dolaşsınlar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehrin çevresinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:58.380248080Z",
+  "model": "glm-5.3"
+}

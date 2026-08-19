@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Halklar birlikte toplandığında ve krallıklar Yahve'ye ⟨את⟩ kulluk etmek için",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "toplandığında"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ve krallıklar"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kulluk etmek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:16.122597102Z",
+  "model": "glm-5.3"
+}

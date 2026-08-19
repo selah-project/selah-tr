@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "Yahve'den ⟨את⟩ bir haber duydum, ve uluslar arasında bir elçi gönderildi: Toplanın, onun üzerine gelin ve savaş için kalkın!",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "haber"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "duydum"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩'den",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ve elçi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "uluslar arasında"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "gönderildi"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "toplanın"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ve gelin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ve kalkın"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaş için"
+    }
+  ],
+  "timestamp": "2026-08-19T10:20:54.728135495Z",
+  "model": "glm-5.3"
+}

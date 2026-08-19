@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Rüzgârı gözetleyen ekmeyecektir; bulutlara bakan biçmeyecektir.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "gözetleyen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rüzgârı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ekmeyecektir"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ve bakan"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "bulutlara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "biçmeyecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:23.334054345Z",
+  "model": "glm-5.3"
+}

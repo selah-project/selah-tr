@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 68,
+  "translation": "Elohim kalksın, düşmanları dağılsın, O'ndan nefret edenler O'nun yüzünden kaçınsın.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "kalksın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "dağılsın"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "düşmanları"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ve kaçınsın"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "O'ndan nefret edenler"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "O'nun yüzünden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:37.469174627Z",
+  "model": "glm-5.3"
+}

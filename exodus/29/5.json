@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve ⟨את⟩ giysileri alacaksın, Aharon'u ketoneti giydireceksin, efodun meilini, ⟨את⟩ efodu ve ⟨את⟩ hoşeni; ve ona efodun heşebiyle kuşak bağlayacaksın.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ve alacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giysileri"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "giysileri"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ve giydireceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketoneti"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ketoneti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "efodun meili"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "meil"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "efodu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hoşeni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoşeni"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "ve kuşak bağlayacaksın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "heşebiyle"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:23.423104812Z",
+  "model": "glm-5.3"
+}

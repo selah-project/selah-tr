@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 32:5",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Elihu, üç adamın ağzında ⟨hiçbir⟩ yanıt olmadığını görünce öfkesi kızdı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "görünce"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "yanıt"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kızdı"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:18.008387212Z",
+  "model": "glm-5.3"
+}

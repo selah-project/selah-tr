@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 143,
+  "translation": "Rızanı yapmak için beni öğret, çünkü sen benim Elohim'sin; ruhun iyidir, beni düz ülkede yönlendir.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "beni öğret"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yapmak için"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "rızanı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "benim Elohim"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruhun"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "beni yönlendir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkede"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "düz (yer)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:22.308506263Z",
+  "model": "glm-5.3"
+}

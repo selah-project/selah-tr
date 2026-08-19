@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Kapıların yanında, şehrin ağzında, girişlerin ağzında ⟨o⟩ sesleniyor.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "kapıların"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "giriş"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "ağzında\/açıklıkların"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "sesleniyor ⟨o⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:21.827122722Z",
+  "model": "glm-5.3"
+}

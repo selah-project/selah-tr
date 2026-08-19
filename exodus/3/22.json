@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve ⟨her⟩ kadın komşusundan ve evinde konuk olanından gümüş kaplar, altın kaplar ve giysiler isteyecek; bunları oğullarınızın ve kızlarınızın üzerine koyacaksınız ve Mısır'ı ⟨את⟩ soyacaksınız.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "ve isteyecek"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "komşusundan"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "ve konuk olanından"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaplar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ve kaplar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ve giysiler"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "koyacaksınız"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oğullarınızın"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve üzerine"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "kızlarınızın"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "ve soyacaksınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mısır"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:14.166979744Z",
+  "model": "glm-5.3"
+}

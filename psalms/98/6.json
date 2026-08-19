@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 98,
+  "translation": "Borularla ve şofar sesiyle Kral Yahve'nin önünde bağırın (sevinç çığlığı atın).",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "borularla"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ve sesiyle"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bağırın"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:06.591634133Z",
+  "model": "glm-5.3"
+}

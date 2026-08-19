@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 71,
+  "translation": "Çünkü düşmanlarım ⟨bana dair⟩ konuştu, ve canımı gözetleyenler birlikte danıştılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana dair"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ve gözetleyenler"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "danıştılar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:08.555617489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Uluslar arasında söyleyin: \"Yahve hüküm sürüyor.\" Evet, ⟨⟨the⟩⟩ dünya kurulmuştur, sarsılmayacaktır; ⟨O⟩ halkları doğrulukla yargılayacak.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "uluslar arasında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hüküm sürüyor"
+    },
+    {
+      "surface": "אף",
+      "gloss": "evet"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "kurulmuştur"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sarsılmayacaktır-değil"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sarsılmayacak"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "yargılayacak"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halkları"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "doğrulukla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:33.874194481Z",
+  "model": "glm-5.3"
+}

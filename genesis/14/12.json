@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve ⟨את⟩ Lot'u, Avram'ın kardeşinin oğlunu, ve ⟨את⟩ malını aldılar ve gittiler; o ise Sedom'da oturuyordu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ve aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot'u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malını"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "malını"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram'ın"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ve gittiler"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o ise"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturuyordu"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Sedom'da"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:38.722952321Z",
+  "model": "glm-5.3"
+}

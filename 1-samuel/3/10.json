@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Yahve gelip durdu ve öncekiler gibi çağırdı: «Şemuël, Şemuël.» Ve Şemuël dedi: «Konuş, çünkü kulun dinliyor.»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve geldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ve durdu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "defa gibi"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "defa içinde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuş"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dinliyor"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kulun"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:28.054940322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Milletler uğuldadı, krallıklar sarsıldı; ⟨O⟩ sesini verdi, yer eridi.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "uğuldadı"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "milletler"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "krallıklar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "sesini"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "eridi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:17.592356997Z",
+  "model": "glm-5.3"
+}

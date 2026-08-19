@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 138,
+  "translation": "Mukaddes mabedine doğru secde edeceğim ve ⟨את⟩ adınıza şükredeceğim, lütfunuza ve doğruluğunuza üzerine; çünkü ⟨את⟩ adınızı bütün adınızın üzerine büyüttünüz, sözünüzü.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "secde edeceğim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "mabedine"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mukaddes"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ve şükredeceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adınıza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adınızı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lütfunuza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve doğruluğunuza üzerine"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "doğruluğunuza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "büyüttünüz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adınızın"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sözünüzü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:27.069600664Z",
+  "model": "glm-5.3"
+}

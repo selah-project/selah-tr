@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Kutsal şehirlerin çöl oldu, Siyon çöl ⟨oldu⟩, Yeruşalayim ⟨issiz⟩ harabe.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "şehirlerin"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "harabe"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:40.504808465Z",
+  "model": "glm-5.3"
+}

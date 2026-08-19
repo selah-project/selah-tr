@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Şaul'un oğlu Yonatan kalktı ve Horeşa'da Davut'un yanına gitti ve onun elini Elohim'de ⟨את⟩ güçlendirdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul'un"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut'un"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Horeşa'da"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "güçlendirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'de"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:16.738074081Z",
+  "model": "glm-5.3"
+}

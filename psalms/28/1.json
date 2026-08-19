@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Davud'a. Sana, Yahve, seslenirim; kayam, bana karşı sağırlaşma; yoksa bana susarsan, çukura inenlerle benzetilirim.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "seslenirim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kayam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "sağırlaşma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "susarsan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "benzetilirim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "inenler"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çukura"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:34.998451405Z",
+  "model": "glm-5.3"
+}

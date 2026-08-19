@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 66,
+  "translation": "Şehirden bir gürültü sesi, mabetten bir ses, düşmanlarına karşılığını ödeyen Yahve'nin sesi!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gürültü(nün)"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şehirden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ses"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "mabetten"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ödeyen"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "karşılık"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "düşmanlarına"
+    }
+  ],
+  "timestamp": "2026-08-19T10:04:07.943695450Z",
+  "model": "glm-5.3"
+}

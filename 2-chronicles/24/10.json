@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve bütün önderler ve bütün halk sevindiler ve getirdiler ve sandığa atıp bitirinceye kadar attılar.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ve sevindiler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "önderler"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ve getirdiler"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ve attılar"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sandığa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "bitirilinceye"
+    }
+  ],
+  "timestamp": "2026-08-19T12:26:20.210827475Z",
+  "model": "glm-5.3"
+}

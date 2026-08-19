@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve Yahve seni yola gönderdi ve dedi: «Git ve ⟨את⟩ günahkârları — ⟨את⟩ Amalek'i — herem et, ve onlarla savaş onları tüketene dek ⟨את⟩ ⟨onları⟩.»",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "ve seni gönderdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yola"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "ve herem edeceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günahkârları"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "günahkârları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek'i"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek'i"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "ve savaşacaksın"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e dek"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "onları tüketmek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨onları⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:56.838021821Z",
+  "model": "glm-5.3"
+}

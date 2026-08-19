@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve ⟨onun⟩⟨ona⟩ dedi: Az mı sayılıyor ki ⟨את⟩ kocamı aldın, ve yine de ⟨את⟩ oğlumun düdülerini de alacaksın? Ve Rahel dedi: Öyleyse bu gece seninle yatacak, oğlunun düdülerine karşılık.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "az mı"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "aldın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kocamı"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "kocamı"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ve alacaksın"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yine de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düdülerini"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "düdülerini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumun"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "öyleyse"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatacak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bu gece"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karşılığında"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "düdülerine"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:56.827161642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve cariyesi — onun adı Reuma — o da ⟨את⟩ Tovah'ı ve ⟨את⟩ Gaham'ı ve ⟨את⟩ Tahash'ı ve ⟨את⟩ Ma'aha'yı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "ve cariyesi"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ve adı"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ve o doğurdu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tovah'ı"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tovah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Gaham'ı"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Tahash'ı"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Ma'aha'yı"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'aha"
+    }
+  ],
+  "timestamp": "2026-08-19T06:59:48.024920045Z",
+  "model": "glm-5.3"
+}

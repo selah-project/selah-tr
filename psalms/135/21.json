@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Sion'dan Yahve kutsanmıştır, Yeruşalayim'de oturan ⟨O⟩; Yah'ı övün!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "kutsanmıştır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Sion'dan"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim'de"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah'ı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:57.516120453Z",
+  "model": "glm-5.3"
+}

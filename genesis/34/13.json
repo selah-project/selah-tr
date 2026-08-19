@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 34,
+  "translation": "Yaakov'un oğulları ⟨את⟩ Şekem'i ve ⟨את⟩ babası Hamor'u hile ile yanıtladılar ve konuştular — o, ⟨את⟩ kızkardeşleri Dina'yı kirletmişti.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "yanıtladılar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şekem'i"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Hamor'u"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "hile ile"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ve konuştular"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "kirletti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina'yı"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "kızkardeşleri"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:57.334573775Z",
+  "model": "glm-5.3"
+}

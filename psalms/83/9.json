@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Aşşur da onlarla birleşti; Lut'un oğullarına ⟨onlar⟩ kol oldular. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "birleşti"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "kol"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut'un"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:26.905345410Z",
+  "model": "glm-5.3"
+}

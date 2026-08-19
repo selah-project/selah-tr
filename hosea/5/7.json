@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Yahve'ye karşı hainlik ettiler, çünkü yabancı oğullar doğurdular; şimdi onları bir ay, paylarını ⟨את⟩ yiyecek.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'ye karşı"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hainlik ettiler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "doğurdular"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "onları yiyecek"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bir ay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paylarını"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "paylarını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:20:40.176895350Z",
+  "model": "glm-5.3"
+}

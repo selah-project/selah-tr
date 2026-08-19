@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 82,
+  "translation": "Bilmezler ve anlamazlar; karanlıkta dolaşırlar; yerin bütün temelleri sarsılır.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "bilmezler (olumsuzluk)"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilirler"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve anlamazlar (olumsuzluk)"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "anlarlar"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "karanlıkta"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "dolaşırlar"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "sarsılır"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "temelleri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:29.270292686Z",
+  "model": "glm-5.3"
+}

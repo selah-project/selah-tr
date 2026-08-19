@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Yahve'nin önünde sürekli kalsınlar ki yerden anıları kesilsin.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kalsınlar"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ve kesilsin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerden"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "anıları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:12.715638380Z",
+  "model": "glm-5.3"
+}

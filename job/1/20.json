@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "İyyov kalktı ve ⟨את⟩ kaftanını yırttı ve ⟨את⟩ başını kazıdı ve yere kapandı ve secde etti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ve kalktı"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ve yırttı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaftanını"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "kaftanını"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ve kazıdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başını"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ve kapandı"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ve secde etti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:24:34.491232458Z",
+  "model": "glm-5.3"
+}

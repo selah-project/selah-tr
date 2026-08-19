@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü Yahve'nin sizi sevmesinden ve atalarınıza yemin ettiği yemini korumasından dolayı Yahve sizi güçlü bir elle çıkardı ve sizi köleler evinden, Paro'nun, Mısrayım kralının elinden fidyeyle kurtardı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "sevmesinden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "ve korumasından"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yemini"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "yemini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yemin etti"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "atalarınıza"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "çıkardı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "elle"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "ve kurtardı"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "köleler"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro'nun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısrayım"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:24.348086524Z",
+  "model": "glm-5.3"
+}

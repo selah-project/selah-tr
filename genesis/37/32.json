@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "⟨את⟩ alacalı gömleği gönderip babalarına getirdiler ve dediler: Bunu bulduk; lütfen tanı, oğlunun gömleği mi ⟨değil⟩ mi?",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "gönderdiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alacalı gömleği"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "gömleği"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "alacalı"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "getirdiler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "babalarına"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "bulduk"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "tanı"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "gömleği"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨mi⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:27.748921151Z",
+  "model": "glm-5.3"
+}

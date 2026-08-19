@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve'yi, Elohim'ini seveceksin ⟨את⟩; gözetimini, kurallarını, hükümlerini ve buyruklarını bütün günler gözeteceksin.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ve seveceksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ve gözeteceksin"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "gözetimini"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ve kurallarını"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ve hükümlerini"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ve buyruklarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günler"
+    }
+  ],
+  "timestamp": "2026-08-19T09:01:14.325220501Z",
+  "model": "glm-5.3"
+}

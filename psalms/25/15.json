@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Gözlerim sürekli Yahve'ye ⟨çevrilidir⟩, çünkü ⟨O⟩ ayaklarımı ağdan çıkaracak.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözlerim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'ye ⟨çevrilidir⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨O⟩"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıkaracak"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ağdan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaklarımı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:29.655832980Z",
+  "model": "glm-5.3"
+}

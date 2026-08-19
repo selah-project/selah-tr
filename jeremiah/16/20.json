@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "İnsan kendine ilahlar mı yapar? Ve ⟨onlar⟩ ilah ⟨değildirler⟩?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "mi yapar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahlar"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ve onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:09:25.442995746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve dedi: Ebelik yaparken ⟨את⟩ İbrani kadınları ve doğum taşlarının üzerinde görürseniz — erkek ise, onu ⟨את⟩ öldürün; ama kız ise, o yaşasın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "ebelik yaparken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İbrani kadınları"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "İbrani kadınlar"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "görürseniz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "doğum taşlarının"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ise"
+    },
+    {
+      "surface": "בן",
+      "gloss": "erkek çocuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "öldürün"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ama ise"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kız çocuk"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "yaşasın"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:51.222768847Z",
+  "model": "glm-5.3"
+}

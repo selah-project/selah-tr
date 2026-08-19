@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "ve ⟨את⟩ şehrin tarlasını ve ⟨את⟩ avlularını Kalev'e, Yefunne'nin oğluna verdiler",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tarla"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "avluları"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "avluları"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "verdiler"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev'e"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:07.292514803Z",
+  "model": "glm-5.3"
+}

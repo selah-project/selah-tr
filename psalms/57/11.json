@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 57,
+  "translation": "Çünkü göklere kadar büyüktür sadakatin, bulutlara kadar da doğruluğun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "büyüktür"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göklere"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sadakatin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ve kadar"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "bulutlara"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "doğruluğun"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:40.686282322Z",
+  "model": "glm-5.3"
+}

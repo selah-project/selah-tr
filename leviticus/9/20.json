@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Ve yağları göğüslerin üzerine koydular, ve ⟨o⟩ yağları altarın üzerinde tütsiledi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "koydular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağları"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "yağlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "⟨the⟩ göğüslerin"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tütsiledi"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "yağları"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨the⟩ altarın üzerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:02.619504474Z",
+  "model": "glm-5.3"
+}

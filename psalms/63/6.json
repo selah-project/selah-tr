@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 63,
+  "translation": "Doygun yağ ve besin gibi ⟨⟨olecek⟩⟩ canım doyacak, ve sevinç naraları dudaklarım ağzımı övecek.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yağ (en yağlı kısım)"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ve besin\/yagli yiyecek"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "doyacak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ve dudaklarım"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "sevinç naraları"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "övecek"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:19.405787720Z",
+  "model": "glm-5.3"
+}

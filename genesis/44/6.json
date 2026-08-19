@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Onlara yetişti ve ⟨את⟩ şu sözcükleri onlara söyledi.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "ve onlara yetişti"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu sözcükleri"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "şu sözcükleri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:17.350051566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 85,
+  "translation": "Gerçekten, O'ndan korkanlara yakın ⟨⟨is⟩⟩ onun yış'u — ki kavod ülkemizde barınsın.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gerçekten"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yakın"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "O'ndan korkanlara"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "onun yış'u"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "⟨ki⟩ barınsın"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ülkemizde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:04.888271423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 6:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve ben, işte, ⟨את⟩ tufanı sular yeryüzünün üzerine getiriyorum, göklerin altında içinde canlıların ruhu olan her eti yok etmek için; yeryüzünde olan her şey ölecek.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "işte"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "getiriyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufanı"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tufanı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "yok etmek için"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlıların"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklerin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "יגוע",
+      "gloss": "ölecek"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:15.501183451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 64,
+  "translation": "Korkunç şeyler yaptığında — ⟨bunu⟩ ummamıştık — indin, yüzünden dağlar eridiler.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "yaptığında"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "korkunç şeyler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "ummamıştık"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "indin"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "eridiler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:03:53.775218541Z",
+  "model": "glm-5.3"
+}

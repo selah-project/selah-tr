@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve bana dedi: İnsanoğlu, ayaklarının üzerine dur, ki seninle konuşayım.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ayakların"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ve konuşayım"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seninle",
+      "marks": "seninle"
+    }
+  ],
+  "timestamp": "2026-08-19T10:23:39.226782809Z",
+  "model": "glm-5.3"
+}

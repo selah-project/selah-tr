@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Neden çitlerini yıktın, da yoldan geçenlerin hepsi onu koparıyor?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "yıktın"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "çitlerini"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ve onu koparıyorlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "geçenler"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:47.758689510Z",
+  "model": "glm-5.3"
+}

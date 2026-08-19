@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Eğer barış içinde olanıma kötülükle karşılık verdiysem ve haksız yere düşmanımı soydumsa —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "karşılık verdiysem"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "barış içinde olanıma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülükle"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ve soydumsam"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "düşmanımı"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "haksız yere"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:17.656289905Z",
+  "model": "glm-5.3"
+}

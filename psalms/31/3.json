@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Kulağını bana eğ, tez kurtar beni; bana bir kaya, bir sığınak, surlu bir kale ol; kurtuluşa erdir beni.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "eğ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "tez"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "kurtar beni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana ... olarak"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "bir kaya"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "bir sığınak"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "... olarak"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "surlu bir kale"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "kurtuluşa erdir beni"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:17.647290946Z",
+  "model": "glm-5.3"
+}

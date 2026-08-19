@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Davani komşunla ⟨את⟩ görüş; ve ⟨başkasının⟩ sırrını ifşa etme.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "davanı"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komşun"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "komşunla"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ve sırrını"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başkasının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etme"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ifşa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:22:49.117741327Z",
+  "model": "glm-5.3"
+}

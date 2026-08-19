@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 95,
+  "translation": "Ki elinde ⟨vardır⟩ ⟨את⟩ yeryüzünün derinlikleri, ve dağların dorukları onundur.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "elinde"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "derinlikleri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "ve dorukları"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onundur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:03.275436339Z",
+  "model": "glm-5.3"
+}

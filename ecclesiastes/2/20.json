@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve ben, güneşin altında emek verdiğim bütün emek yüzünden kalbimi ümitsizliğe sürüklemek için döndüm.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ve döndüm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ümitsizliğe sürüklemek için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalbimi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kalbimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "emek"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "emek verdiğim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:17.495419644Z",
+  "model": "glm-5.3"
+}

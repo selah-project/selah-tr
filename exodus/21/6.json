@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Efendisi onu Elohim'in önüne yaklaştırsın ve onu kapıya ya da kapı sövesine yaklaştırsın; ve efendisi kulağını ⟨את⟩ koku ile delsin; ve o ona sonsuza dek kölelik etsin.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "yaklaştırsın"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "efendisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "yaklaştırsın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "kapı"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "kapı sövesi"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "delsin"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "efendisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulağını"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kulağını"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "koku ile"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "kölelik etsin"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:30.225298921Z",
+  "model": "glm-5.3"
+}

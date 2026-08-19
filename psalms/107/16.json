@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Çünkü tunç kapıları kırdı ve demir sürgüleri biçti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kırdı"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "kapıları"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tunç"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ve sürgüleri"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "biçti"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:16.722266995Z",
+  "model": "glm-5.3"
+}

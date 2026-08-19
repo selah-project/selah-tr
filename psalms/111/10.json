@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 111,
+  "translation": "Bilgelliğin başlangıcı Yahve korkusudur; ⟨onları⟩ yapanların hepsinin ⟨anlayışı⟩ iyidir; övgüsü sonsuza dek durur.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "başlangıcı"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bilgelliğin"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "korkusu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "anlayış"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hepsinin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "onları yapanların"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "övgüsü"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "durur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sonsuza dek"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:27.443371798Z",
+  "model": "glm-5.3"
+}

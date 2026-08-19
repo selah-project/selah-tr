@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 130,
+  "translation": "Adonay, sesimi işit; kulakların yalvarış sesime ⟨dikkatle⟩ çevrilmiş olsun.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "işit"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "sesimi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "kulakların"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "dikkatle çevrilmiş"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sesine"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yalvarış"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.904750060Z",
+  "model": "glm-5.3"
+}

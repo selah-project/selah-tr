@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 94,
+  "translation": "Dulu ve garibi öldürüyorlar, yetimleri de katlediyorlar.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "dulu"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ve garibi"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "öldürüyorlar"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ve yetimleri"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "katlediyorlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:35.858899206Z",
+  "model": "glm-5.3"
+}

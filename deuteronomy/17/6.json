@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "İki tanığın ya da üç tanığın ağzı üzerine ölecek olan öldürülecek; tek tanığın ağzı üzerine öldürülmeyecek.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "tanığın"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "tanığın"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecek"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölecek olan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-me"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecek"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanığın"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tek"
+    }
+  ],
+  "timestamp": "2026-08-19T12:12:27.604480832Z",
+  "model": "glm-5.3"
+}

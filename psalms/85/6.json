@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 85,
+  "translation": "Sonsuza dek mi bize öfkelenesin, öfkeni kuşak kuşak mı çekecesin?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "sonsuza dek mi"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "öfkelenesin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "çekecesin"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "öfkeni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuşağa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kuşağa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:19.524941311Z",
+  "model": "glm-5.3"
+}

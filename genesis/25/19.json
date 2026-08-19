@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve işte Yitshak'ın, Avraham'ın oğlunun soyu: Avraham ⟨את⟩ Yitshak'ı babası oldu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "soyu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak'ın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham'ın"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "babası oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak'ı"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak'ı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:09.729107172Z",
+  "model": "glm-5.3"
+}

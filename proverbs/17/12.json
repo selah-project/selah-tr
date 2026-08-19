@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Yavrularından olmuş bir ayı ile karşılaşmak ⟨is⟩, bir adam için akılsızın kendini beğenmişliğiyle ⟨is⟩ karşılaşmaktan iyidir.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "karşılaşmak"
+    },
+    {
+      "surface": "דב",
+      "gloss": "ayı"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "yavrularından olmuş"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "bir adamla"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "akılsızın"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "kendini beğenmişliğiyle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:26.783548614Z",
+  "model": "glm-5.3"
+}

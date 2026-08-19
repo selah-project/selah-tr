@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Ve kadehimi — gümüş kadehi — en küçüğün çuvalının ağzına koy, tahılın gümüşüyle birlikte. Ve Yosef'in söylediği gibi yaptı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kadehimi (גביעי)"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "kadehimi"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "kadeh"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "koy"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "çuvallarının"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "en küçüğün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "gümüş (כסף)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tahılının"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözü gibi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef'in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söylediği"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:44.156899270Z",
+  "model": "glm-5.3"
+}

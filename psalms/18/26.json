@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Hasid ile hased edersin, tam adam ile tam olursun.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasid"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "hased edersin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "adam"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tam"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "tam olursun"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:23.849181830Z",
+  "model": "glm-5.3"
+}

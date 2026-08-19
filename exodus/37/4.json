@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 37,
+  "translation": "Akasya ağacından sırıklar yaptı ve onları ⟨את⟩ altınla kapladı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "sırıklar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kapladı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "altınla kaplanan sırıklar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altınla"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:14.667696531Z",
+  "model": "glm-5.3"
+}

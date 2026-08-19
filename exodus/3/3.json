@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve Moşe dedi: Şimdi kenara saplayım da şu büyük görünüşi göreyim — çalı neden yanmıyor?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "sapayım"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "da göreyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "görünüşü"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "görünüşü"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "neden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "yanıyor"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "çalı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:08.829138337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 67,
+  "translation": "Halklar seni övsün, ey Elohim; halklar, hepsi seni övsün.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "seni övsün"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "seni övsün"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "halklar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hepsi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:56.853678775Z",
+  "model": "glm-5.3"
+}

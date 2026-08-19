@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 23:37",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Çünkü zina ettiler ve ellerinde kan var; putlarıyla ⟨את⟩ zina ettiler; ayrıca bana doğurdukları oğullarını da ⟨את⟩ onlar için geçirdiler, yemek olarak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נאפו",
+      "gloss": "zina ettiler"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ve kan"
+    },
+    {
+      "surface": "בידיהן",
+      "gloss": "ellerinde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "putlarıyla"
+    },
+    {
+      "surface": "גלוליהן",
+      "gloss": "putları"
+    },
+    {
+      "surface": "נאפו",
+      "gloss": "zina ettiler"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניהן",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onları"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "doğurdular"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "העבירו",
+      "gloss": "geçirdiler"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar için"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "yemek olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T10:29:10.111184672Z",
+  "model": "glm-5.3"
+}

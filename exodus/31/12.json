@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve Yahve Moşe'ye söyleyerek dedi",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve ... dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'ye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "söyleyerek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:18:56.215999145Z",
+  "model": "glm-5.3"
+}

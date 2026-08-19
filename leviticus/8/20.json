@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Koçu parçalarına ayırdı; Moşe ⟨את⟩ başı, ⟨את⟩ parçaları ve ⟨את⟩ yağı tütsüledi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "koçu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "koç"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "parçalara ayırdı"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "parçalarına"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tütsüledi (yaktı)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başı"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parçaları"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "parçalar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "iç yağı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:15.216870117Z",
+  "model": "glm-5.3"
+}

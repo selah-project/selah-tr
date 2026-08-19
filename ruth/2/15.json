@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Toplamak için kalktı; Boaz gençlerine ⟨את⟩ buyruk vererek dedi: «Demetlerin arasında bile toplasın; onu utandırmayın.»",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "toplamak için"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "buyruk verdi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gençleri (נעריו)"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "gençleri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "demetlerin"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "toplasın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve olmayın"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "onu utandırmak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:34:55.255192775Z",
+  "model": "glm-5.3"
+}

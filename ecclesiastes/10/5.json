@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Güneşin altında gördüğüm bir kötülük var: yöneticinin yüzünden bir yanılgı gibi çıkıveren.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bir kötülük"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüğüm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "bir yanılgı gibi"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "çıkıveren"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "yöneticinin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:47.351217249Z",
+  "model": "glm-5.3"
+}

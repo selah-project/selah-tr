@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ona dedi: Lütfen bana biraz su içir, çünkü susadım. Ve o süt tulumunu ⟨את⟩ açtı, onu içirdi ve onu örttü.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve ... dedi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "içir bana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "biraz"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "susadım"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "ve ... açtı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "süt tulumu"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "tulum"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "süt"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "ve onu içirdi"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "ve onu örttü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:14:51.452986014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Tok olan can bal-akıtanı çiğner; ama aç olan cana her acı şey tatlı gelir.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tok"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "çiğner"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "bal-akıtan"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ama can"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "aç"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "מר",
+      "gloss": "acı"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "tatlı"
+    }
+  ],
+  "timestamp": "2026-08-19T12:23:59.980053951Z",
+  "model": "glm-5.3"
+}

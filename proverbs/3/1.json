@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Oğlum, Torah'mı unutma ve buyruklarımı yüreğin korusun",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah'ım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutma"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ve buyruklarım"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "korusun"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "yüreğin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:37:25.966294807Z",
+  "model": "glm-5.3"
+}

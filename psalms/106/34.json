@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 106,
+  "translation": "Halkları yok etmediler, ⟨את⟩ ⟨o⟩ halkları ki Yahve onlara emretmişti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "etmediler"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "yok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkları"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "halkları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "emretmişti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:42.607163335Z",
+  "model": "glm-5.3"
+}

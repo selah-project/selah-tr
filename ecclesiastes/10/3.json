@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ve yolda da — ⟨tıpkı⟩ ahmağın yürüyüşü gibi — kalbi eksik ⟨kalır⟩, ve ⟨o⟩ herkese ⟨gösterir ki⟩ ahmak ⟨olan⟩ odur.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve ayrıca"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ahmak ⟨olduğu⟩ gibi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yürür"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "eksik"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve ⟨gösterir⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "herkese"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ahmak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:39:00.916208074Z",
+  "model": "glm-5.3"
+}

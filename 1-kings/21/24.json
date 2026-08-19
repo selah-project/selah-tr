@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ahav'dan şehirde öleni köpekler yiyecekler, ve kırlıkta öleni göğün kuşları yiyecekler.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ölen"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahav'dan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyecekler"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "köpekler"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ve ölen"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kırlıkta"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yiyecekler"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuşları"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göğün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:54.443315033Z",
+  "model": "glm-5.3"
+}

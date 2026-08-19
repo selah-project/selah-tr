@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 146,
+  "translation": "Yahve açar körlerin gözlerini; Yahve doğrultur bükülmüşleri; Yahve sever doğru kimseleri",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "açar"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "körlerin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "doğrultur"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "bükülmüşleri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sever"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "doğru kimseleri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:18.832475994Z",
+  "model": "glm-5.3"
+}

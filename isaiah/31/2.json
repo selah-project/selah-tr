@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "O da bilgedir ve kötülüğü getirir; ⟨את⟩ sözlerini geri çevirmez; kötülerin evine ve suç işleyenlerin yardımına karşı kalkar.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ve de"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilgedir"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirir"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötülüğü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sözlerini"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sözlerini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "geri çevirmez"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ve kalkar"
+    },
+    {
+      "surface": "על",
+      "gloss": "(-e) karşı"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kötülerin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ve (-e) karşı"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "yardımına"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işleyenlerin"
+    },
+    {
+      "surface": "און",
+      "gloss": "suç"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:22.603915473Z",
+  "model": "glm-5.3"
+}

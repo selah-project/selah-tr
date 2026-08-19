@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "Moşe'nin kayınpederi ona dedi: Senin yapmakta olduğun ⟨iş⟩ iyi değil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "kayınbeder"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨iş⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmakta olduğun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:43.370964552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 114,
+  "translation": "Deniz ⟨onu⟩ görüp kaçtı, Yardén geriye döndü.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "deniz"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görüp"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "kaçtı"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "geriye"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:35.891644245Z",
+  "model": "glm-5.3"
+}

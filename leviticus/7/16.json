@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve eğer adağı ya da gönüllü sunusu ise — kurbanının sunusu — onu ⟨את⟩ kurbanını takdim ettiği gün yenecektir; ve ertesi gün de ondan artan yenecektir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ve eğer"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "adağı"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "gönüllü sunusu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurbanı"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sunusu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "takdim ettiği"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurbanını"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "kurbanını"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yenecektir"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ve ertesi gün"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ve artan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yenecektir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:07.783270067Z",
+  "model": "glm-5.3"
+}

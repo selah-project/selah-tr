@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Yehoşafat'a dedi: Benimle Ramot-Gilad'a savaşa ⟨את⟩ misin gideceksin? Yehoşafat, Yisra'el kralına dedi: Ben ⟨את⟩ senin gibiyim, halkım senin halkın gibi, atlarım senin atların gibi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e karşı"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "gidecek misin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ile"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "savaşa"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e karşı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "benim gibi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "senin gibi"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "halkım gibi"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "senin halkın gibi"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "atlarım gibi"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "senin atların gibi"
+    }
+  ],
+  "timestamp": "2026-08-19T09:43:09.379973206Z",
+  "model": "glm-5.3"
+}

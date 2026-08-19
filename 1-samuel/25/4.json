@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ve Davut çölde duydu ki Naval sürüsünü kırkıyor ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ve duydu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "kırkıyor"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürüsünü"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sürüsünü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:59.797565041Z",
+  "model": "glm-5.3"
+}

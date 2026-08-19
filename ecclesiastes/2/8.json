@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kendime ayrıca gümüş ve altın, kralların ve illerin özel hazinesini topladım; kendime erkek ve kadın şarkıcılar, insan oğullarının zevklerini, kadın ve kadınlar edindim.",
+  "tokens": [
+    {
+      "surface": "כנסתי",
+      "gloss": "topladım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ve altın"
+    },
+    {
+      "surface": "וסגלת",
+      "gloss": "ve özel hazine"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kralların"
+    },
+    {
+      "surface": "והמדינות",
+      "gloss": "ve illerin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "edindim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kendime"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "erkek şarkıcılar"
+    },
+    {
+      "surface": "ושרות",
+      "gloss": "ve kadın şarkıcılar"
+    },
+    {
+      "surface": "ותענוגת",
+      "gloss": "ve zevkler"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "ושדות",
+      "gloss": "ve kadınlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:13.443748390Z",
+  "model": "glm-5.3"
+}

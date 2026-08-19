@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 58,
+  "translation": "Su gibi eriyip yok olsunlar; oku yayından çekilir gibi ilerlesin, kesilip yok olsunlar.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "yok olsunlar"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ilerlesin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kendi başlarına"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "çekilir"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "oku"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "kesilip yok olsunlar"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:53.388863208Z",
+  "model": "glm-5.3"
+}

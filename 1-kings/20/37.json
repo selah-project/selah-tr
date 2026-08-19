@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Bir başkasını buldu ve ona: «Lütfen beni vur» dedi; adam onu vurdu, vurup yaraladı.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "buldu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "vur beni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ve onu vurdu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurarak"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "ve yaraladı"
+    }
+  ],
+  "timestamp": "2026-08-19T09:42:48.093166115Z",
+  "model": "glm-5.3"
+}

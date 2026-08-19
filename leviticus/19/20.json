@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve bir adam bir kadınla ⟨את⟩ tohum yatışı ile yatacak olur, o da bir adama nişanlanmış, fidyesi ödenmemiş ya da özgürlüğü verilmemiş bir cariye ise, bir soruşturma olacak; öldürülmeyecekler, çünkü o özgür kılınmamıştı.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatarsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadınla"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kadın"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yatışı"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ve o"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "cariye"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "nişanlanmış"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bir adama"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "ve fidyesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "ödenmemiş"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "özgürlük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verilmiş"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "soruşturma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülecekler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "özgür kılınmış"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:08.290001899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Ve ona dedi: Esenlikle git. Ve o, ⟨את⟩ ondan bir kibrat kadar toprak uzaklığa gitti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "esenlikle"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve gitti"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ondan",
+      "marks": "ondan (Naaman'dan)"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "bir kibrat kadar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprak uzaklık"
+    }
+  ],
+  "timestamp": "2026-08-19T09:45:08.071344057Z",
+  "model": "glm-5.3"
+}

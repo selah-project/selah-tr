@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ben de size karşı isyanla yürüyeceğim ve ⟨את⟩ sizleri, ben bile, günahlarınız üzerine yedi kez vuracağım.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "yürüyeceğim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "size karşı"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "isyanla"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "vuracağım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizleri",
+      "marks": "sizleri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedi kez"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "günahlarınız"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:18.603800758Z",
+  "model": "glm-5.3"
+}

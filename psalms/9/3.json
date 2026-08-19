@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "Seninle sevineceğim ve coşacağım, adına — Ey Elyon — ezgi söyleyeceğim.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "sevineceğim"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "ve coşacağım"
+    },
+    {
+      "surface": "בך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ezgi söyleyeceğim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adına"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ey Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:14.565946286Z",
+  "model": "glm-5.3"
+}

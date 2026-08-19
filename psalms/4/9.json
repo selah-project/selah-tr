@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Barış içinde hep birlikte yatacağım ve uyuyacağım; çünkü sen, yalnız Yahve, güven içinde ⟨beni⟩ oturtursun.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "barış içinde"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hep birlikte"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "yatacağım"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ve uyuyacağım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "güven içinde"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "oturtursun beni"
+    }
+  ],
+  "timestamp": "2026-08-19T10:49:31.183255444Z",
+  "model": "glm-5.3"
+}

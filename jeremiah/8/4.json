@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve onlara şöyle diyeceksin: Yahve şöyle diyor — düşer de kalkmaz mı? döner de yine ⟨dönmez⟩ mi?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ve diyeceksin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "düşer mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "kalkar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-se"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "döner"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "döner"
+    }
+  ],
+  "timestamp": "2026-08-19T10:07:07.545865527Z",
+  "model": "glm-5.3"
+}

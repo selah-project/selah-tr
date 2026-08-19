@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "İnsanın arzusu ⟨onun⟩ sevgi-dürüstlüğüdür; yoksul, yalancı adamdan iyidir.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "arzusu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sevgi-dürüstlüğüdür"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "רש",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalancı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:41.423528831Z",
+  "model": "glm-5.3"
+}

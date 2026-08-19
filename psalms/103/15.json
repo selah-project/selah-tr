@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 103,
+  "translation": "Ölümlü insanın günleri ot gibidir; tarlanın çiçeği gibi, öylece açar.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insan"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ot gibi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "onun günleri"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "çiçeği gibi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "açar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:53.011041941Z",
+  "model": "glm-5.3"
+}

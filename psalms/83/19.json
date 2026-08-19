@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Ve bilsinler ki sen — adın Yahve'dir — yalnız sensin, bütün yerin üzerinde En Yüce.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ve bilsinler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'dir"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "En Yüce"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:15.474629280Z",
+  "model": "glm-5.3"
+}

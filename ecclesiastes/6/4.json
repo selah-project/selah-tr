@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü o hevel ile gelir ve karanlıkta gider, ve karanlıkta adı örtülür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "hevel ile"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelir"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ve karanlıkta"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gider"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ve karanlıkta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "örtülür"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:42.788978633Z",
+  "model": "glm-5.3"
+}

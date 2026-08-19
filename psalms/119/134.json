@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Beni insan zorbasından fidyeyle kurtar, ve ben buyruklarını koruyacağım.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "fidyeyle kurtar beni"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "zorbasından"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ve koruyacağım"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "buyruklarını"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:40.442763496Z",
+  "model": "glm-5.3"
+}

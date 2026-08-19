@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Bu nedenle Adonay, Yahve Tzevaot, onun şişmanlarının arasına zayıflık gönderecek; ve görkeminin altında ateşin yanışı gibi bir yanış yanacak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Bu nedenle"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "gönderecek"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "şişmanlarının arasına"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "zayıflık"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ve altında"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "görkeminin"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "yanacak"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "yanış"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "gibi yanışı"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateşin"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:18.284646024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Kalev'in cariyesi Ma'aha, Şeber'i ve ⟨את⟩ Tirhanah'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "cariyesi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'aha"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Şeber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Tirhanah'ı"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Tirhanah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:03.230182477Z",
+  "model": "glm-5.3"
+}

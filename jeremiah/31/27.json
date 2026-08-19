@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "İşte günler geliyor, Yahve'nin sözü: İsrail evini ⟨את⟩ ve Yahuda evini ⟨את⟩ insan tohumu ve hayvan tohumuyla ekeceğim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler"
+    },
+    {
+      "surface": "באים",
+      "gloss": "geliyor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "ve ekeceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ve tohum"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvan"
+    }
+  ],
+  "timestamp": "2026-08-19T10:13:17.099143789Z",
+  "model": "glm-5.3"
+}

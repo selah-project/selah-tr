@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 40,
+  "translation": "Ve üstteki sepette Paroh'un, fırıncı işi olan, her çeşit yiyeceği vardı; ve kuş onları sepetten başımın üzerinden yiyordu.",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "ve üstteki sepette"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "üstteki"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her çeşit"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'un"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "fırıncı"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ve kuş"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yiyordu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "sepet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    }
+  ],
+  "timestamp": "2026-08-19T08:54:14.645692023Z",
+  "model": "glm-5.3"
+}

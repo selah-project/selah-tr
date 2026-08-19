@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Davud'a ait mezmur. Yahve'ye verin, ey El oğulları, Yahve'ye verin yücelik ve güç.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud'a"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "yücelik"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ve güç"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:51.442524506Z",
+  "model": "glm-5.3"
+}

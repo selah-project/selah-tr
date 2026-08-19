@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Ve Yakov sordu ve dedi: Lütfen adını bildir. Ve dedi: Neden bunu adımı soruyorsun? Ve onu ⟨את⟩ orada kutsadı.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ve sordu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "soruyorsun"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "adımı"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:57.048442730Z",
+  "model": "glm-5.3"
+}

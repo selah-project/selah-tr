@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ama ölümlü ölür ve ⟨zayıflar⟩; insan can verir — ve nerede o?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "ama ölümlü"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölür"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "ve zayıflar"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "can verir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ve nerede o?"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:51.891079096Z",
+  "model": "glm-5.3"
+}

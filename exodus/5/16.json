@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "«Saman kullarına verilmiyor, tuğlalar ⟨için⟩ ise bize 'Yapın' diyorlar; ve işte kulların dövülüyor — ⟨suç⟩ senin halkınındır.»",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "saman"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verilmiyor"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kullarına"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "ve tuğlalar"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "diyorlar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bize"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yapın"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kulların"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "dövülüyor"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ve suç"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "senin halkının"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:52.223505687Z",
+  "model": "glm-5.3"
+}

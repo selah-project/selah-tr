@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 16:24",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve ⟨את⟩ Şomron dağını ⟨את⟩ Şemer'den iki talant gümüş karşılığında satın aldı; dağı inşa etti ve yaptığı şehrin adını, dağın efendisi Şemer'in adına — Şomron — koydu.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "ve satın aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şomron dağını"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomron"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩'ten"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Şemer"
+    },
+    {
+      "surface": "בככרים",
+      "gloss": "iki talant karşılığında"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ve inşa etti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dağı"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yaptığı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Şemer'in"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendisi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağın"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomron"
+    }
+  ],
+  "timestamp": "2026-08-19T09:41:34.411642540Z",
+  "model": "glm-5.3"
+}

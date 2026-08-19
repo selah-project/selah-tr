@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 116,
+  "translation": "Sana şükran kurbanı keseceğim ve Yahve'nin adıyla çağıracağım.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "keseceğim"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "şükran"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ve ... adıyla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağıracağım"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:24.619105277Z",
+  "model": "glm-5.3"
+}

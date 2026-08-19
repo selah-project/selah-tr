@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 6:12",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Çünkü kim bilir hayatta, hevel hayatının günlerinin sayısında, gölge gibi geçirdiği sürece, adam için ne iyidir? Güneşin altında ondan sonra ne olacağını adama kim bildirir?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "adam için"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "hayatta"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayısında"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlerinin"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayatının"
+    },
+    {
+      "surface": "הבלו",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ויעשם",
+      "gloss": "ve geçirdiği"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "gölge gibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sürece"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirir"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "adama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacağını"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ondan sonra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:51.233376227Z",
+  "model": "glm-5.3"
+}

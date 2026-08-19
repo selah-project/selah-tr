@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 77,
+  "translation": "Eski günleri düşündüm, ezeli yılları.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "düşündüm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günleri"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "eski"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "yılları"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ezeli"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:49.251896172Z",
+  "model": "glm-5.3"
+}

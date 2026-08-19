@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Oğulların baygın düştü, bütün sokakların başında yatıyorlar, ağdaki yaban öküzü gibi; Yahve'nin öfkesiyle, Elohim'in azarıyla dolular — senin ⟨Tanrın⟩.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "baygın düştü"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "yatıyorlar"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "başında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "sokakların"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "yaban öküzü gibi"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "ağ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "dolular"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "öfkesiyle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "azarıyla"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "senin Tanrın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:01:43.080286417Z",
+  "model": "glm-5.3"
+}

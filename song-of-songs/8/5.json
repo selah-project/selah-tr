@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Bu kim, çölden yükselen, sevgilisine yaslanan? Elma ağacının altında seni uyandırdım; orada seni bekleyen annendi, orada doğurdu seni annen.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yükselen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "yaslanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-e"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "sevgilisi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "elma ağacı"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "seni uyandırdım"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "seni bekleyen"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "annen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "seni"
+    }
+  ],
+  "timestamp": "2026-08-19T11:35:01.915616557Z",
+  "model": "glm-5.3"
+}

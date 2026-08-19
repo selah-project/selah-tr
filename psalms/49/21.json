@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 49,
+  "translation": "İnsan, onur ⟨içindeyken⟩ ve anlamıyor — hayvanlar gibi benzetildi, yok olup gittiler.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "onur içinde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlıyor"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "benzetildi"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "hayvanlar gibi"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "yok olup gittiler"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:26.836277174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 51:18",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Doğurduğu bütün oğullarından ona yol gösteren ⟨yok⟩, büyüttüğü bütün oğullarından elinden tutan ⟨yok⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מנהל",
+      "gloss": "yol gösteren"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -den"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğurduğu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "tutan"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -den"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "büyüttüğü"
+    }
+  ],
+  "timestamp": "2026-08-19T10:01:43.080006710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Zerahyah oğlu, Uzzi oğlu, Bukki oğlu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerahyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    }
+  ],
+  "timestamp": "2026-08-19T11:47:38.053182327Z",
+  "model": "glm-5.3"
+}

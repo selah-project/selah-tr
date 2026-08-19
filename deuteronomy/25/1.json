@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Ki insanlar arasında bir dava olur da mahkemeye giderler ve onları yargılarlar: doğruyu haklı çıkarırlar ⟨את⟩, kötüyü suçlu bulurlar ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olur"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "dava"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "insanlar"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "giderler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "mahkeme"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "yargılarlar"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "haklı çıkarırlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doğruyu"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "suçlu bulurlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötüyü"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kötü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:03:19.584780567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "⟨את⟩ Elohim'in işini gör, çünkü kim düzeltebilir ⟨את⟩ onun eğri büğrü yaptığını?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim'in işini"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işini"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "gücü yeter"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "düzeltebilir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eğri büğrü yaptığını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onun ki"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "eğri büğrü yaptığını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:13.207232612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Ve ⟨את⟩ tüm bunları kendi için aldı ve ⟨את⟩ onları ortadan böldü ve her parçayı karşısındakiyle yüz yüze koydu; ama ⟨את⟩ kuşları bölmedi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendi için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüm bunları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "ve böldü"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortadan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her parça"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "kendi parçasını"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "karşısına"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kuşları"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "kuşları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "böldü"
+    }
+  ],
+  "timestamp": "2026-08-19T06:58:08.745475438Z",
+  "model": "glm-5.3"
+}

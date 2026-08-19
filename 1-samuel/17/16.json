@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve ⟨the⟩ Peleştili yaklaşırken sabahleyin ve akşamleyin, kendini dikerek durdu kırk gün.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "yaklaştı"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Peleşti"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "sabahleyin erkenden"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "ve akşamleyin"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "kendini dikti"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kırk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-08-19T09:24:28.612749067Z",
+  "model": "glm-5.3"
+}

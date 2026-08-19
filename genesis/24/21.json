@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 24:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve ⟨the⟩ adam ona bakakaldı, ⟨את⟩ yolunu Yahve'nin başarıya erdirdiğini ya da erdirmediğini bilmek için sustu.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ve ⟨the⟩ adam"
+    },
+    {
+      "surface": "משתאה",
+      "gloss": "bakakaldı"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "sustu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmek için"
+    },
+    {
+      "surface": "ההצליח",
+      "gloss": "başarıya erdirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "⟨את⟩ yolunu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "erdirmediğini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:25.388100761Z",
+  "model": "glm-5.3"
+}

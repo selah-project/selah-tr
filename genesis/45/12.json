@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "ve işte gözleriniz görüyor ve kardeşim Binyamin'in gözleri, ⟨şunu⟩: size konuşan ⟨ağzım⟩ benim.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ve işte"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "gözleriniz"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "görüyor"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ve gözleri"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kardeşim"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin'in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "konuşan"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "size"
+    }
+  ],
+  "timestamp": "2026-08-19T07:08:17.913005824Z",
+  "model": "glm-5.3"
+}

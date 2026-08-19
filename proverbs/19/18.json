@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Oğlunu terbiye et, çünkü ⟨umut⟩ var; ve onu öldürmeye ⟨canını⟩ yükseltme.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "terbiye et"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "umut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "onu öldürmeye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "yükseltme"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canını"
+    }
+  ],
+  "timestamp": "2026-08-19T11:21:15.011873178Z",
+  "model": "glm-5.3"
+}

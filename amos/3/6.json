@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Şofar şehirde çalınır da halk titremez mi? Şehirde kötülük olur da Yahve yapmamış ⟨olur mu⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer\/mı"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "çalınır"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve halk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "titrer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer\/mı"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olur"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şehirde"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ve Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmış"
+    }
+  ],
+  "timestamp": "2026-08-19T10:41:49.715711973Z",
+  "model": "glm-5.3"
+}

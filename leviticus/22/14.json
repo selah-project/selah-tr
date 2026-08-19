@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve bir adam kutsal şeyi sehven yerse, onun üzerine beşte birini ekleyecek ve kâhine ⟨את⟩ kutsal şeyi verecek.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yerse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal şeyi"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "sehven"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ekleyecek"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "beşte birini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzerine"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ve verecek"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kâhine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal şeyi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal olan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:04.492710097Z",
+  "model": "glm-5.3"
+}

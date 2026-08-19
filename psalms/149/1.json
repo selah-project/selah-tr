@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 149,
+  "translation": "Yah'ı övün, Yahve'ye yeni bir şarkı söyleyin, O'nun övgüsü sadıklar topluluğunda ⟨olsun⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "övün"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "söyleyin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "şarkı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "O'nun övgüsü"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "toplulukta"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "sadıklar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:46.299047078Z",
+  "model": "glm-5.3"
+}

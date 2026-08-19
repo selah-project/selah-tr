@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Elohim yedinci günde yapmakta olduğu işini bitirdi ve yedinci günde bütün işinden —ki onu yapmıştı— dinlendi.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "bitirdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "işini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmıştı"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "dinlendi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yedinci"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün…den"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "işinden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yapmıştı"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:56.165900932Z",
+  "model": "glm-5.3"
+}

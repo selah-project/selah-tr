@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Yahve'nin sesi dişi geyikleri doğurtur ve ormanları çıplaklaştırır; ve ⟨O'nun⟩ mabedinde herkes yücelik der.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "doğurtur"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "dişi geyikleri"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "ve çıplaklaştırır"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "ormanları"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ve mabedinde"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "herkes"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "yücelik"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:43.825147773Z",
+  "model": "glm-5.3"
+}

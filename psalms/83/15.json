@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 83,
+  "translation": "Ormanı yakan ateş gibi, dağları tutuşturan alev gibi.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "ateş gibi"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ormanı"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ve alev gibi"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "tutuşturan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağları"
+    }
+  ],
+  "timestamp": "2026-08-19T11:04:20.817503675Z",
+  "model": "glm-5.3"
+}

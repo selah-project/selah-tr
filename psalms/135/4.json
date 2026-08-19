@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Çünkü Yah, Yaakov'u kendisine seçti, Yişrael'i öz malı olarak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "seçti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "öz malı olarak"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:23.188739894Z",
+  "model": "glm-5.3"
+}

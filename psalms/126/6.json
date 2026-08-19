@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 126,
+  "translation": "Giden gider, ağlayarak tohum torbasını taşıyan; dönecek, evet sevinç çığlıklarıyla gelecek, demetlerini taşıyarak.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "giden"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gider"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ağlayarak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "taşıyan"
+    },
+    {
+      "surface": "משך",
+      "gloss": "tohum torbasını"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ekilecek tohumu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dönecek"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gelecek"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "sevinç çığlıklarıyla"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "taşıyarak"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "demetlerini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:33.206865367Z",
+  "model": "glm-5.3"
+}

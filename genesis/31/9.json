@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Böylece Elohim babanızın ⟨את⟩ sürüsünü alıp götürdü ve bana verdi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "alıp götürdü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürüsünü"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "sürüsünü"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "babanızın"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve verdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:03:04.429793644Z",
+  "model": "glm-5.3"
+}

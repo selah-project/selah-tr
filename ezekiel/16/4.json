@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Doğumların konusunda, doğduğun gün göbeğin kordonu kesilmedi, su ile yıkanmadın ⟨temizlenmen⟩ için, tuzlanmadın ve kundaklanmadın.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "ve doğumların"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "doğduğunda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesildi"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "kordonun"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ve su ile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "yıkanıldın"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "temizlenmen için"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "ve tuzlanma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "tuzlandın"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "ve kundaklama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "kundaklandın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:26:20.848131057Z",
+  "model": "glm-5.3"
+}

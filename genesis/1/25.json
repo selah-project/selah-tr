@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Ve Elohim yeryüzünün canlısını türüne göre yaptı, ve ⟨את⟩ behemayı türüne göre, ve ⟨את⟩ toprağın bütün sürünenlerini türüne göre; ve Elohim gördü ki iyiydi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeryüzünün canlısını"
+    },
+    {
+      "surface": "חית",
+      "gloss": "canlısını"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "türüne göre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "behemayı"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "behemayı"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "türüne göre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün sürünenleri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünenleri"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprağın"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "türüne göre"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyiydi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:43.841330148Z",
+  "model": "glm-5.3"
+}

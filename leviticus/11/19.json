@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "ve ⟨את⟩ leyleği, balıkçılı türüne göre, ve ⟨את⟩ ibibiği, ve ⟨את⟩ yarbayı",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "leyleği"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "leyleği"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "balıkçılı"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "türüne göre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "ibibiği"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "ibibiği"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yarbayı"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "yarbayı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:25:15.422184143Z",
+  "model": "glm-5.3"
+}

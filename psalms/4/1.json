@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Övgü yöneticisine, çalgılarla; Davut'a ait bir mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "övgü yöneticisine"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "çalgılarla"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davut'a ait"
+    }
+  ],
+  "timestamp": "2026-08-19T10:50:40.452795261Z",
+  "model": "glm-5.3"
+}

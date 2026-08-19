@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Çünkü kulak işitti de beni mutlu saydı, ve göz gördü de bana tanıklık etti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kulak"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "işitti"
+    },
+    {
+      "surface": "ותאשרני",
+      "gloss": "beni mutlu saydı"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ve göz"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "ותעידני",
+      "gloss": "bana tanıklık etti"
+    }
+  ],
+  "timestamp": "2026-08-19T11:30:08.263207726Z",
+  "model": "glm-5.3"
+}

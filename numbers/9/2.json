@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 9,
+  "translation": "İsrail oğulları Pesah'ı ⟨את⟩ belirtilen zamanında yapsınlar.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "yapsınlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "belirtilen zamanında"
+    }
+  ],
+  "timestamp": "2026-08-19T07:35:18.249164633Z",
+  "model": "glm-5.3"
+}

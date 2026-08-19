@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 114,
+  "translation": "Adonay'ın yüzü önünde sarsıl, ey yer; Yaakov'un Eloah'ının yüzü önünde!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "yüzü önünde"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "sarsıl"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ey yer"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yüzü önünde"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:31.953174107Z",
+  "model": "glm-5.3"
+}

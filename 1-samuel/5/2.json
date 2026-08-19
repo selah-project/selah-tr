@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Peleştiler Elohim'in ⟨את⟩ sandığını aldılar ve ⟨את⟩ onu Dagon'un evine getirdiler ve ⟨את⟩ onu Dagon'un yanına koydular.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştiler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandık"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "getirdiler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evine"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon'un"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "koydular"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon'un"
+    }
+  ],
+  "timestamp": "2026-08-19T09:21:35.367665687Z",
+  "model": "glm-5.3"
+}

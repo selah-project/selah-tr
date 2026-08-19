@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Komşusunu gizlice vuran lanetlidir; ve bütün halk diyecek: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "lanetlidir"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "vuran"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "komşusunu"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizlice"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ve diyecek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:19.094246609Z",
+  "model": "glm-5.3"
+}

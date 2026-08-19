@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Yahve'nin ardından yürüyecekler; ⟨o⟩ bir arslan gibi kükreyecek, çünkü ⟨o⟩ kükreyecek ve oğullar denizden ⟨titreyerek⟩ titreyecekler.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yürüyecekler"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "bir arslan gibi"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "kükreyecek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "kükreyecek"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ve titreyecekler"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "denizden"
+    }
+  ],
+  "timestamp": "2026-08-19T10:39:46.826700618Z",
+  "model": "glm-5.3"
+}

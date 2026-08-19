@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Ve efendimize dedik: Genç babasını bırakamaz; çünkü ⟨eğer⟩ babasını bırakırsa, babası ⟨de⟩ ölür.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ve dedik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "efendimize"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "gücü yetmez"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "genç"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "bırakmaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babasını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasını"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ve bırakırsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babasını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babasını"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ve ölür"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:24.400907773Z",
+  "model": "glm-5.3"
+}

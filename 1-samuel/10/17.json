@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Şemuël halkı Yahve'ye doğru Miçpa'da ⟨את⟩ topladı\/toplu çağrı yaptı.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Miçpa"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:52.006879574Z",
+  "model": "glm-5.3"
+}

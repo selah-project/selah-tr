@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 98,
+  "translation": "Yahve kurtuluşunu bildirdi; ulusların gözü önünde doğruluğunu açığa vurdu.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "kurtuluşunu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gözü önünde"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ulusların"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açığa vurdu"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "doğruluğunu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:36.811647161Z",
+  "model": "glm-5.3"
+}

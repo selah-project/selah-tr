@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Eglon'un kralı, bir; Gezer'in kralı, bir;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-19T09:09:38.150993801Z",
+  "model": "glm-5.3"
+}

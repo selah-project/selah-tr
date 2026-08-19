@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Yahve'ye saygı duyanlar O'nu övün, Yaakov'un bütün tohumu O'u yüceltin ve O'ndan korkun, İsrail'in bütün tohumu.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "saygı duyanlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "O'nu övün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "O'u yüceltin"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "ve korkun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "O'ndan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tohum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:01.159637182Z",
+  "model": "glm-5.3"
+}

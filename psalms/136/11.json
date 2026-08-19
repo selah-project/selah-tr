@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 136,
+  "translation": "Ve Yişra'el'i onların arasından çıkardı, çünkü sonsuza dek sürer onun sevgisi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ve çıkardı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişra'el'i"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "onların arasından"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun sevgisi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:57.651414687Z",
+  "model": "glm-5.3"
+}

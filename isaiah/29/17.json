@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Değil mi, çok az bir süre, bir an, ve Lübnan Karmel'e dönecek, ve Karmel orman olarak sayılacak?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az bir süre"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "bir an"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dönecek"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lübnan"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Karmel'e"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "ve Karmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "orman olarak"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sayılacak"
+    }
+  ],
+  "timestamp": "2026-08-19T09:56:40.500298895Z",
+  "model": "glm-5.3"
+}

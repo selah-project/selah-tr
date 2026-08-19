@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Onların üzerine yemek için man yağdırdı ve göğün buğdayını onlara verdi.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "ve yağdırdı"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzerine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemek için"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ve buğday"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göğün"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:02.656077077Z",
+  "model": "glm-5.3"
+}

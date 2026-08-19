@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 62,
+  "translation": "Yalnız ⟨onun⟩ makamından ⟨onu⟩ düşürmek için akıl ederler; yalanla hoşnut olurlar; ağzıyla kutsar, ama içinde lanet eder. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "onun makamı"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "akıl ederler"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "düşürmek için"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "hoşnut olurlar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalanla"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ağzıyla"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "kutsarlar"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ve içinde"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "lanet ederler"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:23.186538748Z",
+  "model": "glm-5.3"
+}

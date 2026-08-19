@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 133,
+  "translation": "Başın üzerine akan iyi yağ gibi — Aharon'un sakalının üzerine, ağzına kadar inen sakalı üzerine, giysilerinin yakasına akan ⟨yağ gibi⟩.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "yağ gibi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "başın"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "iner"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "sakalının"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "sakalı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon'un"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "inen"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "giysilerinin (yakası)"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:03.826812797Z",
+  "model": "glm-5.3"
+}

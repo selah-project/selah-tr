@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Ve giysilerini soyunsun ve başka giysiler giysin; ve ⟨את⟩ külü çıkarsın ordunun dışına, temiz bir yere.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "ve soyunsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giysilerini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "giysilerini"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ve giysin"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "giysiler"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başka"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ve çıkarsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kül"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kül"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e doğru"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dışına"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ordunun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…e"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "temiz bir"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:33.481567249Z",
+  "model": "glm-5.3"
+}

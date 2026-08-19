@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Ve girenler, her etten erkek ve dişi olarak, Elohim ona emrettiği gibi girdiler; ve Yahve onu kapattı ⟨içeride⟩.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "ve girenler"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ve dişi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "etten"
+    },
+    {
+      "surface": "באו",
+      "gloss": "girdiler"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "emretti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "ve kapattı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "onun yerine \/ arkasından"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:04.745321543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "Ve yaptığı şey Yahve'nin gözünde kötüydü; ⟨את⟩ onu da öldürdü.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ve kötü oldu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaptı"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ve öldürdü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:06:01.329902062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "David tarlada saklandı; yeni ay olunca kral yemeğin başına ⟨oturdu⟩ yemek ⟨için⟩.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "saklandı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "olunca"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "yeni ay"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "⟨oturdu⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "על",
+      "gloss": "başına"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "yemeğin"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "yemek ⟨için⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T13:04:55.091793090Z",
+  "model": "glm-5.3"
+}

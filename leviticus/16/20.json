@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve bitirecek kefaret yapmayı ⟨את⟩ kutsal yer için ve ⟨את⟩ toplantı çadırını ve ⟨את⟩ sunağı; ve takdim edecek ⟨את⟩ yaşayan tekeyi.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "ve bitirecek"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "kefaret yapmayı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsal yeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kutsal yer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ve",
+      "marks": "toplantı çadırını"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırını"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ve",
+      "marks": "sunağı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunağı"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ve takdim edecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaşayan tekeyi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "tekeyi"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yaşayan"
+    }
+  ],
+  "timestamp": "2026-08-19T07:27:51.604856879Z",
+  "model": "glm-5.3"
+}

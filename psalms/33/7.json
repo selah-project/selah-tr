@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Denizin sularını bir yığın gibi topluyor, derinlikleri hazinelerine koyuyor.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "topuyor"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "bir yığın gibi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularını"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "koyuyor"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "hazinelerine"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "derinlikleri"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:22.581345161Z",
+  "model": "glm-5.3"
+}

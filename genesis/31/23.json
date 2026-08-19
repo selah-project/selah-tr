@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve kardeşlerini ⟨את⟩ yanına aldı ve ardından yedi gün yol kovaladı ve onu ⟨את⟩ Gilad dağında yakaladı.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardeşlerini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşlerini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ve kovaladı"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "ve yaklaşıp yetişti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-19T07:02:56.892077611Z",
+  "model": "glm-5.3"
+}

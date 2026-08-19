@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Ve Sedom'un kralı Avram'a dedi: «Bana ⟨את⟩ canları ver, malları ise sen kendin için al.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "canlar"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "ve mallar"
+    },
+    {
+      "surface": "קח",
+      "gloss": "al"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendin için"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:16.264497936Z",
+  "model": "glm-5.3"
+}

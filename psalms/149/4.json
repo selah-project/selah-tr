@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 149,
+  "translation": "Çünkü Yahve halkından hoşnut olur, alçakgönüllüleri kurtuluşla süsler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "hoşnut olur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "halkından"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "süsler"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçakgönüllüleri"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "kurtuluşla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:46.299526912Z",
+  "model": "glm-5.3"
+}

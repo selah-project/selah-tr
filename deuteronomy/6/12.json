@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Kendine dikkat et, yoksa Yahve'yi ⟨את⟩ unutursun — seni Mısır ülkesinden, köleler evinden çıkaran.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "dikkat et"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoksa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutursun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "seni çıkaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kölelerin"
+    }
+  ],
+  "timestamp": "2026-08-19T08:59:09.280008143Z",
+  "model": "glm-5.3"
+}

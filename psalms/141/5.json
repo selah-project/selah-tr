@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 141,
+  "translation": "Salih bana vursun — bu bir sevgidir; ve beni uyar-sın; baş yağı — başım onu reddetmesin; çünkü yine duam onların kötülüklerindendir.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "bana vursun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salih"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sevgi"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ve beni azarlasın"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "יני",
+      "gloss": "reddetsin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yine"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ve duam"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "onların kötülüklerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:20.422107504Z",
+  "model": "glm-5.3"
+}

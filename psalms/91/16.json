@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Uzun ömürle onu doyuracağım ve ona kurtuluşumu göstereceğim.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "uzun(luk)"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günler (ömür)"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "onu doyuracağım"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ve ona göstereceğim"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "kurtuluşumu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:17.666529611Z",
+  "model": "glm-5.3"
+}

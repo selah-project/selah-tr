@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ağlamak ⟨için⟩ vakit, ve gülmek ⟨için⟩ vakit; yas tutmak ⟨için⟩ vakit, ve dans etmek ⟨için⟩ vakit.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vakit"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ağlamak için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve vakit"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "gülmek için"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vakit"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "yas tutmak için"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ve vakit"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "dans etmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:57.146448296Z",
+  "model": "glm-5.3"
+}

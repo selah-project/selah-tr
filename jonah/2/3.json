@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve dedi: Sıkıntım içinde Yahve'ye seslendim ve ⟨o⟩ bana cevap verdi; Şeol'un karnından feryat ettim, ⟨sen⟩ sesimi duydun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "seslendim"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "sıkıntı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ve bana cevap verdi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "karnından"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "feryat ettim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "duydun"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sesimi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:43:34.959283188Z",
+  "model": "glm-5.3"
+}

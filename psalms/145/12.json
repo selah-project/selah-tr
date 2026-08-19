@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 145,
+  "translation": "İnsanoğullarına güçlerini bildirmek için, ve krallığının görkemli haşmetini ⟨⟨bildirmek için⟩⟩.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "bildirmek için"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "güçlerini"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ve görkemini"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "haşmetli"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "krallığının"
+    }
+  ],
+  "timestamp": "2026-08-19T11:17:23.402562628Z",
+  "model": "glm-5.3"
+}

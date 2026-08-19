@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Külle besleniyor; aldatılmış bir kalp onu saptırdı, ve ⟨את⟩ canını kurtaramaz, ve «Sağ elimde bir yalan değil mi?» diyemez.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "besleniyor"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "küle"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalb"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "aldatılmış"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "saptırdı onu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "kurtarabilir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "der"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "sağ elimde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:26.175804816Z",
+  "model": "glm-5.3"
+}

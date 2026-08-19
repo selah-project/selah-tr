@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 12:19",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "David kullarının fısıldadığını görünce çocuğun öldüğünü anladı; David kullarına sordu: Çocuk öldü mü? Dediler ki: Öldü.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kulları"
+    },
+    {
+      "surface": "מתלחשים",
+      "gloss": "fısıldıyorlar"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ve anladı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kullarına"
+    },
+    {
+      "surface": "המת",
+      "gloss": "öldü mü"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "çocuk"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-08-19T09:31:15.276275983Z",
+  "model": "glm-5.3"
+}

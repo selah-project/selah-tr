@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Moşe halka dedi: \"Hatırla ⟨את⟩ bu günü, Mısır'dan, köleler evinden çıktığınız günü; çünkü güçlü bir elle çıkardı Yahve ⟨את⟩ sizi buradan; ve mayalı ekmek yenmeyecek.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "halka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "hatırla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu günü"
+    },
+    {
+      "surface": "היום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "çıktığınız"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mısır'dan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evinden"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "köleler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "güçlü"
+    },
+    {
+      "surface": "יד",
+      "gloss": "elle"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": " çıkardı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "buradan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... -meyecek"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yenmeyecek"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "mayalı ekmek"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:28.675594459Z",
+  "model": "glm-5.3"
+}

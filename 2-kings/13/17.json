@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "Ve dedi: Doğu tarafındaki pencereyi aç. Ve o açtı. Ve Elişa dedi: At. Ve o attı. Ve dedi: Yahve'nin kurtuluş oku, ve Aram'a karşı kurtuluş oku; ve Afek'te ⟨את⟩ Aram'ı tüketinceye kadar vuracaksın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aç"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "pencereyi"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "doğu tarafına"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ve o açtı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "At"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "ve o attı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ve dedi"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ok"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "ve ok"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kurtuluş"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram'a karşı"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ve vuracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram'ı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram'ı"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "Afek'te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tüketmek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:47:20.696293269Z",
+  "model": "glm-5.3"
+}

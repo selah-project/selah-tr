@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Elohim kutsallığında konuştu: Sevineceğim, ⟨את⟩ Şekem'i paylaştıracağım ve Sukkot vadisini ölçeceğim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "kutsallığında"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "sevineceğim"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "paylaştıracağım"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "⟨את⟩ Şekem'i",
+      "marks": "Şekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ve vadisi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ölçeceğim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:26.482226723Z",
+  "model": "glm-5.3"
+}

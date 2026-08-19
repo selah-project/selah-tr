@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve ⟨את⟩ şehirlerinizi ıssız bırakacağım, ve ⟨את⟩ mabetlerinizi harap edeceğim, ve hoş kokularınızın kokusunu duymayacağım.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ve ıssız bırakacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şehirlerinizi"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "şehirlerinizi"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ıssız"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ve harap edeceğim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabetlerinizi"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "mabetlerinizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "duymayacağım"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "kokusunu"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "hoş kokularınızın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:31:16.457755895Z",
+  "model": "glm-5.3"
+}

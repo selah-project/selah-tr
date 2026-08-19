@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 12:3",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "İşte buradayım: bana tanıklık edin, Yahve'nin önünde ve mesh edilmişinin önünde: ⟨את⟩ öküzü kimden aldım? Bir eşeği kimden aldım? Kimi ezdim ⟨את⟩? Kimi eziyor-geçindim ⟨את⟩? Ve kimin elinden ⟨את⟩ fidye aldım da gözlerimi ondan kapayıverdim? Size geri veririm.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "işte buradayım"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "tanıklık edin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ve önünde"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "mesh edilmişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzü"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimden"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "aldım"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ve eşek"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimden"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "aldım"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עשקתי",
+      "gloss": "ezdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "רצותי",
+      "gloss": "eziyor-geçindim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ve elinden"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimin"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "aldım"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "fidye"
+    },
+    {
+      "surface": "ואעלים",
+      "gloss": "ve kapayıverdim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlerimi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ve geri veririm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    }
+  ],
+  "timestamp": "2026-08-19T09:22:29.185279428Z",
+  "model": "glm-5.3"
+}

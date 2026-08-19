@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 144,
+  "translation": "Beni kurtar ve yabancı oğullarının elinden beni bırak ki ⟨onların⟩ ağızları boşluk konuştu ve sağ elleri ⟨bir⟩ sahte sağ eldir.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "beni kurtar"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ve beni bırak"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "elinden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ağızları"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "boşluk"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ve sağ elleri"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağ el"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sahte"
+    }
+  ],
+  "timestamp": "2026-08-19T12:22:59.881735802Z",
+  "model": "glm-5.3"
+}

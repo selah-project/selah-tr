@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Avram ⟨את⟩ karısı Saray'ı, ⟨את⟩ kardeşinin oğlu Lot'u, ⟨את⟩ topladıkları bütün mallarını ve ⟨את⟩ Haran'da edindikleri canları aldı; Kenan ülkesine gitmek için yola çıktılar ve Kenan ülkesine geldiler.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saray'ı"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lot'u"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşinin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün mallarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "mallarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "topladıkları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "canları"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "canları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "edindikleri"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Haran'da"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "çıktılar"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gitmek için"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ülkesine"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "geldiler"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ülkesine"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-19T06:57:58.078805374Z",
+  "model": "glm-5.3"
+}

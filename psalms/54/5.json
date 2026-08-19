@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 54,
+  "translation": "Çünkü yabancılar aleyhime kalktı ve zorba olanlar canımı aradılar; Elohim'i önlerine koymadılar. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yabancılar"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kalktı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aleyhime"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ve zorbalar"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "aradılar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "koymadılar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "önlerine"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:10.768251291Z",
+  "model": "glm-5.3"
+}

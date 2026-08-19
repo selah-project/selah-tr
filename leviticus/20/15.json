@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve bir adam ki yatışını bir hayvanla verirse, ölümle öldürülecektir; ve hayvanı ⟨את⟩ öldüreceksiniz.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verirse"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "yatışını"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "bir hayvanla"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülecektir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "hayvanı"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvan"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "öldüreceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:46.521561634Z",
+  "model": "glm-5.3"
+}

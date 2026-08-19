@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Ve oldu: akşam vakti bildırcınlar yükseldi ve ⟨את⟩ ordugâhı örttü; sabahleyin ise çiyin yatışı vardı, ordugâhın çevresinde.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "akşam vakti"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "yükseldi"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "bildırcınlar"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "örttü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordugâhı"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ordugâh"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "sabahleyin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "vardı"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yatışı"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "çiyin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "çevresinde"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ordugâhın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:05.644769188Z",
+  "model": "glm-5.3"
+}

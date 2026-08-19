@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 25,
+  "translation": "Elohim'im, sana güvendim; mahcup olmayayım, düşmanlarım bana karşı sevinmesin.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvendim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mayayım"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mahcup olayım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mesin"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "sevinçle zıplasınlar"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmanlarım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:32.907101098Z",
+  "model": "glm-5.3"
+}

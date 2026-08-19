@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Znal etmiştir buzağını, ey Şomron; öfkem onlara karşı alevlendi; ne zamana kadar arınmışlığa ulaşamayacaklar?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "znal etti"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "buzağını"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomron"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "alevlendi"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "öfkem"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlara karşı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ne zamana kadar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kadar ne zaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "gücü yetmeyecek"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "arınmışlığa"
+    }
+  ],
+  "timestamp": "2026-08-19T10:40:31.269879888Z",
+  "model": "glm-5.3"
+}

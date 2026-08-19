@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 107,
+  "translation": "Dalgalar dindiği için sevinirler ve ⟨onları⟩ arzu ettikleri limana ulaştırır.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "sevinirler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "dindiği"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ulaştırır"
+    },
+    {
+      "surface": "אל",
+      "gloss": "towards — limana"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "limana"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "arzu ettikleri"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:52.548263383Z",
+  "model": "glm-5.3"
+}

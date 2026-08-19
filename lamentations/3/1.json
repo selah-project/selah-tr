@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ben, erdi ⟨⟨o⟩⟩ sıkıntıyı onun öfkesinin değneği altında gören adamım.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gören"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sıkıntıyı"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "değneği altında"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "onun öfkesinin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:36:17.430777783Z",
+  "model": "glm-5.3"
+}

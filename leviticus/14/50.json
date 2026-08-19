@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 14,
+  "translation": "Kuşlardan birini canlı suyun üzerinde toprak bir kabın içinde kessin.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kessin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuşlardan birini"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "kuşun"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "birini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kap"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    }
+  ],
+  "timestamp": "2026-08-19T07:26:20.339860088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 1,
+  "translation": "Eğer derlerse: «Gel ⟨את⟩ bizimle, kan için pusu kuralım, suçsuz için gizlice gözcü olalım, sebepsiz yere» —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "derlerse"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimle",
+      "marks": "bizimle"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "pusu kuralım"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "kan için"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "gizlice gözcü olalım"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "suçsuz için"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sebepsiz yere"
+    }
+  ],
+  "timestamp": "2026-08-19T11:14:52.393400622Z",
+  "model": "glm-5.3"
+}

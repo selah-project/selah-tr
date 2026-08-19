@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 32,
+  "translation": "Çünkü gündüz ve gece elin üzerimde ağırdı; serbest kalan nefesim yaz kuraklığına döndü. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ve gece"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ağırdı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzerimde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "serbest kalan nefesim"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "kuraklığına"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "yaz"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-19T12:21:24.635011088Z",
+  "model": "glm-5.3"
+}

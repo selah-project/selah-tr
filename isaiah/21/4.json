@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Kalbim şaşırdı, dehşet beni ürküttü; arzumun alacakaranlığını ⟨את⟩ bana titremeye çevirdi.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "şaşırdı"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kalbim"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "dehşet"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "beni ürküttü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alacakaranlığı"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "alacakaranlık"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "arzumun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "titremeye"
+    }
+  ],
+  "timestamp": "2026-08-19T12:17:25.147493926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 35:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 35,
+  "translation": "Ve şimdi, çünkü ⟨öfkesi⟩ yok ⟨sayılır⟩ — öfkesini ziyaret etmedi ⟨yani⟩ çok zorbalığı ⟨bile⟩ bilmedi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ve şimdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ziyaret etti"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bildi"
+    },
+    {
+      "surface": "בפש",
+      "gloss": "zorbalığı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    }
+  ],
+  "timestamp": "2026-08-19T11:31:31.929792590Z",
+  "model": "glm-5.3"
+}

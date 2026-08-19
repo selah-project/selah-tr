@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 16,
+  "translation": "Yeryüzündeki kutsallara ⟨gelince⟩ — işte onlar, ve soylular: bütün arzularım onlardadır.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "kutsallara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "המה",
+      "gloss": "işte onlar"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "ve soylular"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "arzularım"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlardadır"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:05.466520534Z",
+  "model": "glm-5.3"
+}

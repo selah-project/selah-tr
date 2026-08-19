@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Onları çocuklarınıza öğretin, onlar hakkında konuşasınız diye — evinde otururken, yolda giderken, yatarken ve kalkarken.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "öğretin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çocuklarınıza"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "çocuklarınıza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "konuşasınız diye"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlar hakkında"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "otururken"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ve giderken"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ve yatarken"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ve kalkarken"
+    }
+  ],
+  "timestamp": "2026-08-19T09:00:22.477260259Z",
+  "model": "glm-5.3"
+}

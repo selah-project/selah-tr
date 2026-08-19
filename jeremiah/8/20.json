@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Hasat geçti, yaz ⟨is⟩ bitti, ve biz kurtarılmadık.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "geçti"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "hasat"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bitti"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "yaz"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ve biz"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "kurtarıldık"
+    }
+  ],
+  "timestamp": "2026-08-19T10:07:01.368896388Z",
+  "model": "glm-5.3"
+}

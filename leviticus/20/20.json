@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Ve bir adam ki teyzesiyle yatsa — amcasının çıplaklığını açmıştır; günahlarını yüklenecekler, çocuksuz ölecekler.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve bir adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teyzesiyle"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "teyzesi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çıplaklığını"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "amcasının"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmıştır"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "günahlarını"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "yüklenecekler"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "çocuksuz"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ölecekler"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:53.409104402Z",
+  "model": "glm-5.3"
+}

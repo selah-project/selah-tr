@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve Aharon'a ⟨את⟩ Nadav ve ⟨את⟩ Avihu, ⟨את⟩ Elazar ve ⟨את⟩ Itamar doğdu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ve doğdu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadav"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:24.771092454Z",
+  "model": "glm-5.3"
+}

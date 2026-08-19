@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Ve onları gündüzleyin bulutla, bütün geceyi de ateş ışığıyla yönlendirdi.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ve onları yönlendirdi"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "bulutla"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüzleyin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ışığıyla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ateş"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:15.334248849Z",
+  "model": "glm-5.3"
+}

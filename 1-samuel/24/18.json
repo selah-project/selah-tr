@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve David'e dedi: «Sen benden daha adilsin; çünkü sen bana iyilikle muamele ettin, ben ise sana kötülükle muamele ettim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kime"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "bana muamele ettin"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ve ben"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "sana muamele ettim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kötülük"
+    }
+  ],
+  "timestamp": "2026-08-19T09:27:05.554311872Z",
+  "model": "glm-5.3"
+}

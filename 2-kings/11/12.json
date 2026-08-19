@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve ⟨את⟩ kralın oğlunu çıkardı ve ona ⟨את⟩ taç ile ⟨את⟩ tanıklığı koydular; onu kral yaptılar ve onu meshettiler ve el çırptılar ve dediler: Yaşasın kral!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ve çıkardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralın oğlunu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ve koydu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tacı"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "tacı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "tanıklığı"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "tanıklığı"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ve kral yaptılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (kral yaptılar)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "ve onu meshettiler"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ve çırptılar"
+    },
+    {
+      "surface": "כף",
+      "gloss": "avuç"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "yaşasın"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:55.517016076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Her kişi annesinden ve babasından korksun; ve ⟨את⟩ şabatlarımı koruyun; ben Yahve, Elohim'iniz.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "her kişi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesini"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ve-babasını"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "korksun (-sunuz)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şabatlarımı"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "şabatlarımı"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "koruyun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    }
+  ],
+  "timestamp": "2026-08-19T08:55:11.679958952Z",
+  "model": "glm-5.3"
+}

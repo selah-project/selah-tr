@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Kayin ⟨את⟩ karısını bildi; o gebe kaldı ve ⟨את⟩ Hanok'u doğurdu; ⟨o⟩ bir şehir kurucu⟨su⟩dur ve şehrin adını oğlu Hanok'un adıyla çağırdı.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "bildi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karısını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "karısını"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "gebe kaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanok'u"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok'u"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨o⟩ oluyordu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kurucu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şehir"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şehrin"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "adıyla"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    }
+  ],
+  "timestamp": "2026-08-19T06:55:34.376910688Z",
+  "model": "glm-5.3"
+}

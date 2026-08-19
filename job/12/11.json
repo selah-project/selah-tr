@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 12,
+  "translation": "Kulak sözleri sınar değil mi, damak yemeği onun için tadar?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kulak"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sözleri"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "sınar"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "ve damak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemeği"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "tadar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-19T11:26:09.496435884Z",
+  "model": "glm-5.3"
+}

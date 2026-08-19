@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Yahve ⟨את⟩ sözünü — ⟨o⟩ konuştuğu ⟨sözu⟩ — yerine getirdi; ben David babamın yerine kalktım ve Yahve'nin konuştuğu gibi İsrail tahtına ⟨o⟩turdum ve Yahve'yi, İsrail'in Elohim'i'ni ⟨⟨adına⟩⟩ evi ⟨inşa ettim⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ve yerine getirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözünü"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "ve kalktım"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babamın"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ve oturdum"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taht"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gibi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konuştu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ve inşa ettim"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    }
+  ],
+  "timestamp": "2026-08-19T09:38:28.929601723Z",
+  "model": "glm-5.3"
+}

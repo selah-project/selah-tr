@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Çünkü yeryüzünde ⟨את⟩ iyilik yapan ve günah işlemeyen doğru insan yoktur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoktur"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yeryüzünde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iyilik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve etmeyen"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:24.647402842Z",
+  "model": "glm-5.3"
+}

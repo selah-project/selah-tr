@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Kenana'nın oğlu Sidkiya kendisine demirden boynuzlar yaptı ve \"Yahve böyle diyor: Bunlarla Aram'ı ⟨את⟩ yok edinceye kadar boynuzlayacaksın\" dedi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendisine"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Sidkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "boynuzlar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "demir"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diyor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "bunlarla"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "boynuzlayacaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "yok edilmeleri"
+    }
+  ],
+  "timestamp": "2026-08-19T09:43:28.542540488Z",
+  "model": "glm-5.3"
+}

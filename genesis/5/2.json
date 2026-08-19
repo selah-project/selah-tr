@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Erkek ve dişi olarak yarattı onları; onları kutsadı ve onların adını 'Adem' çağırdı — yaratıldıkları gün.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Erkek"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ve dişi"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "yarattı onları"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ve kutsadı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ve çağırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların adını"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "onların adını"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "yaratıldıkları"
+    }
+  ],
+  "timestamp": "2026-08-19T06:54:44.685306936Z",
+  "model": "glm-5.3"
+}

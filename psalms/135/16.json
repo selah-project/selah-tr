@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 135,
+  "translation": "Onlara ağız ⟨var⟩ ama söylemezler; onlara gözler ⟨var⟩ ama görmezler.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "ağız"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "söylemezler"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözler"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görmezler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:09.982118173Z",
+  "model": "glm-5.3"
+}

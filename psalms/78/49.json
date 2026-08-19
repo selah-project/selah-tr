@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Onların üzerine öfkesinin alevini gönderdi; gazap ve hışım ve sıkıntı — kötü elçilerin gönderilişi.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "gönderdi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların üzerine"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "alevini"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesinin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "gazap"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "ve hışım"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "ve sıkıntı"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "gönderilişi"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "elçilerin"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kötü"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:00.826035980Z",
+  "model": "glm-5.3"
+}

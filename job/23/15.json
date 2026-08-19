@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Bunun için ⟨onun⟩ yüzünden dehşete kapılırım, düşünüp korkarım ⟨onun⟩ ⟩ yüzünden.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "bunun için"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "⟨onun⟩ yüzünden"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "dehşete kapılırım"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "düşünüp"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "ve korkarım"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨onun⟩ ⟩ yüzünden"
+    }
+  ],
+  "timestamp": "2026-08-19T11:29:11.037225185Z",
+  "model": "glm-5.3"
+}

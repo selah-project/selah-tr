@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve ⟨söz⟩ kralın gözünde ve tüm cemaatin gözünde doğru göründü.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "doğru göründü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨söz⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ve gözünde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tüm"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "cemaatin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:09:32.782784986Z",
+  "model": "glm-5.3"
+}

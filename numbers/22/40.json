@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Ve Balak sığır ve koyun kurban etti ve Bilam'a ve ⟨את⟩ yanındaki önderlere gönderdi.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ve kurban etti"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sığır"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ve koyun"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ve gönderdi"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilam'a"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ve önderlere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki onlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla birlikte"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:26.584187092Z",
+  "model": "glm-5.3"
+}

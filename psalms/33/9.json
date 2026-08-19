@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Çünkü ⟨o⟩ dedi, ve oldu; ⟨o⟩ buyurdu, ve durdu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ve durdu"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:00.028813297Z",
+  "model": "glm-5.3"
+}

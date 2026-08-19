@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Peleşti bakınca ⟨את⟩ Davut'u gördü ve onu hor gördü; çünkü o genç bir delikanlıydı, kızıl yanaklı, ⟨fakat⟩ güzel görünüşlü.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "ve baktı"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Peleşti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ve gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davut'u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ve onu hor gördü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "genç delikanlı"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ve kızıl yanaklı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikte"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "güzel"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "görünüş"
+    }
+  ],
+  "timestamp": "2026-08-19T12:14:43.987389292Z",
+  "model": "glm-5.3"
+}

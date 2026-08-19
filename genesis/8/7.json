@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve kuzgunu ⟨את⟩ salıverdi; o da sular yeryüzünün üzerinden kuruyuncaya kadar gidip gitti, dönüp durdu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ve salıverdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuzgunu"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kuzgun"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ve çıktı"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "çıkmakla"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ve dönmekle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "kuruması"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzerinden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T06:56:40.806734066Z",
+  "model": "glm-5.3"
+}

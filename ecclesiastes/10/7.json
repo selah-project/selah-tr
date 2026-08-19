@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Atların üstünde köleler gördüm; önde yürüyen beyler ise yeryüzünde köleler gibi yürür.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "köleler"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünde"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "atların"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "beyler ise"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "yürüyen"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "köleler gibi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünün"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:47.351571702Z",
+  "model": "glm-5.3"
+}

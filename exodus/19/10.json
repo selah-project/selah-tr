@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Ve Yahve Moşe'ye dedi: Halkın yanına git ve onları bugün ve yarın takdis et; giysilerini yıkasınlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "git"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın yanına"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ve takdis et onları"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ve yarın"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ve yıkasınlar"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "giysilerini"
+    }
+  ],
+  "timestamp": "2026-08-19T07:15:00.060042826Z",
+  "model": "glm-5.3"
+}

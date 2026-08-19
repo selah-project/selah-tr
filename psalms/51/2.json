@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 51,
+  "translation": "Natan peygamber ona geldiğinde, Bat-Şeva'nın yanına girdiği zaman ⟨yazıldı⟩.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "geldiğinde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peygamber"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olduğunda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "girdiği"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:37.526484438Z",
+  "model": "glm-5.3"
+}

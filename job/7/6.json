@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Günlerim dokumacının mek{iği}nden daha hızlı geçti ve umudun {hiç} yokluğunda tükendi.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "günlerim"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "hafif\/hızlı geçti"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daha... -den"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "dokuma tezgâhı"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "ve tükendi"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "yokluğunda"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "umut"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:36.582511927Z",
+  "model": "glm-5.3"
+}

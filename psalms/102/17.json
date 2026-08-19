@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 102,
+  "translation": "Çünkü Yahve Siyon'u inşa etti, görkeminde göründü.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inşa etti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "görkeminde"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:22.743973197Z",
+  "model": "glm-5.3"
+}

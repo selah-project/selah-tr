@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Çünkü ben, sizi Mısır ülkesinden ⟨את⟩ çıkaran, sizin için Elohim olmak üzere Yahve'yim; ve kutsal olacaksınız, çünkü ben kutsalım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "çıkaran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "להית",
+      "gloss": "olmak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ve olacaksınız"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    }
+  ],
+  "timestamp": "2026-08-19T07:24:58.292086668Z",
+  "model": "glm-5.3"
+}

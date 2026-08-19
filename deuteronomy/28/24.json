@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Yahve toprağının yağmurunu ⟨את⟩ toz ve ak toprak yapacak verecek; gökten senin üzerine inecek, yok edilene kadar.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "verecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağmurunu"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağmur"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "toprağının"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "toz"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ve ak toprak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "gökten"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "inecek"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senin üzerine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-e kadar"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "yok edilene"
+    }
+  ],
+  "timestamp": "2026-08-19T09:04:46.721272394Z",
+  "model": "glm-5.3"
+}

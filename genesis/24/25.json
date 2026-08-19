@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve ona dedi: Hem saman hem yem bizimle bolca ⟨var⟩, hem konaklamak için ⟨bir⟩ yer ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "saman"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "yem"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimle"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hem"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "konaklamak için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:37.213660236Z",
+  "model": "glm-5.3"
+}

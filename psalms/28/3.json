@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Kötülerle ⟨beni⟩ çekme, ve batıllık işleyenlerle; komşularına esenlik söyleyen, ama kalplerinde kötülük olan ⟨kimselerle⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "beni çekme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kötüler"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve ile"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işleyenleri"
+    },
+    {
+      "surface": "און",
+      "gloss": "batıllığın"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "söyleyenler"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "esenlik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "komşularına"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ve kötülük"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "kalplerinde"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:34.999140073Z",
+  "model": "glm-5.3"
+}

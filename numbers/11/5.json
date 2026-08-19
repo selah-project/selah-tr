@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Anımsıyoruz ⟨את⟩ Mısır'da bedavaya yediğimiz balığı; ⟨את⟩ hıyarları, ⟨את⟩ kavunları, ⟨את⟩ pırasaları, ⟨את⟩ soğanları ve ⟨את⟩ sarımsakları.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "anımsıyoruz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balığı"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "balığı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yiyorduk"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mısır'da"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bedavaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hıyarları"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "hıyarları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kavunları"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "kavunları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "pırasaları"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "pırasaları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "soğanları"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "soğanları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "sarımsakları"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "sarımsakları"
+    }
+  ],
+  "timestamp": "2026-08-19T07:34:57.234085081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 45,
+  "translation": "Ben Yahve'yim ve başkası yok; benim dışımda Elohim yoktur. Seni kuşattım, beni tanımadın.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yok"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "başkası"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "benim dışımda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "seni kuşattım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama değil"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "beni tanımadın"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:34.197044513Z",
+  "model": "glm-5.3"
+}

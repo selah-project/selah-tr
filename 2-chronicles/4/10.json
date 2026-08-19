@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ve ⟨את⟩ denizi sağ omuz tarafına, doğuya, güneye karşı koydu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "denizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "koydu"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "omuz tarafından"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "doğuya"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "karşısına"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "güneyin"
+    }
+  ],
+  "timestamp": "2026-08-19T12:03:01.003083293Z",
+  "model": "glm-5.3"
+}

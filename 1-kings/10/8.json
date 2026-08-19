@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Ne mutlu adamlarına, ne mutlu şu kullarına — sürekli önünde duranlar, ⟨את⟩ bilgelikğini dinleyenler!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "adamlarına"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne mutlu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kullarına"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "şu"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "duranlar"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "dinleyenler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilgelikğini"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "bilgelikğini"
+    }
+  ],
+  "timestamp": "2026-08-19T09:39:22.829125585Z",
+  "model": "glm-5.3"
+}

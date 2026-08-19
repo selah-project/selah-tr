@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 130,
+  "translation": "Yükselişlerin şarkısı. Derinliklerden sana seslendim, Yahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "şarkısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yükselişlerin"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "derinliklerden"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "sana seslendim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:17.904463609Z",
+  "model": "glm-5.3"
+}

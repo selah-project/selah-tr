@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Görkemli bir taht, baştan beri yücelerde — mabedimizin ⟨yeridir⟩ ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "taht"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "görkemli"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yücelerde"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "baştan beri"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yeri(dir)"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "mabedimizin"
+    }
+  ],
+  "timestamp": "2026-08-19T10:09:20.355563139Z",
+  "model": "glm-5.3"
+}

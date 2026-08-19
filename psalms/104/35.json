@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Günahkârlar yeryüzünden tükensin ve kötüler artık olmasın. Ruhum, Yahve'yi kutsa. Yah'ya hamt edin.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "tükensin"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahkârlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-den"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeryüzünden"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ve kötüler"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "kutsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hamt edin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah'ya"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:03.960934289Z",
+  "model": "glm-5.3"
+}

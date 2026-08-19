@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 44:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Korkmayın ve ürkmeyin; çoktan beri size duyurmadım mı ve bildirmedim mi? Sizler benim tanıklarımsınız. Benden başka Eloah var mı, ve bilmem bir Kaya yoktur.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "istemeyin"
+    },
+    {
+      "surface": "תפחדו",
+      "gloss": "korkmayın"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve istemeyin"
+    },
+    {
+      "surface": "תרהו",
+      "gloss": "ürkmeyin"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "çoktan beri"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "duyurdum"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "ve bildirdim"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ve sizler"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "benim tanıklarımsınız"
+    },
+    {
+      "surface": "היש",
+      "gloss": "var mı"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "benden başka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktur"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Kaya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmem"
+    }
+  ],
+  "timestamp": "2026-08-19T10:00:06.044818275Z",
+  "model": "glm-5.3"
+}

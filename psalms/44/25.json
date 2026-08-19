@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 44,
+  "translation": "Neden yüzünü gizliyorsun, sıkıntımızı ve ezilişimizi unutuyorsun?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "neden"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "gizliyorsun"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutuyorsun"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "sıkıntımızı"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "ve ezilişimizi"
+    }
+  ],
+  "timestamp": "2026-08-19T10:57:38.091750859Z",
+  "model": "glm-5.3"
+}

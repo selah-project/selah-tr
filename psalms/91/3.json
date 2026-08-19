@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Çünkü O seni kuşçunun tuzağından ve yıkıcı vebadan kurtarır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "seni kurtarır"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "tuzağından"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "kuşçunun"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "vebasından"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "yıkıcı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:32.542148988Z",
+  "model": "glm-5.3"
+}

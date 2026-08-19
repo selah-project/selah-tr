@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Filistliler Şaul'un ve oğullarının ardından sıkıca tutundular ve Filistliler Yonatan'ı ⟨את⟩ ve Avinadav'ı ⟨את⟩ ve Malki-Şua'yı ⟨את⟩ vurdular — Şaul'un oğulları.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "tutundular\/ardına düştüler"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistliler"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardından"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul''un"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ve ardından"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ve vurdular"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistliler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan''ı"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav''ı"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Şua''yı"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Şua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul''un"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:16.030783105Z",
+  "model": "glm-5.3"
+}

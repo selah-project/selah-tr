@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Yuşa ⟨את⟩ bütün bu toprağı aldı: dağlık bölgeyi ve ⟨את⟩ bütün Necev'i ve ⟨את⟩ bütün Goşen toprağını ve ⟨את⟩ Şefela'yı ve ⟨את⟩ Arava'yı ve ⟨את⟩ İsrail dağını ve onun Şefela'sını.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yuşa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu toprağı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağlık bölgeyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün Necev'i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Necev'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "bütün Goşen toprağını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toprağını"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goşen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Şefela'yı"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Şefela'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Arava'yı"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arava'yı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "İsrail dağını"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "ve onun Şefela'sını"
+    }
+  ],
+  "timestamp": "2026-08-19T09:10:40.185204748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 36:2",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 36,
+  "translation": "Ve Moşe, Betsalel'i, Oholyav'ı ve Yahve'nin bilgelik verdiği bilge yürekli her adamı — yüreği onu işe yaklaşmaya, onu yapmaya yükselten herkesi — çağırdı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve yanına"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "Oholyav"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve yanına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilge"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürekli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bilgelik"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "yüreğine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "herkesi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "yükseltti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yüreği onu"
+    },
+    {
+      "surface": "לקרבה",
+      "gloss": "yaklaşmaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "işe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "yapmaya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-08-19T07:21:52.258987937Z",
+  "model": "glm-5.3"
+}

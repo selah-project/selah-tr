@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "Seni yabancı kadından korusun diye; sözcükleri pürüzsüzleşmiş olan yad kadından.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "seni korusun diye"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "kadından"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "yabancı"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "yad kadından"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "sözcükleri"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "pürüzsüzleşmiş olan"
+    }
+  ],
+  "timestamp": "2026-08-19T11:18:08.065561163Z",
+  "model": "glm-5.3"
+}

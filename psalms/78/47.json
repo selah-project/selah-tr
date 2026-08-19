@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 78,
+  "translation": "Doluyle asmalarını öldürdü, ve incir ağaçlarını buzla.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "doluyle"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "asmalarını"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "ve incir ağaçlarını"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "buzla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:10.197703155Z",
+  "model": "glm-5.3"
+}

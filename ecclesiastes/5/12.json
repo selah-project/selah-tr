@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Güneşin altında gördüğüm hasta bir kötülük ⟨vardır⟩: sahibi için onun kötülüğüne saklanan servet.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨vardır⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kötülük"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüğüm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneşin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "servet"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "saklanan"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "sahibi için"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "kötülüğüne"
+    }
+  ],
+  "timestamp": "2026-08-19T11:37:43.371817646Z",
+  "model": "glm-5.3"
+}

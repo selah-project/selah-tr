@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Halkını ⟨את⟩ kurtar ve ⟨את⟩ mirasını kutsa; onları güd ve onları sonsuza dek taşı.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "kurtar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halkını"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "halkını"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ve kutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirasını"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mirasını"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "onları güd"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "onları taşı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "sonsuza"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:33.544650267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 80,
+  "translation": "Elohim Tzevaot, bizi geri çevir ve yüzünü parlat, ve kurtulacağız.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizi geri çevir"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ve parlat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yüzünü"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ve kurtulacağız"
+    }
+  ],
+  "timestamp": "2026-08-19T11:03:38.920287459Z",
+  "model": "glm-5.3"
+}

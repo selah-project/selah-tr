@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Davut o zaman sığınaktaydı ve Filistlilerin karakolu o zaman Beyt-Lehem'deydi.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sığınaktaydı"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "karakolu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlilerin"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem'de"
+    }
+  ],
+  "timestamp": "2026-08-19T11:57:34.815928398Z",
+  "model": "glm-5.3"
+}

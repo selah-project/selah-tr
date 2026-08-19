@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ancak yalnız Yahve'den ⟨את⟩ — ki O, sizi büyük güçle ve uzatılmış kol ile Mısır diyarından ⟨את⟩ çıkaran — korkacaksınız, O'na eğileceksiniz ve O'na kurban keseceksiniz; ⟨את⟩ O'ndan korkacaksınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "çıkaran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "diyarından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "güçle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ve kolla"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uzatılmış"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ O'nu",
+      "marks": "korkacaksınız (O'ndan)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "korkacaksınız"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ve O'na"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "eğileceksiniz"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ve O'na"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kurban keseceksiniz"
+    }
+  ],
+  "timestamp": "2026-08-19T09:48:39.274053395Z",
+  "model": "glm-5.3"
+}

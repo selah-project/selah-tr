@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "Ve David kâhin Ahimelek'e dedi: Kral bana bir iş buyurdu ve bana dedi: Seni gönderdiğim ⟨את⟩ o sözü ve sana buyurduğum şeyi hiçbir kimse bilmesin; ve gençleri ⟨את⟩ filânca bir yere bildirdim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Ahimelek'e"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "bana buyurdu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir iş"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiçbir kimse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...-mesin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmesin"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hiçbir şey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "seni gönderdiğim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ve şeyi"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "sana buyurduğum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gençleri"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "gençleri"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "bildirdim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'e"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yere"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "filânca"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "belirtilmemiş"
+    }
+  ],
+  "timestamp": "2026-08-19T09:26:20.476891968Z",
+  "model": "glm-5.3"
+}

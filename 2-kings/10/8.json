@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Haberci gelip ona bildirerek dedi: Kralın oğullarının başlarını getirdiler. O da dedi: Bunları sabaha kadar kapının girişine iki yığın halinde koyun.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "haberci"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "getirdiler"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başlarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "koyun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (başları)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "yığın"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinde"
+    },
+    {
+      "surface": "השער",
+      "gloss": "kapının"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sabaha"
+    }
+  ],
+  "timestamp": "2026-08-19T09:46:34.929298945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 38:8",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 38,
+  "translation": "İşte, Ахaz'ın basamaklarında güneşle geriye on basamak inen basamakların gölgesini geri çeviriyorum ⟨את⟩; ve güneş geri döndü inmiş olduğu basamaklarda on basamak.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "işte"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "geri çeviriyorum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gölge"
+    },
+    {
+      "surface": "צל",
+      "gloss": "gölge"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "basamakların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "inen"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "basamaklarında"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "בשמש",
+      "gloss": "güneşle"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "geriye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "basamak"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ve geri döndü"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "basamak"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "basamaklarda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "inmiş olduğu"
+    }
+  ],
+  "timestamp": "2026-08-19T09:58:23.353287409Z",
+  "model": "glm-5.3"
+}

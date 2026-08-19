@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 55,
+  "translation": "Koro şefine, saz eşliğinde; öğretici şiir, David'e ait.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koro şefine"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "saz eşliğinde"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "öğretici şiir"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e ait"
+    }
+  ],
+  "timestamp": "2026-08-19T10:59:16.632155832Z",
+  "model": "glm-5.3"
+}

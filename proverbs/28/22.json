@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 28,
+  "translation": "Zenginliğe telaşlanan kötü gözlü adam, yokluğun kendisine geleceğini bilmez.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "telaşlanan"
+    },
+    {
+      "surface": "להון",
+      "gloss": "zenginliğe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözlü"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... mez"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "yokluk"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "kendisine geleceğini"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:20.117403883Z",
+  "model": "glm-5.3"
+}

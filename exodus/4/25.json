@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Tsipporah bir çakmak taşı aldı ve oğlunun ⟨את⟩ sünnet derisini kesti ve onu ayaklarına değdirdi ve dedi: Çünkü bana sen bir kan damadısın.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ve aldı"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "çakmak taşı"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "ve kesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunun sünnet derisini"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "sünnet derisi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "ve değdirdi"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ayaklarına"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "damat"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:10:38.809731700Z",
+  "model": "glm-5.3"
+}

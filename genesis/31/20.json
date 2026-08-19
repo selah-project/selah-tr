@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Ve Yaakov, Aramlı Lavan'ın ⟨את⟩ kalbini çaldı — ona haber vermeden, kaçıyor olmasından ötürü.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ve çaldı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalbini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbini"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan'ın"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramlı"
+    },
+    {
+      "surface": "על",
+      "gloss": "öncesinde\/üzerine"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "-madan"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "haber ver"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kaçıyor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-08-19T08:53:57.826302214Z",
+  "model": "glm-5.3"
+}

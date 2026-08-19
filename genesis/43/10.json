@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 43,
+  "translation": "Çünkü ⟨eğer⟩ oyalanmasaydık, şimdiye kadar ⟨şimdide⟩ iki kez dönmüş olurduk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "eğer olmasaydı"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "oyalanmasaydık"
+    },
+    {
+      "surface": "כי",
+      "gloss": "şüphesiz"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "dönmüş olurduk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kez"
+    }
+  ],
+  "timestamp": "2026-08-19T07:07:42.156023524Z",
+  "model": "glm-5.3"
+}

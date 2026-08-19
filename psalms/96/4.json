@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 96,
+  "translation": "Çünkü Yahve büyüktür ve çok övülmeye layıktır; bütün ilahlardan korkulandır O.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "büyüktür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ve övülmeye layıktır"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "korkulandır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine\/üstünde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:32.393893924Z",
+  "model": "glm-5.3"
+}

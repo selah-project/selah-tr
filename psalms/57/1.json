@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 57,
+  "translation": "Ezginciye; 'Yok Etme'; David'e ait; miktam; Şaul'un yüzünden mağaraya kaçarken",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ezginciye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'Yok Etme'"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "yok et"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David'e"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "kaçarken"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mağaraya"
+    }
+  ],
+  "timestamp": "2026-08-19T11:00:05.913862722Z",
+  "model": "glm-5.3"
+}

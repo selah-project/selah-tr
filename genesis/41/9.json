@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 41,
+  "translation": "Sakiler başısı ⟨את⟩ Paroh'la konuşarak dedi: ⟨את⟩ suçlarımı bugün ben anımsıyorum.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ve konuştu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başısı"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "sakilerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh'la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suçlarımı"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "suçlarımı"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "anımsıyorum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugün"
+    }
+  ],
+  "timestamp": "2026-08-19T07:05:32.097326363Z",
+  "model": "glm-5.3"
+}

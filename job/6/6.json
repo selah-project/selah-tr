@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "Tatsız ⟨şey⟩ tuzsuz mu yenir, yumurta akında ⟨herhangi bir⟩ tat var mıdır?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "yenir"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "tatsız ⟨şey⟩"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tuzsuz"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "tuz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var mıdır"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "tat"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "yumurta akında"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "yumurta akı"
+    }
+  ],
+  "timestamp": "2026-08-19T11:25:27.491171385Z",
+  "model": "glm-5.3"
+}

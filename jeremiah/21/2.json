@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 21:2",
+  "book": "jeremiah",
+  "lang": "tr",
+  "chapter": 21,
+  "translation": "«Lütfen bizim için Yahve'ye ⟨את⟩ sor; çünkü Bavel kralı Nevuhadre'tsar bizimle savaşıyor; belki Yahve bütün şaşılası işleri gibi bizim ⟨את⟩ için yapar da bizden çekip gider.»",
+  "tokens": [
+    {
+      "surface": "דרש",
+      "gloss": "sor"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "bizim için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevuhadre'tsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "savaşıyor"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizimle"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "belki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yapar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩ bizim için",
+      "marks": "biz"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bütün … gibi"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "şaşılası işleri"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "da çekip gider"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "bizden"
+    }
+  ],
+  "timestamp": "2026-08-19T12:18:27.351462895Z",
+  "model": "glm-5.3"
+}

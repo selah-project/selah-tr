@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Ve dediler: Genç kızı çağıralım ve ⟨את⟩ ağzını soralım.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "çağıralım"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "genç kızı"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "ve soralım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzını"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ağzını"
+    }
+  ],
+  "timestamp": "2026-08-19T07:00:43.851364430Z",
+  "model": "glm-5.3"
+}

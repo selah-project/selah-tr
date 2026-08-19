@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Süresiz hatırladı antlaşmasını, bin nesle buyruk ettiği sözü.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "hatırladı"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "süresiz"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "onun antlaşması"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyruk etti"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "bine"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nesil"
+    }
+  ],
+  "timestamp": "2026-08-19T11:06:51.395068580Z",
+  "model": "glm-5.3"
+}

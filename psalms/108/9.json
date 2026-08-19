@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Benim⟨dir⟩ Gilad, benim⟨dir⟩ Menaşşe; ve Efrayim başımın sığınağı⟨dır⟩, Yehuda kanun koyucum⟨dur⟩.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "benim"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "benim"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ve Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "sığınak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "kanun koyucum"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:21.808037045Z",
+  "model": "glm-5.3"
+}

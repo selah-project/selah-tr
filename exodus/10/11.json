@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Hayır! Öyle değil; gidin şimdi, siz erkekler, ve Yahve'ye ⟨את⟩ kulluk edin; çünkü ⟨onu⟩ siz arıyorsunuz. Ve onları Paroh'nun huzurundan kovdu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayır"
+    },
+    {
+      "surface": "כן",
+      "gloss": "öyle"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gidin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "şimdi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "erkekler"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ve kulluk edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (siz)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "arıyorsunuz"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "ve kovdu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ yanından"
+    },
+    {
+      "surface": "פני",
+      "gloss": "huzurundan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh'nun"
+    }
+  ],
+  "timestamp": "2026-08-19T07:13:14.532649795Z",
+  "model": "glm-5.3"
+}

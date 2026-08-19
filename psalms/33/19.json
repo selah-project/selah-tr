@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 33,
+  "translation": "Onların canını ölümden kurtarmak, ve onları açlıkta yaşatmak için.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "kurtarmak için"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümden"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "onların canını"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "ve onları yaşatmak"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "açlıkta"
+    }
+  ],
+  "timestamp": "2026-08-19T10:56:09.064844106Z",
+  "model": "glm-5.3"
+}

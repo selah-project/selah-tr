@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "İsrail oğullarına buyruk ver, ve sana saf, dövülmüş zeytin yağı getirsinler — ışık için, sürekli yanan kandili yakmak üzere.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "buyruk ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ve getirsinler"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytin"
+    },
+    {
+      "surface": "זך",
+      "gloss": "saf"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "dövülmüş"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ışık için"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "yakmak üzere"
+    },
+    {
+      "surface": "נר",
+      "gloss": "kandili"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sürekli"
+    }
+  ],
+  "timestamp": "2026-08-19T07:30:30.294829833Z",
+  "model": "glm-5.3"
+}

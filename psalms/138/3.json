@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 138,
+  "translation": "Çağırdığım gün bana cevap verdin, canımda kuvvetle beni yüreklendirdin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırdığım"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "ve bana cevap verdin"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "beni yüreklendirdin"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "canımda"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuvvetle"
+    }
+  ],
+  "timestamp": "2026-08-19T11:13:27.069841042Z",
+  "model": "glm-5.3"
+}

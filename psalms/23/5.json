@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Düşmanlarımın karşısında önüme sofra kurarsın; başımı yağla yağlarsın; kadehim ⟨bir⟩ taşkındır.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "kurarsın (sıralarsın)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüme"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sofra"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "karşısında"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "düşmanlarım (sıkıştıranlarım)"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "yağlarsın (yağla şişmanlatırsın)"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımı"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kadehim"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "taşkın (bol dolu)"
+    }
+  ],
+  "timestamp": "2026-08-19T10:54:50.239228453Z",
+  "model": "glm-5.3"
+}

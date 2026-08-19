@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 29,
+  "translation": "Ve onların tahıl sunuları: yağla karıştırılmış ince un — boğaya üç ondalık, koça iki ondalık.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "ve onların sunusu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ince un"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "karıştırılmış"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ondalık"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "boğaya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ondalık"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "koça"
+    }
+  ],
+  "timestamp": "2026-08-19T07:41:54.920679222Z",
+  "model": "glm-5.3"
+}

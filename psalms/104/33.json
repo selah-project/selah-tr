@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 104,
+  "translation": "Yaşadığım sürece Yahve'ye söyleyeceğim, var oldukça Elohim'ime çalacağım.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "söyleyeceğim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "yaşadığım sürece"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "çalacağım"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim'ime"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "var oldukça"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:03.960502964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "İçinde kusur olan hiçbir şeyi yaklaştırmayacaksınız; çünkü sizin için hoşnutsuzluk olacaktır.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hiçbir şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun içinde"
+    },
+    {
+      "surface": "מום",
+      "gloss": "kusur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "yaklaştıracaksınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "hoşnutsuzluğa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaktır"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:29:18.497973680Z",
+  "model": "glm-5.3"
+}

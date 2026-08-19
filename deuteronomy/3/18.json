@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Ve o zamanda size ⟨את⟩ şöyle buyurdum: Yahve Elohim'iniz size ⟨את⟩ bu toprağı onu mülk edinmeniz için verdi; silah kuşanmış olarak kardeşlerinizin, Yişra'el oğullarının önünden geçin, bütün yiğit oğullar.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "buyurdum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ siz",
+      "marks": "siz"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zamanında"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şöyle diyerek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu toprağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toprağı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "onu mülk edinmek için"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "silah kuşanmış olarak"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "geçin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kardeşlerinizin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yiğit"
+    }
+  ],
+  "timestamp": "2026-08-19T08:58:50.140525687Z",
+  "model": "glm-5.3"
+}

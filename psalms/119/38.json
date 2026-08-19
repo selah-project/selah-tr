@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Kuluna sözünü ⟨ yerine getir ⟩; ⟨ bu söz ⟩ senin korkuna yöneliktir.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "yerine getir (yükle)"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kuluna"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "senin sözün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "senin korkuna"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:10.949992625Z",
+  "model": "glm-5.3"
+}

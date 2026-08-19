@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 31,
+  "translation": "Bütün şehirlerini ⟨את⟩ yerleşim yerlerinde ve bütün kale-obalarını ⟨את⟩ ateşle yaktılar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün şehirlerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "şehirlerini"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "yerleşim yerlerinde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün kale-obalarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kale-obalarını"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "yaktılar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ateşle"
+    }
+  ],
+  "timestamp": "2026-08-19T07:42:15.394530642Z",
+  "model": "glm-5.3"
+}

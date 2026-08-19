@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve Uriya'nın karısı, kocası Uriya'nın öldüğünü duydu ve kocası için yas tuttu.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ve duydu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "karısı"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya'nın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...dığını"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "kocası"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "ve yas tuttu"
+    },
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "kocası"
+    }
+  ],
+  "timestamp": "2026-08-19T09:30:35.302810951Z",
+  "model": "glm-5.3"
+}

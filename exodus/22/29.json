@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 22:29",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 22,
+  "translation": "Öylece öküzün için yap, koyunun için: yedi gün annesiyle ⟨olsun⟩; sekinci günde onu Bana vereceksin.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "öylece"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yap"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "öküzün için"
+    },
+    {
+      "surface": "לצאנך",
+      "gloss": "koyunun için"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "annesiyle"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "annesi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günde"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "sekinci"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "vereceksin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Bana"
+    }
+  ],
+  "timestamp": "2026-08-19T07:16:12.279785091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 13,
+  "translation": "İsrail adamları sıkışık durumda olduklarını gördüler, çünkü halk ezilmişti; ve halk mağaralarda, çalılıklarda, kayalıklarda, sığınaklarda ve kuyularda saklandı.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ve adamları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail'in"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördüler"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıkışık"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kendileri için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ezilmişti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "ve saklandı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halk"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "mağaralarda"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "ve çalılıklarda"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "ve kayalıklarda"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "ve sığınaklarda"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "ve kuyularda"
+    }
+  ],
+  "timestamp": "2026-08-19T09:23:23.950269985Z",
+  "model": "glm-5.3"
+}

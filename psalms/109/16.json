@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 109,
+  "translation": "Çünkü merhamet etmeyi anımsamadı, yoksul ve düşkün kişiye kalkıştı da kırık yürekliyi öldürmek için.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anımsadı"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yapmayı"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "merhamet"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ve kalkıştı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişiye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoksul"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ve düşkün"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ve kırık"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yürekliyi"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "öldürmek için"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:12.715787542Z",
+  "model": "glm-5.3"
+}

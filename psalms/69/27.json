@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 69,
+  "translation": "Çünkü senin vurduğun kişiyi kovalıyorlar, ve senin yaralılarının acısını sayıp döküyorlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "vurduğun"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "kovalıyorlar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "acı"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "senin yaralıların"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "sayıp döküyorlar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:01:19.996303146Z",
+  "model": "glm-5.3"
+}

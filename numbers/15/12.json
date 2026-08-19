@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 15,
+  "translation": "Hazırladığınız sayıya göre; her birine sayılarına göre böyle yapacaksınız",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "sayısına göre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapacağınız"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "böyle"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yapacaksınız"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "her birine"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "sayılarına göre"
+    }
+  ],
+  "timestamp": "2026-08-19T07:37:28.371328371Z",
+  "model": "glm-5.3"
+}

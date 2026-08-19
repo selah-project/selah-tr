@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "Bu yüzden her buyruğunu her bakımdan doğru saydım; her yalan yolından nefret ettim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "buyruklarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "doğru saydım"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yol"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nefret ettim"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:49.839199395Z",
+  "model": "glm-5.3"
+}

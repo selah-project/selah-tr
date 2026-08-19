@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "tr",
+  "chapter": 3,
+  "translation": "Karşılık verdiler ve Nebukadnessar krala dediler: Kral, kral, ebediyen yaşa!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "karşılık verdiler"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "Nebukadnessar'a"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "ebediyen"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yaşa"
+    }
+  ],
+  "timestamp": "2026-08-19T11:42:36.563403930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Davut Yehonatan'a dedi: «Bana kim bildirecek? Ya da baban sana sert bir şey karşılık verirse ne ⟨olacak⟩?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ya \/ -e"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirecek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "sana karşılık verecek"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baban"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sert"
+    }
+  ],
+  "timestamp": "2026-08-19T09:25:33.880557367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 46,
+  "translation": "Yahve Sevaot bizimledir; Yaakov'un Elohim'i bizim sığınağımızdır. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot (ordularının)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimledir"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "sığnağımız"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov'un"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T10:58:17.252370368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 132,
+  "translation": "Eğer evimin çadırına girersem, eğer döşeğimin yatağına çıkarsam —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "girersem"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırına"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "evimin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "çıkarım"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "yatağına"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "döşeğimin"
+    }
+  ],
+  "timestamp": "2026-08-19T11:12:54.923882530Z",
+  "model": "glm-5.3"
+}

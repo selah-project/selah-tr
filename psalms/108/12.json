@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 108,
+  "translation": "Değil mi ki Elohim ⟨bizi⟩ terk ettin ve Elohim ordularımızla ⟨beraber⟩ çıkmıyorsun?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi ki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "terk ettin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve çıkmıyorsun"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıkmıyorsun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "ordularımızla"
+    }
+  ],
+  "timestamp": "2026-08-19T11:08:21.808487677Z",
+  "model": "glm-5.3"
+}

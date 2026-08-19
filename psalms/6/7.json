@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 6,
+  "translation": "İç çekişimden tükendim; bütün gece yatağımı gözyaşlarımla yıkıyor, döşeğimi ıslatıyorum; eritirim onu ağlayarak.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "tükendim"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "iç çekişimden"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "yıkıyorum (suda)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gece"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "yatağımı"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "gözyaşlarımla"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "döşeğimi"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "eritirim"
+    }
+  ],
+  "timestamp": "2026-08-19T10:52:56.685352595Z",
+  "model": "glm-5.3"
+}

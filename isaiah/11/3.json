@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 11,
+  "translation": "Ve onu Yahve korkusu ile ferahlatacak; ve gözlerinin görduğuyle hükmetmeyecek, ve kulaklarının duyduğuyle kararı vermeyecek.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "ve onu ferahlatacak\/koklayacak"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "korkusu ile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "görünüşüne göre"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözlerinin"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "hükmedecek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "duyusuna göre"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "kulaklarının"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "karar verecek"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:38.334299967Z",
+  "model": "glm-5.3"
+}

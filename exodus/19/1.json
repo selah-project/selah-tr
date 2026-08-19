@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Üçüncü ayda, Yişrael oğullarının Mısır ülkesinden çıkışından sonra, ⟨bu⟩ gün Sina çölüne geldiler.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ayda"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "çıkışından"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael'in"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ülkesinden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mısır"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geldiler"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çölüne"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:46.324337619Z",
+  "model": "glm-5.3"
+}

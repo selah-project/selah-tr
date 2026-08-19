@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 19,
+  "translation": "Mitsvayı koruyan canını korur; yollarını hor gören ölür.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "koruyan"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "mitsvayı"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "korur"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "hor gören"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ölür"
+    }
+  ],
+  "timestamp": "2026-08-19T11:20:58.238982892Z",
+  "model": "glm-5.3"
+}

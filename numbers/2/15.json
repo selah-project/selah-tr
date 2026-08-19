@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve onun ordusu ve sayılmışları: kırk beş bin altı yüz elli.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ve onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ve sayılmışları"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ve kırk"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ve altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ve elli"
+    }
+  ],
+  "timestamp": "2026-08-19T07:32:34.414958336Z",
+  "model": "glm-5.3"
+}

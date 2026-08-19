@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 27,
+  "translation": "Ve ⟨öyle oldu⟩: Yitshak, ⟨את⟩ Yakov'u kutsamayı bitirir bitirmez — Yakov, babası Yitshak'ın yüzünden ⟨את⟩'ten henüz çıkmıştı ki — kardeşi Esav avından geldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": " olduğunda"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bitirdi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "kutsamaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakov'u"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "henüz ancak"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkmış"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıkmıştı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩'ten",
+      "marks": "babası Yitshak'ın yüzünden"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak'ın"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babası"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ve Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kardeşi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "avından"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:55.682193331Z",
+  "model": "glm-5.3"
+}

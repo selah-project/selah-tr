@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Ve Balak Bilam'a dedi: «Ne lanet et onu hiç, ne de kutsa onu hiç.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ve dedi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...a"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne ... hiç"
+    },
+    {
+      "surface": "קב",
+      "gloss": "lanet et"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "onu lanetlemeyesin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne ... hiç"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kutsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "onu kutsamayasın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:40:29.952365398Z",
+  "model": "glm-5.3"
+}

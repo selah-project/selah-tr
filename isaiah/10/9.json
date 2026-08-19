@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "tr",
+  "chapter": 10,
+  "translation": "Kalkemiş gibi Kalmu değil mi? Arpad gibi Hamat değil mi? Damaşek gibi Şomeron değil mi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "Kalkemiş gibi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalmu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "Arpad gibi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "Damaşek gibi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    }
+  ],
+  "timestamp": "2026-08-19T09:53:04.357298530Z",
+  "model": "glm-5.3"
+}

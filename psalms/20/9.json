@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 20,
+  "translation": "Onlar diz çöküp düştüler, ama biz kalktık ve dimdik ayakta duruyoruz.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "diz çöktiler"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ve düştüler"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ama biz"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "kalktık"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "ve dimdik durduk"
+    }
+  ],
+  "timestamp": "2026-08-19T10:53:56.674691817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 72,
+  "translation": "Güneşle birlikte, ayın önünde ⟨onlar⟩ senden korksunlar, kuşak kuşaklar ⟨boyunca⟩.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "senden korksunlar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ile birlikte"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "güneş"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ve önünde"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ay"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kuşak"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "kuşaklar"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:03.419450718Z",
+  "model": "glm-5.3"
+}

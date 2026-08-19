@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 24,
+  "translation": "Elleri temiz ⟨olan⟩, yüreği ⟨olan⟩ pak, ki canını.boşluğa yükseltmedi ve hileye yemin etmedi.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "temiz ⟨olan⟩"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "elleri"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ve pak"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yüreği"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmedi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yükseltmedi"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "boşluğa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canını"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve etmedi"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yemin"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "hileye"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:03.985878917Z",
+  "model": "glm-5.3"
+}

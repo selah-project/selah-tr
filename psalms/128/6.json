@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 128,
+  "translation": "Ve oğullarının oğullarını gör. İsrail üzerine ⟨olsun⟩ şalom!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ve gör"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-08-19T11:10:42.693016820Z",
+  "model": "glm-5.3"
+}

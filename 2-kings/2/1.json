@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "tr",
+  "chapter": 2,
+  "translation": "Ve oldu: Yahve, Eliyahu'yu kasırgayla göklere yükselttiğinde, Eliyahu ve Elişa Gilgal'dan yürüdüler.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "yükselttiğinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu'yu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "kasırgayla"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göklere"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ve yürüdü"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "ve Elişa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal'dan"
+    }
+  ],
+  "timestamp": "2026-08-19T09:44:42.254828017Z",
+  "model": "glm-5.3"
+}

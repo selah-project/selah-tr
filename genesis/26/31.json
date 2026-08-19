@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Ve sabah erken kalktılar ve birbirlerine yemin ettiler, ve Yitshak onları uğurladı ve ⟨את⟩ yanından esenlikle gittiler.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ve erken kalktılar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ve yemin ettiler"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her biri"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kardeşine"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ve onları uğurladı"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ve gittiler"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ yanından",
+      "marks": "yanından (מאתו = מ + את + ו, ayrılma ekiyle את)"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "esenlikle"
+    }
+  ],
+  "timestamp": "2026-08-19T07:01:24.738810159Z",
+  "model": "glm-5.3"
+}

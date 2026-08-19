@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "tr",
+  "chapter": 5,
+  "translation": "Çünkü rüya çok meşguliyetle gelir, ve ahmağın sesi çok sözle ⟨gelir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelir"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "rüya"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çokluğuyla"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "meşguliyet"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ve sesi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahmağın"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çokluğuyla"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "söz"
+    }
+  ],
+  "timestamp": "2026-08-19T11:38:31.948656021Z",
+  "model": "glm-5.3"
+}

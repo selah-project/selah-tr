@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 4:10",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 4,
+  "translation": "Ya'bets İsrail'in Elohim'ine seslenerek dedi: \"Keşke beni gerçekten kutsasan ve sınırımı genişletsen, elin benimle olsun ve kötülükten koruyasan ki kederlenmeyeyim!\" Ve Elohim onun istediğini ⟨את⟩ verdi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve seslendi"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Ya'bets"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim'inin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyip"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eğer"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kutsasan"
+    },
+    {
+      "surface": "תברכני",
+      "gloss": "beni kutsarsan"
+    },
+    {
+      "surface": "והרבית",
+      "gloss": "ve genişletsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sınırımı"
+    },
+    {
+      "surface": "גבולי",
+      "gloss": "sınırımı"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ve olsun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "elin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "benimle"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ve yapsan"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "kötülükten"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "-memek için"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "kederlenmeyeyim"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ve getirdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istiği"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "istedi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:53:54.182162763Z",
+  "model": "glm-5.3"
+}

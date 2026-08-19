@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 91,
+  "translation": "Çünkü sen, Yahve'dir ⟨⟨sığınağım⟩⟩, Eyüce'dir konutunu kılan ⟨sen⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eyüce"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "kılan"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "konutunu"
+    }
+  ],
+  "timestamp": "2026-08-19T11:05:21.098263864Z",
+  "model": "glm-5.3"
+}

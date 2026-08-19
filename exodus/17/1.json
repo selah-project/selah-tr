@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 17:1",
+  "book": "exodus",
+  "lang": "tr",
+  "chapter": 17,
+  "translation": "Ve Yisrael oğullarının bütün cemaati, Yahve'nin ağzına göre, yolculuklarına göre Sin çölünden yola çıktı ve Refidim'de konakladılar; halkın içecek suyu yoktu.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "yola çıktılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "cemaati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "çölünden"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "yolculuklarına göre"
+    },
+    {
+      "surface": "על",
+      "gloss": "göre"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ve konakladılar"
+    },
+    {
+      "surface": "ברפידים",
+      "gloss": "Refidim'de"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ve yoktu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "içmek için"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkın"
+    }
+  ],
+  "timestamp": "2026-08-19T07:14:46.929936346Z",
+  "model": "glm-5.3"
+}

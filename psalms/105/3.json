@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 105,
+  "translation": "Kutsal adında övünün, Yahve'yi arayanların kalbi ⟨sevinçle⟩ parlasın.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "övünün"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adında"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "parlasın\/sevinç"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arayanların"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'yi"
+    }
+  ],
+  "timestamp": "2026-08-19T11:07:16.829168686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "tr",
+  "chapter": 7,
+  "translation": "İşte ⟨o⟩ gün, işte geldi; şafak çıktı; değnek çiçek açtı, kibir tomurlandı.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨o⟩ gün"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "işte"
+    },
+    {
+      "surface": "באה",
+      "gloss": "geldi"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "çıktı"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "şafak"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "çiçek açtı"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "değnek"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "tomurlandı"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "kibir"
+    }
+  ],
+  "timestamp": "2026-08-19T10:24:27.115960852Z",
+  "model": "glm-5.3"
+}

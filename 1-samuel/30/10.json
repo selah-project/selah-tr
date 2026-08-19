@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "tr",
+  "chapter": 30,
+  "translation": "Ve Davud kovaladı, o ve dört yüz adam; ve iki yüz adam durdular ki bitkin düşmüşlerdi, ⟨את⟩ Besor vadisini geçmekten ötürü.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "kovaladı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ve dört"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ve durdular"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "iki yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "bitkin düştüler"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "geçmekten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Besor vadisi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "vadi"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-08-19T09:28:09.248385721Z",
+  "model": "glm-5.3"
+}

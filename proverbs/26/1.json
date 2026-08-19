@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "tr",
+  "chapter": 26,
+  "translation": "Karde yağdığı gibi kar, hasatta yağdığı gibi yağmur — böylece \/ o \/ yakışmaz \/ ahmağa \/ onur",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "kar gibi"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "yazın"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "ve yağmur gibi"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "hasatta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "böylece"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yakışır"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ahmağa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "onur"
+    }
+  ],
+  "timestamp": "2026-08-19T11:23:04.536646267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "tr",
+  "chapter": 18,
+  "translation": "En kutsal yerde onu yiyeceksin; her erkek onu yiyebilir ⟨את⟩; kutsal ⟨olacak⟩ senin için.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "en kutsal yerde"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kutsallar"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "onu yiyeceksin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkek"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yiyecek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (kutsal şeyi)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senin için"
+    }
+  ],
+  "timestamp": "2026-08-19T07:38:23.391871691Z",
+  "model": "glm-5.3"
+}

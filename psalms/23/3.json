@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 23,
+  "translation": "Canımı geri çevirir, adı uğruna beni adalet patikalarında yönlendirir.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "geri çevirir"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "beni yönlendirir"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "patikalarında"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalet"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğruna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    }
+  ],
+  "timestamp": "2026-08-19T10:55:06.480927564Z",
+  "model": "glm-5.3"
+}

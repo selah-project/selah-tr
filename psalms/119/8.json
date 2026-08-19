@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 119,
+  "translation": "⟨את⟩ kurallarını koruyacağım; beni bütünüyle terk etme!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurallarını"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kurallarını"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "koruyacağım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me (olumsuz emir)"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "beni terk et"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sonuna kadar \/ bütünüyle"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çok, aşırı derecede"
+    }
+  ],
+  "timestamp": "2026-08-19T11:09:05.580713175Z",
+  "model": "glm-5.3"
+}

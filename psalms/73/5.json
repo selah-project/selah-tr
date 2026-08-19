@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "tr",
+  "chapter": 73,
+  "translation": "Ölümlülerin sıkıntısında onlar yoktur; insanlarla birlikte onlar ezilmezler.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "sıkıntısında"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlülerin"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "onlar yoktur"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ve insanlarla birlikte"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ezilmezler"
+    }
+  ],
+  "timestamp": "2026-08-19T11:02:20.862782262Z",
+  "model": "glm-5.3"
+}

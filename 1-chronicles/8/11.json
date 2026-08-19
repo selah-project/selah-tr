@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "tr",
+  "chapter": 8,
+  "translation": "Ve Huşim'den ⟨את⟩ Avituv'u ve ⟨את⟩ Elpa'al'ı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ve Huşim'den"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituv'u"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "Elpa'al'ı"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    }
+  ],
+  "timestamp": "2026-08-19T11:56:32.190383931Z",
+  "model": "glm-5.3"
+}
