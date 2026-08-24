@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Ve eğer ⟨⟨the⟩⟩ boğa dünden önceki günden beri sürekli toslayan bir boğaysa ve sahibine haber verilmiş olmasına rağmen onu gözetmemişse ve bir erkek ya da bir kadın öldürmüşse, boğa taşlanacak ve sahibi de öldürülecek.",
+  "translation": "Ve eğer öküz dönek bir boynuzlayıcıdır dünden ve evvelsi günden beri, sahibine bildirilmiş olmasına rağmen onu korumamışsa ve bir erkek veya kadın öldürmüşse, öküz taşlanacak ve sahibi de öldürülecek.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "שור",
-      "gloss": "boğa"
+      "gloss": "öküz"
     },
     {
       "surface": "נגח",
-      "gloss": "toslayanın"
+      "gloss": "boynuzlayıcı"
     },
     {
       "surface": "הוא",
-      "gloss": "o"
+      "gloss": "o(dur)"
     },
     {
       "surface": "מתמל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "שלשם",
-      "gloss": "önceki günlerden"
+      "gloss": "evvelsi günden"
     },
     {
       "surface": "והועד",
-      "gloss": "ve haber verilmişse"
+      "gloss": "ve bildirilmişti"
     },
     {
       "surface": "בבעליו",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve ... değil"
+      "gloss": "ve olmadığı halde"
     },
     {
       "surface": "ישמרנו",
-      "gloss": "onu gözetmiş"
+      "gloss": "onu korudu"
     },
     {
       "surface": "והמית",
-      "gloss": "ve öldürmüşse"
+      "gloss": "ve öldürdü"
     },
     {
       "surface": "איש",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "או",
-      "gloss": "ya da"
+      "gloss": "veya"
     },
     {
       "surface": "אשה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "השור",
-      "gloss": "boğa"
+      "gloss": "öküz"
     },
     {
       "surface": "יסקל",
@@ -84,6 +84,6 @@
       "gloss": "öldürülecek"
     }
   ],
-  "timestamp": "2026-08-19T07:16:09.671873077Z",
+  "timestamp": "2026-08-24T16:59:59.405277775Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 30,
-  "translation": "Yargıcın ⟨⟨yok⟩⟩ ⟨⟨senin⟩⟩ yaran için sargı ⟨⟨yapacak⟩⟩; iyileştirici ilaçlar sana ⟨⟨yok⟩⟩.",
+  "translation": "Yarandan yargılanacak ⟨dava⟩ yok, yaran için sargı iyileştirmesi yok, sana ⟨çare⟩ yok.",
   "tokens": [
     {
       "surface": "אין",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "דן",
-      "gloss": "yargıç"
+      "gloss": "yargılar"
     },
     {
       "surface": "דינך",
-      "gloss": "senin davayı"
+      "gloss": "davan"
     },
     {
       "surface": "למזור",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "רפאות",
-      "gloss": "iyileştirici ilaçlar"
+      "gloss": "iyileştirme"
     },
     {
       "surface": "תעלה",
@@ -40,6 +40,6 @@
       "gloss": "sana"
     }
   ],
-  "timestamp": "2026-08-19T10:13:05.513260175Z",
+  "timestamp": "2026-08-24T17:07:42.926901136Z",
   "model": "glm-5.3"
 }

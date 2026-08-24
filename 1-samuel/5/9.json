@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ve ⟨אתו⟩ çevirdikten sonra Yahve'nin eli şehirde çok büyük bir karışıklık oldu ve şehrin adamlarını küçükten büyüğe kadar vurdu ve üzerlerine urlar çıkardılar.",
+  "translation": "Ve onu ⟨את⟩ dolaştırdıktan sonra Yahve'nin eli ⟨o⟩ şehirde çok büyük bir karışıklık oldu ve şehrin adamlarını ⟨את⟩ küçükten büyüğe kadar vurdu ve üzerlerinde ödemler (tümörler) patlak verdi.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "הסבו",
-      "gloss": "çevirdiler"
+      "gloss": "onu dolaştırdılar"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "onu (sandık)"
+      "marks": "onu (sandığı)"
     },
     {
       "surface": "ותהי",
@@ -79,21 +79,21 @@
     },
     {
       "surface": "גדול",
-      "gloss": "büyük"
+      "gloss": "büyüğe"
     },
     {
       "surface": "וישתרו",
-      "gloss": "ve çıktılar"
+      "gloss": "ve patlak verdiler"
     },
     {
       "surface": "להם",
-      "gloss": "onlara"
+      "gloss": "onlarda"
     },
     {
       "surface": "עפלים",
-      "gloss": "urlar"
+      "gloss": "tümörler (ödemler)"
     }
   ],
-  "timestamp": "2026-08-19T09:21:35.558979964Z",
+  "timestamp": "2026-08-24T17:03:59.142642674Z",
   "model": "glm-5.3"
 }

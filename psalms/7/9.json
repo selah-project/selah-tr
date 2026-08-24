@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Yahve halkları yargılayacak; beni yargıla, Yahve, benim doğruluğuma göre ve benim bütünlüğüme göre, ⟨⟨bende⟩⟩ olan ⟨את⟩.",
+  "translation": "Yahve halkları yargılayacak; beni yargıla, Yahve, benim doğruluğuma göre ve bende olan bütünlüğüme göre.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "כצדקי",
-      "gloss": "benim doğruluğuma göre"
+      "gloss": "doğruluğuma göre"
     },
     {
       "surface": "וכתמי",
-      "gloss": "ve benim bütünlüğüme göre"
+      "gloss": "ve bütünlüğüme göre"
     },
     {
       "surface": "עלי",
-      "gloss": "üzerimde \/ bende"
+      "gloss": "bende olan"
     }
   ],
-  "timestamp": "2026-08-19T10:52:56.443006514Z",
+  "timestamp": "2026-08-24T17:10:38.672657467Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,57 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Breach'lere — çatlaklara — çıkmadınız ve Beyt Yisra'el için set çekmediniz, savaş gününde, Yahve'nin gününde durmak için.",
-  "tokens": [],
-  "timestamp": "2026-08-19T10:25:39.699264419Z",
+  "translation": "Yarıklara çıkmadınız ve Beyt Yisrael için duvar örüp gedikleri kapatmadınız; Yahve'nin gününde savaşta durmak için.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "çıktınız"
+    },
+    {
+      "surface": "בפרצות",
+      "gloss": "yıarıklara"
+    },
+    {
+      "surface": "ותגדרו",
+      "gloss": "ve duvar ördünüz"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "duvar"
+    },
+    {
+      "surface": "על",
+      "gloss": "için"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "durmak için"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "savaşta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gününde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-24T17:08:05.080425082Z",
   "model": "glm-5.3"
 }

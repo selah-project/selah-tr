@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve şimdi kalk, çık ve kullarının yüreğine ⟨שöyle⟩ söyle; çünkü Yahve'ye yemin ederim: çıkarsan ⟨bile⟩ bu gece seninle birlikte ⟨את⟩ bir kişi kalmaz; ve bu, gençliğinden şimdiye kadar üzerine gelen bütün kötülükten daha kötü olacak sana.",
+  "translation": "Ve şimdi kalk, çık ve kullarının yüreğine söyle, çünkü Yahve'ye yemin ettim: eğer dışarı çıkmazsan, bu gece seninle birlikte ⟨את⟩ hiçbir kimse kalmayacak; ve bu, gençliğinden şimdiye kadar üzerine gelmiş bütün kötülükten daha kötü olacak sana.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לב",
-      "gloss": "yüreğine"
+      "gloss": "yürek"
     },
     {
       "surface": "עבדיך",
-      "gloss": "kullarının"
+      "gloss": "kulların"
     },
     {
       "surface": "כי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "yemin ederim"
+      "gloss": "yemin ettim"
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "çünkü"
     },
     {
       "surface": "אינך",
@@ -65,16 +65,16 @@
     },
     {
       "surface": "ילין",
-      "gloss": "kalır"
+      "gloss": "geceleyecek"
     },
     {
       "surface": "איש",
-      "gloss": "bir kişi"
+      "gloss": "hiçbir kimse"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ seninle birlikte",
-      "marks": "seninle birlikte"
+      "marks": "hiçbir kimse"
     },
     {
       "surface": "הלילה",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ורעה",
-      "gloss": "ve kötülük"
+      "gloss": "ve daha kötü"
     },
     {
       "surface": "לך",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "bütününden"
+      "gloss": "bütün... den"
     },
     {
       "surface": "הרעה",
-      "gloss": "kötülüğün"
+      "gloss": "kötülük"
     },
     {
       "surface": "אשר",
@@ -125,6 +125,6 @@
       "gloss": "şimdiye"
     }
   ],
-  "timestamp": "2026-08-19T09:34:23.469561034Z",
+  "timestamp": "2026-08-24T17:04:42.851417097Z",
   "model": "glm-5.3"
 }

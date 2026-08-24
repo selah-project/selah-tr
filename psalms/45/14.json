@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 45,
-  "translation": "Kral kızı içeride tümüyle görkemedir ⟨⟨⟩⟩; giysisi altınla işlenmiş dokumadandır.",
+  "translation": "Kralın kızı içerde ⟨tamamen⟩ görkamlidir; giysisi altın işlemeli (süslü) kumaştan ⟨giyilmiştir⟩.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "tümüyle"
+      "gloss": "tamamen"
     },
     {
       "surface": "כבודה",
-      "gloss": "görkemli(dir)"
+      "gloss": "görkamlidir"
     },
     {
       "surface": "בת",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kral"
+      "gloss": "kralın"
     },
     {
       "surface": "פנימה",
-      "gloss": "içeride"
+      "gloss": "icerde"
     },
     {
       "surface": "ממשבצות",
-      "gloss": "işlenmiş dokumalardan"
+      "gloss": "işlemeli (süslü) kumaştan"
     },
     {
       "surface": "זהב",
@@ -40,6 +40,6 @@
       "gloss": "giysisi"
     }
   ],
-  "timestamp": "2026-08-19T10:58:03.187680305Z",
+  "timestamp": "2026-08-24T17:11:22.240183793Z",
   "model": "glm-5.3"
 }

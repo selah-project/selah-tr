@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve David, babamın kalbinde, Yahve'yi, İsrail'in Elohim'i'ni ⟨⟨adına⟩⟩ bir ev yapmak ⟨oldu⟩.",
+  "translation": "Ve David'in, babamın, kalbinde Yahve'nin, İsrail'in Elohim'i'nin adına bir ev inşa etmek ⟨vardı⟩.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "לבב",
-      "gloss": "kalb"
+      "gloss": "kalbinde"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "David'in"
     },
     {
       "surface": "אבי",
-      "gloss": "babam"
+      "gloss": "babamın"
     },
     {
       "surface": "לבנות",
-      "gloss": "yapmak için"
+      "gloss": "inşa etmek"
     },
     {
       "surface": "בית",
-      "gloss": "ev"
+      "gloss": "bir ev"
     },
     {
       "surface": "לשם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahve'nin"
     },
     {
       "surface": "אלהי",
@@ -52,6 +52,6 @@
       "gloss": "İsrail'in"
     }
   ],
-  "timestamp": "2026-08-19T09:38:28.929007077Z",
+  "timestamp": "2026-08-24T17:05:06.773989881Z",
   "model": "glm-5.3"
 }

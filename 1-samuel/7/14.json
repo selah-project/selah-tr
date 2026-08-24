@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve Filistlilerin İsrail'den aldıkları şehirler İsrail'e geri döndü, Ekron'dan Gat'a kadar; ve sınırlarını İsrail Filistlilerin elinden kurtardı. Ve İsrail ile ⟨ה⟩Emorlular arasında ⟨oldu⟩ şalom.",
+  "translation": "Ve Peliştilerin Yişrael'den aldıkları kentler Yişrael'e geri döndü, Ekron'dan Gat'a kadar; ve ⟨את⟩ sınırlarını Yişrael Peliştiler'in elinden kurtardı; ve Yişrael ile ⟨ה⟩Emorî arasında ⟨oldu⟩ barış.",
   "tokens": [
     {
       "surface": "ותשבנה",
-      "gloss": "geri döndü"
+      "gloss": "ve geri döndü"
     },
     {
       "surface": "הערים",
-      "gloss": "şehirler"
+      "gloss": "⟨o⟩ kentler"
     },
     {
       "surface": "אשר",
@@ -25,19 +25,20 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistlilerin"
+      "gloss": "Peliştiler"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ işaretli: İsrail'den"
+      "gloss": "⟨את⟩",
+      "marks": "Yişrael'den"
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail'den"
+      "gloss": "Yişrael"
     },
     {
       "surface": "לישראל",
-      "gloss": "İsrail'e"
+      "gloss": "Yişrael'e"
     },
     {
       "surface": "מעקרון",
@@ -49,16 +50,16 @@
     },
     {
       "surface": "גת",
-      "gloss": "Gat'a"
+      "gloss": "Gat"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ve ⟨את⟩",
       "marks": "sınırlarını"
     },
     {
       "surface": "גבולן",
-      "gloss": "sınırlarını"
+      "gloss": "onların sınırları"
     },
     {
       "surface": "הציל",
@@ -66,7 +67,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail"
+      "gloss": "Yişrael"
     },
     {
       "surface": "מיד",
@@ -74,7 +75,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistlilerin"
+      "gloss": "Peliştiler'in"
     },
     {
       "surface": "ויהי",
@@ -82,7 +83,7 @@
     },
     {
       "surface": "שלום",
-      "gloss": "şalom"
+      "gloss": "barış"
     },
     {
       "surface": "בין",
@@ -90,17 +91,17 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail"
+      "gloss": "Yişrael"
     },
     {
       "surface": "ובין",
-      "gloss": "ile ... arasında"
+      "gloss": "ve arasında"
     },
     {
       "surface": "האמרי",
-      "gloss": "Emorlular"
+      "gloss": "Emorî"
     }
   ],
-  "timestamp": "2026-08-19T09:22:09.453804049Z",
+  "timestamp": "2026-08-24T17:03:57.560177493Z",
   "model": "glm-5.3"
 }

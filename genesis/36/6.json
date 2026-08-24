@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 36,
-  "translation": "Ve Esav ⟨את⟩ karılarını, ⟨את⟩ oğullarını ve ⟨את⟩ kızlarını, evinin bütün ⟨נפש⟩ canlılarını, ⟨את⟩ sürülerini, ⟨את⟩ bütün hayvanlarını ve Kenaan ülkesinde edindiği ⟨את⟩ bütün malını aldı; ve kardeşi Yaakov'un yüzünden başka bir ülkeye gitti.",
+  "translation": "Ve Esav ⟨את⟩ kadınlarını, ⟨את⟩ oğullarını ve ⟨את⟩ kızlarını, ⟨את⟩ evinin bütün canlı kişilerini, ⟨את⟩ sürülerini, ⟨את⟩ bütün hayvanlarını ve Kenaan ülkesinde edindiği ⟨את⟩ bütün malını aldı; ve kardeşi Yaakov'un yüzünden bir ülkeye gitti.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ve aldı"
+      "gloss": "ve aldı"
     },
     {
       "surface": "עשו",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karılarını"
+      "marks": "kadınlarını"
     },
     {
       "surface": "נשיו",
-      "gloss": "karılarını"
+      "gloss": "kadınlarını"
     },
     {
       "surface": "ואת",
@@ -45,7 +45,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "bütün canlılarını"
+      "marks": "bütün canlı kişilerini"
     },
     {
       "surface": "כל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "נפשות",
-      "gloss": "canlılarını (nefeşler)"
+      "gloss": "canlı kişileri"
     },
     {
       "surface": "ביתו",
@@ -62,11 +62,11 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "sürülerini"
+      "marks": "sürüllerini"
     },
     {
       "surface": "מקנהו",
-      "gloss": "sürülerini"
+      "gloss": "sürüllerini"
     },
     {
       "surface": "ואת",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "רכש",
-      "gloss": "edinmişti"
+      "gloss": "edindiği"
     },
     {
       "surface": "בארץ",
@@ -128,13 +128,13 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov'un"
+      "gloss": "Yaakov"
     },
     {
       "surface": "אחיו",
       "gloss": "kardeşi"
     }
   ],
-  "timestamp": "2026-08-19T07:05:00.887575720Z",
+  "timestamp": "2026-08-24T16:59:27.849197756Z",
   "model": "glm-5.3"
 }

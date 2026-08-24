@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Çünkü Yahve doğruların ⟨⟨yolunu⟩⟩ tanır, kötülerin ⟨yolu⟩ ise yok olacaktır.",
+  "translation": "Çünkü Yahve doğruların yolunu bilir, ama kötülerin yolu ⟨kaybolup⟩ gidecek.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יודע",
-      "gloss": "tanır"
+      "gloss": "bilir"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "yolu"
+      "gloss": "yolunu"
     },
     {
       "surface": "צדיקים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ודרך",
-      "gloss": "ve ⟨yolu⟩"
+      "gloss": "ve yolunu"
     },
     {
       "surface": "רשעים",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "תאבד",
-      "gloss": "yok olacaktır"
+      "gloss": "yok olacak"
     }
   ],
-  "timestamp": "2026-08-19T10:50:46.930022504Z",
+  "timestamp": "2026-08-24T17:10:31.005201788Z",
   "model": "glm-5.3"
 }

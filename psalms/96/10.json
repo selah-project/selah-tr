@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 96,
-  "translation": "Uluslar arasında söyleyin: \"Yahve hüküm sürüyor.\" Evet, ⟨⟨the⟩⟩ dünya kurulmuştur, sarsılmayacaktır; ⟨O⟩ halkları doğrulukla yargılayacak.",
+  "translation": "Uluslar arasında deyin: 'Yahve hüküm sürdü!' Evet, ⟨dünya⟩ kurulmuştur, sarsılmayacaktır; halkları dosdoğru yargılayacak.",
   "tokens": [
     {
       "surface": "אמרו",
-      "gloss": "söyleyin"
+      "gloss": "deyin"
     },
     {
       "surface": "בגוים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "hüküm sürüyor"
+      "gloss": "hüküm sürdü"
     },
     {
       "surface": "אף",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בל",
-      "gloss": "sarsılmayacaktır-değil"
+      "gloss": "asla"
     },
     {
       "surface": "תמוט",
-      "gloss": "sarsılmayacak"
+      "gloss": "sarsılmayacaktır"
     },
     {
       "surface": "ידין",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "במישרים",
-      "gloss": "doğrulukla"
+      "gloss": "dosdoğru"
     }
   ],
-  "timestamp": "2026-08-19T11:06:33.874194481Z",
+  "timestamp": "2026-08-24T17:12:03.671495638Z",
   "model": "glm-5.3"
 }

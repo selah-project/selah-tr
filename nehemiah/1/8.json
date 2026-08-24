@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Anımsa, ne dir, ⟨את⟩ sözü, ki Moşe'ye, kuluna, buyurdun, şöyle diyerek: Siz sadakatsizlik ederseniz, Ben sizi ⟨את⟩ ⟨אתכם⟩ halkların arasına savuracağım",
+  "translation": "Anımsa, lütfen, kulun Moşe'ye şöyle diyerek buyurduğun ⟨את⟩ sözü: 'Siz hainlik ederseniz, ben sizi halklar arasında dağıtırım.'",
   "tokens": [
     {
       "surface": "זכר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "ne dir"
+      "gloss": "lütfen"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "צוית",
-      "gloss": "buyurdun"
+      "gloss": "buyurduğun"
     },
     {
       "surface": "את",
@@ -43,38 +43,38 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "kuluna"
+      "gloss": "kulun"
     },
     {
       "surface": "לאמר",
-      "gloss": "şöyle diyerek"
+      "gloss": "diyerek"
     },
     {
       "surface": "אתם",
-      "gloss": "Siz"
+      "gloss": "siz"
     },
     {
       "surface": "תמעלו",
-      "gloss": "sadakatsizlik ederseniz"
+      "gloss": "hainlik ederseniz"
     },
     {
       "surface": "אני",
-      "gloss": "Ben"
+      "gloss": "ben"
     },
     {
       "surface": "אפיץ",
-      "gloss": "savuracağım"
+      "gloss": "dağıtırım"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ sizi",
       "marks": "sizi"
     },
     {
       "surface": "בעמים",
-      "gloss": "halkların arasına"
+      "gloss": "halklar arasında"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.038302280Z",
+  "timestamp": "2026-08-24T17:15:33.766101494Z",
   "model": "glm-5.3"
 }

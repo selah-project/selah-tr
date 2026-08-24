@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Yahve, Adonay'ımız, adın bütün ⟨⟨the⟩⟩ yeryüzünde ne kadar yücedir! ⟨⟨Sen⟩⟩ görkemini göklerin üzerine koydun.",
+  "translation": "Yahve, Adonay'ımız, adın bütün yeryüzünde ne kadar yücedir! ⟨אשר⟩ görkemini göklerin üzerine koymuşsun.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אדיר",
-      "gloss": "yüce"
+      "gloss": "yücedir"
     },
     {
       "surface": "שמך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "⟨אשר⟩"
     },
     {
       "surface": "תנה",
-      "gloss": "koydun"
+      "gloss": "koymuşsun"
     },
     {
       "surface": "הודך",
@@ -56,6 +56,6 @@
       "gloss": "göklerin"
     }
   ],
-  "timestamp": "2026-08-19T10:53:13.706207943Z",
+  "timestamp": "2026-08-24T17:10:32.214441498Z",
   "model": "glm-5.3"
 }

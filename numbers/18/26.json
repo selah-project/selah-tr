@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve Levililere konuşacaksın ve onlara diyeceksin: Beni-Yisrael'in çocuklarından ⟨את⟩ onlarından size miras olarak verdiğim ⟨את⟩ ondalığı aldığınızda, ondan Yahve'nin terumasını — ondalığın ondalığını — yükselteceksiniz.",
+  "translation": "Ve Levililer'e konuşacak ve onlara söyleyeceksin: Beni İsrail'den ⟨את⟩ onları miras olarak size verdiğim ondalığı aldığınızda, ondan Yahve'ye bir teruma olarak ondalığın ondalığını yükselteceksiniz.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "ve -e"
+      "gloss": "ve ... -e"
     },
     {
       "surface": "הלוים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "ve diyeceksin"
+      "gloss": "ve söyleyeceksin"
     },
     {
       "surface": "אלהם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "olduğunda"
+      "gloss": "-dığında"
     },
     {
       "surface": "תקחו",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "Beni-Yisrael'in çocukları"
+      "gloss": "⟨את⟩'ten",
+      "marks": "Beni İsrail'den"
     },
     {
       "surface": "בני",
-      "gloss": "çocukları"
+      "gloss": "oğulları"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "İsrail"
     },
     {
       "surface": "את",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "המעשר",
-      "gloss": "ondalık"
+      "gloss": "ondalığı"
     },
     {
       "surface": "אשר",
@@ -71,8 +71,8 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ onlardan",
-      "marks": "onlar"
+      "gloss": "⟨את⟩'lerden",
+      "marks": "onlardan"
     },
     {
       "surface": "בנחלתכם",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'nin"
+      "gloss": "Yahve"
     },
     {
       "surface": "מעשר",
@@ -100,13 +100,13 @@
     },
     {
       "surface": "מן",
-      "gloss": "of"
+      "gloss": "-nın"
     },
     {
       "surface": "המעשר",
-      "gloss": "ondalığın"
+      "gloss": "ondalığı"
     }
   ],
-  "timestamp": "2026-08-19T08:56:49.522644350Z",
+  "timestamp": "2026-08-24T17:01:53.474231824Z",
   "model": "glm-5.3"
 }

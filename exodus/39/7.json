@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 39,
-  "translation": "Ve ⟨את⟩ ⟨אתם⟩ onları efodun omuzlukları üzerine koydu — Yisrael oğulları için anı taşları olarak — Yahve'nin Moşe'ye buyurduğu gibi.",
+  "translation": "Ve ⟨את⟩ onları efodun omuzlarına koydu — Yişrael oğulları için anı taşları olarak — Yahve'nin Moşe'ye emrettiği gibi ⟨את⟩.",
   "tokens": [
     {
       "surface": "וישם",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "onları (taşları)"
+      "gloss": "⟨את⟩ onları",
+      "marks": "taşlar"
     },
     {
       "surface": "על",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "כתפת",
-      "gloss": "omuzluklarına"
+      "gloss": "omuzlarına"
     },
     {
       "surface": "האפד",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "לבני",
-      "gloss": "için oğulları"
+      "gloss": "oğulları için"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yişrael"
     },
     {
       "surface": "כאשר",
-      "gloss": "gibi"
+      "gloss": "nasıl ki"
     },
     {
       "surface": "צוה",
-      "gloss": "buyurduğu"
+      "gloss": "emretti"
     },
     {
       "surface": "יהוה",
@@ -66,6 +66,6 @@
       "gloss": "Moşe"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.023285054Z",
+  "timestamp": "2026-08-24T17:00:22.839106488Z",
   "model": "glm-5.3"
 }

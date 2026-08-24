@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve İsrail oğullarının sayısı denizin kumu gibi olacak — ölçülemeyen ve sayılamayan; ve onlara 'Siz benim halkım değilsiniz' denilen yerde, onlara 'yaşayan ⟨אל⟩'in oğulları' denecek.",
+  "translation": "Ve İsrail oğullarının sayısı denizin kumu gibi olacak — ölçülemeyen ve sayılamayan; ve ⟨onlara⟩ 'Siz benim halkım değilsiniz' denilen yerde, ⟨onlara⟩ 'Yaşayan El'in oğulları' denecek.",
   "tokens": [
     {
       "surface": "והיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail'in"
+      "gloss": "İsrail"
     },
     {
       "surface": "כחול",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ימד",
-      "gloss": "ölçülebilir"
+      "gloss": "ölçülemeyen"
     },
     {
       "surface": "ולא",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יספר",
-      "gloss": "sayılabilir"
+      "gloss": "sayılamayan"
     },
     {
       "surface": "והיה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "halkım"
+      "gloss": "benim halkım"
     },
     {
       "surface": "אתם",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩'in"
+      "gloss": "El'in"
     },
     {
       "surface": "חי",
       "gloss": "yaşayan"
     }
   ],
-  "timestamp": "2026-08-19T10:39:09.102109070Z",
+  "timestamp": "2026-08-24T17:09:50.943709733Z",
   "model": "glm-5.3"
 }

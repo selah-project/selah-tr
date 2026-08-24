@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve Ester ⟨the⟩ kraliçe, Avihayil'in kızı, ve Mordehay ⟨the⟩ Yahudi, ⟨את⟩ tüm gücü yazdı — bu ikinci Purim mektubunu doğrulamak için.",
+  "translation": "Ve Ester kraliçe, Avihayil'in kızı, ve Mordehay Yahudi, ⟨את⟩ bütün gücü yazdı — ⟨את⟩ Purim mektubunun bu ikincisini sağlamlaştırmak için.",
   "tokens": [
     {
       "surface": "ותכתב",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tüm gücü"
+      "marks": "bütün güç"
     },
     {
       "surface": "כל",
-      "gloss": "tüm"
+      "gloss": "bütün"
     },
     {
       "surface": "תקף",
@@ -50,20 +50,20 @@
     },
     {
       "surface": "לקים",
-      "gloss": "doğrulamak için"
+      "gloss": "sağlamlaştırmak için"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bu Purim mektubunu"
+      "marks": "Purim mektubunun bu ikincisi"
     },
     {
       "surface": "אגרת",
-      "gloss": "mektup"
+      "gloss": "mektubunu"
     },
     {
       "surface": "הפורים",
-      "gloss": "Purim"
+      "gloss": "Purim'in"
     },
     {
       "surface": "הזאת",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "השנית",
-      "gloss": "ikinci"
+      "gloss": "ikincisini"
     }
   ],
-  "timestamp": "2026-08-19T11:41:29.926928298Z",
+  "timestamp": "2026-08-24T17:14:43.179403878Z",
   "model": "glm-5.3"
 }

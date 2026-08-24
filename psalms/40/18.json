@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 40,
-  "translation": "Ben ise yoksul ve düşkünüm; Adonay bende hesap tutar ⟨⟨את⟩⟩. Yardımım ve kurtarıcım sensin, Elohim'im; gecikme!",
+  "translation": "Ve ben ise âniy ve ebyonum; Adonay beni düşünüyor: yardımcım ve kurtarıcım ⟨sen⟩sin, Elohim'im, gecikme.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "ben ise"
+      "gloss": "ve ben ise"
     },
     {
       "surface": "עני",
-      "gloss": "yoksul"
+      "gloss": "âniy (yoksul)"
     },
     {
       "surface": "ואביון",
-      "gloss": "ve düşkün"
+      "gloss": "ve ebyonum (künçük)"
     },
     {
       "surface": "אדני",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "יחשב",
-      "gloss": "hesap tutar"
+      "gloss": "düşünüyor \/ hesaba koyuyor"
     },
     {
       "surface": "לי",
-      "gloss": "bende"
+      "gloss": "beni \/ bana"
     },
     {
       "surface": "עזרתי",
-      "gloss": "yardımım"
+      "gloss": "yardımımdır"
     },
     {
       "surface": "ומפלטי",
-      "gloss": "ve kurtarıcım"
+      "gloss": "ve kurtuluşumdur"
     },
     {
       "surface": "אתה",
@@ -56,6 +56,6 @@
       "gloss": "gecikme"
     }
   ],
-  "timestamp": "2026-08-19T10:57:39.853213046Z",
+  "timestamp": "2026-08-24T17:11:24.549960849Z",
   "model": "glm-5.3"
 }

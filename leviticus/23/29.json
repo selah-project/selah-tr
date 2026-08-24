@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Çünkü עצם o günde kendini ezmeyen her can, kavminden kesilmiş olacaktır.",
+  "translation": "Çünkü kendini ezmez ⟨o⟩ nefes, tam o ⟨gün⟩de, kendi halkının arasından kesilecektir.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "can"
+      "gloss": "⟨o⟩ nefes"
     },
     {
       "surface": "אשר",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "תענה",
-      "gloss": "kendi(ni) ezmeyecek"
+      "gloss": "ezmez"
     },
     {
       "surface": "בעצם",
-      "gloss": "özünde\/kendi"
+      "gloss": "tam"
     },
     {
       "surface": "היום",
-      "gloss": "o gün"
+      "gloss": "⟨gün⟩"
     },
     {
       "surface": "הזה",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "ונכרתה",
-      "gloss": "kesilmiş olacaktır"
+      "gloss": "kesilecektir"
     },
     {
       "surface": "מעמיה",
-      "gloss": "kavminden"
+      "gloss": "halkının arasından"
     }
   ],
-  "timestamp": "2026-08-19T07:30:51.028966096Z",
+  "timestamp": "2026-08-24T17:01:25.182700953Z",
   "model": "glm-5.3"
 }

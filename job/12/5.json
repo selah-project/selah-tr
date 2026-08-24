@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Meşale ⟨⟨gönderme yok⟩⟩ — aşağılama ⟨is⟩ alçakgönüllülerin düşüncesinde ⟨בוז⟩; ayağı kayanlar için hazır kılınmıştır.",
-  "tokens": [],
-  "timestamp": "2026-08-19T11:26:13.275418821Z",
+  "translation": "Meşale, hakarettir ⟨bolluğunda⟩ rahatına bakana ⟨gözünde⟩; hazır kılınmıştır ayağı kayanlara ⟨⟨için⟩⟩.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "meşale"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "hakaret"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "bolluğunda"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "rahatına bakana"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "hazır kılınmıştır"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "kayanlara... için"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayağı"
+    }
+  ],
+  "timestamp": "2026-08-24T17:13:56.884869358Z",
   "model": "glm-5.3"
 }

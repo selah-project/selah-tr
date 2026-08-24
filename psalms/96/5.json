@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 96,
-  "translation": "Çünkü halkların bütün ilahları ⟨ם⟩ noğlu şeylerdir, ama Yahve gökleri yaptı.",
+  "translation": "Çünkü ulusların bütün ilahları ⟨⟨are⟩⟩ omuş şeylerdir; ama Yahve gökleri yaptı.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "העמים",
-      "gloss": "halkların"
+      "gloss": "ulusların"
     },
     {
       "surface": "אלילים",
-      "gloss": "noğlu şeyler"
+      "gloss": "omuş şeylerdir"
     },
     {
       "surface": "ויהוה",
@@ -40,6 +40,6 @@
       "gloss": "yaptı"
     }
   ],
-  "timestamp": "2026-08-19T11:06:36.000507667Z",
+  "timestamp": "2026-08-24T17:11:54.799029218Z",
   "model": "glm-5.3"
 }

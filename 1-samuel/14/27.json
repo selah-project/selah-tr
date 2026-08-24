@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Ve Yonatan, babası halkı ant içirirken duymamıştı; elindeki değneğin ucunu uzattı ve onu bal peteğine daldırdı, ve elini ağzına geri götürdü, ve gözleri aydınlandı.",
+  "translation": "Yonatan ise babası halkı ⟨את⟩ antla bağladığında duymamıştı; elindeki değneğin ucunu uzattı ve onu bal peteğine batırdı, elini ağzına götürdü ve gözleri aydınlandı.",
   "tokens": [
     {
       "surface": "ויונתן",
-      "gloss": "Ve Yonatan"
+      "gloss": "ve Yonatan"
     },
     {
       "surface": "לא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שמע",
-      "gloss": "duymuştu"
+      "gloss": "duydu"
     },
     {
       "surface": "בהשביע",
-      "gloss": "ant içirirken"
+      "gloss": "antla bağlarken"
     },
     {
       "surface": "אביו",
@@ -30,20 +30,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "halk (העם)"
+      "marks": "halk"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ halkı"
+      "gloss": "halkı"
     },
     {
       "surface": "וישלח",
-      "gloss": "ve uzattı"
+      "gloss": "uzattı"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ucunu (קצה)"
+      "marks": "değneğin ucu"
     },
     {
       "surface": "קצה",
@@ -51,24 +51,24 @@
     },
     {
       "surface": "המטה",
-      "gloss": "⟨the⟩ değneğin"
+      "gloss": "değnek"
     },
     {
       "surface": "אשר",
-      "gloss": "ki o"
+      "gloss": "ki"
     },
     {
       "surface": "בידו",
-      "gloss": "elinde olan"
+      "gloss": "elinde"
     },
     {
       "surface": "ויטבל",
-      "gloss": "ve daldırdı"
+      "gloss": "batırdı"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩ onu",
-      "marks": "bal peteği (ביערת הדבש)"
+      "marks": "bal peteği"
     },
     {
       "surface": "ביערת",
@@ -76,11 +76,11 @@
     },
     {
       "surface": "הדבש",
-      "gloss": "⟨the⟩ balın"
+      "gloss": "bal"
     },
     {
       "surface": "וישב",
-      "gloss": "ve geri götürdü"
+      "gloss": "geri getirdi"
     },
     {
       "surface": "ידו",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "…e"
+      "gloss": "-e"
     },
     {
       "surface": "פיו",
@@ -96,13 +96,13 @@
     },
     {
       "surface": "ותראנה",
-      "gloss": "ve gördü\/aydınlandı"
+      "gloss": "ve gördü"
     },
     {
       "surface": "עיניו",
       "gloss": "gözleri"
     }
   ],
-  "timestamp": "2026-08-19T09:24:10.879692586Z",
+  "timestamp": "2026-08-24T17:04:18.460243486Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve şimdi canımız kurudu; ⟨⟨hiçbir⟩⟩ şey yok — gözümüzün önünde yalnız ⟨את⟩ o man var.",
+  "translation": "Ve şimdi canımız kurudu; ⟨⟨gözlerimizin önünde⟩⟩ manadan başka hiçbir şey ⟨yok⟩.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "בלתי",
-      "gloss": "yalnız"
+      "gloss": "başka"
     },
     {
       "surface": "אל",
-      "gloss": "-e doğru"
+      "gloss": "⟨gözlerimizin önünde⟩"
     },
     {
       "surface": "המן",
-      "gloss": "o man"
+      "gloss": "mana"
     },
     {
       "surface": "עינינו",
-      "gloss": "gözümüzün önünde"
+      "gloss": "gözlerimiz"
     }
   ],
-  "timestamp": "2026-08-19T07:34:57.234398628Z",
+  "timestamp": "2026-08-24T17:01:40.085402176Z",
   "model": "glm-5.3"
 }

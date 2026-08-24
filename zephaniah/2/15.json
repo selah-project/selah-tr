@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Bu ⟨⟨o⟩⟩ güven içinde yaşayan, şenlik dolu şehir, kalbinde 'Ben varım, benden başkası yok daha' diyen — nasıl da harabeye döndü, canlılara yatak yerine! Ondan geçen herkes ıslık çalar, elini sallar.",
+  "translation": "İşte bu, kendinden geçmişeesine sevinen ⟨the⟩ şehir, güven içinde oturan, yüreğinde \"Ben ⟨varım⟩, ve benim dışımda kimse yok\" diyen. Nasıl oldu da yıkıma uğradı, canavarlara yatak yerine! Ondan geçen herkes ıslık çalar, elini sallar.",
   "tokens": [
     {
       "surface": "זאת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העליזה",
-      "gloss": "şenlik dolu"
+      "gloss": "sevinen"
     },
     {
       "surface": "היושבת",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "בלבבה",
-      "gloss": "kalbinde"
+      "gloss": "yüreğinde"
     },
     {
       "surface": "אני",
-      "gloss": "ben"
+      "gloss": "Ben"
     },
     {
       "surface": "ואפסי",
-      "gloss": "ve benden başkası yok"
+      "gloss": "ve benim dışımda kimse yok"
     },
     {
       "surface": "עוד",
-      "gloss": "daha"
+      "gloss": "başka"
     },
     {
       "surface": "איך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לשמה",
-      "gloss": "harabeye"
+      "gloss": "yıkıma"
     },
     {
       "surface": "מרבץ",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לחיה",
-      "gloss": "canlılara"
+      "gloss": "canavarlara"
     },
     {
       "surface": "כל",
@@ -92,6 +92,6 @@
       "gloss": "elini"
     }
   ],
-  "timestamp": "2026-08-19T10:46:25.346803941Z",
+  "timestamp": "2026-08-24T17:09:39.772828216Z",
   "model": "glm-5.3"
 }

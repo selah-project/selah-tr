@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Onda birlik ⟨⟨the⟩⟩ ⟨is⟩ bir onda bir, tek kuzuya, yedi kuzunun ⟨her birine⟩.",
+  "translation": "bir ölçek onda-bir, bir ölçek onda-bir tek ⟨the⟩ kuzuya, ⟨the⟩ yedi kuzunun her birine.",
   "tokens": [
     {
       "surface": "עשרון",
-      "gloss": "onda bir (issaron)"
+      "gloss": "bir ölçek onda-bir"
     },
     {
       "surface": "עשרון",
-      "gloss": "onda bir (issaron)"
+      "gloss": "bir ölçek onda-bir"
     },
     {
       "surface": "לכבש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "האחד",
-      "gloss": "tek"
+      "gloss": "tek ⟨the⟩"
     },
     {
       "surface": "לשבעת",
@@ -32,6 +32,6 @@
       "gloss": "kuzuların"
     }
   ],
-  "timestamp": "2026-08-19T07:41:02.179394343Z",
+  "timestamp": "2026-08-24T17:02:01.967353963Z",
   "model": "glm-5.3"
 }

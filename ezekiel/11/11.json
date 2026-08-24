@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 11,
-  "translation": "O ⟨⟨şehir⟩⟩ size kazan olmayacak ve siz onun ortasında et olacaksınız; İsrail'in sınırına ⟨karşı⟩ sizi ⟨את⟩ yargılayacağım.",
+  "translation": "O, sizin için kazan olmayacak ve siz onun içinde et olmayacaksınız; İsrail'in sınırında ⟨את⟩ sizleri yargılayacağım.",
   "tokens": [
     {
       "surface": "היא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "olmayacak"
     },
     {
       "surface": "תהיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "size"
+      "gloss": "sizin için"
     },
     {
       "surface": "לסיר",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "בתוכה",
-      "gloss": "onun ortasında"
+      "gloss": "onun içinde"
     },
     {
       "surface": "לבשר",
-      "gloss": "et olarak"
+      "gloss": "et"
     },
     {
       "surface": "אל",
-      "gloss": "karşı"
+      "gloss": "-e doğru"
     },
     {
       "surface": "גבול",
-      "gloss": "sınırına"
+      "gloss": "sınırında"
     },
     {
       "surface": "ישראל",
@@ -61,10 +61,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizi",
-      "marks": "sizi"
+      "gloss": "⟨את⟩",
+      "marks": "sizleri"
     }
   ],
-  "timestamp": "2026-08-19T10:24:47.701747772Z",
+  "timestamp": "2026-08-24T17:08:14.722800073Z",
   "model": "glm-5.3"
 }

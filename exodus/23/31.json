@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Ve sınırını koyacağım ⟨את⟩ Kamış Denizi'nden Filistler denizine dek, ve çölden ⟨the⟩ nehre dek; çünkü ülkenin oturanlarını ⟨את⟩ elinize vereceğim, ve onları yüzünden kovacaksın.",
+  "translation": "Sınırını Kızıl Deniz'den Filist Denizi'ne, çölden ⟨ה⟩ nehre kadar koyacağım; çünkü ülkenin sakinlerini elinize vereceğim ve onları önünden kovacaksın.",
   "tokens": [
     {
       "surface": "ושתי",
-      "gloss": "ve koyacağım"
+      "gloss": "koyacağım"
     },
     {
       "surface": "את",
@@ -22,23 +22,23 @@
     },
     {
       "surface": "מים",
-      "gloss": "denizinden"
+      "gloss": "denizden"
     },
     {
       "surface": "סוף",
-      "gloss": "Kamış (Denizi)"
+      "gloss": "Kızıl (Kamış)"
     },
     {
       "surface": "ועד",
-      "gloss": "ve dek"
+      "gloss": "ve kadar"
     },
     {
       "surface": "ים",
-      "gloss": "denizine"
+      "gloss": "denizi"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistler"
+      "gloss": "Filist"
     },
     {
       "surface": "וממדבר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "dek"
+      "gloss": "kadar"
     },
     {
       "surface": "הנהר",
-      "gloss": "nehre"
+      "gloss": "⟨ה⟩ nehir"
     },
     {
       "surface": "כי",
@@ -67,11 +67,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oturanları"
+      "marks": "sakinlerini"
     },
     {
       "surface": "ישבי",
-      "gloss": "oturanlarını"
+      "gloss": "sakinlerini"
     },
     {
       "surface": "הארץ",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "וגרשתמו",
-      "gloss": "ve kovacaksın onları"
+      "gloss": "ve onları kovacaksın"
     },
     {
       "surface": "מפניך",
-      "gloss": "yüzünden"
+      "gloss": "önünden"
     }
   ],
-  "timestamp": "2026-08-19T07:16:48.417331513Z",
+  "timestamp": "2026-08-24T17:00:06.248240347Z",
   "model": "glm-5.3"
 }

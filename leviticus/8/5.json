@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve Moşe cemaate dedi: Bu, Yahve'nin yapılmasını buyurduğu ⟨the⟩ sözdür.",
+  "translation": "Ve Moşe cemaate şöyle dedi: Bu, yapılması için Yahve'nin buyruk ettiği ⟨iş⟩⟨dir⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "-e doğru"
+      "gloss": "şöyle (el)"
     },
     {
       "surface": "העדה",
-      "gloss": "cemaat"
+      "gloss": "cemaate"
     },
     {
       "surface": "זה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "söz"
+      "gloss": "söz\/iş"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "buyurdu"
+      "gloss": "buyruk etti"
     },
     {
       "surface": "יהוה",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "yapmak için"
+      "gloss": "yapılması için"
     }
   ],
-  "timestamp": "2026-08-19T07:25:43.911774357Z",
+  "timestamp": "2026-08-24T17:01:08.952232687Z",
   "model": "glm-5.3"
 }

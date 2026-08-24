@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Çevrilecek bütün ⟨the⟩ toprak, ⟨the⟩ Arava gibi, Geva'dan Rimmon'a, Yeruşalayim'in güneyine; ve yükseltilecek ve yerinde yaşanacak, Binyamin kapısından ilk kapının yerine, köşe kapısına kadar, ve Hananel kulesinden kralın şırahanelerine kadar.",
+  "translation": "Bütün ⟨toprak⟩ Araba gibi düzleşecek, Geva'dan Rimmon'a, Yeruşalayim'in güneyine; ve ⟨Yeruşalayim⟩ yükseltilecek ve yerinde duracak, Binjamin kapısından ilk kapının yerine, köşe kapısına kadar, ve Hananel kulesinden kralın şırah havuzlarına kadar.",
   "tokens": [
     {
       "surface": "יסוב",
-      "gloss": "çevrilecek"
+      "gloss": "dönüşecek"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כערבה",
-      "gloss": "Arava gibi"
+      "gloss": "Araba gibi"
     },
     {
       "surface": "מגבע",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "נגב",
-      "gloss": "güney"
+      "gloss": "güneyine"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yeruşalayim"
+      "gloss": "Yeruşalayim'in"
     },
     {
       "surface": "וראמה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וישבה",
-      "gloss": "ve oturulacak"
+      "gloss": "ve duracak"
     },
     {
       "surface": "תחתיה",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "למשער",
-      "gloss": "kapısına"
+      "gloss": "kapısından"
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyamin"
+      "gloss": "Binjamin"
     },
     {
       "surface": "עד",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "מקום",
-      "gloss": "yere"
+      "gloss": "yerine"
     },
     {
       "surface": "שער",
-      "gloss": "kapı"
+      "gloss": "kapının"
     },
     {
       "surface": "הראשון",
@@ -101,13 +101,13 @@
     },
     {
       "surface": "יקבי",
-      "gloss": "şırahanelerine"
+      "gloss": "şırah havuzlarına"
     },
     {
       "surface": "המלך",
       "gloss": "kralın"
     }
   ],
-  "timestamp": "2026-08-19T10:50:06.209980793Z",
+  "timestamp": "2026-08-24T17:10:52.027192976Z",
   "model": "glm-5.3"
 }

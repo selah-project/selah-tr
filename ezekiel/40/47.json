@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 40,
-  "translation": "Ve ⟨את⟩ avluyu ölçtü: uzunluğu yüz arşın, genişliği yüz arşın — dörtköşe; ve sunak ⟨⟨the⟩⟩ evin önündeydi.",
+  "translation": "Ve ⟨את⟩ avluyu ölçtü: uzunluk yüz arşın, genişlik yüz arşın, dörtköşe; ve sunak ⟨εv⟩ ⟨ο⟩ ⟨i⟩ ⟨⟨⟨⟨⟨⟩⟩⟩⟩⟩ önsünde ⟨idi⟩.",
   "tokens": [
     {
       "surface": "וימד",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "החצר",
-      "gloss": "avluyu"
+      "gloss": "avlu"
     },
     {
       "surface": "ארך",
-      "gloss": "uzunluğu"
+      "gloss": "uzunluk"
     },
     {
       "surface": "מאה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ורחב",
-      "gloss": "ve genişliği"
+      "gloss": "ve genişlik"
     },
     {
       "surface": "מאה",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ev"
+      "gloss": "evin"
     }
   ],
-  "timestamp": "2026-08-19T12:20:27.880103859Z",
+  "timestamp": "2026-08-24T17:08:53.473243855Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 78,
-  "translation": "Güçlülerin ekmeğini yedi her ⟨איש⟩; onlara doyasıya av eti gönderdi.",
+  "translation": "Güçlülerin ekmeğini yedi her adam; av eti gönderdi onlara doyasıya.",
   "tokens": [
     {
       "surface": "לחם",
-      "gloss": "ekmek"
+      "gloss": "ekmeğini"
     },
     {
       "surface": "אבירים",
-      "gloss": "güçlülerin"
+      "gloss": "Güçlülerin"
     },
     {
       "surface": "אכל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "her kişi"
+      "gloss": "her adam"
     },
     {
       "surface": "צידה",
@@ -40,6 +40,6 @@
       "gloss": "doyasıya"
     }
   ],
-  "timestamp": "2026-08-19T11:03:04.733454870Z",
+  "timestamp": "2026-08-24T17:11:50.293513369Z",
   "model": "glm-5.3"
 }

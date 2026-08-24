@@ -5,8 +5,37 @@
   "book": "ecclesiastes",
   "lang": "tr",
   "chapter": 2,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-19T11:37:27.427068360Z",
+  "translation": "Çünkü kim yiyebilir ve kim — ⟨benden⟩ başka — özlem duyabilir?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yiyebilir"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ve kim"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "özlem duyabilir"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "⟨dışarıda⟩ — başka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "benden"
+    }
+  ],
+  "timestamp": "2026-08-24T17:14:32.570831059Z",
   "model": "glm-5.3"
 }

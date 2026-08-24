@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 63,
-  "translation": "Şıra çiğnedim yalnız ⟨את⟩ başıma, ve halklardan ⟨בir⟩ adam yok ⟨yanımda⟩; onları öfkemle çiğneyeceğim, hiddetimle ezacağim; ve onların kanları giysilerimin üzerine sıçradı, ve bütün giysilerimi lekeledim.",
+  "translation": "Şıra havuzunu tek başıma çiğnedim, ve halklardan benimle ⟨את⟩ bir adam yoktu; onları öfkemle çiğnedim, hışmımla ezdim; kızıl şıraları giysilerimin üzerine sıçradı ve bütün giysilerimi lekeledim.",
   "tokens": [
     {
       "surface": "פורה",
-      "gloss": "şırayı"
+      "gloss": "şıra havuzunu"
     },
     {
       "surface": "דרכתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לבדי",
-      "gloss": "yalnız"
+      "gloss": "tek başıma"
     },
     {
       "surface": "ומעמים",
@@ -25,19 +25,20 @@
     },
     {
       "surface": "אין",
-      "gloss": "yok"
+      "gloss": "yoktu"
     },
     {
       "surface": "איש",
-      "gloss": "adam"
+      "gloss": "bir adam"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ yanımda"
+      "gloss": "⟨את⟩ benimle",
+      "marks": "bir adam"
     },
     {
       "surface": "ואדרכם",
-      "gloss": "onları çiğneyeceğim"
+      "gloss": "ve onları çiğnedim"
     },
     {
       "surface": "באפי",
@@ -45,11 +46,11 @@
     },
     {
       "surface": "וארמסם",
-      "gloss": "onları ezacağim"
+      "gloss": "ve onları ezdim"
     },
     {
       "surface": "בחמתי",
-      "gloss": "hiddetimle"
+      "gloss": "hışmımla"
     },
     {
       "surface": "ויז",
@@ -57,7 +58,7 @@
     },
     {
       "surface": "נצחם",
-      "gloss": "onların kanları"
+      "gloss": "kızıl şıraları"
     },
     {
       "surface": "על",
@@ -80,6 +81,6 @@
       "gloss": "lekeledim"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.039521888Z",
+  "timestamp": "2026-08-24T17:06:59.738456971Z",
   "model": "glm-5.3"
 }

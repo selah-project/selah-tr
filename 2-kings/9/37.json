@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 9,
-  "translation": "İzebel'in leşi yüzükoynu ⟨⟨the⟩⟩ tarlanın yüzünde gübre gibi olacak — Yizreel'deki payda — öyle ki ⟨⟨they⟩⟩ demeyecekler: Bu İzebel'dir.",
+  "translation": "İzebel'in leşi, Yizreel toprağında tarlanın yüzünde gübre gibi olacak; öyle ki, 'Bu İzebel'dir' demeyecekler.",
   "tokens": [
     {
       "surface": "והית",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "איזבל",
-      "gloss": "İzebel'in"
+      "gloss": "İzebel"
     },
     {
       "surface": "כדמן",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בחלק",
-      "gloss": "payda"
+      "gloss": "toprağında \/ payında"
     },
     {
       "surface": "יזרעאל",
-      "gloss": "Yizreel'deki"
+      "gloss": "Yizreel"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "olmayacak \/ değil"
     },
     {
       "surface": "יאמרו",
@@ -64,6 +64,6 @@
       "gloss": "İzebel"
     }
   ],
-  "timestamp": "2026-08-19T09:46:07.168960754Z",
+  "timestamp": "2026-08-24T17:05:30.390998300Z",
   "model": "glm-5.3"
 }

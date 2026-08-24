@@ -5,8 +5,70 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ve adına Noaş dedi ⟨⟨את⟩⟩ adını Noaş, şöyle ki: Bu bize ferahlık verecek işimizden ve ellerimizin zahmetinden, ⟨⟨o⟩⟩ topraktan ki lanetledi onu Yahve.",
-  "tokens": [],
-  "timestamp": "2026-08-19T06:55:57.441932713Z",
+  "translation": "Ve adını Noach koydu, ⟨את⟩ adına, şu sözle: \"Bu bizi işimizden ve ellerimizin emeğinden, Yahve'nin lanetlediği ⟨ה⟩ topraktan bize teselli verecek.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ve adını koydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "şu sözle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ינחמנו",
+      "gloss": "bize teselli verecek"
+    },
+    {
+      "surface": "ממעשנו",
+      "gloss": "işimizden"
+    },
+    {
+      "surface": "ומעצבון",
+      "gloss": "emeğinden"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ellerimizin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "topraktan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toprak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אררה",
+      "gloss": "lanetledi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-24T16:59:05.574125381Z",
   "model": "glm-5.3"
 }

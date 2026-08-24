@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 7,
-  "translation": "On iki sığırın üzerinde duruyordu — üçü kuzeye dönük, üçü batıya dönük, üçü güneye dönük ve üçü doğuya dönük; ve ⟨the⟩ deniz onların üzerinde yukarıdaydı ve bütün arka kısımları içe dönüktü.",
+  "translation": "On iki sığırın üzerinde duruyordu — üçü kuzeye dönük, üçü batıya dönük, üçü güneye dönük ve üçü doğuya dönük; ve ⟨את⟩ deniz onların üzerinde yukarıda ⟨duruyordu⟩, ve onların bütün arka tarafları içeriye ⟨dönüktü⟩.",
   "tokens": [
     {
       "surface": "עמד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שני",
-      "gloss": "iki"
+      "gloss": "on iki"
     },
     {
       "surface": "עשר",
-      "gloss": "on"
+      "gloss": "(on) iki"
     },
     {
       "surface": "בקר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שלשה",
-      "gloss": "üç"
+      "gloss": "üçü"
     },
     {
       "surface": "פנים",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "מלמעלה",
-      "gloss": "yukarıdan"
+      "gloss": "yukarıda"
     },
     {
       "surface": "וכל",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "אחריהם",
-      "gloss": "arka kısımları"
+      "gloss": "arka tarafları"
     },
     {
       "surface": "ביתה",
       "gloss": "içeriye"
     }
   ],
-  "timestamp": "2026-08-19T09:38:18.105427822Z",
+  "timestamp": "2026-08-24T17:55:22.551099011Z",
   "model": "glm-5.3"
 }

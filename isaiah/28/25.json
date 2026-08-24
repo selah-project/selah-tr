@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Yüzünü düzlediği zaman ⟨ת⟩ mi? Çörek otunu serpmez mi, kimyonu saçmaz mı? Buğdayı sıraya, arpayı belirlenmiş yerine koyar ve sınırına kaplacasını diker.",
+  "translation": "Yüzünü düzlediği zaman ⟨והוא⟩ çörek otunu saçmaz mı, kimyonu serpmez mi, ve buğdayı sıra sıra, arpayı belirlenen yerine koyar ve ekmeğini kendi sınırına dizer mi?",
   "tokens": [
     {
       "surface": "הלוא",
@@ -24,20 +24,20 @@
       "gloss": "yüzünü"
     },
     {
-      "surface": "והפיץ",
-      "gloss": "ve serpmez mi"
+      "surface": "ו הפיץ",
+      "gloss": "saçmaz mı"
     },
     {
       "surface": "קצח",
-      "gloss": "çörek otunu"
+      "gloss": "çörek otu"
     },
     {
       "surface": "וכמן",
-      "gloss": "ve kimyonu"
+      "gloss": "ve kimyon"
     },
     {
       "surface": "יזרק",
-      "gloss": "saçmaz mı"
+      "gloss": "serper"
     },
     {
       "surface": "ושם",
@@ -45,29 +45,29 @@
     },
     {
       "surface": "חטה",
-      "gloss": "buğdayı"
+      "gloss": "buğday"
     },
     {
       "surface": "שורה",
-      "gloss": "sıraya"
+      "gloss": "sıra sıra"
     },
     {
       "surface": "ושערה",
-      "gloss": "ve arpayı"
+      "gloss": "ve arpa"
     },
     {
       "surface": "נסמן",
-      "gloss": "belirlenmiş"
+      "gloss": "belirlenen"
     },
     {
       "surface": "וכסמת",
-      "gloss": "ve kaplaca"
+      "gloss": "ve ekmek (siyez)"
     },
     {
       "surface": "גבלתו",
-      "gloss": "sınırına"
+      "gloss": "kendi sınırına"
     }
   ],
-  "timestamp": "2026-08-19T09:56:41.844659773Z",
+  "timestamp": "2026-08-24T17:06:47.800836391Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 42,
-  "translation": "Çünkü onlar üç katlıdır ve onlara sütunlar yoktur, ⟨⟨avlu⟩⟩ların sütunları gibi; bu yüzden alttakilerden ve ortancalardan, ⟨zemin⟩den geri çekilmiştir.",
+  "translation": "Çünkü onlar üç katlıydılar ve avluların sütunları gibi onlara sütunlar yoktu; bu yüzden en alttakilerden ve ortancalardan yerden ⟨budanmıştı⟩.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "משלשות",
-      "gloss": "üçkatlı"
+      "gloss": "üç katlıydılar"
     },
     {
       "surface": "הנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "ve-yok"
+      "gloss": "ve yok"
     },
     {
       "surface": "להן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כעמודי",
-      "gloss": "gibi-sütunları"
+      "gloss": "gibi sütunları"
     },
     {
       "surface": "החצרות",
@@ -41,29 +41,29 @@
     },
     {
       "surface": "על",
-      "gloss": "üzerine"
+      "gloss": "bu yüzden"
     },
     {
       "surface": "כן",
-      "gloss": "bu-yüzden"
+      "gloss": "onun için"
     },
     {
       "surface": "נאצל",
-      "gloss": "geri-çekilmiştir"
+      "gloss": "budanmıştı"
     },
     {
       "surface": "מהתחתונות",
-      "gloss": "alttakilerden"
+      "gloss": "en alttakilerden"
     },
     {
       "surface": "ומהתיכנות",
-      "gloss": "ve-ortancalardan"
+      "gloss": "ve ortancalardan"
     },
     {
       "surface": "מהארץ",
       "gloss": "yerden"
     }
   ],
-  "timestamp": "2026-08-19T12:20:11.117427847Z",
+  "timestamp": "2026-08-24T17:17:05.348600545Z",
   "model": "glm-5.3"
 }

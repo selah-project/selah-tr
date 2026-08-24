@@ -5,27 +5,27 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 38,
-  "translation": "Tüm ileri gelenler Yirmiyahu'ya geldiler ve ona sordular; o da kralın buyurduğu bütün bu sözleri onlara bildirdi; ve ondan sustular, çünkü ⟨⟨söz⟩⟩ duyulmamıştı.",
+  "translation": "Ve bütün önderler Yirmyahu'ya geldiler ve ona sordular; onlara kralın buyruk verdiği bütün bu sözlere göre ⟨את⟩ onu bildirdi; ve ondan sustular, çünkü ⟨iş⟩ duyulmamıştı.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "geldiler"
+      "gloss": "ve geldiler"
     },
     {
       "surface": "כל",
-      "gloss": "tüm"
+      "gloss": "bütün"
     },
     {
       "surface": "השרים",
-      "gloss": "ileri gelenler"
+      "gloss": "önderler"
     },
     {
       "surface": "אל",
-      "gloss": "kime"
+      "gloss": "-e doğru"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmiyahu'ya"
+      "gloss": "Yirmyahu"
     },
     {
       "surface": "וישאלו",
@@ -33,7 +33,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ onu"
+      "gloss": "⟨את⟩",
+      "marks": "onu"
     },
     {
       "surface": "ויגד",
@@ -45,11 +46,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "bütün"
+      "gloss": "göre bütün"
     },
     {
       "surface": "הדברים",
-      "gloss": "sözleri"
+      "gloss": "sözlere"
     },
     {
       "surface": "האלה",
@@ -61,11 +62,11 @@
     },
     {
       "surface": "צוה",
-      "gloss": "buyurduğu"
+      "gloss": "buyruk verdi"
     },
     {
       "surface": "המלך",
-      "gloss": "kralın"
+      "gloss": "kral"
     },
     {
       "surface": "ויחרשו",
@@ -85,13 +86,13 @@
     },
     {
       "surface": "נשמע",
-      "gloss": "duyulmamıştı"
+      "gloss": "duyuldu"
     },
     {
       "surface": "הדבר",
-      "gloss": "söz"
+      "gloss": "⟨iş⟩ sözcüğü"
     }
   ],
-  "timestamp": "2026-08-19T10:18:16.116605050Z",
+  "timestamp": "2026-08-24T17:08:17.224259433Z",
   "model": "glm-5.3"
 }

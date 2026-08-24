@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ayakta duranlardan birine yaklaştım ve ondan bütün bunların doğrusunu sordum; o da bana söyledi ve sözlerin yorumunu bana bildirdi.",
+  "translation": "O ayakta duranlardan birine yaklaştım ve ondan bütün bunların doğrusunu sordum; bana söyledi ve sözlerin yorumunu bana bildirdi.",
   "tokens": [
     {
       "surface": "קרבת",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨⟨ilgili⟩⟩"
+      "gloss": "işaretli olmayan ilgeç: -e doğru"
     },
     {
       "surface": "חד",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "from"
+      "gloss": "-dan (onlardan)"
     },
     {
       "surface": "קאמיא",
-      "gloss": "ayakta duranlardan"
+      "gloss": "ayan duranlara"
     },
     {
       "surface": "ויציבא",
-      "gloss": "kesin doğrusunu"
+      "gloss": "ve ayakta duranlara"
     },
     {
       "surface": "אבעא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨hakkında⟩"
+      "gloss": "hakkında"
     },
     {
       "surface": "כל",
@@ -72,6 +72,6 @@
       "gloss": "bana bildirdi"
     }
   ],
-  "timestamp": "2026-08-19T11:43:51.558391083Z",
+  "timestamp": "2026-08-24T17:55:22.548719739Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Sadık ⟨ בל ⟩ sarsılmaz sonsuza dek; ama kötüler yeryüzünde oturamazlar.",
+  "translation": "Sadık sonsuza dek sarsılmaz, ama kötüler ⟨o⟩ ülkede oturamazlar.",
   "tokens": [
     {
       "surface": "צדיק",
@@ -21,25 +21,25 @@
     },
     {
       "surface": "ימוט",
-      "gloss": "sarsılır"
+      "gloss": "sarsılmaz"
     },
     {
       "surface": "ורשעים",
-      "gloss": "ve kötüler"
+      "gloss": "ama kötüler"
     },
     {
       "surface": "לא",
-      "gloss": "değiller"
+      "gloss": "-maz"
     },
     {
       "surface": "ישכנו",
-      "gloss": "otururlar"
+      "gloss": "oturamazlar"
     },
     {
       "surface": "ארץ",
-      "gloss": "yeryüzünde"
+      "gloss": "ülkede"
     }
   ],
-  "timestamp": "2026-08-19T11:19:09.345139220Z",
+  "timestamp": "2026-08-24T17:13:26.520277915Z",
   "model": "glm-5.3"
 }

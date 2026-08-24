@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 120,
-  "translation": "Ben ⟨⟨tam⟩ barışıyorum⟩; ama ben konuştuğumda onlar savaş ⟨içindedir⟩.",
+  "translation": "Ben ⟨⟨⟩>barışım; ama ⟨konuştuğumda⟩ onlar savaştadır.",
   "tokens": [
     {
       "surface": "אני",
-      "gloss": "ben"
+      "gloss": "Ben"
     },
     {
       "surface": "שלום",
-      "gloss": "barışıyorum"
+      "gloss": "barışım"
     },
     {
       "surface": "וכי",
-      "gloss": "ama"
+      "gloss": "ama ne zaman ki"
     },
     {
       "surface": "אדבר",
-      "gloss": "konuştuğumda"
+      "gloss": "konuşurum"
     },
     {
       "surface": "המה",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "savaş ⟨içindedir⟩"
+      "gloss": "savaştadır"
     }
   ],
-  "timestamp": "2026-08-19T11:10:17.104159035Z",
+  "timestamp": "2026-08-24T17:12:39.642262310Z",
   "model": "glm-5.3"
 }

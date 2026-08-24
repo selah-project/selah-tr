@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 34,
-  "translation": "Ve Yahve ona dedi: «İşte şu, Avraham'a, Yitshak'a ve Yaakov'a, 'Zürriyetine onu vereceğim' diye and içtiğim ülkedir. Gözlerinle sana gösterdim; fakat oraya geçmeyeceksin.»",
+  "translation": "Ve Yahve ona dedi: \"İşte ⟨bu⟩ toprak — Avraham'a, Yitshak'a ve Yaakov'a, 'Tohumuna onu vereceğim' diye and içtiğim ⟨toprak⟩. Onu gözlerinle gördürdüm sana; fakat oraya geçmeyeceksin.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "זאת",
-      "gloss": "işte şu"
+      "gloss": "işte bu"
     },
     {
       "surface": "הארץ",
-      "gloss": "ülke"
+      "gloss": "toprak"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לזרעך",
-      "gloss": "zürriyetine"
+      "gloss": "tohumuna"
     },
     {
       "surface": "אתננה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הראיתיך",
-      "gloss": "sana gösterdim"
+      "gloss": "sana gördürdüm"
     },
     {
       "surface": "בעיניך",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ושמה",
-      "gloss": "ve oraya"
+      "gloss": "fakat oraya"
     },
     {
       "surface": "לא",
@@ -80,6 +80,6 @@
       "gloss": "geçeceksin"
     }
   ],
-  "timestamp": "2026-08-19T09:07:30.997858533Z",
+  "timestamp": "2026-08-24T17:02:54.795207475Z",
   "model": "glm-5.3"
 }

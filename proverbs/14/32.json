@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Kötülüğünde kötü itilir, ama ölümünde doğruya sığınan ⟨⟨umut⟩⟩ vardır.",
+  "translation": "Kötülüğünde kötü kişi aşağı itilir, ölümünde ise sığınak bulur doğru kişi.",
   "tokens": [
     {
       "surface": "ברעתו",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ידחה",
-      "gloss": "itilir"
+      "gloss": "aşağı itilir"
     },
     {
       "surface": "רשע",
-      "gloss": "kötü"
+      "gloss": "kötü kişi"
     },
     {
       "surface": "וחסה",
-      "gloss": "ama sığınan"
+      "gloss": "sığınak bulur"
     },
     {
       "surface": "במותו",
@@ -32,6 +32,6 @@
       "gloss": "doğru kişi"
     }
   ],
-  "timestamp": "2026-08-19T11:20:05.902519102Z",
+  "timestamp": "2026-08-24T17:12:49.074148953Z",
   "model": "glm-5.3"
 }

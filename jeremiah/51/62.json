@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 51,
-  "translation": "ve şöyle diyeceksin: Yahve, sen ⟨⟨sen⟩⟩ bu yer hakkında, onu kökünden kesmek için, içinde ne insan ne de hayvan yaşasın diye konuştun; çünkü sonsuz bir ıssızlık ⟨olacak⟩.",
+  "translation": "Ve diyeceksin: Yahve, sen ⟨את⟩ şu yer hakkına konuştun, onu kökünden kesesin diye, içinde oturan olmasın diye, insandan hayvana kadar; çünkü sonsuz bir ıssızlık ⟨olacak⟩.",
   "tokens": [
     {
       "surface": "ואמרת",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "hakkında"
+      "gloss": "hakkına \/ üzerine"
     },
     {
       "surface": "המקום",
-      "gloss": "yer"
+      "gloss": "yere"
     },
     {
       "surface": "הזה",
-      "gloss": "bu"
+      "gloss": "şu"
     },
     {
       "surface": "להכריתו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "-meyesin diye"
+      "gloss": "olmasın diye"
     },
     {
       "surface": "היות",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "יושב",
-      "gloss": "oturan\/yaşayan"
+      "gloss": "oturan"
     },
     {
       "surface": "למאדם",
-      "gloss": "insan için"
+      "gloss": "insandan"
     },
     {
       "surface": "ועד",
-      "gloss": "ve ta"
+      "gloss": "hayvana kadar"
     },
     {
       "surface": "בהמה",
-      "gloss": "hayvana"
+      "gloss": "hayvan"
     },
     {
       "surface": "כי",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "עולם",
-      "gloss": "sonsuz"
+      "gloss": "sonsuz \/ ebedi"
     },
     {
       "surface": "תהיה",
       "gloss": "olacak"
     }
   ],
-  "timestamp": "2026-08-19T10:21:45.524761472Z",
+  "timestamp": "2026-08-24T17:08:17.976284805Z",
   "model": "glm-5.3"
 }

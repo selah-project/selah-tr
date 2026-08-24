@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 45,
-  "translation": "Ve נשיא üzerine olacak: yakılan takdimeler, tahıl sunusu ve içecek sunusu — bayramlarda, yeni aylarda ve şabatlarda, Beyt Yisrael'in tüm belirlenmiş zamanlarında; o yapacak ⟨את⟩ günah sunusunu ve ⟨את⟩ tahıl sunusunu ve ⟨את⟩ yakılan sunuyu ve ⟨את⟩ şalom sunularını, Beyt Yisrael için keffaret yapmak üzere.",
+  "translation": "Ve nasiye düşecek: yakmalık sunular, tahıl sunusu ve içecek sunusu — bayramlarda, yeni aylarda ve şabatlarda, Beyt Yisrael'in tüm belirlenmiş vakitlerinde. O, ⟨את⟩ günah sunusunu ve ⟨את⟩ tahıl sunusunu ve ⟨את⟩ yakmalık sunuyu ve ⟨את⟩ esenlik sunularını Beyt Yisrael için kefaret yapmak üzere yapacak.",
   "tokens": [
     {
       "surface": "ועל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנשיא",
-      "gloss": "נשיא (prens)"
+      "gloss": "nasi"
     },
     {
       "surface": "יהיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העולות",
-      "gloss": "yakılan takdimeler"
+      "gloss": "yakmalık sunular"
     },
     {
       "surface": "והמנחה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "מועדי",
-      "gloss": "belirlenmiş zamanlarında"
+      "gloss": "belirlenmiş vakitlerinde"
     },
     {
       "surface": "בית",
-      "gloss": "Beyt (ev)"
+      "gloss": "Beyt"
     },
     {
       "surface": "ישראל",
@@ -88,38 +88,38 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "yakılan sunuyu"
+      "marks": "yakmalık sunuyu"
     },
     {
       "surface": "העולה",
-      "gloss": "yakılan sunu"
+      "gloss": "yakmalık sunu"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "şalom sunularını"
+      "marks": "esenlik sunularını"
     },
     {
       "surface": "השלמים",
-      "gloss": "şalom sunuları"
+      "gloss": "esenlik sunuları"
     },
     {
       "surface": "לכפר",
-      "gloss": "keffaret yapmak için"
+      "gloss": "kefaret yapmak için"
     },
     {
       "surface": "בעד",
-      "gloss": "uğruna \/ için"
+      "gloss": "için"
     },
     {
       "surface": "בית",
-      "gloss": "Beyt (ev)"
+      "gloss": "Beyt"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T10:37:53.955367687Z",
+  "timestamp": "2026-08-24T17:08:59.424889157Z",
   "model": "glm-5.3"
 }

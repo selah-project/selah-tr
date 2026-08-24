@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 118,
-  "translation": "Yahve benimle, yardımcılarımın arasında; ben de beni sevenlere bakacağım ⟨⟨galebe ile⟩⟩.",
+  "translation": "Yahve benden yanadır yardımcılarımla beraber; ben de beni nefret edenlere bakacağım.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "benim"
+      "gloss": "benden yana"
     },
     {
       "surface": "בעזרי",
-      "gloss": "yardımcılarımda"
+      "gloss": "yardımcılarımla"
     },
     {
       "surface": "ואני",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בשנאי",
-      "gloss": "beni sevenlere"
+      "gloss": "beni nefret edenlere"
     }
   ],
-  "timestamp": "2026-08-19T11:08:51.273398949Z",
+  "timestamp": "2026-08-24T17:12:36.271748121Z",
   "model": "glm-5.3"
 }

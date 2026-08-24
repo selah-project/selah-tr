@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Ve Moşe ⟨את⟩ kanı aldı ve halkın üzerine serpti ve dedi: İşte ahidin kanı ki Yahve sizinle ⟨את⟩ bütün bu sözlere ⟨על⟩ kesti.",
+  "translation": "Moşe kanı aldı ve halkın üzerine serpti ve dedi: İşte bu, bütün bu sözcüklere dair Yahve'nin sizinle kestiği antlaşmanın kanı.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "הדם",
-      "gloss": "kan"
+      "gloss": "kanı"
     },
     {
       "surface": "ויזרק",
-      "gloss": "ve serpti"
+      "gloss": "serpti"
     },
     {
       "surface": "על",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הברית",
-      "gloss": "ahidin"
+      "gloss": "antlaşmanın"
     },
     {
       "surface": "אשר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "על",
-      "gloss": "üzere"
+      "gloss": "dair"
     },
     {
       "surface": "כל",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "bu sözlerin"
+      "gloss": "sözcüklere"
     },
     {
       "surface": "האלה",
-      "gloss": "şu"
+      "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-19T07:16:57.575162267Z",
+  "timestamp": "2026-08-24T16:59:43.097959388Z",
   "model": "glm-5.3"
 }

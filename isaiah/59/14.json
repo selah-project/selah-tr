@@ -5,27 +5,27 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 59,
-  "translation": "Ve ⟨⟨hüküm⟩⟩ geri itildi, doğruluk uzakta durdu; çünkü meydanda hakikat sendeledi ve dürüstlük giremedi.",
+  "translation": "Ve hukm geri çekildi, salâh uzakta duruyor; çünkü meydanda hakikat sendeledi ve doğruluk giremiyor.",
   "tokens": [
     {
       "surface": "והסג",
-      "gloss": "ve geri çekildi"
+      "gloss": "ve ... geri çekildi"
     },
     {
       "surface": "אחור",
-      "gloss": "geriye"
+      "gloss": "geri"
     },
     {
       "surface": "משפט",
-      "gloss": "hüküm"
+      "gloss": "hukm"
     },
     {
       "surface": "וצדקה",
-      "gloss": "ve doğruluk"
+      "gloss": "ve salâh"
     },
     {
       "surface": "מרחוק",
-      "gloss": "uzaktan"
+      "gloss": "uzakta"
     },
     {
       "surface": "תעמד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ונכחה",
-      "gloss": "ve dürüstlük"
+      "gloss": "ve doğruluk"
     },
     {
       "surface": "לא",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "gücü yetiyor"
+      "gloss": "gücü yetmiyor"
     },
     {
       "surface": "לבוא",
       "gloss": "girmeye"
     }
   ],
-  "timestamp": "2026-08-19T10:03:20.308971974Z",
+  "timestamp": "2026-08-24T17:06:44.579046257Z",
   "model": "glm-5.3"
 }

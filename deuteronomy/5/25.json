@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ve şimdi neden ölelim? Çünkü bu büyük ateş bizi yutsun ⟨⟨את⟩⟩; biz Yahve Elohim'imizin sesini ⟨את⟩ bir daha dinlemeye devam edersek, ölürüz.",
+  "translation": "Ve şimdi neden ölelim? Çünkü bu büyük ateş bizi yiyecek; eğer Yahve Elohim'imizin sesini ⟨את⟩ yine dinlemeye devam edersek, öleceğiz.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "ve şimdi"
+      "gloss": "Ve şimdi"
     },
     {
       "surface": "למה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "bizi yutsun"
+      "gloss": "bizi yiyecek"
     },
     {
       "surface": "האש",
-      "gloss": "⟨bu⟩ ateş"
+      "gloss": "ateş"
     },
     {
       "surface": "הגדלה",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sesi"
+      "marks": "sesini"
     },
     {
       "surface": "קול",
-      "gloss": "ses"
+      "gloss": "sesini"
     },
     {
       "surface": "יהוה",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "עוד",
-      "gloss": "bir daha"
+      "gloss": "yine"
     },
     {
       "surface": "ומתנו",
-      "gloss": "ölürüz"
+      "gloss": "öleceğiz"
     }
   ],
-  "timestamp": "2026-08-19T08:59:29.088549197Z",
+  "timestamp": "2026-08-24T17:02:00.753333598Z",
   "model": "glm-5.3"
 }

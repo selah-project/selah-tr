@@ -5,8 +5,159 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ve ‹o gün\/sıra› oldu: Şimdi Yarden'in batısında\/ötesinde, deniz tarafında olan bütün Emori kralları ve deniz kıyısındaki bütün Kenan kralları, Yahve'nin İsrail oğullarının yüzünden Yarden sularını ⟨את⟩ kurutup ⟨את⟩–kurutuşunu, onların geçmesine kadar duydukları zaman, yürekleri eridi ve içlerinde bir daha ruh kalmadı — İsrail oğullarının yüzünden.",
-  "tokens": [],
-  "timestamp": "2026-08-19T12:13:00.816701132Z",
+  "translation": "Ve olmuştu, öte yanda Şeria'nın, deniz yönünde, bütün Emori krallarının ve deniz kıyısındaki bütün Kenan krallarının işitmesi üzerine ⟨את⟩ şu şeyi — Yahve'nin ⟨את⟩ Şeria'nın sularını İsraoğullarının yüzünden kurutmuş olduğunu, bizim geçmiş olmamıza kadar — yürekleri eridi ve onlarda artık ruh kalmadı, İsraoğullarının yüzünden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ve olmuştu"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "işitmesi üzerine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "krallarının"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori'nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "öte yanında"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Şeria'nın"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "deniz yönünde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ve bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "krallarının"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenan'ın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "kıyısında"
+    },
+    {
+      "surface": "הים",
+      "gloss": "denizin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şu şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "şu şeyi"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "kurutmuş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suları"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularını"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Şeria'nın"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "geçmiş olmamıza"
+    },
+    {
+      "surface": "וימס",
+      "gloss": "eridi"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "yürekleri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve ... değil"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kalmadı"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artık"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yüzünden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsra"
+    }
+  ],
+  "timestamp": "2026-08-24T17:03:00.573273403Z",
   "model": "glm-5.3"
 }

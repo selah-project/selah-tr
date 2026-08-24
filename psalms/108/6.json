@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 108,
-  "translation": "Yücel ⟨ol⟩, ey Elohim, göklerin üzerinde; ve bütün ⟨את⟩ yerin üzerinde ⟨olsun⟩ görkemin.",
+  "translation": "Yüceltilmiş ol, göklerin üzerine, ey Elohim; ve bütün ⟨את⟩ yerin üzerine senin görkemin.",
   "tokens": [
     {
       "surface": "רומה",
-      "gloss": "yücel ⟨ol⟩"
+      "gloss": "yüceltilmiş ol"
     },
     {
       "surface": "על",
-      "gloss": "üzerinde"
+      "gloss": "üzerine"
     },
     {
       "surface": "שמים",
-      "gloss": "gökler"
+      "gloss": "göklerin"
     },
     {
       "surface": "אלהים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ve üzerinde"
+      "gloss": "ve üzerine"
     },
     {
       "surface": "כל",
@@ -33,14 +33,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yer (ארץ ile işaretli)",
-      "gloss_alt": null
+      "gloss": "yerin"
     },
     {
       "surface": "כבודך",
-      "gloss": "görkemin"
+      "gloss": "senin görkemin"
     }
   ],
-  "timestamp": "2026-08-19T11:08:26.481945623Z",
+  "timestamp": "2026-08-24T17:11:44.701793458Z",
   "model": "glm-5.3"
 }

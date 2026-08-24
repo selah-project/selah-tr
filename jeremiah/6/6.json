@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Çünkü Yahve Sevaot böyle dedi: ağaçları kesin ve Yeruşalayim'e karşı kuşatma yığını dökün; o, ziyaret edilecek ⟨⟨olan⟩⟩ kenttir, tamamı ⟨onun⟩ içinde ezmedir.",
+  "translation": "Çünkü Yahve Sevaot şöyle dedi: Ağaçları kesin ve Yeruşalayim'in üzerine kuşatma yığını dökün; o, ziyaret edilecek ⟨the⟩ şehirdir; içi bütünüyle ⟨is⟩ ⟨the⟩ zorbalık.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Çünkü"
+      "gloss": "çünkü"
     },
     {
       "surface": "כה",
-      "gloss": "böyle"
+      "gloss": "şöyle"
     },
     {
       "surface": "אמר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "על",
-      "gloss": "üzerine\/karşı"
+      "gloss": "üzerine"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yeruşalayim'e"
+      "gloss": "Yeruşalayim'in"
     },
     {
       "surface": "סללה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "kent"
+      "gloss": "şehir"
     },
     {
       "surface": "הפקד",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "כלה",
-      "gloss": "tamamı"
+      "gloss": "bütünüyle"
     },
     {
       "surface": "עשק",
-      "gloss": "ezme"
+      "gloss": "zorbalık"
     },
     {
       "surface": "בקרבה",
-      "gloss": "içinde\/onun"
+      "gloss": "içinde"
     }
   ],
-  "timestamp": "2026-08-19T10:06:40.657151361Z",
+  "timestamp": "2026-08-24T17:07:05.026108066Z",
   "model": "glm-5.3"
 }

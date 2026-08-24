@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 23,
-  "translation": "«Efendim, beni dinle: ⟨ואת⟩ — toprak dört yüz şekel gümüş; benimle senin aranda o nedir ki? ve ölünü göm.»",
+  "translation": "Efendim, beni dinle: toprak dört yüz şekel gümüş eder — benimle senin aranda bu ⟨nedir⟩ ki? Ve ⟨את⟩ ölünü defnet.",
   "tokens": [
     {
       "surface": "אדני",
-      "gloss": "efendim"
+      "gloss": "Efendim"
     },
     {
       "surface": "שמעני",
-      "gloss": "dinle beni"
+      "gloss": "beni dinle"
     },
     {
       "surface": "ארץ",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ביני",
-      "gloss": "benimle"
+      "gloss": "benimle (arasında)"
     },
     {
       "surface": "ובינך",
-      "gloss": "ve senin aranda"
+      "gloss": "ve seninle (arasında)"
     },
     {
       "surface": "מה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "o(dur)"
+      "gloss": "o (nedir ki)"
     },
     {
       "surface": "ואת",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "קבר",
-      "gloss": "göm"
+      "gloss": "defnet"
     }
   ],
-  "timestamp": "2026-08-19T07:00:06.759446696Z",
+  "timestamp": "2026-08-24T16:59:18.770686957Z",
   "model": "glm-5.3"
 }

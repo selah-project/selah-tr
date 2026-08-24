@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve terumanız size sayılacak: harmandaki tahıl gibi, şırah havuzunun doluluğu gibi.",
+  "translation": "Ve terumanız size sayılacak, harmandaki tahıl gibi ve şırahirden ⟨dolanış⟩ gibi.",
   "tokens": [
     {
       "surface": "ונחשב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "of"
+      "gloss": "-deki"
     },
     {
       "surface": "הגרן",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "וכמלאה",
-      "gloss": "ve doluluğu gibi"
+      "gloss": "ve dolanış gibi"
     },
     {
       "surface": "מן",
-      "gloss": "of"
+      "gloss": "-den"
     },
     {
       "surface": "היקב",
-      "gloss": "şıra havuzu"
+      "gloss": "şırahiri"
     }
   ],
-  "timestamp": "2026-08-19T08:56:49.522845992Z",
+  "timestamp": "2026-08-24T17:01:53.474513315Z",
   "model": "glm-5.3"
 }

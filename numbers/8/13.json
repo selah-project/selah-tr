@@ -5,8 +5,54 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve-Levilileri Aharon'un ve oğullarının önüne durduracaksın ve onları Yahve'ye bir telvide telvi edeceksin (kaldıracaksın).",
-  "tokens": [],
-  "timestamp": "2026-08-19T07:35:16.473505566Z",
+  "translation": "Ve Levileri Aharon'un ve oğullarının önüne durduracaksın; ⟨את⟩ onları Yahve'ye ⟨אתם⟩ sallama sunusu olarak sallayacaksın.",
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "durduracaksın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levileri"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviler"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önüne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ve önüne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "sallayacaksın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sallama sunusu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve'ye"
+    }
+  ],
+  "timestamp": "2026-08-24T17:01:45.101191715Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve bunlar ⟨הן⟩ Yahve'nin onlarla sınamak üzere bıraktığı uluslardır — ⟨את⟩ Yiśra'el'i, yani Ken'an'ın bütün savaşlarını bilmeyen herkesi sınamak için.",
+  "translation": "Ve işte Yahve'nin bıraktığı uluslar — İsrail'i onlarla sınamak için, ⟨את⟩ Kenaan'ın bütün savaşlarını bilmeyen herkesi ⟨את⟩ bütün ⟨İsrail⟩'i ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "ve bunlar"
+      "gloss": "Ve işte"
     },
     {
       "surface": "הגוים",
@@ -38,20 +38,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yiśra'el'i"
+      "marks": "İsrail'i"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yiśra'el"
+      "gloss": "İsrail'i"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "herkesi"
+      "marks": "herkesi (Kenaan savaşlarını bilmeyen)"
     },
     {
       "surface": "כל",
-      "gloss": "herkes"
+      "gloss": "herkesi"
     },
     {
       "surface": "אשר",
@@ -68,7 +68,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savaşlarını"
+      "marks": "bütün savaşları"
     },
     {
       "surface": "כל",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Ken'an"
+      "gloss": "Kenaan'ın"
     }
   ],
-  "timestamp": "2026-08-19T09:15:16.798848287Z",
+  "timestamp": "2026-08-24T17:03:18.109215831Z",
   "model": "glm-5.3"
 }

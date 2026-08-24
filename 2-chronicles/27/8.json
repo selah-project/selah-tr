@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Yotam ⟨⟨o⟩⟩ yirmi beş yaşındaydı hüküm sürmeye başladığında ve on altı yıl Yeruşalayim'de hüküm sürdü.",
+  "translation": "Yirmi beş yaşındaydı tahta çıktığında, ve on altı yıl hüküm sürdü Yeruşalayim'de.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "yaşında"
+      "gloss": "yaşındaydı"
     },
     {
       "surface": "עשרים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "במלכו",
-      "gloss": "hüküm sürmeye başladığında"
+      "gloss": "tahta çıktığında"
     },
     {
       "surface": "ושש",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "altı"
+      "gloss": "altı (onaltı)"
     },
     {
       "surface": "שנה",
@@ -52,6 +52,6 @@
       "gloss": "Yeruşalayim'de"
     }
   ],
-  "timestamp": "2026-08-19T12:08:49.432768808Z",
+  "timestamp": "2026-08-24T17:16:07.120641364Z",
   "model": "glm-5.3"
 }

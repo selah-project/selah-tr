@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Size mi ⟨⟨bu⟩⟩, o coşkulu şehir, eski günlerden beri ⟨öntarihi⟩ olan? Ayakları onu uzaklara, göçmen olarak taşır.",
+  "translation": "⟨Bu mu⟩ sizin ⟨için⟩ taşkın sevinçli ⟨şehir⟩? ⟨Onun⟩ eski günlerden ⟨beri⟩ eskiliği ⟨var⟩; onu kendi ayakları uzaktan göçmen olarak sürüklediler.",
   "tokens": [
     {
       "surface": "הזאת",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "לכם",
-      "gloss": "size"
+      "gloss": "sizin ⟨için⟩"
     },
     {
       "surface": "עליזה",
-      "gloss": "coşkulu \/ neşeli"
+      "gloss": "taşkın sevinçli"
     },
     {
       "surface": "מימי",
-      "gloss": "günlerinden beri"
+      "gloss": "günlerinden"
     },
     {
       "surface": "קדם",
-      "gloss": "eski \/ öncül"
+      "gloss": "eski"
     },
     {
       "surface": "קדמתה",
-      "gloss": "öntarihi \/ eski kökeni"
+      "gloss": "onun eskiliği"
     },
     {
       "surface": "יבלוה",
-      "gloss": "taşır onu"
+      "gloss": "onu sürüklediler"
     },
     {
       "surface": "רגליה",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "מרחוק",
-      "gloss": "uzaklara"
+      "gloss": "uzaktan"
     },
     {
       "surface": "לגור",
-      "gloss": "göçmen olarak \/ misafir olarak"
+      "gloss": "göçmen olarak"
     }
   ],
-  "timestamp": "2026-08-19T09:55:05.602478331Z",
+  "timestamp": "2026-08-24T17:06:06.964389734Z",
   "model": "glm-5.3"
 }

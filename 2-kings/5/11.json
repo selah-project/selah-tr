@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ama Naaman öfkelendi ve gitti, ve dedi: Bakın, ben demiştim ki bana kesinlikle çıkacak ve duracak ve Yahve'nin, Elohi'nin adıyla çağıracak ve elini ⟨⟨hastalıklı⟩⟩ yerin üstünde sallayacak ve cüzamlıyı iyileştirecekti.",
+  "translation": "Naaman öfkelendi ve gitti ve dedi: İşte, ben ⟨⟨şunu⟩⟩ demiştim: Bana mutlaka çıkar, durur, Yahve'nin, kendi Elohim'inin adıyla çağırır, elini o yerin üzerine sallar ve deriyi (cüzzamı) iyileştirir diye.",
   "tokens": [
     {
       "surface": "ויקצף",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Bakın"
+      "gloss": "işte"
     },
     {
       "surface": "אמרתי",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "יצא",
-      "gloss": "çıkacak"
+      "gloss": "çıkar"
     },
     {
       "surface": "יצוא",
-      "gloss": "kesinlikle çıkacak"
+      "gloss": "mutlaka çıkmaz (mastar pekiştirmesi)"
     },
     {
       "surface": "ועמד",
-      "gloss": "ve duracak"
+      "gloss": "ve durur"
     },
     {
       "surface": "וקרא",
-      "gloss": "ve çağıracak"
+      "gloss": "ve çağırır"
     },
     {
       "surface": "בשם",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "Elohi'nin"
+      "gloss": "kendi Elohim'i"
     },
     {
       "surface": "והניף",
-      "gloss": "ve sallayacak"
+      "gloss": "ve sallar"
     },
     {
       "surface": "ידו",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "המקום",
-      "gloss": "yerin"
+      "gloss": "o yer"
     },
     {
       "surface": "ואסף",
-      "gloss": "ve iyileştirecek"
+      "gloss": "ve iyileştirir (toplar\/geri çevirir)"
     },
     {
       "surface": "המצרע",
-      "gloss": "cüzamlıyı"
+      "gloss": "cüzzamlı"
     }
   ],
-  "timestamp": "2026-08-19T09:44:54.211536151Z",
+  "timestamp": "2026-08-24T17:05:35.618322658Z",
   "model": "glm-5.3"
 }

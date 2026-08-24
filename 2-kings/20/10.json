@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve Hizkiyahu dedi: Gölgenin on basamak eğilmesi kolay; hayır, ama ⟨כי⟩ gölge geriye on basamak dönsün.",
+  "translation": "Hizkiyahu dedi: Gölgenin on basamak ileri eğilmesi kolay; hayır, aksine gölge on basamak geri dönsün.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ve dedi"
+      "gloss": "dedi"
     },
     {
       "surface": "יחזקיהו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "נקל",
-      "gloss": "kolay"
+      "gloss": "kolaydır"
     },
     {
       "surface": "לצל",
-      "gloss": "gölgenin"
+      "gloss": "gölgeye"
     },
     {
       "surface": "לנטות",
-      "gloss": "eğilmesi"
+      "gloss": "eğilmek"
     },
     {
       "surface": "עשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ama"
+      "gloss": "aksine"
     },
     {
       "surface": "ישוב",
@@ -64,6 +64,6 @@
       "gloss": "basamak"
     }
   ],
-  "timestamp": "2026-08-19T09:49:33.047815882Z",
+  "timestamp": "2026-08-24T17:06:00.670866627Z",
   "model": "glm-5.3"
 }

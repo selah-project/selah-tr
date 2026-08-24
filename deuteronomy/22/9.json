@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 22,
-  "translation": "Bağını iki tür tohumla ekmeceksin — ki kutsal olmasın ⟨the⟩ doluluk, ⟨the⟩ tohum ki ekeceksin, ve ⟨the⟩ bağın ürünü.",
+  "translation": "Bağına iki çeşit ekmeyeceksin, yoksa ektiğin tohumun doluluğu ve bağın ürünü ⟨את⟩ kutsal(makbulden çıkır) olur.",
   "tokens": [
     {
       "surface": "לא",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "כרמך",
-      "gloss": "bağın"
+      "gloss": "bağını"
     },
     {
       "surface": "כלאים",
-      "gloss": "iki tür"
+      "gloss": "iki çeşit"
     },
     {
       "surface": "פן",
-      "gloss": "ki ... olmasın"
+      "gloss": "yoksa"
     },
     {
       "surface": "תקדש",
-      "gloss": "kutsanmasın"
+      "gloss": "kutsanır"
     },
     {
       "surface": "המלאה",
-      "gloss": "doluluk"
+      "gloss": "doluluğu"
     },
     {
       "surface": "הזרע",
-      "gloss": "tohum"
+      "gloss": "tohumun"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "תזרע",
-      "gloss": "ekeceksin"
+      "gloss": "ektiğin"
     },
     {
       "surface": "ותבואת",
@@ -56,6 +56,6 @@
       "gloss": "bağın"
     }
   ],
-  "timestamp": "2026-08-19T09:02:46.690785071Z",
+  "timestamp": "2026-08-24T17:02:46.464847690Z",
   "model": "glm-5.3"
 }

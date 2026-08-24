@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve olacaktır ki, Yahve Elohim' seni atalarına — Avraham'a, Yitshak'a ve Yaakov'a — ant içtiği ülkeye getirince, sana vermeye ⟨⟨⟩⟩ büyük ve iyi ⟨the⟩ şehirleri, ⟨the⟩ senin inşa etmediğin ⟨the⟩ şehirleri verecek; büyük ve iyi şehirler ki sen onları inşa etmedin.",
+  "translation": "Ve olmuş olacak: Yahve Elohim seni ⟨את⟩ o toprağa, atalarına — Avraham'a, Yitshak'a ve Yaakov'a — yemin ederek vermek üzere getirdiğinde: büyük ve iyi şehirler, ki onları sen inşa etmedin.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ve olacaktır"
+      "gloss": "ve olmuş olacak"
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "olduğunda"
     },
     {
       "surface": "יביאך",
-      "gloss": "seni getirince"
+      "gloss": "seni getirdiğinde"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ülkeye"
+      "gloss": "o toprak"
     },
     {
       "surface": "אשר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "ant içti"
+      "gloss": "yemin etti"
     },
     {
       "surface": "לאבתיך",
-      "gloss": "atarına"
+      "gloss": "atalarına"
     },
     {
       "surface": "לאברהם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "לתת",
-      "gloss": "vermeye"
+      "gloss": "vermek üzere"
     },
     {
       "surface": "לך",
@@ -92,6 +92,6 @@
       "gloss": "inşa ettin"
     }
   ],
-  "timestamp": "2026-08-19T08:59:09.279379270Z",
+  "timestamp": "2026-08-24T17:02:14.004734130Z",
   "model": "glm-5.3"
 }

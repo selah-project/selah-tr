@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Kötü, yüzünün yüksekliğinden ⟨⟨dolayı⟩⟩ aramaz — tüm tasarıları ⟨⟨şudur⟩⟩: 'Elohim yok.'",
+  "translation": "Kötü, yüzünün kibirli yüksekliğiyle aramaz; bütün düzenleri ⟨şudur⟩: Elohim yok.",
   "tokens": [
     {
       "surface": "רשע",
-      "gloss": "kötü"
+      "gloss": "Kötü"
     },
     {
       "surface": "כגבה",
-      "gloss": "yüksekliğinden"
+      "gloss": "yüksekliğiyle"
     },
     {
       "surface": "אפו",
-      "gloss": "yüzünün \/ burnunun"
+      "gloss": "yüzünün"
     },
     {
       "surface": "בל",
-      "gloss": "değil \/ -mez"
+      "gloss": "...-mez"
     },
     {
       "surface": "ידרש",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "tüm"
+      "gloss": "bütün"
     },
     {
       "surface": "מזמותיו",
-      "gloss": "tasarıları"
+      "gloss": "düzenleri"
     }
   ],
-  "timestamp": "2026-08-19T10:53:31.093748087Z",
+  "timestamp": "2026-08-24T17:10:50.045414445Z",
   "model": "glm-5.3"
 }

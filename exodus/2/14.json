@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Dedi: Seni kim bize önder ve yargıcı olsun diye atadı? Mısırlıyı öldürdüğün gibi beni öldürmek mi ⟨את⟩ söylüyorsun? Moşe korktu ve dedi: Gerçekten ⟨the⟩ iş bilinmiş oldu.",
+  "translation": "Ve dedi: Kim seni üzerimize önder ve yargıcı ⟨olarak⟩ koydu? Mısırlı'yı öldürdüğün gibi beni öldürmek mi ⟨diyorsun⟩? Ve Moşe korktu ve dedi: ⟨Demek⟩ kesin olarak bilindi ⟨bu⟩ iş.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ve dedi"
+      "gloss": "Ve dedi"
     },
     {
       "surface": "מי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שמך",
-      "gloss": "seni atadı"
+      "gloss": "seni koydu"
     },
     {
       "surface": "לאיש",
-      "gloss": "adam"
+      "gloss": "kişi ⟨olarak⟩"
     },
     {
       "surface": "שר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עלינו",
-      "gloss": "bize"
+      "gloss": "üzerimize"
     },
     {
       "surface": "הלהרגני",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "söylüyorsun"
+      "gloss": "⟨diyorsun⟩"
     },
     {
       "surface": "כאשר",
@@ -58,15 +58,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mısırlıyı"
+      "marks": "Mısırlı'yı"
     },
     {
       "surface": "המצרי",
-      "gloss": "Mısırlıyı"
+      "gloss": "Mısırlı"
     },
     {
       "surface": "ויירא",
-      "gloss": "ve korktu"
+      "gloss": "Ve korktu"
     },
     {
       "surface": "משה",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "אכן",
-      "gloss": "gerçekten"
+      "gloss": "kesin olarak"
     },
     {
       "surface": "נודע",
-      "gloss": "bilinmiş oldu"
+      "gloss": "bilindi"
     },
     {
       "surface": "הדבר",
-      "gloss": "iş"
+      "gloss": "⟨bu⟩ iş"
     }
   ],
-  "timestamp": "2026-08-19T07:10:01.250218827Z",
+  "timestamp": "2026-08-24T16:59:50.114131229Z",
   "model": "glm-5.3"
 }

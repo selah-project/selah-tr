@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 119,
-  "translation": "Küçük ⟨⟨את⟩⟩ ben ve hor görülmüşüm; senin buyruklarını unutmadım.",
-  "tokens": [],
-  "timestamp": "2026-08-19T11:10:22.923973801Z",
+  "translation": "Küçüğüm ⟨אנכי⟩ ve hor görülmüşüm; ⟨את⟩ buyrukalarını unutmadım.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "küçüğüm"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "ve hor görülmüşüm"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "buyrukalarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "değil"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-08-24T17:12:34.266522054Z",
   "model": "glm-5.3"
 }

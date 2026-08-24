@@ -5,8 +5,61 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 26,
-  "translation": "kelimelerimi, kullarım peygamberlerin sözlerini dinlemeye — ki onları size erken erken gönderiyorum — siz dinlemediniz.",
-  "tokens": [],
-  "timestamp": "2026-08-19T10:12:24.999369656Z",
+  "translation": "kullarım olan peygamberlerin sözlerine kulak vermeye — ki onları size, erken kalkıp defalarca gönderiyorum — ama siz dinlemediniz,",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "kulak vermeye"
+    },
+    {
+      "surface": "על",
+      "gloss": "aber"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlerine"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kullarım"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "peygamberlerin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gönderiyorum"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "size"
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "erken kalkıp"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "gönderip"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama olmadı"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "dinlemediniz"
+    }
+  ],
+  "timestamp": "2026-08-24T17:07:21.015306114Z",
   "model": "glm-5.3"
 }

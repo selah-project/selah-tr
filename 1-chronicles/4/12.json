@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 4,
-  "translation": "Ve Eşton, Bet-Rafa'yı ⟨את⟩, Paseah'ı ⟨ואת⟩ ve İr-Nahaş'ın babası Tehinna'yı ⟨ואת⟩ babası oldu. Bunlar Reka adamlarıdır.",
+  "translation": "Ve Eşton ⟨את⟩ Beyt-Rafa'yı, ⟨את⟩ Paseah'ı ve ⟨את⟩ Tühina'yı — İr-Nahaş'ın babası — doğurdu; bunlar Rekha adamlarıdır.",
   "tokens": [
     {
       "surface": "ואשתון",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "babası oldu"
+      "gloss": "doğurdu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bet-Rafa'yı"
+      "marks": "Beyt-Rafa'yı"
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Beyt"
     },
     {
       "surface": "רפא",
@@ -40,11 +40,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Tehinna'yı"
+      "marks": "Tühina'yı"
     },
     {
       "surface": "תחנה",
-      "gloss": "Tehinna"
+      "gloss": "Tühina"
     },
     {
       "surface": "אבי",
@@ -68,9 +68,9 @@
     },
     {
       "surface": "רכה",
-      "gloss": "Reka"
+      "gloss": "Rekha"
     }
   ],
-  "timestamp": "2026-08-19T11:53:54.182451879Z",
+  "timestamp": "2026-08-24T17:15:30.804212267Z",
   "model": "glm-5.3"
 }

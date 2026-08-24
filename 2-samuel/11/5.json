@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve kadın gebe kaldı; haber gönderip David'e bildirdi ve şöyle dedi: Gebe ⟨⟨ben⟩⟩.",
+  "translation": "Ve kadın gebe kaldı; haber gönderip David'e bildirdi ve şöyle dedi: Gebe kaldım.",
   "tokens": [
     {
       "surface": "ותהר",
-      "gloss": "ve kadın gebe kaldı"
+      "gloss": "gebe kaldı"
     },
     {
       "surface": "האשה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ותשלח",
-      "gloss": "haber gönderip"
+      "gloss": "gönderip"
     },
     {
       "surface": "ותגד",
@@ -40,6 +40,6 @@
       "gloss": "ben"
     }
   ],
-  "timestamp": "2026-08-19T09:30:39.541366742Z",
+  "timestamp": "2026-08-24T17:04:52.518533183Z",
   "model": "glm-5.3"
 }

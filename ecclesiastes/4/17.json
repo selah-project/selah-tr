@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tr",
   "chapter": 4,
-  "translation": "Ayağını koru, Elohim'in evine ⟨the⟩ yürüdüğünde; dinlemeye yakın ol, akılsızların kurbanı vermelerinden — çünkü ⟨onlar⟩ kötülüğü yapmayı bilmezler.",
+  "translation": "Ayağını koru, Beyt-Elohim'in evine ⟨the⟩ gittiğinde; ve dinlemeye yakın ol, ahmakların kurban vermelerinden; çünkü onlar kötülük yapmayı bilmezler.",
   "tokens": [
     {
       "surface": "שמר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "olduğunda"
+      "gloss": "-dığında"
     },
     {
       "surface": "תלך",
-      "gloss": "yürüdüğünde"
+      "gloss": "gittiğinde"
     },
     {
       "surface": "אל",
-      "gloss": "⟨the⟩ ... -e"
+      "gloss": "doğru"
     },
     {
       "surface": "בית",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "מתת",
-      "gloss": "vermelerinden"
+      "gloss": "vermekten"
     },
     {
       "surface": "הכסילים",
-      "gloss": "akılsızların"
+      "gloss": "ahmakların"
     },
     {
       "surface": "זבח",
-      "gloss": "kurbanı"
+      "gloss": "kurban"
     },
     {
       "surface": "כי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אינם",
-      "gloss": "değiller"
+      "gloss": "onlar değil"
     },
     {
       "surface": "יודעים",
-      "gloss": "bilir"
+      "gloss": "bilirler"
     },
     {
       "surface": "לעשות",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "רע",
-      "gloss": "kötülüğü"
+      "gloss": "kötü"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.016699282Z",
+  "timestamp": "2026-08-24T17:14:36.415258583Z",
   "model": "glm-5.3"
 }

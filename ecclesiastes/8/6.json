@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Çünkü her dileğin bir zamanı ve yargısı vardır ⟨⟨vardır⟩⟩; çünkü insanın kötülüğü onun üzerine çok büyüktür.",
+  "translation": "Çünkü her arzuya ⟨bir⟩ zaman ve yargı vardır; çünkü insanın kötülüğü onun üzerine çoktur.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "her"
+      "gloss": "her ... için"
     },
     {
       "surface": "חפץ",
-      "gloss": "dileğin"
+      "gloss": "arzu"
     },
     {
       "surface": "יש",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "עת",
-      "gloss": "bir zamanı"
+      "gloss": "zaman"
     },
     {
       "surface": "ומשפט",
-      "gloss": "ve yargısı"
+      "gloss": "ve yargı"
     },
     {
       "surface": "כי",
@@ -52,6 +52,6 @@
       "gloss": "onun üzerine"
     }
   ],
-  "timestamp": "2026-08-19T11:38:27.474848812Z",
+  "timestamp": "2026-08-24T17:14:36.655601458Z",
   "model": "glm-5.3"
 }

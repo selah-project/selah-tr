@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ama bana karşı günah işleyen ⟨⟨kendi⟩⟩ canına şiddet eder; beni reddedenlerin tümü ölümü sever.",
+  "translation": "Beni ıskalayan canına zulmeder; benim bütün nefret ettiklerim ⟨is⟩ ölümü severler.",
   "tokens": [
     {
       "surface": "וחטאי",
-      "gloss": "ve bana karşı günah işleyen"
+      "gloss": "beni ıskalayan"
     },
     {
       "surface": "חמס",
-      "gloss": "şiddet eder"
+      "gloss": "zulmeder"
     },
     {
       "surface": "נפשו",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "כל",
-      "gloss": "tümü"
+      "gloss": "bütün"
     },
     {
       "surface": "משנאי",
-      "gloss": "beni reddedenlerin"
+      "gloss": "benim nefret ettiklerim"
     },
     {
       "surface": "אהבו",
-      "gloss": "sever"
+      "gloss": "severler"
     },
     {
       "surface": "מות",
       "gloss": "ölümü"
     }
   ],
-  "timestamp": "2026-08-19T11:18:31.313407447Z",
+  "timestamp": "2026-08-24T17:13:08.654328668Z",
   "model": "glm-5.3"
 }

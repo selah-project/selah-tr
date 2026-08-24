@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 73,
-  "translation": "⟨מקדשי אל'e⟩ gelinceye kadar — El'in mabedlerine girinceye kadar — onların sonunu anladım.",
+  "translation": "Ta ki Elohim'in mabedlerine ⟨את⟩ girene kadar; o zaman sonlarını anladım.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "-e kadar"
+      "gloss": "ta ki"
     },
     {
       "surface": "אבוא",
-      "gloss": "gelinceye kadar"
+      "gloss": "girene kadar"
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "içine"
     },
     {
       "surface": "מקדשי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "El'in"
+      "gloss": "Elohim'in"
     },
     {
       "surface": "אבינה",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "לאחריתם",
-      "gloss": "onların sonunu"
+      "gloss": "sonlarını"
     }
   ],
-  "timestamp": "2026-08-19T11:02:23.205221770Z",
+  "timestamp": "2026-08-24T17:11:39.058528207Z",
   "model": "glm-5.3"
 }

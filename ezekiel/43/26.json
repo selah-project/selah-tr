@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 43,
-  "translation": "Yedi gün boyunca ⟨את⟩ sunağı arıtacaklar ve ⟨את⟩ ⟨אתו⟩ onu temizleyecekler ve elini dolduracaklar.",
+  "translation": "Yedi gün ⟨את⟩ miizbeah'ı temizleyecekler (kefara) ve onu arındıracaklar; ⟨את⟩ onun elini dolduracaklar.",
   "tokens": [
     {
       "surface": "שבעת",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "יכפרו",
-      "gloss": "arıtacaklar (kefaret)"
+      "gloss": "temizleyecekler (kefara)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sunağı"
+      "marks": "miizbeah'ı (sunak)"
     },
     {
       "surface": "המזבח",
-      "gloss": "sunağı"
+      "gloss": "sunak (miizbeah)"
     },
     {
       "surface": "וטהרו",
-      "gloss": "ve temizleyecekler"
+      "gloss": "ve arındıracaklar"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "onu (sunağı)"
+      "gloss": "⟨את⟩",
+      "marks": "onu (sunak)"
     },
     {
       "surface": "ומלאו",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "ידו",
-      "gloss": "elini"
+      "gloss": "onun eli"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.034682835Z",
+  "timestamp": "2026-08-24T17:08:50.355976069Z",
   "model": "glm-5.3"
 }

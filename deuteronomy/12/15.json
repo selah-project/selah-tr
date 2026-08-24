@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Yalnız canının her arzusuna göre ⟨בשר⟩ eti kesip yiyebilirsin — bütün kapılarında, Yahve Elohim'in sana verdiği bereket üzere; murdar ve temiz onu yiyebilir, ceylan ve geyik gibi.",
+  "translation": "Ancak, canının her arzusunda ⟨את⟩ keseceksin ve et yiyeceksin, Yahve Elohim'in bereketi gibi, sana tüm kapılarında vermiş olduğu; ⟨the⟩ murdar ve ⟨the⟩ temiz onu yiyecek, ceylan ve geyik gibi.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "yalnız"
+      "gloss": "ancak"
     },
     {
       "surface": "בכל",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אות",
-      "gloss": "arzusuna"
+      "gloss": "arzu(n)"
     },
     {
       "surface": "נפשך",
-      "gloss": "canının"
+      "gloss": "canın"
     },
     {
       "surface": "תזבח",
-      "gloss": "kesebilirsin"
+      "gloss": "keseceksin"
     },
     {
       "surface": "ואכלת",
-      "gloss": "ve yiyebilirsin"
+      "gloss": "ve yiyeceksin"
     },
     {
       "surface": "בשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כברכת",
-      "gloss": "bereket üzere"
+      "gloss": "bereketi gibi"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "verdiği"
+      "gloss": "vermiş olan"
     },
     {
       "surface": "לך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "bütün"
+      "gloss": "tüm"
     },
     {
       "surface": "שעריך",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "יאכלנו",
-      "gloss": "onu yiyebilir"
+      "gloss": "onu yiyecek"
     },
     {
       "surface": "כצבי",
@@ -88,6 +88,6 @@
       "gloss": "ve geyik gibi"
     }
   ],
-  "timestamp": "2026-08-19T09:01:27.079059719Z",
+  "timestamp": "2026-08-24T17:02:16.293045444Z",
   "model": "glm-5.3"
 }

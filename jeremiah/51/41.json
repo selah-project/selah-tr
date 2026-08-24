@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 51,
-  "translation": "Nasıl yakalandı Şeşak, ve ele geçirildi ⟨the⟩ tüm yeryüzünün övgüsü! Nasıl oldu Babil uluslar arasında ⟨bir⟩ yıkıma!",
+  "translation": "Nasıl ele geçirildi Şeşak, ve nasıl yakalandı bütün yeryüzünün övgüsü! Nasıl oldu Babil bir yıkıma ⟨⟨döndü⟩⟩ uluslar arasında!",
   "tokens": [
     {
       "surface": "איך",
-      "gloss": "Nasıl"
+      "gloss": "nasıl"
     },
     {
       "surface": "נלכדה",
-      "gloss": "yakalandı"
+      "gloss": "ele geçirildi"
     },
     {
       "surface": "ששך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ותתפש",
-      "gloss": "ve ele geçirildi"
+      "gloss": "ve yakalandı"
     },
     {
       "surface": "תהלת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "tüm"
+      "gloss": "bütün"
     },
     {
       "surface": "הארץ",
-      "gloss": "yeryüzü"
+      "gloss": "yeryüzünün"
     },
     {
       "surface": "איך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לשמה",
-      "gloss": "yıkıma"
+      "gloss": "bir yıkıma"
     },
     {
       "surface": "בבל",
@@ -56,6 +56,6 @@
       "gloss": "uluslar arasında"
     }
   ],
-  "timestamp": "2026-08-19T10:22:23.240875473Z",
+  "timestamp": "2026-08-24T17:08:31.397779156Z",
   "model": "glm-5.3"
 }

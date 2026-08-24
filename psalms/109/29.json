@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 109,
-  "translation": "Süttukları gibi giysinler örtünsünler utancı, bürünsünler kuzu gibi kendi utançlarıyla.",
-  "tokens": [],
-  "timestamp": "2026-08-19T11:08:01.336037898Z",
+  "translation": "Kuşansın giysinler beni suçlayanlar utancı, ve bürünsünler kendi rezilliğiyle ⟨את⟩⟨gibi⟩ bir kaftan ⟨gibi⟩.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "giysinler (kuşansınlar)"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "beni suçlayanlar"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "utancı"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "ve bürünsünler"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "bir kaftan gibi"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "kendi rezilliğiyle"
+    }
+  ],
+  "timestamp": "2026-08-24T17:12:20.118368578Z",
   "model": "glm-5.3"
 }

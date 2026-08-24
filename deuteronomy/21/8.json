@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Bağışla ⟨⟨halkını⟩⟩ Yahve, İsrail'i, ki sen fidyeyle kurtardın onları, Yahve; ve koyma masum kan ⟨halkının⟩ ortasında, İsrail halkının; ve bağışlanacak onlara ⟨o⟩ kan.",
+  "translation": "Bağışla Yahve, halkını İsrail'i, ki ⟨את⟩ sen fidyeyle kurtardın; ve masum kanı halkının İsrail'in ortasında koyma; ve kan onlar için bağışlanacaktır.",
   "tokens": [
     {
       "surface": "כפר",
-      "gloss": "Bağışla"
+      "gloss": "bağışla"
     },
     {
       "surface": "לעמך",
-      "gloss": "⟨halkını⟩"
+      "gloss": "halkın için"
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail'i"
+      "gloss": "İsrail"
     },
     {
       "surface": "אשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ve koyma"
+      "gloss": "ve verme"
     },
     {
       "surface": "תתן",
-      "gloss": "koyma"
+      "gloss": "koy"
     },
     {
       "surface": "דם",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "להם",
-      "gloss": "onlara"
+      "gloss": "onlar için"
     },
     {
       "surface": "הדם",
-      "gloss": "⟨o⟩ kan"
+      "gloss": "kan"
     }
   ],
-  "timestamp": "2026-08-19T09:03:48.428874561Z",
+  "timestamp": "2026-08-24T17:02:37.456005874Z",
   "model": "glm-5.3"
 }

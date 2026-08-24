@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 18,
-  "translation": "İsrail kralı Yehoşafat'a dedi: Yahve'ye ⟨את⟩ sormak için O'ndan ⟨מאתו⟩ ⟨için⟩ bir adam daha var; ama ben ondan nefret ediyorum, çünkü benim hakkımda iyi değil kötülük peygamberlik ediyor — bütün günleri ⟨böyle⟩; o, İmla oğlu Mişayahu'dur. Yehoşafat dedi: Kral öyle söylemesin.",
+  "translation": "İsrail kralı Yehoşafat'a dedi: «Yahve'yi ⟨את⟩ sormak için ⟨את⟩ O'ndan ⟨⟨bir adam⟩⟩ daha var; ama ben ⟨את⟩ onu sevmiyorum, çünkü ⟨⟨o⟩⟩ bana iyi şey değil, bütün günleri hep kötüyü peygamberlik ediyor — o, İmla'nın oğlu Mikeyahu'dur.» Yehoşafat dedi: «Kral böyle söylemesin.»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ve dedi"
+      "gloss": "dedi"
     },
     {
       "surface": "מלך",
-      "gloss": "kral"
+      "gloss": "kralı"
     },
     {
       "surface": "ישראל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "e"
+      "gloss": "...e"
     },
     {
       "surface": "יהושפט",
@@ -46,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahve"
+      "marks": "Yahve'yi"
     },
     {
       "surface": "יהוה",
@@ -54,8 +54,8 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ ⟨מאתו⟩ O'ndan",
-      "marks": "O'ndan"
+      "gloss": "⟨את⟩ O'ndan",
+      "marks": "O'ndan (Yahve'den)"
     },
     {
       "surface": "ואני",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "שנאתיהו",
-      "gloss": "ondan nefret ediyorum"
+      "gloss": "onu sevmiyorum"
     },
     {
       "surface": "כי",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "איננו",
-      "gloss": "değil"
+      "gloss": "değildir"
     },
     {
       "surface": "מתנבא",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "עלי",
-      "gloss": "benim hakkımda"
+      "gloss": "bana hakkında"
     },
     {
       "surface": "לטובה",
-      "gloss": "iyi"
+      "gloss": "iyi şey"
     },
     {
       "surface": "כי",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "לרעה",
-      "gloss": "kötülüğe"
+      "gloss": "kötüye"
     },
     {
       "surface": "הוא",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mişayahu"
+      "gloss": "Mikeyahu"
     },
     {
       "surface": "בן",
@@ -119,7 +119,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ve dedi"
+      "gloss": "dedi"
     },
     {
       "surface": "יהושפט",
@@ -127,7 +127,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "öyle"
+      "gloss": "-me"
     },
     {
       "surface": "יאמר",
@@ -142,6 +142,6 @@
       "gloss": "böyle"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.030288373Z",
+  "timestamp": "2026-08-24T17:16:25.869980304Z",
   "model": "glm-5.3"
 }

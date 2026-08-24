@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ve siz beni bıraktınız ve öteki ilahlara kulluk ettiniz; bu yüzden sizi bir daha kurtarmayacağım.",
+  "translation": "Ve siz beni bıraktınız ve başka ilahlara kulluk ettiniz; bu yüzden sizi bir daha kurtarmayacağım.",
   "tokens": [
     {
       "surface": "ואתם",
@@ -17,7 +17,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אותי⟩ beni"
+      "gloss": "⟨את⟩ beni",
+      "marks": "beni"
     },
     {
       "surface": "ותעבדו",
@@ -25,11 +26,11 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "ilahlara"
+      "gloss": "ilahlar"
     },
     {
       "surface": "אחרים",
-      "gloss": "öteki"
+      "gloss": "başka"
     },
     {
       "surface": "לכן",
@@ -37,11 +38,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "-ma"
     },
     {
       "surface": "אוסיף",
-      "gloss": "bir daha (kurtaracağım)"
+      "gloss": "bir daha (eklemeyeceğim)"
     },
     {
       "surface": "להושיע",
@@ -49,9 +50,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ sizi"
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.017385024Z",
+  "timestamp": "2026-08-24T17:03:07.256409289Z",
   "model": "glm-5.3"
 }

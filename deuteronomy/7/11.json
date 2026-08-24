@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve ⟨את⟩ buyruğu, ⟨את⟩ hükümleri ve ⟨את⟩ mişpatları koruyacaksın — bugün sana onları yapman için benim buyurduğum ⟨the⟩ şekilde.",
+  "translation": "Ve ⟨את⟩ buyruğu, ⟨את⟩ kuralları ve ⟨את⟩ hükümleri koruyacaksın — ki bunları sana bugün yapman için ben emrediyorum.",
   "tokens": [
     {
       "surface": "ושמרת",
-      "gloss": "ve koruyacaksın"
+      "gloss": "koruyacaksın"
     },
     {
       "surface": "את",
@@ -18,7 +18,16 @@
     },
     {
       "surface": "המצוה",
-      "gloss": "buyruk"
+      "gloss": "buyruğu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "kuralları"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kuralları"
     },
     {
       "surface": "ואת",
@@ -26,21 +35,12 @@
       "marks": "hükümleri"
     },
     {
-      "surface": "החקים",
-      "gloss": "hükümler"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "ve ⟨את⟩",
-      "marks": "mişpatları"
-    },
-    {
       "surface": "המשפטים",
-      "gloss": "mişpatlar"
+      "gloss": "hükümleri"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki bunları"
     },
     {
       "surface": "אנכי",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "sana buyuruyorum"
+      "gloss": "sana emrediyorum"
     },
     {
       "surface": "היום",
@@ -56,9 +56,9 @@
     },
     {
       "surface": "לעשותם",
-      "gloss": "onları yapmak için"
+      "gloss": "yapman için"
     }
   ],
-  "timestamp": "2026-08-19T12:12:39.065323691Z",
+  "timestamp": "2026-08-24T17:02:24.866549951Z",
   "model": "glm-5.3"
 }

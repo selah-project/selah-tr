@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 38,
-  "translation": "İşte, Ахaz'ın basamaklarında güneşle geriye on basamak inen basamakların gölgesini geri çeviriyorum ⟨את⟩; ve güneş geri döndü inmiş olduğu basamaklarda on basamak.",
+  "translation": "İşte, ben Ahaz'ın basamaklarında, güneşle birlikte on basamak geriye inen ⟨את⟩ gölgeyi geri çeviriyorum; ve güneş, inmiş olduğu basamaklarda on basamak geri döndü.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "işte"
+      "gloss": "işte, ben"
     },
     {
       "surface": "משיב",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gölge"
+      "marks": "gölgeyi"
     },
     {
       "surface": "צל",
@@ -89,6 +89,6 @@
       "gloss": "inmiş olduğu"
     }
   ],
-  "timestamp": "2026-08-19T09:58:23.353287409Z",
+  "timestamp": "2026-08-24T17:06:53.397101396Z",
   "model": "glm-5.3"
 }

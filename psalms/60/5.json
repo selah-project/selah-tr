@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 60,
-  "translation": "Halkına ⟨⟨zor⟩⟩ şeyler gösterdin; bize sarsıntı şarabı içirdin.",
+  "translation": "Halkına zor şeyler gösterdin; bize sersemletici şaraptan içirdin.",
   "tokens": [
     {
       "surface": "הראיתה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "קשה",
-      "gloss": "zor"
+      "gloss": "zor şeyler"
     },
     {
       "surface": "השקיתנו",
-      "gloss": "bize içirdin"
+      "gloss": "içirdin bize"
     },
     {
       "surface": "יין",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "תרעלה",
-      "gloss": "sarsıntı"
+      "gloss": "sersemletici"
     }
   ],
-  "timestamp": "2026-08-19T11:00:22.710020565Z",
+  "timestamp": "2026-08-24T17:11:35.746703221Z",
   "model": "glm-5.3"
 }

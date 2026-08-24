@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 109,
-  "translation": "Çünkü ⟨ben⟩ ezik ve yoksul ⟨olan⟩ benim, ve içimde ⟨⟨is⟩⟩ yüreğim yaralı.",
+  "translation": "Çünkü ben yoksul ve düşkünüm, ve içimde yaramış ⟨⟩'dir kalbim.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עני",
-      "gloss": "ezik"
+      "gloss": "yoksul"
     },
     {
       "surface": "ואביון",
-      "gloss": "ve yoksul"
+      "gloss": "ve düşkün"
     },
     {
       "surface": "אנכי",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "ולבי",
-      "gloss": "ve yüreğim"
+      "gloss": "ve kalbim"
     },
     {
       "surface": "חלל",
-      "gloss": "yaralı"
+      "gloss": "yaramış"
     },
     {
       "surface": "בקרבי",
       "gloss": "içimde"
     }
   ],
-  "timestamp": "2026-08-19T11:07:58.305089576Z",
+  "timestamp": "2026-08-24T17:12:31.099787472Z",
   "model": "glm-5.3"
 }

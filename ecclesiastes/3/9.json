@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tr",
   "chapter": 3,
-  "translation": "⟨⟩ Ne kazanır ⟨o⟩ yapan, ⟨⟨בַאֲשֶׁר⟩⟩ ki o zoğ çekiyor?",
+  "translation": "⟨Ne⟩ kazancı ⟨vardır⟩ ⟨onun ki⟩ yapanın, ⟨şu şeyde⟩ ⟨o⟩ ⟨ki⟩ o emek veriyor?",
   "tokens": [
     {
       "surface": "מה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "העושה",
-      "gloss": "yapan"
+      "gloss": "yapanın"
     },
     {
       "surface": "באשר",
-      "gloss": "şeyde ki"
+      "gloss": "şu şeyde ki"
     },
     {
       "surface": "הוא",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "עמל",
-      "gloss": "zahmet çekiyor"
+      "gloss": "emek veriyor"
     }
   ],
-  "timestamp": "2026-08-19T12:24:34.774749564Z",
+  "timestamp": "2026-08-24T17:14:24.904346860Z",
   "model": "glm-5.3"
 }

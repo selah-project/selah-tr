@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 30,
-  "translation": "İsrail oğullarının başlarını sayımlarına göre yükselttiğinde ⟨את⟩, her kişi canının fidyesini Yahve'ye verecek; onları sayarken ⟨אתם⟩ — ve sayımları sırasında ⟨אתם⟩ onların aralarında veba olmayacak.",
+  "translation": "İsrail oğullarının başını sayımlarına göre kaldırdığında, her kişi Yahve'ye canı için bir fidye verecek, onları sayarken; böylece onları sayarken aralarında veba olmayacak.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ettiğinde"
+      "gloss": "–dığında"
     },
     {
       "surface": "תשא",
-      "gloss": "yükselteceksin"
+      "gloss": "kaldıracaksın"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "İsrail oğullarının başlarını"
+      "marks": "başları"
     },
     {
       "surface": "ראש",
-      "gloss": "başlarını"
+      "gloss": "baş"
     },
     {
       "surface": "בני",
-      "gloss": "oğullarının"
+      "gloss": "oğulları"
     },
     {
       "surface": "ישראל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "ve verecekler"
+      "gloss": "verecekler"
     },
     {
       "surface": "איש",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "כפר",
-      "gloss": "fide"
+      "gloss": "fidye"
     },
     {
       "surface": "נפשו",
-      "gloss": "canının"
+      "gloss": "canı için"
     },
     {
       "surface": "ליהוה",
@@ -62,20 +62,19 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları"
     },
     {
       "surface": "ולא",
-      "gloss": "ve olmayacak"
+      "gloss": "olmayacak"
     },
     {
       "surface": "יהיה",
-      "gloss": "olacak"
+      "gloss": "olmak"
     },
     {
       "surface": "בהם",
-      "gloss": "onların aralarında"
+      "gloss": "aralarında"
     },
     {
       "surface": "נגף",
@@ -87,10 +86,9 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.022711711Z",
+  "timestamp": "2026-08-24T17:00:31.272294879Z",
   "model": "glm-5.3"
 }

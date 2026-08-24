@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 144,
-  "translation": "Ki onların ağzı boşluk konuşur ve sağ elleri ⟨⟨yalan⟩⟩ sağ elidir.",
+  "translation": "Ağzıları boşluk konuşur ve sağ elleri ⟨onların⟩ sahtekârlık sağıdır.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "kimin"
     },
     {
       "surface": "פיהם",
-      "gloss": "onların ağzı"
+      "gloss": "ağızları"
     },
     {
       "surface": "דבר",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "שקר",
-      "gloss": "yalan"
+      "gloss": "sahtekârlık"
     }
   ],
-  "timestamp": "2026-08-19T12:22:59.999259954Z",
+  "timestamp": "2026-08-24T17:12:32.824721402Z",
   "model": "glm-5.3"
 }

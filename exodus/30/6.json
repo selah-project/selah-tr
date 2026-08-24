@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 30,
-  "translation": "Onu, ⟨את⟩ şehadet sandığının önündeki perdenin önüne koyacaksın; şehadetin üstündeki kapakların — ⟨העדת⟩ ki orada seninle buluşacağım — önüne.",
+  "translation": "Onu tanıklık sandığının önündeki perdenin önüne koyacaksın, tanıklığın üstündeki kapak olanın önüne, orada seninle buluşacağım yere.",
   "tokens": [
     {
       "surface": "ונתתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "onu"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "על",
-      "gloss": "üstündeki"
+      "gloss": "önünde"
     },
     {
       "surface": "ארן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "şehadetin"
+      "gloss": "tanıklığın"
     },
     {
       "surface": "לפני",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "şehadetin"
+      "gloss": "tanıklık"
     },
     {
       "surface": "אשר",
@@ -77,6 +77,6 @@
       "gloss": "orada"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.022400121Z",
+  "timestamp": "2026-08-24T17:00:41.155499552Z",
   "model": "glm-5.3"
 }

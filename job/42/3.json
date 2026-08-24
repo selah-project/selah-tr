@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "tr",
   "chapter": 42,
-  "translation": "Kimdir bu, bilgiden yoksun ⟨⟨gizli⟩⟩ tasarımı saklayan? Bu yüzden bildirdim ama anlamadım; bana göre aşkın ⟨harikalar⟩ bunlar, bilemedim.",
+  "translation": "«Kim ⟨bu⟩, bilgisizce ⟨את⟩ planı gizleyen? Bu yüzden ben bildirdim ve anlayamadım; benden ⟨çok⟩ yüce ⟨olan⟩ harikulade şeyler, ve ben bilemedim.»",
   "tokens": [
     {
       "surface": "מי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "מעלים",
-      "gloss": "saklayan"
+      "gloss": "gizleyen"
     },
     {
       "surface": "עצה",
-      "gloss": "tasarım \/ danışma"
+      "gloss": "plan"
     },
     {
       "surface": "בלי",
-      "gloss": "yoksun"
+      "gloss": "bilgisizce"
     },
     {
       "surface": "דעת",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve değil"
+      "gloss": "ve ... değil"
     },
     {
       "surface": "אבין",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "נפלאות",
-      "gloss": "harikalar \/ aşılmaz şeyler"
+      "gloss": "harikulade şeyler"
     },
     {
       "surface": "ממני",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve değil"
+      "gloss": "ve ... değil"
     },
     {
       "surface": "אדע",
       "gloss": "bilirim"
     }
   ],
-  "timestamp": "2026-08-19T11:33:29.566766777Z",
+  "timestamp": "2026-08-24T17:14:20.652022488Z",
   "model": "glm-5.3"
 }

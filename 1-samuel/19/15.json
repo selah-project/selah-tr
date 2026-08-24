@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve Şaul, Davut'u görmek için elçileri gönderip dedi: Onu yatakla bana yukarı çıkarın, öldürmek için.",
+  "translation": "Şaul ⟨את⟩ elçileri yeniden görmek üzere ⟨את⟩ Davud'u gönderdi, şöyle diyerek: \"Onu ⟨את⟩ ⟨אתו⟩ yatağıyla bana kaldırın, öldürmek için.\"",
   "tokens": [
     {
       "surface": "וישלח",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "לראות",
-      "gloss": "görmek için"
+      "gloss": "görmek üzere"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Davut'u"
+      "marks": "Davud'u"
     },
     {
       "surface": "דוד",
-      "gloss": "Davut'u"
+      "gloss": "Davud'u"
     },
     {
       "surface": "לאמר",
-      "gloss": "demesi için"
+      "gloss": "şöyle diyerek"
     },
     {
       "surface": "העלו",
-      "gloss": "yukarı çıkarın"
+      "gloss": "kaldırın"
     },
     {
       "surface": "אתו",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "במטה",
-      "gloss": "yatakla"
+      "gloss": "yatağıyla"
     },
     {
       "surface": "אלי",
@@ -63,6 +63,6 @@
       "gloss": "öldürmek için"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.031497420Z",
+  "timestamp": "2026-08-24T17:55:22.549389722Z",
   "model": "glm-5.3"
 }

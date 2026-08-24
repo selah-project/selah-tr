@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "tr",
   "chapter": 18,
-  "translation": "İşte yalnızca bunlar ⟨והם⟩ zalimin meskenleridir, ve bu, El'in bilmediği ⟨kimse⟩⟨için⟩ yerdir.",
+  "translation": "Gerçekten bunlar zalimin meskenleridir, ve bu, El'i bilmeyenin ⟨yeridir⟩.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "yalnızca"
+      "gloss": "gerçekten"
     },
     {
       "surface": "אלה",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "מקום",
-      "gloss": "yer"
+      "gloss": "yeri"
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "bilmeyenin"
     },
     {
       "surface": "ידע",
-      "gloss": "bildiği"
+      "gloss": "bilmeyenin"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": "El'i"
     }
   ],
-  "timestamp": "2026-08-19T11:27:30.301631992Z",
+  "timestamp": "2026-08-24T17:13:40.431123603Z",
   "model": "glm-5.3"
 }

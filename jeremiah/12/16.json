@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Ve olacak ki eğer özenle öğrenirlerse ⟨את⟩ halkımın yollarını, adımla and içmeyi — 'Yahve diridir' — halkımı ⟨את⟩ Baal'la and içmeye öğrettikleri gibi, halkımın ortasında kurulacaklar.",
+  "translation": "Ve olmuş olacak, eğer halkımın yollarını öğrenmeyi öğrenebilirlerse, adımla and içmeye — 'Yahve diridir' — tıpkı halkımı Baal ile and içmeye öğrettikleri gibi, halkımın ortasında kurulacaklar.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ve olacak"
+      "gloss": "ve olmuş olacak"
     },
     {
       "surface": "אם",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "למד",
-      "gloss": "özenle"
+      "gloss": "öğrenmeyi"
     },
     {
       "surface": "ילמדו",
-      "gloss": "öğrenirlerse"
+      "gloss": "öğrenebilirlerse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yollarım"
+      "marks": "halkımın yollarını"
     },
     {
       "surface": "דרכי",
-      "gloss": "yollarım"
+      "gloss": "yollarını"
     },
     {
       "surface": "עמי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "להשבע",
-      "gloss": "and içmeyi"
+      "gloss": "and içmeye"
     },
     {
       "surface": "בשמי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "diri"
+      "gloss": "diridir"
     },
     {
       "surface": "יהוה",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "gibi"
+      "gloss": "tıpkı ... gibi"
     },
     {
       "surface": "למדו",
-      "gloss": "öğrettiler"
+      "gloss": "öğrettikleri"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "halkım"
+      "marks": "halkımı"
     },
     {
       "surface": "עמי",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "בבעל",
-      "gloss": "Baal'la"
+      "gloss": "Baal ile"
     },
     {
       "surface": "ונבנו",
-      "gloss": "ve kurulacaklar"
+      "gloss": "kurulacaklar"
     },
     {
       "surface": "בתוך",
@@ -90,6 +90,6 @@
       "gloss": "halkımın"
     }
   ],
-  "timestamp": "2026-08-19T10:08:36.475408791Z",
+  "timestamp": "2026-08-24T17:07:13.072501547Z",
   "model": "glm-5.3"
 }

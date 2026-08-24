@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 119,
-  "translation": "Henüz ezilmeden önce ben ⟨⟨⟩⟩ şaşıyordum; ve şimdi sözünü korudum.",
+  "translation": "Ezilmeden önce ben şaşırıp sapıttım; ve şimdi senin sözünü korudum.",
   "tokens": [
     {
       "surface": "טרם",
-      "gloss": "henüz...önce"
+      "gloss": "önce"
     },
     {
       "surface": "אענה",
-      "gloss": "ezildim"
+      "gloss": "ezilirdim"
     },
     {
       "surface": "אני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שגג",
-      "gloss": "şaşıyordum"
+      "gloss": "şaşırıp sapıttım"
     },
     {
       "surface": "ועתה",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "אמרתך",
-      "gloss": "sözünü"
+      "gloss": "senin sözünü"
     },
     {
       "surface": "שמרתי",
       "gloss": "korudum"
     }
   ],
-  "timestamp": "2026-08-19T12:22:33.414927989Z",
+  "timestamp": "2026-08-24T17:12:16.552891949Z",
   "model": "glm-5.3"
 }

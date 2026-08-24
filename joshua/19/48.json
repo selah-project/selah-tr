@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Bu ⟨⟨the⟩⟩ Dan oğulları kabilesinin ailelerine göre mirasıdır — bu kentler ve onların köyleri.",
+  "translation": "Bu, Dan oğulları kabilesinin mirasıdır, ailelerine göre — ⟨bunlar⟩ ⟨şu⟩ şehirler ve köyleri.",
   "tokens": [
     {
       "surface": "זאת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נחלת",
-      "gloss": "mirası"
+      "gloss": "mirasıdır"
     },
     {
       "surface": "מטה",
-      "gloss": "kabilesi"
+      "gloss": "kabilesinin"
     },
     {
       "surface": "בני",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "הערים",
-      "gloss": "kentler"
+      "gloss": "şehirler"
     },
     {
       "surface": "האלה",
-      "gloss": "bu"
+      "gloss": "şu"
     },
     {
       "surface": "וחצריהן",
-      "gloss": "ve onların köyleri"
+      "gloss": "ve köyleri"
     }
   ],
-  "timestamp": "2026-08-19T09:12:36.218472592Z",
+  "timestamp": "2026-08-24T17:03:06.236982822Z",
   "model": "glm-5.3"
 }

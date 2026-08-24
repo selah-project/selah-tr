@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Ve Elohim'in Ruhu Zekharya'yı ⟨את⟩ giyindi — kohen Yehoyada'nın oğlunu — ve halkın üzerine karşı durdu ve onlara dedi: Böyle söylüyor Elohim: Neden Yahve'nin ⟨את⟩ buyruklarını çiğniyorsunuz da başarılı olamıyorsunuz? Çünkü Yahve'yi ⟨את⟩ bıraktınız, O da ⟨את⟩ sizi ⟨אתכם⟩ bıraktı.",
+  "translation": "Ve Elohim'in Ruhu Zekaryah'ı, Yehoyada'nın oğlu kâhini ⟨את⟩ giydirdi; o da halkın üstünde durdu ve onlara şöyle dedi: \"Elohim şöyle diyor: Yahve'nin buyruklarını ⟨את⟩ neden çiğniyorsunuz ve başarılı olmuyorsunuz? Çünkü Yahve'yi ⟨את⟩ bıraktınız — O da ⟨את⟩ sizi bıraktı.\"",
   "tokens": [
     {
       "surface": "ורוח",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim'in"
+      "gloss": "Elohim"
     },
     {
       "surface": "לבשה",
-      "gloss": "giyindi"
+      "gloss": "giydirdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Zekharya'yı"
+      "marks": "Zekaryah'ı"
     },
     {
       "surface": "זכריה",
-      "gloss": "Zekharya"
+      "gloss": "Zekaryah"
     },
     {
       "surface": "בן",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohen"
+      "gloss": "kâhin"
     },
     {
       "surface": "ויעמד",
-      "gloss": "durdu"
+      "gloss": "ve durdu"
     },
     {
       "surface": "מעל",
-      "gloss": "karşı"
+      "gloss": "üstünde"
     },
     {
       "surface": "לעם",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "böyle"
+      "gloss": "şöyle"
     },
     {
       "surface": "אמר",
-      "gloss": "söylüyor"
+      "gloss": "diyor"
     },
     {
       "surface": "האלהים",
@@ -87,23 +87,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "buyrukları"
+      "marks": "buyruklarını"
     },
     {
       "surface": "מצות",
-      "gloss": "buyrukları"
+      "gloss": "buyruk"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'nin"
+      "gloss": "Yahve"
     },
     {
       "surface": "ולא",
-      "gloss": "ve ... değil"
+      "gloss": "ve değil"
     },
     {
       "surface": "תצליחו",
-      "gloss": "başarılı olacaksınız"
+      "gloss": "başarılı oluyorsunuz"
     },
     {
       "surface": "כי",
@@ -124,13 +124,13 @@
     },
     {
       "surface": "ויעזב",
-      "gloss": "bıraktı"
+      "gloss": "ve bıraktı"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizi ⟨אתכם⟩"
+      "gloss": "⟨את⟩ sizi"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.029680984Z",
+  "timestamp": "2026-08-24T17:16:15.912148013Z",
   "model": "glm-5.3"
 }

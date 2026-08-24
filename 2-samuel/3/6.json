@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve oldu, savaş sürerken ⟨⟨Şaul'un⟩⟩ evi ile David'in evi arasında, Avner ⟨⟨Şaul'un⟩⟩ evinde güçlenmekteydi.",
+  "translation": "Savaş Şaul'un evi ile David'in evi arasında olduğu sırada oldu ⟨ve⟩ Avner, Şaul'un evinde kendini güçlendiriyordu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ve oldu"
+      "gloss": "oldu"
     },
     {
       "surface": "בהיות",
-      "gloss": "sürerken"
+      "gloss": "olduğu sırada"
     },
     {
       "surface": "המלחמה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "ile ... arasında"
+      "gloss": "ile"
     },
     {
       "surface": "בית",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "מתחזק",
-      "gloss": "güçlenmekte"
+      "gloss": "kendini güçlendiriyor"
     },
     {
       "surface": "בבית",
-      "gloss": "evinde"
+      "gloss": "evde"
     },
     {
       "surface": "שאול",
       "gloss": "Şaul'un"
     }
   ],
-  "timestamp": "2026-08-19T09:29:32.728504558Z",
+  "timestamp": "2026-08-24T17:04:32.208705139Z",
   "model": "glm-5.3"
 }

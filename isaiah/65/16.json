@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 65,
-  "translation": "Öyle ki, yerde kendini kutsayan, Amin'in Elohim'iyle kendini kutsayacak; yerde and içen, Amin'in Elohim'iyle and içecek; çünkü ilk sıkıntılar unutuldu ve çünkü gözlerimden gizlendiler.",
+  "translation": "Öyle ki ⟨⟨yerde⟩⟩ kendisine berezet dileyen, Ame'nin Elohim'i ile berezet dileyecek; ve ⟨⟨yerde⟩⟩ ant içen, Ame'nin Elohim'i ile ant içecek; çünkü önceki sıkıntılar unutuldu ve çünkü gözlerimden gizlendiler.",
   "tokens": [
     {
       "surface": "אשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המתברך",
-      "gloss": "kendini kutsayan"
+      "gloss": "kendisine berezet dileyen"
     },
     {
       "surface": "בארץ",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "יתברך",
-      "gloss": "kendini kutsayacak"
+      "gloss": "berezet dileyecek"
     },
     {
       "surface": "באלהי",
-      "gloss": "Elohim'iyle"
+      "gloss": "Elohim'i ile"
     },
     {
       "surface": "אמן",
-      "gloss": "Amin"
+      "gloss": "Ame'nin"
     },
     {
       "surface": "והנשבע",
-      "gloss": "ve and içen"
+      "gloss": "ve ant içen"
     },
     {
       "surface": "בארץ",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ישבע",
-      "gloss": "and içecek"
+      "gloss": "ant içecek"
     },
     {
       "surface": "באלהי",
-      "gloss": "Elohim'iyle"
+      "gloss": "Elohim'i ile"
     },
     {
       "surface": "אמן",
-      "gloss": "Amin"
+      "gloss": "Ame'nin"
     },
     {
       "surface": "כי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "נשכחו",
-      "gloss": "unutuldular"
+      "gloss": "unutuldu"
     },
     {
       "surface": "הצרות",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הראשנות",
-      "gloss": "ilk"
+      "gloss": "önceki"
     },
     {
       "surface": "וכי",
@@ -80,6 +80,6 @@
       "gloss": "gözlerimden"
     }
   ],
-  "timestamp": "2026-08-19T10:04:15.950212143Z",
+  "timestamp": "2026-08-24T17:07:07.458372858Z",
   "model": "glm-5.3"
 }

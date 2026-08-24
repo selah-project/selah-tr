@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve Yahve'ye yapılan minhahı bunlardan ⟨את⟩ getireceksin ve onu kohenin önüne arz edecek ve onu sunağa yaklaştıracak.",
+  "translation": "Ve Yahve'ye bu şeylerden yapılacak ⟨את⟩ minhayı getireceksin; kohene yaklaştıracak ve o da onu sunağa yaklaştıracak.",
   "tokens": [
     {
       "surface": "והבאת",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minhahı"
+      "marks": "minhayı"
     },
     {
       "surface": "המנחה",
-      "gloss": "minhahı"
+      "gloss": "minha"
     },
     {
       "surface": "אשר",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "yapılan"
+      "gloss": "yapılacak"
     },
     {
       "surface": "מאלה",
-      "gloss": "bunlardan"
+      "gloss": "bu şeylerden"
     },
     {
       "surface": "ליהוה",
@@ -38,29 +38,29 @@
     },
     {
       "surface": "והקריבה",
-      "gloss": "ve onu arz edecek"
+      "gloss": "ve yaklaştıracak"
     },
     {
       "surface": "אל",
-      "gloss": "unto"
+      "gloss": "-e"
     },
     {
       "surface": "הכהן",
-      "gloss": "kohenin (kâhinin) önüne"
+      "gloss": "kohen"
     },
     {
       "surface": "והגישה",
-      "gloss": "ve onu yaklaştıracak"
+      "gloss": "ve o yaklaştıracak"
     },
     {
       "surface": "אל",
-      "gloss": "unto"
+      "gloss": "-e"
     },
     {
       "surface": "המזבח",
-      "gloss": "sunağa"
+      "gloss": "sunak"
     }
   ],
-  "timestamp": "2026-08-19T07:22:37.965193554Z",
+  "timestamp": "2026-08-24T17:00:23.334988459Z",
   "model": "glm-5.3"
 }

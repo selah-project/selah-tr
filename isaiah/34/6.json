@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 34,
-  "translation": "Yahve'nin kılıcı kanla doldu, yağdan semizlendi; kuzuların ve tekekilerin kanından, koçların böbreklerinin yağından; çünkü Yahve'ye Bozra'da ⟨⟨kurban⟩⟩, Edom toprağında büyük bir boğazlaşma ⟨var⟩.",
+  "translation": "Yahve'nin kılıcı kana doydu, yağdan beslendi — kuzuların ve tekelerin kanından, koçların böbreklerinin yağından; çünkü Yahve için Botsra'da bir kurban, Edom ülkesinde büyük bir boğazlayış ⟨var⟩.",
   "tokens": [
     {
       "surface": "חרב",
-      "gloss": "kılıcı"
+      "gloss": "kılıç"
     },
     {
       "surface": "ליהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "מלאה",
-      "gloss": "doldu"
+      "gloss": "doydu"
     },
     {
       "surface": "דם",
-      "gloss": "kanla"
+      "gloss": "kan"
     },
     {
       "surface": "הדשנה",
-      "gloss": "semizlendi"
+      "gloss": "beslendi"
     },
     {
       "surface": "מחלב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ועתודים",
-      "gloss": "ve tekekilerin"
+      "gloss": "ve tekelerin"
     },
     {
       "surface": "מחלב",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahve'ye"
+      "gloss": "Yahve için"
     },
     {
       "surface": "בבצרה",
-      "gloss": "Bozra'da"
+      "gloss": "Botsra'da"
     },
     {
       "surface": "וטבח",
-      "gloss": "ve boğazlaşma"
+      "gloss": "ve boğazlayış"
     },
     {
       "surface": "גדול",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "toprakta"
+      "gloss": "ülkesinde"
     },
     {
       "surface": "אדום",
       "gloss": "Edom"
     }
   ],
-  "timestamp": "2026-08-19T09:57:49.022952481Z",
+  "timestamp": "2026-08-24T17:06:47.878862328Z",
   "model": "glm-5.3"
 }

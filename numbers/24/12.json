@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Ve Bilam Balek'e dedi: Benimle konuştular mı — senin bana gönderdiğin elçilerine de ⟨⟨⟩⟩, diyerek?",
+  "translation": "Ve Bilam, Balak'a dedi: ⟨Elçilerine⟩ de, ki bana gönderdin, söylemedim mi, diyerek?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "...e"
+      "gloss": "-e"
     },
     {
       "surface": "בלק",
-      "gloss": "Balek'e"
+      "gloss": "Balak"
     },
     {
       "surface": "הלא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "גם",
-      "gloss": "de"
+      "gloss": "da"
     },
     {
       "surface": "אל",
-      "gloss": "...e"
+      "gloss": "-e"
     },
     {
       "surface": "מלאכיך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שלחת",
-      "gloss": "gönderdiğin"
+      "gloss": "gönderdin"
     },
     {
       "surface": "אלי",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "konuştum"
+      "gloss": "söyledim"
     },
     {
       "surface": "לאמר",
       "gloss": "diyerek"
     }
   ],
-  "timestamp": "2026-08-19T07:40:11.585942511Z",
+  "timestamp": "2026-08-24T17:01:53.063526328Z",
   "model": "glm-5.3"
 }

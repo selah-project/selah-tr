@@ -5,8 +5,65 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Toplantı çadırını ve miğferi — ⟨את⟩ sunak miğberi... ⟨את⟩ sunağı, ⟨את⟩ Aharon'u ve ⟨את⟩ oğullarını kutsayacağım; bana kohen olmak üzere kutsayacağım.",
-  "tokens": [],
-  "timestamp": "2026-08-19T07:18:57.259973716Z",
+  "translation": "Ve ⟨את⟩ toplantı çadırını, ⟨את⟩ sunağı, ⟨את⟩ Aharon'u ve ⟨את⟩ oğullarını kutsayacağım; bana kâhinlik etsinler diye.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "kutsayacağım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toplantı çadırını"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "toplantı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sunağı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sunak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon'u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "kutsayacağım"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kâhinlik için"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-08-24T17:00:15.956419029Z",
   "model": "glm-5.3"
 }

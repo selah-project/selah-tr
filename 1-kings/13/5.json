@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Ve ⟨the⟩ sunak yarılıverdi ve küller sunaktan döküldü, Tanrı adamının Yahve'nin sözüyle verdiği ⟨the⟩ işarete göre.",
+  "translation": "Ve ⟨the⟩ sunak yarıldı ve küller sunaktan döküldü, ⟨את⟩ o işaret uyarınca ki Elohim adamı Yahve'nin sözüyle vermişti.",
   "tokens": [
     {
       "surface": "והמזבח",
@@ -25,15 +25,16 @@
     },
     {
       "surface": "מן",
-      "gloss": "dan"
+      "gloss": "sunaktan"
     },
     {
       "surface": "המזבח",
-      "gloss": "sunak"
+      "gloss": "the sunak"
     },
     {
       "surface": "כמופת",
-      "gloss": "işarete göre"
+      "gloss": "işaret uyarınca",
+      "marks": "işaret (mofet)"
     },
     {
       "surface": "אשר",
@@ -41,7 +42,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "verdi"
+      "gloss": "vermişti"
     },
     {
       "surface": "איש",
@@ -60,6 +61,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-19T09:40:27.537402334Z",
+  "timestamp": "2026-08-24T17:55:22.551320235Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Kime karşı konuşayım, kime tanıklık edeyim de duysunlar? İşte, kulakları sünnetsiz, dinlemeye güçleri yetmez; işte, Yahve'nin sözü onlara ⟨⟨leke⟩⟩ oldu, onda hoşlanmıyorlar.",
+  "translation": "Kime konuşayım ve tanıklık edeyim de duysunlar? İşte, kulakları sünnetsizdir ve kulak vermeye güçleri yetmez; işte, Yahve'nin sözü onlara alay konusu oldu, onda hoşnutlık duymazlar.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "karşı"
+      "gloss": "kime (karşı)"
     },
     {
       "surface": "מי",
-      "gloss": "kime"
+      "gloss": "kim"
     },
     {
       "surface": "אדברה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישמעו",
-      "gloss": "da duysunlar"
+      "gloss": "ve duysunlar"
     },
     {
       "surface": "הנה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ערלה",
-      "gloss": "sünnetsiz"
+      "gloss": "sünnetsiz(adsız)"
     },
     {
       "surface": "אזנם",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve... yok"
+      "gloss": "ve ... değil"
     },
     {
       "surface": "יוכלו",
-      "gloss": "güçleri yetmez"
+      "gloss": "güçleri yeter"
     },
     {
       "surface": "להקשיב",
-      "gloss": "dinlemeye"
+      "gloss": "kulak vermeye"
     },
     {
       "surface": "הנה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לחרפה",
-      "gloss": "leke olarak"
+      "gloss": "alay konusuna"
     },
     {
       "surface": "לא",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "יחפצו",
-      "gloss": "hoşlanıyorlar"
+      "gloss": "hoşnutlık duyarlar"
     },
     {
       "surface": "בו",
       "gloss": "onda"
     }
   ],
-  "timestamp": "2026-08-19T10:06:54.790740684Z",
+  "timestamp": "2026-08-24T17:07:03.540433014Z",
   "model": "glm-5.3"
 }

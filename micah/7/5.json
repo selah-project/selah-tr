@@ -5,15 +5,15 @@
   "book": "micah",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Arkadaşa inanmayın, güvenmeyin yakın dosta; bağrında yatana karşı ağzının⟨⟨את⟩ yok⟩ kapılarını koru.",
+  "translation": "Arkadaşa güvenmeyin, yakın dosta bel bağlamayın; bağrında yatandan ağzının kapılarını koru.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "mayın"
+      "gloss": "-me"
     },
     {
       "surface": "תאמינו",
-      "gloss": "inanmayın"
+      "gloss": "güvenmeyin"
     },
     {
       "surface": "ברע",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "güvenmeyin"
+      "gloss": "-me"
     },
     {
       "surface": "תבטחו",
-      "gloss": "güvenmeyin"
+      "gloss": "bel bağlamayın"
     },
     {
       "surface": "באלוף",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "משכבת",
-      "gloss": "yatana"
+      "gloss": "yatandan"
     },
     {
       "surface": "חיקך",
@@ -52,6 +52,6 @@
       "gloss": "ağzının"
     }
   ],
-  "timestamp": "2026-08-19T10:45:10.540716079Z",
+  "timestamp": "2026-08-24T17:09:47.469518784Z",
   "model": "glm-5.3"
 }

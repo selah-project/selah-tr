@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 2,
-  "translation": "«Ben bütün ⟨את⟩ yeryüzünün yolunda ⟨דרך⟩ yürümekteyim; sen güçlü ol ve bir adam ⟨אישׁ⟩ ol.»",
+  "translation": "Ben bütün ⟨⟨the⟩⟩ yeryüzünün yolunda gidiyorum; sen güçlü ol ve ⟨bir⟩ adam ⟨ol⟩.",
   "tokens": [
     {
       "surface": "אנכי",
-      "gloss": "Ben"
+      "gloss": "ben"
     },
     {
       "surface": "הלך",
-      "gloss": "yürümekteyim"
+      "gloss": "gidiyorum"
     },
     {
       "surface": "בדרך",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "והיית",
-      "gloss": "ve ol"
+      "gloss": "ve ⟨ol⟩"
     },
     {
       "surface": "לאיש",
-      "gloss": "bir adama"
+      "gloss": "⟨bir⟩ adam"
     }
   ],
-  "timestamp": "2026-08-19T12:15:26.993968727Z",
+  "timestamp": "2026-08-24T17:04:25.328057629Z",
   "model": "glm-5.3"
 }

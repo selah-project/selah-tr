@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 45,
-  "translation": "Çünkü böyle dedi Yahve, gökleri yaratan — O ⟨הוּא⟩ Elohim'dir — yeri biçimlendiren ve onu yapan, onu kuran O; onu boşluğa ⟨תֹהוּ⟩ yaratmadı, onu oturulacak diye biçimlendirdi: Ben Yahve'yim ve başkası yoktur.",
+  "translation": "Çünkü Yahve şöyle dedi: gökleri yaratan, O'dur — Elohim; yeri biçimlendiren ve yapan O'dur, onu kurdu; onu boşluğa yaratmadı, onu oturulacak kılmak için biçimlendirdi: Ben Yahve'yim, ve başkası yok.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "böyle"
+      "gloss": "şöyle"
     },
     {
       "surface": "אמר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "כוננה",
-      "gloss": "onu kuran"
+      "gloss": "onu kurdu"
     },
     {
       "surface": "לא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "תהו",
-      "gloss": "boşluğa"
+      "gloss": "boşluk"
     },
     {
       "surface": "בראה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "oturulacak diye"
+      "gloss": "oturulacak kılmak için"
     },
     {
       "surface": "יצרה",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "ואין",
-      "gloss": "ve yoktur"
+      "gloss": "ve yok"
     },
     {
       "surface": "עוד",
       "gloss": "başka"
     }
   ],
-  "timestamp": "2026-08-19T10:00:32.282553590Z",
+  "timestamp": "2026-08-24T17:06:32.154316555Z",
   "model": "glm-5.3"
 }

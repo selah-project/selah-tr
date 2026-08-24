@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 19,
-  "translation": "o zaman kentinin ileri gelenleri gönderecekler ve ⟨אתו⟩ oradan alacaklar ve ⟨אתו⟩ kanın yolcusunun eline verecekler ve ölecek.",
+  "translation": "O zaman şehrinin ihtiyarları gönderip onu ⟨את⟩ oradan alacaklar ve onu ⟨את⟩ kanın gölcüsünün eline verecekler ve ölecek.",
   "tokens": [
     {
       "surface": "ושלחו",
-      "gloss": "ve gönderecekler"
+      "gloss": "gönderip alacaklar"
     },
     {
       "surface": "זקני",
-      "gloss": "ileri gelenleri"
+      "gloss": "ihtiyarları"
     },
     {
       "surface": "עירו",
-      "gloss": "kentinin"
+      "gloss": "onun şehrinin"
     },
     {
       "surface": "ולקחו",
-      "gloss": "ve alacaklar"
+      "gloss": "alacaklar"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "onu (oradan)"
+      "gloss": "⟨את⟩",
+      "marks": "onu"
     },
     {
       "surface": "משם",
@@ -34,20 +34,20 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "ve verecekler"
+      "gloss": "verecekler"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "onu"
     },
     {
       "surface": "ביד",
-      "gloss": "elinin içine"
+      "gloss": "elinedir"
     },
     {
       "surface": "גאל",
-      "gloss": "yolcusunun"
+      "gloss": "gölcüsünün"
     },
     {
       "surface": "הדם",
@@ -58,6 +58,6 @@
       "gloss": "ve ölecek"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.032506124Z",
+  "timestamp": "2026-08-24T17:03:00.844108826Z",
   "model": "glm-5.3"
 }

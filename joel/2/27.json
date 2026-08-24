@@ -5,7 +5,7 @@
   "book": "joel",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve bileceksiniz ki ben ⟨ben⟩ İsrail'in içindeyim; ve ben Yahve, Elohim'iniz, ve ⟨⟨başkası⟩⟩ yok; ve utanmayacak halkım sonsuza dek.",
+  "translation": "Ve bileceksiniz ki İsrail'in ortasında ben varım ve ben Yahve, sizin Elohim'inizim ve başkası yok; ve halkım ebediyen utandırılmayacak.",
   "tokens": [
     {
       "surface": "וידעתם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בקרב",
-      "gloss": "içinde"
+      "gloss": "ortasında"
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail'in"
+      "gloss": "İsrail"
     },
     {
       "surface": "אני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim'iniz"
+      "gloss": "sizin Elohim'iniz"
     },
     {
       "surface": "ואין",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "עוד",
-      "gloss": "başkası"
+      "gloss": "başka"
     },
     {
       "surface": "ולא",
-      "gloss": "ve değil"
+      "gloss": "ve ... değil"
     },
     {
       "surface": "יבשו",
-      "gloss": "utanmayacak"
+      "gloss": "utandırılmayacaklar"
     },
     {
       "surface": "עמי",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "sonsuza dek"
+      "gloss": "ebediyen"
     }
   ],
-  "timestamp": "2026-08-19T10:41:12.857300866Z",
+  "timestamp": "2026-08-24T17:09:49.820377430Z",
   "model": "glm-5.3"
 }

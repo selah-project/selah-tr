@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 15,
-  "translation": "İsrail oğullarına söyle ve onlara de: sizleri ⟨את⟩ ⟨אתכם⟩ oraya getirdiğim toprağa girdiğinizde",
+  "translation": "Yisrael oğullarına söyle ve onlara de: Girmekte olduğunuz ülkeye, sizi oraya getirmekte olduğum ülkeye ⟨girdiğinizde⟩",
   "tokens": [
     {
       "surface": "דבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "‑a"
     },
     {
       "surface": "בני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ואמרת",
-      "gloss": "ve diyeceksin"
+      "gloss": "ve de"
     },
     {
       "surface": "אלהם",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בבאכם",
-      "gloss": "girdiğinizde"
+      "gloss": "girmekte olduğunuzda"
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "‑e"
     },
     {
       "surface": "הארץ",
-      "gloss": "toprağa"
+      "gloss": "ülkeye"
     },
     {
       "surface": "אשר",
@@ -53,18 +53,18 @@
     },
     {
       "surface": "מביא",
-      "gloss": "getiriyorum"
+      "gloss": "getirmekteyim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "sizleri"
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
     },
     {
       "surface": "שמה",
       "gloss": "oraya"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.041321431Z",
+  "timestamp": "2026-08-24T17:01:27.160346602Z",
   "model": "glm-5.3"
 }

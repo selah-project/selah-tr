@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 73,
-  "translation": "Çünkü ölümlerine ⟨⟨⟩⟩ zincir yoktur, gövdeleri ise şişman ve sağlamdır.",
+  "translation": "Çünkü ölümlerinde ⟨bir⟩ bağ yoktur, ama bedenleri besili ve güçlüdür.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "חרצבות",
-      "gloss": "zincir\/acı"
+      "gloss": "bağ(lar)\/buğular"
     },
     {
       "surface": "למותם",
-      "gloss": "ölümlerine"
+      "gloss": "ölümlerinde"
     },
     {
       "surface": "ובריא",
-      "gloss": "ve sağlam"
+      "gloss": "ve besili\/güçlü"
     },
     {
       "surface": "אולם",
-      "gloss": "gövde"
+      "gloss": "beden"
     }
   ],
-  "timestamp": "2026-08-19T11:02:32.038639319Z",
+  "timestamp": "2026-08-24T17:11:40.608335956Z",
   "model": "glm-5.3"
 }

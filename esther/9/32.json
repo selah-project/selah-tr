@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve Ester'in buyruğu bu Purim sözlerini doğruladı; ve ⟨the⟩ kitaba yazıldı.",
+  "translation": "Ve Ester'in buyruğu Purim'in bu sözlerini tasdik etti; ve kitaba yazıldı.",
   "tokens": [
     {
       "surface": "ומאמר",
-      "gloss": "ve buyruk"
+      "gloss": "ve buyruğu"
     },
     {
       "surface": "אסתר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "קים",
-      "gloss": "doğruladı"
+      "gloss": "tasdik etti"
     },
     {
       "surface": "דברי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הפורים",
-      "gloss": "Purim"
+      "gloss": "Purim'in"
     },
     {
       "surface": "האלה",
@@ -40,6 +40,6 @@
       "gloss": "kitaba"
     }
   ],
-  "timestamp": "2026-08-19T11:41:29.927545606Z",
+  "timestamp": "2026-08-24T17:15:08.077578645Z",
   "model": "glm-5.3"
 }

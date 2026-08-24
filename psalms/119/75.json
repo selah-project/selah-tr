@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 119,
-  "translation": "Bildim, Yahve, ki ⟨⟨hükümlerin⟩⟩ haktır, ve sadakatle beni eziyet ettin.",
+  "translation": "Biliyorum, Yahve, ki ⟨senin⟩ hükümlerin doğrudur ve sadakatle beni eziyet ettin ⟨beni⟩.",
   "tokens": [
     {
       "surface": "ידעתי",
-      "gloss": "bildim"
+      "gloss": "biliyorum"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צדק",
-      "gloss": "hak"
+      "gloss": "doğrudur"
     },
     {
       "surface": "משפטיך",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "עניתני",
-      "gloss": "beni eziyet ettin"
+      "gloss": "eziyet ettin beni"
     }
   ],
-  "timestamp": "2026-08-19T11:09:35.576060727Z",
+  "timestamp": "2026-08-24T17:12:32.071463764Z",
   "model": "glm-5.3"
 }

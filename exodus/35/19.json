@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 35,
-  "translation": "kutsalda hizmet etmek için ⟨את⟩ hizmet giysilerini, Aharon ⟨הכהן⟩ kâhin için kutsal giysileri, ve oğullarının kâhinlik etmek için ⟨את⟩ giysilerini.",
+  "translation": "⟨את⟩ serde giysileri, kutsal yerde hizmet etmek için; ⟨את⟩ kutsal giysileri kâhin Aharon'a, ve ⟨את⟩ oğullarının giysileri kâhinlik etmek için.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "giysilerini"
+      "marks": "serde giysileri"
     },
     {
       "surface": "בגדי",
-      "gloss": "giysilerini"
+      "gloss": "giysileri"
     },
     {
       "surface": "השרד",
-      "gloss": "hizmet (örgü) giysilerinin"
+      "gloss": "serde"
     },
     {
       "surface": "לשרת",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "בקדש",
-      "gloss": "kutsalda"
+      "gloss": "kutsal yerde"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "giysileri"
+      "marks": "kutsal giysileri"
     },
     {
       "surface": "בגדי",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "לאהרן",
-      "gloss": "Aharon için"
+      "gloss": "Aharon'a"
     },
     {
       "surface": "הכהן",
@@ -52,11 +52,11 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "giysilerini"
+      "marks": "oğullarının giysileri"
     },
     {
       "surface": "בגדי",
-      "gloss": "giysilerini"
+      "gloss": "giysileri"
     },
     {
       "surface": "בניו",
@@ -67,6 +67,6 @@
       "gloss": "kâhinlik etmek için"
     }
   ],
-  "timestamp": "2026-08-19T07:19:38.742283447Z",
+  "timestamp": "2026-08-24T17:00:21.851941282Z",
   "model": "glm-5.3"
 }

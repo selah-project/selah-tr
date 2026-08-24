@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 25,
-  "translation": "Çünkü Yahve, Yisrael'in Elohim'i, bana şöyle dedi: Bu öfke şarabının kadeşini elimden al, ve ⟨את⟩ seni kendilerine gönderdiğim bütün uluslara onu içireceksin.",
+  "translation": "Çünkü Yahve, İsrail'in Elohim'i, bana şöyle dedi: Elindeki şu öfke şarabının kadehini ⟨את⟩ elimden al ve seni ⟨את⟩ kendilerine gönderdiğim bütün uluslara ⟨את⟩ onu içir.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael'in"
+      "gloss": "İsrail'in"
     },
     {
       "surface": "אלי",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kadeşini"
+      "marks": "kadehi"
     },
     {
       "surface": "כוס",
-      "gloss": "kadeşini"
+      "gloss": "kadehini"
     },
     {
       "surface": "היין",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "bu"
+      "gloss": "şu"
     },
     {
       "surface": "מידי",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "והשקיתה",
-      "gloss": "ve içireceksin"
+      "gloss": "ve içir"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "onu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uluslara"
+      "marks": "bütün uluslara"
     },
     {
       "surface": "כל",
@@ -96,17 +96,18 @@
     },
     {
       "surface": "שלח",
-      "gloss": "gönderiyorum"
+      "gloss": "gönderdiğim"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ seni"
+      "gloss": "⟨את⟩",
+      "marks": "seni"
     },
     {
       "surface": "אליהם",
       "gloss": "onlara"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.020860257Z",
+  "timestamp": "2026-08-24T17:07:36.955708790Z",
   "model": "glm-5.3"
 }

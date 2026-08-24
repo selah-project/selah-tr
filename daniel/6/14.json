@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "tr",
   "chapter": 6,
-  "translation": "O zaman cevap verip kralın önünde dediler: «Yehuda sürgünlerinin oğullarından olan Daniel, ey kral, seni ve imzaladığın yasağı hiç saymıyor; günde üç kez dileğini diliyor.»",
+  "translation": "O zaman yanıtladılar ve kralın önünde söyleyerek: «Şu Yehud sürgünü oğullarından Daniyel, ey kral, seni herhangi bir saygıya, ve imzaladığın yasağa yerleştirmez; ve günde üç kez dileğini ister.»",
   "tokens": [
     {
       "surface": "באדין",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ענו",
-      "gloss": "cevap verip"
+      "gloss": "yanıtladılar"
     },
     {
       "surface": "ואמרין",
-      "gloss": "ve dediler"
+      "gloss": "ve söyleyerek"
     },
     {
       "surface": "קדם",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "מלכא",
-      "gloss": "kralın"
+      "gloss": "kral"
     },
     {
       "surface": "די",
-      "gloss": "ki"
+      "gloss": "şu"
     },
     {
       "surface": "דניאל",
-      "gloss": "Daniel"
+      "gloss": "Daniyel"
     },
     {
       "surface": "די",
@@ -41,31 +41,31 @@
     },
     {
       "surface": "מן",
-      "gloss": "dan"
-    },
-    {
-      "surface": "בני",
       "gloss": "oğullarından"
     },
     {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
       "surface": "גלותא",
-      "gloss": "sürgünlerin"
+      "gloss": "sürgün"
     },
     {
       "surface": "די",
-      "gloss": "of"
+      "gloss": "ki"
     },
     {
       "surface": "יהוד",
-      "gloss": "Yehuda"
+      "gloss": "Yehud"
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "yerleştirmez"
     },
     {
       "surface": "שם",
-      "gloss": "sayıyor"
+      "gloss": "yerleştirir"
     },
     {
       "surface": "עליך",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "טעם",
-      "gloss": "hiç"
+      "gloss": "saygı"
     },
     {
       "surface": "ועל",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "אסרא",
-      "gloss": "yasağı"
+      "gloss": "yasağa"
     },
     {
       "surface": "די",
@@ -93,11 +93,11 @@
     },
     {
       "surface": "רשמת",
-      "gloss": "imzaladığın"
+      "gloss": "imzaladın"
     },
     {
       "surface": "וזמנין",
-      "gloss": "ve kez"
+      "gloss": "ve kezler"
     },
     {
       "surface": "תלתה",
@@ -109,13 +109,13 @@
     },
     {
       "surface": "בעא",
-      "gloss": "diliyor"
+      "gloss": "ister"
     },
     {
       "surface": "בעותה",
       "gloss": "dileğini"
     }
   ],
-  "timestamp": "2026-08-19T11:44:24.057212465Z",
+  "timestamp": "2026-08-24T17:14:59.455239627Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 34,
-  "translation": "Ve bu sizin için kuzey sınırı olacak: Büyük Deniz'den Hor dağı'nı kendinize için işaretleyeceksiniz.",
+  "translation": "Ve bu ⟨olacak⟩ sizin için kuzey sınırı: büyük denizden kendinize için Hor Dağı'nı işaretleyeceksiniz.",
   "tokens": [
     {
       "surface": "וזה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "olacak"
+      "gloss": "⟨olacak⟩"
     },
     {
       "surface": "לכם",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "-den"
+      "gloss": "‑dan"
     },
     {
       "surface": "הים",
-      "gloss": "⟨the⟩ Deniz"
+      "gloss": "deniz"
     },
     {
       "surface": "הגדל",
-      "gloss": "Büyük"
+      "gloss": "büyük"
     },
     {
       "surface": "תתאו",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "ההר",
-      "gloss": "dağı"
+      "gloss": "Dağı"
     }
   ],
-  "timestamp": "2026-08-19T07:43:32.784549721Z",
+  "timestamp": "2026-08-24T17:02:25.903641476Z",
   "model": "glm-5.3"
 }

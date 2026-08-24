@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 136,
-  "translation": "Ekmek veren ⟨את⟩ tüm ete ⟨את⟩ herkese — çünkü sonsuza dek sürer onun sadakati.",
-  "tokens": [],
-  "timestamp": "2026-08-19T11:12:56.783607528Z",
+  "translation": "Bütün bedene ekmek veren, çünkü hassedi sonsuza dek sürer.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "veren"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ekmek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bedene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuza dek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hassedi"
+    }
+  ],
+  "timestamp": "2026-08-24T17:12:37.644137376Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,74 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 17,
-  "translation": "Ve kâhinlere, Levililere ve o günlerde olacak hâkime geleceksin; soracaksmarked ve sana ⟨את⟩ hüküm sözünü bildirecekler.",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:02:16.443686769Z",
+  "translation": "Ve geleceksin kâhinlere, Levililere, ve o günlerde olacak hâkime, ve soracaksmış gibi soracaksın ve sana ⟨את⟩ yargı sözünü bildirecekler.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ve geleceksin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kâhinlere"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levililere"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve yanına"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "hâkime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacak"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlerde"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "o"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ve soracaksın"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "ve bildirecekler"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yargı sözünü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "yargı"
+    }
+  ],
+  "timestamp": "2026-08-24T17:02:37.056509572Z",
   "model": "glm-5.3"
 }

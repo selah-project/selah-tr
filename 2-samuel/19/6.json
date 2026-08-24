@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Yoav kralın ⟨⟨yanına⟩⟩ eve girdi ve dedi: \"Bugün ⟨את⟩ bütün kullarının yüzlerini utandırdın — bugün canını kurtaranların, ve ⟨את⟩ oğullarının, kızlarının, kadınlarının ve cariyelerinin canını.",
+  "translation": "Yoaav kralın yanına, ⟨içeride olduğu⟩ eve girdi ve dedi: Bugün canını, oğullarının ve kızlarının canını, eşlerinin ve cariyelerinin canını kurtaran ⟨את⟩ bütün kullarının yüzlerini ⟨את⟩ utandırdın — hepsi bugün ⟨kurtardı⟩.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "ve girdi"
+      "gloss": "girdi"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav"
+      "gloss": "Yoaav"
     },
     {
       "surface": "אל",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yüzlerini"
+      "marks": "yüzlerini (bütün kullarının)"
     },
     {
       "surface": "פני",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הממלטים",
-      "gloss": "kurtaranların"
+      "gloss": "kurtaran"
     },
     {
       "surface": "את",
@@ -76,7 +76,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "canını"
+      "marks": "canını (oğullarının ve kızlarının)"
     },
     {
       "surface": "נפש",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "נשיך",
-      "gloss": "kadınlarının"
+      "gloss": "eşlerinin"
     },
     {
       "surface": "ונפש",
@@ -107,6 +107,6 @@
       "gloss": "cariyelerinin"
     }
   ],
-  "timestamp": "2026-08-19T09:34:23.469124474Z",
+  "timestamp": "2026-08-24T17:04:52.788720493Z",
   "model": "glm-5.3"
 }

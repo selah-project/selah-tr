@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve bunlar Teraḥ'ın soyu: Teraḥ Avram'ı ⟨את⟩, Nahor'u ⟨את⟩ ve Haran'ı ⟨את⟩ ⟨ואת⟩ doğurdu; Haran da Lot'u ⟨את⟩ doğurdu.",
+  "translation": "Ve işte bunlar Terah'ın soyu: Terah, Avram'ı, Nahor'u ve Haran'ı babası oldu; ve Haran, Lot'un babası oldu.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "ve bunlar"
+      "gloss": "ve işte bunlar"
     },
     {
       "surface": "תולדת",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תרח",
-      "gloss": "Teraḥ'ın"
+      "gloss": "Terah'ın"
     },
     {
       "surface": "תרח",
-      "gloss": "Teraḥ"
+      "gloss": "Terah"
     },
     {
       "surface": "הוליד",
-      "gloss": "doğurdu"
+      "gloss": "babası oldu"
     },
     {
       "surface": "את",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "ve ⟨את⟩",
       "marks": "Haran'ı"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "doğurdu"
+      "gloss": "babası oldu"
     },
     {
       "surface": "את",
@@ -72,6 +72,6 @@
       "gloss": "Lot"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.013803794Z",
+  "timestamp": "2026-08-24T16:59:23.014276697Z",
   "model": "glm-5.3"
 }

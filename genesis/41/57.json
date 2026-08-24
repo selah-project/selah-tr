@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 41,
-  "translation": "Ve bütün ⟨the⟩ dünya Mısır'a, Yişo'a buğday satın almak için geldi; çünkü kıtlık bütün ⟨the⟩ dünyada şiddetli ⟨idi⟩.",
+  "translation": "Ve bütün ülke Mısır'a, Yoşef'e buğday satın almaya geldi; çünkü kıtlık bütün ülkede şiddetliydi.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "dünya"
+      "gloss": "ülke"
     },
     {
       "surface": "באו",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "לשבר",
-      "gloss": "buğday satın almak için"
+      "gloss": "satın almaya"
     },
     {
       "surface": "אל",
-      "gloss": "yanına"
+      "gloss": "-e doğru"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yişo'a"
+      "gloss": "Yoşef'e"
     },
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "חזק",
-      "gloss": "şiddetli"
+      "gloss": "şiddetliydi"
     },
     {
       "surface": "הרעב",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "dünyada"
+      "gloss": "ülkede"
     }
   ],
-  "timestamp": "2026-08-19T07:06:38.814392003Z",
+  "timestamp": "2026-08-24T16:59:42.341658209Z",
   "model": "glm-5.3"
 }

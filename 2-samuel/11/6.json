@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve David Yoav'a gönderdi: «Uriya the Hitli'yi bana gönder.» Ve Yoav ⟨את⟩ Uriya'yı David'e gönderdi.",
+  "translation": "Ve David Yoav'a gönderip dedi: Bana ⟨את⟩ Hitli Uriya'yı gönder. Ve Yoav ⟨את⟩ Uriya'yı David'e gönderdi.",
   "tokens": [
     {
-      "surface": "וישלח",
-      "gloss": "ve gönderdi"
+      "surface": "ושלח",
+      "gloss": "gönderdi"
     },
     {
       "surface": "דוד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "-e doğru"
+      "gloss": "El"
     },
     {
       "surface": "יואב",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "שלח",
-      "gloss": "gönder"
+      "gloss": "Gönder"
     },
     {
       "surface": "אלי",
-      "gloss": "bana"
+      "gloss": "Bana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Uriya'yı"
+      "marks": "Hitli Uriya'yı"
     },
     {
       "surface": "אוריה",
-      "gloss": "Uriya"
+      "gloss": "Uriya'yı"
     },
     {
       "surface": "החתי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "ve gönderdi"
+      "gloss": "gönderdi"
     },
     {
       "surface": "יואב",
@@ -59,17 +59,17 @@
     },
     {
       "surface": "אוריה",
-      "gloss": "Uriya"
+      "gloss": "Uriya'yı"
     },
     {
       "surface": "אל",
-      "gloss": "-e doğru"
+      "gloss": "David'e"
     },
     {
       "surface": "דוד",
       "gloss": "David"
     }
   ],
-  "timestamp": "2026-08-19T09:30:39.541659021Z",
+  "timestamp": "2026-08-24T17:04:52.518862859Z",
   "model": "glm-5.3"
 }

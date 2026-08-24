@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 43,
-  "translation": "Ve ⟨ה⟩avlu on dört arşın uzunlukta, on dört arşın genişlikte, dört kenarına doğru; ve çevresindeki sınır yarım arşın, ve onun için ⟨ה⟩hendek bir arşın çevresinde; ve basamakları doğuya dönük.",
+  "translation": "Ve azarah on dört arşın uzunlukta, on dört arşın genişlikte, dört köşesiyle; ve onun ⟨את⟩ çevresindeki sınır yarım arşın, ve kuşağı bir arşın çevresince; ve basamakları doğuya dönüktür.",
   "tokens": [
     {
       "surface": "והעזרה",
-      "gloss": "ve ⟨ה⟩avlu"
+      "gloss": "Ve azarah"
     },
     {
       "surface": "ארבע",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "on (-dört)"
+      "gloss": "on"
     },
     {
       "surface": "ארך",
-      "gloss": "uzunlukta"
+      "gloss": "arşın uzunlukta"
     },
     {
       "surface": "בארבע",
-      "gloss": "dörtte"
+      "gloss": "dört"
     },
     {
       "surface": "עשרה",
-      "gloss": "on (-dört)"
+      "gloss": "on"
     },
     {
       "surface": "רחב",
-      "gloss": "genişlikte"
+      "gloss": "arşın genişlikte"
     },
     {
       "surface": "אל",
-      "gloss": "-e doğru"
+      "gloss": "ilişkin"
     },
     {
       "surface": "ארבעת",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "רבעיה",
-      "gloss": "kenarı"
+      "gloss": "köşesi"
     },
     {
       "surface": "והגבול",
-      "gloss": "ve ⟨ה⟩sınır"
+      "gloss": "ve sınır"
     },
     {
       "surface": "סביב",
-      "gloss": "çevresinde"
+      "gloss": "çevresindeki"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "onu (avlu)"
+      "marks": "onu (azarah'yı)"
     },
     {
       "surface": "חצי",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "האמה",
-      "gloss": "⟨ה⟩arşın"
+      "gloss": "arşın"
     },
     {
       "surface": "והחיק",
-      "gloss": "ve ⟨ה⟩hendeği"
+      "gloss": "ve kuşağı"
     },
     {
       "surface": "לה",
-      "gloss": "onun için"
+      "gloss": "onun"
     },
     {
       "surface": "אמה",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "סביב",
-      "gloss": "çevresinde"
+      "gloss": "çevresince"
     },
     {
       "surface": "ומעלתהו",
@@ -97,6 +97,6 @@
       "gloss": "doğuya"
     }
   ],
-  "timestamp": "2026-08-19T10:36:58.721092204Z",
+  "timestamp": "2026-08-24T17:09:52.071971388Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve yıl be yıl dolaşırdı, Beyt-El'de ve ⟨ה⟩Gilgal'da ve ⟨ה⟩Mitspa'da; ve İsrail'i ⟨את⟩ bütün bu yerlerde ⟨את⟩ yargılardı.",
+  "translation": "Yıl dönümünden yıl dönümüne gider, Beyt-El, Gilgal ve ha-Mitzpa çevresinde dolaşır ve İsrail'i ⟨את⟩ bütün bu yerlerde yargılardı.",
   "tokens": [
     {
       "surface": "והלך",
-      "gloss": "ve dolaşırdı"
+      "gloss": "giderdi"
     },
     {
       "surface": "מדי",
-      "gloss": "her ... -de"
+      "gloss": "dönümünde"
     },
     {
       "surface": "שנה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בשנה",
-      "gloss": "yıl be yıl"
+      "gloss": "yıl"
     },
     {
       "surface": "וסבב",
-      "gloss": "ve dolaşırdu"
+      "gloss": "dolaşırdı"
     },
     {
       "surface": "בית",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "El'de"
+      "gloss": "El"
     },
     {
       "surface": "והגלגל",
-      "gloss": "Gilgal'da"
+      "gloss": "ve Gilgal"
     },
     {
       "surface": "והמצפה",
-      "gloss": "Mitspa'da"
+      "gloss": "ve ha-Mitzpa"
     },
     {
       "surface": "ושפט",
-      "gloss": "ve yargılardı"
+      "gloss": "yargılardı"
     },
     {
       "surface": "את",
@@ -54,12 +54,12 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail'i"
+      "gloss": "İsrail"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bütün bu yerlerde"
+      "marks": "bütün bu yerleri"
     },
     {
       "surface": "כל",
@@ -74,6 +74,6 @@
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-19T09:22:09.454107650Z",
+  "timestamp": "2026-08-24T17:03:52.393965300Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Oğlum, sözlerimi benimsersen ve buyruklarımı seninle ⟨את⟩ ⟨אתך⟩ birlikte saklarsan,",
+  "translation": "Oğlum, sözlerimi kabul edersen ve buyruklarımı ⟨את⟩ yanında saklarsan",
   "tokens": [
     {
       "surface": "בני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תקח",
-      "gloss": "alırsan \/ benimsersen"
+      "gloss": "kabul edersen"
     },
     {
       "surface": "אמרי",
@@ -33,10 +33,10 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩",
-      "marks": "seninle birlikte (yer: buyruklar saklanır)"
+      "gloss": "⟨את⟩ yanında",
+      "marks": "yanında (seninle)"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.015880900Z",
+  "timestamp": "2026-08-24T17:12:19.588471884Z",
   "model": "glm-5.3"
 }

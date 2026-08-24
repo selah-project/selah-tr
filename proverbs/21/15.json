@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Sadık ⟨⟨için⟩⟩ yargıyı uygulamak ⟨⟨bir⟩⟩ sevinçtir; ama kötülük işleyenlere yıkım.",
+  "translation": "Sevinçtir sadık insana adaleti yapmak; ama kötülüğü işleyenler için yıkımdır.",
   "tokens": [
     {
       "surface": "שמחה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לצדיק",
-      "gloss": "sadık için"
+      "gloss": "sadık insana"
     },
     {
       "surface": "עשות",
-      "gloss": "uygulamak"
+      "gloss": "yapmak"
     },
     {
       "surface": "משפט",
-      "gloss": "yargıyı"
+      "gloss": "adalet"
     },
     {
       "surface": "ומחתה",
@@ -36,6 +36,6 @@
       "gloss": "kötülük"
     }
   ],
-  "timestamp": "2026-08-19T11:21:39.578138314Z",
+  "timestamp": "2026-08-24T17:13:14.252567061Z",
   "model": "glm-5.3"
 }

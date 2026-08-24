@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve ⟨את⟩ onu İsrail'in bütün oymakları arasından kendime kohen olmak üzere seçtim ⟨değil miydim⟩ — sunağıma ⟨kurban⟩ sunmak, buhur yakmak, önümde efod taşımak için; ve ben senin ata evine İsrail oğullarının bütün ateş adaklarını verdim.",
+  "translation": "Ve onu İsrail'in tüm kabilelerinden kendime kâhin olmak, sunağımın üzerinde yakmalık sunmak, buhur tüttürmek, önümde efod taşımak için seçtim; ve babanın evine İsrail oğullarının tüm ateş sunularını verdim.",
   "tokens": [
     {
       "surface": "ובחר",
@@ -14,19 +14,19 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ onu",
-      "marks": "onu"
+      "marks": "onu (seçilen kâhin)"
     },
     {
       "surface": "מכל",
-      "gloss": "arасından"
+      "gloss": "tüm ... -den"
     },
     {
       "surface": "שבטי",
-      "gloss": "oymaklarının"
+      "gloss": "kabileleri"
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail'in"
+      "gloss": "İsrail"
     },
     {
       "surface": "לי",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "kohen olmak"
+      "gloss": "kâhin olmak için"
     },
     {
       "surface": "לעלות",
-      "gloss": "sunmak"
+      "gloss": "yakmalık sunmak için"
     },
     {
       "surface": "על",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "להקטיר",
-      "gloss": "yakmak"
+      "gloss": "tüttürmek için"
     },
     {
       "surface": "קטרת",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "taşımak"
+      "gloss": "taşımak için"
     },
     {
       "surface": "אפוד",
@@ -74,24 +74,24 @@
     },
     {
       "surface": "לבית",
-      "gloss": "evine"
+      "gloss": "evin-e"
     },
     {
       "surface": "אביך",
-      "gloss": "atanın"
+      "gloss": "babanın"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "İsrail oğullarının bütün ateş adaklarını"
+      "marks": "tüm ateş sunularını"
     },
     {
       "surface": "כל",
-      "gloss": "bütün"
+      "gloss": "tüm"
     },
     {
       "surface": "אשי",
-      "gloss": "ateş adaklarını"
+      "gloss": "ateş sunularını"
     },
     {
       "surface": "בני",
@@ -102,6 +102,6 @@
       "gloss": "İsrail"
     }
   ],
-  "timestamp": "2026-08-19T09:21:08.781129925Z",
+  "timestamp": "2026-08-24T17:03:56.993934366Z",
   "model": "glm-5.3"
 }

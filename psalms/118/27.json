@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 118,
-  "translation": "El ⟨והוֹה-Yahve'dir⟩, bize ışık verdi; bayram kurbanını iplerle bağlayın, ⟨וּ-zekâtın וּ-çütçesine kadar sunağın boynuzlarına⟩.",
+  "translation": "El Yahve'dir; bize ışık verdi. Bayram kurbanını iplerle bağlayın, ⟨hatta⟩ sunağın boynuzlarına ⟨kadar⟩.",
   "tokens": [
     {
       "surface": "אל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'dir"
+      "gloss": "Yahve"
     },
     {
       "surface": "ויאר",
-      "gloss": "ve ışık verdi"
+      "gloss": "ışık verdi"
     },
     {
       "surface": "לנו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "חג",
-      "gloss": "bayram\/kurban"
+      "gloss": "bayram kurbanını"
     },
     {
       "surface": "בעבתים",
@@ -48,6 +48,6 @@
       "gloss": "sunağın"
     }
   ],
-  "timestamp": "2026-08-19T11:08:53.962442966Z",
+  "timestamp": "2026-08-24T17:12:14.855704861Z",
   "model": "glm-5.3"
 }

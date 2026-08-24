@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Levileri Yisrael oğullarının arasından al ve onları arıt ⟨את⟩.",
+  "translation": "Levileri Yişrael oğullarının arasından al, ⟨את⟩ onları arıt.",
   "tokens": [
     {
       "surface": "קח",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "oğulları"
+      "gloss": "oğullarının"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yişrael"
     },
     {
       "surface": "וטהרת",
@@ -38,10 +38,9 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ onları ⟨אתם⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.041902117Z",
+  "timestamp": "2026-08-24T17:01:38.392846290Z",
   "model": "glm-5.3"
 }

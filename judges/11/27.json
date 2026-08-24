@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve ben sana günah işlemedim, ama sen bana kötülük yapıyorsun — bana ⟨את⟩ karşı savaşmak için; Yahve, ⟨the⟩ Yargıç, bugün yargılasın İsrail oğulları ile Ammon oğulları arasında.",
+  "translation": "Ve ben sana karşı ⟨günah⟩ işlemedim; ama sen bana kötülük ediyorsun — bana karşı savaşmak için. Yahve, ⟨o⟩ Yargıç, bugün İsrail oğulları ile Ammon oğulları arasında yargılasın!",
   "tokens": [
     {
       "surface": "ואנכי",
-      "gloss": "Ve ben"
+      "gloss": "ve ben"
     },
     {
       "surface": "לא",
@@ -17,24 +17,23 @@
     },
     {
       "surface": "חטאתי",
-      "gloss": "günah işlemedim"
+      "gloss": "günah işledim"
     },
     {
       "surface": "לך",
-      "gloss": "sana"
+      "gloss": "sana karşı"
     },
     {
       "surface": "ואתה",
-      "gloss": "ama sen"
+      "gloss": "ve sen"
     },
     {
       "surface": "עשה",
-      "gloss": "yapıyorsun"
+      "gloss": "ediyorsun"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "ben (bana)"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "רעה",
@@ -89,6 +88,6 @@
       "gloss": "Ammon"
     }
   ],
-  "timestamp": "2026-08-19T09:17:29.897694956Z",
+  "timestamp": "2026-08-24T17:04:18.565558636Z",
   "model": "glm-5.3"
 }

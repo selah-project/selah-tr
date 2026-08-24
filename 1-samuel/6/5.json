@@ -5,8 +5,95 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve yaptınız: עפלilerinizin tasvirlerini ve ülkeyi harap eden farelerinizin tasvirlerini; Yisrael'in Elohim'ine ⟨את⟩ onurlu bir sunu olarak verin — belki elini sizden, ilahlarınızdan ve ülkenizden hafifletir.",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:21:56.058489604Z",
+  "translation": "Yapacaksınız ţümörlerinizin suretlerini ve ülkenizi yoz'a uğratan farelerinizin suretlerini, ve Israel'in Elohim'ine bir ağırlık ⟨vereceksiniz⟩; belki eli sizden, ve elohimlerinizden, ve ülkenizden hafifler.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "yapacaksınız"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "suretlerini"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "ţümörlerinizin"
+    },
+    {
+      "surface": "וצלמי",
+      "gloss": "ve suretlerini"
+    },
+    {
+      "surface": "עכבריכם",
+      "gloss": "farelerinizin"
+    },
+    {
+      "surface": "המשחיתם",
+      "gloss": "yoz'a uğratan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ülkeyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ülkeyi"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ve vereceksiniz"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim'ine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel'in"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ağırlık"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "belki"
+    },
+    {
+      "surface": "יקל",
+      "gloss": "hafifler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "elini"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "sizden"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "ve -den"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "elohimlerinizden"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "ve -den"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ülkenizden"
+    }
+  ],
+  "timestamp": "2026-08-24T17:03:52.389447243Z",
   "model": "glm-5.3"
 }

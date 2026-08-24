@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 26,
-  "translation": "Ve ⟨the⟩ toprak onlardan terk edilmiş olacak ve şabatlarını tazeyecek; onlardan ötürü ıssız kalacak; ve onlar suçlarının cezasını ödeyecekler — çünkü, tam da çünkü hükümlerimi reddettiler ve ⟨את⟩ kurallarımı canları tiksindi.",
+  "translation": "Ve ⟨את⟩ toprak onlardan bırakılacak, ıssızken onlarsız ⟨את⟩ şabatlarını ödeyecek; ve onlar suçlarının cezasını razı olarak çekecekler; çünkü, evet çünkü hükümlerimi reddettiler ve ⟨את⟩ kurallarımı canları iğrendi.",
   "tokens": [
     {
       "surface": "והארץ",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תעזב",
-      "gloss": "terk edilmiş olacak"
+      "gloss": "bırakılacak"
     },
     {
       "surface": "מהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ותרץ",
-      "gloss": "ve tazeyecek"
+      "gloss": "ve ödeyecek"
     },
     {
       "surface": "את",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "בהשמה",
-      "gloss": "ıssızlıkta"
+      "gloss": "ıssızken"
     },
     {
       "surface": "מהם",
-      "gloss": "onlardan"
+      "gloss": "onlarsız"
     },
     {
       "surface": "והם",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "ירצו",
-      "gloss": "ödeyecekler"
+      "gloss": "razı olarak çekecekler"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "suçlarının cezasını"
+      "marks": "suçlarının (cezasını)"
     },
     {
       "surface": "עונם",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "וביען",
-      "gloss": "tam da çünkü"
+      "gloss": "evet çünkü"
     },
     {
       "surface": "במשפטי",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "געלה",
-      "gloss": "tiksindi"
+      "gloss": "iğrendi"
     },
     {
       "surface": "נפשם",
       "gloss": "canları"
     }
   ],
-  "timestamp": "2026-08-19T07:31:46.765366398Z",
+  "timestamp": "2026-08-24T17:01:42.724106531Z",
   "model": "glm-5.3"
 }

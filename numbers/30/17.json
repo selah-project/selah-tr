@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 30,
-  "translation": "Bunlar ⟨ה⟩kutar; Yahve'nin Moşe'ye emrettiği ⟨את⟩: erkek ile karısı arasında, baba ile gençlik çağındaki kızı arasında — babasının evinde ⟨iken⟩.",
+  "translation": "Bunlar ⟨ה⟩hükümlerdir ki Yahve Moşe'ye emretti ⟨את⟩: bir adam ile karısı arasında, bir baba ile gençlik çağındaki kızı arasında — babasının evinde.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "החקים",
-      "gloss": "⟨ה⟩kutar"
+      "gloss": "hükümler"
     },
     {
       "surface": "אשר",
-      "gloss": "-nın ki"
+      "gloss": "ki"
     },
     {
       "surface": "צוה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moşe'ye"
+      "gloss": "Moşe"
     },
     {
       "surface": "בין",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "erkek"
+      "gloss": "adam"
     },
     {
       "surface": "לאשתו",
-      "gloss": "karısı ile"
+      "gloss": "karısı"
     },
     {
       "surface": "בין",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "לבתו",
-      "gloss": "kızı ile"
+      "gloss": "kızı"
     },
     {
       "surface": "בנעריה",
-      "gloss": "gençlik çağındaki"
+      "gloss": "gençlik çağında"
     },
     {
       "surface": "בית",
@@ -73,6 +73,6 @@
       "gloss": "babasının"
     }
   ],
-  "timestamp": "2026-08-19T07:41:53.414349541Z",
+  "timestamp": "2026-08-24T17:02:06.366878701Z",
   "model": "glm-5.3"
 }

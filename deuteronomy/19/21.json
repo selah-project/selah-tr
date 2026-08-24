@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve gözün acımasın ⟨⟨את⟩⟩-siz: cana can, göze göz, dişe diş, ele el, ayağa ayak.",
+  "translation": "Ve gözün acımayacak: nefesh nefesh için, göz göz için, diş diş için, el el için, ayak ayak için.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ve ... -ma"
+      "gloss": "ve ... değil"
     },
     {
       "surface": "תחוס",
-      "gloss": "acımasın"
+      "gloss": "acımayacak"
     },
     {
       "surface": "עינך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נפש",
-      "gloss": "can"
+      "gloss": "nefesh"
     },
     {
       "surface": "בנפש",
-      "gloss": "cana"
+      "gloss": "nefesh için"
     },
     {
       "surface": "עין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בעין",
-      "gloss": "göze"
+      "gloss": "göz için"
     },
     {
       "surface": "שן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בשן",
-      "gloss": "dişe"
+      "gloss": "diş için"
     },
     {
       "surface": "יד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "ele"
+      "gloss": "el için"
     },
     {
       "surface": "רגל",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "ברגל",
-      "gloss": "ayağa"
+      "gloss": "ayak için"
     }
   ],
-  "timestamp": "2026-08-19T09:01:32.019098777Z",
+  "timestamp": "2026-08-24T17:02:44.370244310Z",
   "model": "glm-5.3"
 }

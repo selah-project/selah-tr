@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Uzakten duymadın mı? Onu ⟨את⟩ ben yaptım, eski günlerde ben biçimlendirdim; şimdi onu getirdim — surlu şehirleri yıkık yığınlar haline getirmek için ⟨⟨onlar⟩⟩ ⟨⟨korkak ellerli⟩⟩ darmadağın olsunlar diye.",
+  "translation": "Uzaktan duymadın mı? ⟨את⟩ onu ben yaptım, kadim günlerde; onu biçimlendirdim; şimdi onu getirdim — ki harabe yığınları olsun, surlu şehirler.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "değil mi"
+      "gloss": "hiç... mi"
     },
     {
       "surface": "שמעת",
-      "gloss": "duydun mu"
+      "gloss": "duymadın"
     },
     {
       "surface": "למרחוק",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "ben yaptım"
+      "gloss": "yaptım"
     },
     {
       "surface": "למימי",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "קדם",
-      "gloss": "eskiden"
+      "gloss": "kadim"
     },
     {
       "surface": "ויצרתיה",
-      "gloss": "ve onu biçimlendirdim"
+      "gloss": "onu biçimlendirdim"
     },
     {
       "surface": "עתה",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "ve o olsun"
+      "gloss": "ve olsun"
     },
     {
       "surface": "להשות",
-      "gloss": "yıkım için"
+      "gloss": "harabeye"
     },
     {
       "surface": "גלים",
-      "gloss": "yığınlar"
+      "gloss": "yığınlara"
     },
     {
       "surface": "נצים",
-      "gloss": "yıkık"
+      "gloss": "devrilmiş"
     },
     {
       "surface": "ערים",
@@ -73,6 +73,6 @@
       "gloss": "surlu"
     }
   ],
-  "timestamp": "2026-08-19T09:49:02.913220327Z",
+  "timestamp": "2026-08-24T17:06:19.654520797Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Zevulun, Kitron'un sakinlerini ⟨את⟩ ve Nahalol'un sakinlerini ⟨את⟩ miras olarak sürüp çıkarmadı; Kenanlı onun ortasında oturdu ve angaryaya ⟨⟨oldular⟩⟩.",
+  "translation": "Zevulun, Kitron sakinlerini ve Nahalol sakinlerini mirasçı olarak kovan olmadı; ve Kenanlı onun ortasında oturdu ve angaryaya ⟨tâbi⟩ oldular.",
   "tokens": [
     {
       "surface": "זבולן",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "olmadı"
     },
     {
       "surface": "הוריש",
-      "gloss": "sürüp çıkarmadı"
+      "gloss": "mirasçı olarak kovan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kitron'un sakinlerini"
+      "marks": "Kitron sakinlerini"
     },
     {
       "surface": "יושבי",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "קטרון",
-      "gloss": "Kitron'un"
+      "gloss": "Kitron"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "Nahalol'un sakinlerini"
+      "marks": "Nahalol sakinlerini"
     },
     {
       "surface": "יושבי",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "נהלל",
-      "gloss": "Nahalol'un"
+      "gloss": "Nahalol"
     },
     {
       "surface": "וישב",
-      "gloss": "oturdu"
+      "gloss": "ve oturdu"
     },
     {
       "surface": "הכנעני",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "oldular"
+      "gloss": "ve oldular"
     },
     {
       "surface": "למס",
       "gloss": "angaryaya"
     }
   ],
-  "timestamp": "2026-08-19T09:14:22.115577112Z",
+  "timestamp": "2026-08-24T17:03:24.914243083Z",
   "model": "glm-5.3"
 }

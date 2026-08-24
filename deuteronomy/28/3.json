@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Kutlusun sen şehirde, ve kutlusun sen kırdа.",
+  "translation": "Kutsanmışsın sen ⟨şehirde⟩, ve kutsanmışsın sen ⟨kırsalda⟩.",
   "tokens": [
     {
       "surface": "ברוך",
-      "gloss": "kutlu"
+      "gloss": "Kutsanmış"
     },
     {
       "surface": "אתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וברוך",
-      "gloss": "ve kutlu"
+      "gloss": "ve kutsanmış"
     },
     {
       "surface": "אתה",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "kırdа"
+      "gloss": "kırsalda"
     }
   ],
-  "timestamp": "2026-08-19T09:04:59.287514317Z",
+  "timestamp": "2026-08-24T17:02:35.555793592Z",
   "model": "glm-5.3"
 }

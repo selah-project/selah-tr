@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve gördüm, parlak metal ⟨ה⟩ görünümlü, ateş görünümlü, içinden ev sahipliğinde ⟨⟨⟩⟩ — o çevresinde; belinin görünümünden ve yukarıya, ve belinin görünümünden ve aşağıya, ateş görünümlü bir şey gördüm ve ona parlaklık ⟨idi⟩ çevresinde.",
+  "translation": "Ve gördüm, HASHMAL'in görünümü gibi, ateş görünümü gibi, evine ⟨o⟩nun ⟨çevresinde⟩; belinin görünümünden yukarıya ve belinin görünümünden aşağıya gördüm ateş görünümü gibi, ve parlaklık ona çevresinde",
   "tokens": [
     {
       "surface": "וארא",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "כעין",
-      "gloss": "görünümlü"
+      "gloss": "görünümü gibi"
     },
     {
       "surface": "חשמל",
-      "gloss": "parlak metal"
+      "gloss": "hashmal"
     },
     {
       "surface": "כמראה",
-      "gloss": "görünümlü"
+      "gloss": "görünümü gibi"
     },
     {
       "surface": "אש",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "כמראה",
-      "gloss": "görünümlü"
+      "gloss": "görünümü gibi"
     },
     {
       "surface": "אש",
@@ -88,6 +88,6 @@
       "gloss": "çevresinde"
     }
   ],
-  "timestamp": "2026-08-19T12:19:39.111268279Z",
+  "timestamp": "2026-08-24T17:08:14.292030019Z",
   "model": "glm-5.3"
 }

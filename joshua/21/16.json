@@ -5,21 +5,21 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Ve ⟨את⟩ Ayin'i ve ⟨את⟩ meralarını, ve ⟨את⟩ Yutta'yı ve ⟨את⟩ meralarını, ⟨את⟩ Beyt-Şemeş'i ve ⟨את⟩ meralarını — dokuz kent, ⟨מאת⟩ bu iki kabileden.",
+  "translation": "ve ⟨את⟩ Ayn'ı ve ⟨את⟩ meralarını, ve ⟨את⟩ Yutta'yı ve ⟨את⟩ meralarını, ⟨את⟩ Beyt-Şemeş'i ve ⟨את⟩ meralarını — dokuz kent ⟨את⟩ bu iki kabileden.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "Ayin"
+      "marks": "Ayn'ı"
     },
     {
       "surface": "עין",
-      "gloss": "Ayin"
+      "gloss": "Ayn"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "meraları"
+      "marks": "meralarını"
     },
     {
       "surface": "מגרשה",
@@ -28,7 +28,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "Yutta"
+      "marks": "Yutta'yı"
     },
     {
       "surface": "יטה",
@@ -37,7 +37,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "meraları"
+      "marks": "meralarını"
     },
     {
       "surface": "מגרשה",
@@ -46,20 +46,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Beyt-Şemeş"
+      "marks": "Beyt-Şemeş'i"
     },
     {
       "surface": "בית",
-      "gloss": "Beyt (ev)"
+      "gloss": "Beyt"
     },
     {
       "surface": "שמש",
-      "gloss": "Şemeş (güneş)"
+      "gloss": "Şemeş"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "meraları"
+      "marks": "meralarını"
     },
     {
       "surface": "מגרשה",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ערים",
-      "gloss": "kentler"
+      "gloss": "kent"
     },
     {
       "surface": "תשע",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ -den"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "שני",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "השבטים",
-      "gloss": "kabile"
+      "gloss": "kabilelerden"
     },
     {
       "surface": "האלה",
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-19T09:12:56.488969166Z",
+  "timestamp": "2026-08-24T17:03:18.346510200Z",
   "model": "glm-5.3"
 }

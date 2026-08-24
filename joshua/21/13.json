@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Ve Aharon'un oğullarına, ⟨ולבני oğullarına⟩ kâhin ⟨הכהן⟩, verdiler ⟨את⟩ kaçağin sığınak kenti ⟨את⟩ Hevron'u ve ⟨את⟩ meralarını, ve ⟨את⟩ Livna'yı ve ⟨את⟩ meralarını.",
+  "translation": "Ve Aharon'un oğullarına, kâhine, ⟨את⟩ kaçak katilin şehri Hevron'u ve ⟨את⟩ onun kır-otlaklarını ve ⟨את⟩ Livna'yı ve ⟨את⟩ onun kır-otlaklarını verdiler.",
   "tokens": [
     {
       "surface": "ולבני",
-      "gloss": "ve ... oğullarına"
+      "gloss": "ve oğullarına"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "Aharon'un"
     },
     {
       "surface": "הכהן",
@@ -26,24 +26,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaçağin sığınak kenti"
+      "marks": "Hevron'u"
     },
     {
       "surface": "עיר",
-      "gloss": "kent"
+      "gloss": "şehir"
     },
     {
       "surface": "מקלט",
-      "gloss": "sığınak"
+      "gloss": "kaçak (sığınak)"
     },
     {
       "surface": "הרצח",
-      "gloss": "kaçak (katil)"
+      "gloss": "katilin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hevron"
+      "marks": "Hevron'u"
     },
     {
       "surface": "חברון",
@@ -52,16 +52,16 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "meraları"
+      "marks": "kır-otlaklarını (Hevron'un)"
     },
     {
       "surface": "מגרשה",
-      "gloss": "meraları"
+      "gloss": "onun kır-otlakları"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "Livna"
+      "marks": "Livna'yı"
     },
     {
       "surface": "לבנה",
@@ -70,13 +70,13 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "meraları"
+      "marks": "kır-otlaklarını (Livna'nın)"
     },
     {
       "surface": "מגרשה",
-      "gloss": "meraları"
+      "gloss": "onun kır-otlakları"
     }
   ],
-  "timestamp": "2026-08-19T09:12:56.488368256Z",
+  "timestamp": "2026-08-24T17:03:26.640412390Z",
   "model": "glm-5.3"
 }

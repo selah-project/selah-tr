@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Şehirden bilge bir kadın seslendi: Duyun, duyun! Yoav'a deyin: Yaklaş buraya, ⟨ki⟩ seninle konuşayım.",
+  "translation": "Ve şehirden bilge bir kadın seslendi: \"Duyun, duyun! Lütfen Yoav'a deyin: 'Yaklaş buraya, da sana konuşayım.'\"",
   "tokens": [
     {
       "surface": "ותקרא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "kadın"
+      "gloss": "bir kadın"
     },
     {
       "surface": "חכמה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "içinden"
+      "gloss": "-dan"
     },
     {
       "surface": "העיר",
-      "gloss": "şehrin"
+      "gloss": "şehirden"
     },
     {
       "surface": "שמעו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "söyleyin"
+      "gloss": "deyin"
     },
     {
       "surface": "נא",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "değil, 'için' değil — יואב'a doğru: '' değildir; 'אל' = -e"
+      "gloss": "-e"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav'a"
+      "gloss": "Yoav"
     },
     {
       "surface": "קרב",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "-a kadar"
+      "gloss": "kadar"
     },
     {
       "surface": "הנה",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "ואדברה",
-      "gloss": "ve konuşayım"
+      "gloss": "da konuşayım"
     },
     {
       "surface": "אליך",
-      "gloss": "seninle"
+      "gloss": "sana"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.009485180Z",
+  "timestamp": "2026-08-24T17:04:47.464777018Z",
   "model": "glm-5.3"
 }

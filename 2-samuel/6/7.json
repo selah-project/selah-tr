@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve Yahve'nin öfkesi Uzza'ya alevlendi; Elohim onu orada ⟨השל⟩ hatası yüzünden vurdu ve orada, Elohim'in sandığının yanında öldü.",
+  "translation": "Ve Yahve'nin öfkesi Uzza'ya karşı alevlendi; ⟨את⟩ Elohim orada onu hatası yüzünden vurdu ve orada, Elohim'in sandığının yanında öldü.",
   "tokens": [
     {
       "surface": "ויחר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אף",
-      "gloss": "burun\/öfke"
+      "gloss": "öfke\/burun"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'nin"
+      "gloss": "Yahve"
     },
     {
       "surface": "בעזה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "onu vurdu"
+      "gloss": "ve onu vurdu"
     },
     {
       "surface": "שם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "השל",
-      "gloss": "⟨hata⟩"
+      "gloss": "hata"
     },
     {
       "surface": "וימת",
-      "gloss": "öldü"
+      "gloss": "ve öldü"
     },
     {
       "surface": "שם",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "ארון",
-      "gloss": "sandığının"
+      "gloss": "sandık"
     },
     {
       "surface": "האלהים",
       "gloss": "Elohim'in"
     }
   ],
-  "timestamp": "2026-08-19T09:29:48.445545587Z",
+  "timestamp": "2026-08-24T17:04:31.915792153Z",
   "model": "glm-5.3"
 }

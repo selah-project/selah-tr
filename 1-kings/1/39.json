@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Aldı Tsadok ⟨ה⟩kâhin ⟨את⟩ yağın boynuzunu ⟨ה⟩çadırdan, ve Şelomo'yu meshetti; ve şofar üflediler, ve bütün ⟨ה⟩halk dedi: Yaşasın ⟨ה⟩kral Şelomo!",
+  "translation": "Ve Tsadok kâhin çadırdan ⟨את⟩ yağ boynuzunu aldı ve ⟨את⟩ Şelomo'yu meshetti; ve şofarı çaldılar ve bütün halk dedi: Yaşasın Kral Şelomo!",
   "tokens": [
     {
       "surface": "ויקח",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yağın boynuzunu"
+      "marks": "yağ boynuzunu"
     },
     {
       "surface": "קרן",
-      "gloss": "boynuzunu"
+      "gloss": "boynuz"
     },
     {
       "surface": "השמן",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Şelomo'yu"
+      "gloss": "Şelomo"
     },
     {
       "surface": "ויתקעו",
-      "gloss": "ve üflediler"
+      "gloss": "ve çaldılar"
     },
     {
       "surface": "בשופר",
@@ -86,6 +86,6 @@
       "gloss": "Şelomo"
     }
   ],
-  "timestamp": "2026-08-19T09:36:23.615291261Z",
+  "timestamp": "2026-08-24T17:05:12.112066745Z",
   "model": "glm-5.3"
 }

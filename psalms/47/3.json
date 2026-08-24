@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 47,
-  "translation": "Çünkü Yahve, Elyon, korkunç olandır; bütün ⟨א⟩ yerin üzerinde büyük kral.",
+  "translation": "Çünkü Yahve, En Yüce, korkunç ⟨bir⟩ Kral'dır, bütün yeryüzünün üzerinde ⟨olan⟩ büyük ⟨bir⟩ Kral.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עליון",
-      "gloss": "Elyon (En Yüce)"
+      "gloss": "En Yüce"
     },
     {
       "surface": "נורא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kral"
+      "gloss": "Kral"
     },
     {
       "surface": "גדול",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yer"
+      "gloss": "yeryüzü"
     }
   ],
-  "timestamp": "2026-08-19T10:58:09.453057173Z",
+  "timestamp": "2026-08-24T17:11:07.479189878Z",
   "model": "glm-5.3"
 }

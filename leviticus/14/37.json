@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Ve ō ⟨את⟩ lekeden baksın, ve işte ⟨⟨eğer⟩⟩ leke evin duvarlarında — çukurcuklar, yeşilimsi ya da kızımsı — ve görünümleri duvardan daha alçak ⟨ise⟩;",
+  "translation": "Ve eğer lekeye bakar, ve işte evin duvarlarında leke ⟨var⟩ — çukurcuklar, yemyeşilimsi ya da kızıl kızıl — ve görünümleri duvardan ⟨daha⟩ alçak ⟨ise⟩:",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "ve baksın"
+      "gloss": "ve bakar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "leke"
+      "marks": "lekeye"
     },
     {
       "surface": "הנגע",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ev"
+      "gloss": "evin"
     },
     {
       "surface": "שקערורת",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ירקרקת",
-      "gloss": "yeşilimsi"
+      "gloss": "yemyeşilimsi"
     },
     {
       "surface": "או",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אדמדמת",
-      "gloss": "kızımsı"
+      "gloss": "kızıl kızıl"
     },
     {
       "surface": "ומראיהן",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "מן",
-      "gloss": "daha... -den"
+      "gloss": "-dan"
     },
     {
       "surface": "הקיר",
       "gloss": "duvar"
     }
   ],
-  "timestamp": "2026-08-19T07:26:57.098347474Z",
+  "timestamp": "2026-08-24T17:01:03.076754379Z",
   "model": "glm-5.3"
 }

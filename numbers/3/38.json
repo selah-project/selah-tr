@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve ⟨the⟩ meskenin önünde doğu yönünde konut kuracak olanlar, toplantı çadırının önünde güneşin doğusunda: Moşe, Aharon ve oğulları; kutsal yerin bekçiliğini İsrail oğullarının bekçiliği için yapacaklar; yabancıdan yaklaşan öldürülecektir.",
+  "translation": "Mişkan'ın, toplantı çadırının önünde, doğuda ⟨konaklayanlar⟩ ise Moşe ile Aharon ve oğullarıydı; kutsal yerin nöbetini, Yişrael oğulları adına nöbet olarak koruyorlardı; yaklaşan yabancı öldürülecekti.",
   "tokens": [
     {
       "surface": "והחנים",
-      "gloss": "ve konut kuranlar"
+      "gloss": "ve konaklayanlar"
     },
     {
       "surface": "לפני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "⟨the⟩ mesken"
+      "gloss": "Mişkan'ın"
     },
     {
       "surface": "קדמה",
-      "gloss": "doğu yönünde"
+      "gloss": "doğuda"
     },
     {
       "surface": "לפני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "çadır"
+      "gloss": "çadırının"
     },
     {
       "surface": "מועד",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מזרחה",
-      "gloss": "güneşin doğusuna"
+      "gloss": "güneşin doğuşuna doğru"
     },
     {
       "surface": "משה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "ve oğulları"
+      "gloss": "ve onun oğulları"
     },
     {
       "surface": "שמרים",
-      "gloss": "bekçilik edenler"
+      "gloss": "koruyanlar"
     },
     {
       "surface": "משמרת",
-      "gloss": "bekçiliğini"
+      "gloss": "nöbetini"
     },
     {
       "surface": "המקדש",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "למשמרת",
-      "gloss": "bekçiliği için"
+      "gloss": "nöbet olarak"
     },
     {
       "surface": "בני",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail"
+      "gloss": "Yişrael'in"
     },
     {
       "surface": "והזר",
@@ -88,6 +88,6 @@
       "gloss": "öldürülecektir"
     }
   ],
-  "timestamp": "2026-08-19T07:33:24.003498979Z",
+  "timestamp": "2026-08-24T17:01:51.856818337Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Ve Yahve dedi: «Yeuda'yı da yüzümün önünden kaldıracağım, ⟨את⟩ İsrail'i kaldırdığım gibi; ve ⟨את⟩ bu şehri — seçtiğim ⟨את⟩ Yeruşalayim'i — ve ⟨את⟩ 『Adım orada olacaktır』 dediğim evi reddedeceğim.",
+  "translation": "Ve Yahve dedi: \"Yehuda'yı da yüzümün önünden kaldıracağım, tıpkı İsrail'i kaldırdığım gibi; ve ⟨את⟩ bu şehri — ki seçtim ⟨את⟩ Yeruşalayim'i — ve ⟨את⟩ bu evi, hakkında 'Adım orada olacak' dediğim, reddedeceğim.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "גם",
-      "gloss": "da"
+      "gloss": "de"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yeuda'yı"
+      "marks": "Yehuda'yı"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yeuda"
+      "gloss": "Yehuda"
     },
     {
       "surface": "אסיר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מעל",
-      "gloss": "-den"
+      "gloss": " üzerinden"
     },
     {
       "surface": "פני",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "gibi"
+      "gloss": "tıpkı ... gibi"
     },
     {
       "surface": "הסרתי",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "בחרתי",
-      "gloss": "seçtiğim"
+      "gloss": "seçtim"
     },
     {
       "surface": "את",
@@ -94,7 +94,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "evi"
+      "marks": "bu evi"
     },
     {
       "surface": "הבית",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "hakkında ... olan"
     },
     {
       "surface": "אמרתי",
@@ -110,17 +110,17 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "olacaktır"
+      "gloss": "olacak"
     },
     {
       "surface": "שמי",
-      "gloss": "Adım"
+      "gloss": "adım"
     },
     {
       "surface": "שם",
       "gloss": "orada"
     }
   ],
-  "timestamp": "2026-08-19T09:50:33.533521291Z",
+  "timestamp": "2026-08-24T17:05:57.322652473Z",
   "model": "glm-5.3"
 }

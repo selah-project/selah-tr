@@ -5,8 +5,74 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 17,
-  "translation": "Ve o adam Miha'ya ⟨את⟩ bir el ahının elini doldurdu ve onun kâhini oldu.",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:18:25.661442785Z",
+  "translation": "Ve Miha adamlığından olan kişiye ⟨⟨the⟩⟩ bir Elohim evi vardı; bir efod ve terafim yaptı ve oğullarından birinin ⟨את⟩ elini doldurdu; ve o kendisine kohen oldu.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ve o kişi"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Miha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ve yaptı"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ve terafim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ve doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "el"
+    },
+    {
+      "surface": "יד",
+      "gloss": "el"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-24T17:03:44.049558866Z",
   "model": "glm-5.3"
 }

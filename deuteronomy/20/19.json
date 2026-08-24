@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Bir şehre karşı uzun günler kuşatma yaptığında, onunla savaşmak, onu ele geçirmek için, ağaçlarını balta ile keserek yok etmeyeceksin; onlardan yiyeceksin ⟨כי⟩ — ⟨את⟩ onu kesmeyeceksin; çünkü ⟨הוּא⟩ ağacı insan mı ki kuşatmaya gireceksin?",
+  "translation": "Bir kente karşı kuşatma kurarken, onunla savaşmak ve onu ele geçirmek için birçok gün, ağaçlarını balta ile kesip harap etmeyeceksin; çünkü ondan yiyeceksin — ⟨את⟩ onu kesmeyeceksin; çünkü insan, kırlık ağacı mıdır ki önünden kuşatmada gitsin?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ne zaman ki"
+      "gloss": "çünkü"
     },
     {
       "surface": "תצור",
-      "gloss": "kuşatma yapacaksın"
+      "gloss": "kuşatacak olursan"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עיר",
-      "gloss": "şehir"
+      "gloss": "bir kent"
     },
     {
       "surface": "ימים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "רבים",
-      "gloss": "uzun\/çok"
+      "gloss": "birçok"
     },
     {
       "surface": "להלחם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "onunla"
+      "gloss": "ona karşı"
     },
     {
       "surface": "לתפשה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "תשחית",
-      "gloss": "yok edeceksin"
+      "gloss": "harap edeceksin"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לנדח",
-      "gloss": "keserek"
+      "gloss": "uzatıp sürmek için"
     },
     {
       "surface": "עליו",
@@ -107,11 +107,11 @@
     },
     {
       "surface": "עץ",
-      "gloss": "ağacı"
+      "gloss": "ağaç"
     },
     {
       "surface": "השדה",
-      "gloss": "tarlanın"
+      "gloss": "kırlık"
     },
     {
       "surface": "לבא",
@@ -119,13 +119,13 @@
     },
     {
       "surface": "מפניך",
-      "gloss": "öndünde\/senden kaçıp"
+      "gloss": "önünden"
     },
     {
       "surface": "במצור",
-      "gloss": "kuşatmaya"
+      "gloss": "kuşatmada"
     }
   ],
-  "timestamp": "2026-08-19T09:03:51.723923428Z",
+  "timestamp": "2026-08-24T17:02:53.281963799Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve bir oğul doğurur — zorba, kan döken; ve ⟨biri⟩ bunlardan birine kardeş gibi davranır ⟨אחד⟩⟨⟩.",
+  "translation": "Ve bir oğul doğurur — zorba biri, kan döken — ve kardeşlerinden birine bunlardan birini yapar.",
   "tokens": [
     {
       "surface": "והוליד",
@@ -33,7 +33,8 @@
     },
     {
       "surface": "אח",
-      "gloss": "kardeş"
+      "gloss": "kardeş",
+      "marks": "kardeş (bir kardeşe)"
     },
     {
       "surface": "מאחד",
@@ -44,6 +45,6 @@
       "gloss": "bunlardan"
     }
   ],
-  "timestamp": "2026-08-19T10:27:47.538070070Z",
+  "timestamp": "2026-08-24T17:55:22.549990429Z",
   "model": "glm-5.3"
 }

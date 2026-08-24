@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Ve sürünen her şey kuşa dair ⟨⟨⟩⟩ ⟨את⟩ değil — sürünen her kanatlı kuş size murdar ⟨o⟩; yenmez.",
+  "translation": "Ve her sürünen uçan ⟨şey⟩ sizin için murdardır; ⟨onlar⟩ yenmeyecektir.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "שרץ",
-      "gloss": "sürünen şey"
+      "gloss": "sürünen ⟨şey⟩"
     },
     {
       "surface": "העוף",
-      "gloss": "kuş"
+      "gloss": "uçan"
     },
     {
       "surface": "טמא",
-      "gloss": "murdar"
+      "gloss": "murdardır"
     },
     {
       "surface": "הוא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "size"
+      "gloss": "sizin için"
     },
     {
       "surface": "לא",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "יאכלו",
-      "gloss": "yenmez"
+      "gloss": "yenmeyecekler"
     }
   ],
-  "timestamp": "2026-08-19T12:12:13.748442201Z",
+  "timestamp": "2026-08-24T17:01:58.944401311Z",
   "model": "glm-5.3"
 }

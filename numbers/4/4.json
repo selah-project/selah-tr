@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 4,
-  "translation": "Bu ⟨⟨dir⟩⟩ Kehat oğullarının hizmeti Buluşma Çadırı'nda: kutsalların kutsalı ⟨hakkında⟩.",
+  "translation": "Bu, Kehat oğullarının Buluşma Çadırı'ndaki hizmetidir: kutsalların kutsalı.",
   "tokens": [
     {
       "surface": "זאת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "oğulları"
+      "gloss": "oğullarının"
     },
     {
       "surface": "קהת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "באהל",
-      "gloss": "Çadır'da"
+      "gloss": "Çadırı'ndaki"
     },
     {
       "surface": "מועד",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "kutsal(ı)"
+      "gloss": "kutsalların"
     },
     {
       "surface": "הקדשים",
-      "gloss": "kutsalların"
+      "gloss": "kutsalı"
     }
   ],
-  "timestamp": "2026-08-19T08:55:31.938384702Z",
+  "timestamp": "2026-08-24T17:01:25.323672856Z",
   "model": "glm-5.3"
 }

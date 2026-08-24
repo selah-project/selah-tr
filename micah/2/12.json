@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Toplayacağım, toplayacağım Yaakov'u, ⟨⟨senin⟩⟩ bütününü; derleyeceğim, derleyeceğim İsrail'in kalıntısını; birlikte koyacağım onu ağılın koyunları gibi, çevresindekiler ⟨⟨sürünün⟩⟩ ortasında bir sürü gibi — insan ⟨⟨kalabalığından⟩⟩ ötürü uğuldayacaklar.",
+  "translation": "Kesinlikle toplayacağım Yakov'un tamamını, toplayacağım İsrail'in kalıntısını; birlikte koyacağım onları sürü gibi, ağıldaki, ortasındaki yayla sürüsü gibi; insanların çokluğundan gürleyecekler.",
   "tokens": [
     {
       "surface": "אסף",
-      "gloss": "toplayacağım"
+      "gloss": "kesinlikle toplayacağım"
     },
     {
       "surface": "אאסף",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov'u"
+      "gloss": "Yakov'un"
     },
     {
       "surface": "כלך",
-      "gloss": "bütününü"
+      "gloss": "tamamını"
     },
     {
       "surface": "קבץ",
-      "gloss": "derleyeceğim"
+      "gloss": "toplayacağım"
     },
     {
       "surface": "אקבץ",
-      "gloss": "derleyeceğim"
+      "gloss": "toplayacağım"
     },
     {
       "surface": "שארית",
@@ -45,37 +45,37 @@
     },
     {
       "surface": "אשימנו",
-      "gloss": "koyacağım onu"
+      "gloss": "koyacağım onları"
     },
     {
       "surface": "כצאן",
-      "gloss": "koyunlar gibi"
-    },
-    {
-      "surface": "בצרה",
-      "gloss": "ağılda"
-    },
-    {
-      "surface": "כעדר",
       "gloss": "sürü gibi"
     },
     {
+      "surface": "בצרה",
+      "gloss": "ağıldaki"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "yayla sürüsü gibi"
+    },
+    {
       "surface": "בתוך",
-      "gloss": "ortasında"
+      "gloss": "ortasındaki"
     },
     {
       "surface": "הדברו",
-      "gloss": "çitliğinin"
+      "gloss": "—"
     },
     {
       "surface": "תהימנה",
-      "gloss": "uğuldayacaklar"
+      "gloss": "gürleyecekler"
     },
     {
       "surface": "מאדם",
-      "gloss": "insandan"
+      "gloss": "insanların çokluğundan"
     }
   ],
-  "timestamp": "2026-08-19T10:44:35.643672468Z",
+  "timestamp": "2026-08-24T17:10:16.238572414Z",
   "model": "glm-5.3"
 }

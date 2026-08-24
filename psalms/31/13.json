@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 31,
-  "translation": "Unutuldum, kalpten ⟨⟨bir⟩⟩ ölü gibi; kırık bir kap gibi ⟨oldum⟩.",
+  "translation": "Unutuldum, ölü gibi yürekten ⟨dışı⟩; yok olan bir kap gibi oldum.",
   "tokens": [
     {
       "surface": "נשכחתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מלב",
-      "gloss": "kalpten"
+      "gloss": "yürekten ⟨dışı⟩"
     },
     {
       "surface": "הייתי",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "אבד",
-      "gloss": "yok olmuş"
+      "gloss": "yok olan"
     }
   ],
-  "timestamp": "2026-08-19T10:56:12.415334124Z",
+  "timestamp": "2026-08-24T17:11:06.898765493Z",
   "model": "glm-5.3"
 }

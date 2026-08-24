@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve halk ayırt edemiyordu ⟨the⟩ sevinç çığlığını ⟨את⟩ sesini ⟨the⟩ halkın ağlayışından; çünkü halk büyük bir çığlık atıyordu ve ses uzaklara dek duyuldu.",
+  "translation": "Ve halk, sevinç çığlığının sesini ağlamanın sesinden ayırt edemiyordu; çünkü halk büyük bir çığlık atıyordu ve ses uzaklara dek duyuluyordu.",
   "tokens": [
     {
       "surface": "ואין",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תרועת",
-      "gloss": "çığlığını"
+      "gloss": "çığlığının"
     },
     {
       "surface": "השמחה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "לקול",
-      "gloss": "…dan"
+      "gloss": "...ın sesinden"
     },
     {
       "surface": "בכי",
-      "gloss": "ağlayış"
+      "gloss": "ağlamanın"
     },
     {
       "surface": "העם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "büyük"
+      "gloss": "büyük bir"
     },
     {
       "surface": "והקול",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "נשמע",
-      "gloss": "duyuldu"
+      "gloss": "duyuluyordu"
     },
     {
       "surface": "עד",
@@ -80,6 +80,6 @@
       "gloss": "uzaklara"
     }
   ],
-  "timestamp": "2026-08-19T12:24:40.895501244Z",
+  "timestamp": "2026-08-24T17:14:56.399201826Z",
   "model": "glm-5.3"
 }

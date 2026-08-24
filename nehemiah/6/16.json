@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve oldu: bütün düşmanlarımız bunu duyunca, çevremizdeki bütün uluslar gördü, ve kendi gözlerinde çok düştüler; çünkü bildiler ki bu iş Elohim'imizin ⟨את⟩'i tarafından yapılmıştır.",
+  "translation": "Ve oldu: bütün düşmanlarımız bunu duyduğu ve çevremizdeki bütün uluslar gördüğü zaman, kendi gözlerinde çok düştüler ve bildiler ki bu iş Elohim'imizle ⟨את⟩ yapılmıştır.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "…dığında\/ki"
+      "gloss": "when"
     },
     {
       "surface": "שמעו",
-      "gloss": "duydular"
+      "gloss": "duydukları"
     },
     {
       "surface": "כל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "סביבתינו",
-      "gloss": "çevremizdeki(ler)"
+      "gloss": "çevremizdeki"
     },
     {
       "surface": "ויפלו",
@@ -65,12 +65,12 @@
     },
     {
       "surface": "כי",
-      "gloss": "çünkü"
+      "gloss": "ki"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩'i tarafından (min + את)",
-      "marks": "Elohim'imiz"
+      "gloss": "⟨את⟩",
+      "marks": "bu iş"
     },
     {
       "surface": "אלהינו",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "bu"
+      "gloss": "şu"
     }
   ],
-  "timestamp": "2026-08-19T11:50:15.536835572Z",
+  "timestamp": "2026-08-24T17:15:39.927418292Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 50,
-  "translation": "Oğulları onu Kenaan toprağına taşıdılar ve onu Avraham'ın, mezar edinmesi için Efron the Hittite'ten, Mamre'nin önünde, ⟨את⟩ tarla ile birlikte Makpela tarlasının mağarasında satın aldığı yerde gömdüler.",
+  "translation": "Oğulları onu Kenaan ülkesine taşıdılar ve onu Makpela tarlasındaki mağaraya gömdüler; o tarlayı Avraham mezar edinmesi için Hititli Efron'dan ⟨את⟩ satın almıştı, Mamre'nin karşısında.",
   "tokens": [
     {
       "surface": "וישאו",
@@ -14,7 +14,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ onu",
-      "marks": "בניו"
+      "marks": "onu"
     },
     {
       "surface": "בניו",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "toprağına"
+      "gloss": "ülkesine"
     },
     {
       "surface": "כנען",
@@ -35,15 +35,15 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ onu",
-      "marks": "במערת שדה המכפלה"
+      "marks": "onu"
     },
     {
       "surface": "במערת",
-      "gloss": "mağarasında"
+      "gloss": "mağarasına"
     },
     {
       "surface": "שדה",
-      "gloss": "tarlasının"
+      "gloss": "tarlasındaki"
     },
     {
       "surface": "המכפלה",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki onu"
+      "gloss": "ki"
     },
     {
       "surface": "קנה",
-      "gloss": "satın aldı"
+      "gloss": "satın almıştı"
     },
     {
       "surface": "אברהם",
@@ -64,7 +64,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tarla"
+      "marks": "o tarlayı"
     },
     {
       "surface": "השדה",
@@ -80,29 +80,29 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩'ten"
     },
     {
       "surface": "עפרן",
-      "gloss": "Efron'dan"
+      "gloss": "Efron"
     },
     {
       "surface": "החתי",
-      "gloss": "Hittili"
+      "gloss": "Hititli"
     },
     {
       "surface": "על",
-      "gloss": "önünde"
+      "gloss": "karşısında"
     },
     {
       "surface": "פני",
-      "gloss": "yüzünün"
+      "gloss": "yüzünde"
     },
     {
       "surface": "ממרא",
       "gloss": "Mamre"
     }
   ],
-  "timestamp": "2026-08-19T07:10:01.991241006Z",
+  "timestamp": "2026-08-24T17:16:53.273042555Z",
   "model": "glm-5.3"
 }

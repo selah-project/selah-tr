@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve dedi: Otur kızım, ⟨⟨şöyle⟩⟩ ki iş nasıl sonuçlanacak bilene dek; çünkü adam ⟨durmayacak⟩⟨o⟩ kadar⟩, işi bugün tamamlayıncaya kadar rahat etmeyecek.",
+  "translation": "Ve şöyle dedi: Otur kızım, işin nasıl sonuçlanacağını ⟨את⟩ öğrenene kadar; çünkü adam ⟨olmayacak⟩ rahat, ancak bugün işi bitirince.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "ve dedi"
+      "gloss": "ve şöyle dedi"
     },
     {
       "surface": "שבי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "-e dek"
+      "gloss": "kadar"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תדעין",
-      "gloss": "bileceksin"
+      "gloss": "öğrenene"
     },
     {
       "surface": "איך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יפל",
-      "gloss": "düşecek \/ sonuçlanacak"
+      "gloss": "sonuçlanacak"
     },
     {
       "surface": "דבר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "-mez"
+      "gloss": "olmayacak"
     },
     {
       "surface": "ישקט",
-      "gloss": "rahat edecek"
+      "gloss": "rahat"
     },
     {
       "surface": "האיש",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "ancak"
     },
     {
       "surface": "אם",
-      "gloss": "-medikçe"
+      "gloss": "şayet"
     },
     {
       "surface": "כלה",
-      "gloss": "tamamlamış"
+      "gloss": "bitirince"
     },
     {
       "surface": "הדבר",
@@ -80,6 +80,6 @@
       "gloss": "bugün"
     }
   ],
-  "timestamp": "2026-08-19T11:35:07.660951453Z",
+  "timestamp": "2026-08-24T17:14:29.361148932Z",
   "model": "glm-5.3"
 }

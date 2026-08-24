@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Geçip gidişinin her seferinde sizi ⟨אתכם⟩ alıp götürecek; çünkü sabah sabah geçecek, gündüz ve gece; ve yalnızca dehşet olacak, haberi anlamak için.",
+  "translation": "Her geçişinde ⟨את⟩ sizleri alıp götürecek; çünkü sabah sabah geçecek, gündüzün ve geceleyin; ve yalnızca dehşet olacak — haberi anlamak için.",
   "tokens": [
     {
       "surface": "מדי",
-      "gloss": "her seferinde"
+      "gloss": "her (geçişinde)"
     },
     {
       "surface": "עברו",
-      "gloss": "geçip gidişinin"
+      "gloss": "geçişi"
     },
     {
       "surface": "יקח",
@@ -21,7 +21,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ sizi"
+      "gloss": "⟨את⟩ sizleri",
+      "marks": "sizleri"
     },
     {
       "surface": "כי",
@@ -41,11 +42,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "gündüz"
+      "gloss": "gündüzün"
     },
     {
       "surface": "ובלילה",
-      "gloss": "ve gece"
+      "gloss": "ve geceleyin"
     },
     {
       "surface": "והיה",
@@ -68,6 +69,6 @@
       "gloss": "haber"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.038911874Z",
+  "timestamp": "2026-08-24T17:06:43.844618179Z",
   "model": "glm-5.3"
 }

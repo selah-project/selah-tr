@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Yapayalnız ben bütün şu kavmi taşımaya güç yetiremem, çünkü ⟨⟨bu⟩⟩ benden ağır.",
+  "translation": "Yapamam ben, tek başıma, taşımaya ⟨את⟩ bütün bu halkı — çünkü ağır o, benden.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "yapamam (değil)"
     },
     {
       "surface": "אוכל",
-      "gloss": "güç yetiremem"
+      "gloss": "gücüm yetmez"
     },
     {
       "surface": "אנכי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לבדי",
-      "gloss": "yapayalnız"
+      "gloss": "tek başıma"
     },
     {
       "surface": "לשאת",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bütün şu kavmi"
+      "marks": "bütün bu halkı"
     },
     {
       "surface": "כל",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "kavmi"
+      "gloss": "halkı"
     },
     {
       "surface": "הזה",
-      "gloss": "şu"
+      "gloss": "bu"
     },
     {
       "surface": "כי",
@@ -57,6 +57,6 @@
       "gloss": "benden"
     }
   ],
-  "timestamp": "2026-08-19T07:36:28.279142389Z",
+  "timestamp": "2026-08-24T17:01:43.267634918Z",
   "model": "glm-5.3"
 }

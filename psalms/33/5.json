@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 33,
-  "translation": "Doğruluğu ve hakkı sever; Yahve'nin hasadıyla ⟨⟨doldurulmuş⟩⟩ ⟨⟨⟩⟩ yer ⟨⟨doludur⟩⟩.",
-  "tokens": [],
-  "timestamp": "2026-08-19T10:55:54.776489525Z",
+  "translation": "Doğruluğu ve hukuku sever; Yahve'nin hasediyle doludur ⟨the⟩ yer.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "sever"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ve hukuku"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hasedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'nin"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-24T17:17:11.390975753Z",
   "model": "glm-5.3"
 }

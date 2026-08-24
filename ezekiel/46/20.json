@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 46,
-  "translation": "Ve bana dedi: İşte ⟨המקום-burası⟩ kâhinlerin orada haşlama yaptıkları yer — ⟨את⟩ suç sunusunu ve ⟨את⟩ günah sunusunu; tahıl sunusunu piştikleri ⟨yer⟩ — dış avluya çıkarmamak için, halkı kutsamak üzere ⟨את⟩.",
+  "translation": "Ve bana dedi: Burası ⟨את⟩ suç sunusunun ve ⟨את⟩ günah sunusunun kaynatıldığı, tahıl sunusunun pişirildiği yerdir — dış avluya çıkarmamak için, halkı kutsal kılmak amacıyla.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "işte bu"
+      "gloss": "burası"
     },
     {
       "surface": "המקום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יבשלו",
-      "gloss": "haşlayacaklar"
+      "gloss": "kaynatırlar"
     },
     {
       "surface": "שם",
@@ -42,20 +42,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "suç sunusunu"
+      "marks": "suç sunusu"
     },
     {
       "surface": "האשם",
-      "gloss": "suç sunusunu"
+      "gloss": "suç sunusu"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "günah sunusunu"
+      "marks": "günah sunusu"
     },
     {
       "surface": "החטאת",
-      "gloss": "günah sunusunu"
+      "gloss": "günah sunusu"
     },
     {
       "surface": "אשר",
@@ -63,20 +63,20 @@
     },
     {
       "surface": "יאפו",
-      "gloss": "pişirecekler"
+      "gloss": "pişirirler"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tahıl sunusunu"
+      "marks": "tahıl sunusu"
     },
     {
       "surface": "המנחה",
-      "gloss": "tahıl sunusunu"
+      "gloss": "tahıl sunusu"
     },
     {
       "surface": "לבלתי",
-      "gloss": "mamak için"
+      "gloss": "-mamak için"
     },
     {
       "surface": "הוציא",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "içine"
     },
     {
       "surface": "החצר",
@@ -96,18 +96,18 @@
     },
     {
       "surface": "לקדש",
-      "gloss": "kutsamak için"
+      "gloss": "kutsal kılmak için"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "halkı"
+      "marks": "halk"
     },
     {
       "surface": "העם",
-      "gloss": "halkı"
+      "gloss": "halk"
     }
   ],
-  "timestamp": "2026-08-19T10:38:35.928742645Z",
+  "timestamp": "2026-08-24T17:09:07.881923462Z",
   "model": "glm-5.3"
 }

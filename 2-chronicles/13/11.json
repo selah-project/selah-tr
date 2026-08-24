@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Yahve'ye yakılan takdimeler sunuluyor: sabah sabah, akşam akşam; ve güzel kokulu tütsüler ve temiz sofranın üzerine dizilen ekmekler ve altın kandillik ve lambaları, akşam akşam yakılmak için. Çünkü biz Yahve Elohim'imizin ⟨את⟩ nöbetini koruyoruz; siz ise onu bıraktınız ⟨את⟩ ⟨אתו⟩.",
+  "translation": "Ve Yahve'ye yakmakta ⟨את⟩ bütün yakmalıkları sabah sabah ve akşam akşam; buhur, baharatlı ⟨את⟩ buhuru ve tertemiz sofranın üstüne dizilmiş ekmeği; altın şamdan ve onun kandilleri, akşam akşam yakılmak için; çünkü biz Yahve Elohim'imizin nöbetini koruyoruz, siz ise ⟨את⟩ onu bıraktınız.",
   "tokens": [
     {
       "surface": "ומקטרים",
-      "gloss": "ve yakıp sunanlar"
+      "gloss": "ve yakmakta"
     },
     {
       "surface": "ליהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עלות",
-      "gloss": "yakılan takdimeleri"
+      "gloss": "yakmalıkları"
     },
     {
       "surface": "בבקר",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "וקטרת",
-      "gloss": "ve tütsüsü"
+      "gloss": "ve buhur"
     },
     {
       "surface": "סמים",
-      "gloss": "güzel kokulu baharatların"
+      "gloss": "baharatlı"
     },
     {
       "surface": "ומערכת",
-      "gloss": "ve dizilişi"
+      "gloss": "ve dizilmiş"
     },
     {
       "surface": "לחם",
-      "gloss": "ekmeğin"
+      "gloss": "ekmeği"
     },
     {
       "surface": "על",
-      "gloss": "üzerine"
+      "gloss": "üstüne"
     },
     {
       "surface": "השלחן",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "הטהור",
-      "gloss": "temiz"
+      "gloss": "tertemiz"
     },
     {
       "surface": "ומנורת",
-      "gloss": "ve kandilliği"
+      "gloss": "ve altın"
     },
     {
       "surface": "הזהב",
-      "gloss": "altın"
+      "gloss": "şamdan"
     },
     {
       "surface": "ונרתיה",
-      "gloss": "ve onun lambaları"
+      "gloss": "ve onun kandilleri"
     },
     {
       "surface": "לבער",
-      "gloss": "yakmak için"
+      "gloss": "yakılmak için"
     },
     {
       "surface": "בערב",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "שמרים",
-      "gloss": "koruyanlar"
+      "gloss": "koruyoruz"
     },
     {
       "surface": "אנחנו",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'nin"
+      "gloss": "Yahve"
     },
     {
       "surface": "אלהינו",
@@ -118,7 +118,7 @@
     },
     {
       "surface": "ואתם",
-      "gloss": "ve siz"
+      "gloss": "siz ise"
     },
     {
       "surface": "עזבתם",
@@ -126,10 +126,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "onu"
+      "gloss": "⟨את⟩ onu"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.029350707Z",
+  "timestamp": "2026-08-24T17:16:20.735296728Z",
   "model": "glm-5.3"
 }

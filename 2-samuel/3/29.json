@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Dönüp dursun o ⟨כanın⟩ Yoav'ın başında ve bütün baba evinin üzerinde; ve Yoav'ın evinden eksilmesin akıntılı, cüzamlı, değneğe tutunan, kılıca düşen ve ekmekten yoksun olan.",
+  "translation": "Dönüp gelsin Yoav'ın başının üzerine ve bütün babasının evinin üzerine; ve Yoav'ın evinden akıntılı, cüzamlı, değneğe tutunan, kılıçla düşen ve ekmekten yoksun biri kesilmesin.”",
   "tokens": [
     {
       "surface": "יחלו",
-      "gloss": "dönüp dursun"
+      "gloss": "dönüp gelsin"
     },
     {
       "surface": "על",
-      "gloss": "üzerinde"
+      "gloss": "üzerine"
     },
     {
       "surface": "ראש",
-      "gloss": "başında"
+      "gloss": "baş"
     },
     {
       "surface": "יואב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ve üzerinde"
+      "gloss": "ve"
     },
     {
       "surface": "כל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "evinin"
+      "gloss": "ev"
     },
     {
       "surface": "אביו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ve -mesin"
+      "gloss": "ve"
     },
     {
       "surface": "יכרת",
-      "gloss": "kesilip yok ol"
+      "gloss": "kesilmesin"
     },
     {
       "surface": "מבית",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ומצרע",
-      "gloss": "ve cüzamlı"
+      "gloss": "cüzamlı"
     },
     {
       "surface": "ומחזיק",
-      "gloss": "ve tutunan"
+      "gloss": "tutunan"
     },
     {
       "surface": "בפלך",
@@ -73,21 +73,21 @@
     },
     {
       "surface": "ונפל",
-      "gloss": "ve düşen"
+      "gloss": "düşen"
     },
     {
       "surface": "בחרב",
-      "gloss": "kılıca"
+      "gloss": "kılıçla"
     },
     {
       "surface": "וחסר",
-      "gloss": "ve yoksun olan"
+      "gloss": "ve yoksun"
     },
     {
       "surface": "לחם",
       "gloss": "ekmekten"
     }
   ],
-  "timestamp": "2026-08-19T09:29:32.721955680Z",
+  "timestamp": "2026-08-24T17:04:42.897828768Z",
   "model": "glm-5.3"
 }

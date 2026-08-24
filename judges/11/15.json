@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve ona şöyle dedi Yiftah: «Yiftah şöyle diyor: İsrail Moav ülkesini ⟨את⟩ ve Ammon oğullarının ülkesini ⟨ואת⟩ almadı.»",
+  "translation": "ve ona şöyle dedi Yiftah: \"Yiftah şöyle diyor: İsrail Moav ülkesini ve Ammon oğullarının ülkesini almadı.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "diyor"
+      "gloss": "dedi"
     },
     {
       "surface": "יפתח",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil \/ -madı"
+      "gloss": "almadı değil"
     },
     {
       "surface": "לקח",
-      "gloss": "aldı"
+      "gloss": "almadı"
     },
     {
       "surface": "ישראל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ve ⟨את⟩",
       "marks": "Ammon oğullarının ülkesini"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "Ammon"
     }
   ],
-  "timestamp": "2026-08-19T12:33:39.061249323Z",
+  "timestamp": "2026-08-24T17:03:51.993986138Z",
   "model": "glm-5.3"
 }

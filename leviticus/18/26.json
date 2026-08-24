@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve siz חוקlarımı ve משפטlarımı koruyacaksınız, ve bu iğrençliklerden hiçbirini yapmayacaksınız — ⟨the⟩ yerli ⟨ve⟩ içinizde konuk olan konuk için.",
+  "translation": "Siz ise ⟨את⟩ hükümlerimi ve ⟨את⟩ mispatlarımı koruyacaksınız ve bütün bu iğrençliklerden hiçbirini yapmayacaksınız — ne yerli, ne de aranızda konaklayan konuk.",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -18,24 +18,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "חוקlarımı"
+      "marks": "hükümlerimi"
     },
     {
       "surface": "חקתי",
-      "gloss": "חוקlarımı"
+      "gloss": "hükümlerimi"
     },
     {
       "surface": "ואת",
-      "gloss": "ve ⟨את⟩",
-      "marks": "משפטlarımı"
+      "gloss": "⟨את⟩",
+      "marks": "mispatlarımı"
     },
     {
       "surface": "משפטי",
-      "gloss": "משפטlarımı"
+      "gloss": "mispatlarımı"
     },
     {
       "surface": "ולא",
-      "gloss": "ve yapmayacaksınız"
+      "gloss": "ve ... -meyacaksınız"
     },
     {
       "surface": "תעשו",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "hiçbirini"
+      "gloss": "bütün ... hiçbirini"
     },
     {
       "surface": "התועבת",
@@ -63,13 +63,13 @@
     },
     {
       "surface": "הגר",
-      "gloss": "konuk olan"
+      "gloss": "konaklayan"
     },
     {
       "surface": "בתוככם",
-      "gloss": "içinizde"
+      "gloss": "aranızda"
     }
   ],
-  "timestamp": "2026-08-19T07:27:46.453446607Z",
+  "timestamp": "2026-08-24T17:01:32.487306911Z",
   "model": "glm-5.3"
 }

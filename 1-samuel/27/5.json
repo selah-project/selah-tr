@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Davud, Akish'e dedi: «Eğer gözlerinde lütuf buldumsa, bana kırlık şehirlerinden birinde bir yer versinler de orada oturayım; neden kulun seninle birlikte ⟨the⟩ krallık şehrinde otursun?»",
+  "translation": "Ve Davud, Akish'e dedi: Eğer ⟨lütfen⟩ gözlerinde lütuf buldumsa, bana tarla şehirlerinden birinde bir yer versinler ve orada oturayım; çünkü kulun neden ⟨seninle⟩ birlikte ⟨⟩ kral şehrinde otursun?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ערי",
-      "gloss": "şehirleri"
+      "gloss": "şehirlerinin"
     },
     {
       "surface": "השדה",
-      "gloss": "kırlığın"
+      "gloss": "tarla"
     },
     {
       "surface": "ואשבה",
@@ -100,6 +100,6 @@
       "gloss": "seninle birlikte"
     }
   ],
-  "timestamp": "2026-08-19T09:27:03.522412685Z",
+  "timestamp": "2026-08-24T17:04:27.667399976Z",
   "model": "glm-5.3"
 }

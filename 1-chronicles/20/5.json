@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Yine bir savaş oldu — ⟨את⟩ Peleştimlilerle; ve Elhanan, Ya'ir oğlu, ⟨את⟩ Lahmi'yi, Golyat the Gittili'nin kardeşini vurdu; mızrağının sapı dokuyucuların çıkrığı gibiydi.",
+  "translation": "Yine Filistimliler'le ⟨את⟩ savaş oldu; ve Elhanan, Ya'ir'in oğlu, Gatlı Golit'ın kardeşi Lahmi'yi ⟨את⟩ öldürdü; mızrağının ağacı dokuyucuların bezigağacı gibiydi.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "ve oldu"
+      "gloss": "oldu"
     },
     {
       "surface": "עוד",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Peleştimliler"
+      "marks": "Filistimliler"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Peleştimliler"
+      "gloss": "Filistimliler"
     },
     {
       "surface": "ויך",
-      "gloss": "ve vurdu"
+      "gloss": "ve öldürdü"
     },
     {
       "surface": "אלחנן",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "גלית",
-      "gloss": "Golyat"
+      "gloss": "Golit"
     },
     {
       "surface": "הגתי",
-      "gloss": "Gittili"
+      "gloss": "Gatlı"
     },
     {
       "surface": "ועץ",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "כמנור",
-      "gloss": "çıkrık gibi"
+      "gloss": "bezigağacı gibi"
     },
     {
       "surface": "ארגים",
       "gloss": "dokuyucuların"
     }
   ],
-  "timestamp": "2026-08-19T11:59:54.508362910Z",
+  "timestamp": "2026-08-24T17:16:19.146986361Z",
   "model": "glm-5.3"
 }

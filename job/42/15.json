@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "tr",
   "chapter": 42,
-  "translation": "Ve bütün ⟨ארך⟩ yeryüzünde İyov'un kızları kadar güzel kadınlar bulunamadı; ve babaları onlara kardeşlerinin ortasında miras verdi.",
+  "translation": "Ve tüm ⟨⟨את⟩⟩ yeryüzünde İyyov'un kızları kadar güzel kadınlar bulunamadı; ve babaları onlara kardeşlerinin ortasında miras verdi.",
   "tokens": [
     {
       "surface": "ולא",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "איוב",
-      "gloss": "İyov"
+      "gloss": "İyyov'un"
     },
     {
       "surface": "בכל",
-      "gloss": "bütün"
+      "gloss": "tüm"
     },
     {
       "surface": "הארץ",
-      "gloss": "yeryüzü"
+      "gloss": "yeryüzünde"
     },
     {
       "surface": "ויתן",
@@ -64,6 +64,6 @@
       "gloss": "kardeşlerinin"
     }
   ],
-  "timestamp": "2026-08-19T11:33:25.080361518Z",
+  "timestamp": "2026-08-24T17:14:24.007200433Z",
   "model": "glm-5.3"
 }

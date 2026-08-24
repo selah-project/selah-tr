@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 93,
-  "translation": "Kuruldu ⟨⟨o⟩⟩ tahtın o zamandan beri, ezelden beri sensin ⟨sen⟩.",
+  "translation": "Tahtın ⟨o⟩ ezelden beri kurulmuştur, ⟨ו⟩ sonsuzluktan beri sensin ⟨sen⟩.",
   "tokens": [
     {
       "surface": "נכון",
-      "gloss": "kuruldu"
+      "gloss": "kurulmuştur"
     },
     {
       "surface": "כסאך",
@@ -17,17 +17,17 @@
     },
     {
       "surface": "מאז",
-      "gloss": "o zamandan beri"
-    },
-    {
-      "surface": "מעולם",
       "gloss": "ezelden beri"
     },
     {
+      "surface": "מעולם",
+      "gloss": "sonsuzluktan beri"
+    },
+    {
       "surface": "אתה",
-      "gloss": "sen"
+      "gloss": "sensin"
     }
   ],
-  "timestamp": "2026-08-19T11:05:47.576503552Z",
+  "timestamp": "2026-08-24T17:11:38.904722442Z",
   "model": "glm-5.3"
 }

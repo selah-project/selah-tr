@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Ve bu olacak ⟨the⟩ veba, ⟨which⟩ Yahve'nin Yeruşalayim'e karşı savaşmış olan bütün ⟨the⟩ halkları vuracağı: eti eriyecek ⟨while⟩ o ayaklarının üzerinde dururken, ve gözleri yuvalarında eriyecek, ve dili ağzında eriyecek.",
+  "translation": "Ve bu, Yahve'nin Yeruşalayim üzerine ordularını toplamış ⟨את⟩ bütün halklara vuracağı veba olacaktır: eti eriyecek, o ayakları üzerinde dururken, gözleri yuvalarında eriyecek ve dili ağzında eriyecek.",
   "tokens": [
     {
       "surface": "וזאת",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bütün halkları"
+      "marks": "bütün halklara"
     },
     {
       "surface": "כל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "העמים",
-      "gloss": "halkları"
+      "gloss": "halklara"
     },
     {
       "surface": "אשר",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "צבאו",
-      "gloss": "savaşmış olan"
+      "gloss": "ordularını toplamış"
     },
     {
       "surface": "על",
-      "gloss": "karşı"
+      "gloss": "üzerine"
     },
     {
       "surface": "ירושלם",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "והוא",
-      "gloss": "ve o"
+      "gloss": "o"
     },
     {
       "surface": "עמד",
-      "gloss": "durur"
+      "gloss": "dururken"
     },
     {
       "surface": "על",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "רגליו",
-      "gloss": "ayaklarının"
+      "gloss": "ayakları"
     },
     {
       "surface": "ועיניו",
@@ -109,6 +109,6 @@
       "gloss": "ağzında"
     }
   ],
-  "timestamp": "2026-08-19T10:50:06.210364384Z",
+  "timestamp": "2026-08-24T17:10:59.148098354Z",
   "model": "glm-5.3"
 }

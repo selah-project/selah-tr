@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve şimdi, siz ⟨⟨için⟩⟩ bu buyruk, ey kâhinler:",
+  "translation": "Ve şimdi, sizin için ⟨⟨bu⟩⟩ emir, ey kâhinler:",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אליכם",
-      "gloss": "size"
+      "gloss": "sizin için (size)"
     },
     {
       "surface": "המצוה",
-      "gloss": "bu buyruk"
+      "gloss": "emir"
     },
     {
       "surface": "הזאת",
@@ -28,6 +28,6 @@
       "gloss": "ey kâhinler"
     }
   ],
-  "timestamp": "2026-08-19T10:50:30.507463807Z",
+  "timestamp": "2026-08-24T17:10:21.200880311Z",
   "model": "glm-5.3"
 }

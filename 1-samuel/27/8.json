@@ -5,35 +5,35 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Davud ve adamları çıkıp Geşurîlere, Girzîlere ve Amaleklilere akın yaptılar; çünkü onlar ⟨onlardı⟩ ezelden beri ⟨the⟩ ülkenin oturanları, ⟨sen⟩ Şur'a ⟨gelirken⟩ ve ⟨the⟩ Mısır ülkesine kadar.",
+  "translation": "Davud ve adamları yukarı çıktı ve Geşurlulara, Girzililere ve Amaleklilere karşı akın düzenledi; çünkü bunlar eski zamandan beri ⟨o⟩ ülkenin yerleşik halkıydılar — Şur'a ⟨sen⟩ girerken ve Mısır ülkesine kadar.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "ve çıktı"
+      "gloss": "yukarı çıktı"
     },
     {
       "surface": "דוד",
       "gloss": "Davud"
     },
     {
-      "surface": "ויאנשיו",
+      "surface": "ואנשיו",
       "gloss": "ve adamları"
     },
     {
       "surface": "ויפשטו",
-      "gloss": "ve akın yaptılar"
+      "gloss": "akın düzenlediler"
     },
     {
       "surface": "אל",
-      "gloss": "-e karşı"
+      "gloss": "karşı"
     },
     {
       "surface": "הגשורי",
-      "gloss": "Geşurîler"
+      "gloss": "Geşurlular"
     },
     {
       "surface": "והגרזי",
-      "gloss": "ve Girzîler"
+      "gloss": "ve Girzililer"
     },
     {
       "surface": "והעמלקי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "onlardı"
+      "gloss": "işte bunlar"
     },
     {
       "surface": "ישבות",
-      "gloss": "oturanları"
+      "gloss": "yerleşik halkı"
     },
     {
       "surface": "הארץ",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "מעולם",
-      "gloss": "ezelden beri"
+      "gloss": "eski zamandan"
     },
     {
       "surface": "בואך",
-      "gloss": "sen gelirken"
+      "gloss": "sen girerken"
     },
     {
       "surface": "שורה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "ve -e kadar"
+      "gloss": "ve kadar"
     },
     {
       "surface": "ארץ",
@@ -84,6 +84,6 @@
       "gloss": "Mısır"
     }
   ],
-  "timestamp": "2026-08-19T09:27:03.523083512Z",
+  "timestamp": "2026-08-24T17:04:28.348305071Z",
   "model": "glm-5.3"
 }

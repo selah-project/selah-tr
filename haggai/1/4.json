@@ -5,15 +5,15 @@
   "book": "haggai",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Sizin için mi ⟨⟨o⟩⟩ zaman, siz — panelli evlerinizde oturmaya — ve bu ev harabe kalırken?",
+  "translation": "Sizce ⟨zaman⟩ mıdır ⟨siz⟩ — siz! — paneli evlerinizde oturmak için, ve bu ev harabe mi olsun?",
   "tokens": [
     {
       "surface": "העת",
-      "gloss": "mi zaman"
+      "gloss": "⟨zaman mı⟩"
     },
     {
       "surface": "לכם",
-      "gloss": "sizin için"
+      "gloss": "sizce \/ sizin için"
     },
     {
       "surface": "אתם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "oturmak"
+      "gloss": "oturmak için"
     },
     {
       "surface": "בבתיכם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ספונים",
-      "gloss": "panelli"
+      "gloss": "paneli \/ çatılı"
     },
     {
       "surface": "והבית",
-      "gloss": "ve ev"
+      "gloss": "ve bu ev"
     },
     {
       "surface": "הזה",
@@ -44,6 +44,6 @@
       "gloss": "harabe"
     }
   ],
-  "timestamp": "2026-08-19T10:47:07.683865584Z",
+  "timestamp": "2026-08-24T17:09:36.460828048Z",
   "model": "glm-5.3"
 }

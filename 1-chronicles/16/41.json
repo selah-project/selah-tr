@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Ve onlarla birlikte Heyman ve Yedutun, adlarıyla belirtilmiş şekilde seçilmiş ⟨אשר yerine: ki⟩ isimlerle tayin edilen seçilmişlerin geri kalanı, Yahve'ye şükretmek için — çünkü O'nun sevgi-sadakati sonsuza dektir.",
+  "translation": "Ve onlarla birlikte Heyman ve Yedutun ve adlarıyla belirlenmiş seçilmiş ⟨diğerleri⟩, Yahve'ye şükretmek için, çünkü sonsuza dek sürer onun sevgi-sadakati.",
   "tokens": [
     {
       "surface": "ועמהם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ושאר",
-      "gloss": "ve geri kalanı"
+      "gloss": "ve ⟨diğerleri⟩"
     },
     {
       "surface": "הברורים",
-      "gloss": "seçilmişlerin"
+      "gloss": "seçilmiş"
     },
     {
       "surface": "אשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "נקבו",
-      "gloss": "belirtilmiş"
+      "gloss": "belirlenmiş"
     },
     {
       "surface": "בשמות",
-      "gloss": "isimlerle"
+      "gloss": "adlarıyla"
     },
     {
       "surface": "להדות",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "חסדו",
-      "gloss": "O'nun sevgi-sadakati"
+      "gloss": "onun sevgi-sadakati"
     }
   ],
-  "timestamp": "2026-08-19T11:58:40.984929918Z",
+  "timestamp": "2026-08-24T17:16:06.840944879Z",
   "model": "glm-5.3"
 }

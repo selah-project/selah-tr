@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Kral şarap ziyafetinden öfkesiyle kalkıp ⟨saray⟩ salonunun bahçesine gitti; Haman ise Ester kraliçeden canı ⟨için⟩ yalvarmak üzere durdu, çünkü gördü ki kralın yanında ona kötülük tamamlandı ⟨⟨את⟩⟩.",
+  "translation": "Ve kral öfkesiyle şarap ziyafetinden kalkıp eve ait bahçeye ⟨gitti⟩; Haman ise canı için Ester kraliçeden yakarmaya ⟨durdu⟩, çünkü kötülüğün kendisine kraldan ⟨את⟩ geldiğini görerek ⟨gördü⟩.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ממשתה",
-      "gloss": "ziyaftetten"
+      "gloss": "ziyafetten"
     },
     {
       "surface": "היין",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "-e doğru"
     },
     {
       "surface": "גנת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הביתן",
-      "gloss": "saray salonunun"
+      "gloss": "evin"
     },
     {
       "surface": "והמן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לבקש",
-      "gloss": "yalvarmak için"
+      "gloss": "yakarmak için"
     },
     {
       "surface": "על",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "כלתה",
-      "gloss": "tamamlandı"
+      "gloss": "kararlaştırıldı \/ tamamlandı"
     },
     {
       "surface": "אליו",
-      "gloss": "ona"
+      "gloss": "kendisine"
     },
     {
       "surface": "הרעה",
@@ -94,13 +94,13 @@
     {
       "surface": "מאת",
       "gloss": "⟨את⟩",
-      "marks": "kralın"
+      "marks": "kraldan — kaynağı işaret eden את"
     },
     {
       "surface": "המלך",
-      "gloss": "kralın"
+      "gloss": "kral"
     }
   ],
-  "timestamp": "2026-08-19T11:41:30.863399090Z",
+  "timestamp": "2026-08-24T17:14:56.317332874Z",
   "model": "glm-5.3"
 }

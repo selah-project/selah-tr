@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 33,
-  "translation": "İşte günler geliyor, Yahve'nin sözü: ⟨את⟩ iyi sözü yerine getireceğim, ⟨onu⟩ Yisrael evine ve Yehuda evi hakkında konuştum.",
+  "translation": "İşte günler geliyor, Yahvenin sözü: Beyt Yisrael'e ve Beyt Yahuda'ya söylemiş olduğum ⟨את⟩ iyi sözü yerine getireceğim.",
   "tokens": [
     {
       "surface": "הנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'nin"
+      "gloss": "Yahvenin"
     },
     {
       "surface": "והקמתי",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "sözü ⟨the⟩"
+      "gloss": "sözü"
     },
     {
       "surface": "הטוב",
-      "gloss": "iyi ⟨the⟩"
+      "gloss": "iyi"
     },
     {
       "surface": "אשר",
-      "gloss": "ki ⟨onu⟩"
+      "gloss": "ki"
     },
     {
       "surface": "דברתי",
-      "gloss": "konuştum"
+      "gloss": "söylemiş olduğum"
     },
     {
       "surface": "אל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "evine"
+      "gloss": "Beyt'e"
     },
     {
       "surface": "ישראל",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "evi"
+      "gloss": "Beyt"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yahuda"
     }
   ],
-  "timestamp": "2026-08-19T10:14:12.428313741Z",
+  "timestamp": "2026-08-24T17:08:30.977443793Z",
   "model": "glm-5.3"
 }

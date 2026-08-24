@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Onlara şöyle diyeceksin: 'Atalarınız beni bıraktıkları için — Yahve'nin sözü — ve diğer elohimlerin ardınca yürüyüp onlara kulluk ettiler ve onlara tapındılar; ve ⟨את⟩ beni bıraktılar ve ⟨את⟩ Toram'ımı tutmadılar.'",
+  "translation": "Onlara şöyle diyeceksin: Babalarınız beni bıraktıkları, Yahve'nin ilâhi bu, başka ilahların ardından gittiler, onlara kulluk ettiler, onlara secde ettiler; ⟨את⟩ ve beni bıraktılar, ⟨את⟩ toramı da tutmadılar — ⟨çünkü⟩",
   "tokens": [
     {
       "surface": "ואמרת",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "-diği için"
+      "gloss": "sebebiyle"
     },
     {
       "surface": "אשר",
-      "gloss": "-dıkları"
+      "gloss": "ki"
     },
     {
       "surface": "עזבו",
@@ -29,35 +29,36 @@
     },
     {
       "surface": "אבותיכם",
-      "gloss": "atalarınız"
+      "gloss": "babalarınız"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ beni (אות + ben)"
+      "gloss": "⟨את⟩ beni",
+      "marks": "bıraktıkları fiilinin nesnesi"
     },
     {
       "surface": "נאם",
-      "gloss": "sözü"
+      "gloss": "ilâhi"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'nin"
+      "gloss": "Yahve"
     },
     {
       "surface": "וילכו",
-      "gloss": "ve yürüdüler"
+      "gloss": "ve gittiler"
     },
     {
       "surface": "אחרי",
-      "gloss": "ardınca"
+      "gloss": "ardından"
     },
     {
       "surface": "אלהים",
-      "gloss": "elohimlerin"
+      "gloss": "ilahların"
     },
     {
       "surface": "אחרים",
-      "gloss": "diğer"
+      "gloss": "başka"
     },
     {
       "surface": "ויעבדום",
@@ -65,7 +66,7 @@
     },
     {
       "surface": "וישתחוו",
-      "gloss": "ve tapındılar"
+      "gloss": "ve secde ettiler"
     },
     {
       "surface": "להם",
@@ -73,8 +74,8 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ beni",
-      "marks": "beni"
+      "gloss": "⟨את⟩ ve beni",
+      "marks": "bıraktılar fiilinin nesnesi"
     },
     {
       "surface": "עזבו",
@@ -83,21 +84,21 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Toram'ımı"
+      "marks": "toramı"
     },
     {
       "surface": "תורתי",
-      "gloss": "Toram'ımı"
+      "gloss": "toramı"
     },
     {
       "surface": "לא",
-      "gloss": "-me"
+      "gloss": "değil"
     },
     {
       "surface": "שמרו",
       "gloss": "tutmadılar"
     }
   ],
-  "timestamp": "2026-08-19T10:09:27.845414268Z",
+  "timestamp": "2026-08-24T17:07:24.510078488Z",
   "model": "glm-5.3"
 }

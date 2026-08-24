@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 31,
-  "translation": "Ben ⟨⟨ben⟩⟩ Beyt-El'in El'i ⟨⟨El⟩⟩'iyim; orada bir dikili taşı meshettin, orada bana bir adak adadın. Şimdi kalk, bu ülkeden çık ve doğduğun ülkeye dön.",
+  "translation": "Ben ⟨⟩ Beit-El'in El'i'yim — orada bir dikilitaş meshettiğin, orada bana bir nezir adadığın ⟨El⟩. Şimdi kalk, bu ülkeden çık ve doğduğun ülkeye dön.",
   "tokens": [
     {
       "surface": "אנכי",
-      "gloss": "ben"
+      "gloss": "Ben"
     },
     {
       "surface": "האל",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beyt"
+      "gloss": "Beit-"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": "El'in"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "משחת",
-      "gloss": "meshettin"
+      "gloss": "meshettiğin"
     },
     {
       "surface": "שם",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "מצבה",
-      "gloss": "dikili taş"
+      "gloss": "bir dikilitaş"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "נדרת",
-      "gloss": "adadın"
+      "gloss": "adadığın"
     },
     {
       "surface": "לי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "נדר",
-      "gloss": "adak"
+      "gloss": "bir nezir"
     },
     {
       "surface": "עתה",
@@ -100,6 +100,6 @@
       "gloss": "doğduğun"
     }
   ],
-  "timestamp": "2026-08-19T07:03:36.106700608Z",
+  "timestamp": "2026-08-24T16:59:21.678880120Z",
   "model": "glm-5.3"
 }

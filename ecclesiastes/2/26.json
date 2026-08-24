@@ -5,8 +5,97 @@
   "book": "ecclesiastes",
   "lang": "tr",
   "chapter": 2,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-19T11:37:27.427330222Z",
+  "translation": "Çünkü ⟨Elohim⟩, kendi gözünde iyi olana hikmet, bilgi ve sevinç verir; günaha verilen ise, toplayıp yığmak ve bunu Elohim'in önünde iyi olana vermektir — bu da hevel ve rûhun sıkıntısıdır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "insana"
+    },
+    {
+      "surface": "שטוב",
+      "gloss": "iyi olana"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünde"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmet"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ve bilgi"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ve sevinç"
+    },
+    {
+      "surface": "ולחוטא",
+      "gloss": "günahkâra"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "meşgale"
+    },
+    {
+      "surface": "לאסוף",
+      "gloss": "toplamak"
+    },
+    {
+      "surface": "ולכנוס",
+      "gloss": "ve yığmak"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermek için"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "iyi olana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bu da"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel — boşluk"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ve sıkıntı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rûh — rüzgâr"
+    }
+  ],
+  "timestamp": "2026-08-24T17:14:32.571167387Z",
   "model": "glm-5.3"
 }

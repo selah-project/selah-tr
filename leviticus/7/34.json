@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Çünkü Beniysrail oğullarının ⟨את⟩ их shelamim kurbanlarından ⟨את⟩ tenufa göğsünü ve ⟨את⟩ teruma butunu aldım; onları Aaron'a, kâhine, ve oğullarına, Beniysrail oğullarından ⟨את⟩ sürekli bir hak olarak verdim.",
+  "translation": "Çünkü dalganın göğsünü ve takdimen yükseltme anlamına gelen butu Yisrael oğullarından, onların şalom takdimelerinden aldım ve onları kâhin Aharon'a ve oğullarına, Yisrael oğullarından sonsuz bir pay olarak verdim.",
   "tokens": [
     {
       "surface": "כי",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "tenufa (sallanan)"
+      "gloss": "dalga (takdimesi)"
     },
     {
       "surface": "ואת",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "התרומה",
-      "gloss": "teruma (yükseğe kaldırılan)"
+      "gloss": "takdim\/yükseltme payı"
     },
     {
       "surface": "לקחתי",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ tarafından"
+      "gloss": "⟨את⟩'ten"
     },
     {
       "surface": "בני",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "מזבחי",
-      "gloss": "kurbanlarından"
+      "gloss": "takdimelerinden"
     },
     {
       "surface": "שלמיהם",
-      "gloss": "onların shelamim"
+      "gloss": "onların şalom (barış) takdimeleri"
     },
     {
       "surface": "ואתן",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ onları",
       "marks": "onları"
     },
     {
@@ -84,15 +84,15 @@
     },
     {
       "surface": "לחק",
-      "gloss": "hak olarak"
+      "gloss": "pay\/yasa olarak"
     },
     {
       "surface": "עולם",
-      "gloss": "sürekli"
+      "gloss": "sonsuz"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ tarafından"
+      "gloss": "⟨את⟩'ten"
     },
     {
       "surface": "בני",
@@ -103,6 +103,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T07:23:18.971890245Z",
+  "timestamp": "2026-08-24T17:01:03.803428292Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Yerleşimlerinizden iki sallama ekmeği getireceksiniz — iki ondalık ⟨the⟩ ince un olacak, mayalı olacaklar, pişirilecekler — Yahve'ye ilk ürünler olarak.",
+  "translation": "Meskenlerinizden ⟨את⟩ tgörme ekmeği getireceksiniz; iki tanesi onda bir ölçünün iki katı ince unla ⟨olacak⟩; mayalı olarak pişirilecekler — Yahve'ye ilk ürünler.",
   "tokens": [
     {
       "surface": "ממושבתיכם",
-      "gloss": "yerleşimlerinizden"
+      "gloss": "meskenlerinizden"
     },
     {
       "surface": "תביאו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "sallama (takdim)"
+      "gloss": "tgörme (sunu)"
     },
     {
       "surface": "שתים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "שני",
-      "gloss": "iki"
+      "gloss": "iki (kat)"
     },
     {
       "surface": "עשרנים",
-      "gloss": "ondalık"
+      "gloss": "onda bir ölçü"
     },
     {
       "surface": "סלת",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "תהיינה",
-      "gloss": "olacak"
+      "gloss": "olacaklar"
     },
     {
       "surface": "חמץ",
@@ -60,6 +60,6 @@
       "gloss": "Yahve'ye"
     }
   ],
-  "timestamp": "2026-08-19T07:30:36.286804889Z",
+  "timestamp": "2026-08-24T17:01:19.180228433Z",
   "model": "glm-5.3"
 }

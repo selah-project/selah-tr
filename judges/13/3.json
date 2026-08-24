@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Ve Yahve'nin meleği kadına göründü ve ona dedi: İşte, sen ⟨⟨kısırsın⟩⟩ ve doğurmadın; hamile kalıp ⟨bir⟩ oğul doğuracaksın.",
+  "translation": "Yahve'nin meleği kadına göründü ve ona şöyle dedi: İşte şimdi, sen kısır ⟨את⟩sin ve doğurmadın; ama hamile kalacak ve bir oğul doğuracaksın.",
   "tokens": [
     {
       "surface": "וירא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מלאך",
-      "gloss": "meleği"
+      "gloss": "melek"
     },
     {
       "surface": "יהוה",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "נא",
-      "gloss": "lütfen"
+      "gloss": "şimdi"
     },
     {
       "surface": "את",
       "gloss": "sen",
-      "marks": "kısırsın"
+      "marks": "עקרה — kısır"
     },
     {
       "surface": "עקרה",
-      "gloss": "kısırsın"
+      "gloss": "kısır"
     },
     {
       "surface": "ולא",
@@ -58,21 +58,21 @@
     },
     {
       "surface": "ילדת",
-      "gloss": "doğurmadın"
+      "gloss": "doğurdun"
     },
     {
       "surface": "והרית",
-      "gloss": "hamile kalacaksın"
+      "gloss": "ve hamile kalacaksın"
     },
     {
       "surface": "וילדת",
-      "gloss": "doğuracaksın"
+      "gloss": "ve doğuracaksın"
     },
     {
       "surface": "בן",
       "gloss": "oğul"
     }
   ],
-  "timestamp": "2026-08-19T09:17:50.971541431Z",
+  "timestamp": "2026-08-24T17:03:45.129295398Z",
   "model": "glm-5.3"
 }

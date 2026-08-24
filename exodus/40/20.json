@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 40,
-  "translation": "Ve aldı ve ⟨את⟩ tanıklığı arona koydu ve ⟨את】 sırıkları aronun üzerine yerleştirdi ve ⟨את⟩ kaportayı aronun üzerine, en üste koydu.",
+  "translation": "Ve aldı ve ⟨את⟩ tanıklığı arona koydu; ⟨את⟩ sırıkları aronun üzerine yerleştirdi; ⟨את⟩ kaportayı aronun üstüne, yukarıdan koydu.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "ve koydu"
+      "gloss": "koydu"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "ve yerleştirdi"
+      "gloss": "yerleştirdi"
     },
     {
       "surface": "את",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "הארן",
-      "gloss": "aronun"
+      "gloss": "aron"
     },
     {
       "surface": "ויתן",
-      "gloss": "ve koydu"
+      "gloss": "koydu"
     },
     {
       "surface": "את",
@@ -72,13 +72,13 @@
     },
     {
       "surface": "הארן",
-      "gloss": "aronun"
+      "gloss": "aron"
     },
     {
       "surface": "מלמעלה",
-      "gloss": "en üstten"
+      "gloss": "yukarıdan"
     }
   ],
-  "timestamp": "2026-08-19T07:22:52.682231465Z",
+  "timestamp": "2026-08-24T17:16:34.375239829Z",
   "model": "glm-5.3"
 }

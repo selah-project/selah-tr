@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve hakimlerine bile kulak vermediler, çünkü zina ettiler öteki ilahların ardınca ve onlara secde ettiler; çabucak saptılar ⟨את⟩ ⟨the⟩ yoldan ki atalarının yürüdüğü Yahve'nin buyruklarını dinlemek için; böyle yapmadılar.",
+  "translation": "Ve hakimlerine de kulak vermediler, çünkü başka ilahların ardından zina ettiler ve onlara secde ettiler; atalarının yürüdüğü yoldan, Yahve'nin buyruklarını dinlemek için yürüdükleri yoldan hızla saptılar; böyle yapmadılar.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "ve hatta"
+      "gloss": "ve ... de"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "-mediler"
+      "gloss": "değil"
     },
     {
       "surface": "שמעו",
-      "gloss": "kulak verdiler"
+      "gloss": "kulak vermediler"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "ardınca"
+      "gloss": "ardından"
     },
     {
       "surface": "אלהים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "öteki"
+      "gloss": "başka"
     },
     {
       "surface": "וישתחוו",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "מהר",
-      "gloss": "çabucak"
+      "gloss": "hızla"
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "-den"
     },
     {
       "surface": "הדרך",
-      "gloss": "yoldan"
+      "gloss": "yol"
     },
     {
       "surface": "אשר",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "yürüdüğü"
+      "gloss": "yürüdü"
     },
     {
       "surface": "אבותם",
-      "gloss": "atalarının"
+      "gloss": "ataları"
     },
     {
       "surface": "לשמע",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "-mediler"
+      "gloss": "değil"
     },
     {
       "surface": "עשו",
@@ -108,6 +108,6 @@
       "gloss": "böyle"
     }
   ],
-  "timestamp": "2026-08-19T09:15:26.442077672Z",
+  "timestamp": "2026-08-24T17:03:31.672952583Z",
   "model": "glm-5.3"
 }

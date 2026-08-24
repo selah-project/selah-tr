@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Gözün ona acımayacak, ve masum ⟨⟨את⟩⟩ kanı Yisrael'den silip süpüreceksin, ve sana iyi olacak.",
+  "translation": "Gözün ona acımayacak ve masumun kanını Yişrael'den sileceksin ve sana iyi olacak.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "olmayacak"
     },
     {
       "surface": "תחוס",
-      "gloss": "acımayacaksın"
+      "gloss": "acıyacak"
     },
     {
       "surface": "עינך",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ובערת",
-      "gloss": "ve silip süpüreceksin"
+      "gloss": "ve sileceksin"
     },
     {
       "surface": "דם",
-      "gloss": "kan"
+      "gloss": "kanını"
     },
     {
       "surface": "הנקי",
-      "gloss": "masum"
+      "gloss": "masumun"
     },
     {
       "surface": "מישראל",
-      "gloss": "Yisrael'den"
+      "gloss": "Yişrael'den"
     },
     {
       "surface": "וטוב",
@@ -48,6 +48,6 @@
       "gloss": "sana"
     }
   ],
-  "timestamp": "2026-08-19T09:02:23.755256268Z",
+  "timestamp": "2026-08-24T17:03:00.844331984Z",
   "model": "glm-5.3"
 }

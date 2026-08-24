@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve dedi: Avişag ⟨את⟩ Şunamlı, Adoniya'ya — kardeşine — ⟨the⟩ karı olarak verilsin.",
+  "translation": "Ve şöyle dedi: Avişag Şunemli, kardeşin Adoniya'ya eş olarak verilsin.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "ve dedi"
+      "gloss": "ve şöyle dedi"
     },
     {
       "surface": "יתן",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avişag"
+      "marks": "Avişag Şunemli"
     },
     {
       "surface": "אבישג",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "השנמית",
-      "gloss": "Şunamlı"
+      "gloss": "Şunemli"
     },
     {
       "surface": "לאדניהו",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "לאשה",
-      "gloss": "karı olarak"
+      "gloss": "eş olarak"
     }
   ],
-  "timestamp": "2026-08-19T09:35:57.620808352Z",
+  "timestamp": "2026-08-24T17:04:48.749492810Z",
   "model": "glm-5.3"
 }

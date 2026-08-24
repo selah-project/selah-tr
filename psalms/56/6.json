@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 56,
-  "translation": "Bütün gün sözlerimi çarpıtıyorlar; bütün düşünceleri ⟨⟨bana karşı⟩⟩ kötülük içindir.",
+  "translation": "Bütün gün sözlerimi eziyorlar; benim aleyhime bütün düşünceleri kötülük içindir.",
   "tokens": [
     {
       "surface": "כל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יעצבו",
-      "gloss": "çarpıtıyorlar"
+      "gloss": "eziyorlar"
     },
     {
       "surface": "עלי",
-      "gloss": "bana karşı"
+      "gloss": "benim aleyhime"
     },
     {
       "surface": "כל",
@@ -40,6 +40,6 @@
       "gloss": "kötülük için"
     }
   ],
-  "timestamp": "2026-08-19T11:00:01.322145702Z",
+  "timestamp": "2026-08-24T17:11:21.031046037Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 48,
-  "translation": "Ve bunlar ⟨הן⟩ kabilelerin adlarıdır: kuzey ucundan, Hetlon yolu yönünde, Hamat'a girişte, Hatzar-Enan, Damaşek'in sınırında, Hamat'ın kuzeyinde ⟨olmak üzere⟩; ve ona doğu tarafı ⟨ile⟩ deniz tarafı ⟨olacak⟩: Dan bir ⟨pay⟩.",
+  "translation": "Ve bunlar ⟨⟨ה⟩⟩ kabilelerin isimleridir: kuzey ucundan, Hetlon yolunun yanı, Hamat'a giriş, Hatzar-Enan, Damaşek sınırı kuzeye, Hamat'ın yanına; ve ona doğu tarafı ⟨olacak⟩ deniz; Dan bir ⟨pay⟩.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שמות",
-      "gloss": "adları"
+      "gloss": "isimleri"
     },
     {
       "surface": "השבטים",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "yönünde"
+      "gloss": "yanına"
     },
     {
       "surface": "יד",
-      "gloss": "el \/ yanı"
+      "gloss": "yanı"
     },
     {
       "surface": "דרך",
-      "gloss": "yolu"
+      "gloss": "yolunun"
     },
     {
       "surface": "חתלן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "girişte"
+      "gloss": "girişine"
     },
     {
       "surface": "חמת",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "גבול",
-      "gloss": "sınırında"
+      "gloss": "sınırı"
     },
     {
       "surface": "דמשק",
-      "gloss": "Damaşek"
+      "gloss": "Damaşek'in"
     },
     {
       "surface": "צפונה",
-      "gloss": "kuzeyde"
+      "gloss": "kuzeye"
     },
     {
       "surface": "אל",
-      "gloss": "yönünde"
+      "gloss": "yanına"
     },
     {
       "surface": "יד",
-      "gloss": "el \/ yanı"
+      "gloss": "yanı"
     },
     {
       "surface": "חמת",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "פאת",
-      "gloss": "tarafı"
+      "gloss": "taraftan"
     },
     {
       "surface": "קדים",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "הים",
-      "gloss": "deniz (batı)"
+      "gloss": "denize"
     },
     {
       "surface": "דן",
@@ -112,6 +112,6 @@
       "gloss": "bir"
     }
   ],
-  "timestamp": "2026-08-19T10:38:24.581969667Z",
+  "timestamp": "2026-08-24T17:09:13.728108692Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 118,
-  "translation": "Yahve benim ⟨⟨ledir⟩⟩; korkmayacağım — insan bana ne yapabilir?",
+  "translation": "Yahve ⟨⟩ benden yana; korkmayacağım; insan bana ne yapabilir?",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לי",
-      "gloss": "benim için"
+      "gloss": "benden yana"
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "olmaz"
     },
     {
       "surface": "אירא",
-      "gloss": "korkacağım"
+      "gloss": "korkarım"
     },
     {
       "surface": "מה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "yapacak"
+      "gloss": "yapabilir"
     },
     {
       "surface": "לי",
@@ -40,6 +40,6 @@
       "gloss": "insan"
     }
   ],
-  "timestamp": "2026-08-19T11:08:51.273291709Z",
+  "timestamp": "2026-08-24T17:12:36.271474295Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Ve ⟨the⟩ yerin bütün halkları görecekler ki senin üzerine Yahve'nin adı anılmış; ve senden korkacaklar.",
+  "translation": "Ve yeryüzünün bütün halkları görecekler ki Yahve'nin adı senin ⟨üzerinde⟩ çağrılmıştır, ve senden korkacaklar.",
   "tokens": [
     {
       "surface": "וראו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yerin"
+      "gloss": "yeryüzünün"
     },
     {
       "surface": "כי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "נקרא",
-      "gloss": "anılmış"
+      "gloss": "çağrılmıştır"
     },
     {
       "surface": "עליך",
-      "gloss": "senin üzerine"
+      "gloss": "⟨üzerinde⟩"
     },
     {
       "surface": "ויראו",
@@ -52,6 +52,6 @@
       "gloss": "senden"
     }
   ],
-  "timestamp": "2026-08-19T09:04:30.466572545Z",
+  "timestamp": "2026-08-24T17:02:36.993244369Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Ancak Yahve'nin evi için gümüş kaseler, maşalar, çanaklar, borazanlar, herhangi bir altın kap ya da gümüş kap, Yahve'nin evine getirilen ⟨ה⟩ gümüşten yapılmayacaktı.",
+  "translation": "Ancak Yahve'nin evi için gümüş kaseler, maşalar, çanaklar, borazanlar, her altın kap ve gümüş kap yapılmadı — Yahve'nin evine getirilen gümüşten ⟨את⟩.",
   "tokens": [
     {
       "surface": "אך",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "yapılacaktı"
+      "gloss": "yapıldı"
     },
     {
       "surface": "בית",
-      "gloss": "evinin"
+      "gloss": "evi"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahve'nin"
     },
     {
       "surface": "ספות",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "herhangi bir"
+      "gloss": "her"
     },
     {
       "surface": "כלי",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "-ten"
+      "gloss": "-den"
     },
     {
       "surface": "הכסף",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahve'nin"
     }
   ],
-  "timestamp": "2026-08-19T09:47:15.382409308Z",
+  "timestamp": "2026-08-24T17:55:22.550277972Z",
   "model": "glm-5.3"
 }

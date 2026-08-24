@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 1,
-  "translation": "İndi Tsadok ⟨ה⟩kâhin, ve Netan ⟨ה⟩nebi, ve Benayahut ben-Yehoyada, ve ⟨ה⟩Keretiler ve ⟨ה⟩Peletiler; ve Şelomo'yu Kral Davud'un katırına bindirdiler, ve onu Giyhon'a götürdüler.",
+  "translation": "İndi Tsadok ⟨את⟩ kâhin ve Natan ⟨את⟩ nebi ve Benayahu ben-Yehoyada ve ⟨את⟩ Keretiler ve ⟨את⟩ Peletiler; ve Şelomo'yu Kral Davud'un dişi katırına bindirdiler ve ⟨את⟩ onu Gihon'a götürdüler.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "ve indi"
+      "gloss": "indi"
     },
     {
       "surface": "צדוק",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "ve Netan"
+      "gloss": "ve Natan"
     },
     {
       "surface": "הנביא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובניהו",
-      "gloss": "ve Benayahut"
+      "gloss": "ve Benayahu"
     },
     {
       "surface": "בן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וירכבו",
-      "gloss": "ve bindirdiler"
+      "gloss": "bindirdiler"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Şelomo'yu"
+      "gloss": "Şelomo"
     },
     {
       "surface": "על",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "פרדת",
-      "gloss": "katırına"
+      "gloss": "dişi katır"
     },
     {
       "surface": "המלך",
-      "gloss": "kral"
+      "gloss": "kralın"
     },
     {
       "surface": "דוד",
@@ -82,8 +82,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ onu",
-      "marks": "onu"
+      "gloss": "⟨את⟩ onu"
     },
     {
       "surface": "על",
@@ -91,9 +90,9 @@
     },
     {
       "surface": "גחון",
-      "gloss": "Giyhon"
+      "gloss": "Gihon"
     }
   ],
-  "timestamp": "2026-08-19T09:36:23.615102968Z",
+  "timestamp": "2026-08-24T17:05:12.111823048Z",
   "model": "glm-5.3"
 }

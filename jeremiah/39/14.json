@@ -5,24 +5,24 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 39,
-  "translation": "Gönderdiler ve Yirmeyahu'yu ⟨את⟩ muhafız avlusundan aldılar; onu ⟨את⟩ ⟨אתו⟩ Ahikam oğlu, Şafan oğlu Gedalyahu'ya verdiler — onu eve çıkarsınlar diye — ve halkın ortasında oturdu.",
+  "translation": "Gönderip Yirme'yahu'yu muhafız avlusundan çıkardılar ve onu Ahiqam oğlu, Şafan oğlu Gedalyahu'ya teslim ettiler, ⟨את⟩ onu eve çıkarsınlar diye; ve halkın ortasında oturdu.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "gönderdiler"
+      "gloss": "gönderip"
     },
     {
       "surface": "ויקחו",
-      "gloss": "ve aldılar"
+      "gloss": "aldılar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yirmeyahu'yu"
+      "marks": "Yirme'yahu'yu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "Yirme'yahu"
     },
     {
       "surface": "מחצר",
@@ -34,16 +34,15 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "ve verdiler"
+      "gloss": "ve teslim ettiler"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ona"
+      "gloss": "onunla birlikte ⟨את⟩"
     },
     {
       "surface": "אל",
-      "gloss": "ona"
+      "gloss": "–e doğru"
     },
     {
       "surface": "גדליהו",
@@ -55,7 +54,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Ahikam"
+      "gloss": "Ahiqam"
     },
     {
       "surface": "בן",
@@ -67,7 +66,7 @@
     },
     {
       "surface": "להוצאהו",
-      "gloss": "onu çıkarsınlar diye"
+      "gloss": "onu çıkarmak için"
     },
     {
       "surface": "אל",
@@ -75,7 +74,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "eve"
+      "gloss": "ev"
     },
     {
       "surface": "וישב",
@@ -90,6 +89,6 @@
       "gloss": "halkın"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.019695036Z",
+  "timestamp": "2026-08-24T17:08:17.574286118Z",
   "model": "glm-5.3"
 }

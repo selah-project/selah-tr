@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Taş ustasının işi, mühür kazıması gibi: kazıyacaksın ⟨את⟩ iki taşı, Yişrael oğullarının adlarına göre; altın kakmalarla çevrelenmiş yapacaksın ⟨את⟩ onları ⟨אתם⟩.",
+  "translation": "Taş oymacısının işi, mühür oyması gibi: İsrail oğullarının adları üzerine ⟨את⟩ iki taşı oy; altın kakma çerçevelerle çevrelenmiş olarak ⟨את⟩ onları yap.",
   "tokens": [
     {
       "surface": "מעשה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חרש",
-      "gloss": "usta"
+      "gloss": "usta-oymacının"
     },
     {
       "surface": "אבן",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "פתוחי",
-      "gloss": "kazıması"
+      "gloss": "oyması"
     },
     {
       "surface": "חתם",
-      "gloss": "mühür"
+      "gloss": "mührün"
     },
     {
       "surface": "תפתח",
-      "gloss": "kazıyacaksın"
+      "gloss": "oyacaksın"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iki taş"
+      "marks": "iki taşı"
     },
     {
       "surface": "שתי",
@@ -46,27 +46,27 @@
     },
     {
       "surface": "על",
-      "gloss": "göre"
+      "gloss": "üzerine"
     },
     {
       "surface": "שמת",
-      "gloss": "adlarına"
+      "gloss": "adları"
     },
     {
       "surface": "בני",
-      "gloss": "oğulları"
+      "gloss": "oğullarının"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yişrael"
+      "gloss": "İsrail"
     },
     {
       "surface": "מסבת",
-      "gloss": "çevrelenmiş"
+      "gloss": "çevrelenmiş olarak"
     },
     {
       "surface": "משבצות",
-      "gloss": "kakmalarla"
+      "gloss": "kakma çerçeveler"
     },
     {
       "surface": "זהב",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ onları ⟨אתם⟩"
+      "gloss": "⟨את⟩ onları"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.022113941Z",
+  "timestamp": "2026-08-24T17:00:42.563411844Z",
   "model": "glm-5.3"
 }

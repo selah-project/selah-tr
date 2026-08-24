@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve bunlar ⟨⟨⟩⟩ sizinle birlikte duracak adamların adlarıdır: Reuven için — Elitsur, Şedeur'un oğlu.",
+  "translation": "Ve bunlar ⟨⟨⟩⟩ sizinle birlikte duracak adamların isimleridir: Reuven için — Elitsur, Şedeur'un oğlu.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Ve bunlar"
+      "gloss": "ve bunlar"
     },
     {
       "surface": "שמות",
-      "gloss": "adları"
+      "gloss": "isimleri"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨⟩ adamların"
+      "gloss": "adamların"
     },
     {
       "surface": "אשר",
-      "gloss": "ki onlar"
+      "gloss": "ki"
     },
     {
       "surface": "יעמדו",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizinle"
+      "gloss": "⟨את⟩ sizinle",
+      "marks": "sizinle (birlikte)"
     },
     {
       "surface": "לראובן",
@@ -45,9 +46,9 @@
     },
     {
       "surface": "שדיאור",
-      "gloss": "Şedeur'un"
+      "gloss": "Şedeur"
     }
   ],
-  "timestamp": "2026-08-19T07:31:19.437468934Z",
+  "timestamp": "2026-08-24T17:01:27.609606188Z",
   "model": "glm-5.3"
 }

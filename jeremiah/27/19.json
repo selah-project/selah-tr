@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Çünkü şöyle dedi Yahve Sevaot: sütunlara ve denize ve kaide masanlara ve bu şehirde kalan kapların bakiyesine dair ⟨⟨—⟩⟩.",
+  "translation": "Çünkü Sevaot'un Yahve'si ⟨את⟩ sütunlar, ⟨את⟩ deniz, ⟨את⟩ kaidehler ve bu şehirde kalan ⟨את⟩ geri kalan kaplar hakkında şöyle dedi.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,43 +29,43 @@
     },
     {
       "surface": "אל",
-      "gloss": "…a dair"
+      "gloss": "hakkında"
     },
     {
       "surface": "העמדים",
-      "gloss": "sütunlara"
+      "gloss": "sütunlar"
     },
     {
       "surface": "ועל",
-      "gloss": "ve …a dair"
+      "gloss": "ve hakkında"
     },
     {
       "surface": "הים",
-      "gloss": "denize"
+      "gloss": "deniz"
     },
     {
       "surface": "ועל",
-      "gloss": "ve …a dair"
+      "gloss": "ve hakkında"
     },
     {
       "surface": "המכנות",
-      "gloss": "kaide masanlara"
+      "gloss": "kaidehler"
     },
     {
       "surface": "ועל",
-      "gloss": "ve …a dair"
+      "gloss": "ve hakkında"
     },
     {
       "surface": "יתר",
-      "gloss": "bakiyesine"
+      "gloss": "geri kalan"
     },
     {
       "surface": "הכלים",
-      "gloss": "kapların"
+      "gloss": "kaplar"
     },
     {
       "surface": "הנותרים",
-      "gloss": "kalan"
+      "gloss": "kalanlar"
     },
     {
       "surface": "בעיר",
@@ -76,6 +76,6 @@
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-19T10:12:01.399721836Z",
+  "timestamp": "2026-08-24T17:07:25.519206037Z",
   "model": "glm-5.3"
 }

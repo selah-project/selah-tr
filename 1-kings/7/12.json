@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve büyük ⟨the⟩ avlu çevresinde üç sıra yontma taş ve bir sıra kesilmiş sedirler; Yahve'nin evinin iç avlusu için de ve evin revağı için de öyleydi.",
+  "translation": "Ve büyük avlu çevresinde üç sıra yontma taş ve bir sıra kesme sedir ağacından ⟨idi⟩; ⟨bu⟩ Yahve'in evinin iç avlusu için de, evin ön porch'u için de öyleydi.",
   "tokens": [
     {
       "surface": "וחצר",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "כרתת",
-      "gloss": "kesilmiş"
+      "gloss": "kesme kereste"
     },
     {
       "surface": "ארזים",
-      "gloss": "sedirler"
+      "gloss": "sedir ağacı"
     },
     {
       "surface": "ולחצר",
-      "gloss": "ve avluya"
+      "gloss": "ve ⟨için⟩ avlu"
     },
     {
       "surface": "בית",
-      "gloss": "evi"
+      "gloss": "evinin"
     },
     {
       "surface": "יהוה",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "ולאלם",
-      "gloss": "ve revağa"
+      "gloss": "ve ⟨için⟩ porch'a"
     },
     {
       "surface": "הבית",
       "gloss": "evin"
     }
   ],
-  "timestamp": "2026-08-19T09:37:35.859996521Z",
+  "timestamp": "2026-08-24T17:16:35.755480280Z",
   "model": "glm-5.3"
 }

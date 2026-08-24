@@ -5,8 +5,70 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 11,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:39:52.595786320Z",
+  "translation": "Ve kendine ⟨את⟩ adamları topladı ve Davud onları öldürürken çetenin başkanı oldu; ve Damaşek'e gittiler ve ⟨orada⟩ oturdular ve Damaşek'te hüküm sürdüler.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ve topladı"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kendine"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ve oldu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başkan"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "çete"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "öldürürken"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (öldürülenler)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ve gittiler"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaşek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ve oturdular"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ve hüküm sürdüler"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Damaşek'te"
+    }
+  ],
+  "timestamp": "2026-08-24T17:05:23.571787316Z",
   "model": "glm-5.3"
 }

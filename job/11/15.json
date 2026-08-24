@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Çünkü o zaman lekesiz yüzünü kaldıracaksın, ⟨olacaksın⟩ sağlam ⟨gibi⟩ ve korkmayacaksın.",
+  "translation": "Çünkü o zaman yüzünü leke olmaktan kaldırabilirsin; ⟨olursun⟩ dökülmüş gibi sağlam, ve korkmayacaksın.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תשא",
-      "gloss": "kaldıracaksın"
+      "gloss": "kaldırırsın"
     },
     {
       "surface": "פניך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ממום",
-      "gloss": "lekesiz \/面临的 leke"
+      "gloss": "lekeden"
     },
     {
       "surface": "והיית",
@@ -33,18 +33,17 @@
     },
     {
       "surface": "מצק",
-      "gloss": "dökülmüş \/ sağlam"
+      "gloss": "dökme gibi sağlam"
     },
     {
-      "surface": "ו לא",
-      "gloss": "ve etme",
-      "marks": ""
+      "surface": "ולא",
+      "gloss": "ve olmayacaksın"
     },
     {
       "surface": "תירא",
-      "gloss": "korkmayacaksın"
+      "gloss": "korkan"
     }
   ],
-  "timestamp": "2026-08-19T11:26:21.611497578Z",
+  "timestamp": "2026-08-24T17:13:47.421877729Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Bütün bunlara karşılık, gördüğün şey — dağdan, elle kesilmeden kesilmiş olan taş, demiri, bakırı, çamuru, gümüşü ve altını paramparça etti — ⟨⟨şunu gösterir ki⟩⟩ büyük Elah, krala bundan sonra olacakları bildirdi; düş ⟨⟨kesindir⟩⟩ ve onun çözümü güvenilirdir.",
+  "translation": "Bütün bunlara karşılık — ki dağdan, ⟨insan⟩ eli ⟨olmadan⟩ kesilmiş bir taş gördün, demiri, tunçu, çamuru, gümüşü ve altını paramparça etti — büyük Elah krala bundan sonra olacakları bildirdi; rüya kesindir ve onun çözümü güvenilirdir.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "קבל",
-      "gloss": "karşılık olarak"
+      "gloss": "karşılık"
     },
     {
       "surface": "די",
-      "gloss": "çünkü"
+      "gloss": "ki"
     },
     {
       "surface": "חזית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתגזרת",
-      "gloss": "kesildi"
+      "gloss": "kesilmiş"
     },
     {
       "surface": "אבן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "olmadan"
     },
     {
       "surface": "בידין",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "נחשא",
-      "gloss": "bakırı"
+      "gloss": "tuncu"
     },
     {
       "surface": "חספא",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "neyi"
+      "gloss": "ne"
     },
     {
       "surface": "די",
@@ -109,15 +109,15 @@
     },
     {
       "surface": "דנה",
-      "gloss": "bundan"
+      "gloss": "bund"
     },
     {
       "surface": "ויציב",
-      "gloss": "ve kesin"
+      "gloss": "ve kesindir"
     },
     {
       "surface": "חלמא",
-      "gloss": "düş"
+      "gloss": "rüya"
     },
     {
       "surface": "ומהימן",
@@ -128,6 +128,6 @@
       "gloss": "onun çözümü"
     }
   ],
-  "timestamp": "2026-08-19T11:42:41.788937881Z",
+  "timestamp": "2026-08-24T17:14:51.750305380Z",
   "model": "glm-5.3"
 }

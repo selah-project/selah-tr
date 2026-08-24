@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve her takdime(קרבן) — grain-offering'ın — tuzla tuzlanacak; Elohim'in ahdinin tuzunu grain-offering'ından eksik etmeyeceksin; bütün takdimelerinin üzerine tuz takdim edeceksin.",
+  "translation": "Ve her grain-offering kurbanunu tuzla tuzlayacaksın; Elohim'in'in sandığının tuzunu grain-offering'inden eksik etmeyeceksin; tüm kurbanlarının üzerine tuz sunacaksın.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "קרבן",
-      "gloss": "takdime"
+      "gloss": "kurban"
     },
     {
       "surface": "מנחתך",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "תמלח",
-      "gloss": "tuzlanacak"
+      "gloss": "tuzlayacaksın"
     },
     {
       "surface": "ולא",
-      "gloss": "ve etmeyeceksin"
+      "gloss": "ve değil"
     },
     {
       "surface": "תשבית",
-      "gloss": "eksik bırakmayı\/kesmeyi"
+      "gloss": "kestireceksin \/ eksik edeceksin"
     },
     {
       "surface": "מלח",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "ברית",
-      "gloss": "ahdinin"
+      "gloss": "sandığın"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim'in"
+      "gloss": "Elohim'in'in"
     },
     {
       "surface": "מעל",
-      "gloss": "üzerinden"
+      "gloss": "—"
     },
     {
       "surface": "מנחתך",
-      "gloss": "grain-offering'ın"
+      "gloss": "grain-offering'inden"
     },
     {
       "surface": "על",
@@ -61,21 +61,21 @@
     },
     {
       "surface": "כל",
-      "gloss": "bütün"
+      "gloss": "tüm"
     },
     {
       "surface": "קרבנך",
-      "gloss": "takdimelerinin"
+      "gloss": "kurbanlarının"
     },
     {
       "surface": "תקריב",
-      "gloss": "takdim edeceksin"
+      "gloss": "sunacaksın"
     },
     {
       "surface": "מלח",
       "gloss": "tuz"
     }
   ],
-  "timestamp": "2026-08-19T07:23:02.229066234Z",
+  "timestamp": "2026-08-24T17:00:36.900122959Z",
   "model": "glm-5.3"
 }

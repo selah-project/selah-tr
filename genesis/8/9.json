@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve güvercin ayağının tabanına ⟨⟨bir⟩⟩ konak bulamadı ve ona, gemiye döndü, çünkü sular bütün yerin yüzü üzerindeydi; ve elini uzattı ve onu aldı ve onu ⟨את⟩ yanına, gemiye soktu.",
+  "translation": "Güvercin ayağının tabanı için bir konak yeri bulamadı ve sular bütün yerin yüzü üzerinde olduğu için ona, gemiye döndü; elini uzattı, onu aldı ve ⟨את⟩ onu kendine gemiye soktu.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ve ... değil"
+      "gloss": "ve ... -madı"
     },
     {
       "surface": "מצאה",
-      "gloss": "bulamadı"
+      "gloss": "buldu"
     },
     {
       "surface": "היונה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מנוח",
-      "gloss": "konak"
+      "gloss": "konak yeri"
     },
     {
       "surface": "לכף",
-      "gloss": "tabanına"
+      "gloss": "tabanı için"
     },
     {
       "surface": "רגלה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "içine"
+      "gloss": "-e"
     },
     {
       "surface": "התבה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "על",
-      "gloss": "üzerindeydi"
+      "gloss": "üzerinde"
     },
     {
       "surface": "פני",
@@ -94,17 +94,17 @@
     },
     {
       "surface": "אליו",
-      "gloss": "yanına"
+      "gloss": "kendine"
     },
     {
       "surface": "אל",
-      "gloss": "içine"
+      "gloss": "-e"
     },
     {
       "surface": "התבה",
       "gloss": "gemiye"
     }
   ],
-  "timestamp": "2026-08-19T06:56:37.897883971Z",
+  "timestamp": "2026-08-24T16:59:06.941273688Z",
   "model": "glm-5.3"
 }

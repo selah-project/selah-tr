@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve ona böyle oldu: halk onu ⟨את⟩ ⟨אתו⟩ kapıda çiğnedi ve o öldü.",
+  "translation": "Ve ona öyle oldu: halk onu kapıda ⟨את⟩-ezer işaretiyle çiğnedi ve öldü. — düzeltme: ⟨את⟩'yi doğal yerine koyarak: Ve ona öyle oldu, çünkü halk onu kapıda ezdi ve o öldü.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ve oldu"
+      "gloss": "ve oldu"
     },
     {
       "surface": "לו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "böyle"
+      "gloss": "öyle"
     },
     {
       "surface": "וירמסו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩ onu",
       "marks": "onu"
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "surface": "וימת",
-      "gloss": "ve o öldü"
+      "gloss": "ve öldü"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.035363027Z",
+  "timestamp": "2026-08-24T17:05:20.118475410Z",
   "model": "glm-5.3"
 }

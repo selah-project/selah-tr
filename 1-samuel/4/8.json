@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 4,
-  "translation": "«Vay bize! Bu güçlü Elohim'lerin elinden bizi kim kurtaracak? Bunlar ⟨הם⟩ Mısır'ı çölde her türlü vuruşla vuran Elohim'lerdir.",
+  "translation": "Vay bize! Kim bizi kurtaracak bu yüce Elohim'in elinden? Bunlar ⟨işte⟩ Mısır'ı çölde her tür vuruşla vuran Elohim'lerdir.",
   "tokens": [
     {
       "surface": "אוי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim'lerin"
+      "gloss": "Elohim'in"
     },
     {
       "surface": "האדירים",
-      "gloss": "güçlü"
+      "gloss": "yüce"
     },
     {
       "surface": "האלה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הם",
-      "gloss": "⟨הם⟩ onlardır"
+      "gloss": "onlardır"
     },
     {
       "surface": "האלהים",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mısır'ı"
+      "gloss": "Mısır"
     },
     {
       "surface": "בכל",
-      "gloss": "her türlü"
+      "gloss": "her tür"
     },
     {
       "surface": "מכה",
@@ -77,6 +77,6 @@
       "gloss": "çölde"
     }
   ],
-  "timestamp": "2026-08-19T09:21:22.794132804Z",
+  "timestamp": "2026-08-24T17:03:58.819337667Z",
   "model": "glm-5.3"
 }

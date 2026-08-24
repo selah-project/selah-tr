@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve Yoktan ⟨את⟩ Almodad'ı, ve ⟨את⟩ Şelef'i, ve ⟨את⟩ Hasarmavet'i, ve ⟨את〕 Yerah'ı doğurdu.",
+  "translation": "Ve Yoktan ⟨את⟩ Almodad'ı, ⟨את⟩ Şelef'i, ⟨את⟩ Hatsarmavet'i ve ⟨את⟩ Yerah'ı doğurdu.",
   "tokens": [
     {
       "surface": "ויקטן",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "אלמודד",
-      "gloss": "Almodad'ı"
+      "gloss": "Almodad"
     },
     {
       "surface": "ואת",
@@ -31,27 +31,26 @@
     },
     {
       "surface": "שלף",
-      "gloss": "Şelef'i"
+      "gloss": "Şelef"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "Hasarmavet'i"
+      "marks": "Hatsarmavet'i"
     },
     {
       "surface": "חצרמות",
-      "gloss": "Hasarmavet'i"
+      "gloss": "Hatsarmavet"
     },
     {
-      "surface": "ואת",
-      "gloss": "ve ⟨את⟩",
-      "marks": "Yerah'ı"
+      "surface": "וירח",
+      "gloss": "⟨את⟩ ve Yerah"
     },
     {
-      "surface": "ירח",
-      "gloss": "Yerah'ı"
+      "surface": "וירח",
+      "gloss": "ve Yerah"
     }
   ],
-  "timestamp": "2026-08-19T11:52:39.068853167Z",
+  "timestamp": "2026-08-24T17:15:12.806253853Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Orada korkuyla titrediler, çünkü Elohim ⟨the⟩ salihlerin nesli içindedir.",
+  "translation": "Orada büyük bir korkuya kapıldılar, çünkü Elohim ⟨⟨⟩⟩ doğrular nesli içindedir.",
   "tokens": [
     {
       "surface": "שם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "פחדו",
-      "gloss": "titrediler"
+      "gloss": "korkuya kapıldılar"
     },
     {
       "surface": "פחד",
-      "gloss": "korkuyla"
+      "gloss": "korku"
     },
     {
       "surface": "כי",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "salih(lerin)"
+      "gloss": "doğru(ların)"
     }
   ],
-  "timestamp": "2026-08-19T10:53:44.963330546Z",
+  "timestamp": "2026-08-24T17:17:21.182852078Z",
   "model": "glm-5.3"
 }

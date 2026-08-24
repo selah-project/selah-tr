@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Ve Moşe o gün yemin ederek şöyle dedi: «Şüphesiz ⟨אם לא değil — bkz. not⟩ ayağının bastığı o toprak sana miras olacak ve oğullarına sonsuza dek, çünkü Yahve Elohim'im'in ardından tamca uydun.»",
+  "translation": "Ve Moşe o gün and içti, şöyle diyerek: Ayaklarının üzerine bastığı o toprak, sana miras olarak ve oğullarına sonsuza dek olacak; çünkü Yahve Elohim'im'in ardınca tümüyle gittin.",
   "tokens": [
     {
       "surface": "וישבע",
-      "gloss": "yemin etti"
+      "gloss": "ve and içti"
     },
     {
       "surface": "משה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "şöyle derken"
+      "gloss": "şöyle diyerek"
     },
     {
       "surface": "אם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "o toprak"
+      "gloss": "toprak"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "דרכה",
-      "gloss": "bastı"
+      "gloss": "bastığı"
     },
     {
       "surface": "רגלך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "onun üzerine"
+      "gloss": "onu"
     },
     {
       "surface": "לך",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "עולם",
-      "gloss": "sonsuz"
+      "gloss": "sonsuza"
     },
     {
       "surface": "כי",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "מלאת",
-      "gloss": "tamca uydun"
+      "gloss": "tümüyle"
     },
     {
       "surface": "אחרי",
-      "gloss": "ardından"
+      "gloss": "ardınca gittin"
     },
     {
       "surface": "יהוה",
@@ -100,6 +100,6 @@
       "gloss": "Elohim'im"
     }
   ],
-  "timestamp": "2026-08-19T09:11:29.646368009Z",
+  "timestamp": "2026-08-24T17:03:31.543389310Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Bu şeylerden sonra, Kral Ah-aş-ve-roş'un öfkesi dinince, Vaşti'yi ⟨את⟩, yaptığını ve ואת hakkında hükmedileni hatırladı.",
+  "translation": "Bu şeylerden sonra, Kral Ahaşveroş'un öfkesi dinince, Vaşti'yi ⟨את⟩, yaptığını ⟨את⟩ ve hakkında hükmedileni ⟨את⟩ hatırladı.",
   "tokens": [
     {
       "surface": "אחר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": "bunlar"
+      "gloss": "şunlar"
     },
     {
       "surface": "כשך",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Vaşti"
+      "marks": "Vaşti'yi"
     },
     {
       "surface": "ושתי",
@@ -51,7 +51,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "yaptığı şey"
+      "marks": "yaptığını"
     },
     {
       "surface": "אשר",
@@ -64,7 +64,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "hükmedilen"
+      "marks": "hakkında hükmedileni"
     },
     {
       "surface": "אשר",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "עליה",
-      "gloss": "ona karşı"
+      "gloss": "hakkında"
     }
   ],
-  "timestamp": "2026-08-19T11:40:00.675218091Z",
+  "timestamp": "2026-08-24T17:14:43.345875504Z",
   "model": "glm-5.3"
 }

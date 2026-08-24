@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Ve Yahve Moşe'ye dedi: Aharon'a, kardeşine söyle — her zamanda kutsal ⟨⟨mekâna⟩⟩ girmesin, perdenin ötesinden, kapporet'in yüzüne — ki ⟨o⟩ aronun üzerindedir — ve ⟨o⟩ ölmesin; çünkü bulut içinde görüneceğim kapporet üzerinde.",
+  "translation": "Ve Yahve Moşe'ye dedi: Kardeşin Aharon'a söyle, her zamanda kutsal ⟨yer⟩e, perdenin içine, aron üzerindeki kaportanın yüzüne girmesin, ki ölmesin; çünkü bulut içinde kaportanın üzerinde görünürüm.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "...e"
+      "gloss": "-e"
     },
     {
       "surface": "משה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "...a"
+      "gloss": "-e"
     },
     {
       "surface": "אהרן",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ve ...me"
+      "gloss": "ve... mesin"
     },
     {
       "surface": "יבא",
-      "gloss": "girsin"
+      "gloss": "girmesin"
     },
     {
       "surface": "בכל",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "...e"
+      "gloss": "-e"
     },
     {
       "surface": "הקדש",
-      "gloss": "kutsal ⟨mekân⟩"
+      "gloss": "kutsal ⟨yer⟩"
     },
     {
       "surface": "מבית",
-      "gloss": "evinden\/içinden"
+      "gloss": "içine"
     },
     {
       "surface": "לפרכת",
@@ -73,19 +73,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "...e doğru"
+      "gloss": "-e doğru"
     },
     {
       "surface": "פני",
-      "gloss": "yüzü"
+      "gloss": "yüzüne"
     },
     {
       "surface": "הכפרת",
-      "gloss": "kapporet"
+      "gloss": "kaportanın"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki o"
     },
     {
       "surface": "על",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve ...me"
+      "gloss": "ve... değil"
     },
     {
       "surface": "ימות",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "אראה",
-      "gloss": "görüneceğim"
+      "gloss": "görünürüm"
     },
     {
       "surface": "על",
@@ -121,9 +121,9 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "kapporet"
+      "gloss": "kaportanın"
     }
   ],
-  "timestamp": "2026-08-19T07:28:38.160356831Z",
+  "timestamp": "2026-08-24T17:01:22.798972814Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ve man ⟨המן⟩ durdu, ülkenin ürününden yediklerinin ertesi günü; ve Yişrael oğullarına artık man yoktu; ve o yıl Kenan ülkesinin ürününden yediler.",
+  "translation": "Ülkenin ürününü yediklerinin ertesi günü man kesildi; İsrail oğullarına artık man olmadı ve o yıl Kenan ülkesinin ürününden yediler.",
   "tokens": [
     {
       "surface": "וישבת",
-      "gloss": "ve durdu"
+      "gloss": "kesildi"
     },
     {
       "surface": "המן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ממחרת",
-      "gloss": "ertesinde"
+      "gloss": "ertesi günü"
     },
     {
       "surface": "באכלם",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve … değil"
+      "gloss": "ve artık ... değil"
     },
     {
       "surface": "היה",
-      "gloss": "oldu\/vardı"
+      "gloss": "oldu"
     },
     {
       "surface": "עוד",
-      "gloss": "artık"
+      "gloss": "daha"
     },
     {
       "surface": "לבני",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yişrael"
+      "gloss": "İsrail"
     },
     {
       "surface": "מן",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ויאכלו",
-      "gloss": "ve yediler"
+      "gloss": "yediler"
     },
     {
       "surface": "מתבואת",
@@ -80,6 +80,6 @@
       "gloss": "o"
     }
   ],
-  "timestamp": "2026-08-19T09:08:40.161946734Z",
+  "timestamp": "2026-08-24T17:03:01.263025295Z",
   "model": "glm-5.3"
 }

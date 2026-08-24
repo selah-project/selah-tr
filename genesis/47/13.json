@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 47,
-  "translation": "Ve ekmek yoktu ⟨⟨the⟩⟩ bütün ülkede, çünkü kıtlık çok ağırdı; ve Mitsrayim ülkesi ve Kenaan ülkesi kıtlık yüzünden tükenip kaldı.",
+  "translation": "Ve ekmek yoktu bütün ülkede, çünkü kıtlık çok ağırdı; ve Mitsrayim ülkesi ve Kenan ülkesi kıtlık yüzünden tükenip ⟨⟩ güçsüz düştü.",
   "tokens": [
     {
       "surface": "ולחם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ותלה",
-      "gloss": "ve tükenip kaldı"
+      "gloss": "ve tükenip güçsüz düştü"
     },
     {
       "surface": "ארץ",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaan"
+      "gloss": "Kenan"
     },
     {
       "surface": "מפני",
@@ -68,6 +68,6 @@
       "gloss": "kıtlık"
     }
   ],
-  "timestamp": "2026-08-19T07:08:50.132412828Z",
+  "timestamp": "2026-08-24T16:59:52.121165175Z",
   "model": "glm-5.3"
 }

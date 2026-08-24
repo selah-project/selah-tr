@@ -5,8 +5,33 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Anlayın, ey saf kimse, ⟨ערמה⟩ din\/dürüstlük ve ey ahmaklar, anlayın ⟨bir⟩ yürek",
-  "tokens": [],
-  "timestamp": "2026-08-19T11:18:11.105582170Z",
+  "translation": "Ey basit olanlar, ⟨⟨את⟩⟩ zekâyı anlayın; ve ey ahmaklar, anlayın bir yürek ⟨ile⟩.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "anlayın"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "basit olanlar"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "zekâ"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ve ahmaklar"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "anlayın"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yürek"
+    }
+  ],
+  "timestamp": "2026-08-24T17:12:49.528344957Z",
   "model": "glm-5.3"
 }

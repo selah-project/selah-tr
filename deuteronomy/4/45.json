@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 4,
-  "translation": "Bunlar ⟨tanıklıklar⟩, kurallar ve hükümlerdir; Moşe'nin Yisrael oğullarına Mısır'dan çıktıklarında söylediği.",
+  "translation": "Bunlar ⟨ال⟩ şahitlikler, kurallar ve hükümlerdir; Moşe, Yisrael oğullarına, Mısır'dan çıktıklarında, konuştu ⟨bunları⟩.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "העדת",
-      "gloss": "⟨tanıklıklar>"
+      "gloss": "şahitlikler"
     },
     {
       "surface": "והחקים",
-      "gloss": "kurallar"
+      "gloss": "ve kurallar"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "hükümler"
+      "gloss": "ve hükümler"
     },
     {
       "surface": "אשר",
-      "gloss": "ki onları"
+      "gloss": "ki"
     },
     {
       "surface": "דבר",
-      "gloss": "söyledi"
+      "gloss": "konuştu"
     },
     {
       "surface": "משה",
@@ -56,6 +56,6 @@
       "gloss": "Mısır'dan"
     }
   ],
-  "timestamp": "2026-08-19T08:57:39.920553232Z",
+  "timestamp": "2026-08-24T17:02:15.418817320Z",
   "model": "glm-5.3"
 }

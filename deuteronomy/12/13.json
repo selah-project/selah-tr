@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Kendine dikkat et ki yakmalık sunularını gördüğün her ⟨⟨herhangi bir⟩⟩ yerde sunmayasın — ⟨פן⟩.",
+  "translation": "Kendine dikkat et, yakılan takdimelerini gördüğün her yerde ⟨וג⟩ sunma ⟨מִשֶּׁם⟩ — dikkat et ki, göreceğin herhangi bir yerde yakılan takdimelerini yükseltmeyesin.",
   "tokens": [
     {
       "surface": "השמר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "פן",
-      "gloss": "ki ... -mayasın"
+      "gloss": "ki...-meyesin"
     },
     {
       "surface": "תעלה",
-      "gloss": "yükseltme \/ sunmayasın"
+      "gloss": "yükseltmeyesin"
     },
     {
       "surface": "עלתיך",
-      "gloss": "yakmalık sunularını"
+      "gloss": "yakılan takdimelerini"
     },
     {
       "surface": "בכל",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "תראה",
-      "gloss": "gördüğün"
+      "gloss": "göreceğin"
     }
   ],
-  "timestamp": "2026-08-19T09:01:27.078361361Z",
+  "timestamp": "2026-08-24T17:01:59.678979212Z",
   "model": "glm-5.3"
 }

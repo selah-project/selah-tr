@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve kralın yazıcıları birinci ayda, onun on üçüncü gününde çağrıldı; ve Haman'ın kralın satraplarına, eyalet eyalet valilerine ve halk halk önderlerine buyurduğu her şey göre yazıldı — eyalet eyalet kendi yazısıyla ve halk halk kendi diliyle; Kral Ahşveroş'un adıyla yazıldı ve kralın yüzüğüyle mühürlendi.",
+  "translation": "Kralın yazıcıları ilk ayda, on üçüncü gününde çağrıldı; ve Haman'ın kralın satraplarına, eyalet eyalet valilerine ve her halkın önderlerine emrettiği her şey gibi yazıldı — eyalet eyalet kendi yazısıyla, halk halk kendi diliyle; Kral Ahşveroş adına yazıldı ve kralın yüzüğüyle mühürlendi.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "ve çağrıldı"
+      "gloss": "çağrıldı"
     },
     {
       "surface": "ספרי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בחדש",
-      "gloss": "ayında"
+      "gloss": "ayda"
     },
     {
       "surface": "הראשון",
-      "gloss": "birinci"
+      "gloss": "ilk"
     },
     {
       "surface": "בשלושה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "onun"
+      "gloss": "onun içinde"
     },
     {
       "surface": "ויכתב",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "her şey göre"
+      "gloss": "her şey gibi"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "buyurdu"
+      "gloss": "emretti"
     },
     {
       "surface": "המן",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "halk"
+      "gloss": "halkın"
     },
     {
       "surface": "ועם",
@@ -125,7 +125,7 @@
     },
     {
       "surface": "ככתבה",
-      "gloss": "kendi yazısıyla"
+      "gloss": "kendi yazısı gibi"
     },
     {
       "surface": "ועם",
@@ -137,11 +137,11 @@
     },
     {
       "surface": "כלשונו",
-      "gloss": "kendi diliyle"
+      "gloss": "kendi diline göre"
     },
     {
       "surface": "בשם",
-      "gloss": "adıyla"
+      "gloss": "adına"
     },
     {
       "surface": "המלך",
@@ -149,7 +149,7 @@
     },
     {
       "surface": "אחשורש",
-      "gloss": "Ahşveroş'un"
+      "gloss": "Ahşveroş"
     },
     {
       "surface": "נכתב",
@@ -168,6 +168,6 @@
       "gloss": "kralın"
     }
   ],
-  "timestamp": "2026-08-19T11:40:16.421738881Z",
+  "timestamp": "2026-08-24T17:17:21.867748710Z",
   "model": "glm-5.3"
 }

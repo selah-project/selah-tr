@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Değil mi ⟨את⟩ sözleri ki Yahve ilan etti eliyle ⟨o⟩ ilk peygamberlerin, когда Yeruşalayim oturmuş ve huzur içindeydi ve ⟨onun⟩ şehirleri çevresinde, ve Negev ve Şefela oturmuşken?",
+  "translation": "Değil mi ⟨את⟩ sözleri ki Yahve bağırdı eliyle eski peygamberlerin, Yeruşalayim oturmuş ve huzur içinde olduğunda, ve çevresindeki şehirleriyle, ve Negev ve Şefela oturmuşken?",
   "tokens": [
     {
       "surface": "הלוא",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "ilan etti"
+      "gloss": "bağırdı"
     },
     {
       "surface": "יהוה",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "הראשנים",
-      "gloss": "ilk"
+      "gloss": "eski"
     },
     {
       "surface": "בהיות",
-      "gloss": "…iken"
+      "gloss": "olduğunda"
     },
     {
       "surface": "ירושלם",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ושלוה",
-      "gloss": "ve huzur içindeydi"
+      "gloss": "ve huzur içinde"
     },
     {
       "surface": "ועריה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "סביבתיה",
-      "gloss": "çevresinde"
+      "gloss": "çevresindeki"
     },
     {
       "surface": "והנגב",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "ישב",
-      "gloss": "oturmuştu"
+      "gloss": "oturmuş"
     }
   ],
-  "timestamp": "2026-08-19T12:21:12.947020208Z",
+  "timestamp": "2026-08-24T17:10:47.576455302Z",
   "model": "glm-5.3"
 }

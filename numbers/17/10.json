@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 17,
-  "translation": "'Kalkın, ⟨the⟩ bu cemaatin içinden — ki onları ⟨את⟩ bir anda tüketeyim.' Ve yüzlerinin üzerine kapandılar.",
+  "translation": "\"Bu topluluğun içinden çekilin, onları ⟨את⟩ bir anda yok edeyim.\" Ve yüzlerinin üzerine kapandılar.",
   "tokens": [
     {
       "surface": "הרמו",
-      "gloss": "yükselin\/kalkın"
+      "gloss": "çekilin \/ yükselin"
     },
     {
       "surface": "מתוך",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "העדה",
-      "gloss": "cemaat"
+      "gloss": "topluluk"
     },
     {
       "surface": "הזאת",
       "gloss": "bu"
     },
     {
-      "surface": "ויפלו",
-      "gloss": "ve kapandılar"
+      "surface": "ואכלה",
+      "gloss": "ve yok edeyim"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "onları"
-    },
-    {
-      "surface": "ואכלה",
-      "gloss": "ve tüketeyim"
+      "marks": "onları (כרגע bağlamında 'onları')"
     },
     {
       "surface": "כרגע",
       "gloss": "bir anda"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ve kapandılar"
     },
     {
       "surface": "על",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "פניהם",
-      "gloss": "yüzleri"
+      "gloss": "yüzlerinin"
     }
   ],
-  "timestamp": "2026-08-19T07:38:24.879317526Z",
+  "timestamp": "2026-08-24T17:01:28.716555886Z",
   "model": "glm-5.3"
 }

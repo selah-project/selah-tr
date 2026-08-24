@@ -5,11 +5,12 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 34,
-  "translation": "Ve ⟨את⟩ bizimle oturun; ⟨ה⟩ toprak sizin önünüzde olsun — oturun, onda ticaret edin ve onda tutunun.",
+  "translation": "Ve bizimle ⟨את⟩ oturun, ⟨ve⟩ yer önünüzde olsun; oturun, onda ticaret edin ve onda tutun alın.”",
   "tokens": [
     {
       "surface": "ואתנו",
-      "gloss": "⟨את⟩ bizimle"
+      "gloss": "⟨את⟩ bizimle",
+      "marks": "siz (hitap edilenler)"
     },
     {
       "surface": "תשבו",
@@ -17,7 +18,7 @@
     },
     {
       "surface": "והארץ",
-      "gloss": "ve ⟨ה⟩ toprak"
+      "gloss": "⟨ve⟩ yer"
     },
     {
       "surface": "תהיה",
@@ -25,7 +26,7 @@
     },
     {
       "surface": "לפניכם",
-      "gloss": "sizin önünüzde"
+      "gloss": "önünüzde"
     },
     {
       "surface": "שבו",
@@ -33,17 +34,17 @@
     },
     {
       "surface": "וסחרוה",
-      "gloss": "onda ticaret edin"
+      "gloss": "⟨ve⟩ onda ticaret edin"
     },
     {
       "surface": "והאחזו",
-      "gloss": "tununun"
+      "gloss": "⟨ve⟩ tutun alın"
     },
     {
       "surface": "בה",
-      "gloss": "onda"
+      "gloss": "ondA (içinde)"
     }
   ],
-  "timestamp": "2026-08-19T07:04:21.021424780Z",
+  "timestamp": "2026-08-24T16:59:07.854134710Z",
   "model": "glm-5.3"
 }

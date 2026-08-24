@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Moşe onları Kenaan ülkesini görmek için gönderdi; ⟨אתם⟩ Kenaan ⟨את⟩ ülkesini araştırmaya, ve onlara dedi: Şimdi Negev'e çıkın, sonra da dağa ⟨את⟩ yükseleceksiniz.",
+  "translation": "Moşe onları Kenan ülkesini kolaşmak için ⟨את⟩ gönderdi ve onlara dedi: Şimdi bu yoldan Negev'e çıkın, sonra da dağa çıkın ⟨את⟩.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "לתור",
-      "gloss": "araştırmaya"
+      "gloss": "kolaşmak için"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ülkesini"
+      "marks": "Kenan ülkesini"
     },
     {
       "surface": "ארץ",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaan"
+      "gloss": "Kenan"
     },
     {
       "surface": "ויאמר",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ועליתם",
-      "gloss": "ve yükseleceksiniz"
+      "gloss": "ve çıkacaksınız"
     },
     {
       "surface": "את",
@@ -71,6 +71,6 @@
       "gloss": "dağa"
     }
   ],
-  "timestamp": "2026-08-19T07:37:00.089299863Z",
+  "timestamp": "2026-08-24T17:01:27.677520060Z",
   "model": "glm-5.3"
 }

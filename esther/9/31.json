@@ -5,23 +5,23 @@
   "book": "esther",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Bu Purim günlerini belirlenen zamanlarında doğrulamak için — nasıl ki Mordehay ⟨the⟩ Yahudi ve Ester ⟨the⟩ kraliçe onların üzerine koymuşsa, ve nasıl ki kendi canları ve kendi tohumları üzerine koymuşlarsa — oruçların ve feryatlarının sözlerini.",
+  "translation": "Bu Purim günlerini kendi vakitlerinde tasdik etmek için — nasıl ki Mordehay ⟨ה⟩ Yahudi ve Ester ⟨ה⟩ kraliçe onlar hakkında tasdik ettiyse, ve nasıl ki kendi canları ve kendi zürriyetleri hakkında oruçların sözlerini ve kendi feryatlarını(tasdik ettiyseler) —",
   "tokens": [
     {
       "surface": "לקים",
-      "gloss": "doğrulamak için"
+      "gloss": "tasdik etmek için"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bu Purim günlerini"
+      "marks": "Purim günlerini"
     },
     {
       "surface": "ימי",
       "gloss": "günlerini"
     },
     {
-      "surface": "הפרים",
+      "surface": "הפורים",
       "gloss": "Purim"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בזמניהם",
-      "gloss": "zamanlarında"
+      "gloss": "kendi vakitlerinde"
     },
     {
       "surface": "כאשר",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "קים",
-      "gloss": "koymuştu"
+      "gloss": "tasdik etti"
     },
     {
       "surface": "עליהם",
-      "gloss": "onların üzerine"
+      "gloss": "onlar hakkında"
     },
     {
       "surface": "מרדכי",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "קימו",
-      "gloss": "koymuşlardı"
+      "gloss": "tasdik ettiler"
     },
     {
       "surface": "על",
-      "gloss": "üzerine"
+      "gloss": "hakkında"
     },
     {
       "surface": "נפשם",
@@ -78,25 +78,25 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ve üzerine"
+      "gloss": "ve hakkında"
     },
     {
       "surface": "זרעם",
-      "gloss": "kendi tohumları"
+      "gloss": "kendi zürriyetleri"
     },
     {
       "surface": "דברי",
       "gloss": "sözlerini"
     },
     {
-      "surface": "הצמות",
+      "surface": "הצומות",
       "gloss": "oruçların"
     },
     {
       "surface": "וזעקתם",
-      "gloss": "ve feryatlarının"
+      "gloss": "ve kendi feryatları"
     }
   ],
-  "timestamp": "2026-08-19T11:41:29.927384330Z",
+  "timestamp": "2026-08-24T17:15:08.077328635Z",
   "model": "glm-5.3"
 }

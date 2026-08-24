@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 51,
-  "translation": "Sözü ki buyurdu Yirmiyahu peygamber, Serayah ben Neriyah ben Mahseyah ⟨את⟩'e, gidince ⟨את⟩ Tsedekiyahu ile, Yahuda kralı, Babil'e, krallığının dördüncü yılında; ve Serayah ⟨והו⟩ konak ileri geleniydi.",
+  "translation": "Yirmiyahu ⟨ה⟩ peygamberin Serayah'a, Neriyah oğlu, Mahseyah oğluna, Yahuda kralı Tsidkiyahu ile birlikte Babil'e gittiğinde, krallığının dördüncü yılında buyurduğu ⟨את⟩ söz; ve Serayah ⟨bir⟩ konaklama (menucha) önderiydi.",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "sözü"
+      "gloss": "söz"
     },
     {
       "surface": "אשר",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "בלכתו",
-      "gloss": "gidince"
+      "gloss": "gittiğinde"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsedekiyahu"
+      "marks": "Tsidkiyahu"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsedekiyahu"
+      "gloss": "Tsidkiyahu"
     },
     {
       "surface": "מלך",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babil"
+      "gloss": "Babil'e"
     },
     {
       "surface": "בשנת",
@@ -95,13 +95,13 @@
     },
     {
       "surface": "שר",
-      "gloss": "ileri gelen"
+      "gloss": "önder"
     },
     {
       "surface": "מנוחה",
-      "gloss": "konak"
+      "gloss": "konaklama"
     }
   ],
-  "timestamp": "2026-08-19T10:22:34.200229093Z",
+  "timestamp": "2026-08-24T17:08:01.463858279Z",
   "model": "glm-5.3"
 }

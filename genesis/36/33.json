@@ -5,8 +5,41 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 36,
-  "translation": "Bela öldü, ve yerine Yoav oğlu Yovav, Botstra'dan, kral oldu.",
-  "tokens": [],
-  "timestamp": "2026-08-19T07:04:45.796512990Z",
+  "translation": "Bela öldü, yerine Yoav oğlu…",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ve öldü"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ve kral oldu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "yerine"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerah'ın"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "Botra'dan"
+    }
+  ],
+  "timestamp": "2026-08-24T16:59:02.804665526Z",
   "model": "glm-5.3"
 }

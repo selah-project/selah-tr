@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Onlara kulak vermeyin; Babil kralına ⟨את⟩ kulluk edin ve yaşayın; neden ⟨⟨bu şehir⟩⟩ bir harabe olsun?",
+  "translation": "Onları dinlemeyin; Babil kralına ⟨את⟩ kulluk edin ve yaşayın. Neden ⟨olsun⟩ bu şehir yıkılmış ⟨bir ıssızlık⟩?",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "…me(–yin)"
+      "gloss": "mayın (olumsuzluk)"
     },
     {
       "surface": "תשמעו",
-      "gloss": "kulak vermeyin"
+      "gloss": "dinlemeyin"
     },
     {
       "surface": "אליהם",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Babil kralına"
+      "marks": "Babil kralı"
     },
     {
       "surface": "מלך",
-      "gloss": "kralına"
+      "gloss": "kral"
     },
     {
       "surface": "בבל",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "חרבה",
-      "gloss": "bir harabe"
+      "gloss": "yıkılmış ıssızlık"
     }
   ],
-  "timestamp": "2026-08-19T10:12:01.399298153Z",
+  "timestamp": "2026-08-24T17:07:15.328385388Z",
   "model": "glm-5.3"
 }

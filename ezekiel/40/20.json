@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 40,
-  "translation": "Ve kapı — ki yüzü kuzey yönündeydi, dış avluya ⟨ait⟩ — uzunluğunu ve genişliğini ölçtü.",
+  "translation": "Ve yüzü kuzeye bakan dış avlunun kapısını — uzunluğunu ve genişliğini ölçtü.",
   "tokens": [
     {
       "surface": "והשער",
-      "gloss": "ve kapı"
+      "gloss": "ve ⟨the⟩ kapı"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "yönünde"
+      "gloss": "-e doğru (yol)"
     },
     {
       "surface": "הצפון",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לחצר",
-      "gloss": "avluya"
+      "gloss": "avlu"
     },
     {
       "surface": "החיצונה",
@@ -48,6 +48,6 @@
       "gloss": "ve genişliğini"
     }
   ],
-  "timestamp": "2026-08-19T10:36:11.102322300Z",
+  "timestamp": "2026-08-24T17:09:25.454217125Z",
   "model": "glm-5.3"
 }

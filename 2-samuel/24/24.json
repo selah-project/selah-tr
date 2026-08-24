@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Ve kral Aravna'ya dedi: «Hayır; çünkü ⟨⟨senin⟩⟩ yanından bir bedelle satın alacağım, ve Yahve'ye, Elohim'ime, bedelsiz yakmalar arz etmeyeceğim.» Ve Davud harmanı ve ⟨את⟩ öküzleri elli şekel gümüşe satın aldı.",
+  "translation": "Ve kral Aravna'ya dedi: Hayır; çünkü ⟨את⟩'i senden bir bedel karşılığında satın alacağım ve Yahve Elohim'ime bedelsiz yakılan takdimeler sunmayacağım. Böylece Davud ⟨את⟩ harman yerini ve ⟨את⟩ öküzleri elli şekel gümüş karşılığında satın aldı.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "'a"
+      "gloss": "için\/İbranice değil—{glossum:'kime → Aravna'ya değil'} placeholder"
     },
     {
       "surface": "ארונה",
-      "gloss": "Aravna"
+      "gloss": "Aravna'ya"
     },
     {
       "surface": "לא",
@@ -41,19 +41,20 @@
     },
     {
       "surface": "מאותך",
-      "gloss": "⟨את⟩'ten yanından"
+      "gloss": "⟨את⟩'i senden",
+      "marks": "harman yeri\/öküzler (satın alınan şey)"
     },
     {
       "surface": "במחיר",
-      "gloss": "bir bedelle"
+      "gloss": "bedel karşılığında"
     },
     {
       "surface": "ולא",
-      "gloss": "ve etmeyeceğim"
+      "gloss": "ve ... mayacağım"
     },
     {
       "surface": "אעלה",
-      "gloss": "arz"
+      "gloss": "sunacağım"
     },
     {
       "surface": "ליהוה",
@@ -65,7 +66,7 @@
     },
     {
       "surface": "עלות",
-      "gloss": "yakmalar"
+      "gloss": "yakılan takdimeler"
     },
     {
       "surface": "חנם",
@@ -82,11 +83,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "harmanı"
+      "marks": "harman yerini"
     },
     {
       "surface": "הגרן",
-      "gloss": "harman"
+      "gloss": "harman yerini"
     },
     {
       "surface": "ואת",
@@ -95,11 +96,11 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "öküzler"
+      "gloss": "öküzleri"
     },
     {
       "surface": "בכסף",
-      "gloss": "gümüşe"
+      "gloss": "gümüş karşılığında"
     },
     {
       "surface": "שקלים",
@@ -110,6 +111,6 @@
       "gloss": "elli"
     }
   ],
-  "timestamp": "2026-08-19T09:35:34.433875189Z",
+  "timestamp": "2026-08-24T17:04:44.307939077Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve Yahve'nin öfkesi İsrail'e karşı alevlendi ve şöyle dedi: Bu ulus ⟨את⟩ ahdimi çiğnediği için — ki atalarına buyurmuştum — ve sesime kulak vermediği için ⟨it shall be⟩ …",
+  "translation": "Yahve'nin öfkesi Yişra'el'e karşı alevlendi ve şöyle dedi: Çünkü bu ulus, atalarına emrettiğim ahdimi ⟨את⟩ çiğnedi ve sesimi dinlemedi.",
   "tokens": [
     {
       "surface": "ויחר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'nin"
+      "gloss": "Yahve"
     },
     {
       "surface": "בישראל",
-      "gloss": "İsrail'e karşı"
+      "gloss": "Yişra'el'e karşı"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ve şöyle dedi"
+      "gloss": "ve dedi"
     },
     {
       "surface": "יען",
-      "gloss": "için"
+      "gloss": "çünkü"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הגוי",
-      "gloss": "ulus"
+      "gloss": "bu ulus"
     },
     {
       "surface": "הזה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "buyurmuştum"
+      "gloss": "emrettim"
     },
     {
       "surface": "את",
@@ -75,17 +75,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve -medi"
+      "gloss": "ve ... değil"
     },
     {
       "surface": "שמעו",
-      "gloss": "kulak verdiler"
+      "gloss": "dinlediler"
     },
     {
       "surface": "לקולי",
       "gloss": "sesime"
     }
   ],
-  "timestamp": "2026-08-19T09:15:26.442735674Z",
+  "timestamp": "2026-08-24T17:03:28.179136382Z",
   "model": "glm-5.3"
 }

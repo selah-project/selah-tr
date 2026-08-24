@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve Şim'i krala dedi: İyi ⟨⟨dir⟩⟩ söz; efendim kral nasil konustuysa kölen öyle yapsin. Ve Şim'i Yeruşalayim'de çok günler oturdu.",
+  "translation": "Şimi kale ויאמר (dedi ki): טוב הדבר — söz iyidir; efendim kral nasıl söylediyse, kulun öyle yapacaktır. Ve Şimi Yeruşalayim'de çok gün kaldı.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שמעי",
-      "gloss": "Şim'i"
+      "gloss": "Şimi"
     },
     {
       "surface": "למלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "iyi"
+      "gloss": "iyidir"
     },
     {
       "surface": "הדבר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "nasıl"
+      "gloss": "nasıl ki"
     },
     {
       "surface": "דבר",
-      "gloss": "konuştu"
+      "gloss": "söyledi"
     },
     {
       "surface": "אדני",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "yapsın"
+      "gloss": "yapacak"
     },
     {
       "surface": "עבדך",
-      "gloss": "kölen"
+      "gloss": "kulun"
     },
     {
       "surface": "וישב",
-      "gloss": "ve oturdu"
+      "gloss": "ve kaldı (oturdu)"
     },
     {
       "surface": "שמעי",
-      "gloss": "Şim'i"
+      "gloss": "Şimi"
     },
     {
       "surface": "בירושלם",
@@ -76,6 +76,6 @@
       "gloss": "çok"
     }
   ],
-  "timestamp": "2026-08-19T09:36:29.167849604Z",
+  "timestamp": "2026-08-24T17:05:13.227339058Z",
   "model": "glm-5.3"
 }

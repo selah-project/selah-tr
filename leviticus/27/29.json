@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Her חרם'e ayrılmış olan, insanlar arasından ⟨את⟩ adanan kişi fidyeyle kurtarılamaz; ölüm cezasıyla öldürülecektir.",
+  "translation": "Her ne ki adamlar arasından ⟨את⟩ yok edilmek üzere ayrılan heremdir, fidyeyle kurtarılmaz — ⟨o⟩ mutlaka ölüme öldürülecektir.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "חרם",
-      "gloss": "חר׳em'e ayrılmış"
+      "gloss": "herem (yok edilmeye ayrılan)"
     },
     {
       "surface": "אשר",
-      "gloss": "ki o"
+      "gloss": "ki"
     },
     {
       "surface": "יחרם",
-      "gloss": "adanmış"
+      "gloss": "ayrılır (yerem)"
     },
     {
       "surface": "מן",
-      "gloss": "-den"
+      "gloss": "içinden"
     },
     {
       "surface": "האדם",
-      "gloss": "insan(lar)"
+      "gloss": "insanların\/adamların"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יפדה",
-      "gloss": "fidyeyle kurtarılabilir"
+      "gloss": "fidyeyle kurtarılır"
     },
     {
       "surface": "מות",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "יומת",
-      "gloss": "öldürülecektir"
+      "gloss": "öldürülür"
     }
   ],
-  "timestamp": "2026-08-19T07:31:24.773843709Z",
+  "timestamp": "2026-08-24T17:01:32.693854358Z",
   "model": "glm-5.3"
 }

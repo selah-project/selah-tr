@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Ve עצם o günde her hangi bir iş yapan her canı, o canı kavminin ortasından yok edeceğim ⟨את⟩.",
+  "translation": "Ve her nefes ki herhangi bir iş yapar tam bu günde, o nefesi halkının ortasından yok edeceğim Ben.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "can"
+      "gloss": "nefes"
     },
     {
       "surface": "אשר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "yapacak"
+      "gloss": "yapar"
     },
     {
       "surface": "כל",
-      "gloss": "her hangi"
+      "gloss": "herhangi"
     },
     {
       "surface": "מלאכה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בעצם",
-      "gloss": "özünde\/kendi"
+      "gloss": "tam"
     },
     {
       "surface": "היום",
-      "gloss": "o gün"
+      "gloss": "günde"
     },
     {
       "surface": "הזה",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "והאבדתי",
-      "gloss": "yok edeceğim"
+      "gloss": "ve yok edeceğim Ben"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o can"
+      "marks": "o nefes"
     },
     {
       "surface": "הנפש",
-      "gloss": "can"
+      "gloss": "o nefesi"
     },
     {
       "surface": "ההוא",
-      "gloss": "o"
+      "gloss": "şu"
     },
     {
       "surface": "מקרב",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "עמה",
-      "gloss": "kavmi"
+      "gloss": "halkının"
     }
   ],
-  "timestamp": "2026-08-19T07:30:51.029285014Z",
+  "timestamp": "2026-08-24T17:01:25.182975100Z",
   "model": "glm-5.3"
 }

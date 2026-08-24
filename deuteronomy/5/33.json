@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Yahve Elohim'inizin size emrettiği yolun tamamında ⟨את⟩ sizin yürüyeceksiniz — yaşayasınız diye ve size iyi olsun diye ve günlerinizi uzatasınız diye miras alacağınız ⟨⟨toprakta⟩⟩.",
+  "translation": "Yahve Elohim'inizin size emrettiği bütün yolda yürüyesiniz — ki yaşayasınız ve size iyi olsun ve miras alacağınız ⟨את⟩ ülkede günlerinizi uzatasınız.",
   "tokens": [
     {
       "surface": "בכל",
-      "gloss": "tamamında"
+      "gloss": "bütün"
     },
     {
       "surface": "הדרך",
-      "gloss": "yolun"
+      "gloss": "yolda"
     },
     {
       "surface": "אשר",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim'iniz"
+      "gloss": "Elohim'inizin"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "sizin (yürüyeceksiniz)"
+      "marks": "siz (emrin hedefi: sizin)"
     },
     {
       "surface": "תלכו",
-      "gloss": "yürüyeceksiniz"
+      "gloss": "yürüyesiniz"
     },
     {
       "surface": "למען",
-      "gloss": "diye"
+      "gloss": "-ması için"
     },
     {
       "surface": "תחיון",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "toprakta"
+      "gloss": "ülkede"
     },
     {
       "surface": "אשר",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "תירשון",
-      "gloss": "miras alacağınız"
+      "gloss": "miras alacaksınız"
     }
   ],
-  "timestamp": "2026-08-19T08:59:05.790201567Z",
+  "timestamp": "2026-08-24T17:02:13.230778768Z",
   "model": "glm-5.3"
 }

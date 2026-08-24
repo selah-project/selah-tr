@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 33,
-  "translation": "Yas tuttu, durgun düştü ⟨⟨⟩⟩ toprak; utandı Lübnan, solup kurudu; Şaron çöle benzedi, sarsılıyor Başan ve Karmel.",
+  "translation": "Yas tuttu, soldu ⟨⟨⟩⟩ ülke; utandı Livnan, soldu; Şaron çöle ⟨⟩ benzer ⟨ oldu ⟩, ve Başan ve Karmel yapraklarını döker.",
   "tokens": [
     {
       "surface": "אבל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אמללה",
-      "gloss": "durgun düştü"
+      "gloss": "soldu"
     },
     {
       "surface": "ארץ",
-      "gloss": "toprak"
+      "gloss": "ülke"
     },
     {
       "surface": "החפיר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לבנון",
-      "gloss": "Lübnan"
+      "gloss": "Livnan"
     },
     {
       "surface": "קמל",
-      "gloss": "solup kurudu"
+      "gloss": "soldu"
     },
     {
       "surface": "היה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כערבה",
-      "gloss": "çöle benzer"
+      "gloss": "çöl gibi"
     },
     {
       "surface": "ונער",
-      "gloss": "sarsılıyor"
+      "gloss": "ve silkeler"
     },
     {
       "surface": "בשן",
@@ -56,6 +56,6 @@
       "gloss": "ve Karmel"
     }
   ],
-  "timestamp": "2026-08-19T09:57:14.522061366Z",
+  "timestamp": "2026-08-24T17:06:29.473855895Z",
   "model": "glm-5.3"
 }

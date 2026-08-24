@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Çünkü O, beni kötülük gününde çardağında gizleyecek, çadırının gizli yerinde beni saklayacak, kayaya ⟨⟨üzerine⟩⟩ beni yükseltecek.",
+  "translation": "Çünkü O, kötü günde beni çadırında saklayacak, çadırının gizli yerinde beni gizleyecek, kayada beni yükseltecek.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יצפנני",
-      "gloss": "beni gizleyecek"
+      "gloss": "beni saklayacak"
     },
     {
       "surface": "בסכה",
-      "gloss": "çardağında"
+      "gloss": "çadırında"
     },
     {
       "surface": "ביום",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "רעה",
-      "gloss": "kötülük"
+      "gloss": "kötü"
     },
     {
       "surface": "יסתרני",
-      "gloss": "beni saklayacak"
+      "gloss": "beni gizleyecek"
     },
     {
       "surface": "בסתר",
@@ -48,6 +48,6 @@
       "gloss": "beni yükseltecek"
     }
   ],
-  "timestamp": "2026-08-19T10:55:39.329873911Z",
+  "timestamp": "2026-08-24T17:10:38.314725970Z",
   "model": "glm-5.3"
 }

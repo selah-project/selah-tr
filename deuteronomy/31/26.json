@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 31,
-  "translation": "«Bu Tora kitabını al, onu sizin Elohim'iniz Yahve'nin ahit sandığının yanına koy; o, sana karşı tanıklık olarak orada sonsuza dek dursun.»",
+  "translation": "Bu Tevrat kitabını al ve ⟨את⟩ onu Yahve Elohim'iniz'in ahit sandığının yanına koy; orada size karşı ⟨bir⟩ tanık olarak sonsuza dek kalacaktır.",
   "tokens": [
     {
       "surface": "לקח",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tora kitabı"
+      "marks": "bu Tevrat kitabı"
     },
     {
       "surface": "ספר",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "התורה",
-      "gloss": "Tora"
+      "gloss": "Tevrat'ın"
     },
     {
       "surface": "הזה",
@@ -30,12 +30,11 @@
     },
     {
       "surface": "ושמתם",
-      "gloss": "koyun"
+      "gloss": "ve koyacaksınız"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "onun (kitabı)"
+      "gloss": "⟨את⟩ onu"
     },
     {
       "surface": "מצד",
@@ -43,7 +42,7 @@
     },
     {
       "surface": "ארון",
-      "gloss": "sandığı"
+      "gloss": "sandığının"
     },
     {
       "surface": "ברית",
@@ -51,15 +50,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve'nin"
+      "gloss": "Yahve"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim'iniz"
+      "gloss": "Elohim'iniz'in"
     },
     {
       "surface": "והיה",
-      "gloss": "olsun"
+      "gloss": "ve olacak"
     },
     {
       "surface": "שם",
@@ -67,13 +66,13 @@
     },
     {
       "surface": "בך",
-      "gloss": "sana karşı"
+      "gloss": "size karşı"
     },
     {
       "surface": "לעד",
       "gloss": "sonsuza dek"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.032805911Z",
+  "timestamp": "2026-08-24T17:02:41.992750593Z",
   "model": "glm-5.3"
 }

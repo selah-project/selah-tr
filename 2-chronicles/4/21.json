@@ -5,8 +5,37 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 4,
-  "translation": "ו çiçekler, kandiller ve maşalar altındandı — hepsi en saf altındandı.",
-  "tokens": [],
-  "timestamp": "2026-08-19T12:02:28.607071200Z",
+  "translation": "ve çiçekler, ve kandiller, ve maşalar — altın; o, tamamlanış olarak altındı.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "ve çiçekler"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "ve kandiller"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "ve maşalar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "tamamlanış olarak"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "altın"
+    }
+  ],
+  "timestamp": "2026-08-24T17:15:53.690446256Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Toprağının ürününü ve bütün emeğini, tanımadığın bir halk yiyecek; ve bütün günler yalnızca ⟨olacaksın⟩ ezilen ve碾ilen. KOREKSİYON: ve bütün günler yalnızca ezilen ve çiğnenen ⟨olacaksın⟩.",
+  "translation": "Toprağının meyvesini ve bütün emeğini tanımadığın bir halk yiyecek; ve ⟨sen⟩ yalnızca ezilmiş ve ezilmiş olacaksın bütün günler.",
   "tokens": [
     {
       "surface": "פרי",
-      "gloss": "ürününü"
+      "gloss": "meyvesini"
     },
     {
       "surface": "אדמתך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "...-madığın"
     },
     {
       "surface": "ידעת",
-      "gloss": "tanıdığın"
+      "gloss": "tanı"
     },
     {
       "surface": "והיית",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "עשוק",
-      "gloss": "ezilen"
+      "gloss": "ezilmiş"
     },
     {
       "surface": "ורצוץ",
-      "gloss": "ve çiğnenen"
+      "gloss": "ve ezilmiş"
     },
     {
       "surface": "כל",
@@ -68,6 +68,6 @@
       "gloss": "günler"
     }
   ],
-  "timestamp": "2026-08-19T09:04:58.507339449Z",
+  "timestamp": "2026-08-24T17:02:37.567571783Z",
   "model": "glm-5.3"
 }

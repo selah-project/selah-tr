@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve o zamanda YeHoŞua and içip şöyle dedi: Yahve'nin önünde lanetli olandır ⟨o⟩ adam ki kalkıp ⟨bu⟩ şehri, Yeriho'yu ⟨את⟩ yeniden inşa etsin: ilkdoğanıyla onun temelini atsın, en küçüğüyle kapılarını diker.",
+  "translation": "Ve Yehoşua o zamanda ant içip şöyle dedi: Yahve'nin önünde lanetli olandır ⟨o⟩ adam ki kalkıp ⟨את⟩ bu şehri, ⟨את⟩ Yeriho'yu inşa eder; en büyük oğlunda onun temelini atar ve en küçük oğlunda kapılarını diker.",
   "tokens": [
     {
       "surface": "וישבע",
-      "gloss": "ve and içti"
+      "gloss": "ve ant içip"
     },
     {
       "surface": "יהושע",
-      "gloss": "YeHoŞua"
+      "gloss": "Yehoşua"
     },
     {
       "surface": "בעת",
-      "gloss": "zamanında"
+      "gloss": "zamanda"
     },
     {
       "surface": "ההיא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahve'nin"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יקום",
-      "gloss": "kalkar"
+      "gloss": "kalkıp"
     },
     {
       "surface": "ובנה",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "şehri"
+      "marks": "bu şehri"
     },
     {
       "surface": "העיר",
-      "gloss": "şehir"
+      "gloss": "şehri"
     },
     {
       "surface": "הזאת",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "יריחו",
-      "gloss": "Yeriho"
+      "gloss": "Yeriho'yu"
     },
     {
       "surface": "בבכרו",
-      "gloss": "ilkdoğanıyla"
+      "gloss": "en büyük oğlunda"
     },
     {
       "surface": "ייסדנה",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "ובצעירו",
-      "gloss": "ve en küçüğüyle"
+      "gloss": "ve en küçük oğlunda"
     },
     {
       "surface": "יציב",
@@ -98,6 +98,6 @@
       "gloss": "kapılarını"
     }
   ],
-  "timestamp": "2026-08-19T09:08:26.087548682Z",
+  "timestamp": "2026-08-24T17:03:16.907716572Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 40,
-  "translation": "Kurban ve tahıl sunusu istemedin; kulaklar kazıdın ⟨לי⟩ bana; yakmalık ve günah sunusu istemedin.",
+  "translation": "Kurban ve tahıl sunusunu istemedin; kulaklarımı ⟨bana⟩ oyup açtın; yakmalık sunuyu ve günah sunusunu istemedin.",
   "tokens": [
     {
       "surface": "זבח",
-      "gloss": "Kurban"
+      "gloss": "kurban"
     },
     {
       "surface": "ומנחה",
-      "gloss": "ve tahıl sunusu"
+      "gloss": "ve tahıl sunusunu"
     },
     {
       "surface": "לא",
-      "gloss": "etmedin"
+      "gloss": "istemedin"
     },
     {
       "surface": "חפצת",
-      "gloss": "istedin \/ arzuladın"
+      "gloss": "arzu ettin"
     },
     {
       "surface": "אזנים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כרית",
-      "gloss": "kazıdın"
+      "gloss": "oydun"
     },
     {
       "surface": "לי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עולה",
-      "gloss": "yakmalık"
+      "gloss": "yakmalık sunu"
     },
     {
       "surface": "וחטאה",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "etmedin"
+      "gloss": "değil"
     },
     {
       "surface": "שאלת",
       "gloss": "istedin"
     }
   ],
-  "timestamp": "2026-08-19T10:57:04.315063256Z",
+  "timestamp": "2026-08-24T17:11:23.482840668Z",
   "model": "glm-5.3"
 }

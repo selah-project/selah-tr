@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 78,
-  "translation": "Doğu rüzgârını göklerde yola çıkardı ve gücünün gücüyle güney rüzgârını sevk etti — עֻזּוֹ ile.",
+  "translation": "Doğrüzgârını gökten yola çıkardı, gücüyle güney rüzgârını sevk etti.",
   "tokens": [
     {
       "surface": "יסע",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "קדים",
-      "gloss": "doğu rüzgârı"
+      "gloss": "Doğrüzgârını"
     },
     {
       "surface": "בשמים",
-      "gloss": "göklerde"
+      "gloss": "gökten"
     },
     {
       "surface": "וינהג",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "תימן",
-      "gloss": "güney rüzgârı"
+      "gloss": "güney rüzgârını"
     }
   ],
-  "timestamp": "2026-08-19T11:03:04.733743205Z",
+  "timestamp": "2026-08-24T17:11:50.293899244Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 66,
-  "translation": "Ben de onların alay konularını seçeceğim ve dehşetlerini onların başına getireceğim; çünkü çağırdım, cevap veren yok; konuştum, dinlemediler; ama gözlerimde kötü olanı yaptılar ve hoşlanmadığım şeyi seçtiler.",
+  "translation": "Çünkü ben de onların alay edilmelerini seçeceğim ve korkularını onların üzerine getireceğim; çağırdım ama ⟨⟨cevap veren⟩⟩ yoktu, konuştum ama dinlemediler; gözlerimin önünde kötülüğü yaptılar ve hoşnut olmadığım şeyi seçtiler.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "ben de\/even"
+      "gloss": "da"
     },
     {
       "surface": "אני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בתעלליהם",
-      "gloss": "onların alay konularını\/игнор edilmelerini"
+      "gloss": "onların alay edilmeleri"
     },
     {
       "surface": "ומגורתם",
-      "gloss": "ve dehşetlerini"
+      "gloss": "ve korkularını"
     },
     {
       "surface": "אביא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "onların başına"
+      "gloss": "onlara"
     },
     {
       "surface": "יען",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve değil"
+      "gloss": "ve olmadı"
     },
     {
       "surface": "שמעו",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "הרע",
-      "gloss": "kötü olanı"
+      "gloss": "kötülüğü"
     },
     {
       "surface": "בעיני",
-      "gloss": "gözlerimde"
+      "gloss": "gözlerimin önünde"
     },
     {
       "surface": "ובאשר",
-      "gloss": "ve -i ki"
+      "gloss": "ve o şeyde ki"
     },
     {
       "surface": "לא",
@@ -85,13 +85,13 @@
     },
     {
       "surface": "חפצתי",
-      "gloss": "hoşlandım"
+      "gloss": "hoşnut olmadım"
     },
     {
       "surface": "בחרו",
       "gloss": "seçtiler"
     }
   ],
-  "timestamp": "2026-08-19T10:04:37.130312010Z",
+  "timestamp": "2026-08-24T17:06:57.304310902Z",
   "model": "glm-5.3"
 }

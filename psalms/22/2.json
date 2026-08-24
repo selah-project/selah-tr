@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 22,
-  "translation": "El'im, El'im, beni neden bıraktın? Kurtuluşumdan uzak, kükreyişimin sözlerinden ⟨⟨uzak⟩⟩.",
+  "translation": "El'im benim, El'im benim, neden terk ettin beni? Kurtuluşumdan ⟨çok⟩ uzak, kükrüşümün sözleri ⟨uzak⟩.",
   "tokens": [
     {
       "surface": "אלי",
-      "gloss": "El'im"
+      "gloss": "El'im benim"
     },
     {
       "surface": "אלי",
-      "gloss": "El'im"
+      "gloss": "El'im benim"
     },
     {
       "surface": "למה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עזבתני",
-      "gloss": "beni bıraktın"
+      "gloss": "terk ettin beni"
     },
     {
       "surface": "רחוק",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "דברי",
-      "gloss": "sözlerinden"
+      "gloss": "sözleri"
     },
     {
       "surface": "שאגתי",
-      "gloss": "kükreyişimin"
+      "gloss": "kükrüşümün"
     }
   ],
-  "timestamp": "2026-08-19T10:55:12.952359647Z",
+  "timestamp": "2026-08-24T17:10:21.803150288Z",
   "model": "glm-5.3"
 }

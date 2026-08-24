@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 36,
-  "translation": "Dinlemeyin Hizkiya'ya, çünkü böyle dedi ⟨the⟩ kral — Assur kralı: Yapın benimle ⟨את⟩ bir barış ve çıkın bana ve yiyin her kişi kendi asmasını ve her kişi kendi incirini ve için her kişi kendi kuyusunun suyunu.",
+  "translation": "Hizkiyahu'ya kulak vermeyin; çünkü Aşşur kralı şöyle dedi: Benimle ⟨את⟩ bir anlaşma yapın ve bana çıkın; ve herkes kendi asmasından yesin, herkes kendi incir ağacından, ve herkes kendi sarnıcının suyunu içsin.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "-meyin"
+      "gloss": "me…-yin"
     },
     {
       "surface": "תשמעו",
-      "gloss": "dinleyin"
+      "gloss": "kulak vermeyin"
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "-ya"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizkiya"
+      "gloss": "Hizkiyahu"
     },
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "böyle"
+      "gloss": "şöyle"
     },
     {
       "surface": "אמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Assur"
+      "gloss": "Aşşur"
     },
     {
       "surface": "עשו",
@@ -49,12 +49,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "benimle ⟨את⟩",
-      "marks": "bir barış"
+      "gloss": "⟨את⟩ benimle",
+      "marks": "benimle (bir anlaşma)"
     },
     {
       "surface": "ברכה",
-      "gloss": "bir barış"
+      "gloss": "bir anlaşma (esenlik)"
     },
     {
       "surface": "וצאו",
@@ -66,31 +66,31 @@
     },
     {
       "surface": "ואכלו",
-      "gloss": "ve yiyin"
+      "gloss": "ve yesin"
     },
     {
       "surface": "איש",
-      "gloss": "her kişi"
+      "gloss": "herkes"
     },
     {
       "surface": "גפנו",
-      "gloss": "kendi asmasını"
+      "gloss": "kendi asması"
     },
     {
       "surface": "ואיש",
-      "gloss": "ve her kişi"
+      "gloss": "ve herkes"
     },
     {
       "surface": "תאנתו",
-      "gloss": "kendi incirini"
+      "gloss": "kendi incir ağacı"
     },
     {
       "surface": "ושתו",
-      "gloss": "ve için"
+      "gloss": "ve içsin"
     },
     {
       "surface": "איש",
-      "gloss": "her kişi"
+      "gloss": "herkes"
     },
     {
       "surface": "מי",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "בורו",
-      "gloss": "kendi kuyusunun"
+      "gloss": "kendi sarnıcı"
     }
   ],
-  "timestamp": "2026-08-19T09:58:08.920263181Z",
+  "timestamp": "2026-08-24T17:06:34.012099069Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Ve halktan bir adam yanıtladı ve dedi: Baban halkı kesinlikle antla yükümlü kıldı, şöyle diyerek: Bugün yiyecek yiyen adam lanetlidir; ve halk bitkin düştü.",
+  "translation": "O zaman halktan bir adam yanıtladı ve dedi: Baban halkı ⟨את⟩ antla bağladı, şöyle diyerek: Bugün yiyecek yiyen adam lanetlidir; ve halk bitkin düştü.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Ve yanıtladı"
+      "gloss": "yanıtladı"
     },
     {
       "surface": "איש",
-      "gloss": "bir adam"
+      "gloss": "adam"
     },
     {
       "surface": "מהעם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "השבע",
-      "gloss": "kesinlikle ant"
+      "gloss": "yemin ederek"
     },
     {
       "surface": "השביע",
-      "gloss": "antla yükümlü kıldı"
+      "gloss": "bağladı"
     },
     {
       "surface": "אביך",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "halk (העם)"
+      "marks": "halk"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ halkı"
+      "gloss": "halkı"
     },
     {
       "surface": "לאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ adam"
+      "gloss": "adam"
     },
     {
       "surface": "אשר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "לחם",
-      "gloss": "yiyecek\/ekmek"
+      "gloss": "yiyecek"
     },
     {
       "surface": "היום",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "ויעף",
-      "gloss": "ve bitkin düştü"
+      "gloss": "bitkin düştü"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ halk"
+      "gloss": "halk"
     }
   ],
-  "timestamp": "2026-08-19T09:24:10.879900020Z",
+  "timestamp": "2026-08-24T17:04:18.460432496Z",
   "model": "glm-5.3"
 }

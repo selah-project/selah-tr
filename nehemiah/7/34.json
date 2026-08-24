@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 7,
-  "translation": "⟨The⟩ Elam oğullarından ⟨diğer⟩ ⟨Elam⟩, bin iki yüz elli dört.",
+  "translation": "Diğer Eylam oğulları: bin iki yüz elli dört.",
   "tokens": [
     {
       "surface": "בני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עילם",
-      "gloss": "Elam"
+      "gloss": "Eylam"
     },
     {
       "surface": "אחר",
@@ -36,6 +36,6 @@
       "gloss": "dört"
     }
   ],
-  "timestamp": "2026-08-19T11:49:53.952006124Z",
+  "timestamp": "2026-08-24T17:15:32.940835965Z",
   "model": "glm-5.3"
 }

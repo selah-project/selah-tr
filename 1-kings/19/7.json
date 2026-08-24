@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve Yahve'nin meleği ikinci kez döndü ve ona dokundu ve dedi: Kalk, ye, çünkü ⟨⟨senin için⟩⟩ yol çok ⟨uzun⟩dur.",
+  "translation": "Yahve'nin meleği ikinci kez dönüp ona dokundu ve dedi: Kalk, ye; çünkü yol senden ⟨çok⟩ büyük.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "ve döndü"
+      "gloss": "dönüp"
     },
     {
       "surface": "מלאך",
-      "gloss": "melek"
+      "gloss": "meleği"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahve'nin"
     },
     {
       "surface": "שנית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויגע",
-      "gloss": "ve dokundu"
+      "gloss": "dokundu"
     },
     {
       "surface": "בו",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "רב",
-      "gloss": "çok"
+      "gloss": "çok büyük"
     },
     {
       "surface": "ממך",
-      "gloss": "senin için"
+      "gloss": "senden"
     },
     {
       "surface": "הדרך",
       "gloss": "yol"
     }
   ],
-  "timestamp": "2026-08-19T09:42:07.748759789Z",
+  "timestamp": "2026-08-24T17:05:14.539734176Z",
   "model": "glm-5.3"
 }

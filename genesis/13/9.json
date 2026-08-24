@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Bütün ⟨the⟩ arz önünde değil mi? Lütfen ⟨נא⟩ benden ayrıl: sol ⟨tarafta⟩ ⟨isen⟩ ben sağa ⟨giderim⟩, sağ ⟨tarafta⟩ ⟨isen⟩ ben sola ⟨giderim⟩.",
+  "translation": "Bütün ⟨⟨the⟩⟩ yer senin önünde ⟨is⟩ değil mi? Lütfen ⟨נא⟩ benden ayrıl; sol ⟨taraf⟩ mı, ben sağa ⟨gideceğim⟩; sağ ⟨taraf⟩ mı, ben sola ⟨gideceğim⟩.",
   "tokens": [
     {
       "surface": "הלא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "arz"
+      "gloss": "yer"
     },
     {
       "surface": "לפניך",
-      "gloss": "önünde"
+      "gloss": "senin önünde"
     },
     {
       "surface": "הפרד",
@@ -60,6 +60,6 @@
       "gloss": "ben sola"
     }
   ],
-  "timestamp": "2026-08-19T06:57:57.740815241Z",
+  "timestamp": "2026-08-24T16:59:05.831731714Z",
   "model": "glm-5.3"
 }

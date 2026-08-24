@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 74,
-  "translation": "Mabedine ateş saldılar; adının meskenini yere ⟨ואת⟩ kadar alçaltıp kirlettiler.",
+  "translation": "Ateş gönderdiler mukaddes yerine; adının meskenini yere ⟨באש׷⟩ kirlettiler ⟨için aşağı attılar⟩",
   "tokens": [
     {
       "surface": "שלחו",
-      "gloss": "saldılar"
+      "gloss": "gönderdiler"
     },
     {
       "surface": "באש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מקדשך",
-      "gloss": "mabedine"
+      "gloss": "mukaddes yerine"
     },
     {
       "surface": "לארץ",
@@ -36,6 +36,6 @@
       "gloss": "adının"
     }
   ],
-  "timestamp": "2026-08-19T11:02:35.297244201Z",
+  "timestamp": "2026-08-24T17:11:40.825434363Z",
   "model": "glm-5.3"
 }

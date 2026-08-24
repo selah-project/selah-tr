@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Çünkü kötü, canının arzusunu över, kazanç peşindekoşan ⟨⟨rahmet diler⟩⟩; Yahve'yi hor görür.",
+  "translation": "Çünkü kötü, canının arzusunu övüp durur; haksız kazancı kutsar, Yahve'yi hor görür.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "çünkü"
+      "gloss": "Çünkü"
     },
     {
       "surface": "הלל",
-      "gloss": "över"
+      "gloss": "övüp durur"
     },
     {
       "surface": "רשע",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "hakkında"
+      "gloss": "-i"
     },
     {
       "surface": "תאות",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ובצע",
-      "gloss": "ve kazanç peşindekineden"
+      "gloss": "haksız kazancı"
     },
     {
       "surface": "ברך",
-      "gloss": "rahmet diler"
+      "gloss": "kutsar"
     },
     {
       "surface": "נאץ",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahve'yi"
     }
   ],
-  "timestamp": "2026-08-19T10:53:31.093609897Z",
+  "timestamp": "2026-08-24T17:10:50.045260073Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Yahve'ye çalın-söyleyin, çünkü yücelikler yaptı; bu, bütün ⟨⟨the⟩⟩ yeryüzünde bilinir oldu.",
+  "translation": "Yahve'ye çalgı çalıp ezgi söyleyin, çünkü yüce işler yaptı; bu, bütün ⟨את⟩ yeryüzünde bildirilsin.",
   "tokens": [
     {
       "surface": "זמרו",
-      "gloss": "çalın-söyleyin"
+      "gloss": "ezgi söyleyin"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahve'ye"
     },
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גאות",
-      "gloss": "yücelikler"
+      "gloss": "yüce işler"
     },
     {
       "surface": "עשה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מידעת",
-      "gloss": "bilinir oldu"
+      "gloss": "bildirilsin"
     },
     {
       "surface": "זאת",
@@ -44,6 +44,6 @@
       "gloss": "yeryüzünde"
     }
   ],
-  "timestamp": "2026-08-19T09:53:00.259059796Z",
+  "timestamp": "2026-08-24T17:05:49.009771903Z",
   "model": "glm-5.3"
 }

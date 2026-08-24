@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 17,
-  "translation": "Ve dedi: Çünkü bir el, Yah'ın ⟨ה⟩ tahtının üstünde — Yahve'ye karşı savaş Amalek ile, kuşaktan kuşağa.",
+  "translation": "Ve dedi: «Çünkü el, Yah'ın ⟨כס⟩ üzerine ⟨uzanmıştır⟩ — Yahve'nin ⟨savaşı⟩ Amalek'e karşı, dördön dördür.»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "על",
-      "gloss": "üstünde"
+      "gloss": "üzerine"
     },
     {
       "surface": "כס",
-      "gloss": "tahtının"
+      "gloss": "taht"
     },
     {
       "surface": "יה",
-      "gloss": "Yah'ın"
+      "gloss": "Yah"
     },
     {
       "surface": "מלחמה",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahve'ye"
+      "gloss": "Yahve'ye ait"
     },
     {
       "surface": "בעמלק",
-      "gloss": "Amalek ile"
+      "gloss": "Amalek'e karşı"
     },
     {
       "surface": "מדר",
-      "gloss": "kuşaktan"
+      "gloss": "dördön"
     },
     {
       "surface": "דר",
-      "gloss": "kuşağa"
+      "gloss": "dördür"
     }
   ],
-  "timestamp": "2026-08-19T07:14:45.605242280Z",
+  "timestamp": "2026-08-24T16:59:44.492308390Z",
   "model": "glm-5.3"
 }

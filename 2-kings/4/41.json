@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 4,
-  "translation": "Ve o dedi: \"Un getirin.\" O da onu kazana attı ve dedi: \"Halk için dök ki yesinler.\" Ve kazanda kötü bir şey yoktu.",
+  "translation": "Ve o dedi: «Un getirin.» O da onu kazana attı ve dedi: «Halk için dök, yesinler.» Ve kazanda ⟨hiç⟩ kötü ⟨bir⟩ şey yoktu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ve dedi"
+      "gloss": "ve o dedi"
     },
     {
       "surface": "וקחו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הסיר",
-      "gloss": "⟨the⟩ kazana"
+      "gloss": "kazan"
     },
     {
       "surface": "ויאמר",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "ויאכלו",
-      "gloss": "ki yesinler"
+      "gloss": "ve yesinler"
     },
     {
       "surface": "ולא",
-      "gloss": "ve değil"
+      "gloss": "ve yoktu"
     },
     {
       "surface": "היה",
-      "gloss": "vardı"
+      "gloss": "var idi"
     },
     {
       "surface": "דבר",
-      "gloss": "bir şey"
+      "gloss": "şey"
     },
     {
       "surface": "רע",
@@ -68,6 +68,6 @@
       "gloss": "kazanda"
     }
   ],
-  "timestamp": "2026-08-19T09:44:36.922422012Z",
+  "timestamp": "2026-08-24T17:05:21.041234303Z",
   "model": "glm-5.3"
 }

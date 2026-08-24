@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Bir ondalık, bir ondalık yapacaksın ⟨⟨her⟩⟩ bir kuzu için, yedi kuzu için.",
+  "translation": "Bir ondalık, bir ondalık yapacaksın tek kuzuya, yedi kuzunun her birine.",
   "tokens": [
     {
       "surface": "עשרון",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "לכבש",
-      "gloss": "kuzu için"
+      "gloss": "kuzuya"
     },
     {
       "surface": "האחד",
-      "gloss": "bir"
+      "gloss": "tek"
     },
     {
       "surface": "לשבעת",
-      "gloss": "yedi"
+      "gloss": "yedisine"
     },
     {
       "surface": "הכבשים",
-      "gloss": "kuzular"
+      "gloss": "kuzuların"
     }
   ],
-  "timestamp": "2026-08-19T07:41:34.220865386Z",
+  "timestamp": "2026-08-24T17:02:04.849410352Z",
   "model": "glm-5.3"
 }

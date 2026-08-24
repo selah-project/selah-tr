@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 17,
-  "translation": "Ve ⟨את-o⟩ buluşma çadırının girişine Yahve'⟨e⟩ sunmak için getirmezse, o kişi kavminden kesilecektir.",
+  "translation": "Ve ⟨את⟩ onu Yahve'ye sunmak için toplantı çadırının girişine getirmezse, o kişi kavminden kesilmiş olacaktır.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "ve...-e"
+      "gloss": "ve ... -e"
     },
     {
       "surface": "פתח",
-      "gloss": "giriş"
+      "gloss": "girişi"
     },
     {
       "surface": "אהל",
-      "gloss": "çadır"
+      "gloss": "çadırının"
     },
     {
       "surface": "מועד",
-      "gloss": "buluşma"
+      "gloss": "toplantı"
     },
     {
       "surface": "לא",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "יביאנו",
-      "gloss": "onu getirmez"
+      "gloss": "getirmezse"
     },
     {
       "surface": "לעשות",
-      "gloss": "yapmak için"
+      "gloss": "sunmak için"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-onu",
-      "marks": "onu (kurbanı)"
+      "gloss": "⟨את⟩",
+      "marks": "onu"
     },
     {
-      "surface": "ליהוָה",
+      "surface": "ליהוה",
       "gloss": "Yahve'ye"
     },
     {
       "surface": "ונכרת",
-      "gloss": "ve kesilecek"
+      "gloss": "ve kesilmiş olacak"
     },
     {
       "surface": "האיש",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "şu"
+      "gloss": "işte o"
     },
     {
       "surface": "מעמיו",
       "gloss": "kavminden"
     }
   ],
-  "timestamp": "2026-08-19T07:27:52.652212104Z",
+  "timestamp": "2026-08-24T17:01:13.421188748Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Ateşe ⟨⟨odun⟩⟩ olacaksın ⟨את⟩ ateş için yakıt, kanın ülkenin ortasında olacak; hatırlanmayacaksın; çünkü ben Yahve konuştum.",
+  "translation": "Ateşe yakıt olacaksın, ⟨senin⟩ kanın ülkenin ortasında kalacak, ⟨ve⟩ anılmayacaksın; çünkü ben Yahve konuştum.",
   "tokens": [
     {
       "surface": "לאש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לאכלה",
-      "gloss": "yakıt için"
+      "gloss": "yakıt olarak"
     },
     {
       "surface": "דמך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "…mayacaksın"
+      "gloss": "olmayacak"
     },
     {
       "surface": "תזכרי",
-      "gloss": "hatırlan"
+      "gloss": "anılmayacaksın"
     },
     {
       "surface": "כי",
@@ -60,6 +60,6 @@
       "gloss": "konuştum"
     }
   ],
-  "timestamp": "2026-08-19T10:28:13.467190096Z",
+  "timestamp": "2026-08-24T17:08:50.108666357Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve koruyacaksınız ⟨את⟩ kurallarımı ve ⟨את⟩ hükümlerimi, ki onları insan yaparsa onlarla yaşar; ben Yahve.",
+  "translation": "Ve ⟨את⟩ hukuklarımı ve ⟨את⟩ mişpatlarımı koruyacaksınız; onları insan yaparsa ve onlarla yaşayacak — ben Yahve.",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -14,20 +14,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kurallarımı"
+      "marks": "hukuklarımı"
     },
     {
       "surface": "חקתי",
-      "gloss": "kurallarımı"
+      "gloss": "hukuklarımı"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "hükümlerimi"
+      "marks": "mişpatlarımı"
     },
     {
       "surface": "משפטי",
-      "gloss": "hükümlerimi"
+      "gloss": "mişpatlarımı"
     },
     {
       "surface": "אשר",
@@ -39,8 +39,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları",
+      "marks": "insan"
     },
     {
       "surface": "האדם",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "וחי",
-      "gloss": "ve yaşar"
+      "gloss": "ve yaşayacak"
     },
     {
       "surface": "בהם",
@@ -63,6 +63,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.037930964Z",
+  "timestamp": "2026-08-24T17:01:15.842562637Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Niçin Yahve'nin sözünü hor gördün, gözlerinin önünde kötülüğü yapmak için? ⟨את⟩ Uriyah the Hittite'yi kılıçla vurduk — Hebrew names per discipline: אוריה החתי = Uriyah Hititli. Use: Uriyah Hitit'ı kılıçla vurdun, ve ⟨את⟩ karısını kendine karı olarak aldın, ve onu ⟨אתו⟩ Ammonoğullarının kılıcıyla öldürdün.",
+  "translation": "Neden Yahve'nin sözünü küçümsedin, ⟨onun⟩ gözünde kötülüğü yapmak için? ⟨את⟩ Uriyah the Hitti'yi kılıçla vurdun, ⟨את⟩ karısını kendine karı olarak aldın ⟨את⟩ ve onu Ammon oğullarının kılıcıyla öldürdün.",
   "tokens": [
     {
       "surface": "מדוע",
-      "gloss": "niçin"
+      "gloss": "neden"
     },
     {
       "surface": "בזית",
-      "gloss": "hor gördün"
+      "gloss": "küçümsedin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sözü"
+      "marks": "sözünü"
     },
     {
       "surface": "דבר",
@@ -38,20 +38,20 @@
     },
     {
       "surface": "בעינו",
-      "gloss": "gözlerinin önünde"
+      "gloss": "onun gözünde"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Uriyah Hitit'i"
+      "marks": "Uriyah the Hitti'yi"
     },
     {
       "surface": "אוריה",
-      "gloss": "Uriyah"
+      "gloss": "Uriyah the Hitti"
     },
     {
       "surface": "החתי",
-      "gloss": "Hitit'li"
+      "gloss": "Hitti"
     },
     {
       "surface": "הכית",
@@ -84,8 +84,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "ve onu ⟨את⟩",
-      "marks": "onu"
+      "gloss": "⟨את⟩ ve onu"
     },
     {
       "surface": "הרגת",
@@ -104,6 +103,6 @@
       "gloss": "Ammon"
     }
   ],
-  "timestamp": "2026-08-19T09:31:17.419456584Z",
+  "timestamp": "2026-08-24T17:16:57.463291491Z",
   "model": "glm-5.3"
 }

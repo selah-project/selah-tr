@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Ve bütün görüm sizin için mühürlü kitabın sözleri gibi oldu: Onu yazı bilene verip 'Bunu oku, rica ederim' dediklerinde, o 'Okuyamam, çünkü mühürlüdür' der.",
+  "translation": "Ve tümünüz için görüm, mühürlü kitabın sözleri gibi oldu — onu kitabı bilene verip \"Şunu oku, rica ederim\" dediklerinde, o \"Okuyamam, çünkü o mühürlüdür\" der.",
   "tokens": [
     {
       "surface": "ותהי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הכל",
-      "gloss": "bütün"
+      "gloss": "tümü"
     },
     {
       "surface": "כדברי",
-      "gloss": "gibi sözleri"
+      "gloss": "sözleri gibi"
     },
     {
       "surface": "הספר",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "onu (kitabı)"
+      "gloss": "⟨את⟩",
+      "marks": "onu"
     },
     {
       "surface": "אל",
-      "gloss": "kişiye"
+      "gloss": "o kişiye"
     },
     {
       "surface": "יודע",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הספר",
-      "gloss": "yazı"
+      "gloss": "kitabı"
     },
     {
       "surface": "לאמר",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "bunu"
+      "gloss": "şunu"
     },
     {
       "surface": "ואמר",
@@ -94,13 +94,13 @@
     },
     {
       "surface": "חתום",
-      "gloss": "mühürlüdür"
+      "gloss": "mühürlü"
     },
     {
       "surface": "הוא",
-      "gloss": "o"
+      "gloss": "odur"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.040122003Z",
+  "timestamp": "2026-08-24T17:06:45.362815801Z",
   "model": "glm-5.3"
 }

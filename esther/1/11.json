@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Kraliyet tacını takarak Vaşti ⟨ה⟩kraliçeyi kralın önüne getirmek için — halklara ve saraylılara ⟨את⟩ güzelliğini göstermek üzere; çünkü görünüşü güzeldi ⟨o⟩.",
+  "translation": "Getirmek için ⟨את⟩ Vaşti kraliçeyi kralın önüne krallık tacıyla, halklara ve saraylılara onun güzelliğini göstermek için; çünkü görünüşü güzeldi o.",
   "tokens": [
     {
       "surface": "להביא",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Vaşti"
+      "marks": "Vaşti kraliçeyi"
     },
     {
       "surface": "ושתי",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "kral"
+      "gloss": "kralın"
     },
     {
       "surface": "בכתר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מלכות",
-      "gloss": "krallığın"
+      "gloss": "krallık"
     },
     {
       "surface": "להראות",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "העמים",
-      "gloss": "halklar"
+      "gloss": "halklara"
     },
     {
       "surface": "והשרים",
-      "gloss": "ve saraylılar"
+      "gloss": "ve saraylılara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "güzelliği"
+      "marks": "onun güzelliğini"
     },
     {
       "surface": "יפיה",
-      "gloss": "güzelliği"
+      "gloss": "onun güzelliği"
     },
     {
       "surface": "כי",
@@ -78,6 +78,6 @@
       "gloss": "o"
     }
   ],
-  "timestamp": "2026-08-19T11:39:12.640662845Z",
+  "timestamp": "2026-08-24T17:15:03.142423388Z",
   "model": "glm-5.3"
 }

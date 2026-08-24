@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Bu ⟨⟨dir⟩⟩ hayvanların, kuşların, suda hareket eden her canlı nefesin ve toprak üzerinde sürünen her nefesin töresidir.",
+  "translation": "Bu ⟨⟨the⟩⟩ hayvanların ve kuşların ve sularda sürünen her canlının ve yer üzerinde sürünen her canlının töresi budur.",
   "tokens": [
     {
       "surface": "זאת",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "hayvanın"
+      "gloss": "hayvanların"
     },
     {
       "surface": "והעוף",
-      "gloss": "ve kuşun"
+      "gloss": "ve kuşların"
     },
     {
       "surface": "וכל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "canlı nefesin"
+      "gloss": "canlının"
     },
     {
       "surface": "החיה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "הרמשת",
-      "gloss": "hareket eden"
+      "gloss": "sürünen"
     },
     {
       "surface": "במים",
-      "gloss": "suda"
+      "gloss": "sularda"
     },
     {
       "surface": "ולכל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "nefesin"
+      "gloss": "canlıya"
     },
     {
       "surface": "השרצת",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "toprağın"
+      "gloss": "yer"
     }
   ],
-  "timestamp": "2026-08-19T07:24:58.292452691Z",
+  "timestamp": "2026-08-24T17:00:59.440747205Z",
   "model": "glm-5.3"
 }

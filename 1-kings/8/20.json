@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve Yahve ⟨את⟩ sözünü — ⟨o⟩ konuştuğu ⟨sözu⟩ — yerine getirdi; ben David babamın yerine kalktım ve Yahve'nin konuştuğu gibi İsrail tahtına ⟨o⟩turdum ve Yahve'yi, İsrail'in Elohim'i'ni ⟨⟨adına⟩⟩ evi ⟨inşa ettim⟩.",
+  "translation": "Ve Yahve ⟨את⟩ sözünü yerine getirdi — ⟨את⟩ konuştuğu sözü; ve David atamın yerine kalktım ve İsrail tahtına oturdum, Yahve'nin konuştuğu gibi; ve evi inşa ettim Yahve'nin, İsrail'in Elohim'i'nin adına.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "ve yerine getirdi"
+      "gloss": "ve ... yerine getirdi"
     },
     {
       "surface": "יהוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "konuştu"
+      "gloss": "konuştuğu"
     },
     {
       "surface": "ואקם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "babamın"
+      "gloss": "atam"
     },
     {
       "surface": "ואשב",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "כסא",
-      "gloss": "taht"
+      "gloss": "tahtına"
     },
     {
       "surface": "ישראל",
@@ -90,17 +90,17 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahve'nin"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim'i"
+      "gloss": "Elohim'i'nin"
     },
     {
       "surface": "ישראל",
       "gloss": "İsrail'in"
     }
   ],
-  "timestamp": "2026-08-19T09:38:28.929601723Z",
+  "timestamp": "2026-08-24T17:05:07.393511746Z",
   "model": "glm-5.3"
 }

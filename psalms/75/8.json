@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 75,
-  "translation": "Çünkü Elohim ⟨שׁוֹפֵט'tir⟩ yargıçtır: ⟨בirini⟩ şunu alçaltır ve ⟨birini⟩ şunu yüceltir.",
+  "translation": "Çünkü Elohim yargıçtır: ⟨bunu⟩ alçaltır ve ⟨şunu⟩ yüceltir.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "şunu"
+      "gloss": "⟨bunu⟩"
     },
     {
       "surface": "ישפיל",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "וזה",
-      "gloss": "ve şunu"
+      "gloss": "ve ⟨şunu⟩"
     },
     {
       "surface": "ירים",
       "gloss": "yüceltir"
     }
   ],
-  "timestamp": "2026-08-19T11:02:54.172837924Z",
+  "timestamp": "2026-08-24T17:11:48.208181534Z",
   "model": "glm-5.3"
 }

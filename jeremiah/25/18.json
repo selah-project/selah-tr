@@ -5,21 +5,21 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 25,
-  "translation": "⟨את⟩ Yeruşalayim'i ve ⟨את⟩ Yahuda'nın şehirlerini ve ⟨את⟩ onun krallarını ⟨את⟩ onun önderlerini — onları ıssızlığa, yıkıma, ıslığa ve lanete vermek için, ⟨bu⟩ gün olduğu gibi.",
+  "translation": "⟨את⟩ Yeruşalayim'i ve ⟨את⟩ Yehuda'nın şehirlerini ve ⟨את⟩ krallarını, ⟨את⟩ önderlerini — onları ıssız yıkıma, dehşete, ıslıklara ve lanete vermek için, tıpkı ⟨bu⟩ gün olduğu gibi.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yeruşalayim'i"
+      "marks": "Yeruşalayim"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yeruşalayim'i"
+      "gloss": "Yeruşalayim"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "şehirlerini"
+      "marks": "şehirleri"
     },
     {
       "surface": "ערי",
@@ -27,7 +27,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yahuda'nın"
+      "gloss": "Yehuda'nın"
     },
     {
       "surface": "ואת",
@@ -53,20 +53,19 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları"
     },
     {
       "surface": "לחרבה",
-      "gloss": "ıssızlığa"
+      "gloss": "ıssız yıkıma"
     },
     {
       "surface": "לשמה",
-      "gloss": "yıkıma"
+      "gloss": "dehşete"
     },
     {
       "surface": "לשרקה",
-      "gloss": "ıslığa"
+      "gloss": "ıslıklara"
     },
     {
       "surface": "ולקללה",
@@ -81,6 +80,6 @@
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.020562514Z",
+  "timestamp": "2026-08-24T17:07:15.226561925Z",
   "model": "glm-5.3"
 }

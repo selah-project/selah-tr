@@ -5,8 +5,73 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Çünkü onlar ve davarları yükselecek, çadırlarıyla geleceklerdi — çekgeyi kadar çok, sayısız davarları ve develeriyle; ve ülkeye gelip onu yoz ettiler.",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:16:00.564617579Z",
+  "translation": "Çünkü onlar ve davarları çıkagelirlerdi, çadırlarıyla birlikte gelirlerdi — bir çekirge sürüsü gibi çoklukta; onların ve develerinin sayısı yoktu; ve ülkeye girip onu harap ettiler.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünkü"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "ve davarları"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "çıkagelirlerdi"
+    },
+    {
+      "surface": "ואהליהם",
+      "gloss": "ve çadırları"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "gelirlerdi"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "bir ... gibi"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "çekirge"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "çoklukta"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ve onların"
+    },
+    {
+      "surface": "ולגמליהם",
+      "gloss": "ve develerinin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yok"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayısı"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ve geldiler"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ülkeye"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "onu harap etmeye"
+    }
+  ],
+  "timestamp": "2026-08-24T17:03:16.846490624Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 45,
-  "translation": "Ve sesini ⟨את⟩ ağlayarak yükseltti; Mısır duyunca, firavun ⟨⟨the⟩⟩ evi de duydu.",
+  "translation": "Ve sesini ağlayışta yükseltti; Mısır duyd⟨u⟩ ve Paroh'un evi duy⟨du⟩.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "ve verdi"
+      "gloss": "ve yükseltti"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "בבכי",
-      "gloss": "ağlayarak"
+      "gloss": "ağlayışta"
     },
     {
       "surface": "וישמעו",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mısır"
+      "gloss": "Mısır (halkı)"
     },
     {
       "surface": "וישמע",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "firavun"
+      "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-08-19T07:08:40.681218143Z",
+  "timestamp": "2026-08-24T17:00:01.655758994Z",
   "model": "glm-5.3"
 }

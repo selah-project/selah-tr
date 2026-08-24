@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 65,
-  "translation": "Sana sessizlikle övgü, Elohim, Tsiyon'da; ve sana ⟨⟨edilen⟩⟩ adak ödenecek.",
+  "translation": "Sana sessizlik ⟨⟩ bir övgü, ey Elohim, Siyon'da; ve sana ⟨ olacak⟩ adak ödenecek.",
   "tokens": [
     {
       "surface": "לך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דמיה",
-      "gloss": "sessizlikle"
+      "gloss": "sessizlik"
     },
     {
       "surface": "תהלה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בציון",
-      "gloss": "Tsiyon'da"
+      "gloss": "Siyon'da"
     },
     {
       "surface": "ולך",
@@ -40,6 +40,6 @@
       "gloss": "adak"
     }
   ],
-  "timestamp": "2026-08-19T11:01:12.753543023Z",
+  "timestamp": "2026-08-24T17:11:16.599007512Z",
   "model": "glm-5.3"
 }

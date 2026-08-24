@@ -5,8 +5,69 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Sana buyurmadım mı: Güçlü ol ve yürekli; korkma ve yılgınlığa düşme; çünkü seninle birlikte Yahve, Elohim'in ⟨⟨her yerde⟩⟩ — bütün gittiğin yerde senin Elohim'in Yahve ⟨⟨dir⟩⟩. Sen nereye gidersen senin Elohim'in Yahve seninledir.",
-  "tokens": [],
-  "timestamp": "2026-08-19T12:13:03.049291412Z",
+  "translation": "Sana emretmedim mi? Güçlü ol ve yürekli; korkma ve yılgınlığa düşme, çünkü seninle birlikte Yahve, Elohim'in, ⟨⟨her⟩⟩ gideceğin her yerde.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "değil mi"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "sana emrettim"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "güçlü ol"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ve yürekli ol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sakın"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "korkma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ve sakın"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yılgınlığa düşme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "seninle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gideceğin"
+    }
+  ],
+  "timestamp": "2026-08-24T17:02:50.899083244Z",
   "model": "glm-5.3"
 }

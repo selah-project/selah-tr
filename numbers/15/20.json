@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 15,
-  "translation": "Hamurunuzun ilk ürünü olarak bir hala sunusu yükselteceksiniz — harmandaki teruma gibi; öylece onu ⟨את⟩ ⟨אתה⟩ yükselteceksiniz",
+  "translation": "İlklerinizi, hamurunuzun ⟨bir⟩ çörek olarak takdim edeceksiniz; harman takdidesi gibi onu öylece yükselteceksiniz ⟨את⟩ onu.",
   "tokens": [
     {
       "surface": "ראשית",
-      "gloss": "ilk ürünü"
+      "gloss": "ilkler"
     },
     {
       "surface": "ערסתכם",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "חלה",
-      "gloss": "bir hala"
+      "gloss": "çörek"
     },
     {
       "surface": "תרימו",
-      "gloss": "yükselteceksiniz"
+      "gloss": "yükselteceksiniz (takdim edeceksiniz)"
     },
     {
       "surface": "תרומה",
-      "gloss": "sunu"
+      "gloss": "takdide"
     },
     {
       "surface": "כתרומת",
-      "gloss": "gibi"
+      "gloss": "takdidesi gibi"
     },
     {
       "surface": "גרן",
-      "gloss": "harmanın"
+      "gloss": "harman"
     },
     {
       "surface": "כן",
@@ -45,10 +45,10 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨אתה⟩",
+      "gloss": "⟨את⟩",
       "marks": "onu"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.041642188Z",
+  "timestamp": "2026-08-24T17:01:36.740147005Z",
   "model": "glm-5.3"
 }

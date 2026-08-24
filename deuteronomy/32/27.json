@@ -5,35 +5,35 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 32,
-  "translation": "Düşmanın öfkesinden korkmasam, sıkıntı verenler ⟨בנו⟩ yücelir, «Yüceltti bizim elimiz, Yahve değil, bütün bunları yapan» derlerdi.",
+  "translation": "Eğer düşmanın öfkesinden çekinmeseydim, onların sıkıntıları ⟨sıkıntı verenleri⟩ tanınmaz olurdu, yoksa derlerdi ki: «Yüksek olan bizim elimizdir, bütün bunları Yahve yapmadı».",
   "tokens": [
     {
       "surface": "לולי",
-      "gloss": "olmasaydı"
+      "gloss": "eğer ... olmasaydı"
     },
     {
       "surface": "כעס",
-      "gloss": "öfke"
+      "gloss": "öfkesinden"
     },
     {
       "surface": "אויב",
-      "gloss": "düşman"
+      "gloss": "düşmanın"
     },
     {
       "surface": "אגור",
-      "gloss": "korkarım"
+      "gloss": "çekinmeseydim"
     },
     {
       "surface": "פן",
-      "gloss": "yoksa \/ -mesinler diye"
+      "gloss": "yoksa"
     },
     {
       "surface": "ינכרו",
-      "gloss": "yanlış yargılarlar \/ yabancı sayarlar"
+      "gloss": "tanınmaz olurdu"
     },
     {
       "surface": "צרימו",
-      "gloss": "sıkıntı verenleri"
+      "gloss": "onların sıkıntıları"
     },
     {
       "surface": "פן",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "derler"
+      "gloss": "derlerdi"
     },
     {
       "surface": "ידינו",
-      "gloss": "elimiz"
+      "gloss": "bizim elimiz"
     },
     {
       "surface": "רמה",
-      "gloss": "yücelmiştir"
+      "gloss": "yüksek oldu"
     },
     {
       "surface": "ולא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "פעל",
-      "gloss": "yapan"
+      "gloss": "yapmadı"
     },
     {
       "surface": "כל",
@@ -72,6 +72,6 @@
       "gloss": "bunu"
     }
   ],
-  "timestamp": "2026-08-19T09:06:42.097393793Z",
+  "timestamp": "2026-08-24T17:02:46.340366282Z",
   "model": "glm-5.3"
 }

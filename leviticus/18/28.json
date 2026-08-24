@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve ⟨the⟩ ülke, onu kirlettiğinizde sizi kusmasın — tıpkı sizden önceki ulusu kustuğu gibi.",
+  "translation": "Ve ülke, onu murdarladığınızda ⟨את⟩ sizi kusup atmasın — sizden önceki ulusu kustuğu gibi.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ve ... -mesin"
+      "gloss": "ve ... -masın"
     },
     {
       "surface": "תקיא",
-      "gloss": "kusmasın"
+      "gloss": "kusup atmasın"
     },
     {
       "surface": "הארץ",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "בטמאכם",
-      "gloss": "onu kirlettiğinizde"
+      "gloss": "onu murdarladığınızda"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩ onu",
-      "marks": "onu"
+      "marks": "onu (ülkeyi)"
     },
     {
       "surface": "כאשר",
-      "gloss": "tıpkı gibi"
+      "gloss": "gibi"
     },
     {
       "surface": "קאה",
@@ -56,9 +56,9 @@
     },
     {
       "surface": "לפניכם",
-      "gloss": "sizden önce"
+      "gloss": "sizden önceki"
     }
   ],
-  "timestamp": "2026-08-19T07:27:46.453803381Z",
+  "timestamp": "2026-08-24T17:01:32.487657798Z",
   "model": "glm-5.3"
 }

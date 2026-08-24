@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Bütün yerin halklarının bilmesi için: Yahve'dir O, ⟨⟨the⟩⟩ Elohim'dir; başkası yoktur.",
+  "translation": "Bütün yerlerin halkları bilsin diye ki, Yahve ⟨O⟩'dur ⟨אלהים'ın⟩ — O'dur Elohim; başkası yoktur.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "için"
+      "gloss": "diye ki"
     },
     {
       "surface": "דעת",
-      "gloss": "bilmesi"
+      "gloss": "bilsinler"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "halklarının"
+      "gloss": "halkları"
     },
     {
       "surface": "הארץ",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "O"
+      "gloss": "O'dur"
     },
     {
       "surface": "האלהים",
@@ -52,6 +52,6 @@
       "gloss": "başkası"
     }
   ],
-  "timestamp": "2026-08-19T09:38:46.070234146Z",
+  "timestamp": "2026-08-24T17:05:05.125287988Z",
   "model": "glm-5.3"
 }

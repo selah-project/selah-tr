@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Yahve'ye dedim: «Sen benim Adonay'ımsın; ⟨⟨senin⟩⟩ dışında ⟨⟨hiçbir⟩⟩ iyiliğim ⟨yok⟩.»",
+  "translation": "Yahve'ye dedim: \"Adonay sensin; iyiliğim ⟨את⟩'siz ⟨senden⟩ başka değil — ⟨senin üzerinde değil⟩.\" ",
   "tokens": [
     {
       "surface": "אמרת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "Sen"
+      "gloss": "sensin"
     },
     {
       "surface": "טובתי",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "בל",
-      "gloss": "yok \/ hiçbir"
+      "gloss": "değil"
     },
     {
       "surface": "עליך",
-      "gloss": "senin dışında"
+      "gloss": "sana"
     }
   ],
-  "timestamp": "2026-08-19T10:54:05.466352736Z",
+  "timestamp": "2026-08-24T17:10:31.084381110Z",
   "model": "glm-5.3"
 }

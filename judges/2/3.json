@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve ben de dedim: Onları ⟨אתכם⟩ sizin yüzünüzden kovmayacağım; ve sizin için diken olacaklar, ve onların ilahları sizin için tuzak olacak.",
+  "translation": "Ben de dedim: Onları yüzünüzden kovmayacağım; ve size karşı taraflar olacaklar ve onların ilahları size tuzak olacak.\"",
   "tokens": [
     {
       "surface": "וגם",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "onları"
     },
     {
       "surface": "מפניכם",
-      "gloss": "sizin yüzünüzden"
+      "gloss": "yüzünüzden"
     },
     {
       "surface": "והיו",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "לכם",
-      "gloss": "sizin için"
+      "gloss": "size"
     },
     {
       "surface": "לצדים",
-      "gloss": "diken olarak"
+      "gloss": "karşı taraflar"
     },
     {
       "surface": "ואלהיהם",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "לכם",
-      "gloss": "sizin için"
+      "gloss": "size"
     },
     {
       "surface": "למוקש",
-      "gloss": "tuzak olarak"
+      "gloss": "tuzak"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.017672988Z",
+  "timestamp": "2026-08-24T17:16:38.107185889Z",
   "model": "glm-5.3"
 }

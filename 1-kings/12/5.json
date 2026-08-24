@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Onlara dedi: «Gidin ⟨עוד⟩ üç gün, sonra bana dönün.» Ve halk gitti.",
+  "translation": "Onlara dedi: «Gidin ⟨hänen⟩ üç gün, sonra bana dönün.» Ve halk gitti.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -20,8 +20,8 @@
       "gloss": "gidin"
     },
     {
-      "surface": "עוד",
-      "gloss": "yine\/daha"
+      "surface": "עד",
+      "gloss": "daha"
     },
     {
       "surface": "שלשה",
@@ -48,6 +48,6 @@
       "gloss": "halk"
     }
   ],
-  "timestamp": "2026-08-19T09:40:01.386533965Z",
+  "timestamp": "2026-08-24T17:05:02.930512260Z",
   "model": "glm-5.3"
 }

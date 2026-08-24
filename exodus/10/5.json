@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ve ⟨את⟩ gözünü örtecek ⟨the⟩ yerin, ve yer görünmeyecek; ve dolunun size bıraktığı, kalan artığı yiyecekler, ve tarladınızda biten her ağacı yiyecekler.",
+  "translation": "Ve ⟨את⟩ yeryüzünün yüzünü öretecek; yeryüzü görülemeyecek. Ve ⟨את⟩ size doludan kalan kaçıp kalıntıyı yiyecek ve ⟨את⟩ kırlarda sizin için yetişen bütün ağaçları yiyecek.",
   "tokens": [
     {
       "surface": "וכסה",
-      "gloss": "ve örtecek"
+      "gloss": "ve öretecek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yüzünü \/ gözünü"
+      "marks": "yeryüzünün yüzünü"
     },
     {
       "surface": "עין",
-      "gloss": "gözü"
+      "gloss": "yüzü\/gözü"
     },
     {
       "surface": "הארץ",
-      "gloss": "yerin"
+      "gloss": "yeryüzünün"
     },
     {
       "surface": "ולא",
-      "gloss": "ve olmayacak"
+      "gloss": "ve değil"
     },
     {
       "surface": "יוכל",
@@ -39,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yer"
+      "marks": "yeryüzü"
     },
     {
       "surface": "הארץ",
-      "gloss": "yeri"
+      "gloss": "yeryüzü"
     },
     {
       "surface": "ואכל",
@@ -52,19 +52,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kalan artığı"
+      "marks": "kalıntıyı"
     },
     {
       "surface": "יתר",
-      "gloss": "artığı"
+      "gloss": "kalıntıyı"
     },
     {
       "surface": "הפלטה",
-      "gloss": "kurtulan"
+      "gloss": "kaçıp kurtulanın"
     },
     {
       "surface": "הנשארת",
-      "gloss": "bırakılan"
+      "gloss": "geriye kalan"
     },
     {
       "surface": "לכם",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "dolunun"
+      "gloss": "-dan"
     },
     {
       "surface": "הברד",
-      "gloss": "—"
+      "gloss": "dolu"
     },
     {
       "surface": "ואכל",
@@ -85,33 +85,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "her ağacı"
+      "marks": "bütün ağaçları"
     },
     {
       "surface": "כל",
-      "gloss": "her"
+      "gloss": "bütün"
     },
     {
       "surface": "העץ",
-      "gloss": "ağacı"
+      "gloss": "ağaçları"
     },
     {
       "surface": "הצמח",
-      "gloss": "biten"
+      "gloss": "yetişen"
     },
     {
       "surface": "לכם",
-      "gloss": "sizin"
+      "gloss": "sizin için"
     },
     {
       "surface": "מן",
-      "gloss": "-den"
+      "gloss": "-dan"
     },
     {
       "surface": "השדה",
-      "gloss": "tarladan"
+      "gloss": "kır"
     }
   ],
-  "timestamp": "2026-08-19T07:12:55.815458829Z",
+  "timestamp": "2026-08-24T17:16:57.562508043Z",
   "model": "glm-5.3"
 }

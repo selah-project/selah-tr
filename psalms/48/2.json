@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 48,
-  "translation": "Büyük ⟨⟨dir⟩⟩ Yahve, ve çok övülmeye layık, Elohim'imizin ⟨⟨şehrinde⟩⟩, kutsal dağında.",
+  "translation": "Büyük ⟨olan⟩ Yahve, çok övülmeye layıktır, Elohim'imizin şehrinde, kutsal ⟨olan⟩ dağında.",
   "tokens": [
     {
       "surface": "גדול",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim'imiz"
+      "gloss": "Elohim'imizin"
     },
     {
       "surface": "הר",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "קדשו",
-      "gloss": "kutsal"
+      "gloss": "onun kutsal ⟨olan⟩"
     }
   ],
-  "timestamp": "2026-08-19T10:58:25.252184459Z",
+  "timestamp": "2026-08-24T17:11:38.711255486Z",
   "model": "glm-5.3"
 }

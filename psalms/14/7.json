@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Ah, kim verecek Siyon'dan İsrail'e kurtuluşu! Yahve halkının ⟨the⟩ sürgünden dönüşünde Yaakov sevinecek, İsrail ⟨will⟩ neşelenecek.",
+  "translation": "Ah, Siyon'dan İsrail'e kurtuluşu kim verecek! Yahve halkının sürgününden geri dönüşü sağladığında Yaakov sevinecek, İsrail coşacak.",
   "tokens": [
     {
       "surface": "מי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail('e)"
+      "gloss": "İsrail'e"
     },
     {
       "surface": "בשוב",
-      "gloss": "dönüşünde"
+      "gloss": "geri döndüğünde"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שבות",
-      "gloss": "sürgünden"
+      "gloss": "sürgününden geri dönüşü"
     },
     {
       "surface": "עמו",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ישמח",
-      "gloss": "neşelenecek"
+      "gloss": "coşacak"
     },
     {
       "surface": "ישראל",
       "gloss": "İsrail"
     }
   ],
-  "timestamp": "2026-08-19T10:53:44.963863680Z",
+  "timestamp": "2026-08-24T17:17:05.233104062Z",
   "model": "glm-5.3"
 }

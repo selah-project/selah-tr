@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Lanetle lanetlisiniz, ve beni ⟨את⟩ alıkoyanlar sizsiniz — ⟨the⟩ bütün ulus.",
+  "translation": "Lanetle lanetlenmişsiniz — ⟨את⟩ beni ise siz soyuyorsunuz, bütün ulus ⟨bütünülükte⟩.",
   "tokens": [
     {
       "surface": "במארה",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "נארים",
-      "gloss": "lanetlisiniz"
+      "gloss": "lanetlenmişsiniz"
     },
     {
       "surface": "ואתי",
-      "gloss": "ve ⟨את⟩ beni",
-      "marks": "siz (alıkoyanlar)"
+      "gloss": "⟨את⟩ ve beni",
+      "marks": "beni"
     },
     {
       "surface": "אתם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "קבעים",
-      "gloss": "alıkoyanlar"
+      "gloss": "soyuyorsunuz"
     },
     {
       "surface": "הגוי",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "כלו",
-      "gloss": "bütün"
+      "gloss": "bütünülükte \/ tamamen"
     }
   ],
-  "timestamp": "2026-08-19T10:50:20.983018999Z",
+  "timestamp": "2026-08-24T17:10:38.704260783Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,57 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ona dediler: Lütfen Elohim'e sor, gideceğimiz ⟨⟨yo⟩⟩l ⟨⟩ başarılı mı bilelim.",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:18:28.771751354Z",
+  "translation": "Ve ona dediler: «Sor, lütfen, Elohim'e — bilelim yolumuz başarıya ulaşacak mı, bizim o yolda yürüdüğümüz yolun.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ve dediler"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "sor"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfen"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim'e"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ve bilelim"
+    },
+    {
+      "surface": "התצליח",
+      "gloss": "başarıya ulaşacak mı"
+    },
+    {
+      "surface": "דרכנו",
+      "gloss": "bizim yolumuz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "yürüdüğümüz"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzerinde"
+    }
+  ],
+  "timestamp": "2026-08-24T17:03:42.416870762Z",
   "model": "glm-5.3"
 }

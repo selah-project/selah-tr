@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 31,
-  "translation": "Moşe onları savaşa gönderdi — her boydan bin kişi; onları ⟨את⟩ ve Pinehas'ı ⟨את⟩ ⟨ואת⟩, Elazar'ın oğlu kâhini, savaşa gönderdi; kutsal araçlar ve şofar-borazanlar elindeydi.",
+  "translation": "Ve Moşe onları gönderdi, kabile başına bin kişi, savaşa; onları ve ⟨את⟩ Pinehaş'ı, Elazar oğlu kâhini, savaşa; ve kutsal kaplar ile savaş narasının boruları ⟨onun⟩ elindeydi.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,8 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları"
     },
     {
       "surface": "משה",
@@ -26,7 +25,7 @@
     },
     {
       "surface": "למטה",
-      "gloss": "her boy için"
+      "gloss": "kabileye"
     },
     {
       "surface": "לצבא",
@@ -38,12 +37,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
-      "marks": "Pinehas'ı"
+      "gloss": "⟨את⟩",
+      "marks": "Pinehaş"
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinehas"
+      "gloss": "Pinehaş"
     },
     {
       "surface": "בן",
@@ -63,7 +62,7 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "ve araçlar"
+      "gloss": "ve kapları"
     },
     {
       "surface": "הקדש",
@@ -71,17 +70,17 @@
     },
     {
       "surface": "וחצצרות",
-      "gloss": "ve borazanlar"
+      "gloss": "ve boruları"
     },
     {
       "surface": "התרועה",
-      "gloss": "savaş narası"
+      "gloss": "nara"
     },
     {
       "surface": "בידו",
       "gloss": "elinde"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.042175953Z",
+  "timestamp": "2026-08-24T17:02:07.116301520Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve kral onunla birlikte ⟨את⟩ Tsadok ⟨כohen⟩ kâhini ve ⟨את⟩ Natan nebiyi, Ben-Yehoyada'nın oğlu Benyahu'yu, Keretileri ve Peletileri gönderdi; ⟨את⟩ onu kralın dişi katırına bindirdiler.",
+  "translation": "Ve kral onunla birlikte ⟨את⟩ Tsadok'u kâhini ve ⟨את⟩ Natan'ı peygamberi ve Benayahu'yu Yehoyada'nın oğlunu ve Keretlileri ve Peletlileri gönderdi; ve onu kralın dişi katırına bindirdiler.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ve gönderdi"
+      "gloss": "gönderdi"
     },
     {
       "surface": "אתו",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsadok kâhini"
+      "marks": "Tsadok'u"
     },
     {
       "surface": "צדוק",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kâhini"
+      "gloss": "kâhin"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "Natan nebiyi"
+      "marks": "Natan'ı"
     },
     {
       "surface": "נתן",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "nebiyi"
+      "gloss": "peygamber"
     },
     {
       "surface": "ובניהו",
-      "gloss": "ve Benyahu"
+      "gloss": "ve Benayahu"
     },
     {
       "surface": "בן",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "ve Keretiler"
+      "gloss": "ve Keretliler"
     },
     {
       "surface": "והפלתי",
-      "gloss": "ve Peletiler"
+      "gloss": "ve Peletliler"
     },
     {
       "surface": "וירכבו",
@@ -72,7 +72,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ onu",
-      "marks": "onu (kendi)"
+      "marks": "onu"
     },
     {
       "surface": "על",
@@ -80,13 +80,13 @@
     },
     {
       "surface": "פרדת",
-      "gloss": "dişi katırının"
+      "gloss": "dişi katır"
     },
     {
       "surface": "המלך",
       "gloss": "kralın"
     }
   ],
-  "timestamp": "2026-08-19T09:36:26.747114634Z",
+  "timestamp": "2026-08-24T17:04:30.845032230Z",
   "model": "glm-5.3"
 }

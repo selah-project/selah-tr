@@ -5,8 +5,72 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Yahve Elohim'inizin ardından yürüyeceksiniz ve ⟨את⟩ O'na tapınaçak... ",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:01:01.103391265Z",
+  "translation": "Yahve Elohim'iniz'in ardınca yürürsünüz, ⟨את⟩ O'ndan korkarsınız ve ⟨את⟩ buyruklarını korursunuz, sesini dinlersiniz, ⟨את⟩ O'na kulluk edersiniz ve O'na sımsıkı bağlanırsınız.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "yürürsünüz"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ve ⟨את⟩ O'nu",
+      "marks": "O'nu (korku nesnesi)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "korkarsınız"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buyruklarını"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "buyruklarını"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "korursunuz"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "ve sesini"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dinlersiniz"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ve ⟨את⟩ O'na",
+      "marks": "O'na (kulluk nesnesi)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "kulluk edersiniz"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ve O'na"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "sımsıkı bağlanırsınız"
+    }
+  ],
+  "timestamp": "2026-08-24T17:16:55.656165998Z",
   "model": "glm-5.3"
 }

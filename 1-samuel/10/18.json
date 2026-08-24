@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Yisrael oğullarına dedi: Böyle dedi Yisrael'in Elohim'i Yahve: Ben Yisrael'i Mısır'dan çıkardım ⟨את⟩, ve sizi Mısırlıların elinden ve sizi ezen bütün krallıkların elinden kurtardım ⟨את⟩ ⟨אתכם⟩.",
+  "translation": "Ve Yisrael oğullarına dedi: Böyle dedi Yahve, Yisrael'in Elohim'i: Ben Yisrael'i ⟨את⟩ Mısır'dan çıkardım ve sizi Mısır'ın elinden ve sizi ezen bütün krallıkların elinden kurtardım.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dedi"
+      "gloss": "ve dedi"
     },
     {
       "surface": "אל",
-      "gloss": "…e"
+      "gloss": "אel'e yerine: -e (kime)"
     },
     {
       "surface": "בני",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisrael'in"
     },
     {
       "surface": "אנכי",
-      "gloss": "ben"
+      "gloss": "Ben"
     },
     {
       "surface": "העליתי",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrael"
+      "marks": "Yisrael'i"
     },
     {
       "surface": "ישראל",
@@ -65,13 +65,13 @@
       "gloss": "Mısır'dan"
     },
     {
-      "surface": "ויציל",
+      "surface": "ואציל",
       "gloss": "ve kurtardım"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "siz"
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
     },
     {
       "surface": "מיד",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mısır"
+      "gloss": "Mısır'ın"
     },
     {
       "surface": "ומיד",
@@ -99,10 +99,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "siz"
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.030641945Z",
+  "timestamp": "2026-08-24T17:16:44.673895395Z",
   "model": "glm-5.3"
 }

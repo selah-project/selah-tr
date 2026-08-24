@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Ezer ⟨the⟩ baş, Ovadya ⟨the⟩ ikinci, Eliav ⟨the⟩ üçüncü.",
+  "translation": "Ezer ⟨ה⟩birinci, Ovadyah ⟨ה⟩ikinci, Eliav ⟨ה⟩üçüncü.",
   "tokens": [
     {
       "surface": "עזר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הראש",
-      "gloss": "baş"
+      "gloss": "birinci"
     },
     {
       "surface": "עבדיה",
-      "gloss": "Ovadya"
+      "gloss": "Ovadyah"
     },
     {
       "surface": "השני",
@@ -32,6 +32,6 @@
       "gloss": "üçüncü"
     }
   ],
-  "timestamp": "2026-08-19T11:57:39.413472045Z",
+  "timestamp": "2026-08-24T17:16:06.612927864Z",
   "model": "glm-5.3"
 }

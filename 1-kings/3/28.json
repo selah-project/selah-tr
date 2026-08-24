@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Bütün Yisrael kralın verdiği hükmü ⟨הükmü⟩ duydu ve kralın yüzünden korkuya kapıldı, çünkü Elohim'in hikmetinin onun içinde olduğunu, hükmetmek için, gördüler.",
+  "translation": "Bütün Yisra'el kralın hükmettiği ⟨את⟩ hükmü duydu ve kralın yüzünden korkuya kapıldılar, çünkü gördüler ki Elohim'in bilgeliği onun içinde, hükmetmek için ⟨את⟩ — ⟨onun⟩.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "ve duydular"
+      "gloss": "ve duyduklarında"
     },
     {
       "surface": "כל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "המשפט",
-      "gloss": "hüküm"
+      "gloss": "hükmü"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שפט",
-      "gloss": "hükmetti"
+      "gloss": "hükmettiği"
     },
     {
       "surface": "המלך",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ויראו",
-      "gloss": "ve korktular"
+      "gloss": "ve korkuya kapıldılar"
     },
     {
       "surface": "מפני",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "kral"
+      "gloss": "kralın"
     },
     {
       "surface": "כי",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "çünkü"
+      "gloss": "ki"
     },
     {
       "surface": "חכמת",
-      "gloss": "hikmeti"
+      "gloss": "bilgeliği"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohim'in"
     },
     {
       "surface": "בקרבו",
@@ -85,6 +85,6 @@
       "gloss": "hüküm"
     }
   ],
-  "timestamp": "2026-08-19T09:37:16.143570327Z",
+  "timestamp": "2026-08-24T17:05:14.532633384Z",
   "model": "glm-5.3"
 }

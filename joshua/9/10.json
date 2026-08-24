@@ -5,16 +5,16 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve יarden'in öte yakasındaki iki Emori kralına — Heşbon kralı Sihon'a ve Aşterot'ta olan Başan kralı Og'a — yaptıklarının ⟨את⟩ hepsine.",
+  "translation": "ve ⟨את⟩ her şeyi ki yaptı — Sihon'a, Heşbon kralına, ve Og'a, Başan kralına, Aştarot'ta olan — עבר-ötesindeki, Yarden'in, iki Emori kralına:",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ve",
-      "marks": "hepsine"
+      "gloss": "ve ⟨את⟩",
+      "marks": "her şeyi"
     },
     {
       "surface": "כל",
-      "gloss": "hepsine"
+      "gloss": "her şeyi"
     },
     {
       "surface": "אשר",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "yaptığı"
+      "gloss": "yaptı"
     },
     {
       "surface": "לשני",
-      "gloss": "iki"
+      "gloss": "iki ... -e"
     },
     {
       "surface": "מלכי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "öte yakasındaki"
+      "gloss": "ötesinde"
     },
     {
       "surface": "הירדן",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "הבשן",
-      "gloss": "Başan'ın"
+      "gloss": "Başan"
     },
     {
       "surface": "אשר",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "בעשתרות",
-      "gloss": "Aşterot'ta olan"
+      "gloss": "Aştarot'ta"
     }
   ],
-  "timestamp": "2026-08-19T09:09:49.105816646Z",
+  "timestamp": "2026-08-24T17:03:03.825936820Z",
   "model": "glm-5.3"
 }

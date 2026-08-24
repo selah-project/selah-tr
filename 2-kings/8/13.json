@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve Hazael dedi: Kulun ⟨בir⟩ köpek midir ki bu büyük işi yapsın? Ve Elişa dedi: Yahve bana ⟨את⟩ seni Aram üzerine kral olarak gösterdi.",
+  "translation": "Ve Hazael dedi: Ne ki kulun ⟨את⟩ köpek, böyle büyük işi yapsın? Ve Elişa dedi: Yahve bana ⟨את⟩ seni Aram üzerine kral olarak gösterdi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -70,7 +70,7 @@
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "seni (Aram üzerine kral)"
+      "marks": "seni (kral)"
     },
     {
       "surface": "מלך",
@@ -85,6 +85,6 @@
       "gloss": "Aram"
     }
   ],
-  "timestamp": "2026-08-19T09:46:00.906869429Z",
+  "timestamp": "2026-08-24T17:05:24.597483625Z",
   "model": "glm-5.3"
 }

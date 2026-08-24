@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 22,
-  "translation": "Döktüğün ⟨את⟩ kanınla suçlu oldun ve yaptığın putlarınla kirlendin; günlerini yaklaştırdın ve yıllarına kadar vardın. Bunun için seni uluslara ⟨⟨bir⟩⟩ reproach yerine → hakaret, bütün ülkelere alay konusu kıldım.",
+  "translation": "Kanınınla — ki onu döktün — suçlu oldun, ve putlarınla — ki onları yaptın — kirlendin; günlerini yaklaştırdın ve yıllarına ⟨kadar⟩ geldin. ⟨Bunun⟩ ⟨için⟩ seni uluslara below, bütün ülkeler ⟨için⟩ alay konusu verdim.",
   "tokens": [
     {
       "surface": "בדמך",
-      "gloss": "kanınla"
+      "gloss": "kanınınla"
     },
     {
       "surface": "אשר",
-      "gloss": "döktüğün"
+      "gloss": "ki"
     },
     {
       "surface": "שפכת",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yaptığın"
+      "gloss": "ki"
     },
     {
       "surface": "עשית",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ותבוא",
-      "gloss": "ve vardın"
+      "gloss": "ve geldin"
     },
     {
       "surface": "עד",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "על",
-      "gloss": "üzerine \/ için"
+      "gloss": "üzerine"
     },
     {
       "surface": "כן",
-      "gloss": "bunun"
+      "gloss": "böylece"
     },
     {
       "surface": "נתתיך",
-      "gloss": "seni kıldım"
+      "gloss": "seni verdim"
     },
     {
       "surface": "חרפה",
-      "gloss": "hakaret"
+      "gloss": "below"
     },
     {
       "surface": "לגוים",
@@ -92,6 +92,6 @@
       "gloss": "ülkelere"
     }
   ],
-  "timestamp": "2026-08-19T10:28:42.322315174Z",
+  "timestamp": "2026-08-24T17:09:11.380857493Z",
   "model": "glm-5.3"
 }

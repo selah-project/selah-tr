@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "tr",
   "chapter": 4,
-  "translation": "İplikleri ⟨onların⟩ içinde koparılmış değil mi? Ölürler ve ⟨חכמה⟩ bilgelikte değil — ⟨את⟩ değil, bilgelikte değil ⟨öldüler⟩.",
+  "translation": "Çadır-ipleri onların içinden sökülüp çekilmez mi? Ölürler — ve ⟨bunun⟩ ⟨olmasın⟩ hikmetsiz ⟨olsunlar⟩⟨ölürler⟩ ve hikmetsizce.",
   "tokens": [
     {
       "surface": "הלא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נסע",
-      "gloss": "koparıldı \/ çekilip gitti"
+      "gloss": "sökülüp çekil-"
     },
     {
       "surface": "יתרם",
-      "gloss": "iplikleri \/ üstünlükleri"
+      "gloss": "onların çadır-ipi"
     },
     {
       "surface": "בם",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "בחכמה",
-      "gloss": "bilgelikte"
+      "gloss": "hikmette"
     }
   ],
-  "timestamp": "2026-08-19T12:23:46.959173365Z",
+  "timestamp": "2026-08-24T17:13:52.305623607Z",
   "model": "glm-5.3"
 }

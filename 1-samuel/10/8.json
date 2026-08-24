@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ve benim önümde Gilgal'a ineceksin; ve işte, ben yanına ineceğim — yakmalık sunuları yükseltmek, şelamîm kurbanlarını kesmek için ⟨משם⟩. Yedi gün bekleyeceksin, ben sana gelene kadar; ve sana ⟨את⟩ yapacağın şeyi bildireceğim.",
+  "translation": "Ve önümde Gilgal'a ineceksin; ve işte ben sana iniyorum, yakmalık sunular yükseltmek, şenlik kurbanları kesmek için; ben sana gelene kadar yedi gün bekleyeceksin; ve sana ⟨את⟩ yapman gerekeni bildireceğim.",
   "tokens": [
     {
       "surface": "וירדת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "önümde"
+      "gloss": "önünde"
     },
     {
       "surface": "הגלגל",
-      "gloss": "Gilgal'a"
+      "gloss": "Gilgal"
     },
     {
       "surface": "והנה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אליך",
-      "gloss": "yanına"
+      "gloss": "sana"
     },
     {
       "surface": "להעלות",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "עלות",
-      "gloss": "yakmalık sunuları"
+      "gloss": "yakmalık sunular"
     },
     {
       "surface": "לזבח",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "זבחי",
-      "gloss": "kurbanlarını"
+      "gloss": "kurbanlar"
     },
     {
       "surface": "שלמים",
-      "gloss": "şelamîm"
+      "gloss": "esenlik \/ şenlik"
     },
     {
       "surface": "שבעת",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "בואי",
-      "gloss": "benim gelmem"
+      "gloss": "gelişim"
     },
     {
       "surface": "אליך",
@@ -90,17 +90,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yapacağın şey"
+      "marks": "yapman gereken"
     },
     {
       "surface": "אשר",
-      "gloss": "şeyi ki"
+      "gloss": "ki"
     },
     {
       "surface": "תעשה",
-      "gloss": "yapacağın"
+      "gloss": "yapacaksın"
     }
   ],
-  "timestamp": "2026-08-19T09:23:04.098225098Z",
+  "timestamp": "2026-08-24T17:03:54.576979312Z",
   "model": "glm-5.3"
 }

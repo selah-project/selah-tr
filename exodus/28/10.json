@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Altı adını ⟨the⟩ bir taşın üzerine, ve kalan altının adlarını ⟨את⟩ ikinci taşın üzerine, doğumlarına göre.",
+  "translation": "Adlarının altısı bir taşın üzerine, kalanların ⟨את⟩ altı adını ise doğum sıralarına göre ikinci taşın üzerine yaz.",
   "tokens": [
     {
       "surface": "ששה",
-      "gloss": "altı"
+      "gloss": "altısı"
     },
     {
       "surface": "משמתם",
-      "gloss": "onların adlarından"
+      "gloss": "onların adlarının"
     },
     {
       "surface": "על",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "האבן",
-      "gloss": "taşın"
+      "gloss": "bir taşın"
     },
     {
       "surface": "האחת",
-      "gloss": "bir"
+      "gloss": "⟨birinci⟩"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "kalan altının adları"
+      "marks": "altı adını"
     },
     {
       "surface": "שמות",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הנותרים",
-      "gloss": "kalan"
+      "gloss": "kalanların"
     },
     {
       "surface": "על",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "כתולדתם",
-      "gloss": "doğumlarına göre"
+      "gloss": "doğum sıralarına göre"
     }
   ],
-  "timestamp": "2026-08-19T07:18:12.437158013Z",
+  "timestamp": "2026-08-24T17:00:42.562923437Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 33,
-  "translation": "Ve gözlerini kaldırdı ve ⟨את⟩ kadınları ve ⟨את⟩ çocukları gördü ve dedi: Bunlar sana kimler? Ve dedi: Elohim'in kuluna lutfederek verdiği çocuklar ⟨הם⟩.",
+  "translation": "Ve gözlerini kaldırdı ve ⟨את⟩ kadınları ve ⟨את⟩ çocukları gördü ve dedi: Bunlar sana kimler? Ve dedi: Çocuklar ⟨ bunlar ⟩ ki Elohim kulunu lütfederek verdi ⟨את⟩.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "ve kaldırdı"
+      "gloss": "kaldırdı"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "וירא",
-      "gloss": "ve gördü"
+      "gloss": "gördü"
     },
     {
       "surface": "את",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "מי",
-      "gloss": "kim"
+      "gloss": "kim(ler)"
     },
     {
       "surface": "אלה",
@@ -68,26 +68,26 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki onları"
+      "gloss": "ki"
     },
     {
       "surface": "חנן",
-      "gloss": "lutfederek verdi"
+      "gloss": "lütfederek bağışladı"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim'in"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuluna"
+      "marks": "kulunu"
     },
     {
       "surface": "עבדך",
-      "gloss": "kuluna"
+      "gloss": "kulun"
     }
   ],
-  "timestamp": "2026-08-19T07:03:39.261981221Z",
+  "timestamp": "2026-08-24T16:59:19.658861876Z",
   "model": "glm-5.3"
 }

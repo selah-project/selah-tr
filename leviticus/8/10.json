@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve Moşe mesh yağını aldı; ⟨את⟩ mişkanı ve içindeki her şeyi meshetti, ve onları kutsadı.",
+  "translation": "Moşe meshiyata yağını aldı ve ⟨את⟩ mişkanı ve onun içinde olan her şeyi meshetti ve ⟨את⟩ onları kutsadı.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ve aldı"
+      "gloss": "aldı"
     },
     {
       "surface": "משה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yağ"
+      "marks": "meshiyata yağı"
     },
     {
       "surface": "שמן",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "המשחה",
-      "gloss": "mesh"
+      "gloss": "meshiyata"
     },
     {
       "surface": "וימשח",
-      "gloss": "ve meshetti"
+      "gloss": "meshetti"
     },
     {
       "surface": "את",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "mişkanı"
+      "gloss": "mişkan"
     },
     {
       "surface": "ואת",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "her şeyi"
+      "gloss": "her şey"
     },
     {
       "surface": "אשר",
@@ -56,18 +56,17 @@
     },
     {
       "surface": "בו",
-      "gloss": "içinde"
+      "gloss": "onun içinde"
     },
     {
       "surface": "ויקדש",
-      "gloss": "ve kutsadı"
+      "gloss": "kutsadı"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.036789639Z",
+  "timestamp": "2026-08-24T17:01:10.321846603Z",
   "model": "glm-5.3"
 }

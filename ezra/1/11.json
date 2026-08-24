@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Bütün kaplar — altın ve gümüş ⟨olanlar⟩ — beş bin ve dört yüz ⟨idi⟩; hepsini Şeşbatsar sürgünün Babil'den Yeruşalayim'e ⟨⟨ירושלם yerine⟩⟩ çıkışı ile birlikte çıkardı.",
+  "translation": "Tüm kaplar altın ve gümüş ⟨olmak üzere⟩ beş bin dört yüz ⟨adet⟩; hepsini Şeşbatsar sürgünden Babil'den Yeruşalayim'e çıkışla birlikte yukarı çıkardı.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "bütün"
+      "gloss": "tüm"
     },
     {
       "surface": "כלים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לזהב",
-      "gloss": "altına ait"
+      "gloss": "altın"
     },
     {
       "surface": "ולכסף",
-      "gloss": "ve gümüşe ait"
+      "gloss": "ve gümüş"
     },
     {
       "surface": "חמשת",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "çıkardı"
+      "gloss": "yukarı çıkardı"
     },
     {
       "surface": "ששבצר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "עם",
-      "gloss": "ile birlikte"
+      "gloss": "birlikte"
     },
     {
       "surface": "העלות",
-      "gloss": "çıkışı"
+      "gloss": "çıkışla"
     },
     {
       "surface": "הגולה",
@@ -72,6 +72,6 @@
       "gloss": "Yeruşalayim'e"
     }
   ],
-  "timestamp": "2026-08-19T11:46:25.263128492Z",
+  "timestamp": "2026-08-24T17:14:55.043047519Z",
   "model": "glm-5.3"
 }

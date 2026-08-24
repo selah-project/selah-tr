@@ -5,8 +5,45 @@
   "book": "amos",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Duyun ve tanıklık edin Beyt Yaakov'a — neum Adonay Yahve, Elohim of Tsevaot.",
-  "tokens": [],
-  "timestamp": "2026-08-19T12:20:49.604260939Z",
+  "translation": "Duyun ve tanıklık edin Beyt Yaakov'ın ⟨\tevinde⟩, söyleyen Adonay Yahve, Elohim of Tzevaot.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "duyun"
+    },
+    {
+      "surface": "והעידו",
+      "gloss": "ve tanıklık edin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "söyleyen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tzevaot'un"
+    }
+  ],
+  "timestamp": "2026-08-24T17:09:34.254615102Z",
   "model": "glm-5.3"
 }

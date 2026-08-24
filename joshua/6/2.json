@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve Yahve Yehoşua'ya dedi: Bak, ⟨ את ⟩ Yeriho'yu ve ⟨ את ⟩ onun kralını senin eline verdim — yiğitlik kahramanlarını.",
+  "translation": "Ve Yahve Yehoşua'ya dedi: Gör, verdim elinin içine ⟨את⟩ Yeriho'yu ve ⟨את⟩ onun kralını — güçlü yiğitlerin.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ve dedi"
+      "gloss": "ve dedi"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "-ya"
+      "gloss": "…ya"
     },
     {
       "surface": "יהושע",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "Bak"
+      "gloss": "gör"
     },
     {
       "surface": "נתתי",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "בידך",
-      "gloss": "senin eline"
+      "gloss": "elinin içine"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yeriho'yu"
+      "marks": "Yeriho"
     },
     {
       "surface": "יריחו",
@@ -47,7 +47,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "onun kralını"
+      "marks": "kralını"
     },
     {
       "surface": "מלכה",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "גבורי",
-      "gloss": "kahramanlarını"
+      "gloss": "güçlü olanların"
     },
     {
       "surface": "החיל",
       "gloss": "yiğitlik"
     }
   ],
-  "timestamp": "2026-08-19T09:08:42.317691978Z",
+  "timestamp": "2026-08-24T17:03:09.775092372Z",
   "model": "glm-5.3"
 }

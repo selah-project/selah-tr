@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Çünkü bu sefer ⟨את⟩ bütün vebalarımı ⟨the⟩ kalbine, kölelerine ve halkına göndereceğim; ⟪böylece⟫ bilecesin diye ki, bütün yeryüzünde benim gibisi yoktur.",
+  "translation": "Çünkü bu kez bütün vuruşlarımı senin kalbine, kölelerine ve halkına göndereceğim; ⟨ki⟩ bilmen için ⟨şunu⟩: bütün yeryüzünde benim gibisi yoktur.",
   "tokens": [
     {
       "surface": "כי",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "שלח",
-      "gloss": "gönderiyorum"
+      "gloss": "göndereceğim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bütün vebalarımı"
+      "marks": "bütün vuruşlarımı"
     },
     {
       "surface": "כל",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מגפתי",
-      "gloss": "vebalarımı"
+      "gloss": "vuruşlarımı"
     },
     {
       "surface": "אל",
-      "gloss": "…e doğru"
+      "gloss": "‑e doğru"
     },
     {
       "surface": "לבך",
-      "gloss": "kalbine"
+      "gloss": "senin kalbine"
     },
     {
       "surface": "ובעבדיך",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "בעבור",
-      "gloss": "-mesi için"
+      "gloss": "‑mesi için"
     },
     {
       "surface": "תדע",
-      "gloss": "bilesin"
+      "gloss": "bilmelisin"
     },
     {
       "surface": "כי",
@@ -85,6 +85,6 @@
       "gloss": "yeryüzünde"
     }
   ],
-  "timestamp": "2026-08-19T07:12:43.806033183Z",
+  "timestamp": "2026-08-24T17:00:05.652779092Z",
   "model": "glm-5.3"
 }

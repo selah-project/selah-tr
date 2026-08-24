@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 44,
-  "translation": "Ve şarap içmeyecek hiçbir kâhin, iç avluya girdiklerinde.",
+  "translation": "Ve şarap içmeyecek hiçbir kohen, ⟨את⟩ iç avluya girdiklerinde.",
   "tokens": [
     {
       "surface": "ויין",
-      "gloss": "Ve şarap"
+      "gloss": "ve şarap"
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "yok"
     },
     {
       "surface": "ישתו",
-      "gloss": "içmeyecek(ler)"
+      "gloss": "içmeyecekler"
     },
     {
       "surface": "כל",
@@ -25,25 +25,26 @@
     },
     {
       "surface": "כהן",
-      "gloss": "kâhin"
+      "gloss": "kohen"
     },
     {
       "surface": "בבואם",
-      "gloss": "geldiklerinde"
+      "gloss": "girdiklerinde"
     },
     {
       "surface": "אל",
-      "gloss": "⟨-e⟩"
+      "gloss": "⟨את⟩",
+      "marks": "iç avluya"
     },
     {
       "surface": "החצר",
-      "gloss": "⟨the⟩ avlu"
+      "gloss": "avluya"
     },
     {
       "surface": "הפנימית",
       "gloss": "iç"
     }
   ],
-  "timestamp": "2026-08-19T10:37:30.756580438Z",
+  "timestamp": "2026-08-24T17:09:01.699830055Z",
   "model": "glm-5.3"
 }

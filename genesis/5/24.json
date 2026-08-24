@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ve Hanok Elohim ile ⟨את⟩ Elohim'i izleyerek yürüdü ve o yoktu, çünkü Elohim onu almıştı ⟨את⟩ ⟨אתו⟩ onu.",
+  "translation": "Hanok Elohim ile ⟨את⟩ yürüdü ve o artık yoktu, çünkü Elohim onu ⟨את⟩ ⟨אתו⟩ aldı.",
   "tokens": [
     {
       "surface": "ויתהלך",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואיננו",
-      "gloss": "ve o yok"
+      "gloss": "ve o artık yoktu"
     },
     {
       "surface": "כי",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "almıştı"
+      "gloss": "aldı"
     },
     {
       "surface": "אתו",
@@ -46,6 +46,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.012076693Z",
+  "timestamp": "2026-08-24T17:55:22.546868512Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 119,
-  "translation": "Üzerimden aşağı kaldır ⟨חרpaha⟩ hakareti ve küçümsemeyi, çünkü tanıklıklarını korudum.",
+  "translation": "Üzerimden kaldır ⟨⟨onları⟩⟩ utanç ve aşağılanmayı, çünkü senin tanıklıklını korudum.",
   "tokens": [
     {
       "surface": "גל",
-      "gloss": "kaldır"
+      "gloss": "kaldır (yuvarla)"
     },
     {
       "surface": "מעלי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "חרפה",
-      "gloss": "hakaret"
+      "gloss": "utanç"
     },
     {
       "surface": "ובוז",
-      "gloss": "ve küçümseme"
+      "gloss": "ve aşağılanma"
     },
     {
       "surface": "כי",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "עדתיך",
-      "gloss": "tanıklıklarını"
+      "gloss": "senin tanıklıklın"
     },
     {
       "surface": "נצרתי",
       "gloss": "korudum"
     }
   ],
-  "timestamp": "2026-08-19T11:09:48.198406111Z",
+  "timestamp": "2026-08-24T17:12:18.212359936Z",
   "model": "glm-5.3"
 }

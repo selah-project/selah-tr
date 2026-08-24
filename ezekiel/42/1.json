@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 42,
-  "translation": "Ve beni dış avluya çıkardı, kuzeye giden ⟨⟨yol⟩⟩ üzre; ve ⟨את⟩ odalara karşı, ayrılan yerin karşısındaki ve binanın karşısındaki, kuzeye yönelik odaya götürdü.",
+  "translation": "Ve beni dış avluya çıkardı, yol kuzey yönündeydi; ve beni, ayrılmış yerin karşısındaki ve kuzeye doğru binanın karşısındaki odalara getirdi.",
   "tokens": [
     {
       "surface": "ויוצאני",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "el"
     },
     {
       "surface": "החצר",
-      "gloss": "⟨ה⟩ avlu"
+      "gloss": "⟨the⟩ avlu"
     },
     {
       "surface": "החיצונה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "⟨ה⟩ yol"
+      "gloss": "yol"
     },
     {
       "surface": "דרך",
-      "gloss": "yol üzre"
+      "gloss": "yönünde"
     },
     {
       "surface": "הצפון",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "el"
     },
     {
       "surface": "הלשכה",
-      "gloss": "⟨ה⟩ oda"
+      "gloss": "⟨the⟩ oda"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הגזרה",
-      "gloss": "⟨ה⟩ ayrılan yer"
+      "gloss": "⟨the⟩ ayrılmış yer"
     },
     {
       "surface": "ואשר",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "הבנין",
-      "gloss": "⟨ה⟩ bina"
+      "gloss": "⟨the⟩ bina"
     },
     {
       "surface": "אל",
-      "gloss": "-e doğru"
+      "gloss": "doğru"
     },
     {
       "surface": "הצפון",
       "gloss": "kuzey"
     }
   ],
-  "timestamp": "2026-08-19T10:36:43.808075317Z",
+  "timestamp": "2026-08-24T17:09:04.877109891Z",
   "model": "glm-5.3"
 }

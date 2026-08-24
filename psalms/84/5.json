@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 84,
-  "translation": "Ne mutlu ⟨⟨o⟩⟩ evinde oturanlara; ⟨onlar⟩ seni ⟨hep⟩ överler. Sela.",
+  "translation": "Ne mutludur evinde oturanlar; ⟨onlar⟩ seni ⟨ayırdeden⟩ durmadan överler. Selah.",
   "tokens": [
     {
       "surface": "אשרי",
-      "gloss": "ne mutlu"
+      "gloss": "ne mutludur"
     },
     {
       "surface": "יושבי",
-      "gloss": "oturanlara"
+      "gloss": "oturanlar"
     },
     {
       "surface": "ביתך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "hep"
+      "gloss": "durmadan \/ yine"
     },
     {
       "surface": "יהללוך",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "סלה",
-      "gloss": "Sela"
+      "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-08-19T12:22:02.832915958Z",
+  "timestamp": "2026-08-24T17:11:50.914346073Z",
   "model": "glm-5.3"
 }

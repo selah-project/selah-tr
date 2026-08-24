@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ve Ammon oğullarının önderleri Hanun'a, efendilerine dediler: Davud senin gözünde babanı onurlandırıyor mu, sana teselliyi gönderdi diye? Şehri aramak ve onu gözetlemek ve onu devirmek için Davud kullarını sana göndermedi mi?",
+  "translation": "Ammon oğullarının önderleri efendileri Hanun'a dediler: «David babana senin gözünde saygı mı gösteriyor, çünkü sana teselliciler gönderdi? Şehri araştırmak, onu casuslamak ve onu devirmek için mi David kullarını sana gönderdi?»",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ve dediler"
+      "gloss": "dediler"
     },
     {
       "surface": "שרי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "oğullarının"
+      "gloss": "oğulları"
     },
     {
       "surface": "עמון",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "כıp"
+      "gloss": "kime"
     },
     {
       "surface": "חנון",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "המכבד",
-      "gloss": "onurlandırıyor mu"
+      "gloss": "saygı mı gösteriyor"
     },
     {
       "surface": "דוד",
-      "gloss": "Davud"
+      "gloss": "David"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "babanı"
+      "marks": "babana"
     },
     {
       "surface": "אביך",
-      "gloss": "babanı"
+      "gloss": "babana"
     },
     {
       "surface": "בעיניך",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מנחמים",
-      "gloss": "tesellici(ler)"
+      "gloss": "teselliciler"
     },
     {
       "surface": "הלוא",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "בעבור",
-      "gloss": "amacıyla"
+      "gloss": "için"
     },
     {
       "surface": "חקור",
-      "gloss": "aramak"
+      "gloss": "araştırmak"
     },
     {
       "surface": "את",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "ולרגלה",
-      "gloss": "ve onu gözetlemek"
+      "gloss": "ve onu casuslamak"
     },
     {
       "surface": "ולהפכה",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davud"
+      "gloss": "David"
     },
     {
       "surface": "את",
@@ -123,6 +123,6 @@
       "gloss": "sana"
     }
   ],
-  "timestamp": "2026-08-19T09:30:56.088787244Z",
+  "timestamp": "2026-08-24T17:04:41.911747026Z",
   "model": "glm-5.3"
 }

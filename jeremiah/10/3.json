@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Çünkü halkların töreleri boşluktur ⟨הוּא⟩; çünkü ormandan ⟨את⟩ ağacı kestiler — zanaatkârın ellerinin işi, baltayla.",
+  "translation": "Çünkü halkların âdetleri boş şeydir ⟨⟨⟩⟩; çünkü ormandan ⟨bir⟩ ağaç kesilmiştir — zanaatkârın ellerinin işi, oyma bıçağıyla.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חקות",
-      "gloss": "töreleri"
+      "gloss": "âdetleri"
     },
     {
       "surface": "העמים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הבל",
-      "gloss": "boşluktur"
+      "gloss": "boş şey"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨הוּא"
+      "gloss": "o"
     },
     {
       "surface": "כי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עץ",
-      "gloss": "ağacı"
+      "gloss": "ağaç"
     },
     {
       "surface": "מיער",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כרתו",
-      "gloss": "kestiler"
+      "gloss": "kesilmiştir"
     },
     {
       "surface": "מעשה",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "במעצד",
-      "gloss": "baltayla"
+      "gloss": "oyma bıçağıyla"
     }
   ],
-  "timestamp": "2026-08-19T10:07:51.083065115Z",
+  "timestamp": "2026-08-24T17:07:08.676023821Z",
   "model": "glm-5.3"
 }

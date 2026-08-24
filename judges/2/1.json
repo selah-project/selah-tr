@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Yahve'nin meleği Gilgal'dan Bokim'e çıktı ve dedi: Sizleri Mısır'dan çıkardım ve sizleri atalarınıza ant içtiğim ülkeye getirdim ve dedim: Antlaşmamı ⟨את⟩ ⟨אתכם⟩ sizinle ebediyen bozmayacağım.",
+  "translation": "Ve Yahve'nin meleği Gilgal'dan Bokim'e çıktı ve dedi: \"Sizi Mısır'dan çıkardım ve sizi atalarınıza yemin ettiğim ülkeye getirdim ve dedim: Ahdimi sizinle ⟨את⟩ ebediyen bozmayacağım.\"",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "çıktı"
+      "gloss": "ve çıktı"
     },
     {
       "surface": "מלאך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הגלגל",
-      "gloss": "Gilgal'dan"
+      "gloss": "Gilgal"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הבכים",
-      "gloss": "Bokim'e"
+      "gloss": "Bokim"
     },
     {
       "surface": "ויאמר",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "çıkaracağım"
+      "gloss": "çıkardım"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "sizleri"
+      "gloss": "⟨את⟩ sizi",
+      "marks": "siz"
     },
     {
       "surface": "ממצרים",
@@ -58,8 +58,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "sizleri"
+      "gloss": "⟨את⟩ sizi",
+      "marks": "siz"
     },
     {
       "surface": "אל",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "ant içtim"
+      "gloss": "yemin ettiğim"
     },
     {
       "surface": "לאבתיכם",
@@ -95,18 +95,18 @@
     },
     {
       "surface": "בריתי",
-      "gloss": "antlaşmamı"
+      "gloss": "ahdimi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "sizinle"
+      "gloss": "⟨את⟩ sizinle",
+      "marks": "siz"
     },
     {
       "surface": "לעולם",
       "gloss": "ebediyen"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.017981782Z",
+  "timestamp": "2026-08-24T17:03:16.899329729Z",
   "model": "glm-5.3"
 }

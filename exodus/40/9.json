@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 40,
-  "translation": "Ve meshiyah yağını alacaksın ve Mişkan'ı ve içindeki her şeyi meshedeceksin; onu ve bütün gereçlerini kutsal kılacaksın ve ⟨o⟩ kutsal olacak.",
+  "translation": "Ve mesh yağını alacaksın ve ⟨את⟩ Mishkan'ı ve içindeki her şeyi meshedeceksin; onu ve bütün kaplarını kutsal kılacaksın ve ⟨o⟩ kutsal olacak.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "alacaksın"
+      "gloss": "ve alacaksın"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meshiyah yağı"
+      "marks": "mesh yağı"
     },
     {
       "surface": "שמן",
@@ -22,20 +22,20 @@
     },
     {
       "surface": "המשחה",
-      "gloss": "meshiyah"
+      "gloss": "mesh yağı"
     },
     {
       "surface": "ומשחת",
-      "gloss": "meshedeceksin"
+      "gloss": "ve meshedeceksin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mişkan'ı"
+      "marks": "Mishkan"
     },
     {
       "surface": "המשכן",
-      "gloss": "Mişkan"
+      "gloss": "Mishkan"
     },
     {
       "surface": "ואת",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "içinde olan"
+      "gloss": "ki"
     },
     {
       "surface": "בו",
@@ -56,17 +56,17 @@
     },
     {
       "surface": "וקדשת",
-      "gloss": "kutsal kılacaksın"
+      "gloss": "ve kutsal kılacaksın"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "onu"
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Mishkan'ı)"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "gereçlerini"
+      "marks": "bütün kapları"
     },
     {
       "surface": "כל",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "gereçleri"
+      "gloss": "kaplarını"
     },
     {
       "surface": "והיה",
@@ -85,6 +85,6 @@
       "gloss": "kutsal"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.025025481Z",
+  "timestamp": "2026-08-24T17:16:51.052418372Z",
   "model": "glm-5.3"
 }

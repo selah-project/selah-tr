@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 69,
-  "translation": "Derin çukurda battım ve ⟨duracak⟩ yer yok; suların derinliklerine girdim ve sel beni sürükledi.",
+  "translation": "Derin balçıkta battım ve ayak basacak yer yok; suların derinliklerine girdim ve sel beni boğuyor.",
   "tokens": [
     {
       "surface": "טבעתי",
-      "gloss": "batтım"
+      "gloss": "battım"
     },
     {
       "surface": "ביון",
-      "gloss": "içinde"
+      "gloss": "balçıkta"
     },
     {
       "surface": "מצולה",
-      "gloss": "derin çukur"
+      "gloss": "derin"
     },
     {
       "surface": "ואין",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מעמד",
-      "gloss": "duracak yer"
+      "gloss": "ayak basacak yer"
     },
     {
       "surface": "באתי",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "שטפתני",
-      "gloss": "sürükledi beni"
+      "gloss": "beni boğuyor"
     }
   ],
-  "timestamp": "2026-08-19T11:01:18.438921484Z",
+  "timestamp": "2026-08-24T17:11:08.283082318Z",
   "model": "glm-5.3"
 }

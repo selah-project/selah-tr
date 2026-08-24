@@ -5,8 +5,33 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Oğlum, hikmetime kulak ver, aklına çevirsen de benim anlayışıma kulağını eğ.",
-  "tokens": [],
-  "timestamp": "2026-08-19T11:17:53.005669386Z",
+  "translation": "Oğlum, hikmetime kulak ver, anlayışıma kulağını eğ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "hikmetime"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "kulak ver"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "anlayışıma"
+    },
+    {
+      "surface": "הט",
+      "gloss": "eğ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kulağını"
+    }
+  ],
+  "timestamp": "2026-08-24T17:12:21.525399263Z",
   "model": "glm-5.3"
 }

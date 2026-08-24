@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 32,
-  "translation": "Susadığım zaman kemiklerim kükrememle ⟨⟨⟩⟩ eriyip tükendi, bütün gün boyunca.",
+  "translation": "Sustuğumda kemiklerim ⟨את⟩ içinde tükenip eskidi, gün boyu inlememle ⟨את⟩ sarstı beni — bütün gün.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "susadığım zaman"
+      "gloss": "sustuğumda"
     },
     {
       "surface": "החרשתי",
-      "gloss": "susadım"
+      "gloss": "sus(t)um"
     },
     {
       "surface": "בלו",
-      "gloss": "eriyip tükendi"
+      "gloss": "tükenip eskidi"
     },
     {
       "surface": "עצמי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בשאגתי",
-      "gloss": "kükrememle"
+      "gloss": "inlememle"
     },
     {
       "surface": "כל",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "היום",
-      "gloss": "gün boyunca"
+      "gloss": "gün"
     }
   ],
-  "timestamp": "2026-08-19T12:21:24.634774773Z",
+  "timestamp": "2026-08-24T17:11:16.509740767Z",
   "model": "glm-5.3"
 }

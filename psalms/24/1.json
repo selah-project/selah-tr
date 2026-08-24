@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Davud'a ait bir mizmor. Yahve'ye ⟨ait⟩ ⟨⟨dir⟩⟩ yeryüzü ve doluluğu, dünyâ ve onda oturanlar.",
+  "translation": "Davud'a ait bir mizmor. Yahve'nindir ⟨⟨⟩⟩ yeryüzü ve doluluğu, dünyâ ve onda oturanlar.",
   "tokens": [
     {
       "surface": "לדוד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahve'ye"
+      "gloss": "Yahve'nindir"
     },
     {
       "surface": "הארץ",
@@ -40,6 +40,6 @@
       "gloss": "onda"
     }
   ],
-  "timestamp": "2026-08-19T10:55:03.985257199Z",
+  "timestamp": "2026-08-24T17:10:22.557795553Z",
   "model": "glm-5.3"
 }

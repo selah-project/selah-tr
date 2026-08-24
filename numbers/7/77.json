@@ -5,8 +5,77 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve shelamim kurbanı için: iki sığır, beç koç, beç teke, beç bir yaşında kuzu — bu, Pagiel'in oğlu Ocran'ın...",
-  "tokens": [],
-  "timestamp": "2026-08-19T07:35:01.784631605Z",
+  "translation": "Ve şelamim kurbanı için iki sığır, beş koç, beç teke, beş bir yıllık kuzu — bu, Pagiel'in, Okran oğlunun kurbânıydı.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "ve kurbanı için"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "şelamim'in"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sığır"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "koç"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "teke"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "kuzu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bir yıllık"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Pagiel'in"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Okran"
+    }
+  ],
+  "timestamp": "2026-08-24T17:01:31.249832422Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve toprağa ⟨the⟩ girince ve yiyecek her ağacı diktikçe, sünnet edilmemiş sayacaksınız onun sünnet edilmemişliğini ⟨את⟩ meyvesini; üç yıl sizin için sünnet edilmemiş olacak, yenmeyecek.",
+  "translation": "Ve ülkeye girdiğinizde ve her yenen ağacı diktiğinizde, sünnet edilmemiş sayacaksınız onun sünnet derisini, ⟨את⟩ meyvesini; üç yıl size sünnet edilmemiş olacak, yenmeyecek.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "ve ki"
+      "gloss": "ve ... -diğinde"
     },
     {
       "surface": "תבאו",
-      "gloss": "gireceksiniz"
+      "gloss": "girdiğinizde"
     },
     {
       "surface": "אל",
-      "gloss": "e doğru"
+      "gloss": "içine"
     },
     {
       "surface": "הארץ",
-      "gloss": "toprağa"
+      "gloss": "ülkeye"
     },
     {
       "surface": "ונטעתם",
-      "gloss": "ve diktikçe"
+      "gloss": "ve diktiğinizde"
     },
     {
       "surface": "כל",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "מאכל",
-      "gloss": "yiyecek"
+      "gloss": "yenen"
     },
     {
       "surface": "וערלתם",
-      "gloss": "ve sünnet edilmemiş sayacaksınız"
+      "gloss": "sünnet edilmemiş sayacaksınız"
     },
     {
       "surface": "ערלתו",
-      "gloss": "onun sünnet edilmemişliği"
+      "gloss": "onun sünnet derisini"
     },
     {
       "surface": "את",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "sizin için"
+      "gloss": "size"
     },
     {
       "surface": "ערלים",
@@ -85,6 +85,6 @@
       "gloss": "yenecek"
     }
   ],
-  "timestamp": "2026-08-19T07:29:01.745324466Z",
+  "timestamp": "2026-08-24T17:01:11.848701232Z",
   "model": "glm-5.3"
 }

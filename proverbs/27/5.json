@@ -5,8 +5,29 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Açık bir çıkış, gizli sevgiden daha iyidir; gizlenmiş olan ⟨ahabat'tan⟩.",
-  "tokens": [],
-  "timestamp": "2026-08-19T12:23:43.460251861Z",
+  "translation": "Açık bir azar, gizli ⟨sevgiden⟩ iyidir.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "iyidir"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "azar"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "açık"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "sevgiden"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "gizli"
+    }
+  ],
+  "timestamp": "2026-08-24T17:13:03.115964667Z",
   "model": "glm-5.3"
 }

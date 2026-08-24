@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Bir tek söz düşmedi bütün ⟨⟨the⟩⟩ iyi sözlerden ki Yahve Yisrael'in evine konuştu; hepsi geldi.",
+  "translation": "Yahve'nin Yisra'el'in evine söylediği bütün güzel sözlerden tek bir söz bile düşmedi — hepsi gerçekleşti.",
   "tokens": [
     {
       "surface": "לא",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מכל",
-      "gloss": "bütün...-den"
+      "gloss": "bütün ... -den"
     },
     {
       "surface": "הדבר",
-      "gloss": "söz"
+      "gloss": "sözlerden"
     },
     {
       "surface": "הטוב",
-      "gloss": "iyi"
+      "gloss": "güzel"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "konuştu"
+      "gloss": "söyledi"
     },
     {
       "surface": "יהוה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "ev"
+      "gloss": "evine"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el'in"
     },
     {
       "surface": "הכל",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "בא",
-      "gloss": "geldi"
+      "gloss": "gerçekleşti"
     }
   ],
-  "timestamp": "2026-08-19T09:12:51.981392778Z",
+  "timestamp": "2026-08-24T17:03:11.787775402Z",
   "model": "glm-5.3"
 }

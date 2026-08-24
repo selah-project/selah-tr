@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 106,
-  "translation": "Ve masum kan döktüler — oğullarının ve kızlarının kanını, Kenaan'ın putlarına kurban ettikleri — ve ⟨the⟩ ülke kanlarla murdarlandı.",
+  "translation": "Ve masum kan döktüler — oğullarının ve kızlarının kanını, Kenan'ın putlarına kurban ettikleri; ve ülke kanlarla lekalandı.",
   "tokens": [
     {
       "surface": "וישפכו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דם",
-      "gloss": "kanı"
+      "gloss": "kanını"
     },
     {
       "surface": "בניהם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki onları"
+      "gloss": "ki"
     },
     {
       "surface": "זבחו",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaan'ın"
+      "gloss": "Kenan'ın"
     },
     {
       "surface": "ותחנף",
-      "gloss": "ve murdarlandı"
+      "gloss": "ve lekalandı"
     },
     {
       "surface": "הארץ",
@@ -60,6 +60,6 @@
       "gloss": "kanlarla"
     }
   ],
-  "timestamp": "2026-08-19T12:22:27.370683584Z",
+  "timestamp": "2026-08-24T17:11:59.582217276Z",
   "model": "glm-5.3"
 }

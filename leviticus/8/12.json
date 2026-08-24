@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve mesh yağından Aharon'un başına döktü, ve onu kutsamak için onu meshetti.",
+  "translation": "Ve mesh yağından Aharon'un başına döktü ve onu ⟨את⟩ kutsaması için meshetti.",
   "tokens": [
     {
       "surface": "ויצק",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "משמן",
-      "gloss": "yağından"
+      "gloss": "mesh yağından"
     },
     {
       "surface": "המשחה",
-      "gloss": "mesh"
+      "gloss": "mesh yağı"
     },
     {
       "surface": "על",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ראש",
-      "gloss": "baş"
+      "gloss": "başı"
     },
     {
       "surface": "אהרן",
@@ -37,14 +37,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "onu"
     },
     {
       "surface": "לקדשו",
-      "gloss": "onu kutsamak için"
+      "gloss": "kutsaması için"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.036522026Z",
+  "timestamp": "2026-08-24T17:16:38.657942476Z",
   "model": "glm-5.3"
 }

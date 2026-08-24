@@ -5,12 +5,12 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 31,
-  "translation": "Midyan'ın krallarını ⟨ואת⟩ değişen cesetleri üzerinde öldürdüler: Evi'yi ⟨את⟩, Rekem'i ⟨ואת⟩, Tsur'u ⟨ואת⟩, Hur'u ⟨ואת⟩ ve Reva'yı ⟨ואת⟩ — Midyan'ın beş kralı; ve Bilam'ı ⟨ואת⟩, Beor'un oğlu, kılıçla öldürdüler.",
+  "translation": "Ve Midyan'ın krallarını ⟨את⟩ kendi öldürülenlerinin üzerinde öldürdüler: Evi'yi ⟨את⟩ ve Rekem'i ⟨את⟩ ve Tsur'u ⟨את⟩ ve Hur'u ⟨את⟩ ve Reva'yı ⟨את⟩ — Midyan'ın beş kralı; ve Bilam'ı ⟨את⟩, Beor oğlunu, kılıçla öldürdüler.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
-      "marks": "krallarını"
+      "gloss": "⟨את⟩",
+      "marks": "Midyan'ın krallarını"
     },
     {
       "surface": "מלכי",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "על",
-      "gloss": "üzerine"
+      "gloss": "üzerinde"
     },
     {
       "surface": "חלליהם",
-      "gloss": "cesetleri"
+      "gloss": "kendi öldürülenlerinin"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "Rekem'i"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tsur'u"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "Hur'u"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "Reva'yı"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "Bilam'ı"
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "surface": "בעור",
-      "gloss": "Beor'un"
+      "gloss": "Beor"
     },
     {
       "surface": "הרגו",
@@ -115,6 +115,6 @@
       "gloss": "kılıçla"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.042504015Z",
+  "timestamp": "2026-08-24T17:02:14.531647866Z",
   "model": "glm-5.3"
 }

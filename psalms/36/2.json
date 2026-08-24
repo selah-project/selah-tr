@@ -5,27 +5,27 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 36,
-  "translation": "Rasim פשע'yi kötüye söyler — kötünün isyanı kalbimin içinde ⟨bir rasimdir⟩: Elohim korkusu yok onun gözlerinin önünde.",
+  "translation": "Kötünün başkaldırısının ⟨bir⟩ sözü ⟨var⟩ içimde, yüreğimin ortasında: Elohim korkusu yok ⟨onun⟩ gözlerinin önünde.",
   "tokens": [
     {
       "surface": "נאם",
-      "gloss": "rasim"
+      "gloss": "sözü (belki nebi sözü)"
     },
     {
       "surface": "פשע",
-      "gloss": "isyan"
+      "gloss": "başkaldırının"
     },
     {
       "surface": "לרשע",
-      "gloss": "kötüye"
+      "gloss": "kötüye ait"
     },
     {
       "surface": "בקרב",
-      "gloss": "içinde"
+      "gloss": "ortasında"
     },
     {
       "surface": "לבי",
-      "gloss": "kalbimin"
+      "gloss": "yüreğimin"
     },
     {
       "surface": "אין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פחד",
-      "gloss": "korku"
+      "gloss": "korkusu"
     },
     {
       "surface": "אלהים",
@@ -48,6 +48,6 @@
       "gloss": "gözlerinin"
     }
   ],
-  "timestamp": "2026-08-19T10:56:38.187340934Z",
+  "timestamp": "2026-08-24T17:11:24.260347001Z",
   "model": "glm-5.3"
 }

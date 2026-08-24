@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Onları da ⟨את⟩ ⟨אתם⟩ Kral Duvid Yahve'ye kutsadı; boyun eğdiği bütün uluslardan kutsadığı gümüş ve altınla birlikte.",
+  "translation": "Onları da kral Davud Yahve'ye ⟨את⟩ kutsadı — o gümüş ve altınla birlikte ki bunları ezip boyun eğdirdiği bütün uluslardan kutsamıştı.",
   "tokens": [
     {
       "surface": "גם",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (kapları)"
     },
     {
       "surface": "הקדיש",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "Kral"
+      "gloss": "kral"
     },
     {
       "surface": "דוד",
-      "gloss": "Duvid"
+      "gloss": "Davud"
     },
     {
       "surface": "ליהוה",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "הקדיש",
-      "gloss": "kutsadığı"
+      "gloss": "kutsamıştı"
     },
     {
       "surface": "מכל",
-      "gloss": "bütün"
+      "gloss": "bütün...dan"
     },
     {
       "surface": "הגוים",
-      "gloss": "uluslardan"
+      "gloss": "uluslar"
     },
     {
       "surface": "אשר",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "כבש",
-      "gloss": "boyun eğdiği"
+      "gloss": "ezip boyun eğdirdi"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.010294274Z",
+  "timestamp": "2026-08-24T17:04:31.415683392Z",
   "model": "glm-5.3"
 }

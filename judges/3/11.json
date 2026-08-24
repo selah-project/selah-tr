@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve ⟨the⟩ ülke kırk yıl sükûnet buldu ve Kenaz oğlu Otniel öldü.",
+  "translation": "Ve ⟨ארץ⟩ dinlendi kırk yıl; ve öldü Otniel, Kenaz oğlu.",
   "tokens": [
     {
       "surface": "ותשקט",
-      "gloss": "sükûnet buldu"
+      "gloss": "ve dinlendi"
     },
     {
       "surface": "הארץ",
-      "gloss": "ülke"
+      "gloss": "⟨ארץ⟩ (toprak\/ülke)"
     },
     {
       "surface": "ארבעים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וימת",
-      "gloss": "öldü"
+      "gloss": "ve öldü"
     },
     {
       "surface": "עתניאל",
@@ -40,6 +40,6 @@
       "gloss": "Kenaz"
     }
   ],
-  "timestamp": "2026-08-19T09:14:36.962346639Z",
+  "timestamp": "2026-08-24T17:03:15.190208931Z",
   "model": "glm-5.3"
 }

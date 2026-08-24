@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve נשמע oldu: Sanballat'a ve Toviyah'a ve Arap Geşem'e ve düşmanlarımızın geri kalanına — çünkü duvarı örmüştüm ve onda hiçbir kırık kalmamıştı; hatta o zamana kadar kapıları da kapılara kurmamıştım — bunu duyunca",
+  "translation": "Ve oldu, Sanballat'a, Tovya'ya, Arap Geşem'e ve düşmanlarımızın geri kalanına duyurulduğunda — duvarı örmüştüm ve onda hiç gedik kalmamıştı; ta o zamana kadar kapılara kapıları yerleştirmemiştim —",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ve oldu"
+      "gloss": "Ve oldu"
     },
     {
       "surface": "כאשר",
-      "gloss": "ne zaman ki"
+      "gloss": "diğinde"
     },
     {
       "surface": "נשמע",
-      "gloss": "duyuldu"
+      "gloss": "duyurulduğunda"
     },
     {
       "surface": "לסנבלט",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וטוביה",
-      "gloss": "ve Toviyah'a"
+      "gloss": "ve Tovya'ya"
     },
     {
       "surface": "ולגשם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "çünkü"
+      "gloss": "ki"
     },
     {
       "surface": "בניתי",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "החומה",
-      "gloss": "duvar"
+      "gloss": "duvarı"
     },
     {
       "surface": "ולא",
-      "gloss": "ve değil"
+      "gloss": "ve…-mAmıştı"
     },
     {
       "surface": "נותר",
-      "gloss": "kalmıştı"
+      "gloss": "kalmamıştı"
     },
     {
       "surface": "בה",
@@ -74,19 +74,19 @@
     },
     {
       "surface": "פרץ",
-      "gloss": "kırık"
+      "gloss": "gedik"
     },
     {
       "surface": "גם",
-      "gloss": "hatta"
+      "gloss": "ta"
     },
     {
       "surface": "עד",
-      "gloss": "-e kadar"
+      "gloss": "kadar"
     },
     {
       "surface": "העת",
-      "gloss": "zaman"
+      "gloss": "o zamana"
     },
     {
       "surface": "ההיא",
@@ -94,21 +94,21 @@
     },
     {
       "surface": "דלתות",
-      "gloss": "kapılar"
+      "gloss": "kapıları"
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "-mEdİm"
     },
     {
       "surface": "העמדתי",
-      "gloss": "kurmuştum"
+      "gloss": "yerleştirmemiştim"
     },
     {
       "surface": "בשערים",
-      "gloss": "surların kapı yerlerinde"
+      "gloss": "kapılara"
     }
   ],
-  "timestamp": "2026-08-19T11:50:31.605167806Z",
+  "timestamp": "2026-08-24T17:15:41.743618724Z",
   "model": "glm-5.3"
 }

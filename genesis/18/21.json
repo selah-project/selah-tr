@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 18,
-  "translation": "İneyim ⟨⟨şimdi⟩⟩ ve göreyim — bana ulaşan çığlığa tamamen mı uyup uymadıklarını; eğer uymadılarsa, bilirim.”",
+  "translation": "İneyim ⟨de⟩ ve göreyim — çığlığa göre mi davranmışlar, bana ulaşan ⟨o çığlığın⟩ tamamını ⟨mı doldurmuşlar⟩; ve eğer değilse, bilirim.",
   "tokens": [
     {
       "surface": "ארדה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "⟨şimdi⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "ואראה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הבאה",
-      "gloss": "gelen"
+      "gloss": "bana ulaşan"
     },
     {
       "surface": "אלי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "עשו",
-      "gloss": "yaptılar mı"
+      "gloss": "davranmışlar"
     },
     {
       "surface": "כלה",
-      "gloss": "tamamen"
+      "gloss": "tamamını"
     },
     {
       "surface": "ואם",
@@ -52,6 +52,6 @@
       "gloss": "bilirim"
     }
   ],
-  "timestamp": "2026-08-19T06:58:19.044160817Z",
+  "timestamp": "2026-08-24T17:55:22.547540087Z",
   "model": "glm-5.3"
 }

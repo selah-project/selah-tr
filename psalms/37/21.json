@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 37,
-  "translation": "Rüşvet alan kötü ⟨bir adam⟩ öder ⟨etmez⟩; ve doğru olan lütufkârdır ⟨etmez⟩; ve verir ⟨etmez⟩.",
-  "tokens": [],
-  "timestamp": "2026-08-19T10:56:49.758438747Z",
+  "translation": "Kötü ödünç alır ve geri ödemez; salih ise lütfeder ve verir.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "ödünç alır"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kötü"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve geri ödemez"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "öder"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "salih ise"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "lütfeder"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ve verir"
+    }
+  ],
+  "timestamp": "2026-08-24T17:11:08.394209152Z",
   "model": "glm-5.3"
 }

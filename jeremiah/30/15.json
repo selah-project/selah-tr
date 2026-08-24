@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 30,
-  "translation": "Neden bağırıyorsun kırığın yüzünden? Acın ⟨⟨çaresizdir⟩⟩; suçlarının bolluğu yüzünden, günahların ⟨⟨pek⟩⟩ büyüdü — bunları sana ben yaptım.",
+  "translation": "Neden bağırıyorsun yaran için? Kırığın ölümcül, acın ⟨iyileşmez⟩; suçlarının çokluğundan ötürü günahların ⟨kaskatı⟩ oldu — bunları sana ben yaptım.",
   "tokens": [
     {
       "surface": "מה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "על",
-      "gloss": "yüzünden"
+      "gloss": "için"
     },
     {
       "surface": "שברך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אנוש",
-      "gloss": "çaresizdir"
+      "gloss": "ölümcül"
     },
     {
       "surface": "מכאבך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "על",
-      "gloss": "yüzünden"
+      "gloss": "-den ötürü"
     },
     {
       "surface": "רב",
-      "gloss": "bolluğu"
+      "gloss": "çokluğu"
     },
     {
       "surface": "עונך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "עצמו",
-      "gloss": "büyüdü"
+      "gloss": "güçlendi"
     },
     {
       "surface": "חטאתיך",
@@ -64,6 +64,6 @@
       "gloss": "sana"
     }
   ],
-  "timestamp": "2026-08-19T10:13:05.513705170Z",
+  "timestamp": "2026-08-24T17:07:42.927325257Z",
   "model": "glm-5.3"
 }

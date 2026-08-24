@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Davut'a ait. Yahve benim ışığımdır ve kurtuluşum — kimden korkayım? Yahve ⟨⟨⟩⟩ yaşamımın kalesidir — kimden titreyeyim?",
+  "translation": "Davud'a ait. Yahve ışığımdır ve kurtuluşum — kimden korkayım? Yahve yaşamımın sığınağı — kimden ürkeyim?",
   "tokens": [
     {
       "surface": "לדוד",
-      "gloss": "Davut'a ait"
+      "gloss": "Davud'a ait"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אורי",
-      "gloss": "benim ışığımdır"
+      "gloss": "ışığımdır"
     },
     {
       "surface": "וישעי",
@@ -32,12 +32,12 @@
       "gloss": "korkayım"
     },
     {
-      "surface": "יהוה",
+      "surface": "יהוԱ",
       "gloss": "Yahve"
     },
     {
       "surface": "מעוז",
-      "gloss": "kalesidir"
+      "gloss": "sığınağı"
     },
     {
       "surface": "חיי",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "אפחד",
-      "gloss": "titreyeyim"
+      "gloss": "ürkeyim"
     }
   ],
-  "timestamp": "2026-08-19T10:55:51.627210762Z",
+  "timestamp": "2026-08-24T17:10:31.809759487Z",
   "model": "glm-5.3"
 }

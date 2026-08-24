@@ -5,19 +5,19 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Öfkede yavaş olan ⟨⟨bir insan⟩⟩ bol anlayışlıdır, ama ruhu kısa ⟨⟨olan⟩⟩ saçmalığı yükseltir.",
+  "translation": "Öfkede yavaş olan ⟨⟨adam⟩⟩ çok anlayışlıdır; ama ruhu kısa ⟨olan⟩ ahmaklığı yükseltir.",
   "tokens": [
     {
       "surface": "ארך",
-      "gloss": "uzun\/yavaş"
+      "gloss": "yavaş (uzun)"
     },
     {
       "surface": "אפים",
-      "gloss": "öfkede (burun delikleri)"
+      "gloss": "öfkede"
     },
     {
       "surface": "רב",
-      "gloss": "bol"
+      "gloss": "çok"
     },
     {
       "surface": "תבונה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "וקצר",
-      "gloss": "ama kısa"
+      "gloss": "ve kısa"
     },
     {
       "surface": "רוח",
-      "gloss": "ruh\/öfke"
+      "gloss": "ruh"
     },
     {
       "surface": "מרים",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "אולת",
-      "gloss": "saçmalık"
+      "gloss": "ahmaklık"
     }
   ],
-  "timestamp": "2026-08-19T11:20:05.901991543Z",
+  "timestamp": "2026-08-24T17:13:08.073032780Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,106 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Ve Yehuda'dan gelen Elohim adamına seslendi: \"Şöyle dedi Yahve: Çünkü Yahve'nin ağzına karşı geldin ve Yahve'nin sana emrettiği ⟨את⟩ buyruğu korumadın, Elohim'inin",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:40:34.641483572Z",
+  "translation": "Ve Yahuda'dan gelen Elohim adamına seslenerek şöyle dedi: Yahve şöyle diyor: Yahve'nin ağzına başkaldırdığın ve Yahve, Elohim'inin sana buyurduğu ⟨את⟩ buyruğu korumadığın için,",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "seslendi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—e doğru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelmiş"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yahuda'dan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diyerek"
+    },
+    {
+      "surface": "כה",
+      "gloss": "şöyle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "için"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "מרית",
+      "gloss": "başkaldırdın"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve -madın"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "kordun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruğu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruğu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "sana buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim'in"
+    }
+  ],
+  "timestamp": "2026-08-24T17:05:33.916394107Z",
   "model": "glm-5.3"
 }

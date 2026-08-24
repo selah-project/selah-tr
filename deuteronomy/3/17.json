@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve ⟨the⟩ Araba, ve Yardén ve ⟨the⟩ sınır — Kinéret'ten ta ⟨the⟩ Araba Denizi'ne, Tuz Denizi'ne — Pisga yamaçlarının altında, doğuya doğru.",
+  "translation": "Ve ⟨the⟩ Arava ve Yarden ve sınır, Kinoret'ten ve Arava Denizi'ne kadar — Melah Denizi — Pişga'nın yamaçları altında, doğuya doğru.",
   "tokens": [
     {
       "surface": "והערבה",
-      "gloss": "ve Araba"
+      "gloss": "ve ⟨the⟩ Arava"
     },
     {
       "surface": "והירדן",
-      "gloss": "ve Yardén"
+      "gloss": "ve Yarden"
     },
     {
       "surface": "וגבל",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "מכנרת",
-      "gloss": "Kinéret'ten"
+      "gloss": "Kinoret'ten"
     },
     {
       "surface": "ועד",
-      "gloss": "ta"
+      "gloss": "ve ... kadar"
     },
     {
       "surface": "ים",
-      "gloss": "deniz"
+      "gloss": "Denizi"
     },
     {
       "surface": "הערבה",
-      "gloss": "Araba'nın"
+      "gloss": "Arava'nın"
     },
     {
       "surface": "ים",
-      "gloss": "deniz"
+      "gloss": "Deniz"
     },
     {
       "surface": "המלח",
-      "gloss": "tuz"
+      "gloss": "Melah (tuz)"
     },
     {
       "surface": "תחת",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "הפסגה",
-      "gloss": "Pisga'nın"
+      "gloss": "Pişga'nın"
     },
     {
       "surface": "מזרחה",
       "gloss": "doğuya"
     }
   ],
-  "timestamp": "2026-08-19T08:58:50.140219001Z",
+  "timestamp": "2026-08-24T17:02:00.344570210Z",
   "model": "glm-5.3"
 }

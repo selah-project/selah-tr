@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve bu ⟨⟨ה⟩⟩ buyruk — ⟨⟨ה⟩⟩ kurallar ve ⟨⟨ה⟩⟩ hükümler — ki Yahve, Elohim'iniz, size öğretsin diye buyurdu; girmekte olduğunuz ⟨⟨ה⟩⟩ toprakta, oraya miras almak için geçip ⟩⟨onları⟩⟨ yapasınız diye.",
+  "translation": "Ve bu ⟨⟨emir⟩⟩ ⟨ḥukuk⟩ ve ⟨mişpatlar⟩ ki Yahve Elohiniz size öğretmeniz için buyurdu — oraya geçip onu mîras almak üzere olduğunuz ülkede yapmanız için.",
   "tokens": [
     {
       "surface": "וזאת",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "המצוה",
-      "gloss": "⟨ה⟩ buyruk"
+      "gloss": "emir"
     },
     {
       "surface": "החקים",
-      "gloss": "⟨ה⟩ kurallar"
+      "gloss": "ḥukuk"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "ve ⟨ה⟩ hükümler"
+      "gloss": "ve mişpatlar"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim'iniz"
+      "gloss": "Elohiniz"
     },
     {
       "surface": "ללמד",
@@ -45,8 +45,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizleri",
-      "marks": "öğretmek için"
+      "gloss": "⟨את⟩ sizi",
+      "marks": "öğretmenin muhatabı: siz"
     },
     {
       "surface": "לעשות",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "toprakta"
+      "gloss": "ülkede"
     },
     {
       "surface": "אשר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "עברים",
-      "gloss": "geçmekte olanlar"
+      "gloss": "geçiyorsunuz"
     },
     {
       "surface": "שמה",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "onu miras almak için"
+      "gloss": "onu mîras almak için"
     }
   ],
-  "timestamp": "2026-08-19T08:59:42.046500984Z",
+  "timestamp": "2026-08-24T17:02:08.528226373Z",
   "model": "glm-5.3"
 }

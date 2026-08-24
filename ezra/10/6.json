@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ezra Elohim'in ⟨⟨the⟩⟩ evinin önünden kalktı ve Yehohanan ben Eliyaşiv'in odasına gitti; oraya gitti, ekmek yemedi ve su içmedi, çünkü sürgünlerin ihaneti üzerine yas tutuyordu.",
+  "translation": "Ve Ezra Beyit-Elohim'in önünden kalktı ve Yehohanan ben Eliyaşiv'in odasına gitti; oraya gitti, ekmek yemedi ve su içmedi, çünkü sürgünün ihaneti üzerine yas tutuyordu.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "kalktı"
+      "gloss": "ve kalktı"
     },
     {
       "surface": "עזרא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "ev"
+      "gloss": "Beyit"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim'in"
+      "gloss": "Elohim"
     },
     {
       "surface": "וילך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "içine"
+      "gloss": "el"
     },
     {
       "surface": "לשכת",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "oğlu"
+      "gloss": "ben"
     },
     {
       "surface": "אלישיב",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "yemedi değil"
     },
     {
       "surface": "אכל",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "içmedi değil"
     },
     {
       "surface": "שתה",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "מעל",
-      "gloss": "ihaneti"
+      "gloss": "ihanet"
     },
     {
       "surface": "הגולה",
-      "gloss": "sürgünlerin"
+      "gloss": "sürgünün"
     }
   ],
-  "timestamp": "2026-08-19T11:48:33.199729532Z",
+  "timestamp": "2026-08-24T17:15:35.389193045Z",
   "model": "glm-5.3"
 }

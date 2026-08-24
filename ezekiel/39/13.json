@@ -5,15 +5,11 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 39,
-  "translation": "Ve bütün ülkenin halkı onları gömecek; bu onlara ⟨⟨bir⟩⟩ ad olacak — benim yücelendiğim gün, neum Adonay Yahve.",
+  "translation": "Ve bütün halkı ⟨את⟩ yeryüzünün gömecek; ve onlar için ⟨bir⟩ ün olacak — görkemlendirildiğim gün, neumu Adonay Yahve.",
   "tokens": [
     {
-      "surface": "וקקברו",
-      "gloss": ""
-    },
-    {
       "surface": "וקברו",
-      "gloss": "ve gömecekler"
+      "gloss": "ve gömecek"
     },
     {
       "surface": "כל",
@@ -25,7 +21,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ülkenin"
+      "gloss": "yeryüzünün"
     },
     {
       "surface": "והיה",
@@ -33,23 +29,23 @@
     },
     {
       "surface": "להם",
-      "gloss": "onlara"
+      "gloss": "onlar için"
     },
     {
       "surface": "לשם",
-      "gloss": "ad"
+      "gloss": "ün"
     },
     {
       "surface": "יום",
-      "gloss": "günü"
+      "gloss": "gün"
     },
     {
       "surface": "הכבדי",
-      "gloss": "yücelendiğim"
+      "gloss": "görkemlendirildiğim"
     },
     {
       "surface": "נאם",
-      "gloss": "neum (söz)"
+      "gloss": "neumu (ilahi söz)"
     },
     {
       "surface": "אדני",
@@ -60,6 +56,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-19T10:35:34.980365411Z",
+  "timestamp": "2026-08-24T17:08:54.200737632Z",
   "model": "glm-5.3"
 }

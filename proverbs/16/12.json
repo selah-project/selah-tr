@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Krallar için iğrençlik ⟨⟨ד⟩⟩ kötülük işlemektir; çünkü taht doğrulukla sağlamlaşır.",
+  "translation": "Küçük görmektir krallar için kötülük işlemek; çünkü adaletle taht sağlam durur.",
   "tokens": [
     {
       "surface": "תועבת",
-      "gloss": "iğrençlik"
+      "gloss": "iğrençlik\/küçük görme"
     },
     {
       "surface": "מלכים",
-      "gloss": "krallar"
+      "gloss": "krallar için"
     },
     {
       "surface": "עשות",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "בצדקה",
-      "gloss": "doğrulukla"
+      "gloss": "adaletle"
     },
     {
       "surface": "יכון",
-      "gloss": "sağlamlaşır"
+      "gloss": "sağlam durur"
     },
     {
       "surface": "כסא",
       "gloss": "taht"
     }
   ],
-  "timestamp": "2026-08-19T11:20:18.221655433Z",
+  "timestamp": "2026-08-24T17:13:19.907319099Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 22,
-  "translation": "Ve Yehoşafat'ın geri kalan işleri, gösterdiği gücü ve savaştıkları — yazılı değil midir Yehuda krallarının ⟨the⟩ günlerin işleri kitabının üzerinde?",
+  "translation": "Yehoşafat'ın öteki işleri, gösterdiği gücü ve savaştığı savaşlar — ⟨הלא⟩ onlar Yahuda krallarının günleri kitabında yazılmış değil midir?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "ve geri kalan"
+      "gloss": "öteki"
     },
     {
       "surface": "דברי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Yehoşafat"
+      "gloss": "Yehoşafat'ın"
     },
     {
       "surface": "וגבורתו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "yaptı"
+      "gloss": "yaptığı"
     },
     {
       "surface": "ואשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נלחם",
-      "gloss": "savaştı"
+      "gloss": "savaştığı"
     },
     {
       "surface": "הלא",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "yazılı"
+      "gloss": "yazılmış"
     },
     {
       "surface": "על",
-      "gloss": "üzerinde"
+      "gloss": "üzerine"
     },
     {
       "surface": "ספר",
-      "gloss": "kitap"
+      "gloss": "kitabında"
     },
     {
       "surface": "דברי",
-      "gloss": "işleri"
+      "gloss": "sözcükleri"
     },
     {
       "surface": "הימים",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yahuda"
     }
   ],
-  "timestamp": "2026-08-19T09:43:31.965346406Z",
+  "timestamp": "2026-08-24T17:05:25.706485503Z",
   "model": "glm-5.3"
 }

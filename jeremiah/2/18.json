@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve şimdi sana ne <⟨the⟩> Mısır yolundan, Şihor sularını içmeye? Ve sana ne Aşur yolundan, Irmak sularını içmeye?",
+  "translation": "Ve şimdi, Mısır yolunda neyin var — Şihor sularını içmeye? Ve Aşşur yolunda neyin var — Nehir sularını içmeye?",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "sana"
+      "gloss": "nemin var sana"
     },
     {
       "surface": "לדרך",
-      "gloss": "yolundan"
+      "gloss": "yolunda"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mısır"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "לשתות",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "sana"
+      "gloss": "nemin var sana"
     },
     {
       "surface": "לדרך",
-      "gloss": "yolundan"
+      "gloss": "yolunda"
     },
     {
       "surface": "אשור",
-      "gloss": "Aşur"
+      "gloss": "Aşşur"
     },
     {
       "surface": "לשתות",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "נהר",
-      "gloss": "Irmak"
+      "gloss": "Nehir"
     }
   ],
-  "timestamp": "2026-08-19T10:05:30.231627970Z",
+  "timestamp": "2026-08-24T17:07:00.539701968Z",
   "model": "glm-5.3"
 }

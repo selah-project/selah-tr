@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 15,
-  "translation": "Ve İsrail oğullarının bütün cemaatine ve aralarında konuk olan gere bağışlanacak; çünkü bütün halk ⟨⟨yanılgı ile⟩⟩ ⟨etti⟩.",
+  "translation": "Ve İsrail oğullarının bütün cemaatine ve aralarında konuk olarak yaşayan yabancıya bağışlanacak; çünkü bütün hata ile işledi ⟨⟨hata⟩⟩.",
   "tokens": [
     {
       "surface": "ונסלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "bütün"
+      "gloss": "bütün ... -e"
     },
     {
       "surface": "עדת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ולגר",
-      "gloss": "ve gere"
+      "gloss": "ve yabancıya"
     },
     {
       "surface": "הגר",
-      "gloss": "konuk olan"
+      "gloss": "konuk olarak yaşayan"
     },
     {
       "surface": "בתוכם",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "לכל",
-      "gloss": "bütün"
+      "gloss": "bütün ... -e"
     },
     {
       "surface": "העם",
-      "gloss": "halk"
+      "gloss": "halkın"
     },
     {
       "surface": "בשגגה",
-      "gloss": "yanılgı ile"
+      "gloss": "hata ile"
     }
   ],
-  "timestamp": "2026-08-19T07:37:59.108713621Z",
+  "timestamp": "2026-08-24T17:01:39.736577349Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 110,
-  "translation": "Adonay ⟨⟨senin⟩⟩ sağında ⟨⟨dursun⟩⟩; öfke gününde kralları paramparça edecek.",
+  "translation": "Adonay senin sağında, öfke gününde kralları ezip parçalar.",
   "tokens": [
     {
       "surface": "אדני",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "על",
-      "gloss": "yanında"
+      "gloss": "üzere"
     },
     {
       "surface": "ימינך",
-      "gloss": "sağında"
+      "gloss": "senin sağında"
     },
     {
       "surface": "מחץ",
-      "gloss": "paramparça edecek"
+      "gloss": "ezip parçalar"
     },
     {
       "surface": "ביום",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "אפו",
-      "gloss": "öfkesinin"
+      "gloss": "öfkesinin (burnunun)"
     },
     {
       "surface": "מלכים",
       "gloss": "kralları"
     }
   ],
-  "timestamp": "2026-08-19T11:07:56.245265940Z",
+  "timestamp": "2026-08-24T17:12:43.952806741Z",
   "model": "glm-5.3"
 }

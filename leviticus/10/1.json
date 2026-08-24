@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Aharon'un oğulları Nadav ve Avihu, her biri kendi маhtasını aldı; içine ateş koydular ve üzerine kıtar koydular; Yahve'nin önünde, O'nun kendilerine emretmediği yabancı ateş sundular.",
+  "translation": "Aharon'un oğulları Nadav ve Avihu, her biri kendi mahtasını aldı, içine ateş koydular ve üzerine ketoret koydular; Yahve'nin önüne, O'nun kendilerine emretmediği yabancı ateş sundular.",
   "tokens": [
     {
       "surface": "ויקחו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon'un"
+      "gloss": "Aharon"
     },
     {
       "surface": "נדב",
@@ -28,7 +28,7 @@
       "gloss": "ve Avihu"
     },
     {
-      "surface": "איש",
+      "surface": "אישׁ",
       "gloss": "her biri"
     },
     {
@@ -44,12 +44,12 @@
       "gloss": "içine"
     },
     {
-      "surface": "אש",
+      "surface": "אשׁ",
       "gloss": "ateş"
     },
     {
       "surface": "וישימו",
-      "gloss": "ve koydular"
+      "gloss": "yerleştirdiler"
     },
     {
       "surface": "עליה",
@@ -57,22 +57,22 @@
     },
     {
       "surface": "קטרת",
-      "gloss": "kıtar"
+      "gloss": "ketoret"
     },
     {
       "surface": "ויקרבו",
-      "gloss": "ve sundular"
+      "gloss": "sundular"
     },
     {
       "surface": "לפני",
-      "gloss": "önünde"
+      "gloss": "önüne"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahve"
     },
     {
-      "surface": "אש",
+      "surface": "אשׁ",
       "gloss": "ateş"
     },
     {
@@ -80,7 +80,7 @@
       "gloss": "yabancı"
     },
     {
-      "surface": "אשר",
+      "surface": "אשׁר",
       "gloss": "ki"
     },
     {
@@ -97,6 +97,6 @@
       "marks": "onları"
     }
   ],
-  "timestamp": "2026-08-19T07:25:44.248270765Z",
+  "timestamp": "2026-08-24T17:01:19.927226693Z",
   "model": "glm-5.3"
 }

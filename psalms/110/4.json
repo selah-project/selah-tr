@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 110,
-  "translation": "Yahve and içti ve pişman olmayacak: «Sen sonsuza dek kutsalsın, Malki-Tsedek düzenince kâhinsin.»",
+  "translation": "Yahve and içmeyecek, sen sonsuza dek kâhinsin Malki-Tsedek düzeni üzere — Yahve and etti.",
   "tokens": [
     {
       "surface": "נשבע",
-      "gloss": "and içti"
+      "gloss": "and etti"
     },
     {
       "surface": "יהוה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve olmayacak"
+      "gloss": "ve ... -meyecek"
     },
     {
       "surface": "ינחם",
-      "gloss": "pişman"
+      "gloss": "içmeyecek (pişman olmayacak)"
     },
     {
       "surface": "אתה",
-      "gloss": "Sen"
+      "gloss": "sen"
     },
     {
       "surface": "כהן",
-      "gloss": "kâhinsin"
+      "gloss": "kâhin"
     },
     {
       "surface": "לעולם",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "על",
-      "gloss": "-ince"
+      "gloss": "üzere"
     },
     {
       "surface": "דברתי",
-      "gloss": "düzen"
+      "gloss": "düzeni (usulünce)"
     },
     {
       "surface": "מלכי",
-      "gloss": "Malki"
+      "gloss": "Malki-"
     },
     {
       "surface": "צדק",
-      "gloss": "Tsedek"
+      "gloss": "-Tsedek"
     }
   ],
-  "timestamp": "2026-08-19T11:08:16.703941694Z",
+  "timestamp": "2026-08-24T17:12:43.952555639Z",
   "model": "glm-5.3"
 }

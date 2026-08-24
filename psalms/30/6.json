@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 30,
-  "translation": "Çünkü bir an sürer O'nun öfkesi, yaşam ⟨⟨dir⟩⟩ O'nun hoşnutluğunda; akşamda ağlamak konaklar, sabaha ⟨ise⟩ sevinç çığlığı.",
+  "translation": "Çünkü bir göz kırpımı sürer öfkesi, yaşam ⟨is⟩ rızasında; akşam konaklar ağlamak, sabaha ⟨gelince⟩ sevinç çığlığı.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "רגע",
-      "gloss": "bir an"
+      "gloss": "bir göz kırpımı"
     },
     {
       "surface": "באפו",
-      "gloss": "O'nun öfkesinde"
+      "gloss": "öfkesinde"
     },
     {
       "surface": "חיים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ברצונו",
-      "gloss": "O'nun hoşnutluğunda"
+      "gloss": "rızasında"
     },
     {
       "surface": "בערב",
-      "gloss": "akşamda"
+      "gloss": "akşam"
     },
     {
       "surface": "ילין",
@@ -48,6 +48,6 @@
       "gloss": "sevinç çığlığı"
     }
   ],
-  "timestamp": "2026-08-19T10:56:24.418224091Z",
+  "timestamp": "2026-08-24T17:11:08.194764348Z",
   "model": "glm-5.3"
 }

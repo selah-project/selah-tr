@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 139,
-  "translation": "Ve benim için ⟨bu kadar⟩ değerli ⟨duruyor⟩ düşüncelerin, El ⟨אל⟩! Onların sayısı ⟨ne⟩ çok!",
+  "translation": "Ve bana — ne kadar kıymetlidir düşüncelerin, El! Ne çoktur onların toplamı!",
   "tokens": [
     {
       "surface": "ולי",
-      "gloss": "ve benim için"
+      "gloss": "ve bana"
     },
     {
       "surface": "מה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יקרו",
-      "gloss": "değerli"
+      "gloss": "kıymetlidir"
     },
     {
       "surface": "רעיך",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "מה",
-      "gloss": "ne"
+      "gloss": "ne kadar"
     },
     {
       "surface": "עצמו",
-      "gloss": "çok"
+      "gloss": "çoktur"
     },
     {
       "surface": "ראשיהם",
-      "gloss": "sayısı (başları)"
+      "gloss": "onların toplamı"
     }
   ],
-  "timestamp": "2026-08-19T11:13:22.948544676Z",
+  "timestamp": "2026-08-24T17:12:28.063131407Z",
   "model": "glm-5.3"
 }

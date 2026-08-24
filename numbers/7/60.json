@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Dokuzuncu gün: Binyamin oğullarının ⟨בן⟩ önderi, Gidoni oğlu Avidan ⟨sundu⟩",
+  "translation": "Dokuzuncu gün Binyamin oğullarının nişi ⟨idi⟩: Gidoni oğlu Avidan.",
   "tokens": [
     {
       "surface": "ביום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נשיא",
-      "gloss": "önder"
+      "gloss": "niş (önder)"
     },
     {
       "surface": "לבני",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "גדעני",
-      "gloss": "Gidoni'nin"
+      "gloss": "Gidoni"
     }
   ],
-  "timestamp": "2026-08-19T07:34:21.964234609Z",
+  "timestamp": "2026-08-24T17:01:43.462001251Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Onları Kasifya yerinde ⟨the⟩ başkan İddo'ya gönderdim ve ağızlarına sözler koydum: Kasifya yerinde İddo'nun kardeşlerine, Netinimlere, Elohimimizin evine hizmetkarlar getirmek için bize söz söyleyecekler.",
+  "translation": "Onları ⟨את⟩ Kasifya yerindeki başkan İddo'nun yanına gönderdim ve onların ağzına, Kasifya yerinde görevlendirilmiş olan İddo'ya ve kardeşlerine, Elohim'imizin evine bize hizmetkârlar getirmeleri için söyleyecek sözleri koydum.",
   "tokens": [
     {
       "surface": "ואוצאה",
@@ -13,11 +13,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ onları"
+      "gloss": "⟨את⟩",
+      "marks": "onları"
     },
     {
       "surface": "על",
-      "gloss": "üzere"
+      "gloss": "yanına"
     },
     {
       "surface": "אדו",
@@ -29,7 +30,7 @@
     },
     {
       "surface": "בכספיא",
-      "gloss": "Kasifya'da"
+      "gloss": "Kasifya'daki"
     },
     {
       "surface": "המקום",
@@ -49,11 +50,11 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "söyleyecekler"
+      "gloss": "söylemek için"
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "…e karşı"
     },
     {
       "surface": "אדו",
@@ -65,11 +66,11 @@
     },
     {
       "surface": "הנתונים",
-      "gloss": "atanmışlar (Netinimler)"
+      "gloss": "görevlendirilmiş olanlara"
     },
     {
       "surface": "בכספיא",
-      "gloss": "Kasifya'da"
+      "gloss": "Kasifya'daki"
     },
     {
       "surface": "המקום",
@@ -85,7 +86,7 @@
     },
     {
       "surface": "משרתים",
-      "gloss": "hizmetkarlar"
+      "gloss": "hizmetkârlar"
     },
     {
       "surface": "לבית",
@@ -93,9 +94,9 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohimimizin"
+      "gloss": "Elohim'imizin"
     }
   ],
-  "timestamp": "2026-08-19T11:48:26.982279539Z",
+  "timestamp": "2026-08-24T17:15:47.910604653Z",
   "model": "glm-5.3"
 }

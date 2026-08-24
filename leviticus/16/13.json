@@ -5,8 +5,79 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Ve buhur ateşin üzerine Yahve'nin önünde koyacak; buhurun dumanı ⟨את⟩ tanıklığın üzerindeki ⟨את⟩ kaplama pegamberini örtüsün de ölmeyesin diye.",
-  "tokens": [],
-  "timestamp": "2026-08-19T07:28:13.831232499Z",
+  "translation": "Ve tütsüyü Yahve'nin önünde ateşin üzerine koyacaktır; tütsünün bulutu ⟨את⟩ şahadetin üzerindeki kefareti örtacak ki ölmeyecek.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ve koyacaktır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tütsüyü"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "tütsü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerine"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ateşin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ve örtacak"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "tütsünün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kefareti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kefaret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerindeki"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "şahadetin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ve değil"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölecek"
+    }
+  ],
+  "timestamp": "2026-08-24T17:01:17.284414056Z",
   "model": "glm-5.3"
 }

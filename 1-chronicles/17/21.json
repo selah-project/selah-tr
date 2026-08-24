@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 17,
-  "translation": "Ve kim ⟨⟨ gibidir ⟩⟩ senin kavmin Yisra'el gibi — yeryüzünde bir tek ulus — ki Elohim yürüdü onu kendine kavm olarak fidyeyle kurtarmaya, sana bir ad, büyüklükler ve korkunçluklar koymaya, kavminin önünden ulusları kovmaya; onları Mısır'dan fidyeyle kurtardın.",
+  "translation": "Ve kim ⟨dir⟩ senin halkın gibi, Yisrael, yeryüzünde tek bir ulus ⟨olarak⟩, ki Elohim yürüdü ona bir ulus olmak üzere fidyeyle kurtarmak için, sana bir ad, büyüklükler ve korkunçluklar koymak için, halkının önünden ulusları kovmak için — ⟨halkını⟩ ki Mısır'dan kurtardın?",
   "tokens": [
     {
       "surface": "ומי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כעמך",
-      "gloss": "senin kavmin gibi"
+      "gloss": "senin halkın gibi"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "גוי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "bir tek"
+      "gloss": "tek bir"
     },
     {
       "surface": "בארץ",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "לפדות",
-      "gloss": "fidyeyle kurtarmaya"
+      "gloss": "fidyeyle kurtarmak için"
     },
     {
       "surface": "לו",
-      "gloss": "kendine"
+      "gloss": "ona"
     },
     {
       "surface": "עם",
-      "gloss": "kavm"
+      "gloss": "bir ulus"
     },
     {
       "surface": "לשום",
-      "gloss": "koymaya"
+      "gloss": "koymak için"
     },
     {
       "surface": "לך",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "ad"
+      "gloss": "bir ad"
     },
     {
       "surface": "גדלות",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "לגרש",
-      "gloss": "kovmaya"
+      "gloss": "kovmak için"
     },
     {
       "surface": "מפני",
@@ -85,15 +85,15 @@
     },
     {
       "surface": "עמך",
-      "gloss": "kavminin"
+      "gloss": "halkının"
     },
     {
       "surface": "אשר",
-      "gloss": "ki onları"
+      "gloss": "ki"
     },
     {
       "surface": "פדית",
-      "gloss": "fidyeyle kurtardın"
+      "gloss": "kurtardın"
     },
     {
       "surface": "ממצרים",
@@ -104,6 +104,6 @@
       "gloss": "ulusları"
     }
   ],
-  "timestamp": "2026-08-19T11:59:07.786801950Z",
+  "timestamp": "2026-08-24T17:16:17.475500011Z",
   "model": "glm-5.3"
 }

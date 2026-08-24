@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve bunlar David'e ait güçlülerin sayısı: Yaşovalam, Hakmoni oğlu, Otuz'un başı — ⟨ו⟩ o, mızrağını tek seferde üç yüz öldürülmüşün üzerine kaldırdı.",
+  "translation": "Ve işte Davud'un güçlülerinin sayısı: Yaşavam, Hahmoni oğlu, Otuz'un başı; ⟨o⟩ mızrağını üç yüz öldürülmüşe doğru kaldırdı — tek seferde.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "ve bunlar"
+      "gloss": "ve işte"
     },
     {
       "surface": "מספר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הגברים",
-      "gloss": "güçlülerin"
+      "gloss": "güçlüleri"
     },
     {
       "surface": "אשר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לדויד",
-      "gloss": "David'e ait"
+      "gloss": "Davud'un"
     },
     {
       "surface": "ישבעם",
-      "gloss": "Yaşovalam"
+      "gloss": "Yaşavam"
     },
     {
       "surface": "בן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חכמוני",
-      "gloss": "Hakmoni"
+      "gloss": "Hahmoni"
     },
     {
       "surface": "ראש",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "השלושים",
-      "gloss": "Otuz(un)"
+      "gloss": "Otuz'un"
     },
     {
       "surface": "הוא",
-      "gloss": "o"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "עורר",
-      "gloss": "kaldırdı \/ uyandırdı"
+      "gloss": "kalırdı"
     },
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "על",
-      "gloss": "üzerine"
+      "gloss": "üç yüz ... doğru"
     },
     {
       "surface": "שלש",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "חלל",
-      "gloss": "öldürülmüş"
+      "gloss": "öldürülmüşe"
     },
     {
       "surface": "בפעם",
@@ -89,6 +89,6 @@
       "gloss": "tek"
     }
   ],
-  "timestamp": "2026-08-19T11:57:28.206792482Z",
+  "timestamp": "2026-08-24T17:15:26.802379618Z",
   "model": "glm-5.3"
 }

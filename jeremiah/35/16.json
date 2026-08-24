@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 35,
-  "translation": "Çünkü Yehonadav ben Rehav'ın oğulları babalarının kendilerine buyurduğu ⟨את⟩ mitsvayı yerine getirdiler, ama şu ⟨the⟩ kavim bana kulak vermedi.",
+  "translation": "Çünkü Yehonadav oğlu Rehav'ın oğulları babalarının buyruğunu — ki onlara buyrulanı — ayakta tuttular; ama bu halk bana kulak vermedi.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הקימו",
-      "gloss": "yerine getirdiler"
+      "gloss": "ayakta tuttular"
     },
     {
       "surface": "בני",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "oğlu"
     },
     {
       "surface": "רכב",
-      "gloss": "Rehav'ın"
+      "gloss": "Rehav"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mitsvayı"
+      "marks": "babalarının buyruğunu"
     },
     {
       "surface": "מצות",
-      "gloss": "mitsvayı"
+      "gloss": "buyruğunu"
     },
     {
       "surface": "אביהם",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "צום",
-      "gloss": "buyurduğu"
+      "gloss": "onlara buyrulan"
     },
     {
       "surface": "והעם",
-      "gloss": "ama ⟨the⟩ kavim"
+      "gloss": "ama bu halk"
     },
     {
       "surface": "הזה",
-      "gloss": "şu"
+      "gloss": "bu"
     },
     {
       "surface": "לא",
@@ -73,6 +73,6 @@
       "gloss": "bana"
     }
   ],
-  "timestamp": "2026-08-19T10:17:59.268210033Z",
+  "timestamp": "2026-08-24T17:08:40.251152541Z",
   "model": "glm-5.3"
 }

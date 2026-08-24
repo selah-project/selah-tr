@@ -5,7 +5,7 @@
   "book": "habakkuk",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Yahve, duydum ⟨⟨senin⟩⟩ haberini, korktum; Yahve, işini yılların ortasında canlandır, yılların ortasında bildir; öfkede merhameti hatırla.",
+  "translation": "Yahve, işittim duyanı, korktum; Yahve, işini yılların ortasında canlandır, yılların ortasında bildir; öfkende merhameti hatırla.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "duydum"
+      "gloss": "işittim"
     },
     {
       "surface": "שמעך",
-      "gloss": "haberin"
+      "gloss": "duyan (senin duyurun)"
     },
     {
       "surface": "יראתי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "חייהו",
-      "gloss": "canlandır"
+      "gloss": "canlandır onu"
     },
     {
       "surface": "בקרב",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ברגז",
-      "gloss": "öfkede"
+      "gloss": "öfkende"
     },
     {
       "surface": "רחם",
@@ -68,6 +68,6 @@
       "gloss": "hatırla"
     }
   ],
-  "timestamp": "2026-08-19T10:45:42.923411629Z",
+  "timestamp": "2026-08-24T17:09:57.078538853Z",
   "model": "glm-5.3"
 }

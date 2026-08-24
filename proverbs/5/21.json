@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Çünkü Yahve'nin gözlerinin önündedir ⟨⟨bir⟩⟩ adamın yolları, ve bütün ⟨onun⟩ patikalarını tartar ⟨o⟩.",
+  "translation": "Çünkü Yahve'nin gözlerinin önündedir bir adamın yolları, ve O, onun bütün patikalarını tartar.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נכח",
-      "gloss": "önünde \/ karşı"
+      "gloss": "karşısında"
     },
     {
       "surface": "עיני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "adam"
+      "gloss": "adamın"
     },
     {
       "surface": "וכל",
@@ -44,6 +44,6 @@
       "gloss": "tartar"
     }
   ],
-  "timestamp": "2026-08-19T11:17:40.334537442Z",
+  "timestamp": "2026-08-24T17:12:49.780718255Z",
   "model": "glm-5.3"
 }

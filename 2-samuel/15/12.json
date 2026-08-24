@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 15,
-  "translation": "Ve Avşalom, David'in danışmanı Ahitofel'i, Gilolu'yu, kendi şehrinden, Giloh'dan ⟨את⟩ kurbanları kurban ederken gönderdi. Ve komplo güçlendi; ⟨⟨ve⟩⟩ halk Avşalom'la ⟨את⟩ çoğalarak çoğalıyordu.",
+  "translation": "Avşalom ⟨את⟩ Ahitofel'i, Gilol'u, Davud'un danışmanını, şehrinden, Giloh'tan kurbanları keserken gönderdi; ve komplo güçlendi ve halk Avşalom'la ⟨את⟩ birlikte gidip çoğalıyordu.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ve gönderdi"
+      "gloss": "gönderdi"
     },
     {
       "surface": "אבשלום",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ahitofel'i"
+      "marks": "Ahitofel"
     },
     {
       "surface": "אחיתפל",
-      "gloss": "Ahitofel'i"
+      "gloss": "Ahitofel"
     },
     {
       "surface": "הגילני",
-      "gloss": "Gilolu'yu"
+      "gloss": "Gilol'u"
     },
     {
       "surface": "יועץ",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "דוד",
-      "gloss": "David'in"
+      "gloss": "Davud'un"
     },
     {
       "surface": "מעירו",
-      "gloss": "kendi şehrinden"
+      "gloss": "şehrinden"
     },
     {
       "surface": "מגלה",
-      "gloss": "Giloh'dan"
+      "gloss": "Giloh'tan"
     },
     {
       "surface": "בזבחו",
-      "gloss": "kurban ederken"
+      "gloss": "kurban keserken"
     },
     {
       "surface": "את",
@@ -75,21 +75,22 @@
     },
     {
       "surface": "הולך",
-      "gloss": "giderek"
+      "gloss": "gidiyordu"
     },
     {
-      "surface": "ורב",
-      "gloss": "çoğalarak"
+      "surface": "וורב",
+      "gloss": "ve çoğalıyordu"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ile"
+      "gloss": "⟨את⟩",
+      "marks": "Avşalom"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avşalom'la"
+      "gloss": "Avşalom"
     }
   ],
-  "timestamp": "2026-08-19T09:32:38.590634816Z",
+  "timestamp": "2026-08-24T17:04:51.631205959Z",
   "model": "glm-5.3"
 }

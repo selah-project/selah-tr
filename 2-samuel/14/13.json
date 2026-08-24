@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Kadın dedi: Elohim'in ⟨the⟩ halkına karşı neden böyle bir şey düşündün? Kral bu sözü söyleyerek suçlu biri ⟨gibi⟩ davranıyor — kral ⟨את⟩ kovulmuşunu geri getirmemiş oluyor.",
+  "translation": "Kadın ⟨da⟩ şöyle dedi: «Niçin Elohim'in halkına karşı böyle bir şey tasarladın? Kral ⟨zaten⟩ bu sözü söyleyerek suçlu ⟨bir kişi⟩ gibi davranıyor — sürgündeki kimseyi kral geri getirmiyor diye.»",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "dedi"
+      "gloss": "ve dedi"
     },
     {
       "surface": "האשה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "ve neden"
+      "gloss": "ve niçin"
     },
     {
       "surface": "חשבתה",
-      "gloss": "düşündün"
+      "gloss": "tasarladın"
     },
     {
       "surface": "כזאת",
-      "gloss": "böyle bir şey"
+      "gloss": "böyle"
     },
     {
       "surface": "על",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "halkına"
+      "gloss": "halkı"
     },
     {
       "surface": "אלהים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ומדבר",
-      "gloss": "ve söyleyerek"
+      "gloss": "ve konuşarak"
     },
     {
       "surface": "המלך",
@@ -61,26 +61,26 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "…memesiyle"
+      "gloss": "-meme-sine"
     },
     {
       "surface": "השיב",
-      "gloss": "geri getirmemesi"
+      "gloss": "geri getirmek"
     },
     {
       "surface": "המלך",
-      "gloss": "kralın"
+      "gloss": "kral"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kovulmuşunu"
+      "marks": "sürgündeki kimseyi (נדחו)"
     },
     {
       "surface": "נדחו",
-      "gloss": "kovulmuşunu"
+      "gloss": "sürgündeki"
     }
   ],
-  "timestamp": "2026-08-19T09:32:17.762400578Z",
+  "timestamp": "2026-08-24T17:04:37.286737082Z",
   "model": "glm-5.3"
 }

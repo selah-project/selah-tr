@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve ⟨the⟩ ülke kirlendi; ben de onun suçunu onun üzerine ziyaret ettim, ve ⟨the⟩ ülke sakinlerini kustu.",
+  "translation": "Ve ülke murdarlandı; ben de onun suçunu onun üzerine ziyaret ettim, ve ülke sakinlerini kusup attı.",
   "tokens": [
     {
       "surface": "ותטמא",
-      "gloss": "ve kirlendi"
+      "gloss": "ve murdarlandı"
     },
     {
       "surface": "הארץ",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עונה",
-      "gloss": "onun suçu"
+      "gloss": "onun suçunu"
     },
     {
       "surface": "עליה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ותקא",
-      "gloss": "ve kustu"
+      "gloss": "ve kusup attı"
     },
     {
       "surface": "הארץ",
@@ -45,6 +45,6 @@
       "gloss": "sakinlerini"
     }
   ],
-  "timestamp": "2026-08-19T07:27:46.453175182Z",
+  "timestamp": "2026-08-24T17:01:32.487045178Z",
   "model": "glm-5.3"
 }

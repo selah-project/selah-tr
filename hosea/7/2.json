@@ -5,15 +5,15 @@
   "book": "hosea",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve kalplerine söylemezler: ⟨⟨Bütün⟩⟩ kötülüklerini andım; şimdi onları işledikleri şeyler kuşattı — yüzümün önünde oldular.",
+  "translation": "Ve kalplerine söylemediler ⟨ki⟩ bütün kötülüklerini hatırladım; şimdi onların yaptıkları onları kuşattı, yüzümün önünde oldular.",
   "tokens": [
     {
       "surface": "ובל",
-      "gloss": "ve … değil"
+      "gloss": "ve...-mediler"
     },
     {
       "surface": "יאמרו",
-      "gloss": "söylerler"
+      "gloss": "söylemediler"
     },
     {
       "surface": "ללבבם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "זכרתי",
-      "gloss": "andım"
+      "gloss": "hatırladım"
     },
     {
       "surface": "עתה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "סבבום",
-      "gloss": "onları kuşattı"
+      "gloss": "kuşattı"
     },
     {
       "surface": "מעלליהם",
-      "gloss": "işledikleri şeyler"
+      "gloss": "yaptıkları"
     },
     {
       "surface": "נגד",
-      "gloss": "önünde"
+      "gloss": "karşısında"
     },
     {
       "surface": "פני",
@@ -56,6 +56,6 @@
       "gloss": "oldular"
     }
   ],
-  "timestamp": "2026-08-19T10:40:10.580336628Z",
+  "timestamp": "2026-08-24T17:09:42.766531949Z",
   "model": "glm-5.3"
 }

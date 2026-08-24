@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve ⟨ה⟩atta ben de seni hasta ederek dövmeye başladım, günahların yüzünden ıssız bırakmaya.",
+  "translation": "Ve ben de ⟨seni⟩ hastalıklı kıldım seni vurmakta, ıssız bırakmakta — günahların üzerine.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "ve ⟨hatta⟩ ben de"
+      "gloss": "ve ben de"
     },
     {
       "surface": "אני",
@@ -17,25 +17,26 @@
     },
     {
       "surface": "החליתי",
-      "gloss": "hasta ettim"
+      "gloss": "hastalıklı kıldım"
     },
     {
       "surface": "הכותך",
-      "gloss": "seni dövmek"
+      "gloss": "seni vurmakta",
+      "marks": "seni vurmakta"
     },
     {
       "surface": "השמם",
-      "gloss": "ıssız bırakmak"
+      "gloss": "ıssız bırakmakta"
     },
     {
       "surface": "על",
-      "gloss": "yüzünden"
+      "gloss": "üzerine"
     },
     {
       "surface": "חטאתך",
       "gloss": "günahların"
     }
   ],
-  "timestamp": "2026-08-19T10:44:56.375103401Z",
+  "timestamp": "2026-08-24T17:55:22.548359183Z",
   "model": "glm-5.3"
 }

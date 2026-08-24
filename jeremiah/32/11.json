@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 32,
-  "translation": "Ve satış senedini aldım — ⟨את⟩ mühürlü nüshayı, ⟨the⟩ şart ve hükümleriyle, ve ⟨את⟩ açık nüshayı.",
+  "translation": "Ve satın alma senedini aldım — ⟨את⟩ mühürlü nüshayı, hükümleri ve şartları, ve ⟨את⟩ açık nüshayı.",
   "tokens": [
     {
       "surface": "ואקח",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "senedi"
+      "marks": "mühürlü nüsha"
     },
     {
       "surface": "ספר",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "המקנה",
-      "gloss": "satış"
+      "gloss": "satın alma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mühürlü nüshayı"
+      "marks": "mühürlü nüsha"
     },
     {
       "surface": "החתום",
@@ -35,22 +35,22 @@
     },
     {
       "surface": "המצוה",
-      "gloss": "şartları"
+      "gloss": "hükümleri ve şartları"
     },
     {
       "surface": "והחקים",
-      "gloss": "ve hükümleri"
+      "gloss": "ve şartları"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "açık nüshayı"
+      "marks": "açık nüsha"
     },
     {
       "surface": "הגלוי",
       "gloss": "açık"
     }
   ],
-  "timestamp": "2026-08-19T10:13:40.174895245Z",
+  "timestamp": "2026-08-24T17:07:58.980770870Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Keruvları evin iç kısmının ortasına koydu, ve keruvların kanatlarını gerdi ⟨ויפרשו çoğul⟩; birinin kanadı duvara değiyordu, ve ikinci keruvun kanadı ikinci duvara değiyordu; ve kanatları evin ortasına doğru, kanat kanada değiyordu.",
+  "translation": "Ve keruvları ⟨את⟩ iç evin ortasına koydu; ve keruvların ⟨את⟩ kanatlarını açtılar, ve birinin kanadı duvara değiyordu, ve ikinci keruvun kanadı ikinci duvara değiyordu; ve kanatları evin ortasına doğru kanat kanada değiyordu.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "keruvları"
+      "marks": "keruvlar"
     },
     {
       "surface": "הכרובים",
-      "gloss": "keruvları"
+      "gloss": "keruvlar"
     },
     {
       "surface": "בתוך",
@@ -34,12 +34,12 @@
     },
     {
       "surface": "ויפרשו",
-      "gloss": "ve gerildi"
+      "gloss": "ve açtılar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kanatları"
+      "marks": "kanatlar"
     },
     {
       "surface": "כנפי",
@@ -50,7 +50,7 @@
       "gloss": "keruvların"
     },
     {
-      "surface": "ותגע",
+      "surface": "ויגע",
       "gloss": "ve değiyordu"
     },
     {
@@ -119,9 +119,9 @@
     },
     {
       "surface": "כנף",
-      "gloss": "kanada"
+      "gloss": "kanat"
     }
   ],
-  "timestamp": "2026-08-19T09:37:30.763922596Z",
+  "timestamp": "2026-08-24T17:05:21.891384878Z",
   "model": "glm-5.3"
 }

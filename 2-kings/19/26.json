@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve onların sakinleri kısa ⟨⟨ellilerdir⟩⟩; korkuya kapıldılar ve utandılar; tarlanın otu, taze yeşil ot, çatılarda ⟨⟨büyüyen⟩⟩ çimen ve olgunlaşmadan önce kavruk buğday gibi oldular.",
+  "translation": "Onların sakinleri kısa-ellidir; dehşete kapıldılar ve utandılar; tarlanın otu oldular, taze ot, çatıların çimeni ve boy atmadan önce kavruk ekin.",
   "tokens": [
     {
       "surface": "וישביהן",
-      "gloss": "ve onların sakinleri"
+      "gloss": "onların sakinleri"
     },
     {
       "surface": "קצרי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חתו",
-      "gloss": "korkuya kapıldılar"
+      "gloss": "dehşete kapıldılar"
     },
     {
       "surface": "ויבשו",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "שדה",
-      "gloss": "tarlanın"
+      "gloss": "tarla"
     },
     {
       "surface": "וירק",
-      "gloss": "ve taze yeşil ot"
+      "gloss": "ve yeşillik"
     },
     {
       "surface": "דשא",
-      "gloss": "yeşil ot"
+      "gloss": "taze ot"
     },
     {
       "surface": "חציר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "גגות",
-      "gloss": "çatılarda"
+      "gloss": "çatılar"
     },
     {
       "surface": "ושדפה",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "לפני",
-      "gloss": "öncesinde"
+      "gloss": "önce"
     },
     {
       "surface": "קמה",
-      "gloss": "olgunlaşma"
+      "gloss": "boy atma"
     }
   ],
-  "timestamp": "2026-08-19T09:49:02.913518452Z",
+  "timestamp": "2026-08-24T17:06:19.655007239Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve Adem'e dedi: Çünkü karının sesine dinledin ve sana 'Ondan yemeyeceksin' diye buyruk verdiğim ağaçtan yedin — uğruna lanetli ⟨⟨dir⟩⟩ ⟨את⟩ toprak; hayatının bütün günleri onu ıstırap içinde yiyeceksin.",
+  "translation": "Ve Adem'e dedi: Çünkü karının sesine kulak verdin ve sana 'Ondan yemeyeceksin' diye buyurduğum ağaçtan yedin — senin yüzünden lanetli ⟨olsun⟩ toprak; ömrünün bütün günlerinde ıstırap içinde ondan yiyeceksin.",
   "tokens": [
     {
       "surface": "ולאדם",
-      "gloss": "ve Adem'e"
+      "gloss": "Ve Adem'e"
     },
     {
       "surface": "אמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שמעת",
-      "gloss": "dinledin"
+      "gloss": "kulak verdin"
     },
     {
       "surface": "לקול",
-      "gloss": "sesine"
+      "gloss": "sese"
     },
     {
       "surface": "אשתך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "-tan"
+      "gloss": "‑dan"
     },
     {
       "surface": "העץ",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "צויתיך",
-      "gloss": "sana buyruk verdim"
+      "gloss": "sana buyurdum"
     },
     {
       "surface": "לאמר",
-      "gloss": "diye"
+      "gloss": "diyerek"
     },
     {
       "surface": "לא",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "בעבורך",
-      "gloss": "uğruna"
+      "gloss": "senin yüzünden"
     },
     {
       "surface": "בעצבון",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "חייך",
-      "gloss": "hayatının"
+      "gloss": "ömrünün"
     }
   ],
-  "timestamp": "2026-08-19T06:55:42.361147689Z",
+  "timestamp": "2026-08-24T16:59:20.842879536Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve tahıl sunusunu yaklaştırdı, avucunu ondan doldurdu ve sunu altarının üzerinde tütsiledi, sabah yakılan sunusundan ayrı olarak.",
+  "translation": "Ve tahıl sunusunu sundu; ondan avucunu doldurdu ve sabah yakmalık sunusundan başka ⟨את⟩ onu sunuda üzerine tütsüledi.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "yaklaştırdı"
+      "gloss": "ve sundu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tahıl sunusunu"
+      "marks": "tahıl sunusu"
     },
     {
       "surface": "המנחה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "וימלא",
-      "gloss": "doldurdu"
+      "gloss": "ve doldurdu"
     },
     {
       "surface": "כפו",
@@ -34,29 +34,29 @@
     },
     {
       "surface": "ויקטר",
-      "gloss": "tütsiledi"
+      "gloss": "ve tütsüledi"
     },
     {
       "surface": "על",
-      "gloss": "üzerinde"
+      "gloss": "üzerine"
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ sunu altarı"
+      "gloss": "sunuda"
     },
     {
       "surface": "מלבד",
-      "gloss": "ayrı olarak"
+      "gloss": "başka"
     },
     {
       "surface": "עלת",
-      "gloss": "yakılan sunu"
+      "gloss": "yakmalık sunusu"
     },
     {
       "surface": "הבקר",
-      "gloss": "⟨the⟩ sabahın"
+      "gloss": "sabahın"
     }
   ],
-  "timestamp": "2026-08-19T07:25:02.618880812Z",
+  "timestamp": "2026-08-24T17:01:08.739764254Z",
   "model": "glm-5.3"
 }

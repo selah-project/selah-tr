@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 85,
-  "translation": "Dinleyeceğim, ne diyecek ⟨⟨the⟩⟩ El Yahve; çünkü halkına ve hasidlerine şalom söyleyecek — ve geri dönmesinler ⟨⟨to⟩⟩ ahmaklığa.",
+  "translation": "Dinleyeceğim, Elohim Yahve ne söyleyecek; çünkü halkına ve hasidlerine esenlik söyleyecek — ve geri dönmesinler ⟨onlar⟩ sersemliğe.",
   "tokens": [
     {
       "surface": "אשמעה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "diyecek"
+      "gloss": "söyleyecek"
     },
     {
       "surface": "האל",
-      "gloss": "El"
+      "gloss": "Elohim"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "שלום",
-      "gloss": "şalom"
+      "gloss": "esenlik"
     },
     {
       "surface": "אל",
-      "gloss": "⟨to⟩"
+      "gloss": "‑e doğru"
     },
     {
       "surface": "עמו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ve ⟨to⟩"
+      "gloss": "ve ‑e doğru"
     },
     {
       "surface": "חסידיו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ve ← (olumsuzluk: 'gitmesin')"
+      "gloss": "ve ‑me"
     },
     {
       "surface": "ישובו",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "לכסלה",
-      "gloss": "ahmaklığa"
+      "gloss": "sersemliğe"
     }
   ],
-  "timestamp": "2026-08-19T11:04:04.888030772Z",
+  "timestamp": "2026-08-24T17:12:03.627622266Z",
   "model": "glm-5.3"
 }

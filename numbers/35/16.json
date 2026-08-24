@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 35,
-  "translation": "Ve eğer demir alet ile vurdu onu ve öldü — katildir o; öldürülecektir ⟨the⟩ katil.",
+  "translation": "Ve eğer demirden bir aletle onu vurdu da öldüyse, katildir o; katil mutlaka öldürülecektir.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "alet ile"
+      "gloss": "bir aletle"
     },
     {
       "surface": "ברזל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הכהו",
-      "gloss": "vurdu onu"
+      "gloss": "onu vurdu"
     },
     {
       "surface": "וימת",
-      "gloss": "ve öldü"
+      "gloss": "da öldüyse"
     },
     {
       "surface": "רצח",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מות",
-      "gloss": "ölmek"
+      "gloss": "ölüm"
     },
     {
       "surface": "יומת",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "הרצח",
-      "gloss": "⟨the⟩ katil"
+      "gloss": "katil"
     }
   ],
-  "timestamp": "2026-08-19T07:43:38.268894808Z",
+  "timestamp": "2026-08-24T17:01:59.971566172Z",
   "model": "glm-5.3"
 }

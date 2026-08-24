@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Yahve, gözlerin sadakate bakmıyor mu? Onları vurdun ⟨את⟩ ⟨אתטם⟩, ama ağlamadılar; onları tükettin, terbiyeyi kabul etmeyi reddettiler; yüzlerini kayadan daha sert yaptılar, dönmeyi reddettiler.",
+  "translation": "Yahve, gözlerin ⟨değil mi⟩ sadakate ⟨bakıyor⟩? Onları ⟨את⟩ vurdun, ama sancı duymadılar; onları tükettin, ama disiplini ⟨את⟩ kabul etmeyi reddettiler; yüzlerini kayadan daha sert yaptılar, dönmeyi reddettiler.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתטם⟩",
+      "gloss": "⟨את⟩",
       "marks": "onları"
     },
     {
       "surface": "ולא",
-      "gloss": "ama değil"
+      "gloss": "ama ... değil"
     },
     {
       "surface": "חלו",
-      "gloss": "ağladılar"
+      "gloss": "sancı duymadılar"
     },
     {
       "surface": "כליתם",
-      "gloss": "onları tükettin"
+      "gloss": "tükettin"
     },
     {
       "surface": "מאנו",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "מוסר",
-      "gloss": "terbiyeyi"
+      "gloss": "disiplini"
     },
     {
       "surface": "חזקו",
-      "gloss": "yaptılar sert"
+      "gloss": "sert yaptılar"
     },
     {
       "surface": "פניהם",
@@ -77,6 +77,6 @@
       "gloss": "dönmeyi"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.018982421Z",
+  "timestamp": "2026-08-24T17:07:06.320280374Z",
   "model": "glm-5.3"
 }

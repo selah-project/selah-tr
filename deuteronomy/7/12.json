@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve ⟨it shall be⟩ şu ⟨olacak⟩: bu mişpatları dinlediğiniz, koruyup ⟨את⟩ onları yaptığınız takdirde, Yahve Elohim'iniz sana ⟨את⟩ antlaşmayı ve ⟨את⟩ atalarına yemin ettiği ⟨hesed⟩ i koruyacak ⟨for you⟩.",
+  "translation": "Ve şöyle olacak: bu hükümleri dinlediğiniz ⟨اkeş⟩ için — ⟨את⟩ bu hükümleri duyup koruyup ⟨את⟩ onları yaptığınız takdirde — Yahve, Elohim'iniz, ⟨את⟩ ahdi ve ⟨את⟩ sevgiyi, atalarına yemin ettiği gibi, sizin için koruyacak.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ve olacak"
+      "gloss": "Ve şöyle olacak"
     },
     {
       "surface": "עקב",
-      "gloss": "netice olarak \/ ödül olarak"
+      "gloss": "ömür boyu \/ neticede (takdirde)"
     },
     {
       "surface": "תשמעון",
-      "gloss": "dinlerseniz"
+      "gloss": "dinlediğiniz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bu mişpatları"
+      "marks": "hükümleri"
     },
     {
       "surface": "המשפטים",
-      "gloss": "mişpatlar"
+      "gloss": "hükümleri"
     },
     {
       "surface": "האלה",
@@ -34,20 +34,19 @@
     },
     {
       "surface": "ושמרתם",
-      "gloss": "ve korursanız"
+      "gloss": "koruyup"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "ve yaparsanız"
+      "gloss": "yaptığınız"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ onları",
-      "marks": "mişpatları"
+      "gloss": "⟨את⟩ onları"
     },
     {
       "surface": "ושמר",
-      "gloss": "ve koruyacak"
+      "gloss": "koruyacak"
     },
     {
       "surface": "יהוה",
@@ -59,25 +58,25 @@
     },
     {
       "surface": "לך",
-      "gloss": "sana"
+      "gloss": "sizin için"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "antlaşmayı"
+      "marks": "ahdi"
     },
     {
       "surface": "הברית",
-      "gloss": "antlaşma"
+      "gloss": "ahdi"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "hesed'i"
+      "marks": "sevgiyi"
     },
     {
       "surface": "החסד",
-      "gloss": "hesed"
+      "gloss": "sevgiyi"
     },
     {
       "surface": "אשר",
@@ -92,6 +91,6 @@
       "gloss": "atalarına"
     }
   ],
-  "timestamp": "2026-08-19T12:12:39.065607627Z",
+  "timestamp": "2026-08-24T17:02:24.867046093Z",
   "model": "glm-5.3"
 }

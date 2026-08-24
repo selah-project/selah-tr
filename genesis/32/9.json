@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 32,
-  "translation": "Ve dedi: Eğer Esav ⟨⟨את⟩⟩ — bir topluluğa gelirse ve onu vurursa, arta kalan topluluk kaçıp kurtulur.",
+  "translation": "Ve şöyle dedi: Eğer Esav bir topluluğa gelirse ve onu vurursa, geri kalan topluluk kaçıp kurtulmak için ⟨olacaktır⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ve dedi"
+      "gloss": "ve şöyle dedi"
     },
     {
       "surface": "אם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "…e, -e doğru"
+      "gloss": "‑e doğru"
     },
     {
       "surface": "המחנה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האחת",
-      "gloss": "bir"
+      "gloss": "birinci"
     },
     {
       "surface": "והכהו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "ve olacak"
+      "gloss": "olacaktır"
     },
     {
       "surface": "המחנה",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "הנשאר",
-      "gloss": "arta kalan"
+      "gloss": "geri kalan"
     },
     {
       "surface": "לפליטה",
-      "gloss": "kaçıp kurtulmaya"
+      "gloss": "kaçıp kurtulmak için"
     }
   ],
-  "timestamp": "2026-08-19T07:03:54.640666817Z",
+  "timestamp": "2026-08-24T16:59:19.036738555Z",
   "model": "glm-5.3"
 }

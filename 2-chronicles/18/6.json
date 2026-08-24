@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Yehoşafat dedi: Burada Yahve'den ⟨באתו⟩ başka bir peygamber yok mu, ⟨ki⟩ O'ndan soralım?",
+  "translation": "Yehoşafat dedi: «Burada Yahve'ye ⟨⟨ait⟩⟩ bir peygamber daha yok mu — ⟨את⟩ O'ndan soralım?»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ve dedi"
+      "gloss": "dedi"
     },
     {
       "surface": "יהושפט",
@@ -29,22 +29,22 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahve'den"
+      "gloss": "Yahve'ye"
     },
     {
       "surface": "עוד",
-      "gloss": "başka"
+      "gloss": "daha"
     },
     {
       "surface": "ונדרשה",
-      "gloss": "ve soralım"
+      "gloss": "soralım"
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ ⟨מאתו⟩ O'ndan",
-      "marks": "O'ndan"
+      "gloss": "⟨את⟩ O'ndan",
+      "marks": "O'ndan (Yahve'den)"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.029969719Z",
+  "timestamp": "2026-08-24T17:16:25.869604759Z",
   "model": "glm-5.3"
 }

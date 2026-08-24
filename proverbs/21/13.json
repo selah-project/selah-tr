@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Kulağını yoksulun çığlığından kapatan — o da çağırır ama ⟨⟨cevap⟩⟩ verilmez.",
+  "translation": "Kulağını yoksulun çığlığından tıkayan — o da çağıracak ve ⟨hiç⟩ yanıt almayacak.",
   "tokens": [
     {
       "surface": "אטם",
-      "gloss": "kapatan"
+      "gloss": "tıkayan"
     },
     {
       "surface": "אזנו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מזעקת",
-      "gloss": "çığından"
+      "gloss": "çığlığından"
     },
     {
       "surface": "דל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "da"
+      "gloss": "de"
     },
     {
       "surface": "הוא",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "יקרא",
-      "gloss": "çağırır"
+      "gloss": "çağıracak"
     },
     {
       "surface": "ולא",
-      "gloss": "ama verilmez"
+      "gloss": "ve... değil"
     },
     {
       "surface": "יענה",
-      "gloss": "cevap"
+      "gloss": "yanıt almayacak"
     }
   ],
-  "timestamp": "2026-08-19T11:21:39.577709226Z",
+  "timestamp": "2026-08-24T17:13:02.225742222Z",
   "model": "glm-5.3"
 }

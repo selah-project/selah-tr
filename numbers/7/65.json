@@ -5,8 +5,77 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve shelamim kurbanı için: iki sığır, beş koç, beç teke, beş bir yaşında kuzu — bu, Gidoni oğlu Avidan'ın karanıdır.",
-  "tokens": [],
-  "timestamp": "2026-08-19T07:35:33.020449178Z",
+  "translation": "Ve barış adakları kurbanı için iki sığır, beç koç, beç teke, bir yaşında beç kuzu — bu, Gidoni oğlu Avidan'ın sunusu ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "ve … kurbanı için"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "barış adaklarının"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sığır"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "beç koç"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beç"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "teke"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beç"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "kuzu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bir yılın"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beç"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "sunu"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Avidan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Gidoni"
+    }
+  ],
+  "timestamp": "2026-08-24T17:01:40.966043835Z",
   "model": "glm-5.3"
 }

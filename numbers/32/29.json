@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 32,
-  "translation": "Ve Moşe onlara dedi: Eğer Gad oğulları ve Reuven oğulları sizinle ⟨את⟩ Yarden'i geçerler — savaşa hazır her silah taşıyanı Yahve'nin önünde — ve ⟨the⟩ ülke sizin önünüzde boyun eğdirilirse, o zaman onlara ⟨את⟩ Gilad ülkesini mülk olarak vereceksiniz.",
+  "translation": "Ve Moşe onlara dedi: Eğer Gad oğulları ve Reuven oğulları sizinle birlikte ⟨את⟩ Yarden'i geçerler — savaşa hazır her biri, Yahve'nin önünde — ve ülke sizin önünüzde boyun eğerse, o zaman onlara ⟨את⟩ Gil'ad ülkesini mülk olarak vereceksiniz.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizinle"
+      "gloss": "⟨את⟩ sizinle",
+      "marks": "sizinle"
     },
     {
       "surface": "את",
@@ -62,7 +63,7 @@
     },
     {
       "surface": "חלוץ",
-      "gloss": "silah kuşanmış"
+      "gloss": "kuşanmış\/hazır"
     },
     {
       "surface": "למלחמה",
@@ -78,7 +79,7 @@
     },
     {
       "surface": "ונכבשה",
-      "gloss": "ve boyun eğdirilirse"
+      "gloss": "ve boyun eğerse"
     },
     {
       "surface": "הארץ",
@@ -99,21 +100,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gilad ülkesini"
+      "marks": "Gil'ad ülkesini"
     },
     {
       "surface": "ארץ",
-      "gloss": "ülkesini"
+      "gloss": "ülke"
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gilad"
+      "gloss": "Gil'ad"
     },
     {
       "surface": "לאחזה",
       "gloss": "mülk olarak"
     }
   ],
-  "timestamp": "2026-08-19T07:42:36.078733760Z",
+  "timestamp": "2026-08-24T17:02:05.221544265Z",
   "model": "glm-5.3"
 }

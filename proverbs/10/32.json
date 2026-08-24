@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Sadık'ın dudakları ⟨ בל ⟩ hoşnutluğu bilir; kötülerin ağzıysa dönekliktir.",
+  "translation": "Sadığın dudakları ⟨hoşa gideni⟩ bilir, kötülerin ağzıysa dönekliktir.",
   "tokens": [
     {
       "surface": "שפתי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "sadıkın"
+      "gloss": "sadığın"
     },
     {
       "surface": "ידעון",
-      "gloss": "bilirler"
+      "gloss": "bilir"
     },
     {
       "surface": "רצון",
-      "gloss": "hoşnutluğu"
+      "gloss": "hoşa gideni"
     },
     {
       "surface": "ופי",
-      "gloss": "ve ağzı"
+      "gloss": "kötülerin ağzıysa"
     },
     {
       "surface": "רשעים",
@@ -36,6 +36,6 @@
       "gloss": "döneklik"
     }
   ],
-  "timestamp": "2026-08-19T11:19:09.345432292Z",
+  "timestamp": "2026-08-24T17:13:26.520499448Z",
   "model": "glm-5.3"
 }

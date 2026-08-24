@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 5,
-  "translation": "ve Uzzi ⟨את Zerahya'yı babası oldu, ve Zerahya ⟨את Merayot'u babası oldu.",
+  "translation": "Uzzi ⟨את⟩ Zerahya'yı doğurdu ve Zerahya ⟨את⟩ Merayot'u doğurdu.",
   "tokens": [
     {
       "surface": "ועזי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "babası oldu"
+      "gloss": "doğurdu"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "babası oldu"
+      "gloss": "doğurdu"
     },
     {
       "surface": "את",
@@ -42,6 +42,6 @@
       "gloss": "Merayot"
     }
   ],
-  "timestamp": "2026-08-19T11:55:34.999088538Z",
+  "timestamp": "2026-08-24T17:15:40.309259424Z",
   "model": "glm-5.3"
 }

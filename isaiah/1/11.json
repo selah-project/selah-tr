@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 1,
-  "translation": "«Bana ne ⟨⟨gerek⟩⟩ kurbanlarınızın bolluğu?» der Yahve; «Koyunların tam yakmalık sunularından, besili danaların yağından tok oldum; boğaların, kuzuların ve teke oğlakların kanını istemedim.",
+  "translation": "\"Bana çokluğunuz ne ⟨⟨için⟩⟩ — kurbanlarınızın?\" der Yahve. \"Koyun sunularından, besili hayvanların yağından, boğaların, kuzuların ve teke oğlaklarının kanından doydum; hoşnut olmadım.\"",
   "tokens": [
     {
       "surface": "למה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "רב",
-      "gloss": "bolluğu"
+      "gloss": "çokluk"
     },
     {
       "surface": "זבחיכם",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "שבעתי",
-      "gloss": "tok oldum"
+      "gloss": "doydum"
     },
     {
       "surface": "עלות",
-      "gloss": "tam yakmalık sunularından"
+      "gloss": "koyun sunularından"
     },
     {
       "surface": "אילים",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "וחלב",
-      "gloss": "ve yağından"
+      "gloss": "ve yağ"
     },
     {
       "surface": "מריאים",
-      "gloss": "besili danaların"
+      "gloss": "besili hayvanların"
     },
     {
       "surface": "ודם",
-      "gloss": "ve kanını"
+      "gloss": "ve kan"
     },
     {
       "surface": "פרים",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "וכבשים",
-      "gloss": "ve kuzuların"
+      "gloss": "kuzuların"
     },
     {
       "surface": "ועתודים",
-      "gloss": "ve teke oğlakların"
+      "gloss": "teke oğlaklarının"
     },
     {
       "surface": "לא",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "חפצתי",
-      "gloss": "istedim"
+      "gloss": "hoşnut oldum"
     }
   ],
-  "timestamp": "2026-08-19T09:51:09.143537589Z",
+  "timestamp": "2026-08-24T17:05:49.000152160Z",
   "model": "glm-5.3"
 }

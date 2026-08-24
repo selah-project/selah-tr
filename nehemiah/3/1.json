@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Elyaşiv ⟨ה⟩ kâhin ⟨ה⟩ büyüğü kardeşleriyle kâhinlerle birlikte ayağa kalktı ve Davar Kapısı'nı ⟨את⟩ inşa ettiler; onu kutsadılar ve kapılarını yerine kurdular; Yüz Kulesi'ne kadar onu kutsadılar, Hananel Kulesi'ne kadar.",
+  "translation": "Elyaşiv, başkâhin ve kardeşleri kâhinler kalktılar ve Koyun Kapısı'nı ⟨את⟩ inşa ettiler; onlar onu kutsadılar ve kapı kanatlarını diktiler; ve Yüz Kulesi'ne kadar onu kutsadılar, Hananel Kulesi'ne kadar.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "ayağa kalktı"
+      "gloss": "kalktı"
     },
     {
       "surface": "אלישיב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "büyük"
+      "gloss": "baş-"
     },
     {
       "surface": "ואחיו",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "ויבנו",
-      "gloss": "ve inşa ettiler"
+      "gloss": "inşa ettiler"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Davar Kapısı'nı"
+      "marks": "Koyun Kapısı'nı"
     },
     {
       "surface": "שער",
-      "gloss": "kapı"
+      "gloss": "Kapısı"
     },
     {
       "surface": "הצאן",
-      "gloss": "davar"
+      "gloss": "Koyun"
     },
     {
       "surface": "המה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ויעמידו",
-      "gloss": "ve yerine kurdular"
+      "gloss": "ve diktiler"
     },
     {
       "surface": "דלתתיו",
-      "gloss": "kapılarını"
+      "gloss": "kapı kanatlarını"
     },
     {
       "surface": "ועד",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "מגדל",
-      "gloss": "kule"
+      "gloss": "Kulesi'ne"
     },
     {
       "surface": "המאה",
-      "gloss": "yüz"
+      "gloss": "Yüz"
     },
     {
       "surface": "קדשוהו",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "מגדל",
-      "gloss": "kule"
+      "gloss": "Kulesi"
     },
     {
       "surface": "חננאל",
       "gloss": "Hananel"
     }
   ],
-  "timestamp": "2026-08-19T11:49:36.800693638Z",
+  "timestamp": "2026-08-24T17:15:40.124833841Z",
   "model": "glm-5.3"
 }

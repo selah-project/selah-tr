@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Nasıl bilmezsin ruhun ⟨ה⟩ yolunu, nasıl kemikler dolu rahimde ⟨וה⟩ — öylece bilmezsin Elohim'in ⟨את⟩ bütün ⟨את⟩ yapacağı işi.",
+  "translation": "Nasıl bilmezsen rüzgârın yolunu, dolu rahimde kemikler nasıl ⟨oluşur⟩, öylece bilemezsin ⟨את⟩ Elohim'in işini, ki O her şeyi yapar ⟨את⟩-hepsini.",
   "tokens": [
     {
       "surface": "כאשר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אינך",
-      "gloss": "değilsin"
+      "gloss": "sen değilsin"
     },
     {
       "surface": "יודע",
-      "gloss": "bilir"
+      "gloss": "bilen"
     },
     {
       "surface": "מה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הרוח",
-      "gloss": "ruhun"
+      "gloss": "rüzgârın\/ruhun"
     },
     {
       "surface": "כעצמים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "המלאה",
-      "gloss": "dolunun"
+      "gloss": "dolu olanın"
     },
     {
       "surface": "ככה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "olmaz"
     },
     {
       "surface": "תדע",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iş"
+      "marks": "Elohim'in işini"
     },
     {
       "surface": "מעשה",
-      "gloss": "işi"
+      "gloss": "iş"
     },
     {
       "surface": "האלהים",
@@ -74,18 +74,18 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "yapacağı"
+      "gloss": "O yapar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bütün"
+      "marks": "her şeyi"
     },
     {
       "surface": "הכל",
-      "gloss": "bütün"
+      "gloss": "hepsini"
     }
   ],
-  "timestamp": "2026-08-19T11:39:34.814387195Z",
+  "timestamp": "2026-08-24T17:14:41.414467029Z",
   "model": "glm-5.3"
 }

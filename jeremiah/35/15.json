@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 35,
-  "translation": "Ve size bütün kullarımı — neviyleri — erken kalkıp gönderdim, ⟨את⟩ şöyle diyerek: Dönün lütfen herkes kötü yolundan, eylemlerinizi iyileştirin, ve başka ilahların ardından gidip onlara kulluk etmeyin; ve size ve atalarınıza verdiğim ⟨the⟩ toprakta oturun — ama ⟨את⟩ kulağınızı eğmediniz ve bana kulak vermediniz.",
+  "translation": "Size bütün kullarım olan peygamberleri gönderdim, erken kalkıp göndererek şöyle demiş: Dönün lütfen her kişi kötü yolundan, yapıklarınızı iyileştirin, ve başkalarının ilahlarının ardınca yürüyüp onlara kulluk etmeyin; o zaman size ve atalarınıza verdiğim toprakta durun; ama kulağınızı eğmediniz ve bana kulak vermediniz.",
   "tokens": [
     {
       "surface": "ואשלח",
-      "gloss": "ve gönderdim"
+      "gloss": "gönderdim"
     },
     {
       "surface": "אליכם",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bütün kullarımı"
+      "marks": "bütün kullarım"
     },
     {
       "surface": "כל",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "kullarımı"
+      "gloss": "kullarım"
     },
     {
       "surface": "הנבאים",
-      "gloss": "neviyleri"
+      "gloss": "peygamberler"
     },
     {
       "surface": "השכים",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ושלח",
-      "gloss": "ve gönderdim"
+      "gloss": "göndererek"
     },
     {
       "surface": "לאמר",
-      "gloss": "diyerek"
+      "gloss": "şöyle diyerek"
     },
     {
       "surface": "שבו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "herkes"
+      "gloss": "her kişi"
     },
     {
       "surface": "מדרכו",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "והיטיבו",
-      "gloss": "ve iyileştirin"
+      "gloss": "iyileştirin"
     },
     {
       "surface": "מעלליכם",
-      "gloss": "eylemlerinizi"
+      "gloss": "yapıklarınızı"
     },
     {
       "surface": "ואל",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "תלכו",
-      "gloss": "gideyin"
+      "gloss": "yürüyün"
     },
     {
       "surface": "אחרי",
-      "gloss": "ardından"
+      "gloss": "ardınca"
     },
     {
       "surface": "אלהים",
-      "gloss": "ilahların"
+      "gloss": "ilahlarının"
     },
     {
       "surface": "אחרים",
@@ -98,15 +98,15 @@
     },
     {
       "surface": "ושבו",
-      "gloss": "ve dönün"
+      "gloss": "ve durun"
     },
     {
       "surface": "אל",
-      "gloss": "içine"
+      "gloss": "-de"
     },
     {
       "surface": "האדמה",
-      "gloss": "⟨the⟩ toprak"
+      "gloss": "toprak"
     },
     {
       "surface": "אשר",
@@ -126,11 +126,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve etmediniz"
+      "gloss": "ama etmediniz"
     },
     {
       "surface": "הטיתם",
-      "gloss": "eğmediniz"
+      "gloss": "eğdiniz"
     },
     {
       "surface": "את",
@@ -147,13 +147,13 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "kulak vermediniz"
+      "gloss": "kulak verdiniz"
     },
     {
       "surface": "אלי",
       "gloss": "bana"
     }
   ],
-  "timestamp": "2026-08-19T10:17:59.268052925Z",
+  "timestamp": "2026-08-24T17:08:40.250857814Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Yotam yirmiş beş yaşındaydı krallığında, ve on altı yıl Yeruşalayim'de hüküm sürdü; annesinin adı Yeruşa, Tsadok'un kızıydı.",
+  "translation": "Yirmi beş yaşında ⟨idi⟩ Yotam saltanatına başladığında, ve on altı yıl Yeruşalayim'de hüküm sürdü; annesinin adı Tsadok'un kızı Yeruşa ⟨idi⟩.",
   "tokens": [
     {
       "surface": "בן",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "במלכו",
-      "gloss": "krallığında"
+      "gloss": "saltanatına başladığında"
     },
     {
       "surface": "ושש",
-      "gloss": "ve on altı (שש)"
+      "gloss": "ve on"
     },
     {
       "surface": "עשרה",
-      "gloss": "on"
+      "gloss": "altı"
     },
     {
       "surface": "שנה",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ושם",
-      "gloss": "ve ad"
+      "gloss": "ve adı"
     },
     {
       "surface": "אמו",
-      "gloss": "annesi"
+      "gloss": "annesinin"
     },
     {
       "surface": "ירושה",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "צדוק",
-      "gloss": "Tsadok"
+      "gloss": "Tsadok'un"
     }
   ],
-  "timestamp": "2026-08-19T12:08:08.656113789Z",
+  "timestamp": "2026-08-24T17:16:16.304554452Z",
   "model": "glm-5.3"
 }

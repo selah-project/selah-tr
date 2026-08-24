@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Sığınak ⟨ הוא ⟩ yol, tam olanlar için — Yahve'nin ⟨ דרך ⟩; ama yıkım, âilen işleyenler için.",
+  "translation": "Yahve'nin yolu tam-olan için ⟨bir⟩ sığınaktır, ama_avon işleyenler için yıkımdır.",
   "tokens": [
     {
       "surface": "מעוז",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לתם",
-      "gloss": "tam olanlar için"
+      "gloss": "tam-olan için"
     },
     {
       "surface": "דרך",
-      "gloss": "yol"
+      "gloss": "yolu"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ומחתה",
-      "gloss": "ve yıkım"
+      "gloss": "ama yıkım"
     },
     {
       "surface": "לפעלי",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "און",
-      "gloss": "âin"
+      "gloss": "avon"
     }
   ],
-  "timestamp": "2026-08-19T11:19:09.344877559Z",
+  "timestamp": "2026-08-24T17:13:26.520069266Z",
   "model": "glm-5.3"
 }

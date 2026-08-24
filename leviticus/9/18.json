@@ -5,37 +5,37 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve sığırı ve koçu kesti — halkın şalom sunusu olarak — ve Aharon'un oğulları kanı ona getirdiler, ve ⟨o⟩ onu altarın üzerine çevresine serpti.",
+  "translation": "Ve ⟨את⟩ boğayı ve ⟨את⟩ koçu kesti — halkın şalom sunusu olarak — ve Aharon'un oğulları ⟨את⟩ kanı ona getirdiler, ve onu sununun etrafına serpti.",
   "tokens": [
     {
       "surface": "וישחט",
-      "gloss": "kesti"
+      "gloss": "ve kesti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sığırı"
+      "marks": "boğa"
     },
     {
       "surface": "השור",
-      "gloss": "sığır"
+      "gloss": "boğayı"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "koçu"
+      "marks": "koç"
     },
     {
       "surface": "האיל",
-      "gloss": "koç"
+      "gloss": "koçu"
     },
     {
       "surface": "זבח",
-      "gloss": "sunu"
+      "gloss": "kurban"
     },
     {
       "surface": "השלמים",
-      "gloss": "şalom sunuları"
+      "gloss": "şalom sunusu"
     },
     {
       "surface": "אשר",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "וימצאו",
-      "gloss": "getirdiler"
+      "gloss": "ve getirdiler"
     },
     {
       "surface": "בני",
@@ -60,11 +60,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kanı"
+      "marks": "kan"
     },
     {
       "surface": "הדם",
-      "gloss": "kan"
+      "gloss": "kanı"
     },
     {
       "surface": "אליו",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "ויזרקהו",
-      "gloss": "onu serpti"
+      "gloss": "ve onu serpti"
     },
     {
       "surface": "על",
@@ -80,13 +80,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ altarın"
+      "gloss": "sununun"
     },
     {
       "surface": "סביב",
-      "gloss": "çevresine"
+      "gloss": "etrafına"
     }
   ],
-  "timestamp": "2026-08-19T07:25:02.619175093Z",
+  "timestamp": "2026-08-24T17:01:08.739993193Z",
   "model": "glm-5.3"
 }

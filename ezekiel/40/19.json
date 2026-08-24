@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 40,
-  "translation": "Ve aşağı kapının önünden, iç avlunun önüne, dışarı doğru genişliği ölçtü — yüz arşın, doğuya ve kuzeye.",
+  "translation": "Ve alt kapının önünden iç avlunun önüne, dışarıya doğru genişliği ölçtü — yüz arşın, doğuya ve kuzeye.",
   "tokens": [
     {
       "surface": "וימד",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "רחב",
-      "gloss": "genişliği"
+      "gloss": "genişlik"
     },
     {
       "surface": "מלפני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "השער",
-      "gloss": "⟨the⟩ kapının"
+      "gloss": "⟨the⟩ kapı"
     },
     {
       "surface": "התחתונה",
-      "gloss": "aşağı"
+      "gloss": "alt"
     },
     {
       "surface": "לפני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "⟨the⟩ avlunun"
+      "gloss": "⟨the⟩ avlu"
     },
     {
       "surface": "הפנימי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "dışarı"
+      "gloss": "dışarıya"
     },
     {
       "surface": "מאה",
@@ -60,6 +60,6 @@
       "gloss": "ve kuzey"
     }
   ],
-  "timestamp": "2026-08-19T10:36:11.102201052Z",
+  "timestamp": "2026-08-24T17:09:25.454065428Z",
   "model": "glm-5.3"
 }

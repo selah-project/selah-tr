@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Adoniyahu ve ⟨את⟩ yanındaki bütün çağrılanlar duydular; onlar yemeyi bitirmişlerdi; Yoav ⟨את⟩ şofarın sesini duyunca dedi: Neden ⟨קול⟩ kentin sesi böyle uğulduyor?",
+  "translation": "Ve Adoniyahu ve onunla ⟨את⟩ birlikte çağrılmış olanların hepsi bunu duydu — yemeyi bitirmişlerken; ve Yoav ⟨את⟩ şofarın sesini duydu ve dedi: Neden kentin sesi böyle uğulduyor?",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "duydu"
+      "gloss": "ve duydu"
     },
     {
       "surface": "אדניהו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הקראים",
-      "gloss": "çağrılanlar"
+      "gloss": "çağrılmış olanlar"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yanında"
+      "gloss": "⟨את⟩ onunla"
     },
     {
       "surface": "והם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לאכל",
-      "gloss": "yemeye"
+      "gloss": "yemeği"
     },
     {
       "surface": "וישמע",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "şofarın sesini"
+      "marks": "sesini"
     },
     {
       "surface": "קול",
-      "gloss": "sesini"
+      "gloss": "ses"
     },
     {
       "surface": "השופר",
@@ -85,6 +85,6 @@
       "gloss": "uğulduyor"
     }
   ],
-  "timestamp": "2026-08-19T09:36:26.746448311Z",
+  "timestamp": "2026-08-24T17:05:12.112409867Z",
   "model": "glm-5.3"
 }

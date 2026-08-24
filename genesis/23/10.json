@@ -5,11 +5,31 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Efron ise Het oğullarının arasında oturuyordu; ve Efron the Hitti, Avraham'ı ⟨את⟩ şehrinin kapısına girenlerin ⟨את⟩ tümünün — Het oğullarının kulakları önünde — yanıtladı, şöyle diyerek:",
+  "translation": "Ve Efron, Het oğullarının ortasında oturuyordu; ve Efron the Hitti, Het oğullarının — şehrinin kapısına giren herkesin — kulakları önünde Avraham'ı ⟨את⟩ yanıtladı, şöyle diyerek:",
   "tokens": [
     {
+      "surface": "ועפרון",
+      "gloss": "Ve Efron"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturuyordu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
       "surface": "ויען",
-      "gloss": "yanıtladı"
+      "gloss": "ve yanıtladı"
     },
     {
       "surface": "עפרון",
@@ -17,16 +37,16 @@
     },
     {
       "surface": "החתי",
-      "gloss": "the Hitti"
+      "gloss": "Hitti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avraham'ı"
+      "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "gloss": "Avraham'ı"
+      "gloss": "Avraham"
     },
     {
       "surface": "באזני",
@@ -42,11 +62,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "⟨את⟩ tümünün"
+      "gloss": "herkesin"
     },
     {
       "surface": "באי",
-      "gloss": "girenlerin"
+      "gloss": "girenlere"
     },
     {
       "surface": "שער",
@@ -61,6 +81,6 @@
       "gloss": "şöyle diyerek"
     }
   ],
-  "timestamp": "2026-08-19T06:59:45.726320250Z",
+  "timestamp": "2026-08-24T17:16:35.336249817Z",
   "model": "glm-5.3"
 }

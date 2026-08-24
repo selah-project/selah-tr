@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 24,
-  "translation": "İşte bu ⟨זה⟩ nesil, O'nu arayan, yüzünü arayan nesildir — ⟨הוא⟩ Yaakov. Selah.",
+  "translation": "İşte bu, ⟨onu⟩ arayanların kuşağıdır; yüzünü arayanlar, ey Yaakov. Sela.",
   "tokens": [
     {
       "surface": "זה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "דור",
-      "gloss": "nesil"
+      "gloss": "kuşak"
     },
     {
       "surface": "דרשו",
-      "gloss": "arayan"
+      "gloss": "arayanların"
     },
     {
       "surface": "מבקשי",
-      "gloss": "dileyen"
+      "gloss": "arayanlar"
     },
     {
       "surface": "פניך",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "סלה",
-      "gloss": "Selah"
+      "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-08-19T10:55:12.118334952Z",
+  "timestamp": "2026-08-24T17:10:33.944920091Z",
   "model": "glm-5.3"
 }

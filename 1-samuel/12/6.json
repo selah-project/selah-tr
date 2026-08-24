@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Ve Şemuël halka dedi: Yahve ⟨⟨O'dur⟩⟩ ki Moşe'yi ve ⟨את⟩ Aharon'u yaptı, ve ⟨⟨O'dur⟩⟩ ki atalarınızı Mısır ülkesinden çıkardı.",
+  "translation": "Şemuël halka şöyle dedi: Yahve'dir — Moşe'yi ve ⟨את⟩ Aharon'u var eden, atalarınızı Mısır diyarından yukarı çıkaran O'dur.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "-e doğru"
+      "gloss": "şöyle"
     },
     {
       "surface": "העם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "yaptı"
+      "gloss": "var eden"
     },
     {
       "surface": "את",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "çıkardı"
+      "gloss": "yukarı çıkaran"
     },
     {
       "surface": "את",
@@ -68,17 +68,17 @@
     },
     {
       "surface": "אבתיכם",
-      "gloss": "atalarınızı"
+      "gloss": "atalarınız"
     },
     {
       "surface": "מארץ",
-      "gloss": "ülkesinden"
+      "gloss": "diyarından"
     },
     {
       "surface": "מצרים",
       "gloss": "Mısır"
     }
   ],
-  "timestamp": "2026-08-19T09:22:48.965759279Z",
+  "timestamp": "2026-08-24T17:04:11.273264388Z",
   "model": "glm-5.3"
 }

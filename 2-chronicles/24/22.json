@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Yoşşafat değil — Yo'aş ⟨ה⟩ kral, babası Yehoyada'nın kendisiyle yaptığı hesedi hatırlamadı, ama oğlunu öldürdü; ölürken şöyle dedi: Görsün Yahve ve arayıp sorsun.",
+  "translation": "Ve Yo'aş ⟨את⟩ haketmeyi hatırlamadı — Yo'aş kral o hakedi ki Yehoyada onun babası ona yapmıştı — ve oğlunu öldürdü; ve ölürken şöyle dedi: \"Görsün Yahve ve hesap sorsun.\"",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ve ... olmadı"
+      "gloss": "ve ... -madı"
     },
     {
       "surface": "זכר",
-      "gloss": "hatırlamadı"
+      "gloss": "hatırladı"
     },
     {
       "surface": "יואש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "החסד",
-      "gloss": "hesedi"
+      "gloss": "o hakedi"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "yaptığı"
+      "gloss": "yapmıştı"
     },
     {
       "surface": "יהוידע",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אביו",
-      "gloss": "babası"
+      "gloss": "onun babası"
     },
     {
       "surface": "עמו",
-      "gloss": "kendisiyle"
+      "gloss": "onunla"
     },
     {
       "surface": "ויהרג",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "וכמותו",
-      "gloss": "ölürken"
+      "gloss": "ve ölürken"
     },
     {
       "surface": "אמר",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "וידרש",
-      "gloss": "ve arayıp sorsun"
+      "gloss": "ve hesap sorsun"
     }
   ],
-  "timestamp": "2026-08-19T12:08:02.455667933Z",
+  "timestamp": "2026-08-24T17:16:04.980340387Z",
   "model": "glm-5.3"
 }

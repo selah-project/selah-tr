@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ve ayırt etmek için ⟨the⟩ kutsal ile ⟨the⟩ profan arasında, ve ⟨the⟩ murdar ile ⟨the⟩ temiz arasında.",
+  "translation": "Ve kutsal ile ⟨את⟩ sıradan olan arasında, murdar ile saf olan arasında ayrım yapmak için",
   "tokens": [
     {
       "surface": "ולהבדיל",
-      "gloss": "ve ayırt etmek"
+      "gloss": "ayrım yapmak için"
     },
     {
       "surface": "בין",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "החל",
-      "gloss": "profan"
+      "gloss": "sıradan olan"
     },
     {
       "surface": "ובין",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "הטהור",
-      "gloss": "temiz"
+      "gloss": "saf olan"
     }
   ],
-  "timestamp": "2026-08-19T07:26:07.385541996Z",
+  "timestamp": "2026-08-24T17:00:58.417518060Z",
   "model": "glm-5.3"
 }

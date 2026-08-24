@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve ona dedi: Hassıtır, ölmeyeceksin; işte babam büyük ya da küçük bir söz işitse ⟨⟨bana⟩⟩ kulağımı açığa vurur; ve babam benden ⟨את⟩ bu ⟨işi⟩ neden saklasın? böyle değildir.",
+  "translation": "Ve ona dedi: Haşa! Ölmeyeceksin; işte babam bir şey — büyük bir şey ya da küçük bir şey — yapıp ⟨את⟩ kulağımı açmaz; ve babam neden benden ⟨את⟩ bu işi saklasın? Böyle bir şey yok.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dedi"
+      "gloss": "ve dedi"
     },
     {
       "surface": "לו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חלילה",
-      "gloss": "hassıtır"
+      "gloss": "haşa"
     },
     {
       "surface": "לא",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "için"
+      "gloss": "yapmaz"
     },
     {
       "surface": "עשה",
-      "gloss": "yapsa"
+      "gloss": "yapmak"
     },
     {
       "surface": "אבי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "söz"
+      "gloss": "şey"
     },
     {
       "surface": "גדול",
@@ -53,19 +53,28 @@
     },
     {
       "surface": "או",
-      "gloss": "veya"
+      "gloss": "ya da"
     },
     {
       "surface": "דבר",
-      "gloss": "söz"
+      "gloss": "şey"
     },
     {
       "surface": "קטן",
       "gloss": "küçük"
     },
     {
-      "surface": "ויגלה",
-      "gloss": "açığa vurur"
+      "surface": "ולא",
+      "gloss": "ve...-mez"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "açığa çıkarır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulağımı"
     },
     {
       "surface": "אזני",
@@ -73,7 +82,7 @@
     },
     {
       "surface": "ומדוע",
-      "gloss": "⟨את⟩ ve neden"
+      "gloss": "ve neden"
     },
     {
       "surface": "יסתיר",
@@ -98,7 +107,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "⟨את⟩ bu"
+      "gloss": "bu"
     },
     {
       "surface": "אין",
@@ -106,9 +115,9 @@
     },
     {
       "surface": "זאת",
-      "gloss": "böyledir"
+      "gloss": "böyle bir şey"
     }
   ],
-  "timestamp": "2026-08-19T09:25:40.760134236Z",
+  "timestamp": "2026-08-24T17:04:01.431156004Z",
   "model": "glm-5.3"
 }

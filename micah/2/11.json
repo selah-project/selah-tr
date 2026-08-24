@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Keşke bir adam — rüzgâr ve yalan yürüyen, yalan söyleyen — 'Sana şarap ve içki üzerine damlatayım' dese; o, bu halkın damlatıcısı ⟨⟨peygamberi⟩⟩ olurdu.",
+  "translation": "Bir adam rüzgâr ve yalanla yürüyüp yalan söyleyerek 'Sana şaraptan ve sert içkiden damlatacağım' dese, bu halkın vaizi o olurdu.",
   "tokens": [
     {
       "surface": "לו",
-      "gloss": "keşke"
+      "gloss": "eğer"
     },
     {
       "surface": "איש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "yürüyen"
+      "gloss": "yürüyüp"
     },
     {
       "surface": "רוח",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "כזב",
-      "gloss": "yalan söyleyen"
+      "gloss": "yalan söyleyerek"
     },
     {
       "surface": "אטף",
-      "gloss": "damlatayım"
+      "gloss": "damlatacağım"
     },
     {
       "surface": "לך",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ליין",
-      "gloss": "şarap"
+      "gloss": "şaraptan"
     },
     {
       "surface": "ולשכר",
-      "gloss": "ve içki"
+      "gloss": "ve sert içkiden"
     },
     {
       "surface": "והיה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מטיף",
-      "gloss": "damlatıcısı"
+      "gloss": "vaizi"
     },
     {
       "surface": "העם",
@@ -64,6 +64,6 @@
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-19T10:44:35.643508758Z",
+  "timestamp": "2026-08-24T17:10:16.238409775Z",
   "model": "glm-5.3"
 }

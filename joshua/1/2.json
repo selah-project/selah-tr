@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 1,
-  "translation": "«Kulum Moşe öldü; şimdi kalk, sen ve bütün bu halk ⟨את⟩ bu Şeria'yı geçin, size, İsrail oğullarına verdiğim ⟨⟨o⟩⟩ toprağa.»",
+  "translation": "Moşe, kulum, öldü; ve şimdi kalk, ⟨את⟩ şu Yarden'i sen ve bütün şu halk geç, benim onlara, Yişrael oğullarına vermekte olduğum ⟨את⟩ ⟨the⟩ toprağa.",
   "tokens": [
     {
       "surface": "משה",
@@ -34,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bu Şeria'yı"
+      "marks": "şu Yarden'i"
     },
     {
       "surface": "הירדן",
-      "gloss": "Şeria"
+      "gloss": "Yarden"
     },
     {
       "surface": "הזה",
-      "gloss": "bu"
+      "gloss": "şu"
     },
     {
       "surface": "אתה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "bu"
+      "gloss": "şu"
     },
     {
       "surface": "אל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "toprağa"
+      "gloss": "toprak"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "veriyorum"
+      "gloss": "vermekteyim"
     },
     {
       "surface": "להם",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail'in"
+      "gloss": "Yişrael"
     }
   ],
-  "timestamp": "2026-08-19T09:08:06.070125583Z",
+  "timestamp": "2026-08-24T17:02:56.297976717Z",
   "model": "glm-5.3"
 }

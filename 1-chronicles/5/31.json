@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 5,
-  "translation": "ve Avişua ⟨את Bukki'yi babası oldu, ve Bukki ⟨את Uzzi'yi babası oldu.",
+  "translation": "Avişua ⟨את⟩ Bukki'yi doğurdu ve Bukki ⟨את⟩ Uzzi'yi doğurdu.",
   "tokens": [
     {
       "surface": "ואבישוע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "babası oldu"
+      "gloss": "doğurdu"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "babası oldu"
+      "gloss": "doğurdu"
     },
     {
       "surface": "את",
@@ -42,6 +42,6 @@
       "gloss": "Uzzi"
     }
   ],
-  "timestamp": "2026-08-19T11:55:34.998937051Z",
+  "timestamp": "2026-08-24T17:15:40.309017010Z",
   "model": "glm-5.3"
 }

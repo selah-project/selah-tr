@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve şimdi, Yahve yaşar — beni hazırlayan ve Davut ⟨the⟩ babamın tahtına oturtan ve bana ⟨the⟩ söz verdiği gibi ⟨the⟩ ev yapmış olan — çünkü bugün Adoniya öldürülecek.",
+  "translation": "Ve şimdi, beni ayakta tutan, beni Davut babamın tahtına oturtan ve konuştuğu gibi bana bir ev yapan Yahve yaşar — çünkü bugün Adoniyahu öldürülecek.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki (o ki)"
+      "gloss": "ki"
     },
     {
       "surface": "הכינני",
-      "gloss": "beni hazırladı"
+      "gloss": "beni ayakta tutan"
     },
     {
       "surface": "ויושיביני",
-      "gloss": "ve beni oturttu"
+      "gloss": "beni oturtan"
     },
     {
       "surface": "על",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "אבי",
-      "gloss": "babam"
+      "gloss": "babamın"
     },
     {
       "surface": "ואשר",
-      "gloss": "ve ki (o ki)"
+      "gloss": "ve ki"
     },
     {
       "surface": "עשה",
-      "gloss": "yaptı"
+      "gloss": "yapan"
     },
     {
       "surface": "לי",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "gerektiği gibi"
+      "gloss": "söylediği gibi"
     },
     {
       "surface": "דבר",
-      "gloss": "söyledi"
+      "gloss": "konuştuğu"
     },
     {
       "surface": "כי",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "אדניהו",
-      "gloss": "Adoniya"
+      "gloss": "Adoniyahu"
     }
   ],
-  "timestamp": "2026-08-19T09:35:57.621481229Z",
+  "timestamp": "2026-08-24T17:05:08.005012678Z",
   "model": "glm-5.3"
 }

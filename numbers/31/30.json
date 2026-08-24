@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 31,
-  "translation": "Ve Yişraeil oğullarının yarısından, insanlardan, sığırlardan, eşeklerden ve koyunlardan — bütün hayvanlardan — elliden bir tane alınacaksın; ve ⟨את⟩ onları Leviiler'e, Yahve ⟨ה⟩mişkanının nöbetini görenlere vereceksin.",
+  "translation": "Ve Yişrael oğullarının yarısından alacaksın: elliden birini, ele alınmış olarak — insanlardan, sığırlardan, eşeklerden ve koyunlardan, tüm hayvanlardan; ve ⟨את⟩ onları Levi'lilere vereceksin, Yahve'nin mişkanının nöbetini tutanlara.",
   "tokens": [
     {
       "surface": "וממחצת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "oğullarının"
+      "gloss": "oğulları"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yişraeil"
+      "gloss": "Yişrael"
     },
     {
       "surface": "תקח",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "אחד",
-      "gloss": "bir"
+      "gloss": "birini"
     },
     {
       "surface": "אחז",
-      "gloss": "tane (ayrılmış)"
+      "gloss": "ele alınmış"
     },
     {
       "surface": "מן",
-      "gloss": "içinden"
+      "gloss": "—dan"
     },
     {
       "surface": "החמשים",
-      "gloss": "ellinin"
+      "gloss": "elliden"
     },
     {
       "surface": "מן",
-      "gloss": "—"
+      "gloss": "—dan"
     },
     {
       "surface": "האדם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "—"
+      "gloss": "—dan"
     },
     {
       "surface": "הבקר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "—"
+      "gloss": "—dan"
     },
     {
       "surface": "החמרים",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ומן",
-      "gloss": "ve"
+      "gloss": "ve —dan"
     },
     {
       "surface": "הצאן",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "bütün"
+      "gloss": "tümünden"
     },
     {
       "surface": "הבהמה",
-      "gloss": "hayvanlardan"
+      "gloss": "hayvanların"
     },
     {
       "surface": "ונתתה",
@@ -86,15 +86,15 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "onları"
+      "marks": "onları (Levi'liler)"
     },
     {
       "surface": "ללוים",
-      "gloss": "Leviiler'e"
+      "gloss": "Levi'lilere"
     },
     {
       "surface": "שמרי",
-      "gloss": "gören"
+      "gloss": "tutanlara"
     },
     {
       "surface": "משמרת",
@@ -109,6 +109,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-19T07:42:58.203308665Z",
+  "timestamp": "2026-08-24T17:02:30.039956035Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Ve Elohim'in kandili henüz sönmemişken, Şemuël, Yahve'nin heikhalında — ⟨orada⟩ ארın, Elohim'in sandığının bulunduğu yerde — yatıyordu.",
+  "translation": "Ve Elohim'in kandili ⟨henüz⟩ sönmeden, Şemuvel Yahve'nin heykelinde — ⟨את⟩ Elohim'in sandığının ⟨bulunduğu⟩ yerde — yatıyordu.",
   "tokens": [
     {
       "surface": "ונר",
-      "gloss": "Ve kandili"
+      "gloss": "ve kandili"
     },
     {
       "surface": "אלהים",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "טרם",
-      "gloss": "henüz"
+      "gloss": "henüz sönmeden"
     },
     {
       "surface": "יכבה",
-      "gloss": "sönmemişken"
+      "gloss": ""
     },
     {
       "surface": "ושמואל",
-      "gloss": "ve Şemuël"
+      "gloss": "ve Şemuvel"
     },
     {
       "surface": "שכב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בהיכל",
-      "gloss": "heikhalında"
+      "gloss": "heykelinde"
     },
     {
       "surface": "יהוה",
@@ -41,21 +41,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ki⟩ orada"
+      "gloss": "⟨bulunduğu⟩"
     },
     {
       "surface": "שם",
-      "gloss": "orada"
+      "gloss": "yerde"
     },
     {
       "surface": "ארון",
-      "gloss": "sandık"
+      "gloss": "sandığının"
     },
     {
       "surface": "אלהים",
       "gloss": "Elohim'in"
     }
   ],
-  "timestamp": "2026-08-19T09:21:09.053864430Z",
+  "timestamp": "2026-08-24T17:03:44.353834087Z",
   "model": "glm-5.3"
 }

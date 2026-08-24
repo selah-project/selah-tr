@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Çünkü babamın bütün evi ⟨⟨yalnız⟩⟩ efendim krala karşı ölüm adamları ⟨idi⟩; ama kulunu sofranda yiyenler arasına oturttun ⟨את⟩ — bana daha ne hak kaldı, ki krala daha fazla çağırayım?",
+  "translation": "Çünkü efendim kralın katında babamın bütün ev halkı yalnızca ölüm adamları değil ⟨idi⟩; kulunu ise sofrana ⟨את⟩ oturan yiyicilerin arasına koydun; benim için artık bir hak ⟨var mı⟩, krala daha fazla feryat etmek için ⟨var mı⟩?",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "oldu"
+      "gloss": "idi"
     },
     {
       "surface": "כל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "çünkü"
+      "gloss": "yalnızca"
     },
     {
       "surface": "אם",
-      "gloss": "yalnız"
+      "gloss": "ancak"
     },
     {
       "surface": "אנשי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ותשת",
-      "gloss": "ve oturttun"
+      "gloss": "ve koydun"
     },
     {
       "surface": "את",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "באכלי",
-      "gloss": "yiyenler arasında"
+      "gloss": "yiyicileri arasında"
     },
     {
       "surface": "שלחנך",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "daha"
+      "gloss": "artık"
     },
     {
       "surface": "צדקה",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "ולזעק",
-      "gloss": "ve çağırmaya"
+      "gloss": "ve feryat etmek"
     },
     {
       "surface": "עוד",
@@ -106,13 +106,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "doğru"
+      "gloss": "e doğru"
     },
     {
       "surface": "המלך",
       "gloss": "kral"
     }
   ],
-  "timestamp": "2026-08-19T09:33:57.134753845Z",
+  "timestamp": "2026-08-24T17:04:49.922507705Z",
   "model": "glm-5.3"
 }

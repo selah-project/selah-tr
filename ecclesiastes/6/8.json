@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Çünkü bilge ⟨⟨bir adam⟩⟩'a, ahmaktan fazla ⟨ne⟩ ⟨kazanç⟩ var? Yoksul ⟨bir adam⟩'a, yaşayanların önünde yürümesini bilen'e ⟨ne⟩ ⟨kazanç⟩ var?",
+  "translation": "Çünkü bilgeye kütün üstünde ⟨the⟩ fazlalık nedir? Yoksula ⟨the⟩, yaşamın önünde yürümeyi bilene ne?",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "ne"
+      "gloss": "nedir"
     },
     {
       "surface": "יותר",
-      "gloss": "fazla"
+      "gloss": "fazlalık"
     },
     {
       "surface": "לחכם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "göre"
+      "gloss": "üstünde"
     },
     {
       "surface": "הכסיל",
-      "gloss": "ahmak"
+      "gloss": "küt"
     },
     {
       "surface": "מה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "להלך",
-      "gloss": "yürümesini"
+      "gloss": "yürümeye"
     },
     {
       "surface": "נגד",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "החיים",
-      "gloss": "yaşayanların"
+      "gloss": "yaşamın"
     }
   ],
-  "timestamp": "2026-08-19T11:38:06.677882362Z",
+  "timestamp": "2026-08-24T17:14:30.653716848Z",
   "model": "glm-5.3"
 }

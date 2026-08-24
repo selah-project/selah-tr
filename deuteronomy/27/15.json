@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Lanetli ⟨ׂdir⟩ o adam ki Yahve'nin iğrençliği, zanaatkâr ellerinin işi olan oyma put ya da dökme suret yapar ve gizlice diker; ve bütün halk yanıt verip diyecek: Amen.",
+  "translation": "Lanetli ⟨o⟩ adam — o ki dökme oyma put yapar, Yahve'nin iğrenci, zanaatkâr ellerinin eseri — ve gizlice koyar; ve bütün halk cevap verecek ve diyecek: Amen.",
   "tokens": [
     {
       "surface": "ארור",
-      "gloss": "Lanetli"
+      "gloss": "lanetli"
     },
     {
       "surface": "האיש",
-      "gloss": "o adam"
+      "gloss": "⟨o⟩ adam"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "o ki"
     },
     {
       "surface": "יעשה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ומסכה",
-      "gloss": "ve dökme suret"
+      "gloss": "ve dökme"
     },
     {
       "surface": "תועבת",
-      "gloss": "iğrençlik"
+      "gloss": "iğrenci"
     },
     {
       "surface": "יהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "iş"
+      "gloss": "eseri"
     },
     {
       "surface": "ידי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ושם",
-      "gloss": "ve diker"
+      "gloss": "ve koyar"
     },
     {
       "surface": "בסתר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וענו",
-      "gloss": "ve yanıt verdiler"
+      "gloss": "ve cevap verecek"
     },
     {
       "surface": "כל",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "ואמרו",
-      "gloss": "ve diyecekler"
+      "gloss": "ve diyecek"
     },
     {
       "surface": "אמן",
       "gloss": "Amen"
     }
   ],
-  "timestamp": "2026-08-19T09:04:41.475125730Z",
+  "timestamp": "2026-08-24T17:03:00.462119825Z",
   "model": "glm-5.3"
 }

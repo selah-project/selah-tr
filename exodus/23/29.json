@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Onları bir yılda yüzünden kovmayacağım, yoksa ⟨the⟩ ülke ıssız kalır ve kırın canlıları senin üzerine çoğalır.",
+  "translation": "Onları bir yılda senin önünden kovmayacağım — ⟨ki⟩ ülke ıssız kalmasın ve kırın hayvanları senin üzerine çoğalmasın.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "değil"
+      "gloss": "kovmayacağım — değil"
     },
     {
       "surface": "אגרשנו",
-      "gloss": "kovacağım"
+      "gloss": "onları kovmayacağım"
     },
     {
       "surface": "מפניך",
-      "gloss": "yüzünden"
+      "gloss": "senin önünden"
     },
     {
       "surface": "בשנה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "פן",
-      "gloss": "yoksa"
+      "gloss": "— ki ... olmasın"
     },
     {
       "surface": "תהיה",
-      "gloss": "olur"
+      "gloss": "olsun"
     },
     {
       "surface": "הארץ",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "שממה",
-      "gloss": "ıssız"
+      "gloss": "ıssız\/yıkık"
     },
     {
       "surface": "ורבה",
-      "gloss": "ve çoğalır"
+      "gloss": "ve çoğalsın"
     },
     {
       "surface": "עליך",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "חית",
-      "gloss": "canlıları"
+      "gloss": "hayvanları"
     },
     {
       "surface": "השדה",
       "gloss": "kırın"
     }
   ],
-  "timestamp": "2026-08-19T07:16:48.416857238Z",
+  "timestamp": "2026-08-24T16:59:49.411245759Z",
   "model": "glm-5.3"
 }

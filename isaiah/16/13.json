@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Bu ⟨ה⟩ sözdür ki Moav hakkında o zamandan beri konuşmuş olan Yahve'nin ⟨ה⟩ sözü.",
+  "translation": "Budur, Yahve'nin Meav'a ⟨o zamandan⟩ söylediği ⟨olan⟩ söz ⟨şudur⟩.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "Bu"
+      "gloss": "Budur"
     },
     {
       "surface": "הדבר",
-      "gloss": "sözdür"
+      "gloss": "söz"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "konuşmuş"
+      "gloss": "söylediği"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨ה⟩ hakkında"
+      "gloss": "⟨'a⟩ karşı"
     },
     {
       "surface": "מואב",
@@ -40,6 +40,6 @@
       "gloss": "o zamandan beri"
     }
   ],
-  "timestamp": "2026-08-19T09:54:04.911789262Z",
+  "timestamp": "2026-08-24T17:05:37.891221136Z",
   "model": "glm-5.3"
 }

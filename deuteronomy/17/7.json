@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 17,
-  "translation": "Tanıkların eli onun üzerine ilk olarak ölümü için olacak, ve bütün halkın eli sonra; ve kötüyü ⟨⟨senin⟩⟩ ortadan söküp atacaksın.",
+  "translation": "Tanıkların eli onun üzerinde ⟨olacak⟩, öncelikle onu öldürmek için; ve bütün halkın eli ⟨ondan⟩ sonra. Böylece kötüyü içinden, senin ortandan kaldıracaksın.",
   "tokens": [
     {
       "surface": "יד",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "בו",
-      "gloss": "onun üzerine"
+      "gloss": "onun üzerinde"
     },
     {
       "surface": "בראשנה",
-      "gloss": "ilk olarak"
+      "gloss": "öncelikle"
     },
     {
       "surface": "להמיתו",
-      "gloss": "ölümü için"
+      "gloss": "onu öldürmek için"
     },
     {
       "surface": "ויד",
-      "gloss": "ve eli"
+      "gloss": "ve el"
     },
     {
       "surface": "כל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "באחרנה",
-      "gloss": "sonra"
+      "gloss": "ondan sonra"
     },
     {
       "surface": "ובערת",
-      "gloss": "ve söküp atacaksın"
+      "gloss": "ve kaldıracaksın"
     },
     {
       "surface": "הרע",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "מקרבך",
-      "gloss": "ortandan"
+      "gloss": "senin ortandan"
     }
   ],
-  "timestamp": "2026-08-19T12:12:29.280990957Z",
+  "timestamp": "2026-08-24T17:02:44.338932217Z",
   "model": "glm-5.3"
 }

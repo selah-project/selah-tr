@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "tr",
   "chapter": 3,
-  "translation": "O zamanda getireceğim ⟨את⟩ sizleri, ve topladığım zamanda ⟨את⟩ sizleri; çünkü vereceğim ⟨את⟩ sizleri ⟨⟨bir⟩⟩ ad ve övgü olarak bütün yeryüzünün halkları arasında; sürgünlerinizi geri çevirdiğimde gözlerinizin önünde, dedi Yahve.",
+  "translation": "O zamanda sizleri ⟨את⟩ getireceğim ve topladığım zamanda sizleri ⟨את⟩; çünkü sizleri ⟨את⟩ ün ve övgü kılacağım bütün yeryüzü halkları arasında, sürgünlüklerinizi ⟨את⟩ gözlerinizin önünde geri döndürdüğümde, dedi Yahve.",
   "tokens": [
     {
       "surface": "בעת",
@@ -21,8 +21,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizleri",
-      "marks": "sizleri"
+      "gloss": "⟨את⟩ sizleri"
     },
     {
       "surface": "ובעת",
@@ -34,8 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizleri",
-      "marks": "sizleri"
+      "gloss": "⟨את⟩ sizleri"
     },
     {
       "surface": "כי",
@@ -47,12 +45,11 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizleri",
-      "marks": "sizleri"
+      "gloss": "⟨את⟩ sizleri"
     },
     {
-      "surface": "לשם",
-      "gloss": "ada"
+      "surface": "לשׁם",
+      "gloss": "üne"
     },
     {
       "surface": "ולתהלה",
@@ -71,17 +68,17 @@
       "gloss": "yeryüzünün"
     },
     {
-      "surface": "בשובי",
-      "gloss": "geri çevirdiğimde"
+      "surface": "בשׁובי",
+      "gloss": "geri döndürdüğümde"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sürgünlerinizi"
+      "marks": "sürgünlüklerinizi"
     },
     {
-      "surface": "שבותיכם",
-      "gloss": "sürgünlerinizi"
+      "surface": "שׁבותיכם",
+      "gloss": "sürgünlüklerinizi"
     },
     {
       "surface": "לעיניכם",
@@ -96,6 +93,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-19T10:46:54.516619023Z",
+  "timestamp": "2026-08-24T17:10:30.834847850Z",
   "model": "glm-5.3"
 }

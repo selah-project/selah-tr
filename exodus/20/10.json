@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Yedinci gün ise Yahve Elohim'in ⟨⟨gün⟩⟩ Şabbat'ıdır; hiçbir iş yapmayacaksın: sen, oğlun, kızın, kölen, cariyen, hayvanın ve kapılarındaki garip.",
+  "translation": "Ve yedinci gün Yahve'nin, Elohim'inin ⟨Sabbath'ıdır⟩ ⟨⟨shabattır⟩⟩; hiçbir iş yapmayacaksın — sen, oğlun, kızın, kölen, cariyen, hayvanın ve kapılarında ⟨bulunan⟩ misafirin.",
   "tokens": [
     {
       "surface": "ויום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שבת",
-      "gloss": "Şabbat"
+      "gloss": "Şabat"
     },
     {
       "surface": "ליהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim'in"
+      "gloss": "Elohim'ine"
     },
     {
       "surface": "לא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "וגרך",
-      "gloss": "ve garibin"
+      "gloss": "ve misafirin"
     },
     {
       "surface": "אשר",
@@ -80,6 +80,6 @@
       "gloss": "kapılarında"
     }
   ],
-  "timestamp": "2026-08-19T07:15:43.781201786Z",
+  "timestamp": "2026-08-24T17:00:00.382965985Z",
   "model": "glm-5.3"
 }

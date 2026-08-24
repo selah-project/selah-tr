@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve ⟨ה⟩ toprak tuhaf-ta boştu, ve karanlık tehomin yüzü üzerinde ⟨idi⟩, ve Elohim'in ruhu suların yüzü üzerinde süzülüp duruyordu.",
+  "translation": "Ve yer ⟨⟨dur⟩⟩ tuhaf ve boştu; karanlık ⟨⟨tehe⟩⟩tin yüzü üzerindeydi ve Elohim'in Ruhu suların yüzü üzerinde süzülüyordu.",
   "tokens": [
     {
       "surface": "והארץ",
-      "gloss": "ve ⟨ה⟩ toprak"
+      "gloss": "ve yer"
     },
     {
       "surface": "היתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תהו",
-      "gloss": "tuhaf-ta (biçimsiz)"
+      "gloss": "tuhaf"
     },
     {
       "surface": "ובהו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "תהום",
-      "gloss": "tehomin (derin uçurum)"
+      "gloss": "uçurumun"
     },
     {
       "surface": "ורוח",
-      "gloss": "ve ruhu"
+      "gloss": "ve Ruh"
     },
     {
       "surface": "אלהים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מרחפת",
-      "gloss": "süzülüp duruyordu"
+      "gloss": "süzülüyordu"
     },
     {
       "surface": "על",
@@ -64,6 +64,6 @@
       "gloss": "suların"
     }
   ],
-  "timestamp": "2026-08-19T06:54:45.989827420Z",
+  "timestamp": "2026-08-24T17:16:36.753408686Z",
   "model": "glm-5.3"
 }

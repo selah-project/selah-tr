@@ -5,12 +5,12 @@
   "book": "joshua",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Ve Yusuf'un kemiklerini ⟨את⟩ ⟨ואת⟩ — ki İsrail oğulları onları Mısır'dan çıkarmışlardı — Şekem'de gömdüler, tarlanın parçasında, ki Yakov onu Hamor oğullarından satın almıştı ⟨את⟩ ⟨מאת⟩, Şekem'in babasının, yüz kesita karşılığında; ve Yusuf oğullarının mirası oldular.",
+  "translation": "Ve ⟨את⟩ Yosef'in kemiklerini, ki Yisrael oğulları onları Mısır'dan çıkarmıştı, Şkem'de gömdüler, tarlanın parçasında ki onu Yaakov, Şkem'in babası Hamor'un oğullarından ⟨את⟩ yüz kşita için satın almıştı; ve Yosef oğullarının mirası oldular.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
-      "marks": "Yusuf'un kemiklerini"
+      "gloss": "⟨את⟩",
+      "marks": "Yosef'in kemiklerini"
     },
     {
       "surface": "עצמות",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yusuf'un"
+      "gloss": "Yosef'in"
     },
     {
       "surface": "אשר",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "העלו",
-      "gloss": "çıkarmışlardı"
+      "gloss": "çıkarmıştı"
     },
     {
       "surface": "בני",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "İsrail"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ממצרים",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "בשכם",
-      "gloss": "Şekem'de"
+      "gloss": "Şkem'de"
     },
     {
       "surface": "בחלקת",
@@ -66,12 +66,12 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ⟨מאת⟩",
-      "marks": "Hamor oğullarından"
+      "gloss": "⟨את⟩",
+      "marks": "Hamor'un oğullarından"
     },
     {
       "surface": "בני",
@@ -79,15 +79,15 @@
     },
     {
       "surface": "חמור",
-      "gloss": "Hamor"
+      "gloss": "Hamor'un"
     },
     {
       "surface": "אבי",
-      "gloss": "babasının"
+      "gloss": "babası"
     },
     {
       "surface": "שכם",
-      "gloss": "Şekem'in"
+      "gloss": "Şkem'in"
     },
     {
       "surface": "במאה",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "קשיטה",
-      "gloss": "kesita"
+      "gloss": "kşita"
     },
     {
       "surface": "ויהיו",
@@ -107,13 +107,13 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yusuf"
+      "gloss": "Yosef"
     },
     {
       "surface": "לנחלה",
-      "gloss": "mirasına"
+      "gloss": "mirası olarak"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.043724374Z",
+  "timestamp": "2026-08-24T17:03:36.098412431Z",
   "model": "glm-5.3"
 }

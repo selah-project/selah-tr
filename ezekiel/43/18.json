@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 43,
-  "translation": "Ve bana dedi: İnsanoğlu, şöyle dedi Adonay Yahve: Bunlar sunağın kurallarıdır, yapıldığı gün, üzerine yakmalık sunu yükseltmek ve üzerine kan serpmek için.",
+  "translation": "Ve bana dedi: İnsan oğlu, Adonay Yahve böyle diyor: Bunlar sunağın kaideleridir — yapıldığı gün, üzerine yakmalık sunu yükseltmek ve üzerine kan serpmek için.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ve dedi"
+      "gloss": "Ve dedi"
     },
     {
       "surface": "אלי",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בן",
-      "gloss": "oğlu"
-    },
-    {
-      "surface": "אדם",
       "gloss": "insan"
     },
     {
+      "surface": "אדם",
+      "gloss": "oğlu"
+    },
+    {
       "surface": "כה",
-      "gloss": "şöyle"
+      "gloss": "böyle"
     },
     {
       "surface": "אמר",
-      "gloss": "dedi"
+      "gloss": "diyor"
     },
     {
       "surface": "אדני",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "חקות",
-      "gloss": "kuralları"
+      "gloss": "kaideleri"
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨ה⟩sunağın"
+      "gloss": "sunağın"
     },
     {
       "surface": "ביום",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "העשותו",
-      "gloss": "onun yapılması"
+      "gloss": "yapılmasının"
     },
     {
       "surface": "להעלות",
@@ -84,6 +84,6 @@
       "gloss": "kan"
     }
   ],
-  "timestamp": "2026-08-19T10:36:58.721299029Z",
+  "timestamp": "2026-08-24T17:09:52.072231016Z",
   "model": "glm-5.3"
 }

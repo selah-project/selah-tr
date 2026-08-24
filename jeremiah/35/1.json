@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 35,
-  "translation": "Yirmiyahu'ya Yahve'den ⟨את⟩ sözün ⟨היה⟩ olduğu ⟨zaman⟩ — Yahoyakim'in, Yoşiyahu'nun oğlu, Yehuda kralının günlerinde — şöyle derken:",
+  "translation": "Yirmiyahu'ya Yahve'den ⟨את⟩ söz ⟨olup⟩ — Yahve'nin ⟨ ⟩ — Yoşiya oğlu Yehoyakim'in, Yehuda kralının günlerinde ⟨idi⟩, şöyle ⟨diyerek⟩:",
   "tokens": [
     {
       "surface": "הדבר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "–e"
+      "gloss": "…'e"
     },
     {
       "surface": "ירמיהו",
@@ -30,7 +30,7 @@
     {
       "surface": "מאת",
       "gloss": "⟨את⟩",
-      "marks": "Yahve'den"
+      "marks": "Yahve'den (kaynak olarak)"
     },
     {
       "surface": "יהוה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "יהויקים",
-      "gloss": "Yahoyakim"
+      "gloss": "Yehoyakim"
     },
     {
       "surface": "בן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Yoşiyahu"
+      "gloss": "Yoşiya"
     },
     {
       "surface": "מלך",
@@ -65,6 +65,6 @@
       "gloss": "şöyle diyerek"
     }
   ],
-  "timestamp": "2026-08-19T10:17:24.239714837Z",
+  "timestamp": "2026-08-24T17:17:12.738566250Z",
   "model": "glm-5.3"
 }

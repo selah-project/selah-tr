@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve onlar Miḥa'nın yaptığı şeyi ⟨את⟩ ve yanında bulunan kâhini ⟨ואת⟩ aldılar; Laş üzerine, sessiz ve güven içinde yaşayan bir halkın üzerine geldiler, ⟨את⟩ onları kılıcın ağzıyla vurdular ve şehri ⟨את⟩ ateşle yaktılar.",
+  "translation": "Ve ⟨את⟩ Mişa'nın yaptığını ve ⟨את⟩ yanındaki koheni aldılar; Laiş'e, sessiz ve güven içinde yaşayan bir halkın üzerine geldiler ve ⟨את⟩ onları ağzın ağzıyla ⟨kılıcın⟩ vurup ⟨את⟩ şehri ateşle yaktılar.",
   "tokens": [
     {
       "surface": "והמה",
@@ -13,33 +13,33 @@
     },
     {
       "surface": "לקחו",
-      "gloss": "aldılar"
+      "gloss": " aldılar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yaptığı şey"
+      "marks": "Mişa'nın yaptığını"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "…dığını"
     },
     {
       "surface": "עשה",
-      "gloss": "yaptığı"
+      "gloss": "yapmak"
     },
     {
       "surface": "מיכה",
-      "gloss": "Miḥa"
+      "gloss": "Mişa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kâhin"
+      "gloss": "ve ⟨את⟩",
+      "marks": "koheni"
     },
     {
       "surface": "הכהן",
-      "gloss": "kâhin"
+      "gloss": "kohen"
     },
     {
       "surface": "אשר",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "היה",
-      "gloss": "bulunan"
+      "gloss": "idi"
     },
     {
       "surface": "לו",
-      "gloss": "yanında"
+      "gloss": "ona"
     },
     {
       "surface": "ויבאו",
-      "gloss": "geldiler"
+      "gloss": "ve geldiler"
     },
     {
       "surface": "על",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ליש",
-      "gloss": "Laş"
+      "gloss": "Laiş"
     },
     {
       "surface": "על",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "halkın"
+      "gloss": "halk"
     },
     {
       "surface": "שקט",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "vurdular"
+      "gloss": "ve vurdular"
     },
     {
       "surface": "אותם",
@@ -95,16 +95,16 @@
     },
     {
       "surface": "חרב",
-      "gloss": "kılıcın"
+      "gloss": "kılıç"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "şehir"
+      "gloss": "ve ⟨את⟩",
+      "marks": "şehri"
     },
     {
       "surface": "העיר",
-      "gloss": "şehri"
+      "gloss": "şehir"
     },
     {
       "surface": "שרפו",
@@ -115,6 +115,6 @@
       "gloss": "ateşle"
     }
   ],
-  "timestamp": "2026-08-19T09:19:06.709276616Z",
+  "timestamp": "2026-08-24T17:04:01.347672405Z",
   "model": "glm-5.3"
 }

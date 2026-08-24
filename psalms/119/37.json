@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 119,
-  "translation": "Gözlerimi boş şeyleri görmekten ⟨⟨çevir⟩⟩ uzaklaştır; kendi yolunda beni dirilt.",
+  "translation": "Gözlerimi boş şeyleri görmekten ⟨את⟩ çevir; yolunda beni dirilt.",
   "tokens": [
     {
       "surface": "העבר",
-      "gloss": "uzaklaştır (çevir geç)"
+      "gloss": "çevir"
     },
     {
       "surface": "עיני",
@@ -21,17 +21,17 @@
     },
     {
       "surface": "שוא",
-      "gloss": "boş şey"
+      "gloss": "boş şeyleri"
     },
     {
       "surface": "בדרכך",
-      "gloss": "senin yolunda"
+      "gloss": "yolunda"
     },
     {
       "surface": "חיני",
       "gloss": "beni dirilt"
     }
   ],
-  "timestamp": "2026-08-19T11:09:10.949758547Z",
+  "timestamp": "2026-08-24T17:17:05.432147139Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Çünkü sizden önceki ülkenin adamları ⟨את⟩ bütün bu iğrençlikleri yaptılar, ve ⟨the⟩ ülke kirlendi.",
+  "translation": "Çünkü ⟨את⟩ bütün bu iğrençlikleri sizden önceki ülkenin adamları yaptı, ve ülke murdarlandı.",
   "tokens": [
     {
       "surface": "כי",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "yaptılar"
+      "gloss": "yaptı"
     },
     {
       "surface": "אנשי",
@@ -46,17 +46,17 @@
     },
     {
       "surface": "לפניכם",
-      "gloss": "sizden önce"
+      "gloss": "sizden önceki"
     },
     {
       "surface": "ותטמא",
-      "gloss": "ve kirlendi"
+      "gloss": "ve murdarlandı"
     },
     {
       "surface": "הארץ",
       "gloss": "ülke"
     }
   ],
-  "timestamp": "2026-08-19T07:27:46.453638185Z",
+  "timestamp": "2026-08-24T17:01:32.487473016Z",
   "model": "glm-5.3"
 }

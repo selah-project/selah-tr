@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 41,
-  "translation": "Ve Paroh Yosef'e dedi: Elohim bunların hepsini ⟨את⟩ ⟨אותך⟩ sana bildirdikten sonra, senin gibi anlayışlı ve bilge ⟨kimse⟩ yok.",
+  "translation": "Ve Paroh Yosef'e dedi: Elohim sana ⟨את⟩ bütün bunları bildirdikten sonra, senin gibi anlayışlı ve bilge ⟨את⟩ yoktur.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "kime"
+      "gloss": "-e"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef'e"
+      "gloss": "Yosef"
     },
     {
       "surface": "אחרי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הודיע",
-      "gloss": "bildirdikten"
+      "gloss": "bildirdi"
     },
     {
       "surface": "אלהים",
@@ -37,25 +37,25 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ⟨אותך⟩",
-      "marks": "sana"
+      "gloss": "⟨את⟩ seni",
+      "marks": "sana (bildirmenin dolaylı nesnesi)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bunların hepsini"
+      "marks": "bütün bunları"
     },
     {
       "surface": "כל",
-      "gloss": "hepsini"
+      "gloss": "bütün"
     },
     {
       "surface": "זאת",
-      "gloss": "bunların"
+      "gloss": "bunları"
     },
     {
       "surface": "אין",
-      "gloss": "yok"
+      "gloss": "yoktur"
     },
     {
       "surface": "נבון",
@@ -70,6 +70,6 @@
       "gloss": "senin gibi"
     }
   ],
-  "timestamp": "2026-08-19T07:07:41.894077264Z",
+  "timestamp": "2026-08-24T16:59:51.547337654Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Yisrael oğullarının yakınmalarını işittim; onlara şöyle söyle: ikindiler arasında et yiyeceksiniz ve sabah ekmekle doyacaksınız; ve Yahve ⟨⟨ben⟩⟩ Elohim'iniz olduğunu bileceksiniz.",
+  "translation": "İsra'il oğullarının ⟨את⟩ yakınmalarını duydum; onlara söyle: 'Akşam karanlığında et yiyeceksiniz ve sabah ekmekle doyacaksınız; ve Yahve sizin Elohim'iniz olduğunu bileceksiniz.'",
   "tokens": [
     {
       "surface": "שמעתי",
-      "gloss": "işittim"
+      "gloss": "duydum"
     },
     {
       "surface": "את",
@@ -18,15 +18,15 @@
     },
     {
       "surface": "תלונת",
-      "gloss": "yakınmaları"
+      "gloss": "yakınmalarını"
     },
     {
       "surface": "בני",
-      "gloss": "oğulları"
+      "gloss": "oğullarının"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "İsra'il"
     },
     {
       "surface": "דבר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "şöyle"
+      "gloss": "şöyle diyerek"
     },
     {
       "surface": "בין",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הערבים",
-      "gloss": "ikindiler"
+      "gloss": "akşamların"
     },
     {
       "surface": "תאכלו",
@@ -89,6 +89,6 @@
       "gloss": "Elohim'iniz"
     }
   ],
-  "timestamp": "2026-08-19T07:14:55.317420685Z",
+  "timestamp": "2026-08-24T16:59:56.740860781Z",
   "model": "glm-5.3"
 }

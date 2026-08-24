@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 40,
-  "translation": "Çünkü Yahve'nin bulutu gündüz ⟨⟨misir⟩⟩ mişkan üzerinde ⟨idi⟩, gecede içinde ateş ⟨olurdu⟩ — bütün Yisrael evinin gözü önünde, bütün yolculuklarında.",
+  "translation": "Çünkü Yahve'nin bulutu gündüzleri mishkan'ın üzerindeydi ve geceleri onda ateş olurdu — bütün Yisrael hanesinin gözü önünde, bütün yolculuklarında.",
   "tokens": [
     {
       "surface": "כי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "mişkan"
+      "gloss": "mishkan'ın"
     },
     {
       "surface": "יומם",
-      "gloss": "gündüz"
+      "gloss": "gündüzleri"
     },
     {
       "surface": "ואש",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לילה",
-      "gloss": "gecede"
+      "gloss": "geceleri"
     },
     {
       "surface": "בו",
-      "gloss": "içinde"
+      "gloss": "onda"
     },
     {
       "surface": "לעיני",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "ev"
+      "gloss": "hanesinin"
     },
     {
       "surface": "ישראל",
@@ -72,6 +72,6 @@
       "gloss": "yolculuklarında"
     }
   ],
-  "timestamp": "2026-08-19T07:22:15.533646178Z",
+  "timestamp": "2026-08-24T17:00:21.105212300Z",
   "model": "glm-5.3"
 }

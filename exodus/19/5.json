@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve şimdi, eğer sesimi gerçekten dinlerseniz ve ahdimi korursanız, bana bütün halklardan ⟨özel bir⟩ ⟨hazine⟩ olacaksınız; çünkü bütün ⟨⟨yeryüzü⟩⟩ banadır.",
+  "translation": "Ve şimdi, eğer sesimi gerçekten dinlerseniz ve ahdimi korursanız, bana bütün halklar içinde bir sığınmış hazinemeler gibi olacaksınız; çünkü bütün yeryüzü benimdir.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "dinleyeceksiniz"
+      "gloss": "dinlerseniz"
     },
     {
-      "surface": "בקלי",
+      "surface": "בקולי",
       "gloss": "sesimi"
     },
     {
       "surface": "ושמרתם",
-      "gloss": "ve koruyacaksınız"
+      "gloss": "ve korursanız"
     },
     {
       "surface": "את",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "סגלה",
-      "gloss": "özel hazine"
+      "gloss": "sığınmış hazine"
     },
     {
       "surface": "מכל",
-      "gloss": "bütün ... den"
+      "gloss": "bütün ... içinde"
     },
     {
       "surface": "העמים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "banadır"
+      "gloss": "benimdir"
     },
     {
       "surface": "כל",
@@ -77,6 +77,6 @@
       "gloss": "yeryüzü"
     }
   ],
-  "timestamp": "2026-08-19T07:15:24.316593230Z",
+  "timestamp": "2026-08-24T17:16:53.196872091Z",
   "model": "glm-5.3"
 }

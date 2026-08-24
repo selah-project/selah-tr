@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Dedi: «Hatırlasın ne olur kral, ⟨את⟩ Yahve'yi, Elohim'ini, kan-金牌ı çoğaltmasın diye yok etmeye, ve oğlumu yok etmesinler.» Kral dedi: «Yahve diridir; oğlunun saçından yere bir teli düşerse ⟨olsun⟩.»",
+  "translation": "Ve kadın dedi: Lütfen kral, Yahve Elohim'ini anımsasın — kanın gölünü yok etmeye çoğaltmasın, ve oğlumu yok etmesinler. Ve kral dedi: Yahve yaşar, oğlunun saçından yere düşen ⟨olmayacak⟩.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "dedi"
+      "gloss": "Ve kadın dedi"
     },
     {
       "surface": "יזכר",
-      "gloss": "hatırlasın"
+      "gloss": "anımsasın"
     },
     {
       "surface": "נא",
-      "gloss": "ne olur"
+      "gloss": "lütfen"
     },
     {
       "surface": "המלך",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahve'yi"
+      "marks": "Yahve"
     },
     {
       "surface": "יהוה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מהרבית",
-      "gloss": "çoğaltmasın diye"
+      "gloss": "çoğaltmasın"
     },
     {
       "surface": "גאל",
-      "gloss": "kan-金牌ı"
+      "gloss": "gölünü"
     },
     {
       "surface": "הדם",
-      "gloss": "kan"
+      "gloss": "kanın"
     },
     {
       "surface": "לשחת",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "-mesinler"
+      "gloss": "ve ... değil"
     },
     {
       "surface": "ישמידו",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "dedi"
+      "gloss": "Ve kral dedi"
     },
     {
       "surface": "חי",
-      "gloss": "diridir"
+      "gloss": "yaşar"
     },
     {
       "surface": "יהוה",
@@ -83,15 +83,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "-se"
+      "gloss": "eğer"
     },
     {
       "surface": "יפל",
-      "gloss": "düşerse"
+      "gloss": "düşen olmayacak"
     },
     {
       "surface": "משערת",
-      "gloss": "saçından bir teli"
+      "gloss": "saçından"
     },
     {
       "surface": "בנך",
@@ -102,6 +102,6 @@
       "gloss": "yere"
     }
   ],
-  "timestamp": "2026-08-19T09:32:02.934474841Z",
+  "timestamp": "2026-08-24T17:04:54.619860255Z",
   "model": "glm-5.3"
 }

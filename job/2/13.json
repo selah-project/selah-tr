@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve onunla ⟨את⟩ ⟨אתו⟩ yeryüzünde yedi gün ve yedi gece oturdular; ona bir söz söyleyen yoktu, çünkü görmüşlerdi ki acı çok büyüktü.",
+  "translation": "Ve onunla ⟨את⟩ yeryüzünde yedi gün ve yedi gece oturdular; ona hiçbir kimse bir söz söylemedi, çünkü acının çok büyük olduğunu gördüler.",
   "tokens": [
     {
       "surface": "וישבו",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "onunla"
+      "gloss": "⟨את⟩",
+      "marks": "onunla (ona yakın)"
     },
     {
       "surface": "לארץ",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "söyleyen"
+      "gloss": "konuşan"
     },
     {
       "surface": "אליו",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "ראו",
-      "gloss": "görmüşlerdi"
+      "gloss": "gördüler"
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "çünkü"
     },
     {
       "surface": "גדל",
-      "gloss": "büyüktü"
+      "gloss": "büyük"
     },
     {
       "surface": "הכאב",
@@ -77,6 +77,6 @@
       "gloss": "çok"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.027460407Z",
+  "timestamp": "2026-08-24T17:13:56.047146770Z",
   "model": "glm-5.3"
 }

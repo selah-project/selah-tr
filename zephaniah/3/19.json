@@ -5,28 +5,28 @@
   "book": "zephaniah",
   "lang": "tr",
   "chapter": 3,
-  "translation": "İşte ben ⟨את⟩ bütün eziyet edenlerini ⟨⟨senin⟩⟩ o zamanda yapıyorum; kurtaracağım ⟨את⟩ topalı ve kovulanı toplayacağım; onları övgü ve ⟨⟨bir⟩⟩ ad ⟨⟨yapacağım⟩⟩ bütün yeryüzünde utanç ⟨⟨yerlerine⟩⟩.",
+  "translation": "İşte ben o zamanda seni eziyet edenlerin hepsini ⟨את⟩ etkileyeceğim; topal olanı kurtaracağım ve sürgüne düşeni toplayacağım; onları övgü ve ün kılacağım, bütün yeryüzünde, utançları ⟨yerinde⟩.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "işte ben"
+      "gloss": "İşte ben"
     },
     {
-      "surface": "עשה",
-      "gloss": "yapıyorum"
+      "surface": "עשׂה",
+      "gloss": "yapacağım"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bütün eziyet edenlerini senin"
+      "marks": "hepsini"
     },
     {
       "surface": "כל",
-      "gloss": "bütün"
+      "gloss": "hepsini"
     },
     {
       "surface": "מעניך",
-      "gloss": "eziyet edenlerini senin"
+      "gloss": "seni eziyet edenlerinin"
     },
     {
       "surface": "בעת",
@@ -37,37 +37,37 @@
       "gloss": "o"
     },
     {
-      "surface": "והושעתי",
+      "surface": "והושׁעתי",
       "gloss": "ve kurtaracağım"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "topalı"
+      "marks": "topal olanı"
     },
     {
       "surface": "הצלעה",
-      "gloss": "topalı"
+      "gloss": "topal olanı"
     },
     {
       "surface": "והנדחה",
-      "gloss": "ve kovulanı"
+      "gloss": "ve sürgüne düşeni"
     },
     {
-      "surface": "אקבץ",
+      "surface": "אקבּץ",
       "gloss": "toplayacağım"
     },
     {
-      "surface": "ושמתים",
-      "gloss": "ve koyacağım onları"
+      "surface": "ושׂמתים",
+      "gloss": "ve kılacağım onları"
     },
     {
       "surface": "לתהלה",
       "gloss": "övgüye"
     },
     {
-      "surface": "ולשם",
-      "gloss": "ve ada"
+      "surface": "ולשׁם",
+      "gloss": "ve üne"
     },
     {
       "surface": "בכל",
@@ -78,10 +78,10 @@
       "gloss": "yeryüzünde"
     },
     {
-      "surface": "בשתם",
-      "gloss": "utançlarında"
+      "surface": "בשׁתם",
+      "gloss": "utançları"
     }
   ],
-  "timestamp": "2026-08-19T10:46:54.516446265Z",
+  "timestamp": "2026-08-24T17:10:30.834684641Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 51,
-  "translation": "O zaman âsilerin sana yol(ulduğun) yollarını, ‹ם› öğreteceğim ve günahkârlar sana dönecek.",
+  "translation": "Başkaldıranlara yollarını öğreteceğim, ve günahkarlar sana dönecekler.",
   "tokens": [
     {
       "surface": "אלמדה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "פשעים",
-      "gloss": "âsiler"
+      "gloss": "başkaldıranlara"
     },
     {
       "surface": "דרכיך",
-      "gloss": "senin yollarını"
+      "gloss": "yollarını"
     },
     {
       "surface": "וחטאים",
-      "gloss": "ve günahkârlar"
+      "gloss": "ve günahkarlar"
     },
     {
       "surface": "אליך",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "ישובו",
-      "gloss": "dönecek"
+      "gloss": "dönecekler"
     }
   ],
-  "timestamp": "2026-08-19T10:58:39.124418349Z",
+  "timestamp": "2026-08-24T17:11:20.508721852Z",
   "model": "glm-5.3"
 }

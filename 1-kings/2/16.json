@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve şimdi ⟨senden⟩ tek bir rica ediyorum ⟨⟨את⟩ yüzümü geri çevirme⟩; o da ona \"Söyle\" dedi.",
+  "translation": "Ve şimdi senden ⟨את⟩ tek bir rica istiyorum — yüzümü geri çevirme. Ve ona dedi: Söyle.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שאלה",
-      "gloss": "bir rica"
+      "gloss": "rica"
     },
     {
       "surface": "אחת",
-      "gloss": "tek"
+      "gloss": "tek bir"
     },
     {
       "surface": "אנכי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שאל",
-      "gloss": "ediyorum"
+      "gloss": "istiyorum"
     },
     {
       "surface": "מאתך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "sakın"
+      "gloss": "-ma"
     },
     {
       "surface": "תשבי",
-      "gloss": "geri çevirme"
+      "gloss": "çevirme"
     },
     {
       "surface": "את",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "ve o dedi"
+      "gloss": "ve dedi"
     },
     {
       "surface": "אליו",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "Söyle"
+      "gloss": "söyle"
     }
   ],
-  "timestamp": "2026-08-19T09:36:15.127766726Z",
+  "timestamp": "2026-08-24T17:04:24.594718901Z",
   "model": "glm-5.3"
 }

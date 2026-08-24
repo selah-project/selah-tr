@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 66,
-  "translation": "Söyleyin Elohim'e: 'Ne korkunçtur ⟨⟨are⟩⟩ yapıtların! Gücünün bolluğuyla düşmanların sana yalancı çıkacak (sana boyun eğmiş gibi görünecek).'",
+  "translation": "Elohim'e deyin: Ne korkunç ⟨את⟩ işlerin! Gücünün çokluğuyla düşmanların sana yalan-sözde boyun eğerler.",
   "tokens": [
     {
       "surface": "אמרו",
-      "gloss": "söyleyin"
+      "gloss": "deyin"
     },
     {
       "surface": "לאלהים",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "מעשיך",
-      "gloss": "yaptıkların (yapıtların)"
+      "gloss": "işlerin"
     },
     {
       "surface": "ברב",
-      "gloss": "bolluğuyla"
+      "gloss": "çokluğuyla"
     },
     {
       "surface": "עזך",
-      "gloss": "gücün"
+      "gloss": "gücünün"
     },
     {
       "surface": "יכחשו",
-      "gloss": "yalan diyecekler (boyun eğmiş gibi görünecekler)"
+      "gloss": "yalan-sözde boyun eğerler"
     },
     {
       "surface": "לך",
@@ -48,6 +48,6 @@
       "gloss": "düşmanların"
     }
   ],
-  "timestamp": "2026-08-19T11:00:57.069563790Z",
+  "timestamp": "2026-08-24T17:11:13.555815707Z",
   "model": "glm-5.3"
 }

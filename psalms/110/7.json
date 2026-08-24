@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 110,
-  "translation": "Yoldaki dereden içecek; ⟨⟨bu⟩⟩ yüzden başını kaldıracak.",
+  "translation": "Yoldaki dereden içer; bu yüzden başını kaldırır.",
   "tokens": [
     {
       "surface": "מנחל",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "ישתה",
-      "gloss": "içecek"
+      "gloss": "içer"
     },
     {
       "surface": "על",
-      "gloss": "yüzden"
+      "gloss": "bu yüzden"
     },
     {
       "surface": "כן",
-      "gloss": "bu"
+      "gloss": "bu yüzden (bu nedenle)"
     },
     {
       "surface": "ירים",
-      "gloss": "kaldıracak"
+      "gloss": "kaldırır"
     },
     {
       "surface": "ראש",
       "gloss": "başını"
     }
   ],
-  "timestamp": "2026-08-19T11:07:56.245823371Z",
+  "timestamp": "2026-08-24T17:12:43.953101427Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Onu gömdükten sonra oğullarına şöyle dedi: ⟨Şöyle⟩ Ben öldüğümde beni, Elohim adamının gömülü olduğu mezara gömün; kemiklerimi onun kemiklerinin yanına koyun.",
+  "translation": "Ve onu gömdükten sonra oldu ki, oğullarına söyleyerek dedi: Öldüğümde beni, Elohim adamının gömülü olduğu mezara gömün; kemiklerimin yanına kemiklerimi bırakın.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "⟨olayı⟩"
+      "gloss": "ve oldu"
     },
     {
       "surface": "אחרי",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "onu"
     },
     {
       "surface": "ויאמר",
-      "gloss": "dedi"
+      "gloss": "ve dedi"
     },
     {
       "surface": "אל",
-      "gloss": "-e"
+      "gloss": "…e doğru"
     },
     {
       "surface": "בניו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "şöyle"
+      "gloss": "söyleyerek"
     },
     {
       "surface": "במותי",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "וקברתם",
-      "gloss": "gömeceksiniz"
+      "gloss": "ve gömeceksiniz"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨אתי⟩",
+      "gloss": "⟨את⟩",
       "marks": "beni"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "adamının"
+      "gloss": "adamı"
     },
     {
       "surface": "האלהים",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "קבור",
-      "gloss": "gömülü olduğu"
+      "gloss": "gömülü"
     },
     {
       "surface": "בו",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "הניחו",
-      "gloss": "koyun"
+      "gloss": "bırakın"
     },
     {
       "surface": "את",
@@ -99,6 +99,6 @@
       "gloss": "kemiklerimi"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.044625719Z",
+  "timestamp": "2026-08-24T17:05:33.636308460Z",
   "model": "glm-5.3"
 }

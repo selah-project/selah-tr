@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 6,
-  "translation": "En alt yan-yapı beş amah genişliğindeydi, orta katı altı amah genişliğindeydi, üçüncüsü yedi amah genişliğindeydi; çünkü beytin çevresine, dışarıya, ⟨ו⟩ duvarlarına tutunmasın diye girintiler koymuştu.",
+  "translation": "Alt kat beş arşın genişliğinde, orta kat altı arşın genişliğinde, üçüncü kat yedi arşın genişliğinde idi; çünkü evin duvarlarına tutunmasınlar diye evin çevresine dışarıya çıkıntılar (migraot) koymuştu.",
   "tokens": [
     {
       "surface": "היצוע",
-      "gloss": "yan-yapı"
+      "gloss": "kat"
     },
     {
       "surface": "התחתנה",
-      "gloss": "en alt"
+      "gloss": "alt"
     },
     {
       "surface": "חמש",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "amah"
+      "gloss": "arşınla"
     },
     {
       "surface": "רחבה",
-      "gloss": "genişliğindeydi"
+      "gloss": "genişliğinde"
     },
     {
       "surface": "והתיכנה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "באמה",
-      "gloss": "amah"
+      "gloss": "arşınla"
     },
     {
       "surface": "רחבה",
-      "gloss": "genişliğindeydi"
+      "gloss": "genişliğinde"
     },
     {
       "surface": "והשלישית",
-      "gloss": "ve üçüncüsü"
+      "gloss": "ve üçüncü"
     },
     {
       "surface": "שבע",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "amah"
+      "gloss": "arşınla"
     },
     {
       "surface": "רחבה",
-      "gloss": "genişliğindeydi"
+      "gloss": "genişliğinde"
     },
     {
       "surface": "כי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "מגרעות",
-      "gloss": "girintiler"
+      "gloss": "çıkıntılar"
     },
     {
       "surface": "נתן",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "beyt için"
+      "gloss": "eve"
     },
     {
       "surface": "סביב",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אחז",
-      "gloss": "tutunmasın"
+      "gloss": "tutunmasınlar"
     },
     {
       "surface": "בקירות",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "הבית",
-      "gloss": "beyt-in"
+      "gloss": "evin"
     }
   ],
-  "timestamp": "2026-08-19T09:37:21.760938121Z",
+  "timestamp": "2026-08-24T17:05:14.634329176Z",
   "model": "glm-5.3"
 }

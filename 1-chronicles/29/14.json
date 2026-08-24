@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Çünkü ben kimim ve halkım kim ki böyle gönüllü vermek için güç tutabildik? Çünkü ⟨⟨her şey⟩⟩ sendendir ve senin elinden sana verdik.",
+  "translation": "Ama ben kimim ve halkım kim ki ⟨böyle⟩ güç bulduk ⟨buna⟩ gönüllüce vermek için? Çünkü her şey sendendir ve elinden ⟨aldıklarımızı⟩ sana verdik.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "çünkü"
+      "gloss": "ama"
     },
     {
       "surface": "מי",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "נעצר",
-      "gloss": "tutabildik"
+      "gloss": "güç bulduk"
     },
     {
       "surface": "כח",
-      "gloss": "güç"
+      "gloss": "gücü"
     },
     {
       "surface": "להתנדב",
-      "gloss": "gönüllü vermek için"
+      "gloss": "gönüllüce vermek"
     },
     {
       "surface": "כזאת",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ממך",
-      "gloss": "senden"
+      "gloss": "sendendir"
     },
     {
       "surface": "הכל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ומידך",
-      "gloss": "ve senin elinden"
+      "gloss": "ve elinden"
     },
     {
       "surface": "נתנו",
@@ -72,6 +72,6 @@
       "gloss": "sana"
     }
   ],
-  "timestamp": "2026-08-19T12:02:11.977473571Z",
+  "timestamp": "2026-08-24T17:16:01.458764015Z",
   "model": "glm-5.3"
 }

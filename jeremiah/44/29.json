@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 44,
-  "translation": "Ve bu size ⟨the⟩ işaret olacak, Yahve'nin sözü: çünkü ben sizi bu yerde ziyaret edeceğim ⟨with punishment⟩, ⟨so that⟩ şunu bilin diye: sözlerim mutlaka ayağa kalkacak, sizin aleyhinize, kötülük için.",
+  "translation": "Ve bu size ⟨⟨işaret⟩⟩ olacak, Yahve'nin sözü: çünkü ben sizi bu yerde ziyaret edeceğim (ceza olarak), bilmeniz için ki sözlerim size karşı kötülük için kesinlikle gerçekleşecektir.",
   "tokens": [
     {
       "surface": "וזאת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "sözü"
+      "gloss": "sözü\/ataloader neum (söylemi)"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פקד",
-      "gloss": "ziyaret edeceğim"
+      "gloss": "ziyaret edeceğim (ceza olarak)"
     },
     {
       "surface": "אני",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "תדעו",
-      "gloss": "bilin"
+      "gloss": "bilmeniz"
     },
     {
       "surface": "כי",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "קום",
-      "gloss": "kalkmak"
+      "gloss": "kesinlikle"
     },
     {
       "surface": "יקומו",
-      "gloss": "mutlaka kalkacak"
+      "gloss": "gerçekleşecektir"
     },
     {
       "surface": "דברי",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "aleyhinize"
+      "gloss": "size karşı"
     },
     {
       "surface": "לרעה",
-      "gloss": "kötülüğe"
+      "gloss": "kötülük için"
     }
   ],
-  "timestamp": "2026-08-19T10:18:43.753885094Z",
+  "timestamp": "2026-08-24T17:17:13.767373194Z",
   "model": "glm-5.3"
 }

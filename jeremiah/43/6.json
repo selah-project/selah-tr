@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 43,
-  "translation": "⟨את⟩ adamları, ⟨את⟩ kadınları, ⟨את⟩ çocukları, ⟨את⟩ kralın kızlarını ve baş cellat Nevuzaradan'ın Ahikam oğlu Şafan torunu Gedalyahu yanında bıraktığı ⟨את⟩ bütün canı — את Gedalyahu'ydu — ⟨את⟩ peygamber Yirmiyahu'yu ve ⟨את⟩ Neriya oğlu Baruh'u.",
+  "translation": "⟨את⟩ adamları, ⟨את⟩ kadınları, ⟨את⟩ çocukları ve ⟨את⟩ kralın kızlarını, ve ⟨את⟩ Nevuzaradan, cellatlar başkanı, Ahikam oğlu Şafan oğlu Gedalyahu ile bıraktığı her canı — וגם ⟨את⟩ peygamber Yirmiyahu'yu ve ⟨את⟩ Neryahu oğlu Baruh'u.",
   "tokens": [
     {
       "surface": "את",
@@ -37,7 +37,7 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "kralın kızlarını"
+      "marks": "kızlarını"
     },
     {
       "surface": "בנות",
@@ -50,11 +50,11 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "bütün canı"
+      "marks": "her canı"
     },
     {
       "surface": "כל",
-      "gloss": "bütün"
+      "gloss": "her"
     },
     {
       "surface": "הנפש",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "רב",
-      "gloss": "baş"
+      "gloss": "başkanı"
     },
     {
       "surface": "טבחים",
-      "gloss": "cellat"
+      "gloss": "cellatların"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ את",
+      "gloss": "⟨את⟩",
       "marks": "Gedalyahu"
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "torunu"
+      "gloss": "oğlu"
     },
     {
       "surface": "שפן",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmiyahu"
+      "gloss": "Yirmiyahu'yu"
     },
     {
       "surface": "הנביא",
@@ -125,7 +125,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "Baruh"
+      "gloss": "Baruh'u"
     },
     {
       "surface": "בן",
@@ -133,9 +133,9 @@
     },
     {
       "surface": "נריהו",
-      "gloss": "Neriya"
+      "gloss": "Neryahu"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.021189642Z",
+  "timestamp": "2026-08-24T17:08:17.388258793Z",
   "model": "glm-5.3"
 }

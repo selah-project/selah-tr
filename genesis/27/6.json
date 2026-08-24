@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Rivka oğlu Yaakov'a şöyle dedi: İşte, babanın kardeşin Esav'a ⟨את⟩ benim duydum ⟨⟨şöyle⟩⟩ konuşurken ⟨⟨derken⟩⟩.",
+  "translation": "Ve Rivka oğlu Yaakov'a şöyle dedi: «Bak, babanın ⟨את⟩ kardeşin Esav'a şunu söylerken işittim:",
   "tokens": [
     {
       "surface": "ורבקה",
-      "gloss": "Rivka"
+      "gloss": "ve Rivka"
     },
     {
       "surface": "אמרה",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "şöyle"
+      "gloss": "şöyle diyerek"
     },
     {
       "surface": "הנה",
-      "gloss": "işte"
+      "gloss": "bak"
     },
     {
       "surface": "שמעתי",
-      "gloss": "duydum"
+      "gloss": "işittim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "babayı"
+      "marks": "babanı"
     },
     {
       "surface": "אביך",
-      "gloss": "baban"
+      "gloss": "babanı"
     },
     {
       "surface": "מדבר",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "şöyle"
+      "gloss": "şöyle diyerek"
     }
   ],
-  "timestamp": "2026-08-19T07:01:17.625423945Z",
+  "timestamp": "2026-08-24T16:59:27.350069630Z",
   "model": "glm-5.3"
 }

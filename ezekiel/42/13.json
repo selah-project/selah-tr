@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 42,
-  "translation": "Ve bana dedi: Kuzeyin odaları, güneyin odaları, ki bunlar הגזרה'nın (ayrılmış yerin) yüzü önündedir — işte bunlar kutsal odalardır; orada Yahve'ye yakın olan kohenler kutsalın kutsallarını yiyecekler; orada kutsalın kutsallarını, tahıl sunusunu, günah sunusunu ve suç sunusunu bırakacaklar; çünkü ⟨o⟩ yer kutsaldır.",
+  "translation": "Ve bana dedi: Kuzeyin odaları ve güneyin odaları, ki ⟨bunlar⟩ ayrılmış yerin önündedir — işte bunlar kutsal odalardır; orada Yahve'ye yakın olan kohanimler kutsallıkların kutsallıklarını yiyecekler; orada kutsallıkların kutsallıklarını ve tahıl sunusunu ve günah sunusunu ve suç sunusunu koyacaklar; çünkü ⟨o⟩ yer kutsaldır.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "yüzü"
+      "gloss": "önünde"
     },
     {
       "surface": "הגזרה",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "לשכות",
-      "gloss": "odalar"
+      "gloss": "odaları"
     },
     {
       "surface": "הקדש",
-      "gloss": "kutsal"
+      "gloss": "kutsalın"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "orada"
     },
     {
       "surface": "יאכלו",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "kohenler"
+      "gloss": "kohanimler"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "onlar ki"
     },
     {
       "surface": "קרובים",
-      "gloss": "yakın olan"
+      "gloss": "yakın"
     },
     {
       "surface": "ליהוה",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "kutsalın"
+      "gloss": "kutsallıklarını"
     },
     {
       "surface": "הקדשים",
-      "gloss": "kutsallarını"
+      "gloss": "kutsallıkların"
     },
     {
       "surface": "שם",
@@ -101,15 +101,15 @@
     },
     {
       "surface": "יניחו",
-      "gloss": "bırakacaklar"
+      "gloss": "koyacaklar"
     },
     {
       "surface": "קדשי",
-      "gloss": "kutsalın"
+      "gloss": "kutsallıklarını"
     },
     {
       "surface": "הקדשים",
-      "gloss": "kutsallarını"
+      "gloss": "kutsallıkların"
     },
     {
       "surface": "והמנחה",
@@ -129,13 +129,13 @@
     },
     {
       "surface": "המקום",
-      "gloss": "⟨o⟩ yer"
+      "gloss": "yer"
     },
     {
       "surface": "קדש",
       "gloss": "kutsaldır"
     }
   ],
-  "timestamp": "2026-08-19T12:20:22.737128031Z",
+  "timestamp": "2026-08-24T17:09:12.411496926Z",
   "model": "glm-5.3"
 }

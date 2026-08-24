@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Kalkın, gidin; çünkü bu ⟨⟨onların⟩⟩ dinlenme yeri değildir; kirlilik yüzünden rehin alınacak — şiddetli bir yıkım.",
+  "translation": "Kalkın, gidin; çünkü ⟨bu⟩ dinlenme yeri değildir; kirlendiğinden ötürü yıkıma uğrayacaksınız, acı bir yıkımla.",
   "tokens": [
     {
       "surface": "קומו",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בעבור",
-      "gloss": "yüzünden"
+      "gloss": "-den ötürü"
     },
     {
       "surface": "טמאה",
-      "gloss": "kirlilik"
+      "gloss": "kirlendiğinden"
     },
     {
       "surface": "תחבל",
-      "gloss": "rehin alınacak"
+      "gloss": "yıkıma uğrayacaksınız"
     },
     {
       "surface": "וחבל",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "נמרץ",
-      "gloss": "şiddetli"
+      "gloss": "acı"
     }
   ],
-  "timestamp": "2026-08-19T10:44:35.643308786Z",
+  "timestamp": "2026-08-24T17:10:16.238258279Z",
   "model": "glm-5.3"
 }

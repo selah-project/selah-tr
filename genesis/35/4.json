@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "tr",
   "chapter": 35,
-  "translation": "Ve Yaakov'a ellerindeki bütün yabancı ilahları ⟨את⟩ ve kulaklarındaki halkaları ⟨את⟩ verdiler; ve Yaakov onları ⟨את⟩ ⟨אתם⟩ Şevem'in yanındaki o ağacın altına gömdü.",
+  "translation": "Yaakov'a ellerindeki bütün yabancı ilahların hepsini ve kulaklarındaki küpeleri verdiler; Yaakov da ⟨את⟩ onları Şekem'in yanındaki ⟨את⟩ meşe ağacının altına gömdü.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "ve verdiler"
+      "gloss": "verdiler"
     },
     {
       "surface": "אל",
-      "gloss": "e, -e"
+      "gloss": "-e"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov'a"
+      "gloss": "Yaakov"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bütün yabancı ilahları"
+      "marks": "bütün yabancı ilahlar"
     },
     {
       "surface": "כל",
@@ -47,11 +47,11 @@
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "halkaları"
+      "marks": "küpeler"
     },
     {
       "surface": "הנזמים",
-      "gloss": "halkaları, küpeler"
+      "gloss": "küpeleri"
     },
     {
       "surface": "אשר",
@@ -63,12 +63,11 @@
     },
     {
       "surface": "ויטמן",
-      "gloss": "ve gömdü, sakladı"
+      "gloss": "gömdü"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "onları"
+      "gloss": "⟨את⟩ onları"
     },
     {
       "surface": "יעקב",
@@ -80,7 +79,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": "o ağacın, o meşenin"
+      "gloss": "meşe ağacı"
     },
     {
       "surface": "אשר",
@@ -88,13 +87,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "yanında, yakın"
+      "gloss": "yanında"
     },
     {
       "surface": "שכם",
-      "gloss": "Şevem"
+      "gloss": "Şekem"
     }
   ],
-  "timestamp": "2026-08-19T13:06:16.012406739Z",
+  "timestamp": "2026-08-24T16:59:24.550679766Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 45,
-  "translation": "Yağın payesi de ⟨⟨the⟩⟩ bat: yağın batı, kordan bir batın ondalığı; on bat bir homerdir, çünkü on bat bir homerdir.",
+  "translation": "Ve yağın kuralı ⟨şudur⟩: bat ölçüsüyle yağın onda biri, kordan — on bat bir homer — çünkü on bat bir homerdir.",
   "tokens": [
     {
       "surface": "וחק",
-      "gloss": "ve paye"
+      "gloss": "ve kural"
     },
     {
       "surface": "השמן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הבת",
-      "gloss": "bat"
+      "gloss": "bat (ölçü)"
     },
     {
       "surface": "השמן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מעשר",
-      "gloss": "ondalığı"
+      "gloss": "onda biri \/ ondalık"
     },
     {
       "surface": "הבת",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "-den"
     },
     {
       "surface": "הכר",
@@ -68,6 +68,6 @@
       "gloss": "homer"
     }
   ],
-  "timestamp": "2026-08-19T10:37:44.293285628Z",
+  "timestamp": "2026-08-24T17:09:16.800149616Z",
   "model": "glm-5.3"
 }

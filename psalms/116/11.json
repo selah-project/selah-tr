@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 116,
-  "translation": "Ben ⟨şaşkınlığımda⟩ dedim: ⟨⟨bütün⟩⟩ insan ⟨yalancıdır⟩.",
+  "translation": "Ben acelemin içinde dedim: Bütün insan ⟨ל־⟩ yalancıdır.",
   "tokens": [
     {
       "surface": "אני",
-      "gloss": "ben"
+      "gloss": "Ben"
     },
     {
       "surface": "אמרתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בחפזי",
-      "gloss": "şaşkınlığımda \/ acelemdde"
+      "gloss": "acelemin içinde"
     },
     {
       "surface": "כל",
@@ -32,6 +32,6 @@
       "gloss": "yalancıdır"
     }
   ],
-  "timestamp": "2026-08-19T11:08:50.207831034Z",
+  "timestamp": "2026-08-24T17:12:15.296891972Z",
   "model": "glm-5.3"
 }

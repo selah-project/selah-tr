@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Ve Yahve'ye, Elohim'inize ⟨⟨את⟩⟩ kulluk edeceksiniz; O ⟨את⟩ ekmeğinizi ve ⟨את⟩ suğunuzu kutsayacak; ve hastalığı içinden uzaklaştıracağım.",
+  "translation": "Ve Yahve Elohim'inize kulluk edeceksiniz, O ekmeğinizi ve ⟨את⟩ suyunuzu kutsayacak; ve ben hastalığı içinizden kaldıracağım.",
   "tokens": [
     {
       "surface": "ועבדתם",
@@ -31,24 +31,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ekmeğini"
+      "marks": "ekmeğinizi"
     },
     {
       "surface": "לחמך",
-      "gloss": "ekmeğini"
+      "gloss": "ekmeğinizi"
     },
     {
       "surface": "ואת",
       "gloss": "ve ⟨את⟩",
-      "marks": "suğunu"
+      "marks": "suyunuzu"
     },
     {
       "surface": "מימיך",
-      "gloss": "suğunu"
+      "gloss": "suyunuzu"
     },
     {
       "surface": "והסרתי",
-      "gloss": "ve uzaklaştıracağım"
+      "gloss": "ve kaldıracağım"
     },
     {
       "surface": "מחלה",
@@ -56,9 +56,9 @@
     },
     {
       "surface": "מקרבך",
-      "gloss": "içinden"
+      "gloss": "içinizden"
     }
   ],
-  "timestamp": "2026-08-19T07:16:24.902130592Z",
+  "timestamp": "2026-08-24T17:16:34.665710287Z",
   "model": "glm-5.3"
 }

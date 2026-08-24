@@ -5,8 +5,53 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 15,
-  "translation": "Ve Yiḥarova'm'ın… ",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:41:17.416762756Z",
+  "translation": "Ve Yarovam oğlu kralın on sekizinci yılında Aviyam Yehuda üzerinde kral oldu.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "ve ... yılında"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "sekiz"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral oldu"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-24T17:05:19.332050680Z",
   "model": "glm-5.3"
 }

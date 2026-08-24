@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 66,
-  "translation": "Gelin ve Elohim'in işlerini görün; insan oğulları üzerinde korkunç ⟨⟨bir⟩⟩ başarıdır o.",
+  "translation": "Gelin ve Elohim'in işlerini görün; insan oğulları üzerine ⟨O⟩ korkunçtur ⟨o⟩, ⟨o⟩ buyurduğunda ⟨işde⟩.",
   "tokens": [
     {
       "surface": "לכו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מפעלות",
-      "gloss": "işlerini"
+      "gloss": "işleri"
     },
     {
       "surface": "אלהים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עלילה",
-      "gloss": "başarı"
+      "gloss": "eylemi"
     },
     {
       "surface": "על",
-      "gloss": "üzerinde"
+      "gloss": "üzerine"
     },
     {
       "surface": "בני",
@@ -44,6 +44,6 @@
       "gloss": "insan"
     }
   ],
-  "timestamp": "2026-08-19T11:00:56.948453778Z",
+  "timestamp": "2026-08-24T17:11:14.683751857Z",
   "model": "glm-5.3"
 }

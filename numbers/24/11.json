@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Ve şimdi kaç git kendine ⟨⟨⟩⟩ yerine; ben 'seni bol bol onurlandıracağım' dedim, ve işte Yahve seni onurdan alıkoydu.",
+  "translation": "Ve şimdi, yerine kaç kendine; ben dedim ki «onur ile onurlandıracağım seni», ama işte, Yahve alıkoydu seni onurdan.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "git kendine"
+      "gloss": "kendine"
     },
     {
       "surface": "אל",
-      "gloss": "...e"
+      "gloss": "-e"
     },
     {
       "surface": "מקומך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כבד",
-      "gloss": "bol bol onurlandıracağım"
+      "gloss": "onur"
     },
     {
       "surface": "אכבדך",
-      "gloss": "seni onurlandıracağım"
+      "gloss": "onurlandıracağım seni"
     },
     {
       "surface": "והנה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מנעך",
-      "gloss": "seni alıkoydu"
+      "gloss": "alıkoydu seni"
     },
     {
       "surface": "יהוה",
@@ -56,6 +56,6 @@
       "gloss": "onurdan"
     }
   ],
-  "timestamp": "2026-08-19T07:40:11.585779601Z",
+  "timestamp": "2026-08-24T17:01:53.063257521Z",
   "model": "glm-5.3"
 }

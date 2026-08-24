@@ -5,8 +5,53 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Ve grain-sunları (minhaları): sofra-unı, yağ-la yoğrulmuş, üç ‘ışaron bir boğa için, iki ‘ışaron bir koç için,",
-  "tokens": [],
-  "timestamp": "2026-08-19T07:41:20.372120929Z",
+  "translation": "Ve onların tahıl sunusu: yağla yoğrulmuş ince un — boğa için üç ⟨eyfahın⟩ ondalığı, tek koç için iki ondalık.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "ve onların tahıl sunusu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ince un"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "yoğrulmuş"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ondalık"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "boğa için"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ondalık"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "koç için"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tek"
+    }
+  ],
+  "timestamp": "2026-08-24T17:02:06.998319658Z",
   "model": "glm-5.3"
 }

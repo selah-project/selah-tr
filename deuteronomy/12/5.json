@@ -5,8 +5,82 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 12,
-  "translation": "אוrather yalnız Yahve'nin, Elohim'inizin, bütün kabileleriniz arasından adını oraya koymak için seçeceği ⟨o⟩ yere, ⟨onun⟩ meskenine ⟨o⟩ arayacaksınız ve oraya geleceksiniz.",
-  "tokens": [],
-  "timestamp": "2026-08-19T09:00:39.917103386Z",
+  "translation": "Ancak ⟨אל⟩ o yere — Yahve, Elohim'inizin bütün kabilelerinizin arasından seçeceği — adını oraya koymak için, onun meskenine yöneleceksiniz ve oraya geleceksiniz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ancak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "o yere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "seçeceği"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim'iniz"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... arasından"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "kabilelerinizin"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "koymak için"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "onun meskenine"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "yöneleceksiniz"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ve geleceksiniz"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    }
+  ],
+  "timestamp": "2026-08-24T17:16:48.078911365Z",
   "model": "glm-5.3"
 }

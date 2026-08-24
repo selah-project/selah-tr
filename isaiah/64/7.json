@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 64,
-  "translation": "Ve şimdi, ey Yahve, sen babamızsın; biz ⟨ה⟩ kiliz ve sen bizi yoğuranız ve hepimiz elinin eseriyiz.",
+  "translation": "Ve şimdi, ey Yahve, sen babamızsın; biz ⟨is⟩ çamur, sen ise bizi şekillendirensin ve senin ellerinin eseriyiz hepimiz.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "החמר",
-      "gloss": "kil"
+      "gloss": "çamur"
     },
     {
-      "surface": "ואתה",
+      "surface": "ו אתה",
       "gloss": "ve sen"
     },
     {
       "surface": "יצרנו",
-      "gloss": "bizi yoğuran"
+      "gloss": "bizi şekillendiren"
     },
     {
       "surface": "ומעשה",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "ידך",
-      "gloss": "elinin"
+      "gloss": "ellerinin"
     },
     {
       "surface": "כלנו",
       "gloss": "hepimiz"
     }
   ],
-  "timestamp": "2026-08-19T10:04:11.847578432Z",
+  "timestamp": "2026-08-24T17:06:29.092431152Z",
   "model": "glm-5.3"
 }
