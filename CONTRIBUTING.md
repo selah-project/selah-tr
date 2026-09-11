@@ -63,3 +63,8 @@ olursunuz. Git geçmişi açık kaydı ve tanıklığı tutar. Bakım ekibi
 karşılaştırır — kabul edebilir, sizinle birlikte çözebilir, daha
 fazla kanıt bekleyebilir ya da gerekçeli reddedebilir. Metin
 değerlendirilir, insan değil.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
