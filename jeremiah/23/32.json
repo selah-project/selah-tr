@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 23,
-  "translation": "İşte, yalan rüyaların peygamberlerine karşıyım — Yahve'nin nur'u — onları anlatıp ⟨את⟩ halkımı yalanlarıyla ve şımarıklıklarıyla saptıranlara; oysa ben onları göndermedim ve onlara buyruk vermedim; bu halka hiçbir yarar sağlamayacaklar — Yahve'nin nur'u.",
+  "translation": "İşte, yalan rüyaların nebilerine karşıyım — Yahve'nin nur'u — onları anlatıp ⟨את⟩ halkımı yalanlarıyla ve şımarıklıklarıyla saptıranlara; oysa ben onları göndermedim ve onlara buyruk vermedim; bu halka hiçbir yarar sağlamayacaklar — Yahve'nin nur'u.",
   "tokens": [
     {
       "surface": "הנני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נבאי",
-      "gloss": "peygamberlerine"
+      "gloss": "nebilerine"
     },
     {
       "surface": "חלמות",
@@ -110,5 +110,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:11:25.063001065Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerine": "nebilerine"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

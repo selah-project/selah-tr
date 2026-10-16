@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 12,
-  "translation": "İnsanoğlu, bak, İsrail evi şöyle diyor: 'O gördüğü görüm çok günlere, uzak zamanlara ait; o uzak zamanlar hakkında peygamberlik ediyor.'",
+  "translation": "İnsanoğlu, bak, İsrail evi şöyle diyor: 'O gördüğü görüm çok günlere, uzak zamanlara ait; o uzak zamanlar hakkında nebilik ediyor.'",
   "tokens": [
     {
       "surface": "בן",
@@ -69,9 +69,16 @@
     },
     {
       "surface": "נבא",
-      "gloss": "peygamberlik ediyor"
+      "gloss": "nebilik ediyor"
     }
   ],
   "timestamp": "2026-08-19T10:25:36.030433217Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

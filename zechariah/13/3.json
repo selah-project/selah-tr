@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Ve olacak, bir adam yine peygamberlik yaparsa, ona babası ve onu doğuran annesi diyecek: 'Yaşamayacaksın, çünkü Yahve'nin adıyla yalan konuştun'; ve babası ve onu doğuran annesi, o peygamberlik yaparken onu deşecekler.",
+  "translation": "Ve olacak, bir adam yine nebilik yaparsa, ona babası ve onu doğuran annesi diyecek: 'Yaşamayacaksın, çünkü Yahve'nin adıyla yalan konuştun'; ve babası ve onu doğuran annesi, o nebilik yaparken onu deşecekler.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ינבא",
-      "gloss": "peygamberlik yaparsa"
+      "gloss": "nebilik yaparsa"
     },
     {
       "surface": "איש",
@@ -93,9 +93,16 @@
     },
     {
       "surface": "בהנבאו",
-      "gloss": "peygamberlik yaparken"
+      "gloss": "nebilik yaparken"
     }
   ],
   "timestamp": "2026-08-19T10:49:39.388855919Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

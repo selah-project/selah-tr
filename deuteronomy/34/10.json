@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 34,
-  "translation": "Ve İsrail'de bir daha Moşe gibi peygamber ortaya çıkmadı — Yahve'nin onu yüz yüze tanıdığı.",
+  "translation": "Ve İsrail'de bir daha Moşe gibi nebi ortaya çıkmadı — Yahve'nin onu yüz yüze tanıdığı.",
   "tokens": [
     {
       "surface": "ולא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "עוד",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:07:15.731884070Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

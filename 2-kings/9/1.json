@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve Elişa peygamber peygamber oğullarından birine seslendi ve ona dedi: Belgini kuşşa ve bu yağ şişesini elinde al ve Ramot-Gilad'a git.",
+  "translation": "Ve Elişa nebi nebi oğullarından birine seslendi ve ona dedi: Belgini kuşşa ve bu yağ şişesini elinde al ve Ramot-Gilad'a git.",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "קרא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "ויאמר",
@@ -81,5 +81,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:46:18.829801847Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

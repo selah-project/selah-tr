@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Ve ⟨o⟩ yılın başında, Tsedkiyahu'nun, Yahuda kralının krallığının başlangıcında, dördüncü yılın beşinci ayında Hananya, Azzur oğlu, Givon'dan ⟨olan⟩ peygamber, Yahve'nin evinde kahinlerin ve bütün halkın gözü önünde bana söyledi:",
+  "translation": "Ve ⟨o⟩ yılın başında, Tsedkiyahu'nun, Yahuda kralının krallığının başlangıcında, dördüncü yılın beşinci ayında Hananya, Azzur oğlu, Givon'dan ⟨olan⟩ nebi, Yahve'nin evinde kahinlerin ve bütün halkın gözü önünde bana söyledi:",
   "tokens": [
     {
       "surface": "ויהי",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אשר",
@@ -117,5 +117,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:56.162314298Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

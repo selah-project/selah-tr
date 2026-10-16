@@ -5,7 +5,7 @@
   "book": "habakkuk",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Yük — Ḥavakuk peygamberin gördüğü.",
+  "translation": "Yük — Ḥavakuk nebinin gördüğü.",
   "tokens": [
     {
       "surface": "המשא",
@@ -25,9 +25,17 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     }
   ],
   "timestamp": "2026-08-19T10:46:22.582130750Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

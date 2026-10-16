@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Ve olacak o günde, peygamberler utanan olacak, her biri görmüşünden, peygamberlik yaparken; ve kandırma amacıyla kaba bir kıl örtü giymeyecekler.",
+  "translation": "Ve olacak o günde, nebiler utanan olacak, her biri görmüşünden, nebilik yaparken; ve kandırma amacıyla kaba bir kıl örtü giymeyecekler.",
   "tokens": [
     {
       "surface": "והיה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "איש",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בהנבאתו",
-      "gloss": "peygamberlik yaparken"
+      "gloss": "nebilik yaparken"
     },
     {
       "surface": "ולא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "שער",
-      "gloss": "kaba\/kıldan"
+      "gloss": "kaba/kıldan"
     },
     {
       "surface": "למען",
@@ -65,5 +65,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:49:39.389002045Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

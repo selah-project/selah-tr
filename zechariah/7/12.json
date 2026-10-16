@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve kalplerini şamir taşı yaptılar, Tora'yı ⟨את⟩ dinlememek için ve Yahve Sevaot'un Ruhuyla ilk peygamberlerin eli ile gönderdiği ⟨את⟩ sözleri; ve Yahve Sevaot'tan ⟨את⟩ büyük bir öfke oldu.",
+  "translation": "Ve kalplerini şamir taşı yaptılar, Tora'yı ⟨את⟩ dinlememek için ve Yahve Sevaot'un Ruhuyla ilk nebilerin eli ile gönderdiği ⟨את⟩ sözleri; ve Yahve Sevaot'tan ⟨את⟩ büyük bir öfke oldu.",
   "tokens": [
     {
       "surface": "ולבם",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "הראשנים",
@@ -100,5 +100,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:48:37.014928952Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

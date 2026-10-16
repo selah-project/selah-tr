@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 21,
-  "translation": "İnsanoğlu, peygamberlik et ve şöyle de: Adonay şöyle dedi: De ki: Kılıç, kılıç — bilenildi ve iyice cilalandı.",
+  "translation": "İnsanoğlu, nebilik et ve şöyle de: Adonay şöyle dedi: De ki: Kılıç, kılıç — bilenildi ve iyice cilalandı.",
   "tokens": [
     {
       "surface": "בן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "ואמרת",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:29:08.264642057Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

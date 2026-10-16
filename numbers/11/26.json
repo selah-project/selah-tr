@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Orduda iki adam kaldı; birinin adı Eldad, ikincinin adı Medad; ruh üzerlerine kondu — ⟨onlar⟩ yazılılar arasındaydı ama çadıra çıkmadılar — ve orduda peygamberlik ettiler.",
+  "translation": "Orduda iki adam kaldı; birinin adı Eldad, ikincinin adı Medad; ruh üzerlerine kondu — ⟨onlar⟩ yazılılar arasındaydı ama çadıra çıkmadılar — ve orduda nebilik ettiler.",
   "tokens": [
     {
       "surface": "וישארו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "peygamberlik ettiler"
+      "gloss": "nebilik ettiler"
     },
     {
       "surface": "במחנה",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-19T07:36:31.880418597Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

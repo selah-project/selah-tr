@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Ve bunlardır o mektubun sözleri ki Yirmiyah peygamber Yeruşalayim'den gönderdi sürgünün ihtiyarlarının artanına, kâhinlere, peygamberlere ve bütün halka ki Nevuhadnetstsar sürdü onları Yeruşalayim'den Bavel'e.",
+  "translation": "Ve bunlardır o mektubun sözleri ki Yirmiyah nebi Yeruşalayim'den gönderdi sürgünün ihtiyarlarının artanına, kâhinlere, nebilere ve bütün halka ki Nevuhadnetstsar sürdü onları Yeruşalayim'den Bavel'e.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "מירושלם",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlere"
+      "gloss": "nebilere"
     },
     {
       "surface": "ואל",
@@ -105,5 +105,13 @@
     }
   ],
   "timestamp": "2026-08-24T17:07:51.516867259Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlere": "nebilere"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

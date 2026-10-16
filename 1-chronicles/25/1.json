@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 25,
-  "translation": "Davit ve ordunun önderleri hizmet için ayırdılar — Asaf'ın, Heyman'ın ve Yedutun'un oğullarını; kinnorlarla, nevalerle ve simbalilerle peygamberlik edenleri. Ve sayıları, hizmetlerine göre iş adamlarının ⟨sayısı⟩ şöyleydi:",
+  "translation": "Davit ve ordunun önderleri hizmet için ayırdılar — Asaf'ın, Heyman'ın ve Yedutun'un oğullarını; kinnorlarla, nevalerle ve simbalilerle nebilik edenleri. Ve sayıları, hizmetlerine göre iş adamlarının ⟨sayısı⟩ şöyleydi:",
   "tokens": [
     {
       "surface": "ויבדל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlik edenler"
+      "gloss": "nebilik edenler"
     },
     {
       "surface": "בכנרות",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:01:41.214659402Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

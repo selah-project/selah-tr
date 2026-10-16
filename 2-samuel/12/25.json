@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Ve Yahve'nin ⟨beri⟩ Nathan peygamberin eli ⟨aracılığıyla⟩ gönderdi; onun adını Yedidyah ⟨את⟩ olarak adlandırdı, Yahve yüzünden.",
+  "translation": "Ve Yahve'nin ⟨beri⟩ Nathan nebinin eli ⟨aracılığıyla⟩ gönderdi; onun adını Yedidyah ⟨את⟩ olarak adlandırdı, Yahve yüzünden.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ויקרא",
@@ -50,5 +50,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:30:51.379397292Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

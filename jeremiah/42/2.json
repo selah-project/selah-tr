@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 42,
-  "translation": "Ve Yirmiyahu peygambere dediler: Rica ederiz, yalvarımız önüne düşsün ve bizim için Yahve, senin Elohim'ine dua et, bu bütün artık kalıntı için — çünkü çoktan az kaldık, gözlerinin bizi ⟨את⟩ gördüğü gibi.",
+  "translation": "Ve Yirmiyahu nebiye dediler: Rica ederiz, yalvarımız önüne düşsün ve bizim için Yahve, senin Elohim'ine dua et, bu bütün artık kalıntı için — çünkü çoktan az kaldık, gözlerinin bizi ⟨את⟩ gördüğü gibi.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "תפל",
@@ -110,5 +110,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:19:40.967345816Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygambere": "nebiye",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

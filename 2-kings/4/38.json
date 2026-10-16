@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 4,
-  "translation": "Ve Elişa Gilgal'a döndü, ve kıtlık ⟨var idi⟩ ülkede; ve peygamber oğulları önünde oturuyorlardı; ve genç hizmetkârına dedi: Büyük kazanı kur ve peygamber oğullarına çorba pişir.",
+  "translation": "Ve Elişa Gilgal'a döndü, ve kıtlık ⟨var idi⟩ ülkede; ve nebi oğulları önünde oturuyorlardı; ve genç hizmetkârına dedi: Büyük kazanı kur ve nebi oğullarına çorba pişir.",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "ישבים",
@@ -77,9 +77,17 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     }
   ],
   "timestamp": "2026-08-19T09:44:59.645274132Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

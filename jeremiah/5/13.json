@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ve peygamberler rüzgâr olacak ve söz onlarda yok; onlara böyle yapılacak.",
+  "translation": "Ve nebiler rüzgâr olacak ve söz onlarda yok; onlara böyle yapılacak.",
   "tokens": [
     {
       "surface": "והנביאים",
-      "gloss": "ve peygamberler"
+      "gloss": "ve nebiler"
     },
     {
       "surface": "יהיו",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:05:55.823256860Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

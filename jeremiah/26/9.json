@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 26,
-  "translation": "Neden Yahve'nin adında peygamberlik ettin, diyerek ki: Şilo gibi olacak bu ev, ve bu şehir yıkılıp ıssız kalacak? Ve bütün halk, Yahve'nin evinde, Yirmyahu'ya karşı toplandı.",
+  "translation": "Neden Yahve'nin adında nebilik ettin, diyerek ki: Şilo gibi olacak bu ev, ve bu şehir yıkılıp ıssız kalacak? Ve bütün halk, Yahve'nin evinde, Yirmyahu'ya karşı toplandı.",
   "tokens": [
     {
       "surface": "מדוע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נבית",
-      "gloss": "peygamberlik ettin"
+      "gloss": "nebilik ettin"
     },
     {
       "surface": "בשם",
@@ -93,5 +93,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:30.805003853Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

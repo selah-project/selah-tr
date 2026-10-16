@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve şimdi Yahve'nin sözünü dinle: Sen diyorsun ki, 'İsrail aleyhine peygamberlik edilmesin ve Yitshak'ın evi üzerine damlatılmasın diye.'",
+  "translation": "Ve şimdi Yahve'nin sözünü dinle: Sen diyorsun ki, 'İsrail aleyhine nebilik edilmesin ve Yitshak'ın evi üzerine damlatılmasın diye.'",
   "tokens": [
     {
       "surface": "ועתה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "etmesin \/ edilmesin"
+      "gloss": "etmesin / edilmesin"
     },
     {
       "surface": "תנבא",
-      "gloss": "peygamberlik"
+      "gloss": "nebilik"
     },
     {
       "surface": "על",
-      "gloss": "aleyhine \/ üzerine"
+      "gloss": "aleyhine / üzerine"
     },
     {
       "surface": "ישראל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ve etme \/ damlatılmasın"
+      "gloss": "ve etme / damlatılmasın"
     },
     {
       "surface": "תטיף",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:42:27.678604964Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

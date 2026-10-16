@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve ertesi gün oldu, Elohim'in kötü ruhu Şaul'un üzerine şiddetle geldi; o evin ortasında peygamberlik ederken David her zamanki gibi gün gün eliyle çalıyordu; mızrak ise Şaul'un elindeydi.",
+  "translation": "Ve ertesi gün oldu, Elohim'in kötü ruhu Şaul'un üzerine şiddetle geldi; o evin ortasında nebilik ederken David her zamanki gibi gün gün eliyle çalıyordu; mızrak ise Şaul'un elindeydi.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ויתנבא",
-      "gloss": "o peygamberlik ediyordu"
+      "gloss": "o nebilik ediyordu"
     },
     {
       "surface": "בתוך",
@@ -85,5 +85,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:25:03.190234712Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

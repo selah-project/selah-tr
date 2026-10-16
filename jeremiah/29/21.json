@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Böyle söyleyor Yahve Tsavaot, İsrail'in Elohim'i, Ahav Kolya oğlu ve Tsedkiyahu Maşeya oğlu hakkında — size benim adımla yalan peygamberlik edenler: İşte, onları Babil kralı Nevuhadretsar'ın eline veriyorum, ve o sizi gözünüzün önünde onları vuracak.",
+  "translation": "Böyle söyleyor Yahve Tsavaot, İsrail'in Elohim'i, Ahav Kolya oğlu ve Tsedkiyahu Maşeya oğlu hakkında — size benim adımla yalan nebilik edenler: İşte, onları Babil kralı Nevuhadretsar'ın eline veriyorum, ve o sizi gözünüzün önünde onları vuracak.",
   "tokens": [
     {
       "surface": "כה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberlik edenler"
+      "gloss": "nebilik edenler"
     },
     {
       "surface": "לכם",
@@ -118,5 +118,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:03.364518821Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

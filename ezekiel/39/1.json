@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 39,
-  "translation": "Ve sen, insan-oğlu, Goğ'a karşı peygamberlik et ve şöyle diyeceksin: Böyle dedi Adonay Yahve: İşte ben sana ⟨karşıyım⟩, ey Goğ, Meşek ve Tuval'in baş-önderi.",
+  "translation": "Ve sen, insan-oğlu, Goğ'a karşı nebilik et ve şöyle diyeceksin: Böyle dedi Adonay Yahve: İşte ben sana ⟨karşıyım⟩, ey Goğ, Meşek ve Tuval'in baş-önderi.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "על",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:35:48.084666181Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

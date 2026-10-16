@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 21,
-  "translation": "İnsanoğlu, yüzünü güneye çevir, güneye doğru damlat, ve Negev'in tarlasının ormanına peygamberlik et:",
+  "translation": "İnsanoğlu, yüzünü güneye çevir, güneye doğru damlat, ve Negev'in tarlasının ormanına nebilik et:",
   "tokens": [
     {
       "surface": "בן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שים",
-      "gloss": "koy \/ çevir"
+      "gloss": "koy / çevir"
     },
     {
       "surface": "פניך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והנבא",
-      "gloss": "ve peygamberlik et"
+      "gloss": "ve nebilik et"
     },
     {
       "surface": "אל",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:28:44.743913589Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

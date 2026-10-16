@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 18,
-  "translation": "İsrail kralı Yehoşafat'a dedi: «Yahve'yi ⟨את⟩ sormak için ⟨את⟩ O'ndan ⟨⟨bir adam⟩⟩ daha var; ama ben ⟨את⟩ onu sevmiyorum, çünkü ⟨⟨o⟩⟩ bana iyi şey değil, bütün günleri hep kötüyü peygamberlik ediyor — o, İmla'nın oğlu Mikeyahu'dur.» Yehoşafat dedi: «Kral böyle söylemesin.»",
+  "translation": "İsrail kralı Yehoşafat'a dedi: «Yahve'yi ⟨את⟩ sormak için ⟨את⟩ O'ndan ⟨⟨bir adam⟩⟩ daha var; ama ben ⟨את⟩ onu sevmiyorum, çünkü ⟨⟨o⟩⟩ bana iyi şey değil, bütün günleri hep kötüyü nebilik ediyor — o, İmla'nın oğlu Mikeyahu'dur.» Yehoşafat dedi: «Kral böyle söylemesin.»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "מתנבא",
-      "gloss": "peygamberlik ediyor"
+      "gloss": "nebilik ediyor"
     },
     {
       "surface": "עלי",
@@ -143,5 +143,12 @@
     }
   ],
   "timestamp": "2026-08-24T17:16:25.869980304Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

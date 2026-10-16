@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve peygamberlerin oğulları Elişa'ya dediler: İşte lütfen, senin önünde oturduğumuz yer bize dar.",
+  "translation": "Ve nebilerin oğulları Elişa'ya dediler: İşte lütfen, senin önünde oturduğumuz yer bize dar.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "אל",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:45:26.861212650Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

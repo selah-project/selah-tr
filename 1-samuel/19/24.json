@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 19,
-  "translation": "O da giysilerini çıkardı ve o da Şemuël'in önünde peygamberlik etti; o günün tamamında ve gecenin tamamında çıplak yattı. Bu yüzden derler: «Acaba Şaül de peygamberler arasında mı?»",
+  "translation": "O da giysilerini çıkardı ve o da Şemuël'in önünde nebilik etti; o günün tamamında ve gecenin tamamında çıplak yattı. Bu yüzden derler: «Acaba Şaül de nebiler arasında mı?»",
   "tokens": [
     {
       "surface": "ויפשט",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויתנבא",
-      "gloss": "ve peygamberlik etti"
+      "gloss": "ve nebilik etti"
     },
     {
       "surface": "גם",
@@ -93,9 +93,17 @@
     },
     {
       "surface": "בנביאם",
-      "gloss": "peygamberler arasında"
+      "gloss": "nebiler arasında"
     }
   ],
   "timestamp": "2026-08-19T12:14:35.541330283Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik",
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

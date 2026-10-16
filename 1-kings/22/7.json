@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 22,
-  "translation": "Yehoşafat dedi: Burada Yahve ⟨için⟩ bir peygamber daha yok mu, ve ⟨את⟩ ondan soralım?",
+  "translation": "Yehoşafat dedi: Burada Yahve ⟨için⟩ bir nebi daha yok mu, ve ⟨את⟩ ondan soralım?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ליהוה",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:43:38.593259974Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

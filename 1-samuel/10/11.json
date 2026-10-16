@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ve öyle oldu ki, onu daha önceden tanıyan herkes gördü — işte peygamberlerle birlikte o peygamberlik ediyor — ve halk, kişi dostuna dedi: Kiş'in oğluna ne oldu? Şaul da mı peygamberler arasında?",
+  "translation": "Ve öyle oldu ki, onu daha önceden tanıyan herkes gördü — işte nebilerle birlikte o nebilik ediyor — ve halk, kişi dostuna dedi: Kiş'in oğluna ne oldu? Şaul da mı nebiler arasında?",
   "tokens": [
     {
       "surface": "ויהי",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "peygamberlerle"
+      "gloss": "nebilerle"
     },
     {
       "surface": "נבא",
-      "gloss": "peygamberlik ediyor"
+      "gloss": "nebilik ediyor"
     },
     {
       "surface": "ויאמר",
@@ -97,9 +97,18 @@
     },
     {
       "surface": "בנביאים",
-      "gloss": "peygamberler arasında"
+      "gloss": "nebiler arasında"
     }
   ],
   "timestamp": "2026-08-19T09:23:08.028506609Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerle": "nebilerle",
+      "peygamberlik": "nebilik",
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Bu yüzden onlara karşı peygamberlik et, peygamberlik et, ey insanoğlu.",
+  "translation": "Bu yüzden onlara karşı nebilik et, nebilik et, ey insanoğlu.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "עליהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "בן",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:25:16.471008230Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

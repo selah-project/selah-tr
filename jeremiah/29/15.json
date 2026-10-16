@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Çünkü siz demiştiniz: 'Yahve bize Babil'de peygamberler diriltti' —",
+  "translation": "Çünkü siz demiştiniz: 'Yahve bize Babil'de nebiler diriltti' —",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "בבלה",
@@ -37,5 +37,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:35.678286408Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

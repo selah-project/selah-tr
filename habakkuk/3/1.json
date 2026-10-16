@@ -5,7 +5,7 @@
   "book": "habakkuk",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Dua, Havakuk peygamberin, şigyonot üzerine",
+  "translation": "Dua, Havakuk nebinin, şigyonot üzerine",
   "tokens": [
     {
       "surface": "תפלה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "על",
@@ -29,5 +29,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:45:42.923092504Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

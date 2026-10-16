@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Peygamberlerle konuştum ve ⟨ben⟩ görümleri çoğalttım; peygamberlerin eliyle benzetmeler kurdum.",
+  "translation": "Nebilerle konuştum ve ⟨ben⟩ görümleri çoğalttım; nebilerin eliyle benzetmeler kurdum.",
   "tokens": [
     {
       "surface": "ודברתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlere"
+      "gloss": "nebilere"
     },
     {
       "surface": "ואנכי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "אדמה",
@@ -45,5 +45,14 @@
     }
   ],
   "timestamp": "2026-08-19T10:40:49.810822596Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamberlerle": "Nebilerle",
+      "peygamberlerin": "nebilerin",
+      "peygamberlere": "nebilere"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

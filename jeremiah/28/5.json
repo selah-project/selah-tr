@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Ve Yirmiyah peygamber, Hananyah peygambere, kahinlerin gözü önünde ve Bey-Yahve'de duran bütün halkın gözü önünde söyledi.",
+  "translation": "Ve Yirmiyah nebi, Hananyah nebiye, kahinlerin gözü önünde ve Bey-Yahve'de duran bütün halkın gözü önünde söyledi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "לעיני",
@@ -65,5 +65,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:46.950518305Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygambere": "nebiye"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

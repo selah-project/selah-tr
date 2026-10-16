@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 4,
-  "translation": "Ve olacak o gün, Yahve'nin deyişi: kralın yüreği ve önderlerin yüreği yok olur; kâhinler şaşkına döner ve peygamberler dehşete düşer.",
+  "translation": "Ve olacak o gün, Yahve'nin deyişi: kralın yüreği ve önderlerin yüreği yok olur; kâhinler şaşkına döner ve nebiler dehşete düşer.",
   "tokens": [
     {
       "surface": "והיה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והנביאים",
-      "gloss": "ve peygamberler"
+      "gloss": "ve nebiler"
     },
     {
       "surface": "יתמהו",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:05:27.822513594Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

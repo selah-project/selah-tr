@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Yedinci ayda, ayın yirmi birinde Yahve'nin sözü Haggay peygamberin eliyle oldu, şöyle derken:",
+  "translation": "Yedinci ayda, ayın yirmi birinde Yahve'nin sözü Haggay nebinin eliyle oldu, şöyle derken:",
   "tokens": [
     {
       "surface": "בשביעי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamberin"
+      "gloss": "nebinin"
     },
     {
       "surface": "לאמר",
@@ -53,5 +53,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:48:16.438757340Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

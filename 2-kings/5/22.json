@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Ve şöyle dedi: Barış; efendim beni şöyle söylemeye gönderdi: İşte şimdi bana Efrayim dağından, peygamber oğullarından iki genç geldi; onlara bir talent gümüş ve iki takım elbise ver, lütfen.",
+  "translation": "Ve şöyle dedi: Barış; efendim beni şöyle söylemeye gönderdi: İşte şimdi bana Efrayim dağından, nebi oğullarından iki genç geldi; onlara bir talent gümüş ve iki takım elbise ver, lütfen.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "תנה",
@@ -105,5 +105,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:45:09.446324100Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

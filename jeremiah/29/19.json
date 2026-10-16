@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Çünkü sözlerime kulak vermediler — Yahve'nin ilahı — ki onlara kullarım peygamberleriyle ⟨את⟩ gönderdim; erkenden ve tekrar tekrar gönderdim ama siz kulak vermediniz, Yahve'nin ilahı.",
+  "translation": "Çünkü sözlerime kulak vermediler — Yahve'nin ilahı — ki onlara kullarım nebileriyle ⟨את⟩ gönderdim; erkenden ve tekrar tekrar gönderdim ama siz kulak vermediniz, Yahve'nin ilahı.",
   "tokens": [
     {
       "surface": "תחת",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "השכם",
@@ -90,5 +90,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:03.347471835Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleriyle": "nebileriyle",
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

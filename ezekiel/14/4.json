@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Onun için ⟨את⟩ onlarla konuş ve onlara de: Adonay Yahve şöyle diyor: İsrael evinden herhangi bir adam ki putlarını ⟨את⟩ yüreğinin üzerine yükseltir ve suçunun sendeleyişini yüzünün karşısına koyar ve peygambere gelirse — ben Yahve, onun putlarının çokluğuna göre ona bunda cevap veririm.",
+  "translation": "Onun için ⟨את⟩ onlarla konuş ve onlara de: Adonay Yahve şöyle diyor: İsrael evinden herhangi bir adam ki putlarını ⟨את⟩ yüreğinin üzerine yükseltir ve suçunun sendeleyişini yüzünün karşısına koyar ve nebiye gelirse — ben Yahve, onun putlarının çokluğuna göre ona bunda cevap veririm.",
   "tokens": [
     {
       "surface": "לכן",
@@ -115,7 +115,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygambere"
+      "gloss": "nebiye"
     },
     {
       "surface": "אני",
@@ -147,5 +147,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:26:11.547772612Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygambere": "nebiye"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

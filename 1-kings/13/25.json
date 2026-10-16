@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Ve işte, yoldan geçen adamlar ⟨את⟩ cesedin yola atılmış olduğunu ve ⟨את⟩ arslanın cesedin yanında durduğunu gördüler; gelip yaşlı peygamberin oturduğu şehirde konuşup anlattılar.",
+  "translation": "Ve işte, yoldan geçen adamlar ⟨את⟩ cesedin yola atılmış olduğunu ve ⟨את⟩ arslanın cesedin yanında durduğunu gördüler; gelip yaşlı nebinin oturduğu şehirde konuşup anlattılar.",
   "tokens": [
     {
       "surface": "והנה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "הזקן",
@@ -95,5 +95,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:40:47.487987721Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

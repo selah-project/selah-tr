@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Peygamber gidip yolun üzerinde kral için bekledi ve gözlerinin üzerine kül sürerek kendini gizledi.",
+  "translation": "Nebi gidip yolun üzerinde kral için bekledi ve gözlerinin üzerine kül sürerek kendini gizledi.",
   "tokens": [
     {
       "surface": "וילך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ויעמד",
@@ -49,5 +49,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:48.093381419Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamber": "Nebi",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

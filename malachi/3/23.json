@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "tr",
   "chapter": 3,
-  "translation": "İşte ben size Eliya peygamberi ⟨את⟩ gönderiyorum, büyük ve korkunç Yahve günü gelmeden önce.",
+  "translation": "İşte ben size Eliya nebiyi ⟨את⟩ gönderiyorum, büyük ve korkunç Yahve günü gelmeden önce.",
   "tokens": [
     {
       "surface": "הנה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamberi"
+      "gloss": "nebiyi"
     },
     {
       "surface": "לפני",
@@ -62,5 +62,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:50:09.774486857Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberi": "nebiyi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

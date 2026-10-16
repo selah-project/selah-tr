@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Onu yoldan geri çeviren peygamber bunu duyunca dedi: Bu, ⟨את⟩ Yahve'nin sözüne başkaldıran Elohim adamıdır; Yahve onu arslana teslim etti, arslan onu parçaladı ve öldürdü — Yahve'nin ona söylediği söze göre.",
+  "translation": "Onu yoldan geri çeviren nebi bunu duyunca dedi: Bu, ⟨את⟩ Yahve'nin sözüne başkaldıran Elohim adamıdır; Yahve onu arslana teslim etti, arslan onu parçaladı ve öldürdü — Yahve'nin ona söylediği söze göre.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אשר",
@@ -110,5 +110,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:40:47.488318243Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Ve sen, insan-oğlu, peygamberlik et ve şöyle diyeceksin: Böyle dedi Adonay Yahve, Ammon-oğulları hakkına ve onların hakaretine dair; ve sen şöyle diyeceksin: Kılıç, kılıç, açılmış kıyım için, cilalanmış, şimşek gibi parıldasın diye!",
+  "translation": "Ve sen, insan-oğlu, nebilik et ve şöyle diyeceksin: Böyle dedi Adonay Yahve, Ammon-oğulları hakkına ve onların hakaretine dair; ve sen şöyle diyeceksin: Kılıç, kılıç, açılmış kıyım için, cilalanmış, şimşek gibi parıldasın diye!",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "ואמרת",
@@ -101,5 +101,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:28:32.690455461Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

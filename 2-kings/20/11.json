@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve Yeşayahu peygamber Yahve'ye seslendi; ⟨את⟩ gölgeyi, Ahaz'ın merdivenlerinde inmiş olduğu basamaklarda geriye on basamak geri getirdi.",
+  "translation": "Ve Yeşayahu nebi Yahve'ye seslendi; ⟨את⟩ gölgeyi, Ahaz'ın merdivenlerinde inmiş olduğu basamaklarda geriye on basamak geri getirdi.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אל",
@@ -74,5 +74,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:49:33.048015494Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

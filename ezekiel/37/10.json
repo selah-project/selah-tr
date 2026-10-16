@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 37,
-  "translation": "Ve bana buyurduğu gibi peygamberlik ettim, ve ruh içlerine girdi, ve yaşadılar, ve ayakları üzerine durdular — çok, çok büyük bir ordu.",
+  "translation": "Ve bana buyurduğu gibi nebilik ettim, ve ruh içlerine girdi, ve yaşadılar, ve ayakları üzerine durdular — çok, çok büyük bir ordu.",
   "tokens": [
     {
       "surface": "והנבאתי",
-      "gloss": "ve peygamberlik ettim"
+      "gloss": "ve nebilik ettim"
     },
     {
       "surface": "כאשר",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:34:46.045605510Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

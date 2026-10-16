@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve Beyt-El'de artık peygamberlik etmeye devam etme; çünkü o, kralın mabedidir ve krallık evidir o.",
+  "translation": "Ve Beyt-El'de artık nebilik etmeye devam etme; çünkü o, kralın mabedidir ve krallık evidir o.",
   "tokens": [
     {
       "surface": "ובית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תוסיף",
-      "gloss": "devam etme \/ eklemeye devam etme"
+      "gloss": "devam etme / eklemeye devam etme"
     },
     {
       "surface": "עוד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "להנבא",
-      "gloss": "peygamberlik etmeye"
+      "gloss": "nebilik etmeye"
     },
     {
       "surface": "כי",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:42:27.678091840Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

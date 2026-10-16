@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve işitti Pashhur, İmer oğlu kâhin — ve ⟨o⟩, Yahve'nin evinde görevli önder — ⟨את⟩ Yirmeyahu'nun ⟨את⟩ bu sözleri peygamberlik ettiğini.",
+  "translation": "Ve işitti Pashhur, İmer oğlu kâhin — ve ⟨o⟩, Yahve'nin evinde görevli önder — ⟨את⟩ Yirmeyahu'nun ⟨את⟩ bu sözleri nebilik ettiğini.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "peygamberlik ettiğini"
+      "gloss": "nebilik ettiğini"
     },
     {
       "surface": "את",
@@ -75,5 +75,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:10:47.887193359Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

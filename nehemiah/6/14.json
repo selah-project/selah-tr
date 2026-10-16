@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Elohim'im, Toviyah'ı ve Sanballat'ı bu yaptıkları işlere göre anımsa; ayrıca peygamber kadın Noadyah'ı ve ⟨את⟩ beni korkutan öbür peygamberleri de.",
+  "translation": "Elohim'im, Toviyah'ı ve Sanballat'ı bu yaptıkları işlere göre anımsa; ayrıca nebi kadın Noadyah'ı ve ⟨את⟩ beni korkutan öbür nebileri de.",
   "tokens": [
     {
       "surface": "זכרה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנביאה",
-      "gloss": "peygamber kadın"
+      "gloss": "nebi kadın"
     },
     {
       "surface": "וליתר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "אשר",
@@ -69,5 +69,13 @@
     }
   ],
   "timestamp": "2026-08-19T11:50:15.536436481Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

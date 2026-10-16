@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 9,
-  "translation": "İhtiyar ve yüz-kabul-görmüş⟨olan⟩ o baş; yalan öğreten peygamber o kuyruk.",
+  "translation": "İhtiyar ve yüz-kabul-görmüş⟨olan⟩ o baş; yalan öğreten nebi o kuyruk.",
   "tokens": [
     {
       "surface": "זקן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ונביא",
-      "gloss": "ve peygamber"
+      "gloss": "ve nebi"
     },
     {
       "surface": "מורה",
@@ -49,5 +49,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:52:59.538772810Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

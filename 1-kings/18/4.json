@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve İzvel, Yahve'nin ⟨את⟩ peygamberlerini kırptığında Ovadyahu yüz peygamber aldı ve onları mağarada ellişer kişi sakladı ve onlara ekmek ve su ile bakım sağladı.",
+  "translation": "Ve İzvel, Yahve'nin ⟨את⟩ nebilerini kırptığında Ovadyahu yüz nebi aldı ve onları mağarada ellişer kişi sakladı ve onlara ekmek ve su ile bakım sağladı.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "peygamberlerini"
+      "gloss": "nebilerini"
     },
     {
       "surface": "יהוה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ויחביאם",
@@ -78,5 +78,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:41:48.888467729Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerini": "nebilerini",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 36,
-  "translation": "Bu yüzden peygamberlik et ve de: Adonay Yahve şöyle dedi: Çünkü, tam da ıssız bırakılış yüzünden ve çevreden ⟨את⟩ sizi yutuş yüzünden — ulusların kalıntısına mülk olasınız diye — dilin ucunda taşındınız ve halkın dedikodusu oldunuz.",
+  "translation": "Bu yüzden nebilik et ve de: Adonay Yahve şöyle dedi: Çünkü, tam da ıssız bırakılış yüzünden ve çevreden ⟨את⟩ sizi yutuş yüzünden — ulusların kalıntısına mülk olasınız diye — dilin ucunda taşındınız ve halkın dedikodusu oldunuz.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "ואמרת",
@@ -102,5 +102,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:20:30.973927257Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

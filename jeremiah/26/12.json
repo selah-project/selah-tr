@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 26,
-  "translation": "Ve Yirmyahu bütün önderlere ve bütün halka söyleyip dedi: Yahve beni bu eve ve bu şehre, ⟨את⟩ işittiğiniz bütün sözleri peygamberlik etmek için gönderdi.",
+  "translation": "Ve Yirmyahu bütün önderlere ve bütün halka söyleyip dedi: Yahve beni bu eve ve bu şehre, ⟨את⟩ işittiğiniz bütün sözleri nebilik etmek için gönderdi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "להנבא",
-      "gloss": "peygamberlik etmek için"
+      "gloss": "nebilik etmek için"
     },
     {
       "surface": "אל",
@@ -102,5 +102,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:30.805539256Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

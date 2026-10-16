@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 37,
-  "translation": "Ve kral Tsidkiyahu, Yehukal'ı — Şelemya'nın oğlu — ve kâhin Ma'aseya'nın oğlu Tsfanyahu'yu, ⟨את⟩ peygamber Yirmiyahu'ya ⟨את⟩ göndererek şunu söyledi: «Lütfen bizim için Elohim'imiz Yahve'ye dua et.»",
+  "translation": "Ve kral Tsidkiyahu, Yehukal'ı — Şelemya'nın oğlu — ve kâhin Ma'aseya'nın oğlu Tsfanyahu'yu, ⟨את⟩ nebi Yirmiyahu'ya ⟨את⟩ göndererek şunu söyledi: «Lütfen bizim için Elohim'imiz Yahve'ye dua et.»",
   "tokens": [
     {
       "surface": "וישלח",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "לאמר",
@@ -99,5 +99,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:17:30.941049753Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

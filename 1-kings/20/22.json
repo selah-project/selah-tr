@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Peygamber İşrail'in kralına yaklaşıp ona dedi: Git, güçlen ve bil, ve gör ⟨את⟩ yapacağın şeyi; çünkü yılın dönüşünde Aram'ın kralı sana karşı yukarı çıkacak.",
+  "translation": "Nebi İşrail'in kralına yaklaşıp ona dedi: Git, güçlen ve bil, ve gör ⟨את⟩ yapacağın şeyi; çünkü yılın dönüşünde Aram'ın kralı sana karşı yukarı çıkacak.",
   "tokens": [
     {
       "surface": "ויגש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אל",
@@ -94,5 +94,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:43.995256343Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamber": "Nebi",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

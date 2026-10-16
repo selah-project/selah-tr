@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve delikanlı gitti — o delikanlı, o peygamber — Ramot-Gilad'a.",
+  "translation": "Ve delikanlı gitti — o delikanlı, o nebi — Ramot-Gilad'a.",
   "tokens": [
     {
       "surface": "וילך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "o peygamber"
+      "gloss": "o nebi"
     },
     {
       "surface": "רמת",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:46:18.830416655Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

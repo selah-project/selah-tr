@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Hananya bütün halkın gözü önünde şöyle dedi: Böyle dedi Yahve: Babil kralı Nevukadnetsar'ın ⟨את⟩ boyunduruğunu iki yıl içinde bütün ulusların boynundan böyle kıracağım. Ve Yirmiya peygamber kendi yoluna gitti.",
+  "translation": "Hananya bütün halkın gözü önünde şöyle dedi: Böyle dedi Yahve: Babil kralı Nevukadnetsar'ın ⟨את⟩ boyunduruğunu iki yıl içinde bütün ulusların boynundan böyle kıracağım. Ve Yirmiya nebi kendi yoluna gitti.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "לדרכו",
@@ -118,5 +118,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:11:58.537681261Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

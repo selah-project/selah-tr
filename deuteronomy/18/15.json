@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Bir peygamber, içinden, kardeşlerinden, benim gibi, sana yükseltecek Yahve, Elohim'in; ona kulak vereceksiniz.",
+  "translation": "Bir nebi, içinden, kardeşlerinden, benim gibi, sana yükseltecek Yahve, Elohim'in; ona kulak vereceksiniz.",
   "tokens": [
     {
       "surface": "נביא",
-      "gloss": "bir peygamber"
+      "gloss": "bir nebi"
     },
     {
       "surface": "מקרבך",
@@ -49,5 +49,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:02:15.522708232Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

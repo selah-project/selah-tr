@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 36,
-  "translation": "Ve Yahve'nin, Elohi'nin gözünde kötülüğü ⟨idi⟩ yaptı; Yirmiyahu peygamberin önünden, Yahve'nin ağzından ⟨konuşan⟩ eğilmedi.",
+  "translation": "Ve Yahve'nin, Elohi'nin gözünde kötülüğü ⟨idi⟩ yaptı; Yirmiyahu nebinin önünden, Yahve'nin ağzından ⟨konuşan⟩ eğilmedi.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נכנע",
-      "gloss": "eğilmedi\/alçalmadı"
+      "gloss": "eğilmedi/alçalmadı"
     },
     {
       "surface": "מלפני",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamberin"
+      "gloss": "nebinin"
     },
     {
       "surface": "מפי",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:11:36.713554605Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

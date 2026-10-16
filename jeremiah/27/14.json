@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 27,
-  "translation": "Ve size 'Babil kralına ⟨את⟩ hizmet etmeyeceksiniz' diyen peygamberlerin sözlerine kulak vermeyin; çünkü onlar size yalanla peygamberlik ediyorlar.",
+  "translation": "Ve size 'Babil kralına ⟨את⟩ hizmet etmeyeceksiniz' diyen nebilerin sözlerine kulak vermeyin; çünkü onlar size yalanla nebilik ediyorlar.",
   "tokens": [
     {
       "surface": "ואל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "האמרים",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "peygamberlik ediyorlar"
+      "gloss": "nebilik ediyorlar"
     },
     {
       "surface": "לכם",
@@ -82,5 +82,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:24.438783285Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerin": "nebilerin",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve oldu, akşam sunusunun yükselme saatinde, Eliyahu peygamber yaklaştı ve dedi: Yahve, Avraham'ın, Yitshak'ın ve Yisrael'in Elohim'i, bugün bilinsin ki Yisrael'de Elohim ⟨is⟩ sensin ve ben senin kulunum ve senin sözlerinle bütün ⟨את⟩ bu sözleri ben yaptım.",
+  "translation": "Ve oldu, akşam sunusunun yükselme saatinde, Eliyahu nebi yaklaştı ve dedi: Yahve, Avraham'ın, Yitshak'ın ve Yisrael'in Elohim'i, bugün bilinsin ki Yisrael'de Elohim ⟨is⟩ sensin ve ben senin kulunum ve senin sözlerinle bütün ⟨את⟩ bu sözleri ben yaptım.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ויאמר",
@@ -114,5 +114,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:08.882829555Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

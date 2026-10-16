@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Atalarınız gibi olmayın; ki onlara önceki peygamberler seslendiler, şöyle derken: Böyle diyor Yahve Tzevaot: Dönün, ne olursunuz, yollarınızdan — kötü olandan — ve işlerinizden — kötü olandan; ama dinlemediler ve bana kulak asmadılar, ilân eder Yahve.",
+  "translation": "Atalarınız gibi olmayın; ki onlara önceki nebiler seslendiler, şöyle derken: Böyle diyor Yahve Tzevaot: Dönün, ne olursunuz, yollarınızdan — kötü olandan — ve işlerinizden — kötü olandan; ama dinlemediler ve bana kulak asmadılar, ilân eder Yahve.",
   "tokens": [
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "הראשנים",
@@ -113,5 +113,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:47:50.615101356Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

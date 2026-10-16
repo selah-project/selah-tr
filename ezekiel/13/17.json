@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Ve sen, insan oğlu, yüzünü kendi halkının kızlarına çevir — kendi yüreklerinden peygamberlik edenlere — ve onlara karşı peygamberlik et.",
+  "translation": "Ve sen, insan oğlu, yüzünü kendi halkının kızlarına çevir — kendi yüreklerinden nebilik edenlere — ve onlara karşı nebilik et.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "המתנבאות",
-      "gloss": "peygamberlik edenlere"
+      "gloss": "nebilik edenlere"
     },
     {
       "surface": "מלבהן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "והנבא",
-      "gloss": "ve peygamberlik et"
+      "gloss": "ve nebilik et"
     },
     {
       "surface": "עליהן",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:26:30.314465731Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

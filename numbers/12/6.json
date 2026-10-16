@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 12,
-  "translation": "Ve dedi: Şimdi sözlerimi işitin: Aranızda peygamber olur ise, ben Yahve ona bir görümde kendimi bildiririm, düşünde onunla konuşurum.",
+  "translation": "Ve dedi: Şimdi sözlerimi işitin: Aranızda nebi olur ise, ben Yahve ona bir görümde kendimi bildiririm, düşünde onunla konuşurum.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נביאכם",
-      "gloss": "peygamberiniz"
+      "gloss": "nebiniz"
     },
     {
       "surface": "יהוה",
@@ -65,5 +65,13 @@
     }
   ],
   "timestamp": "2026-08-19T07:36:01.383617665Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberiniz": "nebiniz"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

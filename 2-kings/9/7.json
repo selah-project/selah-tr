@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve vuracaksın ⟨את⟩ efendin Ahav'ın hanedanını; ve peygamberler kullarımın kanını ve Yahve'nin bütün kullarının kanını İzevel'in elinden ödeyeceğim.",
+  "translation": "Ve vuracaksın ⟨את⟩ efendin Ahav'ın hanedanını; ve nebiler kullarımın kanını ve Yahve'nin bütün kullarının kanını İzevel'in elinden ödeyeceğim.",
   "tokens": [
     {
       "surface": "והכיתה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "ודמי",
@@ -70,5 +70,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:46:00.972289237Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

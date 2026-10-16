@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 25,
-  "translation": "«Yahve size bütün kulları olan peygamberlerini ⟨את⟩ gönderdi — erken erken gönderdiği halde dinlemediniz ve kulağınızı ⟨את⟩ dinlemek için eğmediniz.",
+  "translation": "«Yahve size bütün kulları olan nebilerini ⟨את⟩ gönderdi — erken erken gönderdiği halde dinlemediniz ve kulağınızı ⟨את⟩ dinlemek için eğmediniz.",
   "tokens": [
     {
       "surface": "ושלח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberlerini"
+      "gloss": "nebilerini"
     },
     {
       "surface": "השכם",
@@ -75,5 +75,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:11:37.530144678Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerini": "nebilerini"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

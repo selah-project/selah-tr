@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Yirmi dördüncü günde, on birinci ayda — o, Şevat ayıdır — Dareyaweş'in ikinci yılında, Yahve'nin sözü Zekharya'ya geldi: Berekyahu oğlu, İddo oğlu peygambere, şöyle diyerek.",
+  "translation": "Yirmi dördüncü günde, on birinci ayda — o, Şevat ayıdır — Dareyaweş'in ikinci yılında, Yahve'nin sözü Zekharya'ya geldi: Berekyahu oğlu, İddo oğlu nebiye, şöyle diyerek.",
   "tokens": [
     {
       "surface": "ביום",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "לאמר",
@@ -101,5 +101,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:48:01.937714428Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygambere": "nebiye",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

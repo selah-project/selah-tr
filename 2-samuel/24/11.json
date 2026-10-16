@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Ve Davud sabahleyin kalktı ve Yahve'nin sözü Gad peygambere, Davud'un gözcüsüne, şöyle demek üzere geldi:",
+  "translation": "Ve Davud sabahleyin kalktı ve Yahve'nin sözü Gad nebiye, Davud'un gözcüsüne, şöyle demek üzere geldi:",
   "tokens": [
     {
       "surface": "ויקם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "חזה",
@@ -57,5 +57,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:35:31.904238656Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygambere": "nebiye",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

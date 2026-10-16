@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve sabahleyin erken kalktılar ve Tekoa çölüne çıktılar; çıktıkları sırada Yehoşafat durdu ve dedi: Beni dinleyin, ey Yehuda ve Yeruşalayim'in sakinleri! Yahve'ye, Elohim'inize güvenin ve ⟨sağlam duracaksınız⟩; peygamberlerine güvenin ve ⟨başarı kazanacaksınız⟩.",
+  "translation": "Ve sabahleyin erken kalktılar ve Tekoa çölüne çıktılar; çıktıkları sırada Yehoşafat durdu ve dedi: Beni dinleyin, ey Yehuda ve Yeruşalayim'in sakinleri! Yahve'ye, Elohim'inize güvenin ve ⟨sağlam duracaksınız⟩; nebilerine güvenin ve ⟨başarı kazanacaksınız⟩.",
   "tokens": [
     {
       "surface": "וישכימו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "בנביאיו",
-      "gloss": "peygamberlerine"
+      "gloss": "nebilerine"
     },
     {
       "surface": "והצליחו",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:07:13.739170194Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerine": "nebilerine"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

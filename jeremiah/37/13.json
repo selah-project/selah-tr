@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 37,
-  "translation": "Ve oldu: o, Binyamin kapısındayken, orada nezaretin amiri vardı — adı Yiriyah, Şelemyah oğlu, Hananyah oğlu — ve Yirmiyahu'yu peygamberi yakaladı ⟨את⟩, şöyle derken: Kaşdimlere sen kaçıyorsun.",
+  "translation": "Ve oldu: o, Binyamin kapısındayken, orada nezaretin amiri vardı — adı Yiriyah, Şelemyah oğlu, Hananyah oğlu — ve Yirmiyahu'yu nebiyi yakaladı ⟨את⟩, şöyle derken: Kaşdimlere sen kaçıyorsun.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "לאמר",
@@ -98,5 +98,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:17:10.800169526Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberi": "nebiyi",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

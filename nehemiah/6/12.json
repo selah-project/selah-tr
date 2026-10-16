@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve anladım; ve işte, onu Elohim göndermemişti, çünkü o peygamberliği benim aleyhimde konuşmuştu; ve Tovya ile Sanballat onu tutmuşlardı.",
+  "translation": "Ve anladım; ve işte, onu Elohim göndermemişti, çünkü o nebiliği benim aleyhimde konuşmuştu; ve Tovya ile Sanballat onu tutmuşlardı.",
   "tokens": [
     {
       "surface": "ואכירה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנבואה",
-      "gloss": "peygamberliği"
+      "gloss": "nebiliği"
     },
     {
       "surface": "דבר",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-19T11:49:58.170571636Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberliği": "nebiliği"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 4,
-  "translation": "Ve Yeruşalayim kuşatmasına karşı yüzünü hazırlayacaksın ve kolun çıplak olacak, ve ona karşı peygamberlik edeceksin.",
+  "translation": "Ve Yeruşalayim kuşatmasına karşı yüzünü hazırlayacaksın ve kolun çıplak olacak, ve ona karşı nebilik edeceksin.",
   "tokens": [
     {
       "surface": "ואל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ונבאת",
-      "gloss": "ve peygamberlik edeceksin"
+      "gloss": "ve nebilik edeceksin"
     },
     {
       "surface": "עליה",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:23:34.227272614Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

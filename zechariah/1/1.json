@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Sekizinci ayda, Daryavuş'un ikinci yılında, Yahve'nin sözü Zekarya'ya — Berekyah oğlu, İdo oğlu, peygamber — oldu, şöyle derken:",
+  "translation": "Sekizinci ayda, Daryavuş'un ikinci yılında, Yahve'nin sözü Zekarya'ya — Berekyah oğlu, İdo oğlu, nebi — oldu, şöyle derken:",
   "tokens": [
     {
       "surface": "בחדש",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "לאמר",
@@ -73,5 +73,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:47:50.614639862Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Peygambere şöyle diyeceksin: Yahve sana ne cevap verdi ve Yahve ne söyledi?",
+  "translation": "Nebiye şöyle diyeceksin: Yahve sana ne cevap verdi ve Yahve ne söyledi?",
   "tokens": [
     {
       "surface": "כה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "מה",
@@ -49,5 +49,13 @@
     }
   ],
   "timestamp": "2026-08-19T12:19:05.421922168Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygambere": "Nebiye",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

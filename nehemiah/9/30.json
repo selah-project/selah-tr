@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Onların üzerine birçok yıl uzattın ve onlarda, senin Ruhunla, senin peygamberlerinin eliyle tanıklık ettin; ama kulak vermediler, ve onları toprakların halklarının eline verdin.",
+  "translation": "Onların üzerine birçok yıl uzattın ve onlarda, senin Ruhunla, senin nebilerinin eliyle tanıklık ettin; ama kulak vermediler, ve onları toprakların halklarının eline verdin.",
   "tokens": [
     {
       "surface": "ותמשך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "senin peygamberlerin"
+      "gloss": "senin nebilerin"
     },
     {
       "surface": "ולא",
@@ -69,5 +69,13 @@
     }
   ],
   "timestamp": "2026-08-19T11:51:41.683329385Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerinin": "nebilerinin",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

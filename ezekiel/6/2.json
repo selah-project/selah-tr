@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 6,
-  "translation": "İnsanoğlu, yüzünü Yiśra'el dağlarına çevir ve onlara peygamberlik et.",
+  "translation": "İnsanoğlu, yüzünü Yiśra'el dağlarına çevir ve onlara nebilik et.",
   "tokens": [
     {
       "surface": "בן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "והנבא",
-      "gloss": "ve peygamberlik et"
+      "gloss": "ve nebilik et"
     },
     {
       "surface": "אליהם",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:23:45.867049639Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

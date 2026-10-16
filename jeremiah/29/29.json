@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Tsefanyah kâhin ⟨את⟩ bu mektubu Yirmiyahu peygamberin kulaklarında okudu.",
+  "translation": "Tsefanyah kâhin ⟨את⟩ bu mektubu Yirmiyahu nebinin kulaklarında okudu.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -42,9 +42,17 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     }
   ],
   "timestamp": "2026-08-19T10:12:46.865386061Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

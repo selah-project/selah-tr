@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Bu yüzden işte, peygamberlere karşıyım — Yahve'nin nur'u — sözlerimi çalanlara, her biri komşusundan ⟨את⟩ çalanlara.",
+  "translation": "Bu yüzden işte, nebilere karşıyım — Yahve'nin nur'u — sözlerimi çalanlara, her biri komşusundan ⟨את⟩ çalanlara.",
   "tokens": [
     {
       "surface": "לכן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberlere"
+      "gloss": "nebilere"
     },
     {
       "surface": "נאם",
@@ -54,5 +54,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:11:25.062661828Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlere": "nebilere"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

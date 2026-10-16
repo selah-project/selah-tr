@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ve oradan bir adam yanıt verdi ve dedi: Peki babaları kim? Bu yüzden atasözü oldu: Şaul da mı peygamberler arasında?",
+  "translation": "Ve oradan bir adam yanıt verdi ve dedi: Peki babaları kim? Bu yüzden atasözü oldu: Şaul da mı nebiler arasında?",
   "tokens": [
     {
       "surface": "ויען",
@@ -57,9 +57,16 @@
     },
     {
       "surface": "בנבאים",
-      "gloss": "peygamberler arasında"
+      "gloss": "nebiler arasında"
     }
   ],
   "timestamp": "2026-08-19T09:23:08.028669907Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

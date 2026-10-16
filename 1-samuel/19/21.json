@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve Şaul'a bildirdiler; o da başka elçiler gönderdi, onlar da peygamberlik ettiler; Şaul yine göndermeyi sürdürdü ve üçüncü kez elçiler gönderdi, onlar da peygamberlik ettiler.",
+  "translation": "Ve Şaul'a bildirdiler; o da başka elçiler gönderdi, onlar da nebilik ettiler; Şaul yine göndermeyi sürdürdü ve üçüncü kez elçiler gönderdi, onlar da nebilik ettiler.",
   "tokens": [
     {
       "surface": "ויגדו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "peygamberlik ettiler"
+      "gloss": "nebilik ettiler"
     },
     {
       "surface": "גם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "peygamberlik ettiler"
+      "gloss": "nebilik ettiler"
     },
     {
       "surface": "גם",
@@ -73,5 +73,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:14:35.269016634Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

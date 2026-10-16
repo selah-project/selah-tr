@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 39,
-  "translation": "Ve geldi Yeşayahu peygamber kral Hizkiyahu'ya, ve ona dedi: «Ne dediler bu adamlar ve nereden geldiler sana?» Ve Hizkiyahu dedi: «Uzak bir ülkeden geldiler bana, Babil'den.»",
+  "translation": "Ve geldi Yeşayahu nebi kral Hizkiyahu'ya, ve ona dedi: «Ne dediler bu adamlar ve nereden geldiler sana?» Ve Hizkiyahu dedi: «Uzak bir ülkeden geldiler bana, Babil'den.»",
   "tokens": [
     {
       "surface": "ויבא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אל",
@@ -97,5 +97,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:59:01.298204046Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

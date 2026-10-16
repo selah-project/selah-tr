@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Ve Yahve'nin Ruhu senin üzerine güçlüce gelecek, ⟨sen⟩ onlarla birlikte peygamberlik edeceksin ve başka bir adama dönüştürüleceksin.",
+  "translation": "Ve Yahve'nin Ruhu senin üzerine güçlüce gelecek, ⟨sen⟩ onlarla birlikte nebilik edeceksin ve başka bir adama dönüştürüleceksin.",
   "tokens": [
     {
       "surface": "וצלחה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "והתנבית",
-      "gloss": "peygamberlik edeceksin"
+      "gloss": "nebilik edeceksin"
     },
     {
       "surface": "עמם",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:23:04.097906678Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

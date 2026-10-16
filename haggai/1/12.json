@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve Zerubavel, Şealtiel'in oğlu, ve YeHoŞua, YeHoTsadak'ın oğlu, büyük kâhin, ve halkın bütün artığı, Yahve'nin, Elohim'lerinin sesini ve Hagay peygamberin sözlerini dinlediler — onları Yahve, Elohim'leri gönderdiği gibi — ve halk, Yahve'nin yüzünden korktu.",
+  "translation": "Ve Zerubavel, Şealtiel'in oğlu, ve YeHoŞua, YeHoTsadak'ın oğlu, büyük kâhin, ve halkın bütün artığı, Yahve'nin, Elohim'lerinin sesini ve Hagay nebinin sözlerini dinlediler — onları Yahve, Elohim'leri gönderdiği gibi — ve halk, Yahve'nin yüzünden korktu.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "כאשר",
@@ -117,5 +117,13 @@
     }
   ],
   "timestamp": "2026-08-19T12:21:08.143797670Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 36,
-  "translation": "Sen ise, insan-oğlu, İsrail'in dağlarına peygamberlik et ve de ki: Ey İsrail'in dağları, Yahve'nin sözünü duyun:",
+  "translation": "Sen ise, insan-oğlu, İsrail'in dağlarına nebilik et ve de ki: Ey İsrail'in dağları, Yahve'nin sözünü duyun:",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "אל",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:20:10.973338809Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tr",
   "chapter": 51,
-  "translation": "Natan peygamber ona geldiğinde, Bat-Şeva'nın yanına girdiği zaman ⟨yazıldı⟩.",
+  "translation": "Natan nebi ona geldiğinde, Bat-Şeva'nın yanına girdiği zaman ⟨yazıldı⟩.",
   "tokens": [
     {
       "surface": "בבוא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "כאשר",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:58:37.526484438Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

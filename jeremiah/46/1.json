@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 46,
-  "translation": "İşte Yahve'nin kelimesi Yirmiyahu peygambere uluslar hakkında ⟨geldi⟩.",
+  "translation": "İşte Yahve'nin kelimesi Yirmiyahu nebiye uluslar hakkında ⟨geldi⟩.",
   "tokens": [
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "על",
@@ -45,5 +45,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:20:03.236708838Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygambere": "nebiye",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

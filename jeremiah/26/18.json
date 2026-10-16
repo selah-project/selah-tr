@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 26,
-  "translation": "Mikayah ha-Moraşti, Yehuda kralı Hizkiyahu günlerinde peygamberlik etti ve bütün Yehuda halkına şöyle diyerek söz söyledi: Böyle dedi Yahve Tsevaot: Siyon ⟨bir⟩ tarla gibi sürülecek, ve Yeruşalayim yıkıntı yığınları olacak, ve ⟨o⟩ evin dağı ormanlık yüksek yerler olacak.",
+  "translation": "Mikayah ha-Moraşti, Yehuda kralı Hizkiyahu günlerinde nebilik etti ve bütün Yehuda halkına şöyle diyerek söz söyledi: Böyle dedi Yahve Tsevaot: Siyon ⟨bir⟩ tarla gibi sürülecek, ve Yeruşalayim yıkıntı yığınları olacak, ve ⟨o⟩ evin dağı ormanlık yüksek yerler olacak.",
   "tokens": [
     {
       "surface": "מיכיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "peygamberlik etti"
+      "gloss": "nebilik etti"
     },
     {
       "surface": "בימי",
@@ -121,5 +121,12 @@
     }
   ],
   "timestamp": "2026-08-24T17:17:16.906027630Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

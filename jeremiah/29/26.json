@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 29,
-  "translation": "Yahve seni Yehoyada kohenin yerine kohen yaptı, Yahve'nin evinde gözetmenler olman için, her çıldırmış ve kendini peygamber yapan adam ⟨için⟩; onu ⟨את⟩ basık mahpete ve boyundurağa koyacaksın",
+  "translation": "Yahve seni Yehoyada kohenin yerine kohen yaptı, Yahve'nin evinde gözetmenler olman için, her çıldırmış ve kendini nebi yapan adam ⟨için⟩; onu ⟨את⟩ basık mahpete ve boyundurağa koyacaksın",
   "tokens": [
     {
       "surface": "יהוה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ומתנבא",
-      "gloss": "ve peygamberlik eden"
+      "gloss": "ve nebilik eden"
     },
     {
       "surface": "ונתתה",
@@ -90,5 +90,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:15.171932299Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve Amatsyah, Amos'a dedi: Gören! Kaç, kendin için Yehuda ülkesine kaç; orada ekmek ye ve orada peygamberlik et.",
+  "translation": "Ve Amatsyah, Amos'a dedi: Gören! Kaç, kendin için Yehuda ülkesine kaç; orada ekmek ye ve orada nebilik et.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -69,9 +69,16 @@
     },
     {
       "surface": "תנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     }
   ],
   "timestamp": "2026-08-19T10:42:24.729209004Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

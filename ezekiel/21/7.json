@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 21,
-  "translation": "İnsanoğlu, yüzünü Yeruşalayim'e çevir, mukaddes yerlere karşı vaaz et ve Yisra'el toprağına karşı peygamberlik et.",
+  "translation": "İnsanoğlu, yüzünü Yeruşalayim'e çevir, mukaddes yerlere karşı vaaz et ve Yisra'el toprağına karşı nebilik et.",
   "tokens": [
     {
       "surface": "בן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והנבא",
-      "gloss": "ve peygamberlik et"
+      "gloss": "ve nebilik et"
     },
     {
       "surface": "אל",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:29:25.632295777Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

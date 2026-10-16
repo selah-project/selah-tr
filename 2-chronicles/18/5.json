@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 18,
-  "translation": "İsrail kralı peygamberleri topladı — dört yüz kişi — ve onlara dedi: Ramot-Gilat'a savaşa mı gidelim, yoksa vaz mı geçeyim? Onlar dediler: Çık; ve Elohim ⟨את⟩ onu kralın eline verecek.",
+  "translation": "İsrail kralı nebileri topladı — dört yüz kişi — ve onlara dedi: Ramot-Gilat'a savaşa mı gidelim, yoksa vaz mı geçeyim? Onlar dediler: Çık; ve Elohim ⟨את⟩ onu kralın eline verecek.",
   "tokens": [
     {
       "surface": "ויקבץ",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "ארבע",
@@ -102,5 +102,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:06:44.633247495Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

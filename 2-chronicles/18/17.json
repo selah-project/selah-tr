@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 18,
-  "translation": "İsrail kralı Yehoşafat'a dedi: Sana söylemedim mi — bana iyilik değil, ancak kötülük peygamberlik eder.",
+  "translation": "İsrail kralı Yehoşafat'a dedi: Sana söylemedim mi — bana iyilik değil, ancak kötülük nebilik eder.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יתנבא",
-      "gloss": "peygamberlik eder"
+      "gloss": "nebilik eder"
     },
     {
       "surface": "עלי",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:06:43.477326055Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

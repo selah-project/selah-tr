@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Yahve bulut içinde indi, onunla konuştu ve üzerindeki ruhtan aldı, yetmiş ihtiyar adamın üzerine koydu; ruh üzerlerine konunca peygamberlik ettiler ve ⟨artık⟩ devam etmediler.",
+  "translation": "Yahve bulut içinde indi, onunla konuştu ve üzerindeki ruhtan aldı, yetmiş ihtiyar adamın üzerine koydu; ruh üzerlerine konunca nebilik ettiler ve ⟨artık⟩ devam etmediler.",
   "tokens": [
     {
       "surface": "וירד",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "peygamberlik ettiler"
+      "gloss": "nebilik ettiler"
     },
     {
       "surface": "ולא",
@@ -97,5 +97,12 @@
     }
   ],
   "timestamp": "2026-08-19T07:36:31.880144277Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

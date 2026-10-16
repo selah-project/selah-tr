@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve olur ki, ben peygamberlik ederken Pelatyahu ben Benayahu ölür; ben de yüzümün üzerine düşer ve büyük bir sesle haykırır, derim ki: Ah, Adonay Yahve! İsrail'in kalıntısına ⟨את⟩ tam bir son mu getiriyorsun?",
+  "translation": "Ve olur ki, ben nebilik ederken Pelatyahu ben Benayahu ölür; ben de yüzümün üzerine düşer ve büyük bir sesle haykırır, derim ki: Ah, Adonay Yahve! İsrail'in kalıntısına ⟨את⟩ tam bir son mu getiriyorsun?",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כהנבאי",
-      "gloss": "ben peygamberlik ederken"
+      "gloss": "ben nebilik ederken"
     },
     {
       "surface": "ופלטיהו",
@@ -98,5 +98,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:25:00.488702476Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

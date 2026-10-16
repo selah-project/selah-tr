@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve sen, Paşhur, ve evinde oturanların hepsi esirliğe gideceksiniz; Babil'e varacaksın ve orada öleceksin ve orada gömüleceksin, sen ve bütün sevdiklerin, onlara yalanla peygamberlik yaptıkların.",
+  "translation": "Ve sen, Paşhur, ve evinde oturanların hepsi esirliğe gideceksiniz; Babil'e varacaksın ve orada öleceksin ve orada gömüleceksin, sen ve bütün sevdiklerin, onlara yalanla nebilik yaptıkların.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "נבאת",
-      "gloss": "peygamberlik yaptın"
+      "gloss": "nebilik yaptın"
     },
     {
       "surface": "להם",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:10:24.475779686Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

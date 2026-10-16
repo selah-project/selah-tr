@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Çünkü İsrail beytinden her kim — ve İsrail'de konuk olan gereden her kim — benden ayrılıp putlarını kalbine yükseltir ve suçunun önünü yüzünün karşısına koyar ve benden ona soru sormak için peygambere gelirse: Ben Yahve, ben onu kendimce yanıtlayacağım.",
+  "translation": "Çünkü İsrail beytinden her kim — ve İsrail'de konuk olan gereden her kim — benden ayrılıp putlarını kalbine yükseltir ve suçunun önünü yüzünün karşısına koyar ve benden ona soru sormak için nebiye gelirse: Ben Yahve, ben onu kendimce yanıtlayacağım.",
   "tokens": [
     {
       "surface": "כי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאחרי",
-      "gloss": "arkamdan\/benden"
+      "gloss": "arkamdan/benden"
     },
     {
       "surface": "ויעל",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygambere"
+      "gloss": "nebiye"
     },
     {
       "surface": "לדרש",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "בי",
-      "gloss": "benim aracılığımla\/benden"
+      "gloss": "benim aracılığımla/benden"
     },
     {
       "surface": "אני",
@@ -133,5 +133,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:26:27.599950625Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygambere": "nebiye"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

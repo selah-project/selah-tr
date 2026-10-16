@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 5,
-  "translation": "Peygamberler yalanla peygamberlik ediyor ve kâhinler onların elleriyle egemenlik sürüyor; ve halkım böyle sevdi — sonuna karşı ne yapacaksınız?",
+  "translation": "Nebiler yalanla nebilik ediyor ve kâhinler onların elleriyle egemenlik sürüyor; ve halkım böyle sevdi — sonuna karşı ne yapacaksınız?",
   "tokens": [
     {
       "surface": "הנביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "נבאו",
-      "gloss": "peygamberlik ediyor"
+      "gloss": "nebilik ediyor"
     },
     {
       "surface": "בשקר",
@@ -61,5 +61,14 @@
     }
   ],
   "timestamp": "2026-08-19T10:06:40.285613132Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamberler": "Nebiler",
+      "peygamberlik": "nebilik",
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

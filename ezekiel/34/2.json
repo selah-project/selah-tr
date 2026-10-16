@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 34,
-  "translation": "İnsanoğlu, İsrail'in çobanlarına karşı peygamberlik et; peygamberlik et ve onlara, o çobanlara de: Böyle dedi Adonay Yahve: Vay İsrail'in çobanlarına, ki kendileri çobanlık edip onları ⟨את⟩ otlatıyorlar — çobanlar sürüyü otlatmaz mı?",
+  "translation": "İnsanoğlu, İsrail'in çobanlarına karşı nebilik et; nebilik et ve onlara, o çobanlara de: Böyle dedi Adonay Yahve: Vay İsrail'in çobanlarına, ki kendileri çobanlık edip onları ⟨את⟩ otlatıyorlar — çobanlar sürüyü otlatmaz mı?",
   "tokens": [
     {
       "surface": "בן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "על",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "ואמרת",
@@ -110,5 +110,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:34:59.692057517Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

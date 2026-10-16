@@ -5,11 +5,11 @@
   "book": "lamentations",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Peygamberlerinin senin için boş ve tatsız şeyler gördü; suçunu açığa çıkarmadılar ki esaretini geri çevirsinler; ama sana boş yükler ve saptırmalar gösterdiler.",
+  "translation": "Nebilerinin senin için boş ve tatsız şeyler gördü; suçunu açığa çıkarmadılar ki esaretini geri çevirsinler; ama sana boş yükler ve saptırmalar gösterdiler.",
   "tokens": [
     {
       "surface": "נביאיך",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "חזו",
@@ -73,5 +73,13 @@
     }
   ],
   "timestamp": "2026-08-19T11:36:14.505020311Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamberlerinin": "Nebilerinin",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

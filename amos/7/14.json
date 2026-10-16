@@ -33,7 +33,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "nebi \/ peygamber"
+      "gloss": "nebi / nebi"
     },
     {
       "surface": "אנכי",
@@ -77,5 +77,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:42:27.678319605Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

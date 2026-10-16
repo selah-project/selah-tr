@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Bu yüzden peygamberler aracılığıyla kıydım; ağzımın sözleriyle onları öldürdüm; senin hükümlerin ışık gibi çıkacak.",
+  "translation": "Bu yüzden nebiler aracılığıyla kıydım; ağzımın sözleriyle onları öldürdüm; senin hükümlerin ışık gibi çıkacak.",
   "tokens": [
     {
       "surface": "על",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בנביאים",
-      "gloss": "peygamberlerle"
+      "gloss": "nebilerle"
     },
     {
       "surface": "הרגתים",
@@ -49,5 +49,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:39:36.011236970Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlerle": "nebilerle"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

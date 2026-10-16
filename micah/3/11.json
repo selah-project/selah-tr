@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Başları rüşvetle yargı eder, kâhinleri ücretle öğretir, peygamberleri gümüşle fal bakar; ve Yahve'ye yaslanıp şöyle derler: «Yahve aramızda değil mi? Kötülük üzerimize gelmez.»",
+  "translation": "Başları rüşvetle yargı eder, kâhinleri ücretle öğretir, nebileri gümüşle fal bakar; ve Yahve'ye yaslanıp şöyle derler: «Yahve aramızda değil mi? Kötülük üzerimize gelmez.»",
   "tokens": [
     {
       "surface": "ראשיה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ונביאיה",
-      "gloss": "ve peygamberleri"
+      "gloss": "ve nebileri"
     },
     {
       "surface": "בכסף",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:44:30.556499503Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

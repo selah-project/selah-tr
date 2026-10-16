@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve ⟨oldu⟩, öğle geçince, akşam minhahı yükselinceye kadar peygamberlik taklidi yaptılar; ama ses yoktu, karşılık veren yoktu, kulak veren yoktu.",
+  "translation": "Ve ⟨oldu⟩, öğle geçince, akşam minhahı yükselinceye kadar nebilik taklidi yaptılar; ama ses yoktu, karşılık veren yoktu, kulak veren yoktu.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "peygamberlik taklidi yaptılar"
+      "gloss": "nebilik taklidi yaptılar"
     },
     {
       "surface": "עד",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:16.778262829Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

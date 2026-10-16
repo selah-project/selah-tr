@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve dedi: Kıskançlıkla kıskandım Yahve, Tsvaot Elohim'i, çünkü senin antlaşmanı İsrail oğulları bıraktı, ⟨את⟩ sunaklarını yıktılar ve ⟨את⟩ peygamberlerini kılıçla öldürdüler; ve ben tek başıma kaldım, ve ⟨את⟩ canımı almak için arıyorlar.",
+  "translation": "Ve dedi: Kıskançlıkla kıskandım Yahve, Tsvaot Elohim'i, çünkü senin antlaşmanı İsrail oğulları bıraktı, ⟨את⟩ sunaklarını yıktılar ve ⟨את⟩ nebilerini kılıçla öldürdüler; ve ben tek başıma kaldım, ve ⟨את⟩ canımı almak için arıyorlar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "senin peygamberlerini"
+      "gloss": "senin nebilerini"
     },
     {
       "surface": "הרגו",
@@ -112,5 +112,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:34.873265397Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerini": "nebilerini"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

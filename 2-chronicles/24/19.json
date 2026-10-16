@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 24,
-  "translation": "Ve onların aralarına peygamberler gönderdi, onları Yahve'ye geri döndürmek için; ve onların aleyhinde tanıklık ettiler, ama kulak vermediler.",
+  "translation": "Ve onların aralarına nebiler gönderdi, onları Yahve'ye geri döndürmek için; ve onların aleyhinde tanıklık ettiler, ama kulak vermediler.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "להשיבם",
@@ -49,5 +49,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:07:40.310543453Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

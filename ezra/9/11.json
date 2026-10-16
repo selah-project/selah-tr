@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "tr",
   "chapter": 9,
-  "translation": "ki emrettin kulların eliyle, peygamberler, diyerek: ⟨את⟩ O ülke — oraya girmektesiniz onu mülk edinmeye — murdar bir ülkedir ⟨o⟩, ülkelerin halklarının murdarlığıyla, iğrençlikleriyle; onu doldurdular ağızdan ağza kendi kirliliklerinde.",
+  "translation": "ki emrettin kulların eliyle, nebiler, diyerek: ⟨את⟩ O ülke — oraya girmektesiniz onu mülk edinmeye — murdar bir ülkedir ⟨o⟩, ülkelerin halklarının murdarlığıyla, iğrençlikleriyle; onu doldurdular ağızdan ağza kendi kirliliklerinde.",
   "tokens": [
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "לאמר",
@@ -105,5 +105,12 @@
     }
   ],
   "timestamp": "2026-08-19T11:48:28.860745199Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

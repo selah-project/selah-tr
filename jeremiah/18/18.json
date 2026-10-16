@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve dediler: «Gelin, Yirmiyahu'ya karşı düzenler kuralım; çünkü Tora kâhinden yok olmayacak, öğüt bilgeden, söz peygamberden yok olmayacak. Gelin, onu dille vurup hiçbir sözüne kulak vermeyelim.»",
+  "translation": "Ve dediler: «Gelin, Yirmiyahu'ya karşı düzenler kuralım; çünkü Tora kâhinden yok olmayacak, öğüt bilgeden, söz nebiden yok olmayacak. Gelin, onu dille vurup hiçbir sözüne kulak vermeyelim.»",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "מנביא",
-      "gloss": "peygamberden"
+      "gloss": "nebiden"
     },
     {
       "surface": "לכו",
@@ -101,5 +101,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:18:33.488712339Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberden": "nebiden"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

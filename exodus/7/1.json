@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Yahve Moşe'ye dedi: Bak, seni Paro'nun ⟨karşısına⟩ Elohim olarak kılıyorum, ve kardeşin Aharon senin peygamberin olacak.",
+  "translation": "Yahve Moşe'ye dedi: Bak, seni Paro'nun ⟨karşısına⟩ Elohim olarak kılıyorum, ve kardeşin Aharon senin nebinin olacak.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -53,9 +53,16 @@
     },
     {
       "surface": "נביאך",
-      "gloss": "senin peygamberin"
+      "gloss": "senin nebinin"
     }
   ],
   "timestamp": "2026-08-19T07:11:20.174321813Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

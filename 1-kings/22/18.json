@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 22,
-  "translation": "İsrail kralı Yehoşafat'a dedi: Sana söylemedim mi — bana iyi değil, ancak kötülük peygamberlik etmez o?",
+  "translation": "İsrail kralı Yehoşafat'a dedi: Sana söylemedim mi — bana iyi değil, ancak kötülük nebilik etmez o?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יתנבא",
-      "gloss": "peygamberlik eder"
+      "gloss": "nebilik eder"
     },
     {
       "surface": "עלי",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:16:43.021229348Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

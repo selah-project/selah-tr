@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Ve karşısındaki, Yeriho'daki peygamber oğulları onu gördüler ve dediler: Eliyahu'nun ruhu Elişa'nın üzerine konup dinlendi. Ve onu karşılamaya geldiler ve yere kapanarak ona secde ettiler.",
+  "translation": "Ve karşısındaki, Yeriho'daki nebi oğulları onu gördüler ve dediler: Eliyahu'nun ruhu Elişa'nın üzerine konup dinlendi. Ve onu karşılamaya geldiler ve yere kapanarak ona secde ettiler.",
   "tokens": [
     {
       "surface": "ויראהו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "אשר",
@@ -77,5 +77,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:44:11.364744576Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

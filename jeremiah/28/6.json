@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Ve Yirmiyah peygamber dedi: Âmin! Öyle yapsın Yahve; Yahve ⟨את⟩ senin sözlerini ki peygamberlik ettin — Bey-Yahve'nin kaplarını ve bütün sürgünü Babil'den bu yere geri getirmek için — diriltsin.",
+  "translation": "Ve Yirmiyah nebi dedi: Âmin! Öyle yapsın Yahve; Yahve ⟨את⟩ senin sözlerini ki nebilik ettin — Bey-Yahve'nin kaplarını ve bütün sürgünü Babil'den bu yere geri getirmek için — diriltsin.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אמן",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "נבאת",
-      "gloss": "peygamberlik ettin"
+      "gloss": "nebilik ettin"
     },
     {
       "surface": "להשיב",
@@ -102,5 +102,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:46.950823965Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

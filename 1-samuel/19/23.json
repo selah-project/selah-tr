@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ve oraya, Ramah'taki Navith'e gitti; Elohim'in ruhu ⟨onun⟩ üzerine de geldi, o da gelinceye dek Navith'te, Ramah'ta, yürüyüp peygamberlik etti.",
+  "translation": "Ve oraya, Ramah'taki Navith'e gitti; Elohim'in ruhu ⟨onun⟩ üzerine de geldi, o da gelinceye dek Navith'te, Ramah'ta, yürüyüp nebilik etti.",
   "tokens": [
     {
       "surface": "וילך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויתנבא",
-      "gloss": "ve peygamberlik etti"
+      "gloss": "ve nebilik etti"
     },
     {
       "surface": "עד",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:14:35.541057840Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Arslan kükredi — kim korkmaz? Adonay Yahve konuştu — kim peygamberlik etmez?",
+  "translation": "Arslan kükredi — kim korkmaz? Adonay Yahve konuştu — kim nebilik etmez?",
   "tokens": [
     {
       "surface": "אריה",
@@ -49,9 +49,16 @@
     },
     {
       "surface": "ינבא",
-      "gloss": "peygamberlik eder"
+      "gloss": "nebilik eder"
     }
   ],
   "timestamp": "2026-08-19T10:41:49.716016389Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

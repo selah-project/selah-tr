@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve Ahav bütün İsrail oğullarının arasına gönderdi, ve peygamberleri Karmel dağına topladı ⟨את⟩.",
+  "translation": "Ve Ahav bütün İsrail oğullarının arasına gönderdi, ve nebileri Karmel dağına topladı ⟨את⟩.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "אל",
@@ -54,5 +54,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:05.068231927Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

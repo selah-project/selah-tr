@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Peygamber, kâhin ve halktan her kim «Yahve'nin yükü» derse, o adamın ve onun evinin üstünde hesaba çekeceğim.",
+  "translation": "Nebi, kâhin ve halktan her kim «Yahve'nin yükü» derse, o adamın ve onun evinin üstünde hesaba çekeceğim.",
   "tokens": [
     {
       "surface": "והנביא",
-      "gloss": "ve peygamber"
+      "gloss": "ve nebi"
     },
     {
       "surface": "והכהן",
@@ -61,5 +61,13 @@
     }
   ],
   "timestamp": "2026-08-19T12:18:57.514071517Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamber": "Nebi",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

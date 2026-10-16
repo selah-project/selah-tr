@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Şelomonun ilk ve son ⟨diğer⟩ işlerinin geri kalanı — yazılmış değil mi ⟨onlar⟩ Natan peygamberin sözlerinde, ve Ahiya Şiloninin peygamberliğinde, ve Yoadi görenin Yarovam Nevat oğlu hakkındaki görülerinde?",
+  "translation": "Şelomonun ilk ve son ⟨diğer⟩ işlerinin geri kalanı — yazılmış değil mi ⟨onlar⟩ Natan nebinin sözlerinde, ve Ahiya Şiloninin nebiliğinde, ve Yoadi görenin Yarovam Nevat oğlu hakkındaki görülerinde?",
   "tokens": [
     {
       "surface": "ושאר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ועל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "נבואת",
-      "gloss": "peygamberliğinde"
+      "gloss": "nebiliğinde"
     },
     {
       "surface": "אחיה",
@@ -101,5 +101,14 @@
     }
   ],
   "timestamp": "2026-08-19T12:03:48.060694043Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamberliğinde": "nebiliğinde",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

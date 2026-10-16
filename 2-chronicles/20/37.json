@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Eliezer, Dodavahu'nun oğlu, Maresha'dan, Yehoşafat'ın üzerine peygamberlik etti, diyerek: Ahazya ile kendini birleştirdiğin için Yahve ⟨את⟩ işlerini parçaladı. Ve gemiler kırıldı ve Tarşiş'e gitmek için güç yetiremediler.",
+  "translation": "Eliezer, Dodavahu'nun oğlu, Maresha'dan, Yehoşafat'ın üzerine nebilik etti, diyerek: Ahazya ile kendini birleştirdiğin için Yahve ⟨את⟩ işlerini parçaladı. Ve gemiler kırıldı ve Tarşiş'e gitmek için güç yetiremediler.",
   "tokens": [
     {
       "surface": "ויתנבא",
-      "gloss": "peygamberlik etti"
+      "gloss": "nebilik etti"
     },
     {
       "surface": "אליעזר",
@@ -98,5 +98,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:06:19.073125395Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

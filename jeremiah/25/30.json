@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 25,
-  "translation": "Ve sen onlara bütün ⟨את⟩ bu sözleri peygamberlik edeceksin ve onlara diyeceksin: Yahve yüceden kükreyecek ve kutsal makamından sesini verecek; ağılı üzerinde kükreyecek, evet kükreyecek; üzüm ezenler gibi bağırış yükseltecek bütün dünyanın sakinlerine karşı.",
+  "translation": "Ve sen onlara bütün ⟨את⟩ bu sözleri nebilik edeceksin ve onlara diyeceksin: Yahve yüceden kükreyecek ve kutsal makamından sesini verecek; ağılı üzerinde kükreyecek, evet kükreyecek; üzüm ezenler gibi bağırış yükseltecek bütün dünyanın sakinlerine karşı.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תנבא",
-      "gloss": "peygamberlik edeceksin"
+      "gloss": "nebilik edeceksin"
     },
     {
       "surface": "אליהם",
@@ -118,5 +118,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:04.119730833Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

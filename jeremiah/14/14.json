@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Ve Yahve bana dedi: Peygamberler adımla yalan peygamberlik ediyorlar; onları ben göndermedim, onlara buyruk vermedim, onlarla konuşmadım. Yalan görü, büyü, değersizlik ve kendi yüreklerinin aldatması — onlar size peygamberlik ediyorlar.",
+  "translation": "Ve Yahve bana dedi: Nebiler adımla yalan nebilik ediyorlar; onları ben göndermedim, onlara buyruk vermedim, onlarla konuşmadım. Yalan görü, büyü, değersizlik ve kendi yüreklerinin aldatması — onlar size nebilik ediyorlar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "נבאים",
-      "gloss": "peygamberlik ediyorlar"
+      "gloss": "nebilik ediyorlar"
     },
     {
       "surface": "בשמי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "מתנבאים",
-      "gloss": "peygamberlik ediyorlar"
+      "gloss": "nebilik ediyorlar"
     },
     {
       "surface": "לכם",
@@ -101,5 +101,14 @@
     }
   ],
   "timestamp": "2026-08-19T10:09:06.245274596Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamberler": "Nebiler",
+      "peygamberlik": "nebilik",
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve dedi: Çıkıp onun bütün peygamberlerinin ağzında yalan ruhu olacağım. Ve ⟨Yahve⟩ dedi: Kandırabilir misin? Evet, başarabilirsin; çık ve böyle yap.",
+  "translation": "Ve dedi: Çıkıp onun bütün nebilerinin ağzında yalan ruhu olacağım. Ve ⟨Yahve⟩ dedi: Kandırabilir misin? Evet, başarabilirsin; çık ve böyle yap.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נביאיו",
-      "gloss": "onun peygamberlerinin"
+      "gloss": "onun nebilerinin"
     },
     {
       "surface": "ויאמר",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:06:16.023880455Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerinin": "nebilerinin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

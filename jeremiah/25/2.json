@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 25,
-  "translation": "ki Yirmiyahu peygamber bütün Yehuda halkına ve Yeruşalayim'in bütün sakinlerine konuştu, şöyle:",
+  "translation": "ki Yirmiyahu nebi bütün Yehuda halkına ve Yeruşalayim'in bütün sakinlerine konuştu, şöyle:",
   "tokens": [
     {
       "surface": "אשר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "על",
-      "gloss": "hakkında\/üzerine"
+      "gloss": "hakkında/üzerine"
     },
     {
       "surface": "כל",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:11:37.529734271Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 50,
-  "translation": "Söz ki Yahve'nin konuştuğu Babil üzerine, Kaşdimler ülkesi üzerine, peygamber Yirmiyahu'nun eliyle:",
+  "translation": "Söz ki Yahve'nin konuştuğu Babil üzerine, Kaşdimler ülkesi üzerine, nebi Yirmiyahu'nun eliyle:",
   "tokens": [
     {
       "surface": "הדבר",
@@ -53,9 +53,16 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     }
   ],
   "timestamp": "2026-08-19T10:21:20.893915172Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Ve Yeruşalayim'in peygamberlerinde korkunç bir şey gördüm: zina etmek ve yalan yürüyüşü; kötülerin ellerini güçlendirirler, hiç kimse kötülüğünden dönmüş olmasın diye. Hepsi bana Sedom gibi, onun sakinleri Amora gibi oldular.",
+  "translation": "Ve Yeruşalayim'in nebilerinde korkunç bir şey gördüm: zina etmek ve yalan yürüyüşü; kötülerin ellerini güçlendirirler, hiç kimse kötülüğünden dönmüş olmasın diye. Hepsi bana Sedom gibi, onun sakinleri Amora gibi oldular.",
   "tokens": [
     {
       "surface": "ובנבאי",
-      "gloss": "ve ... peygamberlerinde"
+      "gloss": "ve ... nebilerinde"
     },
     {
       "surface": "ירושלם",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:11:26.041749128Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerinde": "nebilerinde"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

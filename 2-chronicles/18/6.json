@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Yehoşafat dedi: «Burada Yahve'ye ⟨⟨ait⟩⟩ bir peygamber daha yok mu — ⟨את⟩ O'ndan soralım?»",
+  "translation": "Yehoşafat dedi: «Burada Yahve'ye ⟨⟨ait⟩⟩ bir nebi daha yok mu — ⟨את⟩ O'ndan soralım?»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ליהוה",
@@ -46,5 +46,12 @@
     }
   ],
   "timestamp": "2026-08-24T17:16:25.869604759Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

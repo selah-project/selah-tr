@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 25,
-  "translation": "Yedutun'a ait: Yedutun'un oğulları — Gedalyahu, ve Teri, ve Yeşayahu, Haşavyahu ve Mattityahu, altı ⟨kişi⟩; babaları Yedutun'un eli altında; o, Yahve'ye şükran ve övgü ⟨eşliğinde⟩ kinnorla peygamberlik edendi.",
+  "translation": "Yedutun'a ait: Yedutun'un oğulları — Gedalyahu, ve Teri, ve Yeşayahu, Haşavyahu ve Mattityahu, altı ⟨kişi⟩; babaları Yedutun'un eli altında; o, Yahve'ye şükran ve övgü ⟨eşliğinde⟩ kinnorla nebilik edendi.",
   "tokens": [
     {
       "surface": "לידותון",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik eden"
+      "gloss": "nebilik eden"
     },
     {
       "surface": "על",
@@ -85,5 +85,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:01:41.215055647Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

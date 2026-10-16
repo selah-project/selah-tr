@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Onun hüküm sürdüğü birinci yılda ben, Daniel, kitaplarda yılların sayısını anladım — Yahve'nin sözü Yirmiyah peygambere hangi yıllar için gelmişse: Yeruşalayim'in harabelerinin dolması için yetmiş yıl.",
+  "translation": "Onun hüküm sürdüğü birinci yılda ben, Daniel, kitaplarda yılların sayısını anladım — Yahve'nin sözü Yirmiyah nebiye hangi yıllar için gelmişse: Yeruşalayim'in harabelerinin dolması için yetmiş yıl.",
   "tokens": [
     {
       "surface": "בשנת",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygambere"
+      "gloss": "nebiye"
     },
     {
       "surface": "למלאות",
@@ -93,5 +93,12 @@
     }
   ],
   "timestamp": "2026-08-19T11:44:59.416997628Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygambere": "nebiye"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

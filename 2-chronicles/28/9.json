@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Orada Yahve'ye ⟨⟩ bir peygamber vardı, adı Odéd'di; Şomron'a gelen ordunun önüne çıktı ve onlara dedi: İşte, atalarınızın Elohim'i Yahve'nin Yahuda'ya öfkesi yüzünden onları elinize teslim etti; ve onları öyle bir hışımla öldürdünüz ki göklere kadar ulaştı.",
+  "translation": "Orada Yahve'ye ⟨⟩ bir nebi vardı, adı Odéd'di; Şomron'a gelen ordunun önüne çıktı ve onlara dedi: İşte, atalarınızın Elohim'i Yahve'nin Yahuda'ya öfkesi yüzünden onları elinize teslim etti; ve onları öyle bir hışımla öldürdünüz ki göklere kadar ulaştı.",
   "tokens": [
     {
       "surface": "ושם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ליהוה",
@@ -121,5 +121,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:09:15.871105834Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

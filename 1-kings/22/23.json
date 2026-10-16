@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 22,
-  "translation": "Ve şimdi, işte, Yahve şu bütün peygamberlerinin ağzına yalan ruhu koymuştur; ve Yahve senin hakkında kötülük konuşmuştur.",
+  "translation": "Ve şimdi, işte, Yahve şu bütün nebilerinin ağzına yalan ruhu koymuştur; ve Yahve senin hakkında kötülük konuşmuştur.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "peygamberlerinin"
+      "gloss": "nebilerinin"
     },
     {
       "surface": "אלה",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:58.247043097Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerinin": "nebilerinin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

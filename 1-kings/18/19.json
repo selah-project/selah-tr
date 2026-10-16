@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve şimdi gönder, bana ⟨את⟩ bütün İsrail'i toplula Karmel dağına, ve ⟨את⟩ Baal'ın peygamberlerini dört yüz elli, ve Aşera'nın peygamberlerini dört yüz — İzvel'in sofrasını yiyenler.»",
+  "translation": "Ve şimdi gönder, bana ⟨את⟩ bütün İsrail'i toplula Karmel dağına, ve ⟨את⟩ Baal'ın nebilerini dört yüz elli, ve Aşera'nın nebilerini dört yüz — İzvel'in sofrasını yiyenler.»",
   "tokens": [
     {
       "surface": "ועתה",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "peygamberlerini"
+      "gloss": "nebilerini"
     },
     {
       "surface": "הבעל",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ונביאי",
-      "gloss": "ve peygamberleri"
+      "gloss": "ve nebileri"
     },
     {
       "surface": "האשרה",
@@ -103,5 +103,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:05.068079386Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerini": "nebilerini",
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

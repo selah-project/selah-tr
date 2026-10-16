@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "tr",
   "chapter": 5,
-  "translation": "O zaman Hagay peygamber ve Zekaryah bar İddo peygamber, Yahuda'da ve Yeruşalayim'de olan Yahudilere, İsrail'in Elohim'i'nin adıyla onların üzerine peygamberlik ettiler.",
+  "translation": "O zaman Hagay nebi ve Zekaryah bar İddo nebi, Yahuda'da ve Yeruşalayim'de olan Yahudilere, İsrail'in Elohim'i'nin adıyla onların üzerine nebilik ettiler.",
   "tokens": [
     {
       "surface": "והתנבי",
-      "gloss": "peygamberlik ettiler"
+      "gloss": "nebilik ettiler"
     },
     {
       "surface": "חגי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביאה",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "וזכריה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נביאיא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "על",
@@ -73,5 +73,13 @@
     }
   ],
   "timestamp": "2026-08-19T11:47:10.376945136Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

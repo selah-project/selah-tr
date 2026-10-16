@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 16,
-  "translation": "Yahve'nin sözü, Hanani oğlu peygamber Yehu'nun eli ile de Başa'ya ve ⟨onun⟩ evine geldi — Yahve'nin gözünde yaptığı bütün kötülük üzerine, eserleriyle O'nu öfkelendirerek Yarovam'ın evi gibi olması, ve onu vurmuş olduğu şey üzerine de.",
+  "translation": "Yahve'nin sözü, Hanani oğlu nebi Yehu'nun eli ile de Başa'ya ve ⟨onun⟩ evine geldi — Yahve'nin gözünde yaptığı bütün kötülük üzerine, eserleriyle O'nu öfkelendirerek Yarovam'ın evi gibi olması, ve onu vurmuş olduğu şey üzerine de.",
   "tokens": [
     {
       "surface": "וגם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "דבר",
@@ -130,5 +130,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:40:42.138944288Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

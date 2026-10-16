@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 26,
-  "translation": "Ve ayrıca bir adam Yahve'nin adıyla peygamberlik ediyordu: Uriyahu, Şema'yahu oğlu, Kiryat-Ye'arim'den; ve bu şehir üzerine ve bu yer üzerine, Yirmeyahu'nun bütün sözleri gibi peygamberlik etti.",
+  "translation": "Ve ayrıca bir adam Yahve'nin adıyla nebilik ediyordu: Uriyahu, Şema'yahu oğlu, Kiryat-Ye'arim'den; ve bu şehir üzerine ve bu yer üzerine, Yirmeyahu'nun bütün sözleri gibi nebilik etti.",
   "tokens": [
     {
       "surface": "וגם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מתנבא",
-      "gloss": "peygamberlik ediyordu"
+      "gloss": "nebilik ediyordu"
     },
     {
       "surface": "בשם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וינבא",
-      "gloss": "ve peygamberlik etti"
+      "gloss": "ve nebilik etti"
     },
     {
       "surface": "על",
@@ -93,5 +93,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:25.272838779Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

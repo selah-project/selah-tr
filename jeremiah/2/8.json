@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Kohanimler 'Yahve nerede?' demediler ve Torah'ı tutanlar beni bilmediler; çobanlar bana karşı isyan ettiler ve nebiiler Baal adına peygamberlik ettiler ve yaramayan şeylerin ardından yürüdüler.",
+  "translation": "Kohanimler 'Yahve nerede?' demediler ve Torah'ı tutanlar beni bilmediler; çobanlar bana karşı isyan ettiler ve nebiiler Baal adına nebilik ettiler ve yaramayan şeylerin ardından yürüdüler.",
   "tokens": [
     {
       "surface": "הכהנים",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "נבאו",
-      "gloss": "peygamberlik ettiler"
+      "gloss": "nebilik ettiler"
     },
     {
       "surface": "בבעל",
@@ -85,5 +85,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:05:26.077447629Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

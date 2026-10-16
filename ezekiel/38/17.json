@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 38,
-  "translation": "Böyle söyledi Adonay Yahve: Sen misin ⟨o⟩, eski günlerde kullarımın, Yisra'el peygamberlerinin eliyle sözünü ettiğim — o günlerde, yıllarca peygamberlik ederek seni ⟨את⟩ onların üzerine getireceğimi bildiren?",
+  "translation": "Böyle söyledi Adonay Yahve: Sen misin ⟨o⟩, eski günlerde kullarımın, Yisra'el nebilerinin eliyle sözünü ettiğim — o günlerde, yıllarca nebilik ederek seni ⟨את⟩ onların üzerine getireceğimi bildiren?",
   "tokens": [
     {
       "surface": "כה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "peygamberlerinin"
+      "gloss": "nebilerinin"
     },
     {
       "surface": "ישראל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberlik edenler"
+      "gloss": "nebilik edenler"
     },
     {
       "surface": "בימים",
@@ -94,5 +94,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:36:08.977571350Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerinin": "nebilerinin",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

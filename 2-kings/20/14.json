@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 20,
-  "translation": "O zaman Yeşayahu peygamber kral Hizkiyahu'nun yanına geldi ve ona dedi: Bu adamlar ne söylediler ve nereden geldiler sana? Hizkiyahu da dedi: Uzak bir ülkeden geldiler, Babil'den.",
+  "translation": "O zaman Yeşayahu nebi kral Hizkiyahu'nun yanına geldi ve ona dedi: Bu adamlar ne söylediler ve nereden geldiler sana? Hizkiyahu da dedi: Uzak bir ülkeden geldiler, Babil'den.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אל",
@@ -93,5 +93,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:49:26.105883191Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

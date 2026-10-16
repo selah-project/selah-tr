@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 38,
-  "translation": "Bu nedenle peygamberlik et, insan-oğlu, ve Goğ'a de: Şöyle diyor Adonay Yahve: O gün, halkım Yisra'el güven içinde otururken, ⟨sen de⟩ bilmeyecek misin?",
+  "translation": "Bu nedenle nebilik et, insan-oğlu, ve Goğ'a de: Şöyle diyor Adonay Yahve: O gün, halkım Yisra'el güven içinde otururken, ⟨sen de⟩ bilmeyecek misin?",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "בן",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:36:13.775581795Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

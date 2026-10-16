@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Ne zamana kadar ⟨var⟩ yüreklerinde peygamberlerin — yalan peygamberliği yapanların ve yüreklerinin aldatmacasının peygamberlerinin?",
+  "translation": "Ne zamana kadar ⟨var⟩ yüreklerinde nebilerin — yalan nebiliği yapanların ve yüreklerinin aldatmacasının nebilerinin?",
   "tokens": [
     {
       "surface": "עד",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "נבאי",
-      "gloss": "peygamberliği yapanların"
+      "gloss": "nebiliği yapanların"
     },
     {
       "surface": "השקר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ונביאי",
-      "gloss": "ve peygamberlerinin"
+      "gloss": "ve nebilerinin"
     },
     {
       "surface": "תרמת",
@@ -49,5 +49,14 @@
     }
   ],
   "timestamp": "2026-08-19T10:11:10.215365987Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerin": "nebilerin",
+      "peygamberliği": "nebiliği",
+      "peygamberlerinin": "nebilerinin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

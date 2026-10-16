@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 22,
-  "translation": "Onun peygamberlerinin ⟨onun⟩ içinde bir komplosu var; avı parçalayan kükreyen bir aslan gibi can yediler, zenginlik ve değerli şeyleri aldılar; onun dul kadınlarını ⟨onun⟩ içinde çoğalttılar.",
+  "translation": "Onun nebilerinin ⟨onun⟩ içinde bir komplosu var; avı parçalayan kükreyen bir aslan gibi can yediler, zenginlik ve değerli şeyleri aldılar; onun dul kadınlarını ⟨onun⟩ içinde çoğalttılar.",
   "tokens": [
     {
       "surface": "קשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נביאיה",
-      "gloss": "onun peygamberleri"
+      "gloss": "onun nebileri"
     },
     {
       "surface": "בתוכה",
@@ -69,5 +69,13 @@
     }
   ],
   "timestamp": "2026-08-19T12:19:54.124762726Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerinin": "nebilerinin",
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

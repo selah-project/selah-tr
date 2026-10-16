@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Peygamberleri ben göndermedim, ⟨ama⟩ onlar koştular; onlara konuşmadım, ⟨ama⟩ peygamberlik ettiler.",
+  "translation": "Nebileri ben göndermedim, ⟨ama⟩ onlar koştular; onlara konuşmadım, ⟨ama⟩ nebilik ettiler.",
   "tokens": [
     {
       "surface": "לא",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "והם",
@@ -50,9 +50,18 @@
     },
     {
       "surface": "נבאו",
-      "gloss": "peygamberlik ettiler"
+      "gloss": "nebilik ettiler"
     }
   ],
   "timestamp": "2026-08-19T10:10:54.205039779Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamberleri": "Nebileri",
+      "peygamberlik": "nebilik",
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

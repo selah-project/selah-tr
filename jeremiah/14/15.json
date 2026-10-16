@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Bu yüzden thus Yahve diyor — adımla peygamberlik eden, benim göndermediğim peygamberler hakkında, ki onlar \"Kılıç ve kıtlık olmayacak bu ülkede\" diyorlar: Kılıçla ve kıtlıkla yok edilecekler o peygamberler.",
+  "translation": "Bu yüzden thus Yahve diyor — adımla nebilik eden, benim göndermediğim nebiler hakkında, ki onlar \"Kılıç ve kıtlık olmayacak bu ülkede\" diyorlar: Kılıçla ve kıtlıkla yok edilecekler o nebiler.",
   "tokens": [
     {
       "surface": "לכן",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberlik eden"
+      "gloss": "nebilik eden"
     },
     {
       "surface": "בשמי",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "ההמה",
@@ -105,5 +105,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:09:06.245447607Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik",
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

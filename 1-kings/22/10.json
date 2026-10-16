@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 22,
-  "translation": "İsrail kralı ile Yahuda kralı Yehoşafat, her biri kendi tahtında, giysilerini kuşanmış halde, Şomron kapısının girişindeki harman yerinde oturuyorlardı; bütün peygamberler de önlerinde peygamberlik ediyorlardı.",
+  "translation": "İsrail kralı ile Yahuda kralı Yehoşafat, her biri kendi tahtında, giysilerini kuşanmış halde, Şomron kapısının girişindeki harman yerinde oturuyorlardı; bütün nebiler de önlerinde nebilik ediyorlardı.",
   "tokens": [
     {
       "surface": "ומלך",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "מתנבאים",
-      "gloss": "peygamberlik ediyorlardı"
+      "gloss": "nebilik ediyorlardı"
     },
     {
       "surface": "לפניהם",
@@ -85,5 +85,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:43:28.542362948Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Ve Yahve beni sürünün ardından aldı, ve Yahve bana dedi: Git, kavmim İsrail'e peygamberlik et.",
+  "translation": "Ve Yahve beni sürünün ardından aldı, ve Yahve bana dedi: Git, kavmim İsrail'e nebilik et.",
   "tokens": [
     {
       "surface": "ויקחני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "אל",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:42:27.678449380Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

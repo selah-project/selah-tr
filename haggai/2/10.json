@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Daryavuş'un ikinci yılında, dokuzuncu ayın yirmi dördünde, Haggay peygambere Yahve'nin sözü geldi, diye:",
+  "translation": "Daryavuş'un ikinci yılında, dokuzuncu ayın yirmi dördünde, Haggay nebiye Yahve'nin sözü geldi, diye:",
   "tokens": [
     {
       "surface": "בעשרים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "לאמר",
@@ -61,5 +61,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:48:04.506460537Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygambere": "nebiye",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

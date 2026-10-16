@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 23,
-  "translation": "Dedi: Onu bırakın, kimse kemiklerini kıpırdatmasın. Böylece kemikleri, Şomron'dan gelen peygamberin ⟨את⟩ kemikleriyle birlikte kurtuldular.",
+  "translation": "Dedi: Onu bırakın, kimse kemiklerini kıpırdatmasın. Böylece kemikleri, Şomron'dan gelen nebinin ⟨את⟩ kemikleriyle birlikte kurtuldular.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamberin"
+      "gloss": "nebinin"
     },
     {
       "surface": "אשר",
@@ -70,5 +70,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:50:43.888884646Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

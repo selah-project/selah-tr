@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 36,
-  "translation": "Ve Elohim'in elçileriyle alay ettiler, sözlerini hor gördüler ve peygamberleriyle eğlendiler; ta ki Yahve'nin öfkesi halkının üzerine yükselinceye dek, şifa kalmayıncaya dek.",
+  "translation": "Ve Elohim'in elçileriyle alay ettiler, sözlerini hor gördüler ve nebileriyle eğlendiler; ta ki Yahve'nin öfkesi halkının üzerine yükselinceye dek, şifa kalmayıncaya dek.",
   "tokens": [
     {
       "surface": "ויהיו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בנבאיו",
-      "gloss": "peygamberleriyle"
+      "gloss": "nebileriyle"
     },
     {
       "surface": "עד",
@@ -73,5 +73,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:26:54.253770998Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleriyle": "nebileriyle"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tr",
   "chapter": 7,
-  "translation": "Kral peygamber Natana şöyle dedi: Gör şimdi, ben sedir ağacından bir evde oturuyorum, ama Elohim'in sandığı perdenin ortasında oturuyor.",
+  "translation": "Kral nebi Natana şöyle dedi: Gör şimdi, ben sedir ağacından bir evde oturuyorum, ama Elohim'in sandığı perdenin ortasında oturuyor.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ראה",
@@ -73,5 +73,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:29:53.975730778Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

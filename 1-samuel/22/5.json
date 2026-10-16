@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 22,
-  "translation": "Ve Gad peygamber Dávid'e dedi: Mağarada oturma; git, kendin için Yehuda toprağına gir. Ve Dávid gitti ve Hareth ormanına geldi.",
+  "translation": "Ve Gad nebi Dávid'e dedi: Mağarada oturma; git, kendin için Yehuda toprağına gir. Ve Dávid gitti ve Hareth ormanına geldi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אל",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:26:39.108158194Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

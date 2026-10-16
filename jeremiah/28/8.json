@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Benden önce ve senden önce olan peygamberler, önceden beri, çok ülkeye ve büyük krallıklara karşı — savaş, kötülük ve salgın için — peygamberlik ettiler.",
+  "translation": "Benden önce ve senden önce olan nebiler, önceden beri, çok ülkeye ve büyük krallıklara karşı — savaş, kötülük ve salgın için — nebilik ettiler.",
   "tokens": [
     {
       "surface": "הנביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וינבאו",
-      "gloss": "ve peygamberlik ettiler"
+      "gloss": "ve nebilik ettiler"
     },
     {
       "surface": "אל",
@@ -77,5 +77,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:46.951111521Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

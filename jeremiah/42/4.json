@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 42,
-  "translation": "Ve Yirmiyahu peygamber onlara dedi: Duydum; işte, sizin Elohim'iniz Yahve'ye sözlerinizce dua ediyorum; ve olacak: Yahve'nin size ⟨את⟩ yanıtlayacağı bütün sözü size bildireceğim — sizden bir ⟨söz⟩ esirgemeyeceğim.",
+  "translation": "Ve Yirmiyahu nebi onlara dedi: Duydum; işte, sizin Elohim'iniz Yahve'ye sözlerinizce dua ediyorum; ve olacak: Yahve'nin size ⟨את⟩ yanıtlayacağı bütün sözü size bildireceğim — sizden bir ⟨söz⟩ esirgemeyeceğim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "שמעתי",
@@ -106,5 +106,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:19:40.967690011Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

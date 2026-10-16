@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 34,
-  "translation": "Ve Yirmeyahu peygamber, Çidkiyahu, Yahuda kralına, ⟨את⟩ bütün bu sözleri Yeruşalayim'de söyledi.",
+  "translation": "Ve Yirmeyahu nebi, Çidkiyahu, Yahuda kralına, ⟨את⟩ bütün bu sözleri Yeruşalayim'de söyledi.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אל",
@@ -58,5 +58,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:19:01.039134425Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

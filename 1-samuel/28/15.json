@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Ve Şemuel Şaul'e dedi: Neden beni rahatsız ettin, ⟨את⟩ beni yükseltmek için? Ve Şaul dedi: Bana çok sıkıntı var; Peleştimler bana karşı savaşıyor; ve Elohim benden yüz çevirdi ve bana artık cevap vermiyor — ne peygamberler eliyle, ne rüyalarla; ve seni çağırdım, bana bildirmen için ne yapacağımı.",
+  "translation": "Ve Şemuel Şaul'e dedi: Neden beni rahatsız ettin, ⟨את⟩ beni yükseltmek için? Ve Şaul dedi: Bana çok sıkıntı var; Peleştimler bana karşı savaşıyor; ve Elohim benden yüz çevirdi ve bana artık cevap vermiyor — ne nebiler eliyle, ne rüyalarla; ve seni çağırdım, bana bildirmen için ne yapacağımı.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "הנביאם",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "גם",
@@ -138,5 +138,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:27:56.342664130Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

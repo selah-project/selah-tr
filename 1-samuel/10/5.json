@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 10,
-  "translation": "Bundan sonra Elohim'in tepesine geleceksin — orada Filiştîliler'in karakolları var — ve şehre vardığında orada, yüksek yerden inen bir peygamberler topluluğuyla karşılaşacaksın; önlerinde nefel, tef, flüt ve kinor; ve ⟨onlar⟩ peygamberlik ediyor olacaklar.",
+  "translation": "Bundan sonra Elohim'in tepesine geleceksin — orada Filiştîliler'in karakolları var — ve şehre vardığında orada, yüksek yerden inen bir nebiler topluluğuyla karşılaşacaksın; önlerinde nefel, tef, flüt ve kinor; ve ⟨onlar⟩ nebilik ediyor olacaklar.",
   "tokens": [
     {
       "surface": "אחר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "נביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "ירדים",
@@ -105,9 +105,17 @@
     },
     {
       "surface": "מתנבאים",
-      "gloss": "peygamberlik ediyor olacaklar"
+      "gloss": "nebilik ediyor olacaklar"
     }
   ],
   "timestamp": "2026-08-19T09:23:04.097675868Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

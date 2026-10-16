@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "tr",
   "chapter": 5,
-  "translation": "O zaman Zerubavel bar Şealtiel ve Yeşua bar Yotsadak kalktılar ve Yeruşalayim'de olan Elohim'in evini yeniden inşa etmeye başladılar; ve Elohim'in peygamberleri onlarla birlikteydi, onları destekliyorlardı.",
+  "translation": "O zaman Zerubavel bar Şealtiel ve Yeşua bar Yotsadak kalktılar ve Yeruşalayim'de olan Elohim'in evini yeniden inşa etmeye başladılar; ve Elohim'in nebileri onlarla birlikteydi, onları destekliyorlardı.",
   "tokens": [
     {
       "surface": "באדין",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "נביאיא",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "די",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-19T11:47:10.377214052Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

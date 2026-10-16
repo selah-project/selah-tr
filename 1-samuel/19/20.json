@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Şaul Davut'u almak için ⟨את⟩ ulaklar gönderdi; ⟨onlar⟩ peygamberler topluluğunu ⟨את⟩ kehanet ederken gördüler ve Şemuël onların üzerinde durarak başlarına dikilmişti; Şaul'un ulaklarının üzerine Elohim'in Ruhu ⟨geldi⟩, onlar da kehanet ettiler.",
+  "translation": "Şaul Davut'u almak için ⟨את⟩ ulaklar gönderdi; ⟨onlar⟩ nebiler topluluğunu ⟨את⟩ kehanet ederken gördüler ve Şemuël onların üzerinde durarak başlarına dikilmişti; Şaul'un ulaklarının üzerine Elohim'in Ruhu ⟨geldi⟩, onlar da kehanet ettiler.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "נבאים",
@@ -107,5 +107,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:25:30.516480370Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

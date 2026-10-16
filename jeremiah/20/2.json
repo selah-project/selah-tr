@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve Pashhur dövdü ⟨את⟩ Yirmeyahu peygamberi ve ⟨את⟩ onu koydu o alt-üst ediciye, ki Benjamin kapısındaydı, ⟨o⟩ üst kapı, ki Yahve'nin evinde ⟨idi⟩.",
+  "translation": "Ve Pashhur dövdü ⟨את⟩ Yirmeyahu nebiyi ve ⟨את⟩ onu koydu o alt-üst ediciye, ki Benjamin kapısındaydı, ⟨o⟩ üst kapı, ki Yahve'nin evinde ⟨idi⟩.",
   "tokens": [
     {
       "surface": "ויכה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ויתן",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "על",
-      "gloss": "üzerine \/ -e"
+      "gloss": "üzerine / -e"
     },
     {
       "surface": "המהפכת",
@@ -75,5 +75,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:10:47.887468510Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberi": "nebiyi",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

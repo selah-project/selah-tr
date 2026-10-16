@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve krala bildirip dediler: ⟨İşte⟩ Natan peygamber. Kralın önüne geldi ve krala yüzü üzerine yere kapanarak secde etti.",
+  "translation": "Ve krala bildirip dediler: ⟨İşte⟩ Natan nebi. Kralın önüne geldi ve krala yüzü üzerine yere kapanarak secde etti.",
   "tokens": [
     {
       "surface": "ויגידו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ויבא",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:35:51.213653731Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

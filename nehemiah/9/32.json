@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 9,
-  "translation": "Ve şimdi, Elohim'imiz, büyük, güçlü ve korkunç El, antlaşmayı ve sadakati koruyan — bütün o sıkıntı ⟨את⟩, ki bize geldi, krallarımıza, önderlerimize, kâhinlerimize, peygamberlerimize, atalarımıza ve bütün halkına, Aşşur krallarının günlerinden bu güne kadar — senin önünde küçük görülmesin.",
+  "translation": "Ve şimdi, Elohim'imiz, büyük, güçlü ve korkunç El, antlaşmayı ve sadakati koruyan — bütün o sıkıntı ⟨את⟩, ki bize geldi, krallarımıza, önderlerimize, kâhinlerimize, nebilerimize, atalarımıza ve bütün halkına, Aşşur krallarının günlerinden bu güne kadar — senin önünde küçük görülmesin.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "ולנביאנו",
-      "gloss": "ve peygamberlerimize"
+      "gloss": "ve nebilerimize"
     },
     {
       "surface": "ולאבתינו",
@@ -130,5 +130,12 @@
     }
   ],
   "timestamp": "2026-08-19T11:51:41.683724278Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerimize": "nebilerimize"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

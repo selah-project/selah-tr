@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Hırsız yakalandığında utandığı gibi, İsrail evi de utandı — onlar, kralları, önderleri, kâhinleri ve peygamberleri.",
+  "translation": "Hırsız yakalandığında utandığı gibi, İsrail evi de utandı — onlar, kralları, önderleri, kâhinleri ve nebileri.",
   "tokens": [
     {
       "surface": "כבשת",
@@ -57,9 +57,16 @@
     },
     {
       "surface": "ונביאיהם",
-      "gloss": "ve peygamberleri"
+      "gloss": "ve nebileri"
     }
   ],
   "timestamp": "2026-08-19T10:05:04.780362324Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

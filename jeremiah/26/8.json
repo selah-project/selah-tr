@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 26,
-  "translation": "Ve olmuştu, Yirmeyahu ⟨את⟩ her şeyi — Yahve'nin ⟨את⟩ bütün halka söylemek üzere buyurduğu her şeyi — söyleyip bitirince, kâhinler, peygamberler ve bütün halk onu ⟨את⟩ ⟨אתו⟩ yakalayıp dediler: «Kesinlikle öleceksin!»",
+  "translation": "Ve olmuştu, Yirmeyahu ⟨את⟩ her şeyi — Yahve'nin ⟨את⟩ bütün halka söylemek üzere buyurduğu her şeyi — söyleyip bitirince, kâhinler, nebiler ve bütün halk onu ⟨את⟩ ⟨אתו⟩ yakalayıp dediler: «Kesinlikle öleceksin!»",
   "tokens": [
     {
       "surface": "ויהי",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "והנבאים",
-      "gloss": "ve peygamberler"
+      "gloss": "ve nebiler"
     },
     {
       "surface": "וכל",
@@ -99,5 +99,12 @@
     }
   ],
   "timestamp": "2026-08-24T17:55:22.548121487Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

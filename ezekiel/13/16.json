@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 13,
-  "translation": "Yeruşalayim'e kehanet eden ve ona esenlik görüsü görüp de esenlik olmayan İsraeil peygamberleri — Adonay Yahve'nin sözü.",
+  "translation": "Yeruşalayim'e kehanet eden ve ona esenlik görüsü görüp de esenlik olmayan İsraeil nebileri — Adonay Yahve'nin sözü.",
   "tokens": [
     {
       "surface": "נביאי",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "ישראל",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:25:58.179075339Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

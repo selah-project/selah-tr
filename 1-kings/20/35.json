@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve peygamberlerin oğullarından bir adam, Yahve'nin sözü ⟨ile⟩ arkadaşına dedi: «Vur beni, lütfen.» Ama adam onu dövmeyi reddetti.",
+  "translation": "Ve nebilerin oğullarından bir adam, Yahve'nin sözü ⟨ile⟩ arkadaşına dedi: «Vur beni, lütfen.» Ama adam onu dövmeyi reddetti.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "אמר",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:43:04.618935039Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

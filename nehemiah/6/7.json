@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve peygamberler de görevlendirdin senin hakkında Yeruşalayim'de seslenmek üzere, şöyle demek için: Yahuda'da ⟨bir⟩ kral var! Ve şimdi krala bildirilecek şu sözlere göre; ve şimdi gel, birlikte danışalım.",
+  "translation": "Ve nebiler de görevlendirdin senin hakkında Yeruşalayim'de seslenmek üzere, şöyle demek için: Yahuda'da ⟨bir⟩ kral var! Ve şimdi krala bildirilecek şu sözlere göre; ve şimdi gel, birlikte danışalım.",
   "tokens": [
     {
       "surface": "וגם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "העמדת",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-19T11:50:05.986778105Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

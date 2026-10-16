@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Bu yüzden size gece olacak, görü olmaksızın; ve karanlık size olacak, falcılık olmaksızın; ve güneş peygamberlerin üzerine batacak, ve gün onların üzerinde kararacak.",
+  "translation": "Bu yüzden size gece olacak, görü olmaksızın; ve karanlık size olacak, falcılık olmaksızın; ve güneş nebilerin üzerine batacak, ve gün onların üzerinde kararacak.",
   "tokens": [
     {
       "surface": "לכן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "וקדר",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:44:29.258018892Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

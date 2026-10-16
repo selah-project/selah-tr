@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 47,
-  "translation": "YirmeYahu peygamberine Peliştiler hakkında, Peró Firavun Gazze'yi ⟨את⟩ vurmadan önce Yahve'den gelen söz: bu oldu.",
+  "translation": "YirmeYahu nebisine Peliştiler hakkında, Peró Firavun Gazze'yi ⟨את⟩ vurmadan önce Yahve'den gelen söz: bu oldu.",
   "tokens": [
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אל",
@@ -66,5 +66,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:20:57.117355524Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberine": "nebisine",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

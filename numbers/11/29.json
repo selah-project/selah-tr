@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve Moşe ona dedi: Benim için mi kıskançlık ediyorsun? Keşke bütün Yahve halkı peygamber olsaydı ve Yahve ⟨את⟩ Ruhunu onların üzerine koysaydı!",
+  "translation": "Ve Moşe ona dedi: Benim için mi kıskançlık ediyorsun? Keşke bütün Yahve halkı nebi olsaydı ve Yahve ⟨את⟩ Ruhunu onların üzerine koysaydı!",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "נביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "כי",
@@ -82,5 +82,13 @@
     }
   ],
   "timestamp": "2026-08-19T07:36:37.310566714Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 26,
-  "translation": "Ve kâhinler ve peygamberler önderlere ve bütün halka söyleyip dediler: Bu adam için ölüm hükmü (gerektir), çünkü bu şehre karşı peygamberlik etti, kendi kulaklarınızla işittiğiniz gibi.",
+  "translation": "Ve kâhinler ve nebiler önderlere ve bütün halka söyleyip dediler: Bu adam için ölüm hükmü (gerektir), çünkü bu şehre karşı nebilik etti, kendi kulaklarınızla işittiğiniz gibi.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והנבאים",
-      "gloss": "ve peygamberler"
+      "gloss": "ve nebiler"
     },
     {
       "surface": "אל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "peygamberlik etti"
+      "gloss": "nebilik etti"
     },
     {
       "surface": "אל",
@@ -93,5 +93,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:12:30.805390563Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

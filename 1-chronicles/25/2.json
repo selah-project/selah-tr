@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tr",
   "chapter": 25,
-  "translation": "Asaf'ın oğullarına ait: Zakkur, ve Yosef, ve Netanya, ve Aşarela — Asaf'ın oğulları, Asaf'ın eli altında; o, kralın eli altında peygamberlik eden ⟨peygamberdi⟩.",
+  "translation": "Asaf'ın oğullarına ait: Zakkur, ve Yosef, ve Netanya, ve Aşarela — Asaf'ın oğulları, Asaf'ın eli altında; o, kralın eli altında nebilik eden ⟨nebiydi⟩.",
   "tokens": [
     {
       "surface": "לבני",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik eden"
+      "gloss": "nebilik eden"
     },
     {
       "surface": "על",
@@ -69,5 +69,13 @@
     }
   ],
   "timestamp": "2026-08-19T12:01:41.214894842Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik",
+      "peygamberdi": "nebiydi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

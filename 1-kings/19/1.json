@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 19,
-  "translation": "Ahab, İzevel'e Eliyahu'nun yaptığı her şeyi ve bütün peygamberleri kılıçla nasıl öldürdüğünü — ⟨את⟩ her şeyi ve ⟨את⟩ her şeyi, bütün peygamberleri ⟨את⟩ kılıçla öldürmesini — haber verdi.",
+  "translation": "Ahab, İzevel'e Eliyahu'nun yaptığı her şeyi ve bütün nebileri kılıçla nasıl öldürdüğünü — ⟨את⟩ her şeyi ve ⟨את⟩ her şeyi, bütün nebileri ⟨את⟩ kılıçla öldürmesini — haber verdi.",
   "tokens": [
     {
       "surface": "ויגד",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "בחרב",
@@ -76,5 +76,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:16:38.348740469Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

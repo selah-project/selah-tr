@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tr",
   "chapter": 18,
-  "translation": "Ve bütün peygamberler aynı şekilde peygamberlik ediyorlardı, şöyle diyerek: Ramot-Gilad'a çık, başarılı ol; ve Yahve onu kralın eline verecek.",
+  "translation": "Ve bütün nebiler aynı şekilde nebilik ediyorlardı, şöyle diyerek: Ramot-Gilad'a çık, başarılı ol; ve Yahve onu kralın eline verecek.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "נבאים",
-      "gloss": "peygamberlik ediyorlardı"
+      "gloss": "nebilik ediyorlardı"
     },
     {
       "surface": "כן",
@@ -61,5 +61,13 @@
     }
   ],
   "timestamp": "2026-08-19T12:06:19.524595488Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler",
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

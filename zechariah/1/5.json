@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Atalarınız — nerede onlar? Ve peygamberler — sonsuza dek mi yaşayacaklar?",
+  "translation": "Atalarınız — nerede onlar? Ve nebiler — sonsuza dek mi yaşayacaklar?",
   "tokens": [
     {
       "surface": "אבותיכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והנבאים",
-      "gloss": "ve peygamberler"
+      "gloss": "ve nebiler"
     },
     {
       "surface": "הלעולם",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:48:01.937216523Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

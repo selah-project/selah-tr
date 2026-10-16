@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 11,
-  "translation": "Ve o zamanda oldu: Yarovam Yeruşalayim'den çıktı, ve onu ⟨את⟩ Şilo'lu Ahiya peygamber yolda buldu — o ise yeni bir başörtüsüyle örtünüyordu — ve ikisi tarlada yalnız başınaydılar.",
+  "translation": "Ve o zamanda oldu: Yarovam Yeruşalayim'den çıktı, ve onu ⟨את⟩ Şilo'lu Ahiya nebi yolda buldu — o ise yeni bir başörtüsüyle örtünüyordu — ve ikisi tarlada yalnız başınaydılar.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "בדרך",
@@ -86,5 +86,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:40:01.132179308Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

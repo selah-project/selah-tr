@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve Yahve'nin sözü Haggay peygamberin eli ile şöyle diyerek ⟨geldi⟩:",
+  "translation": "Ve Yahve'nin sözü Haggay nebinin eli ile şöyle diyerek ⟨geldi⟩:",
   "tokens": [
     {
       "surface": "ויהי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "לאמר",
@@ -37,5 +37,13 @@
     }
   ],
   "timestamp": "2026-08-19T10:47:07.683757132Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

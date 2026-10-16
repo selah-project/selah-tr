@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 14,
-  "translation": "Yarovam karısına dedi: Kalk ⟨lütfen⟩, kendini değiştir de senin Yarovam'ın karısı olduğun bilinmesin; ve Şilo'ya git — işte orada Ahiya peygamber ⟨var⟩; bu halkın üzerine kral olmamı bana o söyledi.",
+  "translation": "Yarovam karısına dedi: Kalk ⟨lütfen⟩, kendini değiştir de senin Yarovam'ın karısı olduğun bilinmesin; ve Şilo'ya git — işte orada Ahiya nebi ⟨var⟩; bu halkın üzerine kral olmamı bana o söyledi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והלכת",
-      "gloss": "ve gittin \/ git"
+      "gloss": "ve gittin / git"
     },
     {
       "surface": "שלה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "הוא",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "עלי",
-      "gloss": "bana dair \/ hakkımda"
+      "gloss": "bana dair / hakkımda"
     },
     {
       "surface": "למלך",
@@ -109,5 +109,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:40:51.689767318Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

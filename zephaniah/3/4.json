@@ -5,15 +5,15 @@
   "book": "zephaniah",
   "lang": "tr",
   "chapter": 3,
-  "translation": "Onun peygamberleri şımarık, hainlik adamlarıdır; onun kâhinleri kutsalı kirlettiler, Torah'a şiddet uyguladılar.",
+  "translation": "Onun nebileri şımarık, hainlik adamlarıdır; onun kâhinleri kutsalı kirlettiler, Torah'a şiddet uyguladılar.",
   "tokens": [
     {
       "surface": "נביאיה",
-      "gloss": "onun peygamberleri"
+      "gloss": "onun nebileri"
     },
     {
       "surface": "פחזים",
-      "gloss": "şımarık\/kaynayan"
+      "gloss": "şımarık/kaynayan"
     },
     {
       "surface": "אנשי",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:46:30.825124463Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

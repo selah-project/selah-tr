@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 30,
-  "translation": "İnsanoğlu, peygamberlik et ve de ki: Adonay Yahve şöyle diyor: Uluyun, ah, o gün için!",
+  "translation": "İnsanoğlu, nebilik et ve de ki: Adonay Yahve şöyle diyor: Uluyun, ah, o gün için!",
   "tokens": [
     {
       "surface": "בן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "ואמרת",
@@ -53,5 +53,12 @@
     }
   ],
   "timestamp": "2026-08-19T12:19:47.188790473Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

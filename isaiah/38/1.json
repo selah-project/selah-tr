@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 38,
-  "translation": "O günlerde Hizkiyahu ölmek üzere hastalandı ve ona Yeşayahu oğlu Amots peygamber geldi ve ona şöyle dedi: Böyle dedi Yahve, evine vasiyet et, çünkü ölüyorsun ve yaşamayacaksın.",
+  "translation": "O günlerde Hizkiyahu ölmek üzere hastalandı ve ona Yeşayahu oğlu Amots nebi geldi ve ona şöyle dedi: Böyle dedi Yahve, evine vasiyet et, çünkü ölüyorsun ve yaşamayacaksın.",
   "tokens": [
     {
       "surface": "בימים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "⟨peygamber⟩"
+      "gloss": "⟨nebi⟩"
     },
     {
       "surface": "ויאמר",
@@ -101,5 +101,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:58:26.981313837Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

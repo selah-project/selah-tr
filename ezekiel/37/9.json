@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tr",
   "chapter": 37,
-  "translation": "Ve bana dedi: Ruh'a peygamberlik et, insanoğlu, peygamberlik et ve ruha de: Böyle dedi Adonay Yahve: Dört rüzgârdan gel, ey ruh, ve öldürülmüş olanların üzerine üfle, ve yaşasınlar.",
+  "translation": "Ve bana dedi: Ruh'a nebilik et, insanoğlu, nebilik et ve ruha de: Böyle dedi Adonay Yahve: Dört rüzgârdan gel, ey ruh, ve öldürülmüş olanların üzerine üfle, ve yaşasınlar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "peygamberlik et"
+      "gloss": "nebilik et"
     },
     {
       "surface": "בן",
@@ -101,5 +101,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:34:46.045339048Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlik": "nebilik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

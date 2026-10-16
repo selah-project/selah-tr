@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 2,
-  "translation": "Peygamberlerin oğullarından elli adam yürüdüler ve karşı tarafta uzakta durdular; ikisi de Yardön kıyısında durdular.",
+  "translation": "Nebilerin oğullarından elli adam yürüdüler ve karşı tarafta uzakta durdular; ikisi de Yardön kıyısında durdular.",
   "tokens": [
     {
       "surface": "וחמשים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberlerin"
+      "gloss": "nebilerin"
     },
     {
       "surface": "הלכו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "על",
-      "gloss": "…-de\/kıyısında"
+      "gloss": "…-de/kıyısında"
     },
     {
       "surface": "הירדן",
@@ -57,5 +57,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:44:51.998929684Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Peygamberlerin": "Nebilerin",
+      "peygamberlerin": "nebilerin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

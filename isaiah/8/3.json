@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tr",
   "chapter": 8,
-  "translation": "Ve peygamber kadına yaklaştım; hamile kaldı ve bir oğul doğurdu. Ve Yahve bana dedi: Adını Maher-Şalal-Haş-Baz çağır.",
+  "translation": "Ve nebi kadına yaklaştım; hamile kaldı ve bir oğul doğurdu. Ve Yahve bana dedi: Adını Maher-Şalal-Haş-Baz çağır.",
   "tokens": [
     {
       "surface": "ואקרב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביאה",
-      "gloss": "peygamber kadın"
+      "gloss": "nebi kadın"
     },
     {
       "surface": "ותהר",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:52:29.271959444Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tr",
   "chapter": 21,
-  "translation": "Ve Yahve kulları peygamberlerin eliyle konuşarak şöyle dedi:",
+  "translation": "Ve Yahve kulları nebilerin eliyle konuşarak şöyle dedi:",
   "tokens": [
     {
       "surface": "וידבר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberler"
+      "gloss": "nebiler"
     },
     {
       "surface": "לאמר",
@@ -33,5 +33,13 @@
     }
   ],
   "timestamp": "2026-08-19T09:49:21.430748382Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberlerin": "nebilerin",
+      "peygamberler": "nebiler"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

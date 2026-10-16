@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "tr",
   "chapter": 6,
-  "translation": "Ve Yahuda ihtiyarları inşa ettiler ve başarılı oldular, Haggay peygamberin ve İddo oğlu Zekaryah'ın peygamberliği aracılığıyla; ve inşa ettiler ve tamamladılar, İsrail'in Elohi'nin buyruğuna göre ve Koresh'in, Dareyoş'un ve Fars kralı Artahşastanın buyruğuna göre.",
+  "translation": "Ve Yahuda ihtiyarları inşa ettiler ve başarılı oldular, Haggay nebinin ve İddo oğlu Zekaryah'ın nebiliği aracılığıyla; ve inşa ettiler ve tamamladılar, İsrail'in Elohi'nin buyruğuna göre ve Koresh'in, Dareyoş'un ve Fars kralı Artahşastanın buyruğuna göre.",
   "tokens": [
     {
       "surface": "ושבי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בנבואת",
-      "gloss": "peygamberliği aracılığıyla"
+      "gloss": "nebiliği aracılığıyla"
     },
     {
       "surface": "חגי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נביאה",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "וזכריה",
@@ -97,5 +97,14 @@
     }
   ],
   "timestamp": "2026-08-19T11:48:16.843918047Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberin": "nebinin",
+      "peygamberliği": "nebiliği",
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

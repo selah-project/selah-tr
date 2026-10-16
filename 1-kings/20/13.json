@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 20,
-  "translation": "Ve işte bir peygamber Ahav'a, İsrail kralına yaklaştı ve dedi: Böyle dedi Yahve: Gördün mü ⟨את⟩ bütün bu büyük kalabalığı? İşte onu bugün eline veriyorum ve bileceksin ki ben Yahve'yim.",
+  "translation": "Ve işte bir nebi Ahav'a, İsrail kralına yaklaştı ve dedi: Böyle dedi Yahve: Gördün mü ⟨את⟩ bütün bu büyük kalabalığı? İşte onu bugün eline veriyorum ve bileceksin ki ben Yahve'yim.",
   "tokens": [
     {
       "surface": "והנה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "bir peygamber"
+      "gloss": "bir nebi"
     },
     {
       "surface": "אחד",
@@ -114,5 +114,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:42:31.754147994Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

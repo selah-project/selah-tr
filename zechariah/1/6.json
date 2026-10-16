@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ama sözlerim ve kurallarım — ki buyurdum ⟨את⟩ kullarım peygamberleri — babalarınızı yakalamadı mı? Ve döndüler ve dediler: Yahve Şevaot'nun bize yapmayı tasarladığı gibi, yollarımıza ve işlerimize göre, öyle yaptı ⟨את⟩ bizimle.",
+  "translation": "Ama sözlerim ve kurallarım — ki buyurdum ⟨את⟩ kullarım nebileri — babalarınızı yakalamadı mı? Ve döndüler ve dediler: Yahve Şevaot'nun bize yapmayı tasarladığı gibi, yollarımıza ve işlerimize göre, öyle yaptı ⟨את⟩ bizimle.",
   "tokens": [
     {
       "surface": "אך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "peygamberleri"
+      "gloss": "nebileri"
     },
     {
       "surface": "הלוא",
@@ -106,5 +106,12 @@
     }
   ],
   "timestamp": "2026-08-19T10:48:01.937497714Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamberleri": "nebileri"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

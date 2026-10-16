@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tr",
   "chapter": 1,
-  "translation": "Ve ⟨את⟩ peygamber Natan'ı, Benayahu'yu, ⟨את⟩ güçlü adamları ve ⟨את⟩ kardeşi Şelomo'yu çağırmadı.",
+  "translation": "Ve ⟨את⟩ nebi Natan'ı, Benayahu'yu, ⟨את⟩ güçlü adamları ve ⟨את⟩ kardeşi Şelomo'yu çağırmadı.",
   "tokens": [
     {
       "surface": "ואת",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "ובניהו",
@@ -56,5 +56,12 @@
     }
   ],
   "timestamp": "2026-08-19T09:35:47.828222561Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

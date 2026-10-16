@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tr",
   "chapter": 28,
-  "translation": "Barışı haber veren peygamber — söz gerçekleştiğinde, o peygamber tanınacaktır: onu Yahve ⟨gerçekten⟩ gönderdi.",
+  "translation": "Barışı haber veren nebi — söz gerçekleştiğinde, o nebi tanınacaktır: onu Yahve ⟨gerçekten⟩ gönderdi.",
   "tokens": [
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ינבא",
-      "gloss": "peygamberlik eder"
+      "gloss": "nebilik eder"
     },
     {
       "surface": "לשלום",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamberin"
+      "gloss": "nebinin"
     },
     {
       "surface": "יודע",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "peygamber"
+      "gloss": "nebi"
     },
     {
       "surface": "אשר",
@@ -61,5 +61,14 @@
     }
   ],
   "timestamp": "2026-08-19T10:11:58.537226587Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "peygamber": "nebi",
+      "peygamberlik": "nebilik",
+      "peygamberin": "nebinin"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }
