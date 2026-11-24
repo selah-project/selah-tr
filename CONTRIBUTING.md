@@ -12,7 +12,7 @@ olandan ayırın.
   değilseniz **Issue** açın.
 - Hem hata hem düzeltme açıksa **Pull request** açın.
 - Yazılım sorunları ya da güvenlik/hesap/gizlilik konuları için
-  [Selah Support](https://selahproject.com/support) kullanın.
+  [Selah Support](https://s33k3r.com/learn/support) kullanın.
 
 ## Neler eklemeli
 
